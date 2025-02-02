@@ -1,0 +1,466 @@
+bip_39_word_dash_1: tide
+bip_39_word_dash_10: tide-hollow-head-false-purpose-domain-reason-opinion-educate-produce
+bip_39_word_dash_11: tide-hollow-head-false-purpose-domain-reason-opinion-educate-produce-aim
+bip_39_word_dash_12: tide-hollow-head-false-purpose-domain-reason-opinion-educate-produce-aim-arrest
+bip_39_word_dash_2: tide-hollow
+bip_39_word_dash_3: tide-hollow-head
+bip_39_word_dash_4: tide-hollow-head-false
+bip_39_word_dash_5: tide-hollow-head-false-purpose
+bip_39_word_dash_6: tide-hollow-head-false-purpose-domain
+bip_39_word_dash_7: tide-hollow-head-false-purpose-domain-reason
+bip_39_word_dash_8: tide-hollow-head-false-purpose-domain-reason-opinion
+bip_39_word_dash_9: tide-hollow-head-false-purpose-domain-reason-opinion-educate
+bip_39_word_new_br_1: tide
+bip_39_word_new_br_10: tide<br>hollow<br>head<br>false<br>purpose<br>domain<br>reason<br>opinion<br>educate<br>produce
+bip_39_word_new_br_11: tide<br>hollow<br>head<br>false<br>purpose<br>domain<br>reason<br>opinion<br>educate<br>produce<br>aim
+bip_39_word_new_br_12: tide<br>hollow<br>head<br>false<br>purpose<br>domain<br>reason<br>opinion<br>educate<br>produce<br>aim<br>arrest
+bip_39_word_new_br_2: tide<br>hollow
+bip_39_word_new_br_3: tide<br>hollow<br>head
+bip_39_word_new_br_4: tide<br>hollow<br>head<br>false
+bip_39_word_new_br_5: tide<br>hollow<br>head<br>false<br>purpose
+bip_39_word_new_br_6: tide<br>hollow<br>head<br>false<br>purpose<br>domain
+bip_39_word_new_br_7: tide<br>hollow<br>head<br>false<br>purpose<br>domain<br>reason
+bip_39_word_new_br_8: tide<br>hollow<br>head<br>false<br>purpose<br>domain<br>reason<br>opinion
+bip_39_word_new_br_9: tide<br>hollow<br>head<br>false<br>purpose<br>domain<br>reason<br>opinion<br>educate
+bip_39_word_new_line_1: tide
+bip_39_word_new_line_10: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain
+
+  reason
+
+  opinion
+
+  educate
+
+  produce'
+bip_39_word_new_line_11: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain
+
+  reason
+
+  opinion
+
+  educate
+
+  produce
+
+  aim'
+bip_39_word_new_line_12: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain
+
+  reason
+
+  opinion
+
+  educate
+
+  produce
+
+  aim
+
+  arrest'
+bip_39_word_new_line_2: 'tide
+
+  hollow'
+bip_39_word_new_line_3: 'tide
+
+  hollow
+
+  head'
+bip_39_word_new_line_4: 'tide
+
+  hollow
+
+  head
+
+  false'
+bip_39_word_new_line_5: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose'
+bip_39_word_new_line_6: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain'
+bip_39_word_new_line_7: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain
+
+  reason'
+bip_39_word_new_line_8: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain
+
+  reason
+
+  opinion'
+bip_39_word_new_line_9: 'tide
+
+  hollow
+
+  head
+
+  false
+
+  purpose
+
+  domain
+
+  reason
+
+  opinion
+
+  educate'
+bip_39_word_no_space_1: tide
+bip_39_word_no_space_10: tidehollowheadfalsepurposedomainreasonopinioneducateproduce
+bip_39_word_no_space_11: tidehollowheadfalsepurposedomainreasonopinioneducateproduceaim
+bip_39_word_no_space_12: tidehollowheadfalsepurposedomainreasonopinioneducateproduceaimarrest
+bip_39_word_no_space_2: tidehollow
+bip_39_word_no_space_3: tidehollowhead
+bip_39_word_no_space_4: tidehollowheadfalse
+bip_39_word_no_space_5: tidehollowheadfalsepurpose
+bip_39_word_no_space_6: tidehollowheadfalsepurposedomain
+bip_39_word_no_space_7: tidehollowheadfalsepurposedomainreason
+bip_39_word_no_space_8: tidehollowheadfalsepurposedomainreasonopinion
+bip_39_word_no_space_9: tidehollowheadfalsepurposedomainreasonopinioneducate
+bip_39_word_space_0:
+- tide
+- hollow
+- head
+- 'false'
+- purpose
+- domain
+- reason
+- opinion
+- educate
+- produce
+- aim
+- arrest
+bip_39_word_space_1: tide
+bip_39_word_space_10: tide hollow head false purpose domain reason opinion educate
+  produce
+bip_39_word_space_11: tide hollow head false purpose domain reason opinion educate
+  produce aim
+bip_39_word_space_12: tide hollow head false purpose domain reason opinion educate
+  produce aim arrest
+bip_39_word_space_2: tide hollow
+bip_39_word_space_3: tide hollow head
+bip_39_word_space_4: tide hollow head false
+bip_39_word_space_5: tide hollow head false purpose
+bip_39_word_space_6: tide hollow head false purpose domain
+bip_39_word_space_7: tide hollow head false purpose domain reason
+bip_39_word_space_8: tide hollow head false purpose domain reason opinion
+bip_39_word_space_9: tide hollow head false purpose domain reason opinion educate
+bip_39_word_underscore_1: tide
+bip_39_word_underscore_10: tide_hollow_head_false_purpose_domain_reason_opinion_educate_produce
+bip_39_word_underscore_11: tide_hollow_head_false_purpose_domain_reason_opinion_educate_produce_aim
+bip_39_word_underscore_12: tide_hollow_head_false_purpose_domain_reason_opinion_educate_produce_aim_arrest
+bip_39_word_underscore_2: tide_hollow
+bip_39_word_underscore_3: tide_hollow_head
+bip_39_word_underscore_4: tide_hollow_head_false
+bip_39_word_underscore_5: tide_hollow_head_false_purpose
+bip_39_word_underscore_6: tide_hollow_head_false_purpose_domain
+bip_39_word_underscore_7: tide_hollow_head_false_purpose_domain_reason
+bip_39_word_underscore_8: tide_hollow_head_false_purpose_domain_reason_opinion
+bip_39_word_underscore_9: tide_hollow_head_false_purpose_domain_reason_opinion_educate
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 1.5_extra
+description_extra_capital: 1.5 Extra
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_length_1: '1'
+description_extra_length_2: '1.'
+description_extra_length_3: '1.5'
+description_extra_length_4: '1.5_'
+description_extra_length_5: 1.5_e
+description_extra_length_6: 1.5_ex
+description_extra_name: 1.5 Extra
+description_extra_no_space_length_1: '1'
+description_extra_no_space_length_2: '1.'
+description_extra_no_space_length_3: '1.5'
+description_extra_no_space_length_4: 1.5e
+description_extra_no_space_length_5: 1.5ex
+description_extra_no_space_length_6: 1.5ext
+description_extra_no_space_upper_length_1: '1'
+description_extra_no_space_upper_length_2: '1.'
+description_extra_no_space_upper_length_3: '1.5'
+description_extra_no_space_upper_length_4: 1.5E
+description_extra_no_space_upper_length_5: 1.5EX
+description_extra_no_space_upper_length_6: 1.5EXT
+description_extra_upper: 1.5_EXTRA
+description_extra_upper_length_1: '1'
+description_extra_upper_length_2: '1.'
+description_extra_upper_length_3: '1.5'
+description_extra_upper_length_4: '1.5_'
+description_extra_upper_length_5: 1.5_E
+description_extra_upper_length_6: 1.5_EX
+description_main: 5_width_5_height_18_mm_depth
+description_main_capital: 5 Width 5 Height 18 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_w
+description_main_length_4: 5_wi
+description_main_length_5: 5_wid
+description_main_length_6: 5_widt
+description_main_name: 5 Width 5 Height 18 mm Depth
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: 5w
+description_main_no_space_length_3: 5wi
+description_main_no_space_length_4: 5wid
+description_main_no_space_length_5: 5widt
+description_main_no_space_length_6: 5width
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: 5W
+description_main_no_space_upper_length_3: 5WI
+description_main_no_space_upper_length_4: 5WID
+description_main_no_space_upper_length_5: 5WIDT
+description_main_no_space_upper_length_6: 5WIDTH
+description_main_upper: 5_WIDTH_5_HEIGHT_18_MM_DEPTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_W
+description_main_upper_length_4: 5_WI
+description_main_upper_length_5: 5_WID
+description_main_upper_length_6: 5_WIDT
+description_only_numbers: '5518'
+description_only_numbers_short: 5k5
+description_or_color: 5k5
+description_or_color_upper: 5K5
+directory: parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+id: oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+id_no_class: part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+id_no_color: 5width5height18mmdepth1.5extra
+id_no_size: 5_width_5_height_18_mm_depth_1.5_extra
+id_no_type: smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207q6ju
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207q6ju
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207q6ju
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207q6ju
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra](none)<br>[](none)<br>[Oobb
+  Part Smd Magazine 5 Width 5 Height 18 Mm Depth 1.5 Extra](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra](none)<br><br>'
+md5: c60aaaea349b766103d73524d41b3f0e
+md5_10: c60aaaea34
+md5_10_upper: C60AAAEA34
+md5_5: c60aa
+md5_5_upper: C60AA
+md5_6: c60aaa
+md5_6_alpha: 7q6ju
+md5_6_alpha_upper: 7Q6JU
+md5_6_upper: C60AAA
+name: Oobb Part SMD Magazine 5 Width 5 Height 18 mm Depth 1.5 Extra
+name_no_class: Part SMD Magazine 5 Width 5 Height 18 mm Depth 1.5 Extra
+name_no_color: 5Width5Height18mmdepth1.5Extra
+name_no_size: 5 Width 5 Height 18 mm Depth 1.5 Extra
+name_no_size_short: 5 Width 5 Height 18 Mm Depth 1.5 Extra
+name_no_type: SMD Magazine 5 Width 5 Height 18 mm Depth 1.5 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 18_mm_depth
+oomlout_detail_hierarchy_4_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 18DE
+oomlout_detail_hierarchy_5: 1.5_extra
+oomlout_detail_hierarchy_5_upper: 1.5_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: '1.5_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_smd_magazine_5_width_5_height_18_mm_depth_1.5_extra
+oomp_word: lollipop sleepy lipstick
+oomp_word_emoji: ':lollipop: :sleepy: :lipstick:'
+oomp_word_emoji_list:
+- ':lollipop:'
+- ':sleepy:'
+- ':lipstick:'
+oomp_word_list:
+- lollipop
+- sleepy
+- lipstick
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine
+size_capital: Smd Magazine
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

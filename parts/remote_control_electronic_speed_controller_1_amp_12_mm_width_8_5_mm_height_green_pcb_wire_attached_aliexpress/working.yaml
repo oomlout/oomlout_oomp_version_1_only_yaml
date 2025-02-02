@@ -1,0 +1,477 @@
+bip_39_word_dash_1: hat
+bip_39_word_dash_10: hat-dish-pass-avoid-eagle-surround-decrease-trade-cycle-fox
+bip_39_word_dash_11: hat-dish-pass-avoid-eagle-surround-decrease-trade-cycle-fox-devote
+bip_39_word_dash_12: hat-dish-pass-avoid-eagle-surround-decrease-trade-cycle-fox-devote-arm
+bip_39_word_dash_2: hat-dish
+bip_39_word_dash_3: hat-dish-pass
+bip_39_word_dash_4: hat-dish-pass-avoid
+bip_39_word_dash_5: hat-dish-pass-avoid-eagle
+bip_39_word_dash_6: hat-dish-pass-avoid-eagle-surround
+bip_39_word_dash_7: hat-dish-pass-avoid-eagle-surround-decrease
+bip_39_word_dash_8: hat-dish-pass-avoid-eagle-surround-decrease-trade
+bip_39_word_dash_9: hat-dish-pass-avoid-eagle-surround-decrease-trade-cycle
+bip_39_word_new_br_1: hat
+bip_39_word_new_br_10: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround<br>decrease<br>trade<br>cycle<br>fox
+bip_39_word_new_br_11: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround<br>decrease<br>trade<br>cycle<br>fox<br>devote
+bip_39_word_new_br_12: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround<br>decrease<br>trade<br>cycle<br>fox<br>devote<br>arm
+bip_39_word_new_br_2: hat<br>dish
+bip_39_word_new_br_3: hat<br>dish<br>pass
+bip_39_word_new_br_4: hat<br>dish<br>pass<br>avoid
+bip_39_word_new_br_5: hat<br>dish<br>pass<br>avoid<br>eagle
+bip_39_word_new_br_6: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround
+bip_39_word_new_br_7: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround<br>decrease
+bip_39_word_new_br_8: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround<br>decrease<br>trade
+bip_39_word_new_br_9: hat<br>dish<br>pass<br>avoid<br>eagle<br>surround<br>decrease<br>trade<br>cycle
+bip_39_word_new_line_1: hat
+bip_39_word_new_line_10: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround
+
+  decrease
+
+  trade
+
+  cycle
+
+  fox'
+bip_39_word_new_line_11: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround
+
+  decrease
+
+  trade
+
+  cycle
+
+  fox
+
+  devote'
+bip_39_word_new_line_12: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround
+
+  decrease
+
+  trade
+
+  cycle
+
+  fox
+
+  devote
+
+  arm'
+bip_39_word_new_line_2: 'hat
+
+  dish'
+bip_39_word_new_line_3: 'hat
+
+  dish
+
+  pass'
+bip_39_word_new_line_4: 'hat
+
+  dish
+
+  pass
+
+  avoid'
+bip_39_word_new_line_5: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle'
+bip_39_word_new_line_6: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround'
+bip_39_word_new_line_7: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround
+
+  decrease'
+bip_39_word_new_line_8: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround
+
+  decrease
+
+  trade'
+bip_39_word_new_line_9: 'hat
+
+  dish
+
+  pass
+
+  avoid
+
+  eagle
+
+  surround
+
+  decrease
+
+  trade
+
+  cycle'
+bip_39_word_no_space_1: hat
+bip_39_word_no_space_10: hatdishpassavoideaglesurrounddecreasetradecyclefox
+bip_39_word_no_space_11: hatdishpassavoideaglesurrounddecreasetradecyclefoxdevote
+bip_39_word_no_space_12: hatdishpassavoideaglesurrounddecreasetradecyclefoxdevotearm
+bip_39_word_no_space_2: hatdish
+bip_39_word_no_space_3: hatdishpass
+bip_39_word_no_space_4: hatdishpassavoid
+bip_39_word_no_space_5: hatdishpassavoideagle
+bip_39_word_no_space_6: hatdishpassavoideaglesurround
+bip_39_word_no_space_7: hatdishpassavoideaglesurrounddecrease
+bip_39_word_no_space_8: hatdishpassavoideaglesurrounddecreasetrade
+bip_39_word_no_space_9: hatdishpassavoideaglesurrounddecreasetradecycle
+bip_39_word_space_0:
+- hat
+- dish
+- pass
+- avoid
+- eagle
+- surround
+- decrease
+- trade
+- cycle
+- fox
+- devote
+- arm
+bip_39_word_space_1: hat
+bip_39_word_space_10: hat dish pass avoid eagle surround decrease trade cycle fox
+bip_39_word_space_11: hat dish pass avoid eagle surround decrease trade cycle fox
+  devote
+bip_39_word_space_12: hat dish pass avoid eagle surround decrease trade cycle fox
+  devote arm
+bip_39_word_space_2: hat dish
+bip_39_word_space_3: hat dish pass
+bip_39_word_space_4: hat dish pass avoid
+bip_39_word_space_5: hat dish pass avoid eagle
+bip_39_word_space_6: hat dish pass avoid eagle surround
+bip_39_word_space_7: hat dish pass avoid eagle surround decrease
+bip_39_word_space_8: hat dish pass avoid eagle surround decrease trade
+bip_39_word_space_9: hat dish pass avoid eagle surround decrease trade cycle
+bip_39_word_underscore_1: hat
+bip_39_word_underscore_10: hat_dish_pass_avoid_eagle_surround_decrease_trade_cycle_fox
+bip_39_word_underscore_11: hat_dish_pass_avoid_eagle_surround_decrease_trade_cycle_fox_devote
+bip_39_word_underscore_12: hat_dish_pass_avoid_eagle_surround_decrease_trade_cycle_fox_devote_arm
+bip_39_word_underscore_2: hat_dish
+bip_39_word_underscore_3: hat_dish_pass
+bip_39_word_underscore_4: hat_dish_pass_avoid
+bip_39_word_underscore_5: hat_dish_pass_avoid_eagle
+bip_39_word_underscore_6: hat_dish_pass_avoid_eagle_surround
+bip_39_word_underscore_7: hat_dish_pass_avoid_eagle_surround_decrease
+bip_39_word_underscore_8: hat_dish_pass_avoid_eagle_surround_decrease_trade
+bip_39_word_underscore_9: hat_dish_pass_avoid_eagle_surround_decrease_trade_cycle
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_length_1: r
+classification_length_2: re
+classification_length_3: rem
+classification_length_4: remo
+classification_length_5: remot
+classification_length_6: remote
+classification_name: Remote Control
+classification_no_space_length_1: r
+classification_no_space_length_2: re
+classification_no_space_length_3: rem
+classification_no_space_length_4: remo
+classification_no_space_length_5: remot
+classification_no_space_length_6: remote
+classification_no_space_upper_length_1: R
+classification_no_space_upper_length_2: RE
+classification_no_space_upper_length_3: REM
+classification_no_space_upper_length_4: REMO
+classification_no_space_upper_length_5: REMOT
+classification_no_space_upper_length_6: REMOTE
+classification_upper: REMOTE_CONTROL
+classification_upper_length_1: R
+classification_upper_length_2: RE
+classification_upper_length_3: REM
+classification_upper_length_4: REMO
+classification_upper_length_5: REMOT
+classification_upper_length_6: REMOTE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: wire_attached
+description_extra_capital: Wire Attached
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_length_1: w
+description_extra_length_2: wi
+description_extra_length_3: wir
+description_extra_length_4: wire
+description_extra_length_5: wire_
+description_extra_length_6: wire_a
+description_extra_name: Wire Attached
+description_extra_no_space_length_1: w
+description_extra_no_space_length_2: wi
+description_extra_no_space_length_3: wir
+description_extra_no_space_length_4: wire
+description_extra_no_space_length_5: wirea
+description_extra_no_space_length_6: wireat
+description_extra_no_space_upper_length_1: W
+description_extra_no_space_upper_length_2: WI
+description_extra_no_space_upper_length_3: WIR
+description_extra_no_space_upper_length_4: WIRE
+description_extra_no_space_upper_length_5: WIREA
+description_extra_no_space_upper_length_6: WIREAT
+description_extra_upper: WIRE_ATTACHED
+description_extra_upper_length_1: W
+description_extra_upper_length_2: WI
+description_extra_upper_length_3: WIR
+description_extra_upper_length_4: WIRE
+description_extra_upper_length_5: WIRE_
+description_extra_upper_length_6: WIRE_A
+description_main: 1_amp_12_mm_width_8_5_mm_height_green_pcb
+description_main_capital: 1 Amp 12 mm Width 8.5 mm Height Green Pcb
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_a
+description_main_length_4: 1_am
+description_main_length_5: 1_amp
+description_main_length_6: 1_amp_
+description_main_name: 1 Amp 12 mm Width 8 5 mm Height Green PCB
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1a
+description_main_no_space_length_3: 1am
+description_main_no_space_length_4: 1amp
+description_main_no_space_length_5: 1amp1
+description_main_no_space_length_6: 1amp12
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1A
+description_main_no_space_upper_length_3: 1AM
+description_main_no_space_upper_length_4: 1AMP
+description_main_no_space_upper_length_5: 1AMP1
+description_main_no_space_upper_length_6: 1AMP12
+description_main_upper: 1_AMP_12_MM_WIDTH_8_5_MM_HEIGHT_GREEN_PCB
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_A
+description_main_upper_length_4: 1_AM
+description_main_upper_length_5: 1_AMP
+description_main_upper_length_6: 1_AMP_
+description_only_numbers: '11285'
+description_only_numbers_short: 11k
+description_or_color: 11k
+description_or_color_upper: 11K
+directory: parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id: remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_class: electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_color: 1amp12mmwidth85mmheightgreenpcbwireattachedaliexpress
+id_no_size: 1amp12mmwidth85mmheightgreenpcbwireattachedaliexpress
+id_no_type: 1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_2_name: link_github
+link_3: https://www.aliexpress.com/item/1005006080168104.html
+link_3_name: link_distributor_aliexpress
+link_buy_1: https://www.aliexpress.com/item/1005006080168104.html
+link_buy_1_name: link_distributor_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006080168104.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2079xnb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2079xnb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2079xnb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2079xnb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_length_1: a
+manufacturer_length_2: al
+manufacturer_length_3: ali
+manufacturer_length_4: alie
+manufacturer_length_5: aliex
+manufacturer_length_6: aliexp
+manufacturer_name: Aliexpress
+manufacturer_no_space_length_1: a
+manufacturer_no_space_length_2: al
+manufacturer_no_space_length_3: ali
+manufacturer_no_space_length_4: alie
+manufacturer_no_space_length_5: aliex
+manufacturer_no_space_length_6: aliexp
+manufacturer_no_space_upper_length_1: A
+manufacturer_no_space_upper_length_2: AL
+manufacturer_no_space_upper_length_3: ALI
+manufacturer_no_space_upper_length_4: ALIE
+manufacturer_no_space_upper_length_5: ALIEX
+manufacturer_no_space_upper_length_6: ALIEXP
+manufacturer_upper: ALIEXPRESS
+manufacturer_upper_length_1: A
+manufacturer_upper_length_2: AL
+manufacturer_upper_length_3: ALI
+manufacturer_upper_length_4: ALIE
+manufacturer_upper_length_5: ALIEX
+manufacturer_upper_length_6: ALIEXP
+manufacturers: []
+markdown_full: '[remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress](none)<br>[](none)<br>[Remote
+  Control Electronic Speed Controller 1 Amp 12 Mm Width 8 5 Mm Height Green Pcb Wire
+  Attached Aliexpress](none)<br><br>'
+markdown_short: '[remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress](none)<br><br>'
+md5: ba799711b6e6a7276a228101414fcb4c
+md5_10: ba799711b6
+md5_10_upper: BA799711B6
+md5_5: ba799
+md5_5_upper: BA799
+md5_6: ba7997
+md5_6_alpha: 79xnb
+md5_6_alpha_upper: 79XNB
+md5_6_upper: BA7997
+name: Remote Control Electronic Speed Controller 1 Amp 12 mm Width 8 5 mm Height Green
+  PCB Wire Attached Aliexpress
+name_no_class: Electronic Speed Controller 1 Amp 12 mm Width 8 5 mm Height Green PCB
+  Wire Attached Aliexpress
+name_no_color: 1Amp12mmwidth85mmheightgreenpcbwireattachedaliexpress
+name_no_size: 1Amp12mmwidth85mmheightgreenpcbwireattachedaliexpress
+name_no_size_short: 1Amp12Mmwidth85Mmheightgreenpcbwireattachedaliexpress
+name_no_type: 1 Amp 12 mm Width 8 5 mm Height Green PCB Wire Attached Aliexpress
+oomlout_detail_hierarchy_1: remote_control
+oomlout_detail_hierarchy_1_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_1_upper_length_4: REMO
+oomlout_detail_hierarchy_2: electronic_speed_controller
+oomlout_detail_hierarchy_2_upper: ELECTRONIC_SPEED_CONTROLLER
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: 12_mm_width
+oomlout_detail_hierarchy_3_upper: 12_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 12WI
+oomlout_detail_hierarchy_4: 5_mm_height
+oomlout_detail_hierarchy_4_upper: 5_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 5HEI
+oomlout_detail_hierarchy_5: wire_attached
+oomlout_detail_hierarchy_5_upper: WIRE_ATTACHED
+oomlout_detail_hierarchy_5_upper_length_4: WIRE
+oomlout_detail_hierarchy_6: aliexpress
+oomlout_detail_hierarchy_6_upper: ALIEXPRESS
+oomlout_detail_hierarchy_6_upper_length_4: ALIE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_remote_control_electronic_speed_controller_1_amp_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+oomp_word: spaghetti balloon baseball
+oomp_word_emoji: ':spaghetti: :balloon: :baseball:'
+oomp_word_emoji_list:
+- ':spaghetti:'
+- ':balloon:'
+- ':baseball:'
+oomp_word_list:
+- spaghetti
+- balloon
+- baseball
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005006080168104'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ESC 1 amp
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: electronic_speed_controller
+type_capital: Electronic Speed Controller
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic Speed Controller
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRONIC_SPEED_CONTROLLER
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

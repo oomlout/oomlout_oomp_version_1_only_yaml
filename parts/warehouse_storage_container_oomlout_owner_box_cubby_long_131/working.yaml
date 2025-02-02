@@ -1,0 +1,466 @@
+bip_39_word_dash_1: engage
+bip_39_word_dash_10: engage-lava-plunge-deputy-garlic-tube-square-life-possible-property
+bip_39_word_dash_11: engage-lava-plunge-deputy-garlic-tube-square-life-possible-property-boil
+bip_39_word_dash_12: engage-lava-plunge-deputy-garlic-tube-square-life-possible-property-boil-answer
+bip_39_word_dash_2: engage-lava
+bip_39_word_dash_3: engage-lava-plunge
+bip_39_word_dash_4: engage-lava-plunge-deputy
+bip_39_word_dash_5: engage-lava-plunge-deputy-garlic
+bip_39_word_dash_6: engage-lava-plunge-deputy-garlic-tube
+bip_39_word_dash_7: engage-lava-plunge-deputy-garlic-tube-square
+bip_39_word_dash_8: engage-lava-plunge-deputy-garlic-tube-square-life
+bip_39_word_dash_9: engage-lava-plunge-deputy-garlic-tube-square-life-possible
+bip_39_word_new_br_1: engage
+bip_39_word_new_br_10: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube<br>square<br>life<br>possible<br>property
+bip_39_word_new_br_11: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube<br>square<br>life<br>possible<br>property<br>boil
+bip_39_word_new_br_12: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube<br>square<br>life<br>possible<br>property<br>boil<br>answer
+bip_39_word_new_br_2: engage<br>lava
+bip_39_word_new_br_3: engage<br>lava<br>plunge
+bip_39_word_new_br_4: engage<br>lava<br>plunge<br>deputy
+bip_39_word_new_br_5: engage<br>lava<br>plunge<br>deputy<br>garlic
+bip_39_word_new_br_6: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube
+bip_39_word_new_br_7: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube<br>square
+bip_39_word_new_br_8: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube<br>square<br>life
+bip_39_word_new_br_9: engage<br>lava<br>plunge<br>deputy<br>garlic<br>tube<br>square<br>life<br>possible
+bip_39_word_new_line_1: engage
+bip_39_word_new_line_10: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube
+
+  square
+
+  life
+
+  possible
+
+  property'
+bip_39_word_new_line_11: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube
+
+  square
+
+  life
+
+  possible
+
+  property
+
+  boil'
+bip_39_word_new_line_12: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube
+
+  square
+
+  life
+
+  possible
+
+  property
+
+  boil
+
+  answer'
+bip_39_word_new_line_2: 'engage
+
+  lava'
+bip_39_word_new_line_3: 'engage
+
+  lava
+
+  plunge'
+bip_39_word_new_line_4: 'engage
+
+  lava
+
+  plunge
+
+  deputy'
+bip_39_word_new_line_5: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic'
+bip_39_word_new_line_6: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube'
+bip_39_word_new_line_7: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube
+
+  square'
+bip_39_word_new_line_8: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube
+
+  square
+
+  life'
+bip_39_word_new_line_9: 'engage
+
+  lava
+
+  plunge
+
+  deputy
+
+  garlic
+
+  tube
+
+  square
+
+  life
+
+  possible'
+bip_39_word_no_space_1: engage
+bip_39_word_no_space_10: engagelavaplungedeputygarlictubesquarelifepossibleproperty
+bip_39_word_no_space_11: engagelavaplungedeputygarlictubesquarelifepossiblepropertyboil
+bip_39_word_no_space_12: engagelavaplungedeputygarlictubesquarelifepossiblepropertyboilanswer
+bip_39_word_no_space_2: engagelava
+bip_39_word_no_space_3: engagelavaplunge
+bip_39_word_no_space_4: engagelavaplungedeputy
+bip_39_word_no_space_5: engagelavaplungedeputygarlic
+bip_39_word_no_space_6: engagelavaplungedeputygarlictube
+bip_39_word_no_space_7: engagelavaplungedeputygarlictubesquare
+bip_39_word_no_space_8: engagelavaplungedeputygarlictubesquarelife
+bip_39_word_no_space_9: engagelavaplungedeputygarlictubesquarelifepossible
+bip_39_word_space_0:
+- engage
+- lava
+- plunge
+- deputy
+- garlic
+- tube
+- square
+- life
+- possible
+- property
+- boil
+- answer
+bip_39_word_space_1: engage
+bip_39_word_space_10: engage lava plunge deputy garlic tube square life possible property
+bip_39_word_space_11: engage lava plunge deputy garlic tube square life possible property
+  boil
+bip_39_word_space_12: engage lava plunge deputy garlic tube square life possible property
+  boil answer
+bip_39_word_space_2: engage lava
+bip_39_word_space_3: engage lava plunge
+bip_39_word_space_4: engage lava plunge deputy
+bip_39_word_space_5: engage lava plunge deputy garlic
+bip_39_word_space_6: engage lava plunge deputy garlic tube
+bip_39_word_space_7: engage lava plunge deputy garlic tube square
+bip_39_word_space_8: engage lava plunge deputy garlic tube square life
+bip_39_word_space_9: engage lava plunge deputy garlic tube square life possible
+bip_39_word_underscore_1: engage
+bip_39_word_underscore_10: engage_lava_plunge_deputy_garlic_tube_square_life_possible_property
+bip_39_word_underscore_11: engage_lava_plunge_deputy_garlic_tube_square_life_possible_property_boil
+bip_39_word_underscore_12: engage_lava_plunge_deputy_garlic_tube_square_life_possible_property_boil_answer
+bip_39_word_underscore_2: engage_lava
+bip_39_word_underscore_3: engage_lava_plunge
+bip_39_word_underscore_4: engage_lava_plunge_deputy
+bip_39_word_underscore_5: engage_lava_plunge_deputy_garlic
+bip_39_word_underscore_6: engage_lava_plunge_deputy_garlic_tube
+bip_39_word_underscore_7: engage_lava_plunge_deputy_garlic_tube_square
+bip_39_word_underscore_8: engage_lava_plunge_deputy_garlic_tube_square_life
+bip_39_word_underscore_9: engage_lava_plunge_deputy_garlic_tube_square_life_possible
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cubby_long
+color_capital: Box Cubby Long
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cubby Long
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBBY_LONG
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '131'
+description_main_capital: '131'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '13'
+description_main_length_3: '131'
+description_main_length_4: '131'
+description_main_length_5: '131'
+description_main_length_6: '131'
+description_main_name: '131'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '13'
+description_main_no_space_length_3: '131'
+description_main_no_space_length_4: '131'
+description_main_no_space_length_5: '131'
+description_main_no_space_length_6: '131'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '13'
+description_main_no_space_upper_length_3: '131'
+description_main_no_space_upper_length_4: '131'
+description_main_no_space_upper_length_5: '131'
+description_main_no_space_upper_length_6: '131'
+description_main_upper: '131'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '13'
+description_main_upper_length_3: '131'
+description_main_upper_length_4: '131'
+description_main_upper_length_5: '131'
+description_main_upper_length_6: '131'
+description_only_numbers: '131'
+description_only_numbers_short: '131'
+description_or_color: B131
+description_or_color_upper: B131
+directory: parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+id: warehouse_storage_container_oomlout_owner_box_cubby_long_131
+id_no_class: storage_container_oomlout_owner_box_cubby_long_131
+id_no_color: '131'
+id_no_size: box_cubby_long_131
+id_no_type: oomlout_owner_box_cubby_long_131
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2060ld7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2060ld7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2060ld7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2060ld7
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_131
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cubby_long_131](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cubby Long 131](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cubby_long_131](none)<br><br>'
+md5: 9a322b1d44815a6fa82fe3b54ddf7252
+md5_10: 9a322b1d44
+md5_10_upper: 9A322B1D44
+md5_5: 9a322
+md5_5_upper: 9A322
+md5_6: 9a322b
+md5_6_alpha: 60ld7
+md5_6_alpha_upper: 60LD7
+md5_6_upper: 9A322B
+name: Warehouse Storage Container Oomlout Owner Box Cubby Long 131
+name_no_class: Storage Container Oomlout Owner Box Cubby Long 131
+name_no_color: '131'
+name_no_size: Box Cubby Long 131
+name_no_size_short: Box Cubby Long 131
+name_no_type: Oomlout Owner Box Cubby Long 131
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cubby_long
+oomlout_detail_hierarchy_4_upper: BOX_CUBBY_LONG
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '131'
+oomlout_detail_hierarchy_5_upper: '131'
+oomlout_detail_hierarchy_5_upper_length_4: '131'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cubby_long_131
+oomp_word: golf cat cloud
+oomp_word_emoji: ':golf: :cat: :cloud:'
+oomp_word_emoji_list:
+- ':golf:'
+- ':cat:'
+- ':cloud:'
+oomp_word_list:
+- golf
+- cat
+- cloud
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

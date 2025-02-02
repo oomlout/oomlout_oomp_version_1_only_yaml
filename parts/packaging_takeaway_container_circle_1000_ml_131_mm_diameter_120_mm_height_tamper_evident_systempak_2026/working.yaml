@@ -1,0 +1,504 @@
+bip_39_word_dash_1: type
+bip_39_word_dash_10: type-educate-stumble-hobby-trophy-like-abandon-intact-clean-scale
+bip_39_word_dash_11: type-educate-stumble-hobby-trophy-like-abandon-intact-clean-scale-column
+bip_39_word_dash_12: type-educate-stumble-hobby-trophy-like-abandon-intact-clean-scale-column-able
+bip_39_word_dash_2: type-educate
+bip_39_word_dash_3: type-educate-stumble
+bip_39_word_dash_4: type-educate-stumble-hobby
+bip_39_word_dash_5: type-educate-stumble-hobby-trophy
+bip_39_word_dash_6: type-educate-stumble-hobby-trophy-like
+bip_39_word_dash_7: type-educate-stumble-hobby-trophy-like-abandon
+bip_39_word_dash_8: type-educate-stumble-hobby-trophy-like-abandon-intact
+bip_39_word_dash_9: type-educate-stumble-hobby-trophy-like-abandon-intact-clean
+bip_39_word_new_br_1: type
+bip_39_word_new_br_10: type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale
+bip_39_word_new_br_11: type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale<br>column
+bip_39_word_new_br_12: type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean<br>scale<br>column<br>able
+bip_39_word_new_br_2: type<br>educate
+bip_39_word_new_br_3: type<br>educate<br>stumble
+bip_39_word_new_br_4: type<br>educate<br>stumble<br>hobby
+bip_39_word_new_br_5: type<br>educate<br>stumble<br>hobby<br>trophy
+bip_39_word_new_br_6: type<br>educate<br>stumble<br>hobby<br>trophy<br>like
+bip_39_word_new_br_7: type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon
+bip_39_word_new_br_8: type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact
+bip_39_word_new_br_9: type<br>educate<br>stumble<br>hobby<br>trophy<br>like<br>abandon<br>intact<br>clean
+bip_39_word_new_line_1: type
+bip_39_word_new_line_10: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like
+
+  abandon
+
+  intact
+
+  clean
+
+  scale'
+bip_39_word_new_line_11: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like
+
+  abandon
+
+  intact
+
+  clean
+
+  scale
+
+  column'
+bip_39_word_new_line_12: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like
+
+  abandon
+
+  intact
+
+  clean
+
+  scale
+
+  column
+
+  able'
+bip_39_word_new_line_2: 'type
+
+  educate'
+bip_39_word_new_line_3: 'type
+
+  educate
+
+  stumble'
+bip_39_word_new_line_4: 'type
+
+  educate
+
+  stumble
+
+  hobby'
+bip_39_word_new_line_5: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy'
+bip_39_word_new_line_6: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like'
+bip_39_word_new_line_7: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like
+
+  abandon'
+bip_39_word_new_line_8: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like
+
+  abandon
+
+  intact'
+bip_39_word_new_line_9: 'type
+
+  educate
+
+  stumble
+
+  hobby
+
+  trophy
+
+  like
+
+  abandon
+
+  intact
+
+  clean'
+bip_39_word_no_space_1: type
+bip_39_word_no_space_10: typeeducatestumblehobbytrophylikeabandonintactcleanscale
+bip_39_word_no_space_11: typeeducatestumblehobbytrophylikeabandonintactcleanscalecolumn
+bip_39_word_no_space_12: typeeducatestumblehobbytrophylikeabandonintactcleanscalecolumnable
+bip_39_word_no_space_2: typeeducate
+bip_39_word_no_space_3: typeeducatestumble
+bip_39_word_no_space_4: typeeducatestumblehobby
+bip_39_word_no_space_5: typeeducatestumblehobbytrophy
+bip_39_word_no_space_6: typeeducatestumblehobbytrophylike
+bip_39_word_no_space_7: typeeducatestumblehobbytrophylikeabandon
+bip_39_word_no_space_8: typeeducatestumblehobbytrophylikeabandonintact
+bip_39_word_no_space_9: typeeducatestumblehobbytrophylikeabandonintactclean
+bip_39_word_space_0:
+- type
+- educate
+- stumble
+- hobby
+- trophy
+- like
+- abandon
+- intact
+- clean
+- scale
+- column
+- able
+bip_39_word_space_1: type
+bip_39_word_space_10: type educate stumble hobby trophy like abandon intact clean
+  scale
+bip_39_word_space_11: type educate stumble hobby trophy like abandon intact clean
+  scale column
+bip_39_word_space_12: type educate stumble hobby trophy like abandon intact clean
+  scale column able
+bip_39_word_space_2: type educate
+bip_39_word_space_3: type educate stumble
+bip_39_word_space_4: type educate stumble hobby
+bip_39_word_space_5: type educate stumble hobby trophy
+bip_39_word_space_6: type educate stumble hobby trophy like
+bip_39_word_space_7: type educate stumble hobby trophy like abandon
+bip_39_word_space_8: type educate stumble hobby trophy like abandon intact
+bip_39_word_space_9: type educate stumble hobby trophy like abandon intact clean
+bip_39_word_underscore_1: type
+bip_39_word_underscore_10: type_educate_stumble_hobby_trophy_like_abandon_intact_clean_scale
+bip_39_word_underscore_11: type_educate_stumble_hobby_trophy_like_abandon_intact_clean_scale_column
+bip_39_word_underscore_12: type_educate_stumble_hobby_trophy_like_abandon_intact_clean_scale_column_able
+bip_39_word_underscore_2: type_educate
+bip_39_word_underscore_3: type_educate_stumble
+bip_39_word_underscore_4: type_educate_stumble_hobby
+bip_39_word_underscore_5: type_educate_stumble_hobby_trophy
+bip_39_word_underscore_6: type_educate_stumble_hobby_trophy_like
+bip_39_word_underscore_7: type_educate_stumble_hobby_trophy_like_abandon
+bip_39_word_underscore_8: type_educate_stumble_hobby_trophy_like_abandon_intact
+bip_39_word_underscore_9: type_educate_stumble_hobby_trophy_like_abandon_intact_clean
+box_quantity: '197'
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pac
+classification_length_4: pack
+classification_length_5: packa
+classification_length_6: packag
+classification_name: Packaging
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pac
+classification_no_space_length_4: pack
+classification_no_space_length_5: packa
+classification_no_space_length_6: packag
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAC
+classification_no_space_upper_length_4: PACK
+classification_no_space_upper_length_5: PACKA
+classification_no_space_upper_length_6: PACKAG
+classification_upper: PACKAGING
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAC
+classification_upper_length_4: PACK
+classification_upper_length_5: PACKA
+classification_upper_length_6: PACKAG
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+cost_per: "\xA30.299"
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 131_mm_diameter_120_mm_height_tamper_evident
+description_main_capital: 131 mm Diameter 120 mm Height Tamper Evident
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '13'
+description_main_length_3: '131'
+description_main_length_4: '131_'
+description_main_length_5: 131_m
+description_main_length_6: 131_mm
+description_main_name: 131 mm Diameter 120 mm Height Tamper Evident
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '13'
+description_main_no_space_length_3: '131'
+description_main_no_space_length_4: 131m
+description_main_no_space_length_5: 131mm
+description_main_no_space_length_6: 131mmd
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '13'
+description_main_no_space_upper_length_3: '131'
+description_main_no_space_upper_length_4: 131M
+description_main_no_space_upper_length_5: 131MM
+description_main_no_space_upper_length_6: 131MMD
+description_main_upper: 131_MM_DIAMETER_120_MM_HEIGHT_TAMPER_EVIDENT
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '13'
+description_main_upper_length_3: '131'
+description_main_upper_length_4: '131_'
+description_main_upper_length_5: 131_M
+description_main_upper_length_6: 131_MM
+description_only_numbers: '131120'
+description_only_numbers_short: 131k
+description_or_color: 131k
+description_or_color_upper: 131K
+directory: parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+id: packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+id_no_class: takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+id_no_color: 131mmdiameter120mmheighttamperevidentsystempak2026
+id_no_size: 131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+id_no_type: 1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2064ds
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2064ds
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2064ds
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2064ds
+link_purchase:
+- https://systempak.net/product/1000ml-round-131mm-diameter-tamper-evident-containers-with-handles-and-lids/
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+manufacturer: systempak
+manufacturer_capital: Systempak
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_length_1: s
+manufacturer_length_2: sy
+manufacturer_length_3: sys
+manufacturer_length_4: syst
+manufacturer_length_5: syste
+manufacturer_length_6: system
+manufacturer_name: Systempak
+manufacturer_no_space_length_1: s
+manufacturer_no_space_length_2: sy
+manufacturer_no_space_length_3: sys
+manufacturer_no_space_length_4: syst
+manufacturer_no_space_length_5: syste
+manufacturer_no_space_length_6: system
+manufacturer_no_space_upper_length_1: S
+manufacturer_no_space_upper_length_2: SY
+manufacturer_no_space_upper_length_3: SYS
+manufacturer_no_space_upper_length_4: SYST
+manufacturer_no_space_upper_length_5: SYSTE
+manufacturer_no_space_upper_length_6: SYSTEM
+manufacturer_upper: SYSTEMPAK
+manufacturer_upper_length_1: S
+manufacturer_upper_length_2: SY
+manufacturer_upper_length_3: SYS
+manufacturer_upper_length_4: SYST
+manufacturer_upper_length_5: SYSTE
+manufacturer_upper_length_6: SYSTEM
+manufacturers: []
+markdown_full: '[packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026](none)<br>[](none)<br>[Packaging
+  Takeaway Container Circle 1000 Ml 131 Mm Diameter 120 Mm Height Tamper Evident Systempak
+  2026](none)<br><br>'
+markdown_short: '[packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026](none)<br><br>'
+md5: 045bb0015275800206f476c5af51a75e
+md5_10: 045bb00152
+md5_10_upper: 045BB00152
+md5_5: 045bb
+md5_5_upper: 045BB
+md5_6: 045bb0
+md5_6_alpha: 64ds
+md5_6_alpha_upper: 64DS
+md5_6_upper: 045BB0
+name: Packaging Takeaway Container Circle 1000 Ml 131 mm Diameter 120 mm Height Tamper
+  Evident Systempak 2026
+name_no_class: Takeaway Container Circle 1000 Ml 131 mm Diameter 120 mm Height Tamper
+  Evident Systempak 2026
+name_no_color: 131mmdiameter120mmheighttamperevidentsystempak2026
+name_no_size: 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026
+name_no_size_short: 131 Mm Diameter 120 Mm Height Tamper Evident Systempak 2026
+name_no_type: 1000 Ml 131 mm Diameter 120 mm Height Tamper Evident Systempak 2026
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_circle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 1000_ml
+oomlout_detail_hierarchy_3_upper: 1000_ML
+oomlout_detail_hierarchy_3_upper_length_4: '1000'
+oomlout_detail_hierarchy_4: 120_mm_height
+oomlout_detail_hierarchy_4_upper: 120_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 120H
+oomlout_detail_hierarchy_5: systempak
+oomlout_detail_hierarchy_5_upper: SYSTEMPAK
+oomlout_detail_hierarchy_5_upper_length_4: SYST
+oomlout_detail_hierarchy_6: '2026'
+oomlout_detail_hierarchy_6_upper: '2026'
+oomlout_detail_hierarchy_6_upper_length_4: '2026'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: tcc1000
+oomlout_short_code_upper: TCC1000
+oomp_key: oomp_packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_height_tamper_evident_systempak_2026
+oomp_word: wink rooster crown
+oomp_word_emoji: ':wink: :rooster: :crown:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':rooster:'
+- ':crown:'
+oomp_word_list:
+- wink
+- rooster
+- crown
+part_number: '2026'
+part_number_capital: '2026'
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_length_1: '2'
+part_number_length_2: '20'
+part_number_length_3: '202'
+part_number_length_4: '2026'
+part_number_length_5: '2026'
+part_number_length_6: '2026'
+part_number_name: '2026'
+part_number_no_space_length_1: '2'
+part_number_no_space_length_2: '20'
+part_number_no_space_length_3: '202'
+part_number_no_space_length_4: '2026'
+part_number_no_space_length_5: '2026'
+part_number_no_space_length_6: '2026'
+part_number_no_space_upper_length_1: '2'
+part_number_no_space_upper_length_2: '20'
+part_number_no_space_upper_length_3: '202'
+part_number_no_space_upper_length_4: '2026'
+part_number_no_space_upper_length_5: '2026'
+part_number_no_space_upper_length_6: '2026'
+part_number_upper: '2026'
+part_number_upper_length_1: '2'
+part_number_upper_length_2: '20'
+part_number_upper_length_3: '202'
+part_number_upper_length_4: '2026'
+part_number_upper_length_5: '2026'
+part_number_upper_length_6: '2026'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 1000_ml
+size_capital: 1000 Ml
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '10'
+size_length_3: '100'
+size_length_4: '1000'
+size_length_5: '1000_'
+size_length_6: 1000_m
+size_name: 1000 Ml
+size_no_space_length_1: '1'
+size_no_space_length_2: '10'
+size_no_space_length_3: '100'
+size_no_space_length_4: '1000'
+size_no_space_length_5: 1000m
+size_no_space_length_6: 1000ml
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '10'
+size_no_space_upper_length_3: '100'
+size_no_space_upper_length_4: '1000'
+size_no_space_upper_length_5: 1000M
+size_no_space_upper_length_6: 1000ML
+size_only_numbers: '1000'
+size_only_numbers_no_zeros: '1'
+size_upper: 1000_ML
+size_upper_length_1: '1'
+size_upper_length_2: '10'
+size_upper_length_3: '100'
+size_upper_length_4: '1000'
+size_upper_length_5: '1000_'
+size_upper_length_6: 1000_M
+type: takeaway_container_circle
+type_capital: Takeaway Container Circle
+type_first_letter: t
+type_first_letter_upper: T
+type_length_1: t
+type_length_2: ta
+type_length_3: tak
+type_length_4: take
+type_length_5: takea
+type_length_6: takeaw
+type_name: Takeaway Container Circle
+type_no_space_length_1: t
+type_no_space_length_2: ta
+type_no_space_length_3: tak
+type_no_space_length_4: take
+type_no_space_length_5: takea
+type_no_space_length_6: takeaw
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TA
+type_no_space_upper_length_3: TAK
+type_no_space_upper_length_4: TAKE
+type_no_space_upper_length_5: TAKEA
+type_no_space_upper_length_6: TAKEAW
+type_upper: TAKEAWAY_CONTAINER_CIRCLE
+type_upper_length_1: T
+type_upper_length_2: TA
+type_upper_length_3: TAK
+type_upper_length_4: TAKE
+type_upper_length_5: TAKEA
+type_upper_length_6: TAKEAW
+upc_number: ''
+weight: 41 g

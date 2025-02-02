@@ -1,0 +1,465 @@
+bip_39_word_dash_1: reduce
+bip_39_word_dash_10: reduce-entire-kind-angry-tell-ride-wrap-seat-voice-just
+bip_39_word_dash_11: reduce-entire-kind-angry-tell-ride-wrap-seat-voice-just-grocery
+bip_39_word_dash_12: reduce-entire-kind-angry-tell-ride-wrap-seat-voice-just-grocery-afford
+bip_39_word_dash_2: reduce-entire
+bip_39_word_dash_3: reduce-entire-kind
+bip_39_word_dash_4: reduce-entire-kind-angry
+bip_39_word_dash_5: reduce-entire-kind-angry-tell
+bip_39_word_dash_6: reduce-entire-kind-angry-tell-ride
+bip_39_word_dash_7: reduce-entire-kind-angry-tell-ride-wrap
+bip_39_word_dash_8: reduce-entire-kind-angry-tell-ride-wrap-seat
+bip_39_word_dash_9: reduce-entire-kind-angry-tell-ride-wrap-seat-voice
+bip_39_word_new_br_1: reduce
+bip_39_word_new_br_10: reduce<br>entire<br>kind<br>angry<br>tell<br>ride<br>wrap<br>seat<br>voice<br>just
+bip_39_word_new_br_11: reduce<br>entire<br>kind<br>angry<br>tell<br>ride<br>wrap<br>seat<br>voice<br>just<br>grocery
+bip_39_word_new_br_12: reduce<br>entire<br>kind<br>angry<br>tell<br>ride<br>wrap<br>seat<br>voice<br>just<br>grocery<br>afford
+bip_39_word_new_br_2: reduce<br>entire
+bip_39_word_new_br_3: reduce<br>entire<br>kind
+bip_39_word_new_br_4: reduce<br>entire<br>kind<br>angry
+bip_39_word_new_br_5: reduce<br>entire<br>kind<br>angry<br>tell
+bip_39_word_new_br_6: reduce<br>entire<br>kind<br>angry<br>tell<br>ride
+bip_39_word_new_br_7: reduce<br>entire<br>kind<br>angry<br>tell<br>ride<br>wrap
+bip_39_word_new_br_8: reduce<br>entire<br>kind<br>angry<br>tell<br>ride<br>wrap<br>seat
+bip_39_word_new_br_9: reduce<br>entire<br>kind<br>angry<br>tell<br>ride<br>wrap<br>seat<br>voice
+bip_39_word_new_line_1: reduce
+bip_39_word_new_line_10: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride
+
+  wrap
+
+  seat
+
+  voice
+
+  just'
+bip_39_word_new_line_11: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride
+
+  wrap
+
+  seat
+
+  voice
+
+  just
+
+  grocery'
+bip_39_word_new_line_12: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride
+
+  wrap
+
+  seat
+
+  voice
+
+  just
+
+  grocery
+
+  afford'
+bip_39_word_new_line_2: 'reduce
+
+  entire'
+bip_39_word_new_line_3: 'reduce
+
+  entire
+
+  kind'
+bip_39_word_new_line_4: 'reduce
+
+  entire
+
+  kind
+
+  angry'
+bip_39_word_new_line_5: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell'
+bip_39_word_new_line_6: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride'
+bip_39_word_new_line_7: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride
+
+  wrap'
+bip_39_word_new_line_8: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride
+
+  wrap
+
+  seat'
+bip_39_word_new_line_9: 'reduce
+
+  entire
+
+  kind
+
+  angry
+
+  tell
+
+  ride
+
+  wrap
+
+  seat
+
+  voice'
+bip_39_word_no_space_1: reduce
+bip_39_word_no_space_10: reduceentirekindangrytellridewrapseatvoicejust
+bip_39_word_no_space_11: reduceentirekindangrytellridewrapseatvoicejustgrocery
+bip_39_word_no_space_12: reduceentirekindangrytellridewrapseatvoicejustgroceryafford
+bip_39_word_no_space_2: reduceentire
+bip_39_word_no_space_3: reduceentirekind
+bip_39_word_no_space_4: reduceentirekindangry
+bip_39_word_no_space_5: reduceentirekindangrytell
+bip_39_word_no_space_6: reduceentirekindangrytellride
+bip_39_word_no_space_7: reduceentirekindangrytellridewrap
+bip_39_word_no_space_8: reduceentirekindangrytellridewrapseat
+bip_39_word_no_space_9: reduceentirekindangrytellridewrapseatvoice
+bip_39_word_space_0:
+- reduce
+- entire
+- kind
+- angry
+- tell
+- ride
+- wrap
+- seat
+- voice
+- just
+- grocery
+- afford
+bip_39_word_space_1: reduce
+bip_39_word_space_10: reduce entire kind angry tell ride wrap seat voice just
+bip_39_word_space_11: reduce entire kind angry tell ride wrap seat voice just grocery
+bip_39_word_space_12: reduce entire kind angry tell ride wrap seat voice just grocery
+  afford
+bip_39_word_space_2: reduce entire
+bip_39_word_space_3: reduce entire kind
+bip_39_word_space_4: reduce entire kind angry
+bip_39_word_space_5: reduce entire kind angry tell
+bip_39_word_space_6: reduce entire kind angry tell ride
+bip_39_word_space_7: reduce entire kind angry tell ride wrap
+bip_39_word_space_8: reduce entire kind angry tell ride wrap seat
+bip_39_word_space_9: reduce entire kind angry tell ride wrap seat voice
+bip_39_word_underscore_1: reduce
+bip_39_word_underscore_10: reduce_entire_kind_angry_tell_ride_wrap_seat_voice_just
+bip_39_word_underscore_11: reduce_entire_kind_angry_tell_ride_wrap_seat_voice_just_grocery
+bip_39_word_underscore_12: reduce_entire_kind_angry_tell_ride_wrap_seat_voice_just_grocery_afford
+bip_39_word_underscore_2: reduce_entire
+bip_39_word_underscore_3: reduce_entire_kind
+bip_39_word_underscore_4: reduce_entire_kind_angry
+bip_39_word_underscore_5: reduce_entire_kind_angry_tell
+bip_39_word_underscore_6: reduce_entire_kind_angry_tell_ride
+bip_39_word_underscore_7: reduce_entire_kind_angry_tell_ride_wrap
+bip_39_word_underscore_8: reduce_entire_kind_angry_tell_ride_wrap_seat
+bip_39_word_underscore_9: reduce_entire_kind_angry_tell_ride_wrap_seat_voice
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: tote_burgundy
+color_capital: Tote Burgundy
+color_first_letter: t
+color_first_letter_upper: T
+color_length_1: t
+color_length_2: to
+color_length_3: tot
+color_length_4: tote
+color_length_5: tote_
+color_length_6: tote_b
+color_name: Tote Burgundy
+color_no_space_length_1: t
+color_no_space_length_2: to
+color_no_space_length_3: tot
+color_no_space_length_4: tote
+color_no_space_length_5: toteb
+color_no_space_length_6: totebu
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TO
+color_no_space_upper_length_3: TOT
+color_no_space_upper_length_4: TOTE
+color_no_space_upper_length_5: TOTEB
+color_no_space_upper_length_6: TOTEBU
+color_upper: TOTE_BURGUNDY
+color_upper_length_1: T
+color_upper_length_2: TO
+color_upper_length_3: TOT
+color_upper_length_4: TOTE
+color_upper_length_5: TOTE_
+color_upper_length_6: TOTE_B
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '199'
+description_main_capital: '199'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '19'
+description_main_length_3: '199'
+description_main_length_4: '199'
+description_main_length_5: '199'
+description_main_length_6: '199'
+description_main_name: '199'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '19'
+description_main_no_space_length_3: '199'
+description_main_no_space_length_4: '199'
+description_main_no_space_length_5: '199'
+description_main_no_space_length_6: '199'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '19'
+description_main_no_space_upper_length_3: '199'
+description_main_no_space_upper_length_4: '199'
+description_main_no_space_upper_length_5: '199'
+description_main_no_space_upper_length_6: '199'
+description_main_upper: '199'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '19'
+description_main_upper_length_3: '199'
+description_main_upper_length_4: '199'
+description_main_upper_length_5: '199'
+description_main_upper_length_6: '199'
+description_only_numbers: '199'
+description_only_numbers_short: '199'
+description_or_color: T199
+description_or_color_upper: T199
+directory: parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+id: warehouse_storage_container_oomlout_owner_tote_burgundy_199
+id_no_class: storage_container_oomlout_owner_tote_burgundy_199
+id_no_color: '199'
+id_no_size: tote_burgundy_199
+id_no_type: oomlout_owner_tote_burgundy_199
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202rgda
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202rgda
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202rgda
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202rgda
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_199
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_burgundy_199](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Tote Burgundy 199](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_burgundy_199](none)<br><br>'
+md5: 46cd9e5fabc25fc2e5ef608ef512e5a0
+md5_10: 46cd9e5fab
+md5_10_upper: 46CD9E5FAB
+md5_5: 46cd9
+md5_5_upper: 46CD9
+md5_6: 46cd9e
+md5_6_alpha: 2rgda
+md5_6_alpha_upper: 2RGDA
+md5_6_upper: 46CD9E
+name: Warehouse Storage Container Oomlout Owner Tote Burgundy 199
+name_no_class: Storage Container Oomlout Owner Tote Burgundy 199
+name_no_color: '199'
+name_no_size: Tote Burgundy 199
+name_no_size_short: Tote Burgundy 199
+name_no_type: Oomlout Owner Tote Burgundy 199
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: tote_burgundy
+oomlout_detail_hierarchy_4_upper: TOTE_BURGUNDY
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_detail_hierarchy_5: '199'
+oomlout_detail_hierarchy_5_upper: '199'
+oomlout_detail_hierarchy_5_upper_length_4: '199'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_burgundy_199
+oomp_word: bird strawberry clubs
+oomp_word_emoji: ':bird: :strawberry: :clubs:'
+oomp_word_emoji_list:
+- ':bird:'
+- ':strawberry:'
+- ':clubs:'
+oomp_word_list:
+- bird
+- strawberry
+- clubs
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

@@ -1,0 +1,438 @@
+bip_39_word_dash_1: say
+bip_39_word_dash_10: say-jewel-goose-divide-tree-holiday-glass-vibrant-title-wheel
+bip_39_word_dash_11: say-jewel-goose-divide-tree-holiday-glass-vibrant-title-wheel-end
+bip_39_word_dash_12: say-jewel-goose-divide-tree-holiday-glass-vibrant-title-wheel-end-able
+bip_39_word_dash_2: say-jewel
+bip_39_word_dash_3: say-jewel-goose
+bip_39_word_dash_4: say-jewel-goose-divide
+bip_39_word_dash_5: say-jewel-goose-divide-tree
+bip_39_word_dash_6: say-jewel-goose-divide-tree-holiday
+bip_39_word_dash_7: say-jewel-goose-divide-tree-holiday-glass
+bip_39_word_dash_8: say-jewel-goose-divide-tree-holiday-glass-vibrant
+bip_39_word_dash_9: say-jewel-goose-divide-tree-holiday-glass-vibrant-title
+bip_39_word_new_br_1: say
+bip_39_word_new_br_10: say<br>jewel<br>goose<br>divide<br>tree<br>holiday<br>glass<br>vibrant<br>title<br>wheel
+bip_39_word_new_br_11: say<br>jewel<br>goose<br>divide<br>tree<br>holiday<br>glass<br>vibrant<br>title<br>wheel<br>end
+bip_39_word_new_br_12: say<br>jewel<br>goose<br>divide<br>tree<br>holiday<br>glass<br>vibrant<br>title<br>wheel<br>end<br>able
+bip_39_word_new_br_2: say<br>jewel
+bip_39_word_new_br_3: say<br>jewel<br>goose
+bip_39_word_new_br_4: say<br>jewel<br>goose<br>divide
+bip_39_word_new_br_5: say<br>jewel<br>goose<br>divide<br>tree
+bip_39_word_new_br_6: say<br>jewel<br>goose<br>divide<br>tree<br>holiday
+bip_39_word_new_br_7: say<br>jewel<br>goose<br>divide<br>tree<br>holiday<br>glass
+bip_39_word_new_br_8: say<br>jewel<br>goose<br>divide<br>tree<br>holiday<br>glass<br>vibrant
+bip_39_word_new_br_9: say<br>jewel<br>goose<br>divide<br>tree<br>holiday<br>glass<br>vibrant<br>title
+bip_39_word_new_line_1: say
+bip_39_word_new_line_10: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday
+
+  glass
+
+  vibrant
+
+  title
+
+  wheel'
+bip_39_word_new_line_11: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday
+
+  glass
+
+  vibrant
+
+  title
+
+  wheel
+
+  end'
+bip_39_word_new_line_12: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday
+
+  glass
+
+  vibrant
+
+  title
+
+  wheel
+
+  end
+
+  able'
+bip_39_word_new_line_2: 'say
+
+  jewel'
+bip_39_word_new_line_3: 'say
+
+  jewel
+
+  goose'
+bip_39_word_new_line_4: 'say
+
+  jewel
+
+  goose
+
+  divide'
+bip_39_word_new_line_5: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree'
+bip_39_word_new_line_6: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday'
+bip_39_word_new_line_7: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday
+
+  glass'
+bip_39_word_new_line_8: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday
+
+  glass
+
+  vibrant'
+bip_39_word_new_line_9: 'say
+
+  jewel
+
+  goose
+
+  divide
+
+  tree
+
+  holiday
+
+  glass
+
+  vibrant
+
+  title'
+bip_39_word_no_space_1: say
+bip_39_word_no_space_10: sayjewelgoosedividetreeholidayglassvibranttitlewheel
+bip_39_word_no_space_11: sayjewelgoosedividetreeholidayglassvibranttitlewheelend
+bip_39_word_no_space_12: sayjewelgoosedividetreeholidayglassvibranttitlewheelendable
+bip_39_word_no_space_2: sayjewel
+bip_39_word_no_space_3: sayjewelgoose
+bip_39_word_no_space_4: sayjewelgoosedivide
+bip_39_word_no_space_5: sayjewelgoosedividetree
+bip_39_word_no_space_6: sayjewelgoosedividetreeholiday
+bip_39_word_no_space_7: sayjewelgoosedividetreeholidayglass
+bip_39_word_no_space_8: sayjewelgoosedividetreeholidayglassvibrant
+bip_39_word_no_space_9: sayjewelgoosedividetreeholidayglassvibranttitle
+bip_39_word_space_0:
+- say
+- jewel
+- goose
+- divide
+- tree
+- holiday
+- glass
+- vibrant
+- title
+- wheel
+- end
+- able
+bip_39_word_space_1: say
+bip_39_word_space_10: say jewel goose divide tree holiday glass vibrant title wheel
+bip_39_word_space_11: say jewel goose divide tree holiday glass vibrant title wheel
+  end
+bip_39_word_space_12: say jewel goose divide tree holiday glass vibrant title wheel
+  end able
+bip_39_word_space_2: say jewel
+bip_39_word_space_3: say jewel goose
+bip_39_word_space_4: say jewel goose divide
+bip_39_word_space_5: say jewel goose divide tree
+bip_39_word_space_6: say jewel goose divide tree holiday
+bip_39_word_space_7: say jewel goose divide tree holiday glass
+bip_39_word_space_8: say jewel goose divide tree holiday glass vibrant
+bip_39_word_space_9: say jewel goose divide tree holiday glass vibrant title
+bip_39_word_underscore_1: say
+bip_39_word_underscore_10: say_jewel_goose_divide_tree_holiday_glass_vibrant_title_wheel
+bip_39_word_underscore_11: say_jewel_goose_divide_tree_holiday_glass_vibrant_title_wheel_end
+bip_39_word_underscore_12: say_jewel_goose_divide_tree_holiday_glass_vibrant_title_wheel_end_able
+bip_39_word_underscore_2: say_jewel
+bip_39_word_underscore_3: say_jewel_goose
+bip_39_word_underscore_4: say_jewel_goose_divide
+bip_39_word_underscore_5: say_jewel_goose_divide_tree
+bip_39_word_underscore_6: say_jewel_goose_divide_tree_holiday
+bip_39_word_underscore_7: say_jewel_goose_divide_tree_holiday_glass
+bip_39_word_underscore_8: say_jewel_goose_divide_tree_holiday_glass_vibrant
+bip_39_word_underscore_9: say_jewel_goose_divide_tree_holiday_glass_vibrant_title
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 9_width_1_height_9_mm_depth
+description_main_capital: 9 Width 1 Height 9 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_w
+description_main_length_4: 9_wi
+description_main_length_5: 9_wid
+description_main_length_6: 9_widt
+description_main_name: 9 Width 1 Height 9 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9w
+description_main_no_space_length_3: 9wi
+description_main_no_space_length_4: 9wid
+description_main_no_space_length_5: 9widt
+description_main_no_space_length_6: 9width
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9W
+description_main_no_space_upper_length_3: 9WI
+description_main_no_space_upper_length_4: 9WID
+description_main_no_space_upper_length_5: 9WIDT
+description_main_no_space_upper_length_6: 9WIDTH
+description_main_upper: 9_WIDTH_1_HEIGHT_9_MM_DEPTH
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_W
+description_main_upper_length_4: 9_WI
+description_main_upper_length_5: 9_WID
+description_main_upper_length_6: 9_WIDT
+description_only_numbers: '919'
+description_only_numbers_short: '919'
+description_or_color: '919'
+description_or_color_upper: '919'
+directory: parts/oobb_part_plate_9_width_1_height_9_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_9_width_1_height_9_mm_depth
+id: oobb_part_plate_9_width_1_height_9_mm_depth
+id_no_class: part_plate_9_width_1_height_9_mm_depth
+id_no_color: 9width1height9mmdepth
+id_no_size: 9_width_1_height_9_mm_depth
+id_no_type: plate_9_width_1_height_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_9_width_1_height_9_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_9_width_1_height_9_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_9_width_1_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_9_width_1_height_9_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206fcu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206fcu
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206fcu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206fcu
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_9_width_1_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_9_width_1_height_9_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Plate 9 Width 1 Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_9_width_1_height_9_mm_depth](none)<br><br>'
+md5: 04933e8717f36c5db373f3fec91dfdff
+md5_10: 04933e8717
+md5_10_upper: 04933E8717
+md5_5: 04933
+md5_5_upper: 04933
+md5_6: 04933e
+md5_6_alpha: 6fcu
+md5_6_alpha_upper: 6FCU
+md5_6_upper: 04933E
+name: Oobb Part Plate 9 Width 1 Height 9 mm Depth
+name_no_class: Part Plate 9 Width 1 Height 9 mm Depth
+name_no_color: 9Width1Height9mmdepth
+name_no_size: 9 Width 1 Height 9 mm Depth
+name_no_size_short: 9 Width 1 Height 9 Mm Depth
+name_no_type: Plate 9 Width 1 Height 9 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_9_width_1_height_9_mm_depth
+oomp_word: wink books monkey
+oomp_word_emoji: ':wink: :books: :monkey:'
+oomp_word_emoji_list:
+- ':wink:'
+- ':books:'
+- ':monkey:'
+oomp_word_list:
+- wink
+- books
+- monkey
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

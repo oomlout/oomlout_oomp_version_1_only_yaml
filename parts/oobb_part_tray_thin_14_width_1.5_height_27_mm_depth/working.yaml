@@ -1,0 +1,438 @@
+bip_39_word_dash_1: end
+bip_39_word_dash_10: end-output-arctic-fault-kiss-genuine-crisp-brother-pilot-meat
+bip_39_word_dash_11: end-output-arctic-fault-kiss-genuine-crisp-brother-pilot-meat-task
+bip_39_word_dash_12: end-output-arctic-fault-kiss-genuine-crisp-brother-pilot-meat-task-arrow
+bip_39_word_dash_2: end-output
+bip_39_word_dash_3: end-output-arctic
+bip_39_word_dash_4: end-output-arctic-fault
+bip_39_word_dash_5: end-output-arctic-fault-kiss
+bip_39_word_dash_6: end-output-arctic-fault-kiss-genuine
+bip_39_word_dash_7: end-output-arctic-fault-kiss-genuine-crisp
+bip_39_word_dash_8: end-output-arctic-fault-kiss-genuine-crisp-brother
+bip_39_word_dash_9: end-output-arctic-fault-kiss-genuine-crisp-brother-pilot
+bip_39_word_new_br_1: end
+bip_39_word_new_br_10: end<br>output<br>arctic<br>fault<br>kiss<br>genuine<br>crisp<br>brother<br>pilot<br>meat
+bip_39_word_new_br_11: end<br>output<br>arctic<br>fault<br>kiss<br>genuine<br>crisp<br>brother<br>pilot<br>meat<br>task
+bip_39_word_new_br_12: end<br>output<br>arctic<br>fault<br>kiss<br>genuine<br>crisp<br>brother<br>pilot<br>meat<br>task<br>arrow
+bip_39_word_new_br_2: end<br>output
+bip_39_word_new_br_3: end<br>output<br>arctic
+bip_39_word_new_br_4: end<br>output<br>arctic<br>fault
+bip_39_word_new_br_5: end<br>output<br>arctic<br>fault<br>kiss
+bip_39_word_new_br_6: end<br>output<br>arctic<br>fault<br>kiss<br>genuine
+bip_39_word_new_br_7: end<br>output<br>arctic<br>fault<br>kiss<br>genuine<br>crisp
+bip_39_word_new_br_8: end<br>output<br>arctic<br>fault<br>kiss<br>genuine<br>crisp<br>brother
+bip_39_word_new_br_9: end<br>output<br>arctic<br>fault<br>kiss<br>genuine<br>crisp<br>brother<br>pilot
+bip_39_word_new_line_1: end
+bip_39_word_new_line_10: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine
+
+  crisp
+
+  brother
+
+  pilot
+
+  meat'
+bip_39_word_new_line_11: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine
+
+  crisp
+
+  brother
+
+  pilot
+
+  meat
+
+  task'
+bip_39_word_new_line_12: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine
+
+  crisp
+
+  brother
+
+  pilot
+
+  meat
+
+  task
+
+  arrow'
+bip_39_word_new_line_2: 'end
+
+  output'
+bip_39_word_new_line_3: 'end
+
+  output
+
+  arctic'
+bip_39_word_new_line_4: 'end
+
+  output
+
+  arctic
+
+  fault'
+bip_39_word_new_line_5: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss'
+bip_39_word_new_line_6: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine'
+bip_39_word_new_line_7: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine
+
+  crisp'
+bip_39_word_new_line_8: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine
+
+  crisp
+
+  brother'
+bip_39_word_new_line_9: 'end
+
+  output
+
+  arctic
+
+  fault
+
+  kiss
+
+  genuine
+
+  crisp
+
+  brother
+
+  pilot'
+bip_39_word_no_space_1: end
+bip_39_word_no_space_10: endoutputarcticfaultkissgenuinecrispbrotherpilotmeat
+bip_39_word_no_space_11: endoutputarcticfaultkissgenuinecrispbrotherpilotmeattask
+bip_39_word_no_space_12: endoutputarcticfaultkissgenuinecrispbrotherpilotmeattaskarrow
+bip_39_word_no_space_2: endoutput
+bip_39_word_no_space_3: endoutputarctic
+bip_39_word_no_space_4: endoutputarcticfault
+bip_39_word_no_space_5: endoutputarcticfaultkiss
+bip_39_word_no_space_6: endoutputarcticfaultkissgenuine
+bip_39_word_no_space_7: endoutputarcticfaultkissgenuinecrisp
+bip_39_word_no_space_8: endoutputarcticfaultkissgenuinecrispbrother
+bip_39_word_no_space_9: endoutputarcticfaultkissgenuinecrispbrotherpilot
+bip_39_word_space_0:
+- end
+- output
+- arctic
+- fault
+- kiss
+- genuine
+- crisp
+- brother
+- pilot
+- meat
+- task
+- arrow
+bip_39_word_space_1: end
+bip_39_word_space_10: end output arctic fault kiss genuine crisp brother pilot meat
+bip_39_word_space_11: end output arctic fault kiss genuine crisp brother pilot meat
+  task
+bip_39_word_space_12: end output arctic fault kiss genuine crisp brother pilot meat
+  task arrow
+bip_39_word_space_2: end output
+bip_39_word_space_3: end output arctic
+bip_39_word_space_4: end output arctic fault
+bip_39_word_space_5: end output arctic fault kiss
+bip_39_word_space_6: end output arctic fault kiss genuine
+bip_39_word_space_7: end output arctic fault kiss genuine crisp
+bip_39_word_space_8: end output arctic fault kiss genuine crisp brother
+bip_39_word_space_9: end output arctic fault kiss genuine crisp brother pilot
+bip_39_word_underscore_1: end
+bip_39_word_underscore_10: end_output_arctic_fault_kiss_genuine_crisp_brother_pilot_meat
+bip_39_word_underscore_11: end_output_arctic_fault_kiss_genuine_crisp_brother_pilot_meat_task
+bip_39_word_underscore_12: end_output_arctic_fault_kiss_genuine_crisp_brother_pilot_meat_task_arrow
+bip_39_word_underscore_2: end_output
+bip_39_word_underscore_3: end_output_arctic
+bip_39_word_underscore_4: end_output_arctic_fault
+bip_39_word_underscore_5: end_output_arctic_fault_kiss
+bip_39_word_underscore_6: end_output_arctic_fault_kiss_genuine
+bip_39_word_underscore_7: end_output_arctic_fault_kiss_genuine_crisp
+bip_39_word_underscore_8: end_output_arctic_fault_kiss_genuine_crisp_brother
+bip_39_word_underscore_9: end_output_arctic_fault_kiss_genuine_crisp_brother_pilot
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 14_width_1.5_height_27_mm_depth
+description_main_capital: 14 Width 1.5 Height 27 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '14'
+description_main_length_3: '14_'
+description_main_length_4: 14_w
+description_main_length_5: 14_wi
+description_main_length_6: 14_wid
+description_main_name: 14 Width 1.5 Height 27 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '14'
+description_main_no_space_length_3: 14w
+description_main_no_space_length_4: 14wi
+description_main_no_space_length_5: 14wid
+description_main_no_space_length_6: 14widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '14'
+description_main_no_space_upper_length_3: 14W
+description_main_no_space_upper_length_4: 14WI
+description_main_no_space_upper_length_5: 14WID
+description_main_no_space_upper_length_6: 14WIDT
+description_main_upper: 14_WIDTH_1.5_HEIGHT_27_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '14'
+description_main_upper_length_3: '14_'
+description_main_upper_length_4: 14_W
+description_main_upper_length_5: 14_WI
+description_main_upper_length_6: 14_WID
+description_only_numbers: '141527'
+description_only_numbers_short: 142k
+description_or_color: 142k
+description_or_color_upper: 142K
+directory: parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+id: oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+id_no_class: part_tray_thin_14_width_1.5_height_27_mm_depth
+id_no_color: 14width1.5height27mmdepth
+id_no_size: 14_width_1.5_height_27_mm_depth
+id_no_type: tray_thin_14_width_1.5_height_27_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207y6g2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207y6g2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207y6g2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207y6g2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_14_width_1.5_height_27_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray Thin 14 Width 1.5 Height 27 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_14_width_1.5_height_27_mm_depth](none)<br><br>'
+md5: cbbc2285271ce675853d653e16675a4c
+md5_10: cbbc228527
+md5_10_upper: CBBC228527
+md5_5: cbbc2
+md5_5_upper: CBBC2
+md5_6: cbbc22
+md5_6_alpha: 7y6g2
+md5_6_alpha_upper: 7Y6G2
+md5_6_upper: CBBC22
+name: Oobb Part Tray Thin 14 Width 1.5 Height 27 mm Depth
+name_no_class: Part Tray Thin 14 Width 1.5 Height 27 mm Depth
+name_no_color: 14Width1.5Height27mmdepth
+name_no_size: 14 Width 1.5 Height 27 mm Depth
+name_no_size_short: 14 Width 1.5 Height 27 Mm Depth
+name_no_type: Tray Thin 14 Width 1.5 Height 27 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 27_mm_depth
+oomlout_detail_hierarchy_4_upper: 27_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 27DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_14_width_1.5_height_27_mm_depth
+oomp_word: grapes sushi lips
+oomp_word_emoji: ':grapes: :sushi: :lips:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':sushi:'
+- ':lips:'
+oomp_word_list:
+- grapes
+- sushi
+- lips
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,439 @@
+bip_39_word_dash_1: extend
+bip_39_word_dash_10: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk-raccoon
+bip_39_word_dash_11: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk-raccoon-rib
+bip_39_word_dash_12: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk-raccoon-rib-ancient
+bip_39_word_dash_2: extend-frog
+bip_39_word_dash_3: extend-frog-burger
+bip_39_word_dash_4: extend-frog-burger-voyage
+bip_39_word_dash_5: extend-frog-burger-voyage-witness
+bip_39_word_dash_6: extend-frog-burger-voyage-witness-spirit
+bip_39_word_dash_7: extend-frog-burger-voyage-witness-spirit-inflict
+bip_39_word_dash_8: extend-frog-burger-voyage-witness-spirit-inflict-cable
+bip_39_word_dash_9: extend-frog-burger-voyage-witness-spirit-inflict-cable-chunk
+bip_39_word_new_br_1: extend
+bip_39_word_new_br_10: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk<br>raccoon
+bip_39_word_new_br_11: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk<br>raccoon<br>rib
+bip_39_word_new_br_12: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk<br>raccoon<br>rib<br>ancient
+bip_39_word_new_br_2: extend<br>frog
+bip_39_word_new_br_3: extend<br>frog<br>burger
+bip_39_word_new_br_4: extend<br>frog<br>burger<br>voyage
+bip_39_word_new_br_5: extend<br>frog<br>burger<br>voyage<br>witness
+bip_39_word_new_br_6: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit
+bip_39_word_new_br_7: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict
+bip_39_word_new_br_8: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable
+bip_39_word_new_br_9: extend<br>frog<br>burger<br>voyage<br>witness<br>spirit<br>inflict<br>cable<br>chunk
+bip_39_word_new_line_1: extend
+bip_39_word_new_line_10: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit
+
+  inflict
+
+  cable
+
+  chunk
+
+  raccoon'
+bip_39_word_new_line_11: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit
+
+  inflict
+
+  cable
+
+  chunk
+
+  raccoon
+
+  rib'
+bip_39_word_new_line_12: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit
+
+  inflict
+
+  cable
+
+  chunk
+
+  raccoon
+
+  rib
+
+  ancient'
+bip_39_word_new_line_2: 'extend
+
+  frog'
+bip_39_word_new_line_3: 'extend
+
+  frog
+
+  burger'
+bip_39_word_new_line_4: 'extend
+
+  frog
+
+  burger
+
+  voyage'
+bip_39_word_new_line_5: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness'
+bip_39_word_new_line_6: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit'
+bip_39_word_new_line_7: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit
+
+  inflict'
+bip_39_word_new_line_8: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit
+
+  inflict
+
+  cable'
+bip_39_word_new_line_9: 'extend
+
+  frog
+
+  burger
+
+  voyage
+
+  witness
+
+  spirit
+
+  inflict
+
+  cable
+
+  chunk'
+bip_39_word_no_space_1: extend
+bip_39_word_no_space_10: extendfrogburgervoyagewitnessspiritinflictcablechunkraccoon
+bip_39_word_no_space_11: extendfrogburgervoyagewitnessspiritinflictcablechunkraccoonrib
+bip_39_word_no_space_12: extendfrogburgervoyagewitnessspiritinflictcablechunkraccoonribancient
+bip_39_word_no_space_2: extendfrog
+bip_39_word_no_space_3: extendfrogburger
+bip_39_word_no_space_4: extendfrogburgervoyage
+bip_39_word_no_space_5: extendfrogburgervoyagewitness
+bip_39_word_no_space_6: extendfrogburgervoyagewitnessspirit
+bip_39_word_no_space_7: extendfrogburgervoyagewitnessspiritinflict
+bip_39_word_no_space_8: extendfrogburgervoyagewitnessspiritinflictcable
+bip_39_word_no_space_9: extendfrogburgervoyagewitnessspiritinflictcablechunk
+bip_39_word_space_0:
+- extend
+- frog
+- burger
+- voyage
+- witness
+- spirit
+- inflict
+- cable
+- chunk
+- raccoon
+- rib
+- ancient
+bip_39_word_space_1: extend
+bip_39_word_space_10: extend frog burger voyage witness spirit inflict cable chunk
+  raccoon
+bip_39_word_space_11: extend frog burger voyage witness spirit inflict cable chunk
+  raccoon rib
+bip_39_word_space_12: extend frog burger voyage witness spirit inflict cable chunk
+  raccoon rib ancient
+bip_39_word_space_2: extend frog
+bip_39_word_space_3: extend frog burger
+bip_39_word_space_4: extend frog burger voyage
+bip_39_word_space_5: extend frog burger voyage witness
+bip_39_word_space_6: extend frog burger voyage witness spirit
+bip_39_word_space_7: extend frog burger voyage witness spirit inflict
+bip_39_word_space_8: extend frog burger voyage witness spirit inflict cable
+bip_39_word_space_9: extend frog burger voyage witness spirit inflict cable chunk
+bip_39_word_underscore_1: extend
+bip_39_word_underscore_10: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk_raccoon
+bip_39_word_underscore_11: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk_raccoon_rib
+bip_39_word_underscore_12: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk_raccoon_rib_ancient
+bip_39_word_underscore_2: extend_frog
+bip_39_word_underscore_3: extend_frog_burger
+bip_39_word_underscore_4: extend_frog_burger_voyage
+bip_39_word_underscore_5: extend_frog_burger_voyage_witness
+bip_39_word_underscore_6: extend_frog_burger_voyage_witness_spirit
+bip_39_word_underscore_7: extend_frog_burger_voyage_witness_spirit_inflict
+bip_39_word_underscore_8: extend_frog_burger_voyage_witness_spirit_inflict_cable
+bip_39_word_underscore_9: extend_frog_burger_voyage_witness_spirit_inflict_cable_chunk
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 12_width_2_height_21_mm_depth
+description_main_capital: 12 Width 2 Height 21 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_w
+description_main_length_5: 12_wi
+description_main_length_6: 12_wid
+description_main_name: 12 Width 2 Height 21 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12w
+description_main_no_space_length_4: 12wi
+description_main_no_space_length_5: 12wid
+description_main_no_space_length_6: 12widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12W
+description_main_no_space_upper_length_4: 12WI
+description_main_no_space_upper_length_5: 12WID
+description_main_no_space_upper_length_6: 12WIDT
+description_main_upper: 12_WIDTH_2_HEIGHT_21_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_W
+description_main_upper_length_5: 12_WI
+description_main_upper_length_6: 12_WID
+description_only_numbers: '12221'
+description_only_numbers_short: 12k
+description_or_color: 12k
+description_or_color_upper: 12K
+directory: parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+id: oobb_part_tray_thin_12_width_2_height_21_mm_depth
+id_no_class: part_tray_thin_12_width_2_height_21_mm_depth
+id_no_color: 12width2height21mmdepth
+id_no_size: 12_width_2_height_21_mm_depth
+id_no_type: tray_thin_12_width_2_height_21_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205d2b0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205d2b0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205d2b0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205d2b0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_12_width_2_height_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_12_width_2_height_21_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray Thin 12 Width 2 Height 21 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_12_width_2_height_21_mm_depth](none)<br><br>'
+md5: 8971ec11451fee6f487e5f603d574a87
+md5_10: 8971ec1145
+md5_10_upper: 8971EC1145
+md5_5: 8971e
+md5_5_upper: 8971E
+md5_6: 8971ec
+md5_6_alpha: 5d2b0
+md5_6_alpha_upper: 5D2B0
+md5_6_upper: 8971EC
+name: Oobb Part Tray Thin 12 Width 2 Height 21 mm Depth
+name_no_class: Part Tray Thin 12 Width 2 Height 21 mm Depth
+name_no_color: 12Width2Height21mmdepth
+name_no_size: 12 Width 2 Height 21 mm Depth
+name_no_size_short: 12 Width 2 Height 21 Mm Depth
+name_no_type: Tray Thin 12 Width 2 Height 21 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 21_mm_depth
+oomlout_detail_hierarchy_4_upper: 21_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 21DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_12_width_2_height_21_mm_depth
+oomp_word: hammer bamboo taxi
+oomp_word_emoji: ':hammer: :bamboo: :taxi:'
+oomp_word_emoji_list:
+- ':hammer:'
+- ':bamboo:'
+- ':taxi:'
+oomp_word_list:
+- hammer
+- bamboo
+- taxi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

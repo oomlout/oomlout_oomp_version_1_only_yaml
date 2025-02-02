@@ -1,0 +1,466 @@
+bip_39_word_dash_1: crunch
+bip_39_word_dash_10: crunch-remain-lend-awkward-page-they-future-find-magnet-before
+bip_39_word_dash_11: crunch-remain-lend-awkward-page-they-future-find-magnet-before-pigeon
+bip_39_word_dash_12: crunch-remain-lend-awkward-page-they-future-find-magnet-before-pigeon-amateur
+bip_39_word_dash_2: crunch-remain
+bip_39_word_dash_3: crunch-remain-lend
+bip_39_word_dash_4: crunch-remain-lend-awkward
+bip_39_word_dash_5: crunch-remain-lend-awkward-page
+bip_39_word_dash_6: crunch-remain-lend-awkward-page-they
+bip_39_word_dash_7: crunch-remain-lend-awkward-page-they-future
+bip_39_word_dash_8: crunch-remain-lend-awkward-page-they-future-find
+bip_39_word_dash_9: crunch-remain-lend-awkward-page-they-future-find-magnet
+bip_39_word_new_br_1: crunch
+bip_39_word_new_br_10: crunch<br>remain<br>lend<br>awkward<br>page<br>they<br>future<br>find<br>magnet<br>before
+bip_39_word_new_br_11: crunch<br>remain<br>lend<br>awkward<br>page<br>they<br>future<br>find<br>magnet<br>before<br>pigeon
+bip_39_word_new_br_12: crunch<br>remain<br>lend<br>awkward<br>page<br>they<br>future<br>find<br>magnet<br>before<br>pigeon<br>amateur
+bip_39_word_new_br_2: crunch<br>remain
+bip_39_word_new_br_3: crunch<br>remain<br>lend
+bip_39_word_new_br_4: crunch<br>remain<br>lend<br>awkward
+bip_39_word_new_br_5: crunch<br>remain<br>lend<br>awkward<br>page
+bip_39_word_new_br_6: crunch<br>remain<br>lend<br>awkward<br>page<br>they
+bip_39_word_new_br_7: crunch<br>remain<br>lend<br>awkward<br>page<br>they<br>future
+bip_39_word_new_br_8: crunch<br>remain<br>lend<br>awkward<br>page<br>they<br>future<br>find
+bip_39_word_new_br_9: crunch<br>remain<br>lend<br>awkward<br>page<br>they<br>future<br>find<br>magnet
+bip_39_word_new_line_1: crunch
+bip_39_word_new_line_10: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they
+
+  future
+
+  find
+
+  magnet
+
+  before'
+bip_39_word_new_line_11: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they
+
+  future
+
+  find
+
+  magnet
+
+  before
+
+  pigeon'
+bip_39_word_new_line_12: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they
+
+  future
+
+  find
+
+  magnet
+
+  before
+
+  pigeon
+
+  amateur'
+bip_39_word_new_line_2: 'crunch
+
+  remain'
+bip_39_word_new_line_3: 'crunch
+
+  remain
+
+  lend'
+bip_39_word_new_line_4: 'crunch
+
+  remain
+
+  lend
+
+  awkward'
+bip_39_word_new_line_5: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page'
+bip_39_word_new_line_6: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they'
+bip_39_word_new_line_7: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they
+
+  future'
+bip_39_word_new_line_8: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they
+
+  future
+
+  find'
+bip_39_word_new_line_9: 'crunch
+
+  remain
+
+  lend
+
+  awkward
+
+  page
+
+  they
+
+  future
+
+  find
+
+  magnet'
+bip_39_word_no_space_1: crunch
+bip_39_word_no_space_10: crunchremainlendawkwardpagetheyfuturefindmagnetbefore
+bip_39_word_no_space_11: crunchremainlendawkwardpagetheyfuturefindmagnetbeforepigeon
+bip_39_word_no_space_12: crunchremainlendawkwardpagetheyfuturefindmagnetbeforepigeonamateur
+bip_39_word_no_space_2: crunchremain
+bip_39_word_no_space_3: crunchremainlend
+bip_39_word_no_space_4: crunchremainlendawkward
+bip_39_word_no_space_5: crunchremainlendawkwardpage
+bip_39_word_no_space_6: crunchremainlendawkwardpagethey
+bip_39_word_no_space_7: crunchremainlendawkwardpagetheyfuture
+bip_39_word_no_space_8: crunchremainlendawkwardpagetheyfuturefind
+bip_39_word_no_space_9: crunchremainlendawkwardpagetheyfuturefindmagnet
+bip_39_word_space_0:
+- crunch
+- remain
+- lend
+- awkward
+- page
+- they
+- future
+- find
+- magnet
+- before
+- pigeon
+- amateur
+bip_39_word_space_1: crunch
+bip_39_word_space_10: crunch remain lend awkward page they future find magnet before
+bip_39_word_space_11: crunch remain lend awkward page they future find magnet before
+  pigeon
+bip_39_word_space_12: crunch remain lend awkward page they future find magnet before
+  pigeon amateur
+bip_39_word_space_2: crunch remain
+bip_39_word_space_3: crunch remain lend
+bip_39_word_space_4: crunch remain lend awkward
+bip_39_word_space_5: crunch remain lend awkward page
+bip_39_word_space_6: crunch remain lend awkward page they
+bip_39_word_space_7: crunch remain lend awkward page they future
+bip_39_word_space_8: crunch remain lend awkward page they future find
+bip_39_word_space_9: crunch remain lend awkward page they future find magnet
+bip_39_word_underscore_1: crunch
+bip_39_word_underscore_10: crunch_remain_lend_awkward_page_they_future_find_magnet_before
+bip_39_word_underscore_11: crunch_remain_lend_awkward_page_they_future_find_magnet_before_pigeon
+bip_39_word_underscore_12: crunch_remain_lend_awkward_page_they_future_find_magnet_before_pigeon_amateur
+bip_39_word_underscore_2: crunch_remain
+bip_39_word_underscore_3: crunch_remain_lend
+bip_39_word_underscore_4: crunch_remain_lend_awkward
+bip_39_word_underscore_5: crunch_remain_lend_awkward_page
+bip_39_word_underscore_6: crunch_remain_lend_awkward_page_they
+bip_39_word_underscore_7: crunch_remain_lend_awkward_page_they_future
+bip_39_word_underscore_8: crunch_remain_lend_awkward_page_they_future_find
+bip_39_word_underscore_9: crunch_remain_lend_awkward_page_they_future_find_magnet
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cubby_long
+color_capital: Box Cubby Long
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cubby Long
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBBY_LONG
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '1'
+description_main_capital: '1'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '1'
+description_main_length_3: '1'
+description_main_length_4: '1'
+description_main_length_5: '1'
+description_main_length_6: '1'
+description_main_name: '1'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '1'
+description_main_no_space_length_3: '1'
+description_main_no_space_length_4: '1'
+description_main_no_space_length_5: '1'
+description_main_no_space_length_6: '1'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '1'
+description_main_no_space_upper_length_3: '1'
+description_main_no_space_upper_length_4: '1'
+description_main_no_space_upper_length_5: '1'
+description_main_no_space_upper_length_6: '1'
+description_main_upper: '1'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1'
+description_main_upper_length_3: '1'
+description_main_upper_length_4: '1'
+description_main_upper_length_5: '1'
+description_main_upper_length_6: '1'
+description_only_numbers: '1'
+description_only_numbers_short: '1'
+description_or_color: B1
+description_or_color_upper: B1
+directory: parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+id: warehouse_storage_container_oomlout_owner_box_cubby_long_1
+id_no_class: storage_container_oomlout_owner_box_cubby_long_1
+id_no_color: '1'
+id_no_size: box_cubby_long_1
+id_no_type: oomlout_owner_box_cubby_long_1
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204t6bp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204t6bp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204t6bp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204t6bp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_1
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cubby_long_1](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cubby Long 1](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cubby_long_1](none)<br><br>'
+md5: 7b49450c2f56abd3824f710cffed61a7
+md5_10: 7b49450c2f
+md5_10_upper: 7B49450C2F
+md5_5: 7b494
+md5_5_upper: 7B494
+md5_6: 7b4945
+md5_6_alpha: 4t6bp
+md5_6_alpha_upper: 4T6BP
+md5_6_upper: 7B4945
+name: Warehouse Storage Container Oomlout Owner Box Cubby Long 1
+name_no_class: Storage Container Oomlout Owner Box Cubby Long 1
+name_no_color: '1'
+name_no_size: Box Cubby Long 1
+name_no_size_short: Box Cubby Long 1
+name_no_type: Oomlout Owner Box Cubby Long 1
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cubby_long
+oomlout_detail_hierarchy_4_upper: BOX_CUBBY_LONG
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '1'
+oomlout_detail_hierarchy_5_upper: '1'
+oomlout_detail_hierarchy_5_upper_length_4: '1'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cubby_long_1
+oomp_word: computer hatching_chick snake
+oomp_word_emoji: ':computer: :hatching_chick: :snake:'
+oomp_word_emoji_list:
+- ':computer:'
+- ':hatching_chick:'
+- ':snake:'
+oomp_word_list:
+- computer
+- hatching_chick
+- snake
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

@@ -1,0 +1,464 @@
+bip_39_word_dash_1: hero
+bip_39_word_dash_10: hero-clock-lizard-any-book-bird-grass-honey-express-oven
+bip_39_word_dash_11: hero-clock-lizard-any-book-bird-grass-honey-express-oven-million
+bip_39_word_dash_12: hero-clock-lizard-any-book-bird-grass-honey-express-oven-million-ask
+bip_39_word_dash_2: hero-clock
+bip_39_word_dash_3: hero-clock-lizard
+bip_39_word_dash_4: hero-clock-lizard-any
+bip_39_word_dash_5: hero-clock-lizard-any-book
+bip_39_word_dash_6: hero-clock-lizard-any-book-bird
+bip_39_word_dash_7: hero-clock-lizard-any-book-bird-grass
+bip_39_word_dash_8: hero-clock-lizard-any-book-bird-grass-honey
+bip_39_word_dash_9: hero-clock-lizard-any-book-bird-grass-honey-express
+bip_39_word_new_br_1: hero
+bip_39_word_new_br_10: hero<br>clock<br>lizard<br>any<br>book<br>bird<br>grass<br>honey<br>express<br>oven
+bip_39_word_new_br_11: hero<br>clock<br>lizard<br>any<br>book<br>bird<br>grass<br>honey<br>express<br>oven<br>million
+bip_39_word_new_br_12: hero<br>clock<br>lizard<br>any<br>book<br>bird<br>grass<br>honey<br>express<br>oven<br>million<br>ask
+bip_39_word_new_br_2: hero<br>clock
+bip_39_word_new_br_3: hero<br>clock<br>lizard
+bip_39_word_new_br_4: hero<br>clock<br>lizard<br>any
+bip_39_word_new_br_5: hero<br>clock<br>lizard<br>any<br>book
+bip_39_word_new_br_6: hero<br>clock<br>lizard<br>any<br>book<br>bird
+bip_39_word_new_br_7: hero<br>clock<br>lizard<br>any<br>book<br>bird<br>grass
+bip_39_word_new_br_8: hero<br>clock<br>lizard<br>any<br>book<br>bird<br>grass<br>honey
+bip_39_word_new_br_9: hero<br>clock<br>lizard<br>any<br>book<br>bird<br>grass<br>honey<br>express
+bip_39_word_new_line_1: hero
+bip_39_word_new_line_10: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird
+
+  grass
+
+  honey
+
+  express
+
+  oven'
+bip_39_word_new_line_11: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird
+
+  grass
+
+  honey
+
+  express
+
+  oven
+
+  million'
+bip_39_word_new_line_12: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird
+
+  grass
+
+  honey
+
+  express
+
+  oven
+
+  million
+
+  ask'
+bip_39_word_new_line_2: 'hero
+
+  clock'
+bip_39_word_new_line_3: 'hero
+
+  clock
+
+  lizard'
+bip_39_word_new_line_4: 'hero
+
+  clock
+
+  lizard
+
+  any'
+bip_39_word_new_line_5: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book'
+bip_39_word_new_line_6: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird'
+bip_39_word_new_line_7: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird
+
+  grass'
+bip_39_word_new_line_8: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird
+
+  grass
+
+  honey'
+bip_39_word_new_line_9: 'hero
+
+  clock
+
+  lizard
+
+  any
+
+  book
+
+  bird
+
+  grass
+
+  honey
+
+  express'
+bip_39_word_no_space_1: hero
+bip_39_word_no_space_10: heroclocklizardanybookbirdgrasshoneyexpressoven
+bip_39_word_no_space_11: heroclocklizardanybookbirdgrasshoneyexpressovenmillion
+bip_39_word_no_space_12: heroclocklizardanybookbirdgrasshoneyexpressovenmillionask
+bip_39_word_no_space_2: heroclock
+bip_39_word_no_space_3: heroclocklizard
+bip_39_word_no_space_4: heroclocklizardany
+bip_39_word_no_space_5: heroclocklizardanybook
+bip_39_word_no_space_6: heroclocklizardanybookbird
+bip_39_word_no_space_7: heroclocklizardanybookbirdgrass
+bip_39_word_no_space_8: heroclocklizardanybookbirdgrasshoney
+bip_39_word_no_space_9: heroclocklizardanybookbirdgrasshoneyexpress
+bip_39_word_space_0:
+- hero
+- clock
+- lizard
+- any
+- book
+- bird
+- grass
+- honey
+- express
+- oven
+- million
+- ask
+bip_39_word_space_1: hero
+bip_39_word_space_10: hero clock lizard any book bird grass honey express oven
+bip_39_word_space_11: hero clock lizard any book bird grass honey express oven million
+bip_39_word_space_12: hero clock lizard any book bird grass honey express oven million
+  ask
+bip_39_word_space_2: hero clock
+bip_39_word_space_3: hero clock lizard
+bip_39_word_space_4: hero clock lizard any
+bip_39_word_space_5: hero clock lizard any book
+bip_39_word_space_6: hero clock lizard any book bird
+bip_39_word_space_7: hero clock lizard any book bird grass
+bip_39_word_space_8: hero clock lizard any book bird grass honey
+bip_39_word_space_9: hero clock lizard any book bird grass honey express
+bip_39_word_underscore_1: hero
+bip_39_word_underscore_10: hero_clock_lizard_any_book_bird_grass_honey_express_oven
+bip_39_word_underscore_11: hero_clock_lizard_any_book_bird_grass_honey_express_oven_million
+bip_39_word_underscore_12: hero_clock_lizard_any_book_bird_grass_honey_express_oven_million_ask
+bip_39_word_underscore_2: hero_clock
+bip_39_word_underscore_3: hero_clock_lizard
+bip_39_word_underscore_4: hero_clock_lizard_any
+bip_39_word_underscore_5: hero_clock_lizard_any_book
+bip_39_word_underscore_6: hero_clock_lizard_any_book_bird
+bip_39_word_underscore_7: hero_clock_lizard_any_book_bird_grass
+bip_39_word_underscore_8: hero_clock_lizard_any_book_bird_grass_honey
+bip_39_word_underscore_9: hero_clock_lizard_any_book_bird_grass_honey_express
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: l_extra
+description_extra_capital: L Extra
+description_extra_first_letter: l
+description_extra_first_letter_upper: L
+description_extra_length_1: l
+description_extra_length_2: l_
+description_extra_length_3: l_e
+description_extra_length_4: l_ex
+description_extra_length_5: l_ext
+description_extra_length_6: l_extr
+description_extra_name: L Extra
+description_extra_no_space_length_1: l
+description_extra_no_space_length_2: le
+description_extra_no_space_length_3: lex
+description_extra_no_space_length_4: lext
+description_extra_no_space_length_5: lextr
+description_extra_no_space_length_6: lextra
+description_extra_no_space_upper_length_1: L
+description_extra_no_space_upper_length_2: LE
+description_extra_no_space_upper_length_3: LEX
+description_extra_no_space_upper_length_4: LEXT
+description_extra_no_space_upper_length_5: LEXTR
+description_extra_no_space_upper_length_6: LEXTRA
+description_extra_upper: L_EXTRA
+description_extra_upper_length_1: L
+description_extra_upper_length_2: L_
+description_extra_upper_length_3: L_E
+description_extra_upper_length_4: L_EX
+description_extra_upper_length_5: L_EXT
+description_extra_upper_length_6: L_EXTR
+description_main: 3_width_3_height_9_mm_depth
+description_main_capital: 3 Width 3 Height 9 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 3 Height 9 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper: 3_WIDTH_3_HEIGHT_9_MM_DEPTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+description_only_numbers: '339'
+description_only_numbers_short: '339'
+description_or_color: '339'
+description_or_color_upper: '339'
+directory: parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+id: oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+id_no_class: part_plate_3_width_3_height_9_mm_depth_l_extra
+id_no_color: 3width3height9mmdepthlextra
+id_no_size: 3_width_3_height_9_mm_depth_l_extra
+id_no_type: plate_3_width_3_height_9_mm_depth_l_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208bbzb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208bbzb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208bbzb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208bbzb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_3_width_3_height_9_mm_depth_l_extra](none)<br>[](none)<br>[Oobb
+  Part Plate 3 Width 3 Height 9 Mm Depth L Extra](none)<br><br>'
+markdown_short: '[oobb_part_plate_3_width_3_height_9_mm_depth_l_extra](none)<br><br>'
+md5: d5196772866d2cbc5a0cc0a3058adb5a
+md5_10: d519677286
+md5_10_upper: D519677286
+md5_5: d5196
+md5_5_upper: D5196
+md5_6: d51967
+md5_6_alpha: 8bbzb
+md5_6_alpha_upper: 8BBZB
+md5_6_upper: D51967
+name: Oobb Part Plate 3 Width 3 Height 9 mm Depth L Extra
+name_no_class: Part Plate 3 Width 3 Height 9 mm Depth L Extra
+name_no_color: 3Width3Height9mmdepthlextra
+name_no_size: 3 Width 3 Height 9 mm Depth L Extra
+name_no_size_short: 3 Width 3 Height 9 Mm Depth L Extra
+name_no_type: Plate 3 Width 3 Height 9 mm Depth L Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_detail_hierarchy_5: l_extra
+oomlout_detail_hierarchy_5_upper: L_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: L_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_3_width_3_height_9_mm_depth_l_extra
+oomp_word: house pray herb
+oomp_word_emoji: ':house: :pray: :herb:'
+oomp_word_emoji_list:
+- ':house:'
+- ':pray:'
+- ':herb:'
+oomp_word_list:
+- house
+- pray
+- herb
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

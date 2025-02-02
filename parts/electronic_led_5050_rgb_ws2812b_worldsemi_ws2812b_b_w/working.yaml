@@ -1,0 +1,566 @@
+bip_39_word_dash_1: soda
+bip_39_word_dash_10: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth
+bip_39_word_dash_11: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth-holiday
+bip_39_word_dash_12: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof-wealth-holiday-audit
+bip_39_word_dash_2: soda-fault
+bip_39_word_dash_3: soda-fault-exist
+bip_39_word_dash_4: soda-fault-exist-zoo
+bip_39_word_dash_5: soda-fault-exist-zoo-bamboo
+bip_39_word_dash_6: soda-fault-exist-zoo-bamboo-whale
+bip_39_word_dash_7: soda-fault-exist-zoo-bamboo-whale-celery
+bip_39_word_dash_8: soda-fault-exist-zoo-bamboo-whale-celery-custom
+bip_39_word_dash_9: soda-fault-exist-zoo-bamboo-whale-celery-custom-roof
+bip_39_word_new_br_1: soda
+bip_39_word_new_br_10: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth
+bip_39_word_new_br_11: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday
+bip_39_word_new_br_12: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof<br>wealth<br>holiday<br>audit
+bip_39_word_new_br_2: soda<br>fault
+bip_39_word_new_br_3: soda<br>fault<br>exist
+bip_39_word_new_br_4: soda<br>fault<br>exist<br>zoo
+bip_39_word_new_br_5: soda<br>fault<br>exist<br>zoo<br>bamboo
+bip_39_word_new_br_6: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale
+bip_39_word_new_br_7: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery
+bip_39_word_new_br_8: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom
+bip_39_word_new_br_9: soda<br>fault<br>exist<br>zoo<br>bamboo<br>whale<br>celery<br>custom<br>roof
+bip_39_word_new_line_1: soda
+bip_39_word_new_line_10: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale
+
+  celery
+
+  custom
+
+  roof
+
+  wealth'
+bip_39_word_new_line_11: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale
+
+  celery
+
+  custom
+
+  roof
+
+  wealth
+
+  holiday'
+bip_39_word_new_line_12: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale
+
+  celery
+
+  custom
+
+  roof
+
+  wealth
+
+  holiday
+
+  audit'
+bip_39_word_new_line_2: 'soda
+
+  fault'
+bip_39_word_new_line_3: 'soda
+
+  fault
+
+  exist'
+bip_39_word_new_line_4: 'soda
+
+  fault
+
+  exist
+
+  zoo'
+bip_39_word_new_line_5: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo'
+bip_39_word_new_line_6: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale'
+bip_39_word_new_line_7: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale
+
+  celery'
+bip_39_word_new_line_8: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale
+
+  celery
+
+  custom'
+bip_39_word_new_line_9: 'soda
+
+  fault
+
+  exist
+
+  zoo
+
+  bamboo
+
+  whale
+
+  celery
+
+  custom
+
+  roof'
+bip_39_word_no_space_1: soda
+bip_39_word_no_space_10: sodafaultexistzoobamboowhalecelerycustomroofwealth
+bip_39_word_no_space_11: sodafaultexistzoobamboowhalecelerycustomroofwealthholiday
+bip_39_word_no_space_12: sodafaultexistzoobamboowhalecelerycustomroofwealthholidayaudit
+bip_39_word_no_space_2: sodafault
+bip_39_word_no_space_3: sodafaultexist
+bip_39_word_no_space_4: sodafaultexistzoo
+bip_39_word_no_space_5: sodafaultexistzoobamboo
+bip_39_word_no_space_6: sodafaultexistzoobamboowhale
+bip_39_word_no_space_7: sodafaultexistzoobamboowhalecelery
+bip_39_word_no_space_8: sodafaultexistzoobamboowhalecelerycustom
+bip_39_word_no_space_9: sodafaultexistzoobamboowhalecelerycustomroof
+bip_39_word_space_0:
+- soda
+- fault
+- exist
+- zoo
+- bamboo
+- whale
+- celery
+- custom
+- roof
+- wealth
+- holiday
+- audit
+bip_39_word_space_1: soda
+bip_39_word_space_10: soda fault exist zoo bamboo whale celery custom roof wealth
+bip_39_word_space_11: soda fault exist zoo bamboo whale celery custom roof wealth
+  holiday
+bip_39_word_space_12: soda fault exist zoo bamboo whale celery custom roof wealth
+  holiday audit
+bip_39_word_space_2: soda fault
+bip_39_word_space_3: soda fault exist
+bip_39_word_space_4: soda fault exist zoo
+bip_39_word_space_5: soda fault exist zoo bamboo
+bip_39_word_space_6: soda fault exist zoo bamboo whale
+bip_39_word_space_7: soda fault exist zoo bamboo whale celery
+bip_39_word_space_8: soda fault exist zoo bamboo whale celery custom
+bip_39_word_space_9: soda fault exist zoo bamboo whale celery custom roof
+bip_39_word_underscore_1: soda
+bip_39_word_underscore_10: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth
+bip_39_word_underscore_11: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth_holiday
+bip_39_word_underscore_12: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof_wealth_holiday_audit
+bip_39_word_underscore_2: soda_fault
+bip_39_word_underscore_3: soda_fault_exist
+bip_39_word_underscore_4: soda_fault_exist_zoo
+bip_39_word_underscore_5: soda_fault_exist_zoo_bamboo
+bip_39_word_underscore_6: soda_fault_exist_zoo_bamboo_whale
+bip_39_word_underscore_7: soda_fault_exist_zoo_bamboo_whale_celery
+bip_39_word_underscore_8: soda_fault_exist_zoo_bamboo_whale_celery_custom
+bip_39_word_underscore_9: soda_fault_exist_zoo_bamboo_whale_celery_custom_roof
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: rgb
+color_capital: Rgb
+color_first_letter: r
+color_first_letter_upper: R
+color_length_1: r
+color_length_2: rg
+color_length_3: rgb
+color_length_4: rgb
+color_length_5: rgb
+color_length_6: rgb
+color_name: RGB
+color_no_space_length_1: r
+color_no_space_length_2: rg
+color_no_space_length_3: rgb
+color_no_space_length_4: rgb
+color_no_space_length_5: rgb
+color_no_space_length_6: rgb
+color_no_space_upper_length_1: R
+color_no_space_upper_length_2: RG
+color_no_space_upper_length_3: RGB
+color_no_space_upper_length_4: RGB
+color_no_space_upper_length_5: RGB
+color_no_space_upper_length_6: RGB
+color_upper: RGB
+color_upper_length_1: R
+color_upper_length_2: RG
+color_upper_length_3: RGB
+color_upper_length_4: RGB
+color_upper_length_5: RGB
+color_upper_length_6: RGB
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ws2812b
+description_main_capital: Ws2812B
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_length_1: w
+description_main_length_2: ws
+description_main_length_3: ws2
+description_main_length_4: ws28
+description_main_length_5: ws281
+description_main_length_6: ws2812
+description_main_name: Ws2812B
+description_main_no_space_length_1: w
+description_main_no_space_length_2: ws
+description_main_no_space_length_3: ws2
+description_main_no_space_length_4: ws28
+description_main_no_space_length_5: ws281
+description_main_no_space_length_6: ws2812
+description_main_no_space_upper_length_1: W
+description_main_no_space_upper_length_2: WS
+description_main_no_space_upper_length_3: WS2
+description_main_no_space_upper_length_4: WS28
+description_main_no_space_upper_length_5: WS281
+description_main_no_space_upper_length_6: WS2812
+description_main_upper: WS2812B
+description_main_upper_length_1: W
+description_main_upper_length_2: WS
+description_main_upper_length_3: WS2
+description_main_upper_length_4: WS28
+description_main_upper_length_5: WS281
+description_main_upper_length_6: WS2812
+description_only_numbers: '2812'
+description_only_numbers_short: 2k8
+description_or_color: R2k8
+description_or_color_upper: R2K8
+directory: parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+distributors:
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C114586.html
+  name: LCSC
+  part_number: C114586
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+  note: source footprint kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+  oomp_key: oomp_kicad_led_smd_led_ws2812b_plcc4_5_0x5_0mm_p3_2mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_l50502812ws2812bbw_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_l50502812ws2812bbw_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l50502812ws2812bbw_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+id: electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+id_no_class: led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+id_no_color: ws2812b_worldsemi_ws2812b_b_w
+id_no_size: rgb_ws2812b_worldsemi_ws2812b_b_w
+id_no_type: 5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ebb2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ebb2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209ebb2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ebb2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+manufacturer: worldsemi
+manufacturer_capital: Worldsemi
+manufacturer_first_letter: w
+manufacturer_first_letter_upper: W
+manufacturer_length_1: w
+manufacturer_length_2: wo
+manufacturer_length_3: wor
+manufacturer_length_4: worl
+manufacturer_length_5: world
+manufacturer_length_6: worlds
+manufacturer_name: Worldsemi
+manufacturer_no_space_length_1: w
+manufacturer_no_space_length_2: wo
+manufacturer_no_space_length_3: wor
+manufacturer_no_space_length_4: worl
+manufacturer_no_space_length_5: world
+manufacturer_no_space_length_6: worlds
+manufacturer_no_space_upper_length_1: W
+manufacturer_no_space_upper_length_2: WO
+manufacturer_no_space_upper_length_3: WOR
+manufacturer_no_space_upper_length_4: WORL
+manufacturer_no_space_upper_length_5: WORLD
+manufacturer_no_space_upper_length_6: WORLDS
+manufacturer_upper: WORLDSEMI
+manufacturer_upper_length_1: W
+manufacturer_upper_length_2: WO
+manufacturer_upper_length_3: WOR
+manufacturer_upper_length_4: WORL
+manufacturer_upper_length_5: WORLD
+manufacturer_upper_length_6: WORLDS
+manufacturers:
+- id: manufacturer_worldsemi
+  link: http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en
+  name: Worldsmi
+  part_number: WS2812B-B/W
+markdown_full: '[electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](none)<br>[l50502812ws2812bbw](none)<br>[Electronic
+  Led 5050 Rgb Ws2812B Worldsemi Ws2812B B W](none)<br>[LCSC - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi
+  - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en)
+  [(L)  ](https://www.lcsc.com/search?q=WS2812B-B/W)[(D)  ](https://www.digikey.com/en/products?keywords=WS2812B-B/W)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=WS2812B-B/W)[(N)  ](https://www.newark.com/search?st=WS2812B-B/W)[(SZ)  ](https://so.szlcsc.com/global.html?k=WS2812B-B/W)<br>'
+markdown_short: '[electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w](none)<br>[LCSC
+  - C114586<br>](https://lcsc.com/product-detail/C114586.html)<br>[Worldsmi - WS2812B-B/W](http://www.world-semi.com/web/index.php?topclassid=16&classid=302&lanstr=en)'
+md5: f0d9be0ddd3684a3e6890ffe9f94fe71
+md5_10: f0d9be0ddd
+md5_10_upper: F0D9BE0DDD
+md5_5: f0d9b
+md5_5_upper: F0D9B
+md5_6: f0d9be
+md5_6_alpha: 9ebb2
+md5_6_alpha_upper: 9EBB2
+md5_6_upper: F0D9BE
+name: Electronic LED 5050 RGB Ws2812B Worldsemi Ws2812B B W
+name_no_class: LED 5050 RGB Ws2812B Worldsemi Ws2812B B W
+name_no_color: Ws2812B Worldsemi Ws2812B B W
+name_no_size: RGB Ws2812B Worldsemi Ws2812B B W
+name_no_size_short: Rgb Ws2k8B Worldsemi Ws2k8B B W
+name_no_type: 5050 RGB Ws2812B Worldsemi Ws2812B B W
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: led
+oomlout_detail_hierarchy_2_upper: LED
+oomlout_detail_hierarchy_2_upper_length_4: LED
+oomlout_detail_hierarchy_3: '5050'
+oomlout_detail_hierarchy_3_upper: '5050'
+oomlout_detail_hierarchy_3_upper_length_4: '5050'
+oomlout_detail_hierarchy_4: rgb
+oomlout_detail_hierarchy_4_upper: RGB
+oomlout_detail_hierarchy_4_upper_length_4: RGB
+oomlout_detail_hierarchy_5: ws2812b
+oomlout_detail_hierarchy_5_upper: WS2812B
+oomlout_detail_hierarchy_5_upper_length_4: WS28
+oomlout_detail_hierarchy_6: worldsemi
+oomlout_detail_hierarchy_6_upper: WORLDSEMI
+oomlout_detail_hierarchy_6_upper_length_4: WORL
+oomlout_detail_hierarchy_7: ws2812b_b_w
+oomlout_detail_hierarchy_7_upper: WS2812B_B_W
+oomlout_detail_hierarchy_7_upper_length_4: WS28
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
+oomp_word: train bank ramen
+oomp_word_emoji: ':train: :bank: :ramen:'
+oomp_word_emoji_list:
+- ':train:'
+- ':bank:'
+- ':ramen:'
+oomp_word_list:
+- train
+- bank
+- ramen
+part_number: ws2812b_b_w
+part_number_capital: Ws2812B B W
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_length_1: w
+part_number_length_2: ws
+part_number_length_3: ws2
+part_number_length_4: ws28
+part_number_length_5: ws281
+part_number_length_6: ws2812
+part_number_name: Ws2812B B W
+part_number_no_space_length_1: w
+part_number_no_space_length_2: ws
+part_number_no_space_length_3: ws2
+part_number_no_space_length_4: ws28
+part_number_no_space_length_5: ws281
+part_number_no_space_length_6: ws2812
+part_number_no_space_upper_length_1: W
+part_number_no_space_upper_length_2: WS
+part_number_no_space_upper_length_3: WS2
+part_number_no_space_upper_length_4: WS28
+part_number_no_space_upper_length_5: WS281
+part_number_no_space_upper_length_6: WS2812
+part_number_upper: WS2812B_B_W
+part_number_upper_length_1: W
+part_number_upper_length_2: WS
+part_number_upper_length_3: WS2
+part_number_upper_length_4: WS28
+part_number_upper_length_5: WS281
+part_number_upper_length_6: WS2812
+pins:
+  pin_1:
+    name: vdd
+    number: '1'
+    type: signal
+  pin_2:
+    name: dout
+    number: '2'
+    type: power
+  pin_3:
+    name: vss
+    number: '3'
+    type: power
+  pin_4:
+    name: din
+    number: '4'
+    type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: l50502812ws2812bbw
+short_code_upper: L50502812WS2812BBW
+short_name: 5050 Rgbws2812B Led
+size: '5050'
+size_capital: '5050'
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_length_1: '5'
+size_length_2: '50'
+size_length_3: '505'
+size_length_4: '5050'
+size_length_5: '5050'
+size_length_6: '5050'
+size_name: '5050'
+size_no_space_length_1: '5'
+size_no_space_length_2: '50'
+size_no_space_length_3: '505'
+size_no_space_length_4: '5050'
+size_no_space_length_5: '5050'
+size_no_space_length_6: '5050'
+size_no_space_upper_length_1: '5'
+size_no_space_upper_length_2: '50'
+size_no_space_upper_length_3: '505'
+size_no_space_upper_length_4: '5050'
+size_no_space_upper_length_5: '5050'
+size_no_space_upper_length_6: '5050'
+size_only_numbers: '5050'
+size_only_numbers_no_zeros: '55'
+size_upper: '5050'
+size_upper_length_1: '5'
+size_upper_length_2: '50'
+size_upper_length_3: '505'
+size_upper_length_4: '5050'
+size_upper_length_5: '5050'
+size_upper_length_6: '5050'
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_led_ws2812b
+  oomp_key: oomp_kicad_led_ws2812b
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_length_1: l
+type_length_2: le
+type_length_3: led
+type_length_4: led
+type_length_5: led
+type_length_6: led
+type_name: LED
+type_no_space_length_1: l
+type_no_space_length_2: le
+type_no_space_length_3: led
+type_no_space_length_4: led
+type_no_space_length_5: led
+type_no_space_length_6: led
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LE
+type_no_space_upper_length_3: LED
+type_no_space_upper_length_4: LED
+type_no_space_upper_length_5: LED
+type_no_space_upper_length_6: LED
+type_upper: LED
+type_upper_length_1: L
+type_upper_length_2: LE
+type_upper_length_3: LED
+type_upper_length_4: LED
+type_upper_length_5: LED
+type_upper_length_6: LED

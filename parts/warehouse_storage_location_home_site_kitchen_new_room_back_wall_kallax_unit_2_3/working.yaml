@@ -1,0 +1,495 @@
+bip_39_word_dash_1: phrase
+bip_39_word_dash_10: phrase-alarm-mean-evoke-two-speed-under-immense-health-orchard
+bip_39_word_dash_11: phrase-alarm-mean-evoke-two-speed-under-immense-health-orchard-hello
+bip_39_word_dash_12: phrase-alarm-mean-evoke-two-speed-under-immense-health-orchard-hello-afraid
+bip_39_word_dash_2: phrase-alarm
+bip_39_word_dash_3: phrase-alarm-mean
+bip_39_word_dash_4: phrase-alarm-mean-evoke
+bip_39_word_dash_5: phrase-alarm-mean-evoke-two
+bip_39_word_dash_6: phrase-alarm-mean-evoke-two-speed
+bip_39_word_dash_7: phrase-alarm-mean-evoke-two-speed-under
+bip_39_word_dash_8: phrase-alarm-mean-evoke-two-speed-under-immense
+bip_39_word_dash_9: phrase-alarm-mean-evoke-two-speed-under-immense-health
+bip_39_word_new_br_1: phrase
+bip_39_word_new_br_10: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed<br>under<br>immense<br>health<br>orchard
+bip_39_word_new_br_11: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed<br>under<br>immense<br>health<br>orchard<br>hello
+bip_39_word_new_br_12: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed<br>under<br>immense<br>health<br>orchard<br>hello<br>afraid
+bip_39_word_new_br_2: phrase<br>alarm
+bip_39_word_new_br_3: phrase<br>alarm<br>mean
+bip_39_word_new_br_4: phrase<br>alarm<br>mean<br>evoke
+bip_39_word_new_br_5: phrase<br>alarm<br>mean<br>evoke<br>two
+bip_39_word_new_br_6: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed
+bip_39_word_new_br_7: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed<br>under
+bip_39_word_new_br_8: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed<br>under<br>immense
+bip_39_word_new_br_9: phrase<br>alarm<br>mean<br>evoke<br>two<br>speed<br>under<br>immense<br>health
+bip_39_word_new_line_1: phrase
+bip_39_word_new_line_10: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed
+
+  under
+
+  immense
+
+  health
+
+  orchard'
+bip_39_word_new_line_11: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed
+
+  under
+
+  immense
+
+  health
+
+  orchard
+
+  hello'
+bip_39_word_new_line_12: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed
+
+  under
+
+  immense
+
+  health
+
+  orchard
+
+  hello
+
+  afraid'
+bip_39_word_new_line_2: 'phrase
+
+  alarm'
+bip_39_word_new_line_3: 'phrase
+
+  alarm
+
+  mean'
+bip_39_word_new_line_4: 'phrase
+
+  alarm
+
+  mean
+
+  evoke'
+bip_39_word_new_line_5: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two'
+bip_39_word_new_line_6: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed'
+bip_39_word_new_line_7: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed
+
+  under'
+bip_39_word_new_line_8: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed
+
+  under
+
+  immense'
+bip_39_word_new_line_9: 'phrase
+
+  alarm
+
+  mean
+
+  evoke
+
+  two
+
+  speed
+
+  under
+
+  immense
+
+  health'
+bip_39_word_no_space_1: phrase
+bip_39_word_no_space_10: phrasealarmmeanevoketwospeedunderimmensehealthorchard
+bip_39_word_no_space_11: phrasealarmmeanevoketwospeedunderimmensehealthorchardhello
+bip_39_word_no_space_12: phrasealarmmeanevoketwospeedunderimmensehealthorchardhelloafraid
+bip_39_word_no_space_2: phrasealarm
+bip_39_word_no_space_3: phrasealarmmean
+bip_39_word_no_space_4: phrasealarmmeanevoke
+bip_39_word_no_space_5: phrasealarmmeanevoketwo
+bip_39_word_no_space_6: phrasealarmmeanevoketwospeed
+bip_39_word_no_space_7: phrasealarmmeanevoketwospeedunder
+bip_39_word_no_space_8: phrasealarmmeanevoketwospeedunderimmense
+bip_39_word_no_space_9: phrasealarmmeanevoketwospeedunderimmensehealth
+bip_39_word_space_0:
+- phrase
+- alarm
+- mean
+- evoke
+- two
+- speed
+- under
+- immense
+- health
+- orchard
+- hello
+- afraid
+bip_39_word_space_1: phrase
+bip_39_word_space_10: phrase alarm mean evoke two speed under immense health orchard
+bip_39_word_space_11: phrase alarm mean evoke two speed under immense health orchard
+  hello
+bip_39_word_space_12: phrase alarm mean evoke two speed under immense health orchard
+  hello afraid
+bip_39_word_space_2: phrase alarm
+bip_39_word_space_3: phrase alarm mean
+bip_39_word_space_4: phrase alarm mean evoke
+bip_39_word_space_5: phrase alarm mean evoke two
+bip_39_word_space_6: phrase alarm mean evoke two speed
+bip_39_word_space_7: phrase alarm mean evoke two speed under
+bip_39_word_space_8: phrase alarm mean evoke two speed under immense
+bip_39_word_space_9: phrase alarm mean evoke two speed under immense health
+bip_39_word_underscore_1: phrase
+bip_39_word_underscore_10: phrase_alarm_mean_evoke_two_speed_under_immense_health_orchard
+bip_39_word_underscore_11: phrase_alarm_mean_evoke_two_speed_under_immense_health_orchard_hello
+bip_39_word_underscore_12: phrase_alarm_mean_evoke_two_speed_under_immense_health_orchard_hello_afraid
+bip_39_word_underscore_2: phrase_alarm
+bip_39_word_underscore_3: phrase_alarm_mean
+bip_39_word_underscore_4: phrase_alarm_mean_evoke
+bip_39_word_underscore_5: phrase_alarm_mean_evoke_two
+bip_39_word_underscore_6: phrase_alarm_mean_evoke_two_speed
+bip_39_word_underscore_7: phrase_alarm_mean_evoke_two_speed_under
+bip_39_word_underscore_8: phrase_alarm_mean_evoke_two_speed_under_immense
+bip_39_word_underscore_9: phrase_alarm_mean_evoke_two_speed_under_immense_health
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: kitchen_new_room
+color_capital: Kitchen New Room
+color_first_letter: k
+color_first_letter_upper: K
+color_length_1: k
+color_length_2: ki
+color_length_3: kit
+color_length_4: kitc
+color_length_5: kitch
+color_length_6: kitche
+color_name: Kitchen New Room
+color_no_space_length_1: k
+color_no_space_length_2: ki
+color_no_space_length_3: kit
+color_no_space_length_4: kitc
+color_no_space_length_5: kitch
+color_no_space_length_6: kitche
+color_no_space_upper_length_1: K
+color_no_space_upper_length_2: KI
+color_no_space_upper_length_3: KIT
+color_no_space_upper_length_4: KITC
+color_no_space_upper_length_5: KITCH
+color_no_space_upper_length_6: KITCHE
+color_upper: KITCHEN_NEW_ROOM
+color_upper_length_1: K
+color_upper_length_2: KI
+color_upper_length_3: KIT
+color_upper_length_4: KITC
+color_upper_length_5: KITCH
+color_upper_length_6: KITCHE
+description_extra: '2_3'
+description_extra_capital: '2.3'
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_length_1: '2'
+description_extra_length_2: '2_'
+description_extra_length_3: '2_3'
+description_extra_length_4: '2_3'
+description_extra_length_5: '2_3'
+description_extra_length_6: '2_3'
+description_extra_name: 2 3
+description_extra_no_space_length_1: '2'
+description_extra_no_space_length_2: '23'
+description_extra_no_space_length_3: '23'
+description_extra_no_space_length_4: '23'
+description_extra_no_space_length_5: '23'
+description_extra_no_space_length_6: '23'
+description_extra_no_space_upper_length_1: '2'
+description_extra_no_space_upper_length_2: '23'
+description_extra_no_space_upper_length_3: '23'
+description_extra_no_space_upper_length_4: '23'
+description_extra_no_space_upper_length_5: '23'
+description_extra_no_space_upper_length_6: '23'
+description_extra_upper: '2_3'
+description_extra_upper_length_1: '2'
+description_extra_upper_length_2: '2_'
+description_extra_upper_length_3: '2_3'
+description_extra_upper_length_4: '2_3'
+description_extra_upper_length_5: '2_3'
+description_extra_upper_length_6: '2_3'
+description_main: back_wall_kallax_unit
+description_main_capital: Back Wall Kallax Unit
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: ba
+description_main_length_3: bac
+description_main_length_4: back
+description_main_length_5: back_
+description_main_length_6: back_w
+description_main_name: Back Wall Kallax Unit
+description_main_no_space_length_1: b
+description_main_no_space_length_2: ba
+description_main_no_space_length_3: bac
+description_main_no_space_length_4: back
+description_main_no_space_length_5: backw
+description_main_no_space_length_6: backwa
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BA
+description_main_no_space_upper_length_3: BAC
+description_main_no_space_upper_length_4: BACK
+description_main_no_space_upper_length_5: BACKW
+description_main_no_space_upper_length_6: BACKWA
+description_main_upper: BACK_WALL_KALLAX_UNIT
+description_main_upper_length_1: B
+description_main_upper_length_2: BA
+description_main_upper_length_3: BAC
+description_main_upper_length_4: BACK
+description_main_upper_length_5: BACK_
+description_main_upper_length_6: BACK_W
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'K '
+description_or_color_upper: 'K '
+directory: parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+id: warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+id_no_class: storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+id_no_color: back_wall_kallax_unit_2_3
+id_no_size: kitchen_new_room_back_wall_kallax_unit_2_3
+id_no_type: home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ub3b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ub3b
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202ub3b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ub3b
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3](none)<br>[](none)<br>[Warehouse
+  Storage Location Home Site Kitchen New Room Back Wall Kallax Unit 2 3](none)<br><br>'
+markdown_short: '[warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3](none)<br><br>'
+md5: 48d5a70351719d9b4475d4e11381751e
+md5_10: 48d5a70351
+md5_10_upper: 48D5A70351
+md5_5: 48d5a
+md5_5_upper: 48D5A
+md5_6: 48d5a7
+md5_6_alpha: 2ub3b
+md5_6_alpha_upper: 2UB3B
+md5_6_upper: 48D5A7
+name: Warehouse Storage Location Home Site Kitchen New Room Back Wall Kallax Unit
+  2 3
+name_no_class: Storage Location Home Site Kitchen New Room Back Wall Kallax Unit 2
+  3
+name_no_color: Back Wall Kallax Unit 2 3
+name_no_size: Kitchen New Room Back Wall Kallax Unit 2 3
+name_no_size_short: Kitchen New Room Back Wall Kallax Unit 2 3
+name_no_type: Home Site Kitchen New Room Back Wall Kallax Unit 2 3
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_location
+oomlout_detail_hierarchy_2_upper: STORAGE_LOCATION
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: home_site
+oomlout_detail_hierarchy_3_upper: HOME_SITE
+oomlout_detail_hierarchy_3_upper_length_4: HOME
+oomlout_detail_hierarchy_4: kitchen_new_room
+oomlout_detail_hierarchy_4_upper: KITCHEN_NEW_ROOM
+oomlout_detail_hierarchy_4_upper_length_4: KITC
+oomlout_detail_hierarchy_5: back_wall_kallax_unit
+oomlout_detail_hierarchy_5_upper: BACK_WALL_KALLAX_UNIT
+oomlout_detail_hierarchy_5_upper_length_4: BACK
+oomlout_detail_hierarchy_6: '2_3'
+oomlout_detail_hierarchy_6_upper: '2_3'
+oomlout_detail_hierarchy_6_upper_length_4: '2_3'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_location_home_site_kitchen_new_room_back_wall_kallax_unit_2_3
+oomp_word: hatched_chick house guitar
+oomp_word_emoji: ':hatched_chick: :house: :guitar:'
+oomp_word_emoji_list:
+- ':hatched_chick:'
+- ':house:'
+- ':guitar:'
+oomp_word_list:
+- hatched_chick
+- house
+- guitar
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: home_site
+size_capital: Home Site
+size_first_letter: h
+size_first_letter_upper: H
+size_length_1: h
+size_length_2: ho
+size_length_3: hom
+size_length_4: home
+size_length_5: home_
+size_length_6: home_s
+size_name: Home Site
+size_no_space_length_1: h
+size_no_space_length_2: ho
+size_no_space_length_3: hom
+size_no_space_length_4: home
+size_no_space_length_5: homes
+size_no_space_length_6: homesi
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HO
+size_no_space_upper_length_3: HOM
+size_no_space_upper_length_4: HOME
+size_no_space_upper_length_5: HOMES
+size_no_space_upper_length_6: HOMESI
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOME_SITE
+size_upper_length_1: H
+size_upper_length_2: HO
+size_upper_length_3: HOM
+size_upper_length_4: HOME
+size_upper_length_5: HOME_
+size_upper_length_6: HOME_S
+type: storage_location
+type_capital: Storage Location
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Location
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_LOCATION
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

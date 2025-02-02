@@ -1,0 +1,438 @@
+bip_39_word_dash_1: student
+bip_39_word_dash_10: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey-giraffe
+bip_39_word_dash_11: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey-giraffe-wild
+bip_39_word_dash_12: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey-giraffe-wild-actor
+bip_39_word_dash_2: student-ribbon
+bip_39_word_dash_3: student-ribbon-genius
+bip_39_word_dash_4: student-ribbon-genius-steel
+bip_39_word_dash_5: student-ribbon-genius-steel-add
+bip_39_word_dash_6: student-ribbon-genius-steel-add-liquid
+bip_39_word_dash_7: student-ribbon-genius-steel-add-liquid-seed
+bip_39_word_dash_8: student-ribbon-genius-steel-add-liquid-seed-hamster
+bip_39_word_dash_9: student-ribbon-genius-steel-add-liquid-seed-hamster-monkey
+bip_39_word_new_br_1: student
+bip_39_word_new_br_10: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey<br>giraffe
+bip_39_word_new_br_11: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey<br>giraffe<br>wild
+bip_39_word_new_br_12: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey<br>giraffe<br>wild<br>actor
+bip_39_word_new_br_2: student<br>ribbon
+bip_39_word_new_br_3: student<br>ribbon<br>genius
+bip_39_word_new_br_4: student<br>ribbon<br>genius<br>steel
+bip_39_word_new_br_5: student<br>ribbon<br>genius<br>steel<br>add
+bip_39_word_new_br_6: student<br>ribbon<br>genius<br>steel<br>add<br>liquid
+bip_39_word_new_br_7: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed
+bip_39_word_new_br_8: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster
+bip_39_word_new_br_9: student<br>ribbon<br>genius<br>steel<br>add<br>liquid<br>seed<br>hamster<br>monkey
+bip_39_word_new_line_1: student
+bip_39_word_new_line_10: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid
+
+  seed
+
+  hamster
+
+  monkey
+
+  giraffe'
+bip_39_word_new_line_11: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid
+
+  seed
+
+  hamster
+
+  monkey
+
+  giraffe
+
+  wild'
+bip_39_word_new_line_12: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid
+
+  seed
+
+  hamster
+
+  monkey
+
+  giraffe
+
+  wild
+
+  actor'
+bip_39_word_new_line_2: 'student
+
+  ribbon'
+bip_39_word_new_line_3: 'student
+
+  ribbon
+
+  genius'
+bip_39_word_new_line_4: 'student
+
+  ribbon
+
+  genius
+
+  steel'
+bip_39_word_new_line_5: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add'
+bip_39_word_new_line_6: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid'
+bip_39_word_new_line_7: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid
+
+  seed'
+bip_39_word_new_line_8: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid
+
+  seed
+
+  hamster'
+bip_39_word_new_line_9: 'student
+
+  ribbon
+
+  genius
+
+  steel
+
+  add
+
+  liquid
+
+  seed
+
+  hamster
+
+  monkey'
+bip_39_word_no_space_1: student
+bip_39_word_no_space_10: studentribbongeniussteeladdliquidseedhamstermonkeygiraffe
+bip_39_word_no_space_11: studentribbongeniussteeladdliquidseedhamstermonkeygiraffewild
+bip_39_word_no_space_12: studentribbongeniussteeladdliquidseedhamstermonkeygiraffewildactor
+bip_39_word_no_space_2: studentribbon
+bip_39_word_no_space_3: studentribbongenius
+bip_39_word_no_space_4: studentribbongeniussteel
+bip_39_word_no_space_5: studentribbongeniussteeladd
+bip_39_word_no_space_6: studentribbongeniussteeladdliquid
+bip_39_word_no_space_7: studentribbongeniussteeladdliquidseed
+bip_39_word_no_space_8: studentribbongeniussteeladdliquidseedhamster
+bip_39_word_no_space_9: studentribbongeniussteeladdliquidseedhamstermonkey
+bip_39_word_space_0:
+- student
+- ribbon
+- genius
+- steel
+- add
+- liquid
+- seed
+- hamster
+- monkey
+- giraffe
+- wild
+- actor
+bip_39_word_space_1: student
+bip_39_word_space_10: student ribbon genius steel add liquid seed hamster monkey giraffe
+bip_39_word_space_11: student ribbon genius steel add liquid seed hamster monkey giraffe
+  wild
+bip_39_word_space_12: student ribbon genius steel add liquid seed hamster monkey giraffe
+  wild actor
+bip_39_word_space_2: student ribbon
+bip_39_word_space_3: student ribbon genius
+bip_39_word_space_4: student ribbon genius steel
+bip_39_word_space_5: student ribbon genius steel add
+bip_39_word_space_6: student ribbon genius steel add liquid
+bip_39_word_space_7: student ribbon genius steel add liquid seed
+bip_39_word_space_8: student ribbon genius steel add liquid seed hamster
+bip_39_word_space_9: student ribbon genius steel add liquid seed hamster monkey
+bip_39_word_underscore_1: student
+bip_39_word_underscore_10: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey_giraffe
+bip_39_word_underscore_11: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey_giraffe_wild
+bip_39_word_underscore_12: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey_giraffe_wild_actor
+bip_39_word_underscore_2: student_ribbon
+bip_39_word_underscore_3: student_ribbon_genius
+bip_39_word_underscore_4: student_ribbon_genius_steel
+bip_39_word_underscore_5: student_ribbon_genius_steel_add
+bip_39_word_underscore_6: student_ribbon_genius_steel_add_liquid
+bip_39_word_underscore_7: student_ribbon_genius_steel_add_liquid_seed
+bip_39_word_underscore_8: student_ribbon_genius_steel_add_liquid_seed_hamster
+bip_39_word_underscore_9: student_ribbon_genius_steel_add_liquid_seed_hamster_monkey
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 10_width_2_height_30_mm_depth
+description_main_capital: 10 Width 2 Height 30 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '10_'
+description_main_length_4: 10_w
+description_main_length_5: 10_wi
+description_main_length_6: 10_wid
+description_main_name: 10 Width 2 Height 30 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10w
+description_main_no_space_length_4: 10wi
+description_main_no_space_length_5: 10wid
+description_main_no_space_length_6: 10widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10W
+description_main_no_space_upper_length_4: 10WI
+description_main_no_space_upper_length_5: 10WID
+description_main_no_space_upper_length_6: 10WIDT
+description_main_upper: 10_WIDTH_2_HEIGHT_30_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '10_'
+description_main_upper_length_4: 10_W
+description_main_upper_length_5: 10_WI
+description_main_upper_length_6: 10_WID
+description_only_numbers: '10230'
+description_only_numbers_short: 10k
+description_or_color: 10k
+description_or_color_upper: 10K
+directory: parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+id: oobb_part_tray_thin_10_width_2_height_30_mm_depth
+id_no_class: part_tray_thin_10_width_2_height_30_mm_depth
+id_no_color: 10width2height30mmdepth
+id_no_size: 10_width_2_height_30_mm_depth
+id_no_type: tray_thin_10_width_2_height_30_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201pr14
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201pr14
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201pr14
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201pr14
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_10_width_2_height_30_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_10_width_2_height_30_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray Thin 10 Width 2 Height 30 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_10_width_2_height_30_mm_depth](none)<br><br>'
+md5: 2bf6188c7968b85e09019d52c1ee46bb
+md5_10: 2bf6188c79
+md5_10_upper: 2BF6188C79
+md5_5: 2bf61
+md5_5_upper: 2BF61
+md5_6: 2bf618
+md5_6_alpha: 1pr14
+md5_6_alpha_upper: 1PR14
+md5_6_upper: 2BF618
+name: Oobb Part Tray Thin 10 Width 2 Height 30 mm Depth
+name_no_class: Part Tray Thin 10 Width 2 Height 30 mm Depth
+name_no_color: 10Width2Height30mmdepth
+name_no_size: 10 Width 2 Height 30 mm Depth
+name_no_size_short: 10 Width 2 Height 30 Mm Depth
+name_no_type: Tray Thin 10 Width 2 Height 30 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 30_mm_depth
+oomlout_detail_hierarchy_4_upper: 30_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 30DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_10_width_2_height_30_mm_depth
+oomp_word: cloud five hand
+oomp_word_emoji: ':cloud: :five: :hand:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':five:'
+- ':hand:'
+oomp_word_list:
+- cloud
+- five
+- hand
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

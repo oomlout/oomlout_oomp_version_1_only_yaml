@@ -1,0 +1,118 @@
+# Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Red 8 mm Length  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Red 8 mm Length
+* name_short: 
+### id
+* oomp_id: electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length
+  * classification: electronic
+  * type: crimp_bootlace_ferrule
+  * size: 0_8_mm_diameter_wire
+  * color: red
+  * description_main: 8_mm_length
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: target wine
+  * bip 39 word 3: target wine taste
+  * bip 39 word: target wine taste fabric wish vocal achieve hollow cereal dress decade august
+
+### other_codes
+* short_code: 
+* oomp_word: one bamboo star
+* oomp_word_emoji :one: :bamboo: :star:
+* md5_6_alpha: 9gjrk
+* md5_6: f27110
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%209gjrk)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%209gjrk)
+[2x1](http://192.168.1.242:1112/?label=oomp%209gjrk)
+[6x4](http://192.168.1.55:1112/?label=oomp%209gjrk)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | electronic |  
+| classification_name | Electronic |  
+| color | red |  
+| color_name | Red |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main | 8_mm_length |  
+| description_main_name | 8 mm Length |  
+| description_or_color | R8 |  
+| directory | parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| distributors | [] |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| id | electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| kicad_reference |  |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%209gjrk |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%209gjrk |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%209gjrk |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%209gjrk |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length](none)<br>[r8](none)<br>[Electronic Crimp Bootlace Ferrule 0 8 Mm Diameter Wire Red 8 Mm Length](none)<br><br> |  
+| markdown_short | [electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length](none)<br><br> |  
+| md5 | f27110a92c6ce03bd57e4517bc7ee6ef |  
+| md5_10 | f27110a92c |  
+| md5_5 | f2711 |  
+| md5_6 | f27110 |  
+| md5_6_alpha | 9gjrk |  
+| name | Electronic Crimp Bootlace Ferrule 0 8 mm Diameter Wire Red 8 mm Length |  
+| oomlout_detail_hierarchy_1 | electronic |  
+| oomlout_detail_hierarchy_2 | crimp_bootlace_ferrule |  
+| oomlout_detail_hierarchy_3 | 0_8_mm_diameter_wire |  
+| oomlout_detail_hierarchy_4 | red |  
+| oomlout_detail_hierarchy_5 | 8_mm_length |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_electronic_crimp_bootlace_ferrule_0_8_mm_diameter_wire_red_8_mm_length |  
+| oomp_word | one bamboo star |  
+| oomp_word_emoji | :one: :bamboo: :star: |  
+| oomp_word_emoji_list | [':one:', ':bamboo:', ':star:'] |  
+| oomp_word_list | ['one', 'bamboo', 'star'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code | r8 |  
+| size | 0_8_mm_diameter_wire |  
+| size_name | 0 8 mm Diameter Wire |  
+| type | crimp_bootlace_ferrule |  
+| type_name | Crimp Bootlace Ferrule |  

@@ -1,0 +1,468 @@
+bip_39_word_dash_1: educate
+bip_39_word_dash_10: educate-price-forget-gym-uncover-capital-warm-diary-rocket-luggage
+bip_39_word_dash_11: educate-price-forget-gym-uncover-capital-warm-diary-rocket-luggage-strategy
+bip_39_word_dash_12: educate-price-forget-gym-uncover-capital-warm-diary-rocket-luggage-strategy-afford
+bip_39_word_dash_2: educate-price
+bip_39_word_dash_3: educate-price-forget
+bip_39_word_dash_4: educate-price-forget-gym
+bip_39_word_dash_5: educate-price-forget-gym-uncover
+bip_39_word_dash_6: educate-price-forget-gym-uncover-capital
+bip_39_word_dash_7: educate-price-forget-gym-uncover-capital-warm
+bip_39_word_dash_8: educate-price-forget-gym-uncover-capital-warm-diary
+bip_39_word_dash_9: educate-price-forget-gym-uncover-capital-warm-diary-rocket
+bip_39_word_new_br_1: educate
+bip_39_word_new_br_10: educate<br>price<br>forget<br>gym<br>uncover<br>capital<br>warm<br>diary<br>rocket<br>luggage
+bip_39_word_new_br_11: educate<br>price<br>forget<br>gym<br>uncover<br>capital<br>warm<br>diary<br>rocket<br>luggage<br>strategy
+bip_39_word_new_br_12: educate<br>price<br>forget<br>gym<br>uncover<br>capital<br>warm<br>diary<br>rocket<br>luggage<br>strategy<br>afford
+bip_39_word_new_br_2: educate<br>price
+bip_39_word_new_br_3: educate<br>price<br>forget
+bip_39_word_new_br_4: educate<br>price<br>forget<br>gym
+bip_39_word_new_br_5: educate<br>price<br>forget<br>gym<br>uncover
+bip_39_word_new_br_6: educate<br>price<br>forget<br>gym<br>uncover<br>capital
+bip_39_word_new_br_7: educate<br>price<br>forget<br>gym<br>uncover<br>capital<br>warm
+bip_39_word_new_br_8: educate<br>price<br>forget<br>gym<br>uncover<br>capital<br>warm<br>diary
+bip_39_word_new_br_9: educate<br>price<br>forget<br>gym<br>uncover<br>capital<br>warm<br>diary<br>rocket
+bip_39_word_new_line_1: educate
+bip_39_word_new_line_10: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital
+
+  warm
+
+  diary
+
+  rocket
+
+  luggage'
+bip_39_word_new_line_11: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital
+
+  warm
+
+  diary
+
+  rocket
+
+  luggage
+
+  strategy'
+bip_39_word_new_line_12: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital
+
+  warm
+
+  diary
+
+  rocket
+
+  luggage
+
+  strategy
+
+  afford'
+bip_39_word_new_line_2: 'educate
+
+  price'
+bip_39_word_new_line_3: 'educate
+
+  price
+
+  forget'
+bip_39_word_new_line_4: 'educate
+
+  price
+
+  forget
+
+  gym'
+bip_39_word_new_line_5: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover'
+bip_39_word_new_line_6: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital'
+bip_39_word_new_line_7: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital
+
+  warm'
+bip_39_word_new_line_8: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital
+
+  warm
+
+  diary'
+bip_39_word_new_line_9: 'educate
+
+  price
+
+  forget
+
+  gym
+
+  uncover
+
+  capital
+
+  warm
+
+  diary
+
+  rocket'
+bip_39_word_no_space_1: educate
+bip_39_word_no_space_10: educatepriceforgetgymuncovercapitalwarmdiaryrocketluggage
+bip_39_word_no_space_11: educatepriceforgetgymuncovercapitalwarmdiaryrocketluggagestrategy
+bip_39_word_no_space_12: educatepriceforgetgymuncovercapitalwarmdiaryrocketluggagestrategyafford
+bip_39_word_no_space_2: educateprice
+bip_39_word_no_space_3: educatepriceforget
+bip_39_word_no_space_4: educatepriceforgetgym
+bip_39_word_no_space_5: educatepriceforgetgymuncover
+bip_39_word_no_space_6: educatepriceforgetgymuncovercapital
+bip_39_word_no_space_7: educatepriceforgetgymuncovercapitalwarm
+bip_39_word_no_space_8: educatepriceforgetgymuncovercapitalwarmdiary
+bip_39_word_no_space_9: educatepriceforgetgymuncovercapitalwarmdiaryrocket
+bip_39_word_space_0:
+- educate
+- price
+- forget
+- gym
+- uncover
+- capital
+- warm
+- diary
+- rocket
+- luggage
+- strategy
+- afford
+bip_39_word_space_1: educate
+bip_39_word_space_10: educate price forget gym uncover capital warm diary rocket luggage
+bip_39_word_space_11: educate price forget gym uncover capital warm diary rocket luggage
+  strategy
+bip_39_word_space_12: educate price forget gym uncover capital warm diary rocket luggage
+  strategy afford
+bip_39_word_space_2: educate price
+bip_39_word_space_3: educate price forget
+bip_39_word_space_4: educate price forget gym
+bip_39_word_space_5: educate price forget gym uncover
+bip_39_word_space_6: educate price forget gym uncover capital
+bip_39_word_space_7: educate price forget gym uncover capital warm
+bip_39_word_space_8: educate price forget gym uncover capital warm diary
+bip_39_word_space_9: educate price forget gym uncover capital warm diary rocket
+bip_39_word_underscore_1: educate
+bip_39_word_underscore_10: educate_price_forget_gym_uncover_capital_warm_diary_rocket_luggage
+bip_39_word_underscore_11: educate_price_forget_gym_uncover_capital_warm_diary_rocket_luggage_strategy
+bip_39_word_underscore_12: educate_price_forget_gym_uncover_capital_warm_diary_rocket_luggage_strategy_afford
+bip_39_word_underscore_2: educate_price
+bip_39_word_underscore_3: educate_price_forget
+bip_39_word_underscore_4: educate_price_forget_gym
+bip_39_word_underscore_5: educate_price_forget_gym_uncover
+bip_39_word_underscore_6: educate_price_forget_gym_uncover_capital
+bip_39_word_underscore_7: educate_price_forget_gym_uncover_capital_warm
+bip_39_word_underscore_8: educate_price_forget_gym_uncover_capital_warm_diary
+bip_39_word_underscore_9: educate_price_forget_gym_uncover_capital_warm_diary_rocket
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 56_teeth_extra
+description_extra_capital: 56 Teeth Extra
+description_extra_first_letter: '5'
+description_extra_first_letter_upper: '5'
+description_extra_length_1: '5'
+description_extra_length_2: '56'
+description_extra_length_3: '56_'
+description_extra_length_4: 56_t
+description_extra_length_5: 56_te
+description_extra_length_6: 56_tee
+description_extra_name: 56 Teeth Extra
+description_extra_no_space_length_1: '5'
+description_extra_no_space_length_2: '56'
+description_extra_no_space_length_3: 56t
+description_extra_no_space_length_4: 56te
+description_extra_no_space_length_5: 56tee
+description_extra_no_space_length_6: 56teet
+description_extra_no_space_upper_length_1: '5'
+description_extra_no_space_upper_length_2: '56'
+description_extra_no_space_upper_length_3: 56T
+description_extra_no_space_upper_length_4: 56TE
+description_extra_no_space_upper_length_5: 56TEE
+description_extra_no_space_upper_length_6: 56TEET
+description_extra_upper: 56_TEETH_EXTRA
+description_extra_upper_length_1: '5'
+description_extra_upper_length_2: '56'
+description_extra_upper_length_3: '56_'
+description_extra_upper_length_4: 56_T
+description_extra_upper_length_5: 56_TE
+description_extra_upper_length_6: 56_TEE
+description_main: 7_diameter_3_mm_depth
+description_main_capital: 7 Diameter 3 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: 7_d
+description_main_length_4: 7_di
+description_main_length_5: 7_dia
+description_main_length_6: 7_diam
+description_main_name: 7 Diameter 3 mm Depth
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: 7d
+description_main_no_space_length_3: 7di
+description_main_no_space_length_4: 7dia
+description_main_no_space_length_5: 7diam
+description_main_no_space_length_6: 7diame
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: 7D
+description_main_no_space_upper_length_3: 7DI
+description_main_no_space_upper_length_4: 7DIA
+description_main_no_space_upper_length_5: 7DIAM
+description_main_no_space_upper_length_6: 7DIAME
+description_main_upper: 7_DIAMETER_3_MM_DEPTH
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: 7_D
+description_main_upper_length_4: 7_DI
+description_main_upper_length_5: 7_DIA
+description_main_upper_length_6: 7_DIAM
+description_only_numbers: '73'
+description_only_numbers_short: '73'
+description_or_color: '73'
+description_or_color_upper: '73'
+directory: parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+id: oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+id_no_class: part_gear_7_diameter_3_mm_depth_56_teeth_extra
+id_no_color: 7diameter3mmdepth56teethextra
+id_no_size: 7_diameter_3_mm_depth_56_teeth_extra
+id_no_type: gear_7_diameter_3_mm_depth_56_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202som9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202som9
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202som9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202som9
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra](none)<br>[](none)<br>[Oobb
+  Part Gear 7 Diameter 3 Mm Depth 56 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra](none)<br><br>'
+md5: 47ada135db3d5ee488765680b6aa9a34
+md5_10: 47ada135db
+md5_10_upper: 47ADA135DB
+md5_5: 47ada
+md5_5_upper: 47ADA
+md5_6: 47ada1
+md5_6_alpha: 2som9
+md5_6_alpha_upper: 2SOM9
+md5_6_upper: 47ADA1
+name: Oobb Part Gear 7 Diameter 3 mm Depth 56 Teeth Extra
+name_no_class: Part Gear 7 Diameter 3 mm Depth 56 Teeth Extra
+name_no_color: 7Diameter3mmdepth56Teethextra
+name_no_size: 7 Diameter 3 mm Depth 56 Teeth Extra
+name_no_size_short: 7 Diameter 3 Mm Depth 56 Teeth Extra
+name_no_type: Gear 7 Diameter 3 mm Depth 56 Teeth Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: gear
+oomlout_detail_hierarchy_3_upper: GEAR
+oomlout_detail_hierarchy_3_upper_length_4: GEAR
+oomlout_detail_hierarchy_4: 7_diameter
+oomlout_detail_hierarchy_4_upper: 7_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 7_DI
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_detail_hierarchy_6: 56_teeth_extra
+oomlout_detail_hierarchy_6_upper: 56_TEETH_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: 56_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_gear_7_diameter_3_mm_depth_56_teeth_extra
+oomp_word: baby_chick dress trophy
+oomp_word_emoji: ':baby_chick: :dress: :trophy:'
+oomp_word_emoji_list:
+- ':baby_chick:'
+- ':dress:'
+- ':trophy:'
+oomp_word_list:
+- baby_chick
+- dress
+- trophy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: gear
+size_capital: Gear
+size_first_letter: g
+size_first_letter_upper: G
+size_length_1: g
+size_length_2: ge
+size_length_3: gea
+size_length_4: gear
+size_length_5: gear
+size_length_6: gear
+size_name: Gear
+size_no_space_length_1: g
+size_no_space_length_2: ge
+size_no_space_length_3: gea
+size_no_space_length_4: gear
+size_no_space_length_5: gear
+size_no_space_length_6: gear
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GE
+size_no_space_upper_length_3: GEA
+size_no_space_upper_length_4: GEAR
+size_no_space_upper_length_5: GEAR
+size_no_space_upper_length_6: GEAR
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEAR
+size_upper_length_1: G
+size_upper_length_2: GE
+size_upper_length_3: GEA
+size_upper_length_4: GEAR
+size_upper_length_5: GEAR
+size_upper_length_6: GEAR
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

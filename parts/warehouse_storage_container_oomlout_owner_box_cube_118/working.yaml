@@ -1,0 +1,466 @@
+bip_39_word_dash_1: error
+bip_39_word_dash_10: error-genius-slim-cinnamon-link-purity-dentist-bar-clinic-idea
+bip_39_word_dash_11: error-genius-slim-cinnamon-link-purity-dentist-bar-clinic-idea-person
+bip_39_word_dash_12: error-genius-slim-cinnamon-link-purity-dentist-bar-clinic-idea-person-amused
+bip_39_word_dash_2: error-genius
+bip_39_word_dash_3: error-genius-slim
+bip_39_word_dash_4: error-genius-slim-cinnamon
+bip_39_word_dash_5: error-genius-slim-cinnamon-link
+bip_39_word_dash_6: error-genius-slim-cinnamon-link-purity
+bip_39_word_dash_7: error-genius-slim-cinnamon-link-purity-dentist
+bip_39_word_dash_8: error-genius-slim-cinnamon-link-purity-dentist-bar
+bip_39_word_dash_9: error-genius-slim-cinnamon-link-purity-dentist-bar-clinic
+bip_39_word_new_br_1: error
+bip_39_word_new_br_10: error<br>genius<br>slim<br>cinnamon<br>link<br>purity<br>dentist<br>bar<br>clinic<br>idea
+bip_39_word_new_br_11: error<br>genius<br>slim<br>cinnamon<br>link<br>purity<br>dentist<br>bar<br>clinic<br>idea<br>person
+bip_39_word_new_br_12: error<br>genius<br>slim<br>cinnamon<br>link<br>purity<br>dentist<br>bar<br>clinic<br>idea<br>person<br>amused
+bip_39_word_new_br_2: error<br>genius
+bip_39_word_new_br_3: error<br>genius<br>slim
+bip_39_word_new_br_4: error<br>genius<br>slim<br>cinnamon
+bip_39_word_new_br_5: error<br>genius<br>slim<br>cinnamon<br>link
+bip_39_word_new_br_6: error<br>genius<br>slim<br>cinnamon<br>link<br>purity
+bip_39_word_new_br_7: error<br>genius<br>slim<br>cinnamon<br>link<br>purity<br>dentist
+bip_39_word_new_br_8: error<br>genius<br>slim<br>cinnamon<br>link<br>purity<br>dentist<br>bar
+bip_39_word_new_br_9: error<br>genius<br>slim<br>cinnamon<br>link<br>purity<br>dentist<br>bar<br>clinic
+bip_39_word_new_line_1: error
+bip_39_word_new_line_10: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity
+
+  dentist
+
+  bar
+
+  clinic
+
+  idea'
+bip_39_word_new_line_11: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity
+
+  dentist
+
+  bar
+
+  clinic
+
+  idea
+
+  person'
+bip_39_word_new_line_12: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity
+
+  dentist
+
+  bar
+
+  clinic
+
+  idea
+
+  person
+
+  amused'
+bip_39_word_new_line_2: 'error
+
+  genius'
+bip_39_word_new_line_3: 'error
+
+  genius
+
+  slim'
+bip_39_word_new_line_4: 'error
+
+  genius
+
+  slim
+
+  cinnamon'
+bip_39_word_new_line_5: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link'
+bip_39_word_new_line_6: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity'
+bip_39_word_new_line_7: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity
+
+  dentist'
+bip_39_word_new_line_8: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity
+
+  dentist
+
+  bar'
+bip_39_word_new_line_9: 'error
+
+  genius
+
+  slim
+
+  cinnamon
+
+  link
+
+  purity
+
+  dentist
+
+  bar
+
+  clinic'
+bip_39_word_no_space_1: error
+bip_39_word_no_space_10: errorgeniusslimcinnamonlinkpuritydentistbarclinicidea
+bip_39_word_no_space_11: errorgeniusslimcinnamonlinkpuritydentistbarclinicideaperson
+bip_39_word_no_space_12: errorgeniusslimcinnamonlinkpuritydentistbarclinicideapersonamused
+bip_39_word_no_space_2: errorgenius
+bip_39_word_no_space_3: errorgeniusslim
+bip_39_word_no_space_4: errorgeniusslimcinnamon
+bip_39_word_no_space_5: errorgeniusslimcinnamonlink
+bip_39_word_no_space_6: errorgeniusslimcinnamonlinkpurity
+bip_39_word_no_space_7: errorgeniusslimcinnamonlinkpuritydentist
+bip_39_word_no_space_8: errorgeniusslimcinnamonlinkpuritydentistbar
+bip_39_word_no_space_9: errorgeniusslimcinnamonlinkpuritydentistbarclinic
+bip_39_word_space_0:
+- error
+- genius
+- slim
+- cinnamon
+- link
+- purity
+- dentist
+- bar
+- clinic
+- idea
+- person
+- amused
+bip_39_word_space_1: error
+bip_39_word_space_10: error genius slim cinnamon link purity dentist bar clinic idea
+bip_39_word_space_11: error genius slim cinnamon link purity dentist bar clinic idea
+  person
+bip_39_word_space_12: error genius slim cinnamon link purity dentist bar clinic idea
+  person amused
+bip_39_word_space_2: error genius
+bip_39_word_space_3: error genius slim
+bip_39_word_space_4: error genius slim cinnamon
+bip_39_word_space_5: error genius slim cinnamon link
+bip_39_word_space_6: error genius slim cinnamon link purity
+bip_39_word_space_7: error genius slim cinnamon link purity dentist
+bip_39_word_space_8: error genius slim cinnamon link purity dentist bar
+bip_39_word_space_9: error genius slim cinnamon link purity dentist bar clinic
+bip_39_word_underscore_1: error
+bip_39_word_underscore_10: error_genius_slim_cinnamon_link_purity_dentist_bar_clinic_idea
+bip_39_word_underscore_11: error_genius_slim_cinnamon_link_purity_dentist_bar_clinic_idea_person
+bip_39_word_underscore_12: error_genius_slim_cinnamon_link_purity_dentist_bar_clinic_idea_person_amused
+bip_39_word_underscore_2: error_genius
+bip_39_word_underscore_3: error_genius_slim
+bip_39_word_underscore_4: error_genius_slim_cinnamon
+bip_39_word_underscore_5: error_genius_slim_cinnamon_link
+bip_39_word_underscore_6: error_genius_slim_cinnamon_link_purity
+bip_39_word_underscore_7: error_genius_slim_cinnamon_link_purity_dentist
+bip_39_word_underscore_8: error_genius_slim_cinnamon_link_purity_dentist_bar
+bip_39_word_underscore_9: error_genius_slim_cinnamon_link_purity_dentist_bar_clinic
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cube
+color_capital: Box Cube
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cube
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBE
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '118'
+description_main_capital: '118'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '11'
+description_main_length_3: '118'
+description_main_length_4: '118'
+description_main_length_5: '118'
+description_main_length_6: '118'
+description_main_name: '118'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '11'
+description_main_no_space_length_3: '118'
+description_main_no_space_length_4: '118'
+description_main_no_space_length_5: '118'
+description_main_no_space_length_6: '118'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '11'
+description_main_no_space_upper_length_3: '118'
+description_main_no_space_upper_length_4: '118'
+description_main_no_space_upper_length_5: '118'
+description_main_no_space_upper_length_6: '118'
+description_main_upper: '118'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '11'
+description_main_upper_length_3: '118'
+description_main_upper_length_4: '118'
+description_main_upper_length_5: '118'
+description_main_upper_length_6: '118'
+description_only_numbers: '118'
+description_only_numbers_short: '118'
+description_or_color: B118
+description_or_color_upper: B118
+directory: parts/warehouse_storage_container_oomlout_owner_box_cube_118
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_118
+id: warehouse_storage_container_oomlout_owner_box_cube_118
+id_no_class: storage_container_oomlout_owner_box_cube_118
+id_no_color: '118'
+id_no_size: box_cube_118
+id_no_type: oomlout_owner_box_cube_118
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_118
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_118
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_118
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_118
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2054ecc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2054ecc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2054ecc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2054ecc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_118
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cube_118](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cube 118](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cube_118](none)<br><br>'
+md5: 83469c1959126752b941029197983a66
+md5_10: 83469c1959
+md5_10_upper: 83469C1959
+md5_5: '83469'
+md5_5_upper: '83469'
+md5_6: 83469c
+md5_6_alpha: 54ecc
+md5_6_alpha_upper: 54ECC
+md5_6_upper: 83469C
+name: Warehouse Storage Container Oomlout Owner Box Cube 118
+name_no_class: Storage Container Oomlout Owner Box Cube 118
+name_no_color: '118'
+name_no_size: Box Cube 118
+name_no_size_short: Box Cube 118
+name_no_type: Oomlout Owner Box Cube 118
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cube
+oomlout_detail_hierarchy_4_upper: BOX_CUBE
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '118'
+oomlout_detail_hierarchy_5_upper: '118'
+oomlout_detail_hierarchy_5_upper_length_4: '118'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cube_118
+oomp_word: lock bird spades
+oomp_word_emoji: ':lock: :bird: :spades:'
+oomp_word_emoji_list:
+- ':lock:'
+- ':bird:'
+- ':spades:'
+oomp_word_list:
+- lock
+- bird
+- spades
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

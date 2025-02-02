@@ -1,0 +1,466 @@
+bip_39_word_dash_1: venture
+bip_39_word_dash_10: venture-point-absent-change-couch-devote-trend-joke-kiss-math
+bip_39_word_dash_11: venture-point-absent-change-couch-devote-trend-joke-kiss-math-empower
+bip_39_word_dash_12: venture-point-absent-change-couch-devote-trend-joke-kiss-math-empower-allow
+bip_39_word_dash_2: venture-point
+bip_39_word_dash_3: venture-point-absent
+bip_39_word_dash_4: venture-point-absent-change
+bip_39_word_dash_5: venture-point-absent-change-couch
+bip_39_word_dash_6: venture-point-absent-change-couch-devote
+bip_39_word_dash_7: venture-point-absent-change-couch-devote-trend
+bip_39_word_dash_8: venture-point-absent-change-couch-devote-trend-joke
+bip_39_word_dash_9: venture-point-absent-change-couch-devote-trend-joke-kiss
+bip_39_word_new_br_1: venture
+bip_39_word_new_br_10: venture<br>point<br>absent<br>change<br>couch<br>devote<br>trend<br>joke<br>kiss<br>math
+bip_39_word_new_br_11: venture<br>point<br>absent<br>change<br>couch<br>devote<br>trend<br>joke<br>kiss<br>math<br>empower
+bip_39_word_new_br_12: venture<br>point<br>absent<br>change<br>couch<br>devote<br>trend<br>joke<br>kiss<br>math<br>empower<br>allow
+bip_39_word_new_br_2: venture<br>point
+bip_39_word_new_br_3: venture<br>point<br>absent
+bip_39_word_new_br_4: venture<br>point<br>absent<br>change
+bip_39_word_new_br_5: venture<br>point<br>absent<br>change<br>couch
+bip_39_word_new_br_6: venture<br>point<br>absent<br>change<br>couch<br>devote
+bip_39_word_new_br_7: venture<br>point<br>absent<br>change<br>couch<br>devote<br>trend
+bip_39_word_new_br_8: venture<br>point<br>absent<br>change<br>couch<br>devote<br>trend<br>joke
+bip_39_word_new_br_9: venture<br>point<br>absent<br>change<br>couch<br>devote<br>trend<br>joke<br>kiss
+bip_39_word_new_line_1: venture
+bip_39_word_new_line_10: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote
+
+  trend
+
+  joke
+
+  kiss
+
+  math'
+bip_39_word_new_line_11: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote
+
+  trend
+
+  joke
+
+  kiss
+
+  math
+
+  empower'
+bip_39_word_new_line_12: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote
+
+  trend
+
+  joke
+
+  kiss
+
+  math
+
+  empower
+
+  allow'
+bip_39_word_new_line_2: 'venture
+
+  point'
+bip_39_word_new_line_3: 'venture
+
+  point
+
+  absent'
+bip_39_word_new_line_4: 'venture
+
+  point
+
+  absent
+
+  change'
+bip_39_word_new_line_5: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch'
+bip_39_word_new_line_6: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote'
+bip_39_word_new_line_7: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote
+
+  trend'
+bip_39_word_new_line_8: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote
+
+  trend
+
+  joke'
+bip_39_word_new_line_9: 'venture
+
+  point
+
+  absent
+
+  change
+
+  couch
+
+  devote
+
+  trend
+
+  joke
+
+  kiss'
+bip_39_word_no_space_1: venture
+bip_39_word_no_space_10: venturepointabsentchangecouchdevotetrendjokekissmath
+bip_39_word_no_space_11: venturepointabsentchangecouchdevotetrendjokekissmathempower
+bip_39_word_no_space_12: venturepointabsentchangecouchdevotetrendjokekissmathempowerallow
+bip_39_word_no_space_2: venturepoint
+bip_39_word_no_space_3: venturepointabsent
+bip_39_word_no_space_4: venturepointabsentchange
+bip_39_word_no_space_5: venturepointabsentchangecouch
+bip_39_word_no_space_6: venturepointabsentchangecouchdevote
+bip_39_word_no_space_7: venturepointabsentchangecouchdevotetrend
+bip_39_word_no_space_8: venturepointabsentchangecouchdevotetrendjoke
+bip_39_word_no_space_9: venturepointabsentchangecouchdevotetrendjokekiss
+bip_39_word_space_0:
+- venture
+- point
+- absent
+- change
+- couch
+- devote
+- trend
+- joke
+- kiss
+- math
+- empower
+- allow
+bip_39_word_space_1: venture
+bip_39_word_space_10: venture point absent change couch devote trend joke kiss math
+bip_39_word_space_11: venture point absent change couch devote trend joke kiss math
+  empower
+bip_39_word_space_12: venture point absent change couch devote trend joke kiss math
+  empower allow
+bip_39_word_space_2: venture point
+bip_39_word_space_3: venture point absent
+bip_39_word_space_4: venture point absent change
+bip_39_word_space_5: venture point absent change couch
+bip_39_word_space_6: venture point absent change couch devote
+bip_39_word_space_7: venture point absent change couch devote trend
+bip_39_word_space_8: venture point absent change couch devote trend joke
+bip_39_word_space_9: venture point absent change couch devote trend joke kiss
+bip_39_word_underscore_1: venture
+bip_39_word_underscore_10: venture_point_absent_change_couch_devote_trend_joke_kiss_math
+bip_39_word_underscore_11: venture_point_absent_change_couch_devote_trend_joke_kiss_math_empower
+bip_39_word_underscore_12: venture_point_absent_change_couch_devote_trend_joke_kiss_math_empower_allow
+bip_39_word_underscore_2: venture_point
+bip_39_word_underscore_3: venture_point_absent
+bip_39_word_underscore_4: venture_point_absent_change
+bip_39_word_underscore_5: venture_point_absent_change_couch
+bip_39_word_underscore_6: venture_point_absent_change_couch_devote
+bip_39_word_underscore_7: venture_point_absent_change_couch_devote_trend
+bip_39_word_underscore_8: venture_point_absent_change_couch_devote_trend_joke
+bip_39_word_underscore_9: venture_point_absent_change_couch_devote_trend_joke_kiss
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: tote_burgundy
+color_capital: Tote Burgundy
+color_first_letter: t
+color_first_letter_upper: T
+color_length_1: t
+color_length_2: to
+color_length_3: tot
+color_length_4: tote
+color_length_5: tote_
+color_length_6: tote_b
+color_name: Tote Burgundy
+color_no_space_length_1: t
+color_no_space_length_2: to
+color_no_space_length_3: tot
+color_no_space_length_4: tote
+color_no_space_length_5: toteb
+color_no_space_length_6: totebu
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TO
+color_no_space_upper_length_3: TOT
+color_no_space_upper_length_4: TOTE
+color_no_space_upper_length_5: TOTEB
+color_no_space_upper_length_6: TOTEBU
+color_upper: TOTE_BURGUNDY
+color_upper_length_1: T
+color_upper_length_2: TO
+color_upper_length_3: TOT
+color_upper_length_4: TOTE
+color_upper_length_5: TOTE_
+color_upper_length_6: TOTE_B
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '68'
+description_main_capital: '68'
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_length_1: '6'
+description_main_length_2: '68'
+description_main_length_3: '68'
+description_main_length_4: '68'
+description_main_length_5: '68'
+description_main_length_6: '68'
+description_main_name: '68'
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: '68'
+description_main_no_space_length_3: '68'
+description_main_no_space_length_4: '68'
+description_main_no_space_length_5: '68'
+description_main_no_space_length_6: '68'
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: '68'
+description_main_no_space_upper_length_3: '68'
+description_main_no_space_upper_length_4: '68'
+description_main_no_space_upper_length_5: '68'
+description_main_no_space_upper_length_6: '68'
+description_main_upper: '68'
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '68'
+description_main_upper_length_3: '68'
+description_main_upper_length_4: '68'
+description_main_upper_length_5: '68'
+description_main_upper_length_6: '68'
+description_only_numbers: '68'
+description_only_numbers_short: '68'
+description_or_color: T68
+description_or_color_upper: T68
+directory: parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+id: warehouse_storage_container_oomlout_owner_tote_burgundy_68
+id_no_class: storage_container_oomlout_owner_tote_burgundy_68
+id_no_color: '68'
+id_no_size: tote_burgundy_68
+id_no_type: oomlout_owner_tote_burgundy_68
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045p2a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045p2a
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2045p2a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045p2a
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_68
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_burgundy_68](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Tote Burgundy 68](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_burgundy_68](none)<br><br>'
+md5: 6a922243d6785d00f31872620169d792
+md5_10: 6a922243d6
+md5_10_upper: 6A922243D6
+md5_5: 6a922
+md5_5_upper: 6A922
+md5_6: 6a9222
+md5_6_alpha: 45p2a
+md5_6_alpha_upper: 45P2A
+md5_6_upper: 6A9222
+name: Warehouse Storage Container Oomlout Owner Tote Burgundy 68
+name_no_class: Storage Container Oomlout Owner Tote Burgundy 68
+name_no_color: '68'
+name_no_size: Tote Burgundy 68
+name_no_size_short: Tote Burgundy 68
+name_no_type: Oomlout Owner Tote Burgundy 68
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: tote_burgundy
+oomlout_detail_hierarchy_4_upper: TOTE_BURGUNDY
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_detail_hierarchy_5: '68'
+oomlout_detail_hierarchy_5_upper: '68'
+oomlout_detail_hierarchy_5_upper_length_4: '68'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_burgundy_68
+oomp_word: palm_tree paperclip lips
+oomp_word_emoji: ':palm_tree: :paperclip: :lips:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':paperclip:'
+- ':lips:'
+oomp_word_list:
+- palm_tree
+- paperclip
+- lips
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

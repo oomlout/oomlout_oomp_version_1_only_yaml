@@ -1,0 +1,512 @@
+bip_39_word_dash_1: fetch
+bip_39_word_dash_10: fetch-hazard-system-suit-gain-october-glory-chef-tragic-much
+bip_39_word_dash_11: fetch-hazard-system-suit-gain-october-glory-chef-tragic-much-tired
+bip_39_word_dash_12: fetch-hazard-system-suit-gain-october-glory-chef-tragic-much-tired-art
+bip_39_word_dash_2: fetch-hazard
+bip_39_word_dash_3: fetch-hazard-system
+bip_39_word_dash_4: fetch-hazard-system-suit
+bip_39_word_dash_5: fetch-hazard-system-suit-gain
+bip_39_word_dash_6: fetch-hazard-system-suit-gain-october
+bip_39_word_dash_7: fetch-hazard-system-suit-gain-october-glory
+bip_39_word_dash_8: fetch-hazard-system-suit-gain-october-glory-chef
+bip_39_word_dash_9: fetch-hazard-system-suit-gain-october-glory-chef-tragic
+bip_39_word_new_br_1: fetch
+bip_39_word_new_br_10: fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much
+bip_39_word_new_br_11: fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired
+bip_39_word_new_br_12: fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic<br>much<br>tired<br>art
+bip_39_word_new_br_2: fetch<br>hazard
+bip_39_word_new_br_3: fetch<br>hazard<br>system
+bip_39_word_new_br_4: fetch<br>hazard<br>system<br>suit
+bip_39_word_new_br_5: fetch<br>hazard<br>system<br>suit<br>gain
+bip_39_word_new_br_6: fetch<br>hazard<br>system<br>suit<br>gain<br>october
+bip_39_word_new_br_7: fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory
+bip_39_word_new_br_8: fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef
+bip_39_word_new_br_9: fetch<br>hazard<br>system<br>suit<br>gain<br>october<br>glory<br>chef<br>tragic
+bip_39_word_new_line_1: fetch
+bip_39_word_new_line_10: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october
+
+  glory
+
+  chef
+
+  tragic
+
+  much'
+bip_39_word_new_line_11: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october
+
+  glory
+
+  chef
+
+  tragic
+
+  much
+
+  tired'
+bip_39_word_new_line_12: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october
+
+  glory
+
+  chef
+
+  tragic
+
+  much
+
+  tired
+
+  art'
+bip_39_word_new_line_2: 'fetch
+
+  hazard'
+bip_39_word_new_line_3: 'fetch
+
+  hazard
+
+  system'
+bip_39_word_new_line_4: 'fetch
+
+  hazard
+
+  system
+
+  suit'
+bip_39_word_new_line_5: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain'
+bip_39_word_new_line_6: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october'
+bip_39_word_new_line_7: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october
+
+  glory'
+bip_39_word_new_line_8: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october
+
+  glory
+
+  chef'
+bip_39_word_new_line_9: 'fetch
+
+  hazard
+
+  system
+
+  suit
+
+  gain
+
+  october
+
+  glory
+
+  chef
+
+  tragic'
+bip_39_word_no_space_1: fetch
+bip_39_word_no_space_10: fetchhazardsystemsuitgainoctoberglorycheftragicmuch
+bip_39_word_no_space_11: fetchhazardsystemsuitgainoctoberglorycheftragicmuchtired
+bip_39_word_no_space_12: fetchhazardsystemsuitgainoctoberglorycheftragicmuchtiredart
+bip_39_word_no_space_2: fetchhazard
+bip_39_word_no_space_3: fetchhazardsystem
+bip_39_word_no_space_4: fetchhazardsystemsuit
+bip_39_word_no_space_5: fetchhazardsystemsuitgain
+bip_39_word_no_space_6: fetchhazardsystemsuitgainoctober
+bip_39_word_no_space_7: fetchhazardsystemsuitgainoctoberglory
+bip_39_word_no_space_8: fetchhazardsystemsuitgainoctoberglorychef
+bip_39_word_no_space_9: fetchhazardsystemsuitgainoctoberglorycheftragic
+bip_39_word_space_0:
+- fetch
+- hazard
+- system
+- suit
+- gain
+- october
+- glory
+- chef
+- tragic
+- much
+- tired
+- art
+bip_39_word_space_1: fetch
+bip_39_word_space_10: fetch hazard system suit gain october glory chef tragic much
+bip_39_word_space_11: fetch hazard system suit gain october glory chef tragic much
+  tired
+bip_39_word_space_12: fetch hazard system suit gain october glory chef tragic much
+  tired art
+bip_39_word_space_2: fetch hazard
+bip_39_word_space_3: fetch hazard system
+bip_39_word_space_4: fetch hazard system suit
+bip_39_word_space_5: fetch hazard system suit gain
+bip_39_word_space_6: fetch hazard system suit gain october
+bip_39_word_space_7: fetch hazard system suit gain october glory
+bip_39_word_space_8: fetch hazard system suit gain october glory chef
+bip_39_word_space_9: fetch hazard system suit gain october glory chef tragic
+bip_39_word_underscore_1: fetch
+bip_39_word_underscore_10: fetch_hazard_system_suit_gain_october_glory_chef_tragic_much
+bip_39_word_underscore_11: fetch_hazard_system_suit_gain_october_glory_chef_tragic_much_tired
+bip_39_word_underscore_12: fetch_hazard_system_suit_gain_october_glory_chef_tragic_much_tired_art
+bip_39_word_underscore_2: fetch_hazard
+bip_39_word_underscore_3: fetch_hazard_system
+bip_39_word_underscore_4: fetch_hazard_system_suit
+bip_39_word_underscore_5: fetch_hazard_system_suit_gain
+bip_39_word_underscore_6: fetch_hazard_system_suit_gain_october
+bip_39_word_underscore_7: fetch_hazard_system_suit_gain_october_glory
+bip_39_word_underscore_8: fetch_hazard_system_suit_gain_october_glory_chef
+bip_39_word_underscore_9: fetch_hazard_system_suit_gain_october_glory_chef_tragic
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: linear
+color_capital: Linear
+color_first_letter: l
+color_first_letter_upper: L
+color_length_1: l
+color_length_2: li
+color_length_3: lin
+color_length_4: line
+color_length_5: linea
+color_length_6: linear
+color_name: Linear
+color_no_space_length_1: l
+color_no_space_length_2: li
+color_no_space_length_3: lin
+color_no_space_length_4: line
+color_no_space_length_5: linea
+color_no_space_length_6: linear
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LI
+color_no_space_upper_length_3: LIN
+color_no_space_upper_length_4: LINE
+color_no_space_upper_length_5: LINEA
+color_no_space_upper_length_6: LINEAR
+color_upper: LINEAR
+color_upper_length_1: L
+color_upper_length_2: LI
+color_upper_length_3: LIN
+color_upper_length_4: LINE
+color_upper_length_5: LINEA
+color_upper_length_6: LINEAR
+description_extra: adj
+description_extra_capital: Adj
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_length_1: a
+description_extra_length_2: ad
+description_extra_length_3: adj
+description_extra_length_4: adj
+description_extra_length_5: adj
+description_extra_length_6: adj
+description_extra_name: Adj
+description_extra_no_space_length_1: a
+description_extra_no_space_length_2: ad
+description_extra_no_space_length_3: adj
+description_extra_no_space_length_4: adj
+description_extra_no_space_length_5: adj
+description_extra_no_space_length_6: adj
+description_extra_no_space_upper_length_1: A
+description_extra_no_space_upper_length_2: AD
+description_extra_no_space_upper_length_3: ADJ
+description_extra_no_space_upper_length_4: ADJ
+description_extra_no_space_upper_length_5: ADJ
+description_extra_no_space_upper_length_6: ADJ
+description_extra_upper: ADJ
+description_extra_upper_length_1: A
+description_extra_upper_length_2: AD
+description_extra_upper_length_3: ADJ
+description_extra_upper_length_4: ADJ
+description_extra_upper_length_5: ADJ
+description_extra_upper_length_6: ADJ
+description_main: '1117'
+description_main_capital: '1117'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '11'
+description_main_length_3: '111'
+description_main_length_4: '1117'
+description_main_length_5: '1117'
+description_main_length_6: '1117'
+description_main_name: '1117'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '11'
+description_main_no_space_length_3: '111'
+description_main_no_space_length_4: '1117'
+description_main_no_space_length_5: '1117'
+description_main_no_space_length_6: '1117'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '11'
+description_main_no_space_upper_length_3: '111'
+description_main_no_space_upper_length_4: '1117'
+description_main_no_space_upper_length_5: '1117'
+description_main_no_space_upper_length_6: '1117'
+description_main_upper: '1117'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '11'
+description_main_upper_length_3: '111'
+description_main_upper_length_4: '1117'
+description_main_upper_length_5: '1117'
+description_main_upper_length_6: '1117'
+description_only_numbers: '1117'
+description_only_numbers_short: 1k1
+description_or_color: L1k1
+description_or_color_upper: L1K1
+directory: parts/electronic_pmic_sot_223_linear_1117_adj
+distributors: []
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_to_sot_smd_sot_223_3_tabpin2//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_to_sot_smd_sot_223_3_tabpin2
+  note: source footprint kicad_package_to_sot_smd_sot_223_3_tabpin2
+  oomp_key: oomp_kicad_package_to_sot_smd_sot_223_3_tabpin2
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pms2231117_electronic_pmic_sot_223_linear_1117_adj
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+id: electronic_pmic_sot_223_linear_1117_adj
+id_no_class: pmic_sot_223_linear_1117_adj
+id_no_color: 1117_adj
+id_no_size: linear_1117_adj
+id_no_type: sot_223_linear_1117_adj
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20811es
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20811es
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20811es
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20811es
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_pmic_sot_223_linear_1117_adj
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_pmic_sot_223_linear_1117_adj](none)<br>[pms2231117](none)<br>[Electronic
+  Pmic Sot 223 Linear 1117 Adj](none)<br><br>'
+markdown_short: '[electronic_pmic_sot_223_linear_1117_adj](none)<br><br>'
+md5: cdc5644737274c72642f6d91b99a7aaa
+md5_10: cdc5644737
+md5_10_upper: CDC5644737
+md5_5: cdc56
+md5_5_upper: CDC56
+md5_6: cdc564
+md5_6_alpha: 811es
+md5_6_alpha_upper: 811ES
+md5_6_upper: CDC564
+name: Electronic Pmic Sot 223 Linear 1117 Adj
+name_no_class: Pmic Sot 223 Linear 1117 Adj
+name_no_color: 1117 Adj
+name_no_size: Linear 1117 Adj
+name_no_size_short: Linear 1k1 Adj
+name_no_type: Sot 223 Linear 1117 Adj
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: pmic
+oomlout_detail_hierarchy_2_upper: PMIC
+oomlout_detail_hierarchy_2_upper_length_4: PMIC
+oomlout_detail_hierarchy_3: sot_223
+oomlout_detail_hierarchy_3_upper: SOT_223
+oomlout_detail_hierarchy_3_upper_length_4: SOT_
+oomlout_detail_hierarchy_4: linear
+oomlout_detail_hierarchy_4_upper: LINEAR
+oomlout_detail_hierarchy_4_upper_length_4: LINE
+oomlout_detail_hierarchy_5: '1117'
+oomlout_detail_hierarchy_5_upper: '1117'
+oomlout_detail_hierarchy_5_upper_length_4: '1117'
+oomlout_detail_hierarchy_6: adj
+oomlout_detail_hierarchy_6_upper: ADJ
+oomlout_detail_hierarchy_6_upper_length_4: ADJ
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_pmic_sot_223_linear_1117_adj
+oomp_word: strawberry candy sunflower
+oomp_word_emoji: ':strawberry: :candy: :sunflower:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':candy:'
+- ':sunflower:'
+oomp_word_list:
+- strawberry
+- candy
+- sunflower
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: pms2231117
+short_code_upper: PMS2231117
+short_name: ''
+size: sot_223
+size_capital: Sot 223
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: sot
+size_length_4: sot_
+size_length_5: sot_2
+size_length_6: sot_22
+size_name: Sot 223
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: sot
+size_no_space_length_4: sot2
+size_no_space_length_5: sot22
+size_no_space_length_6: sot223
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOT
+size_no_space_upper_length_4: SOT2
+size_no_space_upper_length_5: SOT22
+size_no_space_upper_length_6: SOT223
+size_only_numbers: '223'
+size_only_numbers_no_zeros: '223'
+size_upper: SOT_223
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOT
+size_upper_length_4: SOT_
+size_upper_length_5: SOT_2
+size_upper_length_6: SOT_22
+smd_tape_depth: 2_mm
+smd_tape_pitch: 8_mm
+smd_tape_width: 12_mm
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_regulator_linear_ap1117_adj//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_regulator_linear_ap1117_adj
+  oomp_key: oomp_kicad_regulator_linear_ap1117_adj
+type: pmic
+type_capital: Pmic
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pm
+type_length_3: pmi
+type_length_4: pmic
+type_length_5: pmic
+type_length_6: pmic
+type_name: Pmic
+type_no_space_length_1: p
+type_no_space_length_2: pm
+type_no_space_length_3: pmi
+type_no_space_length_4: pmic
+type_no_space_length_5: pmic
+type_no_space_length_6: pmic
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PM
+type_no_space_upper_length_3: PMI
+type_no_space_upper_length_4: PMIC
+type_no_space_upper_length_5: PMIC
+type_no_space_upper_length_6: PMIC
+type_upper: PMIC
+type_upper_length_1: P
+type_upper_length_2: PM
+type_upper_length_3: PMI
+type_upper_length_4: PMIC
+type_upper_length_5: PMIC
+type_upper_length_6: PMIC

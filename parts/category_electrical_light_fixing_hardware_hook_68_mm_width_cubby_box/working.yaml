@@ -1,0 +1,469 @@
+bip_39_word_dash_1: catch
+bip_39_word_dash_10: catch-never-decrease-race-goat-front-elegant-damage-mutual-expand
+bip_39_word_dash_11: catch-never-decrease-race-goat-front-elegant-damage-mutual-expand-grant
+bip_39_word_dash_12: catch-never-decrease-race-goat-front-elegant-damage-mutual-expand-grant-alter
+bip_39_word_dash_2: catch-never
+bip_39_word_dash_3: catch-never-decrease
+bip_39_word_dash_4: catch-never-decrease-race
+bip_39_word_dash_5: catch-never-decrease-race-goat
+bip_39_word_dash_6: catch-never-decrease-race-goat-front
+bip_39_word_dash_7: catch-never-decrease-race-goat-front-elegant
+bip_39_word_dash_8: catch-never-decrease-race-goat-front-elegant-damage
+bip_39_word_dash_9: catch-never-decrease-race-goat-front-elegant-damage-mutual
+bip_39_word_new_br_1: catch
+bip_39_word_new_br_10: catch<br>never<br>decrease<br>race<br>goat<br>front<br>elegant<br>damage<br>mutual<br>expand
+bip_39_word_new_br_11: catch<br>never<br>decrease<br>race<br>goat<br>front<br>elegant<br>damage<br>mutual<br>expand<br>grant
+bip_39_word_new_br_12: catch<br>never<br>decrease<br>race<br>goat<br>front<br>elegant<br>damage<br>mutual<br>expand<br>grant<br>alter
+bip_39_word_new_br_2: catch<br>never
+bip_39_word_new_br_3: catch<br>never<br>decrease
+bip_39_word_new_br_4: catch<br>never<br>decrease<br>race
+bip_39_word_new_br_5: catch<br>never<br>decrease<br>race<br>goat
+bip_39_word_new_br_6: catch<br>never<br>decrease<br>race<br>goat<br>front
+bip_39_word_new_br_7: catch<br>never<br>decrease<br>race<br>goat<br>front<br>elegant
+bip_39_word_new_br_8: catch<br>never<br>decrease<br>race<br>goat<br>front<br>elegant<br>damage
+bip_39_word_new_br_9: catch<br>never<br>decrease<br>race<br>goat<br>front<br>elegant<br>damage<br>mutual
+bip_39_word_new_line_1: catch
+bip_39_word_new_line_10: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front
+
+  elegant
+
+  damage
+
+  mutual
+
+  expand'
+bip_39_word_new_line_11: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front
+
+  elegant
+
+  damage
+
+  mutual
+
+  expand
+
+  grant'
+bip_39_word_new_line_12: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front
+
+  elegant
+
+  damage
+
+  mutual
+
+  expand
+
+  grant
+
+  alter'
+bip_39_word_new_line_2: 'catch
+
+  never'
+bip_39_word_new_line_3: 'catch
+
+  never
+
+  decrease'
+bip_39_word_new_line_4: 'catch
+
+  never
+
+  decrease
+
+  race'
+bip_39_word_new_line_5: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat'
+bip_39_word_new_line_6: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front'
+bip_39_word_new_line_7: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front
+
+  elegant'
+bip_39_word_new_line_8: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front
+
+  elegant
+
+  damage'
+bip_39_word_new_line_9: 'catch
+
+  never
+
+  decrease
+
+  race
+
+  goat
+
+  front
+
+  elegant
+
+  damage
+
+  mutual'
+bip_39_word_no_space_1: catch
+bip_39_word_no_space_10: catchneverdecreaseracegoatfrontelegantdamagemutualexpand
+bip_39_word_no_space_11: catchneverdecreaseracegoatfrontelegantdamagemutualexpandgrant
+bip_39_word_no_space_12: catchneverdecreaseracegoatfrontelegantdamagemutualexpandgrantalter
+bip_39_word_no_space_2: catchnever
+bip_39_word_no_space_3: catchneverdecrease
+bip_39_word_no_space_4: catchneverdecreaserace
+bip_39_word_no_space_5: catchneverdecreaseracegoat
+bip_39_word_no_space_6: catchneverdecreaseracegoatfront
+bip_39_word_no_space_7: catchneverdecreaseracegoatfrontelegant
+bip_39_word_no_space_8: catchneverdecreaseracegoatfrontelegantdamage
+bip_39_word_no_space_9: catchneverdecreaseracegoatfrontelegantdamagemutual
+bip_39_word_space_0:
+- catch
+- never
+- decrease
+- race
+- goat
+- front
+- elegant
+- damage
+- mutual
+- expand
+- grant
+- alter
+bip_39_word_space_1: catch
+bip_39_word_space_10: catch never decrease race goat front elegant damage mutual expand
+bip_39_word_space_11: catch never decrease race goat front elegant damage mutual expand
+  grant
+bip_39_word_space_12: catch never decrease race goat front elegant damage mutual expand
+  grant alter
+bip_39_word_space_2: catch never
+bip_39_word_space_3: catch never decrease
+bip_39_word_space_4: catch never decrease race
+bip_39_word_space_5: catch never decrease race goat
+bip_39_word_space_6: catch never decrease race goat front
+bip_39_word_space_7: catch never decrease race goat front elegant
+bip_39_word_space_8: catch never decrease race goat front elegant damage
+bip_39_word_space_9: catch never decrease race goat front elegant damage mutual
+bip_39_word_underscore_1: catch
+bip_39_word_underscore_10: catch_never_decrease_race_goat_front_elegant_damage_mutual_expand
+bip_39_word_underscore_11: catch_never_decrease_race_goat_front_elegant_damage_mutual_expand_grant
+bip_39_word_underscore_12: catch_never_decrease_race_goat_front_elegant_damage_mutual_expand_grant_alter
+bip_39_word_underscore_2: catch_never
+bip_39_word_underscore_3: catch_never_decrease
+bip_39_word_underscore_4: catch_never_decrease_race
+bip_39_word_underscore_5: catch_never_decrease_race_goat
+bip_39_word_underscore_6: catch_never_decrease_race_goat_front
+bip_39_word_underscore_7: catch_never_decrease_race_goat_front_elegant
+bip_39_word_underscore_8: catch_never_decrease_race_goat_front_elegant_damage
+bip_39_word_underscore_9: catch_never_decrease_race_goat_front_elegant_damage_mutual
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 68_mm_width
+color_capital: 68 mm Width
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '68'
+color_length_3: '68_'
+color_length_4: 68_m
+color_length_5: 68_mm
+color_length_6: 68_mm_
+color_name: 68 mm Width
+color_no_space_length_1: '6'
+color_no_space_length_2: '68'
+color_no_space_length_3: 68m
+color_no_space_length_4: 68mm
+color_no_space_length_5: 68mmw
+color_no_space_length_6: 68mmwi
+color_no_space_upper_length_1: '6'
+color_no_space_upper_length_2: '68'
+color_no_space_upper_length_3: 68M
+color_no_space_upper_length_4: 68MM
+color_no_space_upper_length_5: 68MMW
+color_no_space_upper_length_6: 68MMWI
+color_upper: 68_MM_WIDTH
+color_upper_length_1: '6'
+color_upper_length_2: '68'
+color_upper_length_3: '68_'
+color_upper_length_4: 68_M
+color_upper_length_5: 68_MM
+color_upper_length_6: 68_MM_
+description: category_electrical
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cu
+description_extra_length_3: cub
+description_extra_length_4: cubb
+description_extra_length_5: cubby
+description_extra_length_6: cubby_
+description_extra_name: Cubby Box
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cu
+description_extra_no_space_length_3: cub
+description_extra_no_space_length_4: cubb
+description_extra_no_space_length_5: cubby
+description_extra_no_space_length_6: cubbyb
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CU
+description_extra_no_space_upper_length_3: CUB
+description_extra_no_space_upper_length_4: CUBB
+description_extra_no_space_upper_length_5: CUBBY
+description_extra_no_space_upper_length_6: CUBBYB
+description_extra_upper: CUBBY_BOX
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CU
+description_extra_upper_length_3: CUB
+description_extra_upper_length_4: CUBB
+description_extra_upper_length_5: CUBBY
+description_extra_upper_length_6: CUBBY_
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '6 '
+description_or_color_upper: '6 '
+directory: parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+id: category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+id_no_class: electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+id_no_color: cubby_box
+id_no_size: 68_mm_width_cubby_box
+id_no_type: light_fixing_hardware_hook_68_mm_width_cubby_box
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204mv6c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204mv6c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204mv6c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204mv6c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box](none)<br>[](none)<br>[Category
+  Electrical Light Fixing Hardware Hook 68 Mm Width Cubby Box](none)<br><br>'
+markdown_short: '[category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box](none)<br><br>'
+md5: 76cb540c913708f175320b0672654120
+md5_10: 76cb540c91
+md5_10_upper: 76CB540C91
+md5_5: 76cb5
+md5_5_upper: 76CB5
+md5_6: 76cb54
+md5_6_alpha: 4mv6c
+md5_6_alpha_upper: 4MV6C
+md5_6_upper: 76CB54
+name: Category Electrical Light Fixing Hardware Hook 68 mm Width Cubby Box
+name_no_class: Electrical Light Fixing Hardware Hook 68 mm Width Cubby Box
+name_no_color: Cubby Box
+name_no_size: 68 mm Width Cubby Box
+name_no_size_short: 68 Mm Width Cubby Box
+name_no_type: Light Fixing Hardware Hook 68 mm Width Cubby Box
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electrical
+oomlout_detail_hierarchy_2_upper: ELECTRICAL
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: light_fixing_hardware_hook
+oomlout_detail_hierarchy_3_upper: LIGHT_FIXING_HARDWARE_HOOK
+oomlout_detail_hierarchy_3_upper_length_4: LIGH
+oomlout_detail_hierarchy_4: 68_mm_width
+oomlout_detail_hierarchy_4_upper: 68_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 68WI
+oomlout_detail_hierarchy_5: cubby_box
+oomlout_detail_hierarchy_5_upper: CUBBY_BOX
+oomlout_detail_hierarchy_5_upper_length_4: CUBB
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_electrical_light_fixing_hardware_hook_68_mm_width_cubby_box
+oomp_word: santa grapes whale
+oomp_word_emoji: ':santa: :grapes: :whale:'
+oomp_word_emoji_list:
+- ':santa:'
+- ':grapes:'
+- ':whale:'
+oomp_word_list:
+- santa
+- grapes
+- whale
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectrical
+size: light_fixing_hardware_hook
+size_capital: Light Fixing Hardware Hook
+size_first_letter: l
+size_first_letter_upper: L
+size_length_1: l
+size_length_2: li
+size_length_3: lig
+size_length_4: ligh
+size_length_5: light
+size_length_6: light_
+size_name: Light Fixing Hardware Hook
+size_no_space_length_1: l
+size_no_space_length_2: li
+size_no_space_length_3: lig
+size_no_space_length_4: ligh
+size_no_space_length_5: light
+size_no_space_length_6: lightf
+size_no_space_upper_length_1: L
+size_no_space_upper_length_2: LI
+size_no_space_upper_length_3: LIG
+size_no_space_upper_length_4: LIGH
+size_no_space_upper_length_5: LIGHT
+size_no_space_upper_length_6: LIGHTF
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LIGHT_FIXING_HARDWARE_HOOK
+size_upper_length_1: L
+size_upper_length_2: LI
+size_upper_length_3: LIG
+size_upper_length_4: LIGH
+size_upper_length_5: LIGHT
+size_upper_length_6: LIGHT_
+type: electrical
+type_capital: Electrical
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electrical
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRICAL
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

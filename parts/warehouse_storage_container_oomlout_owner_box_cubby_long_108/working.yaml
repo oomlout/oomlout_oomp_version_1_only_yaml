@@ -1,0 +1,466 @@
+bip_39_word_dash_1: point
+bip_39_word_dash_10: point-security-cabbage-infant-apart-spend-north-must-fame-sketch
+bip_39_word_dash_11: point-security-cabbage-infant-apart-spend-north-must-fame-sketch-target
+bip_39_word_dash_12: point-security-cabbage-infant-apart-spend-north-must-fame-sketch-target-acoustic
+bip_39_word_dash_2: point-security
+bip_39_word_dash_3: point-security-cabbage
+bip_39_word_dash_4: point-security-cabbage-infant
+bip_39_word_dash_5: point-security-cabbage-infant-apart
+bip_39_word_dash_6: point-security-cabbage-infant-apart-spend
+bip_39_word_dash_7: point-security-cabbage-infant-apart-spend-north
+bip_39_word_dash_8: point-security-cabbage-infant-apart-spend-north-must
+bip_39_word_dash_9: point-security-cabbage-infant-apart-spend-north-must-fame
+bip_39_word_new_br_1: point
+bip_39_word_new_br_10: point<br>security<br>cabbage<br>infant<br>apart<br>spend<br>north<br>must<br>fame<br>sketch
+bip_39_word_new_br_11: point<br>security<br>cabbage<br>infant<br>apart<br>spend<br>north<br>must<br>fame<br>sketch<br>target
+bip_39_word_new_br_12: point<br>security<br>cabbage<br>infant<br>apart<br>spend<br>north<br>must<br>fame<br>sketch<br>target<br>acoustic
+bip_39_word_new_br_2: point<br>security
+bip_39_word_new_br_3: point<br>security<br>cabbage
+bip_39_word_new_br_4: point<br>security<br>cabbage<br>infant
+bip_39_word_new_br_5: point<br>security<br>cabbage<br>infant<br>apart
+bip_39_word_new_br_6: point<br>security<br>cabbage<br>infant<br>apart<br>spend
+bip_39_word_new_br_7: point<br>security<br>cabbage<br>infant<br>apart<br>spend<br>north
+bip_39_word_new_br_8: point<br>security<br>cabbage<br>infant<br>apart<br>spend<br>north<br>must
+bip_39_word_new_br_9: point<br>security<br>cabbage<br>infant<br>apart<br>spend<br>north<br>must<br>fame
+bip_39_word_new_line_1: point
+bip_39_word_new_line_10: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend
+
+  north
+
+  must
+
+  fame
+
+  sketch'
+bip_39_word_new_line_11: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend
+
+  north
+
+  must
+
+  fame
+
+  sketch
+
+  target'
+bip_39_word_new_line_12: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend
+
+  north
+
+  must
+
+  fame
+
+  sketch
+
+  target
+
+  acoustic'
+bip_39_word_new_line_2: 'point
+
+  security'
+bip_39_word_new_line_3: 'point
+
+  security
+
+  cabbage'
+bip_39_word_new_line_4: 'point
+
+  security
+
+  cabbage
+
+  infant'
+bip_39_word_new_line_5: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart'
+bip_39_word_new_line_6: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend'
+bip_39_word_new_line_7: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend
+
+  north'
+bip_39_word_new_line_8: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend
+
+  north
+
+  must'
+bip_39_word_new_line_9: 'point
+
+  security
+
+  cabbage
+
+  infant
+
+  apart
+
+  spend
+
+  north
+
+  must
+
+  fame'
+bip_39_word_no_space_1: point
+bip_39_word_no_space_10: pointsecuritycabbageinfantapartspendnorthmustfamesketch
+bip_39_word_no_space_11: pointsecuritycabbageinfantapartspendnorthmustfamesketchtarget
+bip_39_word_no_space_12: pointsecuritycabbageinfantapartspendnorthmustfamesketchtargetacoustic
+bip_39_word_no_space_2: pointsecurity
+bip_39_word_no_space_3: pointsecuritycabbage
+bip_39_word_no_space_4: pointsecuritycabbageinfant
+bip_39_word_no_space_5: pointsecuritycabbageinfantapart
+bip_39_word_no_space_6: pointsecuritycabbageinfantapartspend
+bip_39_word_no_space_7: pointsecuritycabbageinfantapartspendnorth
+bip_39_word_no_space_8: pointsecuritycabbageinfantapartspendnorthmust
+bip_39_word_no_space_9: pointsecuritycabbageinfantapartspendnorthmustfame
+bip_39_word_space_0:
+- point
+- security
+- cabbage
+- infant
+- apart
+- spend
+- north
+- must
+- fame
+- sketch
+- target
+- acoustic
+bip_39_word_space_1: point
+bip_39_word_space_10: point security cabbage infant apart spend north must fame sketch
+bip_39_word_space_11: point security cabbage infant apart spend north must fame sketch
+  target
+bip_39_word_space_12: point security cabbage infant apart spend north must fame sketch
+  target acoustic
+bip_39_word_space_2: point security
+bip_39_word_space_3: point security cabbage
+bip_39_word_space_4: point security cabbage infant
+bip_39_word_space_5: point security cabbage infant apart
+bip_39_word_space_6: point security cabbage infant apart spend
+bip_39_word_space_7: point security cabbage infant apart spend north
+bip_39_word_space_8: point security cabbage infant apart spend north must
+bip_39_word_space_9: point security cabbage infant apart spend north must fame
+bip_39_word_underscore_1: point
+bip_39_word_underscore_10: point_security_cabbage_infant_apart_spend_north_must_fame_sketch
+bip_39_word_underscore_11: point_security_cabbage_infant_apart_spend_north_must_fame_sketch_target
+bip_39_word_underscore_12: point_security_cabbage_infant_apart_spend_north_must_fame_sketch_target_acoustic
+bip_39_word_underscore_2: point_security
+bip_39_word_underscore_3: point_security_cabbage
+bip_39_word_underscore_4: point_security_cabbage_infant
+bip_39_word_underscore_5: point_security_cabbage_infant_apart
+bip_39_word_underscore_6: point_security_cabbage_infant_apart_spend
+bip_39_word_underscore_7: point_security_cabbage_infant_apart_spend_north
+bip_39_word_underscore_8: point_security_cabbage_infant_apart_spend_north_must
+bip_39_word_underscore_9: point_security_cabbage_infant_apart_spend_north_must_fame
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cubby_long
+color_capital: Box Cubby Long
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cubby Long
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBBY_LONG
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '108'
+description_main_capital: '108'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '108'
+description_main_length_4: '108'
+description_main_length_5: '108'
+description_main_length_6: '108'
+description_main_name: '108'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: '108'
+description_main_no_space_length_4: '108'
+description_main_no_space_length_5: '108'
+description_main_no_space_length_6: '108'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: '108'
+description_main_no_space_upper_length_4: '108'
+description_main_no_space_upper_length_5: '108'
+description_main_no_space_upper_length_6: '108'
+description_main_upper: '108'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '108'
+description_main_upper_length_4: '108'
+description_main_upper_length_5: '108'
+description_main_upper_length_6: '108'
+description_only_numbers: '108'
+description_only_numbers_short: '108'
+description_or_color: B108
+description_or_color_upper: B108
+directory: parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+id: warehouse_storage_container_oomlout_owner_box_cubby_long_108
+id_no_class: storage_container_oomlout_owner_box_cubby_long_108
+id_no_color: '108'
+id_no_size: box_cubby_long_108
+id_no_type: oomlout_owner_box_cubby_long_108
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201bdv6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201bdv6
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201bdv6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201bdv6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_108
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cubby_long_108](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cubby Long 108](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cubby_long_108](none)<br><br>'
+md5: 21bbf28a939212cb450527343f70b53a
+md5_10: 21bbf28a93
+md5_10_upper: 21BBF28A93
+md5_5: 21bbf
+md5_5_upper: 21BBF
+md5_6: 21bbf2
+md5_6_alpha: 1bdv6
+md5_6_alpha_upper: 1BDV6
+md5_6_upper: 21BBF2
+name: Warehouse Storage Container Oomlout Owner Box Cubby Long 108
+name_no_class: Storage Container Oomlout Owner Box Cubby Long 108
+name_no_color: '108'
+name_no_size: Box Cubby Long 108
+name_no_size_short: Box Cubby Long 108
+name_no_type: Oomlout Owner Box Cubby Long 108
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cubby_long
+oomlout_detail_hierarchy_4_upper: BOX_CUBBY_LONG
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '108'
+oomlout_detail_hierarchy_5_upper: '108'
+oomlout_detail_hierarchy_5_upper_length_4: '108'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cubby_long_108
+oomp_word: feet curry one
+oomp_word_emoji: ':feet: :curry: :one:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':curry:'
+- ':one:'
+oomp_word_list:
+- feet
+- curry
+- one
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

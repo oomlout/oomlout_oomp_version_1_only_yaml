@@ -1,0 +1,122 @@
+# Category Oobb Part Tray Thin Cubby Box  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+category_oobb
+
+
+
+### name
+* name: Category Oobb Part Tray Thin Cubby Box
+* name_short: 
+### id
+* oomp_id: category_oobb_part_tray_thin_cubby_box
+  * classification: category
+  * type: oobb
+  * size: part
+  * color: tray_thin
+  * description_main: 
+  * description_extra: cubby_box
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: nuclear length
+  * bip 39 word 3: nuclear length alone
+  * bip 39 word: nuclear length alone alpha giant room orphan corn number join announce april
+
+### other_codes
+* short_code: 
+* oomp_word: jeans anger clubs
+* oomp_word_emoji :jeans: :anger: :clubs:
+* md5_6_alpha: 6sihq
+* md5_6: ae129e
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206sihq)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206sihq)
+[2x1](http://192.168.1.242:1112/?label=oomp%206sihq)
+[6x4](http://192.168.1.55:1112/?label=oomp%206sihq)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | category |  
+| classification_name | Category |  
+| color | tray_thin |  
+| color_name | Tray Thin |  
+| description | category_oobb |  
+| description_extra | cubby_box |  
+| description_extra_name | Cubby Box |  
+| description_main |  |  
+| description_main_name |  |  
+| description_or_color | T  |  
+| directory | parts/category_oobb_part_tray_thin_cubby_box |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_oobb_part_tray_thin_cubby_box |  
+| id | category_oobb_part_tray_thin_cubby_box |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206sihq |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206sihq |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206sihq |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206sihq |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_tray_thin_cubby_box |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [category_oobb_part_tray_thin_cubby_box](none)<br>[](none)<br>[Category Oobb Part Tray Thin Cubby Box](none)<br><br> |  
+| markdown_short | [category_oobb_part_tray_thin_cubby_box](none)<br><br> |  
+| md5 | ae129e0cbb30739aefb0d0700de004ba |  
+| md5_10 | ae129e0cbb |  
+| md5_5 | ae129 |  
+| md5_6 | ae129e |  
+| md5_6_alpha | 6sihq |  
+| name | Category Oobb Part Tray Thin Cubby Box |  
+| oomlout_detail_hierarchy_1 | category |  
+| oomlout_detail_hierarchy_2 | oobb |  
+| oomlout_detail_hierarchy_3 | part |  
+| oomlout_detail_hierarchy_4 | tray_thin |  
+| oomlout_detail_hierarchy_5 | cubby_box |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_category_oobb_part_tray_thin_cubby_box |  
+| oomp_word | jeans anger clubs |  
+| oomp_word_emoji | :jeans: :anger: :clubs: |  
+| oomp_word_emoji_list | [':jeans:', ':anger:', ':clubs:'] |  
+| oomp_word_list | ['jeans', 'anger', 'clubs'] |  
+| part_number |  |  
+| part_number_exact |  |  
+| part_number_name |  |  
+| short_code |  |  
+| short_name | Categoryoobb |  
+| size | part |  
+| size_name | Part |  
+| type | oobb |  
+| type_name | Oobb |  

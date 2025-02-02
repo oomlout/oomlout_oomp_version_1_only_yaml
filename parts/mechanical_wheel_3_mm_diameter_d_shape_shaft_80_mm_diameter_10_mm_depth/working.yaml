@@ -1,0 +1,444 @@
+bip_39_word_dash_1: alcohol
+bip_39_word_dash_10: alcohol-toddler-morning-coyote-hawk-print-wild-tank-wool-derive
+bip_39_word_dash_11: alcohol-toddler-morning-coyote-hawk-print-wild-tank-wool-derive-void
+bip_39_word_dash_12: alcohol-toddler-morning-coyote-hawk-print-wild-tank-wool-derive-void-actress
+bip_39_word_dash_2: alcohol-toddler
+bip_39_word_dash_3: alcohol-toddler-morning
+bip_39_word_dash_4: alcohol-toddler-morning-coyote
+bip_39_word_dash_5: alcohol-toddler-morning-coyote-hawk
+bip_39_word_dash_6: alcohol-toddler-morning-coyote-hawk-print
+bip_39_word_dash_7: alcohol-toddler-morning-coyote-hawk-print-wild
+bip_39_word_dash_8: alcohol-toddler-morning-coyote-hawk-print-wild-tank
+bip_39_word_dash_9: alcohol-toddler-morning-coyote-hawk-print-wild-tank-wool
+bip_39_word_new_br_1: alcohol
+bip_39_word_new_br_10: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print<br>wild<br>tank<br>wool<br>derive
+bip_39_word_new_br_11: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print<br>wild<br>tank<br>wool<br>derive<br>void
+bip_39_word_new_br_12: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print<br>wild<br>tank<br>wool<br>derive<br>void<br>actress
+bip_39_word_new_br_2: alcohol<br>toddler
+bip_39_word_new_br_3: alcohol<br>toddler<br>morning
+bip_39_word_new_br_4: alcohol<br>toddler<br>morning<br>coyote
+bip_39_word_new_br_5: alcohol<br>toddler<br>morning<br>coyote<br>hawk
+bip_39_word_new_br_6: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print
+bip_39_word_new_br_7: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print<br>wild
+bip_39_word_new_br_8: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print<br>wild<br>tank
+bip_39_word_new_br_9: alcohol<br>toddler<br>morning<br>coyote<br>hawk<br>print<br>wild<br>tank<br>wool
+bip_39_word_new_line_1: alcohol
+bip_39_word_new_line_10: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print
+
+  wild
+
+  tank
+
+  wool
+
+  derive'
+bip_39_word_new_line_11: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print
+
+  wild
+
+  tank
+
+  wool
+
+  derive
+
+  void'
+bip_39_word_new_line_12: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print
+
+  wild
+
+  tank
+
+  wool
+
+  derive
+
+  void
+
+  actress'
+bip_39_word_new_line_2: 'alcohol
+
+  toddler'
+bip_39_word_new_line_3: 'alcohol
+
+  toddler
+
+  morning'
+bip_39_word_new_line_4: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote'
+bip_39_word_new_line_5: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk'
+bip_39_word_new_line_6: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print'
+bip_39_word_new_line_7: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print
+
+  wild'
+bip_39_word_new_line_8: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print
+
+  wild
+
+  tank'
+bip_39_word_new_line_9: 'alcohol
+
+  toddler
+
+  morning
+
+  coyote
+
+  hawk
+
+  print
+
+  wild
+
+  tank
+
+  wool'
+bip_39_word_no_space_1: alcohol
+bip_39_word_no_space_10: alcoholtoddlermorningcoyotehawkprintwildtankwoolderive
+bip_39_word_no_space_11: alcoholtoddlermorningcoyotehawkprintwildtankwoolderivevoid
+bip_39_word_no_space_12: alcoholtoddlermorningcoyotehawkprintwildtankwoolderivevoidactress
+bip_39_word_no_space_2: alcoholtoddler
+bip_39_word_no_space_3: alcoholtoddlermorning
+bip_39_word_no_space_4: alcoholtoddlermorningcoyote
+bip_39_word_no_space_5: alcoholtoddlermorningcoyotehawk
+bip_39_word_no_space_6: alcoholtoddlermorningcoyotehawkprint
+bip_39_word_no_space_7: alcoholtoddlermorningcoyotehawkprintwild
+bip_39_word_no_space_8: alcoholtoddlermorningcoyotehawkprintwildtank
+bip_39_word_no_space_9: alcoholtoddlermorningcoyotehawkprintwildtankwool
+bip_39_word_space_0:
+- alcohol
+- toddler
+- morning
+- coyote
+- hawk
+- print
+- wild
+- tank
+- wool
+- derive
+- void
+- actress
+bip_39_word_space_1: alcohol
+bip_39_word_space_10: alcohol toddler morning coyote hawk print wild tank wool derive
+bip_39_word_space_11: alcohol toddler morning coyote hawk print wild tank wool derive
+  void
+bip_39_word_space_12: alcohol toddler morning coyote hawk print wild tank wool derive
+  void actress
+bip_39_word_space_2: alcohol toddler
+bip_39_word_space_3: alcohol toddler morning
+bip_39_word_space_4: alcohol toddler morning coyote
+bip_39_word_space_5: alcohol toddler morning coyote hawk
+bip_39_word_space_6: alcohol toddler morning coyote hawk print
+bip_39_word_space_7: alcohol toddler morning coyote hawk print wild
+bip_39_word_space_8: alcohol toddler morning coyote hawk print wild tank
+bip_39_word_space_9: alcohol toddler morning coyote hawk print wild tank wool
+bip_39_word_underscore_1: alcohol
+bip_39_word_underscore_10: alcohol_toddler_morning_coyote_hawk_print_wild_tank_wool_derive
+bip_39_word_underscore_11: alcohol_toddler_morning_coyote_hawk_print_wild_tank_wool_derive_void
+bip_39_word_underscore_12: alcohol_toddler_morning_coyote_hawk_print_wild_tank_wool_derive_void_actress
+bip_39_word_underscore_2: alcohol_toddler
+bip_39_word_underscore_3: alcohol_toddler_morning
+bip_39_word_underscore_4: alcohol_toddler_morning_coyote
+bip_39_word_underscore_5: alcohol_toddler_morning_coyote_hawk
+bip_39_word_underscore_6: alcohol_toddler_morning_coyote_hawk_print
+bip_39_word_underscore_7: alcohol_toddler_morning_coyote_hawk_print_wild
+bip_39_word_underscore_8: alcohol_toddler_morning_coyote_hawk_print_wild_tank
+bip_39_word_underscore_9: alcohol_toddler_morning_coyote_hawk_print_wild_tank_wool
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
+classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 80_mm_diameter_10_mm_depth
+description_main_capital: 80 mm Diameter 10 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '80'
+description_main_length_3: '80_'
+description_main_length_4: 80_m
+description_main_length_5: 80_mm
+description_main_length_6: 80_mm_
+description_main_name: 80 mm Diameter 10 mm Depth
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: '80'
+description_main_no_space_length_3: 80m
+description_main_no_space_length_4: 80mm
+description_main_no_space_length_5: 80mmd
+description_main_no_space_length_6: 80mmdi
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: '80'
+description_main_no_space_upper_length_3: 80M
+description_main_no_space_upper_length_4: 80MM
+description_main_no_space_upper_length_5: 80MMD
+description_main_no_space_upper_length_6: 80MMDI
+description_main_upper: 80_MM_DIAMETER_10_MM_DEPTH
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '80'
+description_main_upper_length_3: '80_'
+description_main_upper_length_4: 80_M
+description_main_upper_length_5: 80_MM
+description_main_upper_length_6: 80_MM_
+description_only_numbers: '8010'
+description_only_numbers_short: 8k
+description_or_color: 8k
+description_or_color_upper: 8K
+directory: parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+id: mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+id_no_class: wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+id_no_color: 80mmdiameter10mmdepth
+id_no_size: 80_mm_diameter_10_mm_depth
+id_no_type: 3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_2_name: link_github
+link_distributor_pololu: https://www.pololu.com/product/1434
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201shzi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201shzi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201shzi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201shzi
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth](none)<br>[](none)<br>[Mechanical
+  Wheel 3 Mm Diameter D Shape Shaft 80 Mm Diameter 10 Mm Depth](none)<br><br>'
+markdown_short: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth](none)<br><br>'
+md5: 2deb0edfeaddbf62ab34e31b1ff8d830
+md5_10: 2deb0edfea
+md5_10_upper: 2DEB0EDFEA
+md5_5: 2deb0
+md5_5_upper: 2DEB0
+md5_6: 2deb0e
+md5_6_alpha: 1shzi
+md5_6_alpha_upper: 1SHZI
+md5_6_upper: 2DEB0E
+name: Mechanical Wheel 3 mm Diameter D Shape Shaft 80 mm Diameter 10 mm Depth
+name_no_class: Wheel 3 mm Diameter D Shape Shaft 80 mm Diameter 10 mm Depth
+name_no_color: 80mmdiameter10mmdepth
+name_no_size: 80 mm Diameter 10 mm Depth
+name_no_size_short: 80 Mm Diameter 10 Mm Depth
+name_no_type: 3 mm Diameter D Shape Shaft 80 mm Diameter 10 mm Depth
+name_short: Wheel 80mm Diameter 3 mm D Shape Shaft
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: wheel
+oomlout_detail_hierarchy_2_upper: WHEEL
+oomlout_detail_hierarchy_2_upper_length_4: WHEE
+oomlout_detail_hierarchy_3: 3_mm_diameter_d
+oomlout_detail_hierarchy_3_upper: 3_MM_DIAMETER_D
+oomlout_detail_hierarchy_3_upper_length_4: 3DIA
+oomlout_detail_hierarchy_4: shape_shaft
+oomlout_detail_hierarchy_4_upper: SHAPE_SHAFT
+oomlout_detail_hierarchy_4_upper_length_4: SHAP
+oomlout_detail_hierarchy_5: 10_mm_depth
+oomlout_detail_hierarchy_5_upper: 10_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 10DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+oomp_word: snowman car cupid
+oomp_word_emoji: ':snowman: :car: :cupid:'
+oomp_word_emoji_list:
+- ':snowman:'
+- ':car:'
+- ':cupid:'
+oomp_word_list:
+- snowman
+- car
+- cupid
+part_number: ''
+part_number_capital: ''
+part_number_distributor_pololu: '1434'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 3_mm_diameter_d_shape_shaft
+size_capital: 3 mm Diameter D Shape Shaft
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_length_1: '3'
+size_length_2: '3_'
+size_length_3: 3_m
+size_length_4: 3_mm
+size_length_5: 3_mm_
+size_length_6: 3_mm_d
+size_name: 3 mm Diameter D Shape Shaft
+size_no_space_length_1: '3'
+size_no_space_length_2: 3m
+size_no_space_length_3: 3mm
+size_no_space_length_4: 3mmd
+size_no_space_length_5: 3mmdi
+size_no_space_length_6: 3mmdia
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: 3M
+size_no_space_upper_length_3: 3MM
+size_no_space_upper_length_4: 3MMD
+size_no_space_upper_length_5: 3MMDI
+size_no_space_upper_length_6: 3MMDIA
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3_MM_DIAMETER_D_SHAPE_SHAFT
+size_upper_length_1: '3'
+size_upper_length_2: '3_'
+size_upper_length_3: 3_M
+size_upper_length_4: 3_MM
+size_upper_length_5: 3_MM_
+size_upper_length_6: 3_MM_D
+type: wheel
+type_capital: Wheel
+type_first_letter: w
+type_first_letter_upper: W
+type_length_1: w
+type_length_2: wh
+type_length_3: whe
+type_length_4: whee
+type_length_5: wheel
+type_length_6: wheel
+type_name: Wheel
+type_no_space_length_1: w
+type_no_space_length_2: wh
+type_no_space_length_3: whe
+type_no_space_length_4: whee
+type_no_space_length_5: wheel
+type_no_space_length_6: wheel
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WH
+type_no_space_upper_length_3: WHE
+type_no_space_upper_length_4: WHEE
+type_no_space_upper_length_5: WHEEL
+type_no_space_upper_length_6: WHEEL
+type_upper: WHEEL
+type_upper_length_1: W
+type_upper_length_2: WH
+type_upper_length_3: WHE
+type_upper_length_4: WHEE
+type_upper_length_5: WHEEL
+type_upper_length_6: WHEEL

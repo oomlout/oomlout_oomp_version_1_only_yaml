@@ -1,0 +1,439 @@
+bip_39_word_dash_1: settle
+bip_39_word_dash_10: settle-abstract-silver-across-shuffle-rug-flat-identify-birth-flat
+bip_39_word_dash_11: settle-abstract-silver-across-shuffle-rug-flat-identify-birth-flat-small
+bip_39_word_dash_12: settle-abstract-silver-across-shuffle-rug-flat-identify-birth-flat-small-attack
+bip_39_word_dash_2: settle-abstract
+bip_39_word_dash_3: settle-abstract-silver
+bip_39_word_dash_4: settle-abstract-silver-across
+bip_39_word_dash_5: settle-abstract-silver-across-shuffle
+bip_39_word_dash_6: settle-abstract-silver-across-shuffle-rug
+bip_39_word_dash_7: settle-abstract-silver-across-shuffle-rug-flat
+bip_39_word_dash_8: settle-abstract-silver-across-shuffle-rug-flat-identify
+bip_39_word_dash_9: settle-abstract-silver-across-shuffle-rug-flat-identify-birth
+bip_39_word_new_br_1: settle
+bip_39_word_new_br_10: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug<br>flat<br>identify<br>birth<br>flat
+bip_39_word_new_br_11: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug<br>flat<br>identify<br>birth<br>flat<br>small
+bip_39_word_new_br_12: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug<br>flat<br>identify<br>birth<br>flat<br>small<br>attack
+bip_39_word_new_br_2: settle<br>abstract
+bip_39_word_new_br_3: settle<br>abstract<br>silver
+bip_39_word_new_br_4: settle<br>abstract<br>silver<br>across
+bip_39_word_new_br_5: settle<br>abstract<br>silver<br>across<br>shuffle
+bip_39_word_new_br_6: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug
+bip_39_word_new_br_7: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug<br>flat
+bip_39_word_new_br_8: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug<br>flat<br>identify
+bip_39_word_new_br_9: settle<br>abstract<br>silver<br>across<br>shuffle<br>rug<br>flat<br>identify<br>birth
+bip_39_word_new_line_1: settle
+bip_39_word_new_line_10: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug
+
+  flat
+
+  identify
+
+  birth
+
+  flat'
+bip_39_word_new_line_11: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug
+
+  flat
+
+  identify
+
+  birth
+
+  flat
+
+  small'
+bip_39_word_new_line_12: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug
+
+  flat
+
+  identify
+
+  birth
+
+  flat
+
+  small
+
+  attack'
+bip_39_word_new_line_2: 'settle
+
+  abstract'
+bip_39_word_new_line_3: 'settle
+
+  abstract
+
+  silver'
+bip_39_word_new_line_4: 'settle
+
+  abstract
+
+  silver
+
+  across'
+bip_39_word_new_line_5: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle'
+bip_39_word_new_line_6: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug'
+bip_39_word_new_line_7: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug
+
+  flat'
+bip_39_word_new_line_8: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug
+
+  flat
+
+  identify'
+bip_39_word_new_line_9: 'settle
+
+  abstract
+
+  silver
+
+  across
+
+  shuffle
+
+  rug
+
+  flat
+
+  identify
+
+  birth'
+bip_39_word_no_space_1: settle
+bip_39_word_no_space_10: settleabstractsilveracrossshufflerugflatidentifybirthflat
+bip_39_word_no_space_11: settleabstractsilveracrossshufflerugflatidentifybirthflatsmall
+bip_39_word_no_space_12: settleabstractsilveracrossshufflerugflatidentifybirthflatsmallattack
+bip_39_word_no_space_2: settleabstract
+bip_39_word_no_space_3: settleabstractsilver
+bip_39_word_no_space_4: settleabstractsilveracross
+bip_39_word_no_space_5: settleabstractsilveracrossshuffle
+bip_39_word_no_space_6: settleabstractsilveracrossshufflerug
+bip_39_word_no_space_7: settleabstractsilveracrossshufflerugflat
+bip_39_word_no_space_8: settleabstractsilveracrossshufflerugflatidentify
+bip_39_word_no_space_9: settleabstractsilveracrossshufflerugflatidentifybirth
+bip_39_word_space_0:
+- settle
+- abstract
+- silver
+- across
+- shuffle
+- rug
+- flat
+- identify
+- birth
+- flat
+- small
+- attack
+bip_39_word_space_1: settle
+bip_39_word_space_10: settle abstract silver across shuffle rug flat identify birth
+  flat
+bip_39_word_space_11: settle abstract silver across shuffle rug flat identify birth
+  flat small
+bip_39_word_space_12: settle abstract silver across shuffle rug flat identify birth
+  flat small attack
+bip_39_word_space_2: settle abstract
+bip_39_word_space_3: settle abstract silver
+bip_39_word_space_4: settle abstract silver across
+bip_39_word_space_5: settle abstract silver across shuffle
+bip_39_word_space_6: settle abstract silver across shuffle rug
+bip_39_word_space_7: settle abstract silver across shuffle rug flat
+bip_39_word_space_8: settle abstract silver across shuffle rug flat identify
+bip_39_word_space_9: settle abstract silver across shuffle rug flat identify birth
+bip_39_word_underscore_1: settle
+bip_39_word_underscore_10: settle_abstract_silver_across_shuffle_rug_flat_identify_birth_flat
+bip_39_word_underscore_11: settle_abstract_silver_across_shuffle_rug_flat_identify_birth_flat_small
+bip_39_word_underscore_12: settle_abstract_silver_across_shuffle_rug_flat_identify_birth_flat_small_attack
+bip_39_word_underscore_2: settle_abstract
+bip_39_word_underscore_3: settle_abstract_silver
+bip_39_word_underscore_4: settle_abstract_silver_across
+bip_39_word_underscore_5: settle_abstract_silver_across_shuffle
+bip_39_word_underscore_6: settle_abstract_silver_across_shuffle_rug
+bip_39_word_underscore_7: settle_abstract_silver_across_shuffle_rug_flat
+bip_39_word_underscore_8: settle_abstract_silver_across_shuffle_rug_flat_identify
+bip_39_word_underscore_9: settle_abstract_silver_across_shuffle_rug_flat_identify_birth
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 5_width_14_height_9_mm_depth
+description_main_capital: 5 Width 14 Height 9 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_w
+description_main_length_4: 5_wi
+description_main_length_5: 5_wid
+description_main_length_6: 5_widt
+description_main_name: 5 Width 14 Height 9 mm Depth
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: 5w
+description_main_no_space_length_3: 5wi
+description_main_no_space_length_4: 5wid
+description_main_no_space_length_5: 5widt
+description_main_no_space_length_6: 5width
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: 5W
+description_main_no_space_upper_length_3: 5WI
+description_main_no_space_upper_length_4: 5WID
+description_main_no_space_upper_length_5: 5WIDT
+description_main_no_space_upper_length_6: 5WIDTH
+description_main_upper: 5_WIDTH_14_HEIGHT_9_MM_DEPTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_W
+description_main_upper_length_4: 5_WI
+description_main_upper_length_5: 5_WID
+description_main_upper_length_6: 5_WIDT
+description_only_numbers: '5149'
+description_only_numbers_short: 5k1
+description_or_color: 5k1
+description_or_color_upper: 5K1
+directory: parts/oobb_part_tray_5_width_14_height_9_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_5_width_14_height_9_mm_depth
+id: oobb_part_tray_5_width_14_height_9_mm_depth
+id_no_class: part_tray_5_width_14_height_9_mm_depth
+id_no_color: 5width14height9mmdepth
+id_no_size: 5_width_14_height_9_mm_depth
+id_no_type: tray_5_width_14_height_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_5_width_14_height_9_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_5_width_14_height_9_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_5_width_14_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_5_width_14_height_9_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2091bdi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2091bdi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2091bdi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2091bdi
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_5_width_14_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_5_width_14_height_9_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray 5 Width 14 Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_5_width_14_height_9_mm_depth](none)<br><br>'
+md5: e798d620b5708b12f463b02591803e23
+md5_10: e798d620b5
+md5_10_upper: E798D620B5
+md5_5: e798d
+md5_5_upper: E798D
+md5_6: e798d6
+md5_6_alpha: 91bdi
+md5_6_alpha_upper: 91BDI
+md5_6_upper: E798D6
+name: Oobb Part Tray 5 Width 14 Height 9 mm Depth
+name_no_class: Part Tray 5 Width 14 Height 9 mm Depth
+name_no_color: 5Width14Height9mmdepth
+name_no_size: 5 Width 14 Height 9 mm Depth
+name_no_size_short: 5 Width 14 Height 9 Mm Depth
+name_no_type: Tray 5 Width 14 Height 9 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray
+oomlout_detail_hierarchy_3_upper: TRAY
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_5_width_14_height_9_mm_depth
+oomp_word: helicopter tennis school
+oomp_word_emoji: ':helicopter: :tennis: :school:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':tennis:'
+- ':school:'
+oomp_word_list:
+- helicopter
+- tennis
+- school
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray
+size_capital: Tray
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray
+size_length_6: tray
+size_name: Tray
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: tray
+size_no_space_length_6: tray
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAY
+size_no_space_upper_length_6: TRAY
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY
+size_upper_length_6: TRAY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

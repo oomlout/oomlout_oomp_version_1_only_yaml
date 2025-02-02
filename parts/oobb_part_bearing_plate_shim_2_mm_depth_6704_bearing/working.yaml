@@ -1,0 +1,465 @@
+bip_39_word_dash_1: crawl
+bip_39_word_dash_10: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest-fresh
+bip_39_word_dash_11: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest-fresh-zoo
+bip_39_word_dash_12: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest-fresh-zoo-amount
+bip_39_word_dash_2: crawl-assist
+bip_39_word_dash_3: crawl-assist-refuse
+bip_39_word_dash_4: crawl-assist-refuse-warfare
+bip_39_word_dash_5: crawl-assist-refuse-warfare-wagon
+bip_39_word_dash_6: crawl-assist-refuse-warfare-wagon-sting
+bip_39_word_dash_7: crawl-assist-refuse-warfare-wagon-sting-comfort
+bip_39_word_dash_8: crawl-assist-refuse-warfare-wagon-sting-comfort-chair
+bip_39_word_dash_9: crawl-assist-refuse-warfare-wagon-sting-comfort-chair-nest
+bip_39_word_new_br_1: crawl
+bip_39_word_new_br_10: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest<br>fresh
+bip_39_word_new_br_11: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest<br>fresh<br>zoo
+bip_39_word_new_br_12: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest<br>fresh<br>zoo<br>amount
+bip_39_word_new_br_2: crawl<br>assist
+bip_39_word_new_br_3: crawl<br>assist<br>refuse
+bip_39_word_new_br_4: crawl<br>assist<br>refuse<br>warfare
+bip_39_word_new_br_5: crawl<br>assist<br>refuse<br>warfare<br>wagon
+bip_39_word_new_br_6: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting
+bip_39_word_new_br_7: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort
+bip_39_word_new_br_8: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair
+bip_39_word_new_br_9: crawl<br>assist<br>refuse<br>warfare<br>wagon<br>sting<br>comfort<br>chair<br>nest
+bip_39_word_new_line_1: crawl
+bip_39_word_new_line_10: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting
+
+  comfort
+
+  chair
+
+  nest
+
+  fresh'
+bip_39_word_new_line_11: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting
+
+  comfort
+
+  chair
+
+  nest
+
+  fresh
+
+  zoo'
+bip_39_word_new_line_12: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting
+
+  comfort
+
+  chair
+
+  nest
+
+  fresh
+
+  zoo
+
+  amount'
+bip_39_word_new_line_2: 'crawl
+
+  assist'
+bip_39_word_new_line_3: 'crawl
+
+  assist
+
+  refuse'
+bip_39_word_new_line_4: 'crawl
+
+  assist
+
+  refuse
+
+  warfare'
+bip_39_word_new_line_5: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon'
+bip_39_word_new_line_6: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting'
+bip_39_word_new_line_7: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting
+
+  comfort'
+bip_39_word_new_line_8: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting
+
+  comfort
+
+  chair'
+bip_39_word_new_line_9: 'crawl
+
+  assist
+
+  refuse
+
+  warfare
+
+  wagon
+
+  sting
+
+  comfort
+
+  chair
+
+  nest'
+bip_39_word_no_space_1: crawl
+bip_39_word_no_space_10: crawlassistrefusewarfarewagonstingcomfortchairnestfresh
+bip_39_word_no_space_11: crawlassistrefusewarfarewagonstingcomfortchairnestfreshzoo
+bip_39_word_no_space_12: crawlassistrefusewarfarewagonstingcomfortchairnestfreshzooamount
+bip_39_word_no_space_2: crawlassist
+bip_39_word_no_space_3: crawlassistrefuse
+bip_39_word_no_space_4: crawlassistrefusewarfare
+bip_39_word_no_space_5: crawlassistrefusewarfarewagon
+bip_39_word_no_space_6: crawlassistrefusewarfarewagonsting
+bip_39_word_no_space_7: crawlassistrefusewarfarewagonstingcomfort
+bip_39_word_no_space_8: crawlassistrefusewarfarewagonstingcomfortchair
+bip_39_word_no_space_9: crawlassistrefusewarfarewagonstingcomfortchairnest
+bip_39_word_space_0:
+- crawl
+- assist
+- refuse
+- warfare
+- wagon
+- sting
+- comfort
+- chair
+- nest
+- fresh
+- zoo
+- amount
+bip_39_word_space_1: crawl
+bip_39_word_space_10: crawl assist refuse warfare wagon sting comfort chair nest fresh
+bip_39_word_space_11: crawl assist refuse warfare wagon sting comfort chair nest fresh
+  zoo
+bip_39_word_space_12: crawl assist refuse warfare wagon sting comfort chair nest fresh
+  zoo amount
+bip_39_word_space_2: crawl assist
+bip_39_word_space_3: crawl assist refuse
+bip_39_word_space_4: crawl assist refuse warfare
+bip_39_word_space_5: crawl assist refuse warfare wagon
+bip_39_word_space_6: crawl assist refuse warfare wagon sting
+bip_39_word_space_7: crawl assist refuse warfare wagon sting comfort
+bip_39_word_space_8: crawl assist refuse warfare wagon sting comfort chair
+bip_39_word_space_9: crawl assist refuse warfare wagon sting comfort chair nest
+bip_39_word_underscore_1: crawl
+bip_39_word_underscore_10: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest_fresh
+bip_39_word_underscore_11: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest_fresh_zoo
+bip_39_word_underscore_12: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest_fresh_zoo_amount
+bip_39_word_underscore_2: crawl_assist
+bip_39_word_underscore_3: crawl_assist_refuse
+bip_39_word_underscore_4: crawl_assist_refuse_warfare
+bip_39_word_underscore_5: crawl_assist_refuse_warfare_wagon
+bip_39_word_underscore_6: crawl_assist_refuse_warfare_wagon_sting
+bip_39_word_underscore_7: crawl_assist_refuse_warfare_wagon_sting_comfort
+bip_39_word_underscore_8: crawl_assist_refuse_warfare_wagon_sting_comfort_chair
+bip_39_word_underscore_9: crawl_assist_refuse_warfare_wagon_sting_comfort_chair_nest
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 6704_bearing
+description_extra_capital: 6704 Bearing
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_length_1: '6'
+description_extra_length_2: '67'
+description_extra_length_3: '670'
+description_extra_length_4: '6704'
+description_extra_length_5: '6704_'
+description_extra_length_6: 6704_b
+description_extra_name: 6704 Bearing
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: '67'
+description_extra_no_space_length_3: '670'
+description_extra_no_space_length_4: '6704'
+description_extra_no_space_length_5: 6704b
+description_extra_no_space_length_6: 6704be
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: '67'
+description_extra_no_space_upper_length_3: '670'
+description_extra_no_space_upper_length_4: '6704'
+description_extra_no_space_upper_length_5: 6704B
+description_extra_no_space_upper_length_6: 6704BE
+description_extra_upper: 6704_BEARING
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '67'
+description_extra_upper_length_3: '670'
+description_extra_upper_length_4: '6704'
+description_extra_upper_length_5: '6704_'
+description_extra_upper_length_6: 6704_B
+description_main: 2_mm_depth
+description_main_capital: 2 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_m
+description_main_length_4: 2_mm
+description_main_length_5: 2_mm_
+description_main_length_6: 2_mm_d
+description_main_name: 2 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2m
+description_main_no_space_length_3: 2mm
+description_main_no_space_length_4: 2mmd
+description_main_no_space_length_5: 2mmde
+description_main_no_space_length_6: 2mmdep
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2M
+description_main_no_space_upper_length_3: 2MM
+description_main_no_space_upper_length_4: 2MMD
+description_main_no_space_upper_length_5: 2MMDE
+description_main_no_space_upper_length_6: 2MMDEP
+description_main_upper: 2_MM_DEPTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_M
+description_main_upper_length_4: 2_MM
+description_main_upper_length_5: 2_MM_
+description_main_upper_length_6: 2_MM_D
+description_only_numbers: '2'
+description_only_numbers_short: '2'
+description_or_color: '2'
+description_or_color_upper: '2'
+directory: parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+id: oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+id_no_class: part_bearing_plate_shim_2_mm_depth_6704_bearing
+id_no_color: 2mmdepth6704bearing
+id_no_size: 2_mm_depth_6704_bearing
+id_no_type: bearing_plate_shim_2_mm_depth_6704_bearing
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2052lsn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2052lsn
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2052lsn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2052lsn
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing](none)<br>[](none)<br>[Oobb
+  Part Bearing Plate Shim 2 Mm Depth 6704 Bearing](none)<br><br>'
+markdown_short: '[oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing](none)<br><br>'
+md5: 81ffd734a425c5c757fb2f7168c37195
+md5_10: 81ffd734a4
+md5_10_upper: 81FFD734A4
+md5_5: 81ffd
+md5_5_upper: 81FFD
+md5_6: 81ffd7
+md5_6_alpha: 52lsn
+md5_6_alpha_upper: 52LSN
+md5_6_upper: 81FFD7
+name: Oobb Part Bearing Plate Shim 2 mm Depth 6704 Bearing
+name_no_class: Part Bearing Plate Shim 2 mm Depth 6704 Bearing
+name_no_color: 2mmdepth6704Bearing
+name_no_size: 2 mm Depth 6704 Bearing
+name_no_size_short: 2 Mm Depth 6704 Bearing
+name_no_type: Bearing Plate Shim 2 mm Depth 6704 Bearing
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bearing_plate_shim
+oomlout_detail_hierarchy_3_upper: BEARING_PLATE_SHIM
+oomlout_detail_hierarchy_3_upper_length_4: BEAR
+oomlout_detail_hierarchy_4: 2_mm_depth
+oomlout_detail_hierarchy_4_upper: 2_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 2DEP
+oomlout_detail_hierarchy_5: 6704_bearing
+oomlout_detail_hierarchy_5_upper: 6704_BEARING
+oomlout_detail_hierarchy_5_upper_length_4: '6704'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_bearing_plate_shim_2_mm_depth_6704_bearing
+oomp_word: watch trident office
+oomp_word_emoji: ':watch: :trident: :office:'
+oomp_word_emoji_list:
+- ':watch:'
+- ':trident:'
+- ':office:'
+oomp_word_list:
+- watch
+- trident
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bearing_plate_shim
+size_capital: Bearing Plate Shim
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: be
+size_length_3: bea
+size_length_4: bear
+size_length_5: beari
+size_length_6: bearin
+size_name: Bearing Plate Shim
+size_no_space_length_1: b
+size_no_space_length_2: be
+size_no_space_length_3: bea
+size_no_space_length_4: bear
+size_no_space_length_5: beari
+size_no_space_length_6: bearin
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BE
+size_no_space_upper_length_3: BEA
+size_no_space_upper_length_4: BEAR
+size_no_space_upper_length_5: BEARI
+size_no_space_upper_length_6: BEARIN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING_PLATE_SHIM
+size_upper_length_1: B
+size_upper_length_2: BE
+size_upper_length_3: BEA
+size_upper_length_4: BEAR
+size_upper_length_5: BEARI
+size_upper_length_6: BEARIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

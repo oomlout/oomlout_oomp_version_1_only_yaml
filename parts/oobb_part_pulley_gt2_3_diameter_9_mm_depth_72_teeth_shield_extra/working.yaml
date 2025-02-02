@@ -1,0 +1,468 @@
+bip_39_word_dash_1: apple
+bip_39_word_dash_10: apple-oyster-cake-true-trophy-lounge-anxiety-drill-brown-spawn
+bip_39_word_dash_11: apple-oyster-cake-true-trophy-lounge-anxiety-drill-brown-spawn-lazy
+bip_39_word_dash_12: apple-oyster-cake-true-trophy-lounge-anxiety-drill-brown-spawn-lazy-aisle
+bip_39_word_dash_2: apple-oyster
+bip_39_word_dash_3: apple-oyster-cake
+bip_39_word_dash_4: apple-oyster-cake-true
+bip_39_word_dash_5: apple-oyster-cake-true-trophy
+bip_39_word_dash_6: apple-oyster-cake-true-trophy-lounge
+bip_39_word_dash_7: apple-oyster-cake-true-trophy-lounge-anxiety
+bip_39_word_dash_8: apple-oyster-cake-true-trophy-lounge-anxiety-drill
+bip_39_word_dash_9: apple-oyster-cake-true-trophy-lounge-anxiety-drill-brown
+bip_39_word_new_br_1: apple
+bip_39_word_new_br_10: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge<br>anxiety<br>drill<br>brown<br>spawn
+bip_39_word_new_br_11: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge<br>anxiety<br>drill<br>brown<br>spawn<br>lazy
+bip_39_word_new_br_12: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge<br>anxiety<br>drill<br>brown<br>spawn<br>lazy<br>aisle
+bip_39_word_new_br_2: apple<br>oyster
+bip_39_word_new_br_3: apple<br>oyster<br>cake
+bip_39_word_new_br_4: apple<br>oyster<br>cake<br>true
+bip_39_word_new_br_5: apple<br>oyster<br>cake<br>true<br>trophy
+bip_39_word_new_br_6: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge
+bip_39_word_new_br_7: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge<br>anxiety
+bip_39_word_new_br_8: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge<br>anxiety<br>drill
+bip_39_word_new_br_9: apple<br>oyster<br>cake<br>true<br>trophy<br>lounge<br>anxiety<br>drill<br>brown
+bip_39_word_new_line_1: apple
+bip_39_word_new_line_10: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge
+
+  anxiety
+
+  drill
+
+  brown
+
+  spawn'
+bip_39_word_new_line_11: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge
+
+  anxiety
+
+  drill
+
+  brown
+
+  spawn
+
+  lazy'
+bip_39_word_new_line_12: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge
+
+  anxiety
+
+  drill
+
+  brown
+
+  spawn
+
+  lazy
+
+  aisle'
+bip_39_word_new_line_2: 'apple
+
+  oyster'
+bip_39_word_new_line_3: 'apple
+
+  oyster
+
+  cake'
+bip_39_word_new_line_4: 'apple
+
+  oyster
+
+  cake
+
+  true'
+bip_39_word_new_line_5: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy'
+bip_39_word_new_line_6: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge'
+bip_39_word_new_line_7: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge
+
+  anxiety'
+bip_39_word_new_line_8: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge
+
+  anxiety
+
+  drill'
+bip_39_word_new_line_9: 'apple
+
+  oyster
+
+  cake
+
+  true
+
+  trophy
+
+  lounge
+
+  anxiety
+
+  drill
+
+  brown'
+bip_39_word_no_space_1: apple
+bip_39_word_no_space_10: appleoystercaketruetrophyloungeanxietydrillbrownspawn
+bip_39_word_no_space_11: appleoystercaketruetrophyloungeanxietydrillbrownspawnlazy
+bip_39_word_no_space_12: appleoystercaketruetrophyloungeanxietydrillbrownspawnlazyaisle
+bip_39_word_no_space_2: appleoyster
+bip_39_word_no_space_3: appleoystercake
+bip_39_word_no_space_4: appleoystercaketrue
+bip_39_word_no_space_5: appleoystercaketruetrophy
+bip_39_word_no_space_6: appleoystercaketruetrophylounge
+bip_39_word_no_space_7: appleoystercaketruetrophyloungeanxiety
+bip_39_word_no_space_8: appleoystercaketruetrophyloungeanxietydrill
+bip_39_word_no_space_9: appleoystercaketruetrophyloungeanxietydrillbrown
+bip_39_word_space_0:
+- apple
+- oyster
+- cake
+- 'true'
+- trophy
+- lounge
+- anxiety
+- drill
+- brown
+- spawn
+- lazy
+- aisle
+bip_39_word_space_1: apple
+bip_39_word_space_10: apple oyster cake true trophy lounge anxiety drill brown spawn
+bip_39_word_space_11: apple oyster cake true trophy lounge anxiety drill brown spawn
+  lazy
+bip_39_word_space_12: apple oyster cake true trophy lounge anxiety drill brown spawn
+  lazy aisle
+bip_39_word_space_2: apple oyster
+bip_39_word_space_3: apple oyster cake
+bip_39_word_space_4: apple oyster cake true
+bip_39_word_space_5: apple oyster cake true trophy
+bip_39_word_space_6: apple oyster cake true trophy lounge
+bip_39_word_space_7: apple oyster cake true trophy lounge anxiety
+bip_39_word_space_8: apple oyster cake true trophy lounge anxiety drill
+bip_39_word_space_9: apple oyster cake true trophy lounge anxiety drill brown
+bip_39_word_underscore_1: apple
+bip_39_word_underscore_10: apple_oyster_cake_true_trophy_lounge_anxiety_drill_brown_spawn
+bip_39_word_underscore_11: apple_oyster_cake_true_trophy_lounge_anxiety_drill_brown_spawn_lazy
+bip_39_word_underscore_12: apple_oyster_cake_true_trophy_lounge_anxiety_drill_brown_spawn_lazy_aisle
+bip_39_word_underscore_2: apple_oyster
+bip_39_word_underscore_3: apple_oyster_cake
+bip_39_word_underscore_4: apple_oyster_cake_true
+bip_39_word_underscore_5: apple_oyster_cake_true_trophy
+bip_39_word_underscore_6: apple_oyster_cake_true_trophy_lounge
+bip_39_word_underscore_7: apple_oyster_cake_true_trophy_lounge_anxiety
+bip_39_word_underscore_8: apple_oyster_cake_true_trophy_lounge_anxiety_drill
+bip_39_word_underscore_9: apple_oyster_cake_true_trophy_lounge_anxiety_drill_brown
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 72_teeth_shield_extra
+description_extra_capital: 72 Teeth Shield Extra
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_length_1: '7'
+description_extra_length_2: '72'
+description_extra_length_3: '72_'
+description_extra_length_4: 72_t
+description_extra_length_5: 72_te
+description_extra_length_6: 72_tee
+description_extra_name: 72 Teeth Shield Extra
+description_extra_no_space_length_1: '7'
+description_extra_no_space_length_2: '72'
+description_extra_no_space_length_3: 72t
+description_extra_no_space_length_4: 72te
+description_extra_no_space_length_5: 72tee
+description_extra_no_space_length_6: 72teet
+description_extra_no_space_upper_length_1: '7'
+description_extra_no_space_upper_length_2: '72'
+description_extra_no_space_upper_length_3: 72T
+description_extra_no_space_upper_length_4: 72TE
+description_extra_no_space_upper_length_5: 72TEE
+description_extra_no_space_upper_length_6: 72TEET
+description_extra_upper: 72_TEETH_SHIELD_EXTRA
+description_extra_upper_length_1: '7'
+description_extra_upper_length_2: '72'
+description_extra_upper_length_3: '72_'
+description_extra_upper_length_4: 72_T
+description_extra_upper_length_5: 72_TE
+description_extra_upper_length_6: 72_TEE
+description_main: 3_diameter_9_mm_depth
+description_main_capital: 3 Diameter 9 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_d
+description_main_length_4: 3_di
+description_main_length_5: 3_dia
+description_main_length_6: 3_diam
+description_main_name: 3 Diameter 9 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3d
+description_main_no_space_length_3: 3di
+description_main_no_space_length_4: 3dia
+description_main_no_space_length_5: 3diam
+description_main_no_space_length_6: 3diame
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3D
+description_main_no_space_upper_length_3: 3DI
+description_main_no_space_upper_length_4: 3DIA
+description_main_no_space_upper_length_5: 3DIAM
+description_main_no_space_upper_length_6: 3DIAME
+description_main_upper: 3_DIAMETER_9_MM_DEPTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_D
+description_main_upper_length_4: 3_DI
+description_main_upper_length_5: 3_DIA
+description_main_upper_length_6: 3_DIAM
+description_only_numbers: '39'
+description_only_numbers_short: '39'
+description_or_color: '39'
+description_or_color_upper: '39'
+directory: parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+id: oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+id_no_class: part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+id_no_color: 3diameter9mmdepth72teethshieldextra
+id_no_size: 3_diameter_9_mm_depth_72_teeth_shield_extra
+id_no_type: pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203jt2s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203jt2s
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203jt2s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203jt2s
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra](none)<br>[](none)<br>[Oobb
+  Part Pulley Gt2 3 Diameter 9 Mm Depth 72 Teeth Shield Extra](none)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra](none)<br><br>'
+md5: 5afcf428e842e14211747e9440a79855
+md5_10: 5afcf428e8
+md5_10_upper: 5AFCF428E8
+md5_5: 5afcf
+md5_5_upper: 5AFCF
+md5_6: 5afcf4
+md5_6_alpha: 3jt2s
+md5_6_alpha_upper: 3JT2S
+md5_6_upper: 5AFCF4
+name: Oobb Part Pulley Gt2 3 Diameter 9 mm Depth 72 Teeth Shield Extra
+name_no_class: Part Pulley Gt2 3 Diameter 9 mm Depth 72 Teeth Shield Extra
+name_no_color: 3Diameter9mmdepth72Teethshieldextra
+name_no_size: 3 Diameter 9 mm Depth 72 Teeth Shield Extra
+name_no_size_short: 3 Diameter 9 Mm Depth 72 Teeth Shield Extra
+name_no_type: Pulley Gt2 3 Diameter 9 mm Depth 72 Teeth Shield Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 3_diameter
+oomlout_detail_hierarchy_4_upper: 3_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 3_DI
+oomlout_detail_hierarchy_5: 9_mm_depth
+oomlout_detail_hierarchy_5_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 9DEP
+oomlout_detail_hierarchy_6: 72_teeth_shield_extra
+oomlout_detail_hierarchy_6_upper: 72_TEETH_SHIELD_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: 72_T
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_3_diameter_9_mm_depth_72_teeth_shield_extra
+oomp_word: goat up three
+oomp_word_emoji: ':goat: :up: :three:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':up:'
+- ':three:'
+oomp_word_list:
+- goat
+- up
+- three
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

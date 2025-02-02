@@ -1,0 +1,466 @@
+bip_39_word_dash_1: tool
+bip_39_word_dash_10: tool-kitten-ancient-report-twist-illegal-orient-solve-same-isolate
+bip_39_word_dash_11: tool-kitten-ancient-report-twist-illegal-orient-solve-same-isolate-wash
+bip_39_word_dash_12: tool-kitten-ancient-report-twist-illegal-orient-solve-same-isolate-wash-agent
+bip_39_word_dash_2: tool-kitten
+bip_39_word_dash_3: tool-kitten-ancient
+bip_39_word_dash_4: tool-kitten-ancient-report
+bip_39_word_dash_5: tool-kitten-ancient-report-twist
+bip_39_word_dash_6: tool-kitten-ancient-report-twist-illegal
+bip_39_word_dash_7: tool-kitten-ancient-report-twist-illegal-orient
+bip_39_word_dash_8: tool-kitten-ancient-report-twist-illegal-orient-solve
+bip_39_word_dash_9: tool-kitten-ancient-report-twist-illegal-orient-solve-same
+bip_39_word_new_br_1: tool
+bip_39_word_new_br_10: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal<br>orient<br>solve<br>same<br>isolate
+bip_39_word_new_br_11: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal<br>orient<br>solve<br>same<br>isolate<br>wash
+bip_39_word_new_br_12: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal<br>orient<br>solve<br>same<br>isolate<br>wash<br>agent
+bip_39_word_new_br_2: tool<br>kitten
+bip_39_word_new_br_3: tool<br>kitten<br>ancient
+bip_39_word_new_br_4: tool<br>kitten<br>ancient<br>report
+bip_39_word_new_br_5: tool<br>kitten<br>ancient<br>report<br>twist
+bip_39_word_new_br_6: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal
+bip_39_word_new_br_7: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal<br>orient
+bip_39_word_new_br_8: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal<br>orient<br>solve
+bip_39_word_new_br_9: tool<br>kitten<br>ancient<br>report<br>twist<br>illegal<br>orient<br>solve<br>same
+bip_39_word_new_line_1: tool
+bip_39_word_new_line_10: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal
+
+  orient
+
+  solve
+
+  same
+
+  isolate'
+bip_39_word_new_line_11: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal
+
+  orient
+
+  solve
+
+  same
+
+  isolate
+
+  wash'
+bip_39_word_new_line_12: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal
+
+  orient
+
+  solve
+
+  same
+
+  isolate
+
+  wash
+
+  agent'
+bip_39_word_new_line_2: 'tool
+
+  kitten'
+bip_39_word_new_line_3: 'tool
+
+  kitten
+
+  ancient'
+bip_39_word_new_line_4: 'tool
+
+  kitten
+
+  ancient
+
+  report'
+bip_39_word_new_line_5: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist'
+bip_39_word_new_line_6: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal'
+bip_39_word_new_line_7: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal
+
+  orient'
+bip_39_word_new_line_8: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal
+
+  orient
+
+  solve'
+bip_39_word_new_line_9: 'tool
+
+  kitten
+
+  ancient
+
+  report
+
+  twist
+
+  illegal
+
+  orient
+
+  solve
+
+  same'
+bip_39_word_no_space_1: tool
+bip_39_word_no_space_10: toolkittenancientreporttwistillegalorientsolvesameisolate
+bip_39_word_no_space_11: toolkittenancientreporttwistillegalorientsolvesameisolatewash
+bip_39_word_no_space_12: toolkittenancientreporttwistillegalorientsolvesameisolatewashagent
+bip_39_word_no_space_2: toolkitten
+bip_39_word_no_space_3: toolkittenancient
+bip_39_word_no_space_4: toolkittenancientreport
+bip_39_word_no_space_5: toolkittenancientreporttwist
+bip_39_word_no_space_6: toolkittenancientreporttwistillegal
+bip_39_word_no_space_7: toolkittenancientreporttwistillegalorient
+bip_39_word_no_space_8: toolkittenancientreporttwistillegalorientsolve
+bip_39_word_no_space_9: toolkittenancientreporttwistillegalorientsolvesame
+bip_39_word_space_0:
+- tool
+- kitten
+- ancient
+- report
+- twist
+- illegal
+- orient
+- solve
+- same
+- isolate
+- wash
+- agent
+bip_39_word_space_1: tool
+bip_39_word_space_10: tool kitten ancient report twist illegal orient solve same isolate
+bip_39_word_space_11: tool kitten ancient report twist illegal orient solve same isolate
+  wash
+bip_39_word_space_12: tool kitten ancient report twist illegal orient solve same isolate
+  wash agent
+bip_39_word_space_2: tool kitten
+bip_39_word_space_3: tool kitten ancient
+bip_39_word_space_4: tool kitten ancient report
+bip_39_word_space_5: tool kitten ancient report twist
+bip_39_word_space_6: tool kitten ancient report twist illegal
+bip_39_word_space_7: tool kitten ancient report twist illegal orient
+bip_39_word_space_8: tool kitten ancient report twist illegal orient solve
+bip_39_word_space_9: tool kitten ancient report twist illegal orient solve same
+bip_39_word_underscore_1: tool
+bip_39_word_underscore_10: tool_kitten_ancient_report_twist_illegal_orient_solve_same_isolate
+bip_39_word_underscore_11: tool_kitten_ancient_report_twist_illegal_orient_solve_same_isolate_wash
+bip_39_word_underscore_12: tool_kitten_ancient_report_twist_illegal_orient_solve_same_isolate_wash_agent
+bip_39_word_underscore_2: tool_kitten
+bip_39_word_underscore_3: tool_kitten_ancient
+bip_39_word_underscore_4: tool_kitten_ancient_report
+bip_39_word_underscore_5: tool_kitten_ancient_report_twist
+bip_39_word_underscore_6: tool_kitten_ancient_report_twist_illegal
+bip_39_word_underscore_7: tool_kitten_ancient_report_twist_illegal_orient
+bip_39_word_underscore_8: tool_kitten_ancient_report_twist_illegal_orient_solve
+bip_39_word_underscore_9: tool_kitten_ancient_report_twist_illegal_orient_solve_same
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cubby_long
+color_capital: Box Cubby Long
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cubby Long
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBBY_LONG
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '147'
+description_main_capital: '147'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '14'
+description_main_length_3: '147'
+description_main_length_4: '147'
+description_main_length_5: '147'
+description_main_length_6: '147'
+description_main_name: '147'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '14'
+description_main_no_space_length_3: '147'
+description_main_no_space_length_4: '147'
+description_main_no_space_length_5: '147'
+description_main_no_space_length_6: '147'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '14'
+description_main_no_space_upper_length_3: '147'
+description_main_no_space_upper_length_4: '147'
+description_main_no_space_upper_length_5: '147'
+description_main_no_space_upper_length_6: '147'
+description_main_upper: '147'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '14'
+description_main_upper_length_3: '147'
+description_main_upper_length_4: '147'
+description_main_upper_length_5: '147'
+description_main_upper_length_6: '147'
+description_only_numbers: '147'
+description_only_numbers_short: '147'
+description_or_color: B147
+description_or_color_upper: B147
+directory: parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+id: warehouse_storage_container_oomlout_owner_box_cubby_long_147
+id_no_class: storage_container_oomlout_owner_box_cubby_long_147
+id_no_color: '147'
+id_no_size: box_cubby_long_147
+id_no_type: oomlout_owner_box_cubby_long_147
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2034a1p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2034a1p
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2034a1p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2034a1p
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_long_147
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cubby_long_147](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cubby Long 147](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cubby_long_147](none)<br><br>'
+md5: 4feedda5f7cef391c475cb6e111ed725
+md5_10: 4feedda5f7
+md5_10_upper: 4FEEDDA5F7
+md5_5: 4feed
+md5_5_upper: 4FEED
+md5_6: 4feedd
+md5_6_alpha: 34a1p
+md5_6_alpha_upper: 34A1P
+md5_6_upper: 4FEEDD
+name: Warehouse Storage Container Oomlout Owner Box Cubby Long 147
+name_no_class: Storage Container Oomlout Owner Box Cubby Long 147
+name_no_color: '147'
+name_no_size: Box Cubby Long 147
+name_no_size_short: Box Cubby Long 147
+name_no_type: Oomlout Owner Box Cubby Long 147
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cubby_long
+oomlout_detail_hierarchy_4_upper: BOX_CUBBY_LONG
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '147'
+oomlout_detail_hierarchy_5_upper: '147'
+oomlout_detail_hierarchy_5_upper_length_4: '147'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cubby_long_147
+oomp_word: ant ambulance stars
+oomp_word_emoji: ':ant: :ambulance: :stars:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':ambulance:'
+- ':stars:'
+oomp_word_list:
+- ant
+- ambulance
+- stars
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG
