@@ -1,0 +1,465 @@
+bip_39_word_dash_1: easily
+bip_39_word_dash_10: easily-october-hole-fan-execute-gasp-derive-aisle-curious-maximum
+bip_39_word_dash_11: easily-october-hole-fan-execute-gasp-derive-aisle-curious-maximum-rapid
+bip_39_word_dash_12: easily-october-hole-fan-execute-gasp-derive-aisle-curious-maximum-rapid-august
+bip_39_word_dash_2: easily-october
+bip_39_word_dash_3: easily-october-hole
+bip_39_word_dash_4: easily-october-hole-fan
+bip_39_word_dash_5: easily-october-hole-fan-execute
+bip_39_word_dash_6: easily-october-hole-fan-execute-gasp
+bip_39_word_dash_7: easily-october-hole-fan-execute-gasp-derive
+bip_39_word_dash_8: easily-october-hole-fan-execute-gasp-derive-aisle
+bip_39_word_dash_9: easily-october-hole-fan-execute-gasp-derive-aisle-curious
+bip_39_word_new_br_1: easily
+bip_39_word_new_br_10: easily<br>october<br>hole<br>fan<br>execute<br>gasp<br>derive<br>aisle<br>curious<br>maximum
+bip_39_word_new_br_11: easily<br>october<br>hole<br>fan<br>execute<br>gasp<br>derive<br>aisle<br>curious<br>maximum<br>rapid
+bip_39_word_new_br_12: easily<br>october<br>hole<br>fan<br>execute<br>gasp<br>derive<br>aisle<br>curious<br>maximum<br>rapid<br>august
+bip_39_word_new_br_2: easily<br>october
+bip_39_word_new_br_3: easily<br>october<br>hole
+bip_39_word_new_br_4: easily<br>october<br>hole<br>fan
+bip_39_word_new_br_5: easily<br>october<br>hole<br>fan<br>execute
+bip_39_word_new_br_6: easily<br>october<br>hole<br>fan<br>execute<br>gasp
+bip_39_word_new_br_7: easily<br>october<br>hole<br>fan<br>execute<br>gasp<br>derive
+bip_39_word_new_br_8: easily<br>october<br>hole<br>fan<br>execute<br>gasp<br>derive<br>aisle
+bip_39_word_new_br_9: easily<br>october<br>hole<br>fan<br>execute<br>gasp<br>derive<br>aisle<br>curious
+bip_39_word_new_line_1: easily
+bip_39_word_new_line_10: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp
+
+  derive
+
+  aisle
+
+  curious
+
+  maximum'
+bip_39_word_new_line_11: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp
+
+  derive
+
+  aisle
+
+  curious
+
+  maximum
+
+  rapid'
+bip_39_word_new_line_12: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp
+
+  derive
+
+  aisle
+
+  curious
+
+  maximum
+
+  rapid
+
+  august'
+bip_39_word_new_line_2: 'easily
+
+  october'
+bip_39_word_new_line_3: 'easily
+
+  october
+
+  hole'
+bip_39_word_new_line_4: 'easily
+
+  october
+
+  hole
+
+  fan'
+bip_39_word_new_line_5: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute'
+bip_39_word_new_line_6: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp'
+bip_39_word_new_line_7: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp
+
+  derive'
+bip_39_word_new_line_8: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp
+
+  derive
+
+  aisle'
+bip_39_word_new_line_9: 'easily
+
+  october
+
+  hole
+
+  fan
+
+  execute
+
+  gasp
+
+  derive
+
+  aisle
+
+  curious'
+bip_39_word_no_space_1: easily
+bip_39_word_no_space_10: easilyoctoberholefanexecutegaspderiveaislecuriousmaximum
+bip_39_word_no_space_11: easilyoctoberholefanexecutegaspderiveaislecuriousmaximumrapid
+bip_39_word_no_space_12: easilyoctoberholefanexecutegaspderiveaislecuriousmaximumrapidaugust
+bip_39_word_no_space_2: easilyoctober
+bip_39_word_no_space_3: easilyoctoberhole
+bip_39_word_no_space_4: easilyoctoberholefan
+bip_39_word_no_space_5: easilyoctoberholefanexecute
+bip_39_word_no_space_6: easilyoctoberholefanexecutegasp
+bip_39_word_no_space_7: easilyoctoberholefanexecutegaspderive
+bip_39_word_no_space_8: easilyoctoberholefanexecutegaspderiveaisle
+bip_39_word_no_space_9: easilyoctoberholefanexecutegaspderiveaislecurious
+bip_39_word_space_0:
+- easily
+- october
+- hole
+- fan
+- execute
+- gasp
+- derive
+- aisle
+- curious
+- maximum
+- rapid
+- august
+bip_39_word_space_1: easily
+bip_39_word_space_10: easily october hole fan execute gasp derive aisle curious maximum
+bip_39_word_space_11: easily october hole fan execute gasp derive aisle curious maximum
+  rapid
+bip_39_word_space_12: easily october hole fan execute gasp derive aisle curious maximum
+  rapid august
+bip_39_word_space_2: easily october
+bip_39_word_space_3: easily october hole
+bip_39_word_space_4: easily october hole fan
+bip_39_word_space_5: easily october hole fan execute
+bip_39_word_space_6: easily october hole fan execute gasp
+bip_39_word_space_7: easily october hole fan execute gasp derive
+bip_39_word_space_8: easily october hole fan execute gasp derive aisle
+bip_39_word_space_9: easily october hole fan execute gasp derive aisle curious
+bip_39_word_underscore_1: easily
+bip_39_word_underscore_10: easily_october_hole_fan_execute_gasp_derive_aisle_curious_maximum
+bip_39_word_underscore_11: easily_october_hole_fan_execute_gasp_derive_aisle_curious_maximum_rapid
+bip_39_word_underscore_12: easily_october_hole_fan_execute_gasp_derive_aisle_curious_maximum_rapid_august
+bip_39_word_underscore_2: easily_october
+bip_39_word_underscore_3: easily_october_hole
+bip_39_word_underscore_4: easily_october_hole_fan
+bip_39_word_underscore_5: easily_october_hole_fan_execute
+bip_39_word_underscore_6: easily_october_hole_fan_execute_gasp
+bip_39_word_underscore_7: easily_october_hole_fan_execute_gasp_derive
+bip_39_word_underscore_8: easily_october_hole_fan_execute_gasp_derive_aisle
+bip_39_word_underscore_9: easily_october_hole_fan_execute_gasp_derive_aisle_curious
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 4_extra
+description_extra_capital: 4 Extra
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_length_1: '4'
+description_extra_length_2: '4_'
+description_extra_length_3: 4_e
+description_extra_length_4: 4_ex
+description_extra_length_5: 4_ext
+description_extra_length_6: 4_extr
+description_extra_name: 4 Extra
+description_extra_no_space_length_1: '4'
+description_extra_no_space_length_2: 4e
+description_extra_no_space_length_3: 4ex
+description_extra_no_space_length_4: 4ext
+description_extra_no_space_length_5: 4extr
+description_extra_no_space_length_6: 4extra
+description_extra_no_space_upper_length_1: '4'
+description_extra_no_space_upper_length_2: 4E
+description_extra_no_space_upper_length_3: 4EX
+description_extra_no_space_upper_length_4: 4EXT
+description_extra_no_space_upper_length_5: 4EXTR
+description_extra_no_space_upper_length_6: 4EXTRA
+description_extra_upper: 4_EXTRA
+description_extra_upper_length_1: '4'
+description_extra_upper_length_2: '4_'
+description_extra_upper_length_3: 4_E
+description_extra_upper_length_4: 4_EX
+description_extra_upper_length_5: 4_EXT
+description_extra_upper_length_6: 4_EXTR
+description_main: 2_width_2_height_10_mm_depth
+description_main_capital: 2 Width 2 Height 10 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_w
+description_main_length_4: 2_wi
+description_main_length_5: 2_wid
+description_main_length_6: 2_widt
+description_main_name: 2 Width 2 Height 10 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2w
+description_main_no_space_length_3: 2wi
+description_main_no_space_length_4: 2wid
+description_main_no_space_length_5: 2widt
+description_main_no_space_length_6: 2width
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2W
+description_main_no_space_upper_length_3: 2WI
+description_main_no_space_upper_length_4: 2WID
+description_main_no_space_upper_length_5: 2WIDT
+description_main_no_space_upper_length_6: 2WIDTH
+description_main_upper: 2_WIDTH_2_HEIGHT_10_MM_DEPTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_W
+description_main_upper_length_4: 2_WI
+description_main_upper_length_5: 2_WID
+description_main_upper_length_6: 2_WIDT
+description_only_numbers: '2210'
+description_only_numbers_short: 2k2
+description_or_color: 2k2
+description_or_color_upper: 2K2
+directory: parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+id: oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+id_no_class: part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+id_no_color: 2width2height10mmdepth4extra
+id_no_size: 2_width_2_height_10_mm_depth_4_extra
+id_no_type: smd_magazine_2_width_2_height_10_mm_depth_4_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209hvqa
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209hvqa
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209hvqa
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209hvqa
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra](none)<br>[](none)<br>[Oobb
+  Part Smd Magazine 2 Width 2 Height 10 Mm Depth 4 Extra](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra](none)<br><br>'
+md5: f363e259af05a76d80a7952cd966422c
+md5_10: f363e259af
+md5_10_upper: F363E259AF
+md5_5: f363e
+md5_5_upper: F363E
+md5_6: f363e2
+md5_6_alpha: 9hvqa
+md5_6_alpha_upper: 9HVQA
+md5_6_upper: F363E2
+name: Oobb Part SMD Magazine 2 Width 2 Height 10 mm Depth 4 Extra
+name_no_class: Part SMD Magazine 2 Width 2 Height 10 mm Depth 4 Extra
+name_no_color: 2Width2Height10mmdepth4Extra
+name_no_size: 2 Width 2 Height 10 mm Depth 4 Extra
+name_no_size_short: 2 Width 2 Height 10 Mm Depth 4 Extra
+name_no_type: SMD Magazine 2 Width 2 Height 10 mm Depth 4 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 10_mm_depth
+oomlout_detail_hierarchy_4_upper: 10_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 10DE
+oomlout_detail_hierarchy_5: 4_extra
+oomlout_detail_hierarchy_5_upper: 4_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: 4_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_smd_magazine_2_width_2_height_10_mm_depth_4_extra
+oomp_word: two rose sailboat
+oomp_word_emoji: ':two: :rose: :sailboat:'
+oomp_word_emoji_list:
+- ':two:'
+- ':rose:'
+- ':sailboat:'
+oomp_word_list:
+- two
+- rose
+- sailboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine
+size_capital: Smd Magazine
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,119 @@
+# Project Github Oomlout Oomlout Oomp Utility Png From Svg Generation  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Project Github Oomlout Oomlout Oomp Utility Png From Svg Generation
+* name_short: 
+### id
+* oomp_id: project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation
+  * classification: project
+  * type: github
+  * size: oomlout
+  * color: oomlout_oomp_utility_png_from_svg_generation
+  * description_main: 
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: sunset nest
+  * bip 39 word 3: sunset nest matter
+  * bip 39 word: sunset nest matter blast claim bench slight office sibling weapon era alley
+
+### other_codes
+* short_code: 
+* oomp_word: mushroom tennis ramen
+* oomp_word_emoji :mushroom: :tennis: :ramen:
+* md5_6_alpha: 42x8e
+* md5_6: 6898be
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%2042x8e)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%2042x8e)
+[2x1](http://192.168.1.242:1112/?label=oomp%2042x8e)
+[6x4](http://192.168.1.55:1112/?label=oomp%2042x8e)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | project |  
+| classification_name | Project |  
+| color | oomlout_oomp_utility_png_from_svg_generation |  
+| color_name | Oomlout Oomp Utility Png From Svg Generation |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main |  |  
+| description_main_name |  |  
+| description_or_color | O  |  
+| directory | parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| id | project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%2042x8e |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%2042x8e |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%2042x8e |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%2042x8e |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation](none)<br>[](none)<br>[Project Github Oomlout Oomlout Oomp Utility Png From Svg Generation](none)<br><br> |  
+| markdown_short | [project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation](none)<br><br> |  
+| md5 | 6898be163d9999745414d17712a526cc |  
+| md5_10 | 6898be163d |  
+| md5_5 | 6898b |  
+| md5_6 | 6898be |  
+| md5_6_alpha | 42x8e |  
+| name | Project Github Oomlout Oomlout Oomp Utility Png From Svg Generation |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_4 | oomp_utility_png |  
+| oomlout_detail_hierarchy_5 | from_svg_generation |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_project_github_oomlout_oomlout_oomp_utility_png_from_svg_generation |  
+| oomp_word | mushroom tennis ramen |  
+| oomp_word_emoji | :mushroom: :tennis: :ramen: |  
+| oomp_word_emoji_list | [':mushroom:', ':tennis:', ':ramen:'] |  
+| oomp_word_list | ['mushroom', 'tennis', 'ramen'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | oomlout |  
+| size_name | Oomlout |  
+| type | github |  
+| type_name | Github |  

@@ -1,0 +1,572 @@
+bip_39_word_dash_1: one
+bip_39_word_dash_10: one-weasel-caution-remove-explain-ancient-chicken-winter-usage-genuine
+bip_39_word_dash_11: one-weasel-caution-remove-explain-ancient-chicken-winter-usage-genuine-situate
+bip_39_word_dash_12: one-weasel-caution-remove-explain-ancient-chicken-winter-usage-genuine-situate-amazing
+bip_39_word_dash_2: one-weasel
+bip_39_word_dash_3: one-weasel-caution
+bip_39_word_dash_4: one-weasel-caution-remove
+bip_39_word_dash_5: one-weasel-caution-remove-explain
+bip_39_word_dash_6: one-weasel-caution-remove-explain-ancient
+bip_39_word_dash_7: one-weasel-caution-remove-explain-ancient-chicken
+bip_39_word_dash_8: one-weasel-caution-remove-explain-ancient-chicken-winter
+bip_39_word_dash_9: one-weasel-caution-remove-explain-ancient-chicken-winter-usage
+bip_39_word_new_br_1: one
+bip_39_word_new_br_10: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine
+bip_39_word_new_br_11: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate
+bip_39_word_new_br_12: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage<br>genuine<br>situate<br>amazing
+bip_39_word_new_br_2: one<br>weasel
+bip_39_word_new_br_3: one<br>weasel<br>caution
+bip_39_word_new_br_4: one<br>weasel<br>caution<br>remove
+bip_39_word_new_br_5: one<br>weasel<br>caution<br>remove<br>explain
+bip_39_word_new_br_6: one<br>weasel<br>caution<br>remove<br>explain<br>ancient
+bip_39_word_new_br_7: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken
+bip_39_word_new_br_8: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter
+bip_39_word_new_br_9: one<br>weasel<br>caution<br>remove<br>explain<br>ancient<br>chicken<br>winter<br>usage
+bip_39_word_new_line_1: one
+bip_39_word_new_line_10: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient
+
+  chicken
+
+  winter
+
+  usage
+
+  genuine'
+bip_39_word_new_line_11: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient
+
+  chicken
+
+  winter
+
+  usage
+
+  genuine
+
+  situate'
+bip_39_word_new_line_12: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient
+
+  chicken
+
+  winter
+
+  usage
+
+  genuine
+
+  situate
+
+  amazing'
+bip_39_word_new_line_2: 'one
+
+  weasel'
+bip_39_word_new_line_3: 'one
+
+  weasel
+
+  caution'
+bip_39_word_new_line_4: 'one
+
+  weasel
+
+  caution
+
+  remove'
+bip_39_word_new_line_5: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain'
+bip_39_word_new_line_6: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient'
+bip_39_word_new_line_7: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient
+
+  chicken'
+bip_39_word_new_line_8: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient
+
+  chicken
+
+  winter'
+bip_39_word_new_line_9: 'one
+
+  weasel
+
+  caution
+
+  remove
+
+  explain
+
+  ancient
+
+  chicken
+
+  winter
+
+  usage'
+bip_39_word_no_space_1: one
+bip_39_word_no_space_10: oneweaselcautionremoveexplainancientchickenwinterusagegenuine
+bip_39_word_no_space_11: oneweaselcautionremoveexplainancientchickenwinterusagegenuinesituate
+bip_39_word_no_space_12: oneweaselcautionremoveexplainancientchickenwinterusagegenuinesituateamazing
+bip_39_word_no_space_2: oneweasel
+bip_39_word_no_space_3: oneweaselcaution
+bip_39_word_no_space_4: oneweaselcautionremove
+bip_39_word_no_space_5: oneweaselcautionremoveexplain
+bip_39_word_no_space_6: oneweaselcautionremoveexplainancient
+bip_39_word_no_space_7: oneweaselcautionremoveexplainancientchicken
+bip_39_word_no_space_8: oneweaselcautionremoveexplainancientchickenwinter
+bip_39_word_no_space_9: oneweaselcautionremoveexplainancientchickenwinterusage
+bip_39_word_space_0:
+- one
+- weasel
+- caution
+- remove
+- explain
+- ancient
+- chicken
+- winter
+- usage
+- genuine
+- situate
+- amazing
+bip_39_word_space_1: one
+bip_39_word_space_10: one weasel caution remove explain ancient chicken winter usage
+  genuine
+bip_39_word_space_11: one weasel caution remove explain ancient chicken winter usage
+  genuine situate
+bip_39_word_space_12: one weasel caution remove explain ancient chicken winter usage
+  genuine situate amazing
+bip_39_word_space_2: one weasel
+bip_39_word_space_3: one weasel caution
+bip_39_word_space_4: one weasel caution remove
+bip_39_word_space_5: one weasel caution remove explain
+bip_39_word_space_6: one weasel caution remove explain ancient
+bip_39_word_space_7: one weasel caution remove explain ancient chicken
+bip_39_word_space_8: one weasel caution remove explain ancient chicken winter
+bip_39_word_space_9: one weasel caution remove explain ancient chicken winter usage
+bip_39_word_underscore_1: one
+bip_39_word_underscore_10: one_weasel_caution_remove_explain_ancient_chicken_winter_usage_genuine
+bip_39_word_underscore_11: one_weasel_caution_remove_explain_ancient_chicken_winter_usage_genuine_situate
+bip_39_word_underscore_12: one_weasel_caution_remove_explain_ancient_chicken_winter_usage_genuine_situate_amazing
+bip_39_word_underscore_2: one_weasel
+bip_39_word_underscore_3: one_weasel_caution
+bip_39_word_underscore_4: one_weasel_caution_remove
+bip_39_word_underscore_5: one_weasel_caution_remove_explain
+bip_39_word_underscore_6: one_weasel_caution_remove_explain_ancient
+bip_39_word_underscore_7: one_weasel_caution_remove_explain_ancient_chicken
+bip_39_word_underscore_8: one_weasel_caution_remove_explain_ancient_chicken_winter
+bip_39_word_underscore_9: one_weasel_caution_remove_explain_ancient_chicken_winter_usage
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: multiplexer
+color_capital: Multiplexer
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: mu
+color_length_3: mul
+color_length_4: mult
+color_length_5: multi
+color_length_6: multip
+color_name: Multiplexer
+color_no_space_length_1: m
+color_no_space_length_2: mu
+color_no_space_length_3: mul
+color_no_space_length_4: mult
+color_no_space_length_5: multi
+color_no_space_length_6: multip
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: MU
+color_no_space_upper_length_3: MUL
+color_no_space_upper_length_4: MULT
+color_no_space_upper_length_5: MULTI
+color_no_space_upper_length_6: MULTIP
+color_upper: MULTIPLEXER
+color_upper_length_1: M
+color_upper_length_2: MU
+color_upper_length_3: MUL
+color_upper_length_4: MULT
+color_upper_length_5: MULTI
+color_upper_length_6: MULTIP
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: power_multiplexer
+description_main_capital: Power Multiplexer
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: po
+description_main_length_3: pow
+description_main_length_4: powe
+description_main_length_5: power
+description_main_length_6: power_
+description_main_name: Power Multiplexer
+description_main_no_space_length_1: p
+description_main_no_space_length_2: po
+description_main_no_space_length_3: pow
+description_main_no_space_length_4: powe
+description_main_no_space_length_5: power
+description_main_no_space_length_6: powerm
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PO
+description_main_no_space_upper_length_3: POW
+description_main_no_space_upper_length_4: POWE
+description_main_no_space_upper_length_5: POWER
+description_main_no_space_upper_length_6: POWERM
+description_main_upper: POWER_MULTIPLEXER
+description_main_upper_length_1: P
+description_main_upper_length_2: PO
+description_main_upper_length_3: POW
+description_main_upper_length_4: POWE
+description_main_upper_length_5: POWER
+description_main_upper_length_6: POWER_
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+distributors:
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C130052.html
+  name: LCSC
+  part_number: C130052
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_tssop_8_4_4x3mm_p0_65mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+  note: source footprint kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+  oomp_key: oomp_kicad_package_so_tssop_8_4_4x3mm_p0_65mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itssp8mpptps2113_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+id: electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+id_no_class: ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+id_no_color: power_texas_instruments_tps2113apw
+id_no_size: multiplexer_power_multiplexer_texas_instruments_tps2113apw
+id_no_type: tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+kicad_reference: IC
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204we3c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204we3c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204we3c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204we3c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+manufacturer: texas_instruments
+manufacturer_capital: Texas Instruments
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_length_1: t
+manufacturer_length_2: te
+manufacturer_length_3: tex
+manufacturer_length_4: texa
+manufacturer_length_5: texas
+manufacturer_length_6: texas_
+manufacturer_name: Texas Instruments
+manufacturer_no_space_length_1: t
+manufacturer_no_space_length_2: te
+manufacturer_no_space_length_3: tex
+manufacturer_no_space_length_4: texa
+manufacturer_no_space_length_5: texas
+manufacturer_no_space_length_6: texasi
+manufacturer_no_space_upper_length_1: T
+manufacturer_no_space_upper_length_2: TE
+manufacturer_no_space_upper_length_3: TEX
+manufacturer_no_space_upper_length_4: TEXA
+manufacturer_no_space_upper_length_5: TEXAS
+manufacturer_no_space_upper_length_6: TEXASI
+manufacturer_upper: TEXAS_INSTRUMENTS
+manufacturer_upper_length_1: T
+manufacturer_upper_length_2: TE
+manufacturer_upper_length_3: TEX
+manufacturer_upper_length_4: TEXA
+manufacturer_upper_length_5: TEXAS
+manufacturer_upper_length_6: TEXAS_
+manufacturers: []
+markdown_full: '[electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](none)<br>[itssp8mpptps2113](none)<br>[Electronic
+  Ic Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw](none)<br>[LCSC
+  - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br>'
+markdown_short: '[electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw](none)<br>[LCSC
+  - C130052<br>](https://lcsc.com/product-detail/C130052.html)<br>'
+md5: 7d9358577cfc04f422284b5e497e24d5
+md5_10: 7d9358577c
+md5_10_upper: 7D9358577C
+md5_5: 7d935
+md5_5_upper: 7D935
+md5_6: 7d9358
+md5_6_alpha: 4we3c
+md5_6_alpha_upper: 4WE3C
+md5_6_upper: 7D9358
+name: Electronic IC Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_class: IC Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_color: Power Texas Instruments Tps2113Apw
+name_no_size: Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_size_short: Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+name_no_type: Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
+notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ic
+oomlout_detail_hierarchy_2_upper: IC
+oomlout_detail_hierarchy_2_upper_length_4: IC
+oomlout_detail_hierarchy_3: tssop_8
+oomlout_detail_hierarchy_3_upper: TSSOP_8
+oomlout_detail_hierarchy_3_upper_length_4: TSSO
+oomlout_detail_hierarchy_4: multiplexer
+oomlout_detail_hierarchy_4_upper: MULTIPLEXER
+oomlout_detail_hierarchy_4_upper_length_4: MULT
+oomlout_detail_hierarchy_5: power_multiplexer
+oomlout_detail_hierarchy_5_upper: POWER_MULTIPLEXER
+oomlout_detail_hierarchy_5_upper_length_4: POWE
+oomlout_detail_hierarchy_6: texas_instruments
+oomlout_detail_hierarchy_6_upper: TEXAS_INSTRUMENTS
+oomlout_detail_hierarchy_6_upper_length_4: TEXA
+oomlout_detail_hierarchy_7: tps2113apw
+oomlout_detail_hierarchy_7_upper: TPS2113APW
+oomlout_detail_hierarchy_7_upper_length_4: TPS2
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
+oomp_word: phone books water_buffalo
+oomp_word_emoji: ':phone: :books: :water_buffalo:'
+oomp_word_emoji_list:
+- ':phone:'
+- ':books:'
+- ':water_buffalo:'
+oomp_word_list:
+- phone
+- books
+- water_buffalo
+part_number: tps2113apw
+part_number_capital: Tps2113Apw
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_length_1: t
+part_number_length_2: tp
+part_number_length_3: tps
+part_number_length_4: tps2
+part_number_length_5: tps21
+part_number_length_6: tps211
+part_number_name: Tps2113Apw
+part_number_no_space_length_1: t
+part_number_no_space_length_2: tp
+part_number_no_space_length_3: tps
+part_number_no_space_length_4: tps2
+part_number_no_space_length_5: tps21
+part_number_no_space_length_6: tps211
+part_number_no_space_upper_length_1: T
+part_number_no_space_upper_length_2: TP
+part_number_no_space_upper_length_3: TPS
+part_number_no_space_upper_length_4: TPS2
+part_number_no_space_upper_length_5: TPS21
+part_number_no_space_upper_length_6: TPS211
+part_number_upper: TPS2113APW
+part_number_upper_length_1: T
+part_number_upper_length_2: TP
+part_number_upper_length_3: TPS
+part_number_upper_length_4: TPS2
+part_number_upper_length_5: TPS21
+part_number_upper_length_6: TPS211
+pins:
+  pin_1:
+    name: stat
+    number: '1'
+    type: signal
+  pin_2:
+    name: en
+    number: '2'
+    type: signal
+  pin_3:
+    name: vsns
+    number: '3'
+    type: signal
+  pin_4:
+    name: ilim
+    number: '4'
+    type: signal
+  pin_5:
+    name: gnd
+    number: '5'
+    type: signal
+  pin_6:
+    name: in2
+    number: '6'
+    type: power
+  pin_7:
+    name: out
+    number: '7'
+    type: power
+  pin_8:
+    name: in1
+    number: '8'
+    type: power
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: itssp8mpptps2113
+short_code_upper: ITSSP8MPPTPS2113
+short_name: autoswitching power mux (tps2113apw)
+size: tssop_8
+size_capital: Tssop 8
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: ts
+size_length_3: tss
+size_length_4: tsso
+size_length_5: tssop
+size_length_6: tssop_
+size_name: Tssop 8
+size_no_space_length_1: t
+size_no_space_length_2: ts
+size_no_space_length_3: tss
+size_no_space_length_4: tsso
+size_no_space_length_5: tssop
+size_no_space_length_6: tssop8
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TS
+size_no_space_upper_length_3: TSS
+size_no_space_upper_length_4: TSSO
+size_no_space_upper_length_5: TSSOP
+size_no_space_upper_length_6: TSSOP8
+size_only_numbers: '8'
+size_only_numbers_no_zeros: '8'
+size_upper: TSSOP_8
+size_upper_length_1: T
+size_upper_length_2: TS
+size_upper_length_3: TSS
+size_upper_length_4: TSSO
+size_upper_length_5: TSSOP
+size_upper_length_6: TSSOP_
+type: ic
+type_capital: Ic
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: ic
+type_length_3: ic
+type_length_4: ic
+type_length_5: ic
+type_length_6: ic
+type_name: IC
+type_no_space_length_1: i
+type_no_space_length_2: ic
+type_no_space_length_3: ic
+type_no_space_length_4: ic
+type_no_space_length_5: ic
+type_no_space_length_6: ic
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IC
+type_no_space_upper_length_3: IC
+type_no_space_upper_length_4: IC
+type_no_space_upper_length_5: IC
+type_no_space_upper_length_6: IC
+type_upper: IC
+type_upper_length_1: I
+type_upper_length_2: IC
+type_upper_length_3: IC
+type_upper_length_4: IC
+type_upper_length_5: IC
+type_upper_length_6: IC

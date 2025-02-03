@@ -1,0 +1,442 @@
+bip_39_word_dash_1: vessel
+bip_39_word_dash_10: vessel-cruel-fitness-snack-rotate-ensure-snow-spell-swear-bicycle
+bip_39_word_dash_11: vessel-cruel-fitness-snack-rotate-ensure-snow-spell-swear-bicycle-steak
+bip_39_word_dash_12: vessel-cruel-fitness-snack-rotate-ensure-snow-spell-swear-bicycle-steak-all
+bip_39_word_dash_2: vessel-cruel
+bip_39_word_dash_3: vessel-cruel-fitness
+bip_39_word_dash_4: vessel-cruel-fitness-snack
+bip_39_word_dash_5: vessel-cruel-fitness-snack-rotate
+bip_39_word_dash_6: vessel-cruel-fitness-snack-rotate-ensure
+bip_39_word_dash_7: vessel-cruel-fitness-snack-rotate-ensure-snow
+bip_39_word_dash_8: vessel-cruel-fitness-snack-rotate-ensure-snow-spell
+bip_39_word_dash_9: vessel-cruel-fitness-snack-rotate-ensure-snow-spell-swear
+bip_39_word_new_br_1: vessel
+bip_39_word_new_br_10: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure<br>snow<br>spell<br>swear<br>bicycle
+bip_39_word_new_br_11: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure<br>snow<br>spell<br>swear<br>bicycle<br>steak
+bip_39_word_new_br_12: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure<br>snow<br>spell<br>swear<br>bicycle<br>steak<br>all
+bip_39_word_new_br_2: vessel<br>cruel
+bip_39_word_new_br_3: vessel<br>cruel<br>fitness
+bip_39_word_new_br_4: vessel<br>cruel<br>fitness<br>snack
+bip_39_word_new_br_5: vessel<br>cruel<br>fitness<br>snack<br>rotate
+bip_39_word_new_br_6: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure
+bip_39_word_new_br_7: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure<br>snow
+bip_39_word_new_br_8: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure<br>snow<br>spell
+bip_39_word_new_br_9: vessel<br>cruel<br>fitness<br>snack<br>rotate<br>ensure<br>snow<br>spell<br>swear
+bip_39_word_new_line_1: vessel
+bip_39_word_new_line_10: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure
+
+  snow
+
+  spell
+
+  swear
+
+  bicycle'
+bip_39_word_new_line_11: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure
+
+  snow
+
+  spell
+
+  swear
+
+  bicycle
+
+  steak'
+bip_39_word_new_line_12: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure
+
+  snow
+
+  spell
+
+  swear
+
+  bicycle
+
+  steak
+
+  all'
+bip_39_word_new_line_2: 'vessel
+
+  cruel'
+bip_39_word_new_line_3: 'vessel
+
+  cruel
+
+  fitness'
+bip_39_word_new_line_4: 'vessel
+
+  cruel
+
+  fitness
+
+  snack'
+bip_39_word_new_line_5: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate'
+bip_39_word_new_line_6: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure'
+bip_39_word_new_line_7: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure
+
+  snow'
+bip_39_word_new_line_8: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure
+
+  snow
+
+  spell'
+bip_39_word_new_line_9: 'vessel
+
+  cruel
+
+  fitness
+
+  snack
+
+  rotate
+
+  ensure
+
+  snow
+
+  spell
+
+  swear'
+bip_39_word_no_space_1: vessel
+bip_39_word_no_space_10: vesselcruelfitnesssnackrotateensuresnowspellswearbicycle
+bip_39_word_no_space_11: vesselcruelfitnesssnackrotateensuresnowspellswearbicyclesteak
+bip_39_word_no_space_12: vesselcruelfitnesssnackrotateensuresnowspellswearbicyclesteakall
+bip_39_word_no_space_2: vesselcruel
+bip_39_word_no_space_3: vesselcruelfitness
+bip_39_word_no_space_4: vesselcruelfitnesssnack
+bip_39_word_no_space_5: vesselcruelfitnesssnackrotate
+bip_39_word_no_space_6: vesselcruelfitnesssnackrotateensure
+bip_39_word_no_space_7: vesselcruelfitnesssnackrotateensuresnow
+bip_39_word_no_space_8: vesselcruelfitnesssnackrotateensuresnowspell
+bip_39_word_no_space_9: vesselcruelfitnesssnackrotateensuresnowspellswear
+bip_39_word_space_0:
+- vessel
+- cruel
+- fitness
+- snack
+- rotate
+- ensure
+- snow
+- spell
+- swear
+- bicycle
+- steak
+- all
+bip_39_word_space_1: vessel
+bip_39_word_space_10: vessel cruel fitness snack rotate ensure snow spell swear bicycle
+bip_39_word_space_11: vessel cruel fitness snack rotate ensure snow spell swear bicycle
+  steak
+bip_39_word_space_12: vessel cruel fitness snack rotate ensure snow spell swear bicycle
+  steak all
+bip_39_word_space_2: vessel cruel
+bip_39_word_space_3: vessel cruel fitness
+bip_39_word_space_4: vessel cruel fitness snack
+bip_39_word_space_5: vessel cruel fitness snack rotate
+bip_39_word_space_6: vessel cruel fitness snack rotate ensure
+bip_39_word_space_7: vessel cruel fitness snack rotate ensure snow
+bip_39_word_space_8: vessel cruel fitness snack rotate ensure snow spell
+bip_39_word_space_9: vessel cruel fitness snack rotate ensure snow spell swear
+bip_39_word_underscore_1: vessel
+bip_39_word_underscore_10: vessel_cruel_fitness_snack_rotate_ensure_snow_spell_swear_bicycle
+bip_39_word_underscore_11: vessel_cruel_fitness_snack_rotate_ensure_snow_spell_swear_bicycle_steak
+bip_39_word_underscore_12: vessel_cruel_fitness_snack_rotate_ensure_snow_spell_swear_bicycle_steak_all
+bip_39_word_underscore_2: vessel_cruel
+bip_39_word_underscore_3: vessel_cruel_fitness
+bip_39_word_underscore_4: vessel_cruel_fitness_snack
+bip_39_word_underscore_5: vessel_cruel_fitness_snack_rotate
+bip_39_word_underscore_6: vessel_cruel_fitness_snack_rotate_ensure
+bip_39_word_underscore_7: vessel_cruel_fitness_snack_rotate_ensure_snow
+bip_39_word_underscore_8: vessel_cruel_fitness_snack_rotate_ensure_snow_spell
+bip_39_word_underscore_9: vessel_cruel_fitness_snack_rotate_ensure_snow_spell_swear
+classification: oobb
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: m6_id
+color_length_1: m
+color_length_2: m6
+color_length_3: m6_
+color_length_4: m6_i
+color_length_5: m6_id
+color_length_6: m6_id
+color_name: M6 ID
+color_no_space_length_1: m
+color_no_space_length_2: m6
+color_no_space_length_3: m6i
+color_no_space_length_4: m6id
+color_no_space_length_5: m6id
+color_no_space_length_6: m6id
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: M6
+color_no_space_upper_length_3: M6I
+color_no_space_upper_length_4: M6ID
+color_no_space_upper_length_5: M6ID
+color_no_space_upper_length_6: M6ID
+color_upper_length_1: M
+color_upper_length_2: M6
+color_upper_length_3: M6_
+color_upper_length_4: M6_I
+color_upper_length_5: M6_ID
+color_upper_length_6: M6_ID
+description_extra: 36_mm_depth
+description_extra_length_1: '3'
+description_extra_length_2: '36'
+description_extra_length_3: '36_'
+description_extra_length_4: 36_m
+description_extra_length_5: 36_mm
+description_extra_length_6: 36_mm_
+description_extra_name: 36 mm Depth
+description_extra_no_space_length_1: '3'
+description_extra_no_space_length_2: '36'
+description_extra_no_space_length_3: 36m
+description_extra_no_space_length_4: 36mm
+description_extra_no_space_length_5: 36mmd
+description_extra_no_space_length_6: 36mmde
+description_extra_no_space_upper_length_1: '3'
+description_extra_no_space_upper_length_2: '36'
+description_extra_no_space_upper_length_3: 36M
+description_extra_no_space_upper_length_4: 36MM
+description_extra_no_space_upper_length_5: 36MMD
+description_extra_no_space_upper_length_6: 36MMDE
+description_extra_upper_length_1: '3'
+description_extra_upper_length_2: '36'
+description_extra_upper_length_3: '36_'
+description_extra_upper_length_4: 36_M
+description_extra_upper_length_5: 36_MM
+description_extra_upper_length_6: 36_MM_
+description_main: 2_mm_wall_thickness
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_m
+description_main_length_4: 2_mm
+description_main_length_5: 2_mm_
+description_main_length_6: 2_mm_w
+description_main_name: 2 mm Wall Thickness
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2m
+description_main_no_space_length_3: 2mm
+description_main_no_space_length_4: 2mmw
+description_main_no_space_length_5: 2mmwa
+description_main_no_space_length_6: 2mmwal
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2M
+description_main_no_space_upper_length_3: 2MM
+description_main_no_space_upper_length_4: 2MMW
+description_main_no_space_upper_length_5: 2MMWA
+description_main_no_space_upper_length_6: 2MMWAL
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_M
+description_main_upper_length_4: 2_MM
+description_main_upper_length_5: 2_MM_
+description_main_upper_length_6: 2_MM_W
+directory: parts/oobb_part_project_github_oomlout_bolt_tool_spacers_m6_id_2_mm_wall_thickness_36_mm_depth
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_project_github_oomlout_bolt_tool_spacers_m6_id_2_mm_wall_thickness_36_mm_depth
+id: oobb_part_project_github_oomlout_bolt_tool_spacers_m6_id_2_mm_wall_thickness_36_mm_depth
+id_no_class: part_project_github_oomlout_bolt_tool_spacers_m6_id_2_mm_wall_thickness_36_mm_depth
+id_no_color: 2_mm_wall_thickness_36_mm_depth
+id_no_size: m6_id_2_mm_wall_thickness_36_mm_depth
+id_no_type: project_github_oomlout_bolt_tool_spacers_m6_id_2_mm_wall_thickness_36_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2041m2t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2041m2t
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2041m2t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2041m2t
+manufacturer_name: ''
+md5: 67aa057edcd139b12d5e1cd0afcd2798
+md5_10: 67aa057edc
+md5_10_upper: 67AA057EDC
+md5_5: 67aa0
+md5_5_upper: 67AA0
+md5_6: 67aa05
+md5_6_alpha: 41m2t
+md5_6_alpha_upper: 41M2T
+md5_6_upper: 67AA05
+name: Oobb Part Project Github Oomlout Bolt Tool Spacers M6 ID 2 mm Wall Thickness
+  36 mm Depth
+name_no_class: Part Project Github Oomlout Bolt Tool Spacers M6 ID 2 mm Wall Thickness
+  36 mm Depth
+name_no_color: 2 mm Wall Thickness 36 mm Depth
+name_no_size: M6 ID 2 mm Wall Thickness 36 mm Depth
+name_no_type: Project Github Oomlout Bolt Tool Spacers M6 ID 2 mm Wall Thickness 36
+  mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: project_github_bolt
+oomlout_detail_hierarchy_3_upper: PROJECT_GITHUB_BOLT
+oomlout_detail_hierarchy_3_upper_length_4: PROJ
+oomlout_detail_hierarchy_4: tool_spacers
+oomlout_detail_hierarchy_4_upper: TOOL_SPACERS
+oomlout_detail_hierarchy_4_upper_length_4: TOOL
+oomlout_detail_hierarchy_5: m6_id
+oomlout_detail_hierarchy_5_upper: M6_ID
+oomlout_detail_hierarchy_5_upper_length_4: M6_I
+oomlout_detail_hierarchy_6: 2_mm_wall_thickness
+oomlout_detail_hierarchy_6_upper: 2_MM_WALL_THICKNESS
+oomlout_detail_hierarchy_6_upper_length_4: 2WAL
+oomlout_detail_hierarchy_7: 36_mm_depth
+oomlout_detail_hierarchy_7_upper: 36_MM_DEPTH
+oomlout_detail_hierarchy_7_upper_length_4: 36DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_project_github_oomlout_bolt_tool_spacers_m6_id_2_mm_wall_thickness_36_mm_depth
+oomp_word: herb lipstick kissing
+oomp_word_emoji: ':herb: :lipstick: :kissing:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':lipstick:'
+- ':kissing:'
+oomp_word_list:
+- herb
+- lipstick
+- kissing
+part_number_name: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+size: project_github_oomlout_bolt_tool_spacers
+size_length_1: p
+size_length_2: pr
+size_length_3: pro
+size_length_4: proj
+size_length_5: proje
+size_length_6: projec
+size_name: Project Github Oomlout Bolt Tool Spacers
+size_no_space_length_1: p
+size_no_space_length_2: pr
+size_no_space_length_3: pro
+size_no_space_length_4: proj
+size_no_space_length_5: proje
+size_no_space_length_6: projec
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PR
+size_no_space_upper_length_3: PRO
+size_no_space_upper_length_4: PROJ
+size_no_space_upper_length_5: PROJE
+size_no_space_upper_length_6: PROJEC
+size_upper_length_1: P
+size_upper_length_2: PR
+size_upper_length_3: PRO
+size_upper_length_4: PROJ
+size_upper_length_5: PROJE
+size_upper_length_6: PROJEC
+type: part
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

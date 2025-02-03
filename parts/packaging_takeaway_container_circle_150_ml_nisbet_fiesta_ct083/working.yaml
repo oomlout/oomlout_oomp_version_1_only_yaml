@@ -1,0 +1,467 @@
+bip_39_word_dash_1: advance
+bip_39_word_dash_10: advance-cart-relax-inspire-nut-vocal-swing-aware-help-brave
+bip_39_word_dash_11: advance-cart-relax-inspire-nut-vocal-swing-aware-help-brave-typical
+bip_39_word_dash_12: advance-cart-relax-inspire-nut-vocal-swing-aware-help-brave-typical-avocado
+bip_39_word_dash_2: advance-cart
+bip_39_word_dash_3: advance-cart-relax
+bip_39_word_dash_4: advance-cart-relax-inspire
+bip_39_word_dash_5: advance-cart-relax-inspire-nut
+bip_39_word_dash_6: advance-cart-relax-inspire-nut-vocal
+bip_39_word_dash_7: advance-cart-relax-inspire-nut-vocal-swing
+bip_39_word_dash_8: advance-cart-relax-inspire-nut-vocal-swing-aware
+bip_39_word_dash_9: advance-cart-relax-inspire-nut-vocal-swing-aware-help
+bip_39_word_new_br_1: advance
+bip_39_word_new_br_10: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave
+bip_39_word_new_br_11: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical
+bip_39_word_new_br_12: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help<br>brave<br>typical<br>avocado
+bip_39_word_new_br_2: advance<br>cart
+bip_39_word_new_br_3: advance<br>cart<br>relax
+bip_39_word_new_br_4: advance<br>cart<br>relax<br>inspire
+bip_39_word_new_br_5: advance<br>cart<br>relax<br>inspire<br>nut
+bip_39_word_new_br_6: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal
+bip_39_word_new_br_7: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing
+bip_39_word_new_br_8: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware
+bip_39_word_new_br_9: advance<br>cart<br>relax<br>inspire<br>nut<br>vocal<br>swing<br>aware<br>help
+bip_39_word_new_line_1: advance
+bip_39_word_new_line_10: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal
+
+  swing
+
+  aware
+
+  help
+
+  brave'
+bip_39_word_new_line_11: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal
+
+  swing
+
+  aware
+
+  help
+
+  brave
+
+  typical'
+bip_39_word_new_line_12: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal
+
+  swing
+
+  aware
+
+  help
+
+  brave
+
+  typical
+
+  avocado'
+bip_39_word_new_line_2: 'advance
+
+  cart'
+bip_39_word_new_line_3: 'advance
+
+  cart
+
+  relax'
+bip_39_word_new_line_4: 'advance
+
+  cart
+
+  relax
+
+  inspire'
+bip_39_word_new_line_5: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut'
+bip_39_word_new_line_6: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal'
+bip_39_word_new_line_7: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal
+
+  swing'
+bip_39_word_new_line_8: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal
+
+  swing
+
+  aware'
+bip_39_word_new_line_9: 'advance
+
+  cart
+
+  relax
+
+  inspire
+
+  nut
+
+  vocal
+
+  swing
+
+  aware
+
+  help'
+bip_39_word_no_space_1: advance
+bip_39_word_no_space_10: advancecartrelaxinspirenutvocalswingawarehelpbrave
+bip_39_word_no_space_11: advancecartrelaxinspirenutvocalswingawarehelpbravetypical
+bip_39_word_no_space_12: advancecartrelaxinspirenutvocalswingawarehelpbravetypicalavocado
+bip_39_word_no_space_2: advancecart
+bip_39_word_no_space_3: advancecartrelax
+bip_39_word_no_space_4: advancecartrelaxinspire
+bip_39_word_no_space_5: advancecartrelaxinspirenut
+bip_39_word_no_space_6: advancecartrelaxinspirenutvocal
+bip_39_word_no_space_7: advancecartrelaxinspirenutvocalswing
+bip_39_word_no_space_8: advancecartrelaxinspirenutvocalswingaware
+bip_39_word_no_space_9: advancecartrelaxinspirenutvocalswingawarehelp
+bip_39_word_space_0:
+- advance
+- cart
+- relax
+- inspire
+- nut
+- vocal
+- swing
+- aware
+- help
+- brave
+- typical
+- avocado
+bip_39_word_space_1: advance
+bip_39_word_space_10: advance cart relax inspire nut vocal swing aware help brave
+bip_39_word_space_11: advance cart relax inspire nut vocal swing aware help brave
+  typical
+bip_39_word_space_12: advance cart relax inspire nut vocal swing aware help brave
+  typical avocado
+bip_39_word_space_2: advance cart
+bip_39_word_space_3: advance cart relax
+bip_39_word_space_4: advance cart relax inspire
+bip_39_word_space_5: advance cart relax inspire nut
+bip_39_word_space_6: advance cart relax inspire nut vocal
+bip_39_word_space_7: advance cart relax inspire nut vocal swing
+bip_39_word_space_8: advance cart relax inspire nut vocal swing aware
+bip_39_word_space_9: advance cart relax inspire nut vocal swing aware help
+bip_39_word_underscore_1: advance
+bip_39_word_underscore_10: advance_cart_relax_inspire_nut_vocal_swing_aware_help_brave
+bip_39_word_underscore_11: advance_cart_relax_inspire_nut_vocal_swing_aware_help_brave_typical
+bip_39_word_underscore_12: advance_cart_relax_inspire_nut_vocal_swing_aware_help_brave_typical_avocado
+bip_39_word_underscore_2: advance_cart
+bip_39_word_underscore_3: advance_cart_relax
+bip_39_word_underscore_4: advance_cart_relax_inspire
+bip_39_word_underscore_5: advance_cart_relax_inspire_nut
+bip_39_word_underscore_6: advance_cart_relax_inspire_nut_vocal
+bip_39_word_underscore_7: advance_cart_relax_inspire_nut_vocal_swing
+bip_39_word_underscore_8: advance_cart_relax_inspire_nut_vocal_swing_aware
+bip_39_word_underscore_9: advance_cart_relax_inspire_nut_vocal_swing_aware_help
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pac
+classification_length_4: pack
+classification_length_5: packa
+classification_length_6: packag
+classification_name: Packaging
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pac
+classification_no_space_length_4: pack
+classification_no_space_length_5: packa
+classification_no_space_length_6: packag
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAC
+classification_no_space_upper_length_4: PACK
+classification_no_space_upper_length_5: PACKA
+classification_no_space_upper_length_6: PACKAG
+classification_upper: PACKAGING
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAC
+classification_upper_length_4: PACK
+classification_upper_length_5: PACKA
+classification_upper_length_6: PACKAG
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+id: packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+id_no_class: takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+id_no_color: nisbetfiestact083
+id_no_size: nisbet_fiesta_ct083
+id_no_type: 150_ml_nisbet_fiesta_ct083
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209zdfq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209zdfq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209zdfq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209zdfq
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+manufacturer: nisbet_fiesta
+manufacturer_capital: Nisbet Fiesta
+manufacturer_first_letter: n
+manufacturer_first_letter_upper: N
+manufacturer_length_1: n
+manufacturer_length_2: ni
+manufacturer_length_3: nis
+manufacturer_length_4: nisb
+manufacturer_length_5: nisbe
+manufacturer_length_6: nisbet
+manufacturer_name: Nisbet Fiesta
+manufacturer_no_space_length_1: n
+manufacturer_no_space_length_2: ni
+manufacturer_no_space_length_3: nis
+manufacturer_no_space_length_4: nisb
+manufacturer_no_space_length_5: nisbe
+manufacturer_no_space_length_6: nisbet
+manufacturer_no_space_upper_length_1: N
+manufacturer_no_space_upper_length_2: NI
+manufacturer_no_space_upper_length_3: NIS
+manufacturer_no_space_upper_length_4: NISB
+manufacturer_no_space_upper_length_5: NISBE
+manufacturer_no_space_upper_length_6: NISBET
+manufacturer_upper: NISBET_FIESTA
+manufacturer_upper_length_1: N
+manufacturer_upper_length_2: NI
+manufacturer_upper_length_3: NIS
+manufacturer_upper_length_4: NISB
+manufacturer_upper_length_5: NISBE
+manufacturer_upper_length_6: NISBET
+manufacturers: []
+markdown_full: '[packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083](none)<br>[](none)<br>[Packaging
+  Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083](none)<br><br>'
+markdown_short: '[packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083](none)<br><br>'
+md5: ffd7c6d358105b83d54bd7556a08c01f
+md5_10: ffd7c6d358
+md5_10_upper: FFD7C6D358
+md5_5: ffd7c
+md5_5_upper: FFD7C
+md5_6: ffd7c6
+md5_6_alpha: 9zdfq
+md5_6_alpha_upper: 9ZDFQ
+md5_6_upper: FFD7C6
+name: Packaging Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083
+name_no_class: Takeaway Container Circle 150 Ml Nisbet Fiesta Ct083
+name_no_color: Nisbetfiestact083
+name_no_size: Nisbet Fiesta Ct083
+name_no_size_short: Nisbet Fiesta Ct083
+name_no_type: 150 Ml Nisbet Fiesta Ct083
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_circle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 150_ml
+oomlout_detail_hierarchy_3_upper: 150_ML
+oomlout_detail_hierarchy_3_upper_length_4: '150_'
+oomlout_detail_hierarchy_4: nisbet_fiesta
+oomlout_detail_hierarchy_4_upper: NISBET_FIESTA
+oomlout_detail_hierarchy_4_upper_length_4: NISB
+oomlout_detail_hierarchy_5: ct083
+oomlout_detail_hierarchy_5_upper: CT083
+oomlout_detail_hierarchy_5_upper_length_4: CT08
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: tcc150
+oomlout_short_code_upper: TCC150
+oomp_key: oomp_packaging_takeaway_container_circle_150_ml_nisbet_fiesta_ct083
+oomp_word: trident office lollipop
+oomp_word_emoji: ':trident: :office: :lollipop:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':office:'
+- ':lollipop:'
+oomp_word_list:
+- trident
+- office
+- lollipop
+part_number: ct083
+part_number_capital: Ct083
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_length_1: c
+part_number_length_2: ct
+part_number_length_3: ct0
+part_number_length_4: ct08
+part_number_length_5: ct083
+part_number_length_6: ct083
+part_number_name: Ct083
+part_number_no_space_length_1: c
+part_number_no_space_length_2: ct
+part_number_no_space_length_3: ct0
+part_number_no_space_length_4: ct08
+part_number_no_space_length_5: ct083
+part_number_no_space_length_6: ct083
+part_number_no_space_upper_length_1: C
+part_number_no_space_upper_length_2: CT
+part_number_no_space_upper_length_3: CT0
+part_number_no_space_upper_length_4: CT08
+part_number_no_space_upper_length_5: CT083
+part_number_no_space_upper_length_6: CT083
+part_number_upper: CT083
+part_number_upper_length_1: C
+part_number_upper_length_2: CT
+part_number_upper_length_3: CT0
+part_number_upper_length_4: CT08
+part_number_upper_length_5: CT083
+part_number_upper_length_6: CT083
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 150_ml
+size_capital: 150 Ml
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '15'
+size_length_3: '150'
+size_length_4: '150_'
+size_length_5: 150_m
+size_length_6: 150_ml
+size_name: 150 Ml
+size_no_space_length_1: '1'
+size_no_space_length_2: '15'
+size_no_space_length_3: '150'
+size_no_space_length_4: 150m
+size_no_space_length_5: 150ml
+size_no_space_length_6: 150ml
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '15'
+size_no_space_upper_length_3: '150'
+size_no_space_upper_length_4: 150M
+size_no_space_upper_length_5: 150ML
+size_no_space_upper_length_6: 150ML
+size_only_numbers: '150'
+size_only_numbers_no_zeros: '15'
+size_upper: 150_ML
+size_upper_length_1: '1'
+size_upper_length_2: '15'
+size_upper_length_3: '150'
+size_upper_length_4: '150_'
+size_upper_length_5: 150_M
+size_upper_length_6: 150_ML
+type: takeaway_container_circle
+type_capital: Takeaway Container Circle
+type_first_letter: t
+type_first_letter_upper: T
+type_length_1: t
+type_length_2: ta
+type_length_3: tak
+type_length_4: take
+type_length_5: takea
+type_length_6: takeaw
+type_name: Takeaway Container Circle
+type_no_space_length_1: t
+type_no_space_length_2: ta
+type_no_space_length_3: tak
+type_no_space_length_4: take
+type_no_space_length_5: takea
+type_no_space_length_6: takeaw
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TA
+type_no_space_upper_length_3: TAK
+type_no_space_upper_length_4: TAKE
+type_no_space_upper_length_5: TAKEA
+type_no_space_upper_length_6: TAKEAW
+type_upper: TAKEAWAY_CONTAINER_CIRCLE
+type_upper_length_1: T
+type_upper_length_2: TA
+type_upper_length_3: TAK
+type_upper_length_4: TAKE
+type_upper_length_5: TAKEA
+type_upper_length_6: TAKEAW

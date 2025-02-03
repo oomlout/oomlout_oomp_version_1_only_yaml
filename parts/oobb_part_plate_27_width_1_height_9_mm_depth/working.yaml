@@ -1,0 +1,438 @@
+bip_39_word_dash_1: dove
+bip_39_word_dash_10: dove-desert-travel-wing-envelope-ordinary-bonus-spy-accuse-mushroom
+bip_39_word_dash_11: dove-desert-travel-wing-envelope-ordinary-bonus-spy-accuse-mushroom-cannon
+bip_39_word_dash_12: dove-desert-travel-wing-envelope-ordinary-bonus-spy-accuse-mushroom-cannon-antenna
+bip_39_word_dash_2: dove-desert
+bip_39_word_dash_3: dove-desert-travel
+bip_39_word_dash_4: dove-desert-travel-wing
+bip_39_word_dash_5: dove-desert-travel-wing-envelope
+bip_39_word_dash_6: dove-desert-travel-wing-envelope-ordinary
+bip_39_word_dash_7: dove-desert-travel-wing-envelope-ordinary-bonus
+bip_39_word_dash_8: dove-desert-travel-wing-envelope-ordinary-bonus-spy
+bip_39_word_dash_9: dove-desert-travel-wing-envelope-ordinary-bonus-spy-accuse
+bip_39_word_new_br_1: dove
+bip_39_word_new_br_10: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary<br>bonus<br>spy<br>accuse<br>mushroom
+bip_39_word_new_br_11: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary<br>bonus<br>spy<br>accuse<br>mushroom<br>cannon
+bip_39_word_new_br_12: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary<br>bonus<br>spy<br>accuse<br>mushroom<br>cannon<br>antenna
+bip_39_word_new_br_2: dove<br>desert
+bip_39_word_new_br_3: dove<br>desert<br>travel
+bip_39_word_new_br_4: dove<br>desert<br>travel<br>wing
+bip_39_word_new_br_5: dove<br>desert<br>travel<br>wing<br>envelope
+bip_39_word_new_br_6: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary
+bip_39_word_new_br_7: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary<br>bonus
+bip_39_word_new_br_8: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary<br>bonus<br>spy
+bip_39_word_new_br_9: dove<br>desert<br>travel<br>wing<br>envelope<br>ordinary<br>bonus<br>spy<br>accuse
+bip_39_word_new_line_1: dove
+bip_39_word_new_line_10: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary
+
+  bonus
+
+  spy
+
+  accuse
+
+  mushroom'
+bip_39_word_new_line_11: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary
+
+  bonus
+
+  spy
+
+  accuse
+
+  mushroom
+
+  cannon'
+bip_39_word_new_line_12: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary
+
+  bonus
+
+  spy
+
+  accuse
+
+  mushroom
+
+  cannon
+
+  antenna'
+bip_39_word_new_line_2: 'dove
+
+  desert'
+bip_39_word_new_line_3: 'dove
+
+  desert
+
+  travel'
+bip_39_word_new_line_4: 'dove
+
+  desert
+
+  travel
+
+  wing'
+bip_39_word_new_line_5: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope'
+bip_39_word_new_line_6: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary'
+bip_39_word_new_line_7: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary
+
+  bonus'
+bip_39_word_new_line_8: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary
+
+  bonus
+
+  spy'
+bip_39_word_new_line_9: 'dove
+
+  desert
+
+  travel
+
+  wing
+
+  envelope
+
+  ordinary
+
+  bonus
+
+  spy
+
+  accuse'
+bip_39_word_no_space_1: dove
+bip_39_word_no_space_10: dovedeserttravelwingenvelopeordinarybonusspyaccusemushroom
+bip_39_word_no_space_11: dovedeserttravelwingenvelopeordinarybonusspyaccusemushroomcannon
+bip_39_word_no_space_12: dovedeserttravelwingenvelopeordinarybonusspyaccusemushroomcannonantenna
+bip_39_word_no_space_2: dovedesert
+bip_39_word_no_space_3: dovedeserttravel
+bip_39_word_no_space_4: dovedeserttravelwing
+bip_39_word_no_space_5: dovedeserttravelwingenvelope
+bip_39_word_no_space_6: dovedeserttravelwingenvelopeordinary
+bip_39_word_no_space_7: dovedeserttravelwingenvelopeordinarybonus
+bip_39_word_no_space_8: dovedeserttravelwingenvelopeordinarybonusspy
+bip_39_word_no_space_9: dovedeserttravelwingenvelopeordinarybonusspyaccuse
+bip_39_word_space_0:
+- dove
+- desert
+- travel
+- wing
+- envelope
+- ordinary
+- bonus
+- spy
+- accuse
+- mushroom
+- cannon
+- antenna
+bip_39_word_space_1: dove
+bip_39_word_space_10: dove desert travel wing envelope ordinary bonus spy accuse mushroom
+bip_39_word_space_11: dove desert travel wing envelope ordinary bonus spy accuse mushroom
+  cannon
+bip_39_word_space_12: dove desert travel wing envelope ordinary bonus spy accuse mushroom
+  cannon antenna
+bip_39_word_space_2: dove desert
+bip_39_word_space_3: dove desert travel
+bip_39_word_space_4: dove desert travel wing
+bip_39_word_space_5: dove desert travel wing envelope
+bip_39_word_space_6: dove desert travel wing envelope ordinary
+bip_39_word_space_7: dove desert travel wing envelope ordinary bonus
+bip_39_word_space_8: dove desert travel wing envelope ordinary bonus spy
+bip_39_word_space_9: dove desert travel wing envelope ordinary bonus spy accuse
+bip_39_word_underscore_1: dove
+bip_39_word_underscore_10: dove_desert_travel_wing_envelope_ordinary_bonus_spy_accuse_mushroom
+bip_39_word_underscore_11: dove_desert_travel_wing_envelope_ordinary_bonus_spy_accuse_mushroom_cannon
+bip_39_word_underscore_12: dove_desert_travel_wing_envelope_ordinary_bonus_spy_accuse_mushroom_cannon_antenna
+bip_39_word_underscore_2: dove_desert
+bip_39_word_underscore_3: dove_desert_travel
+bip_39_word_underscore_4: dove_desert_travel_wing
+bip_39_word_underscore_5: dove_desert_travel_wing_envelope
+bip_39_word_underscore_6: dove_desert_travel_wing_envelope_ordinary
+bip_39_word_underscore_7: dove_desert_travel_wing_envelope_ordinary_bonus
+bip_39_word_underscore_8: dove_desert_travel_wing_envelope_ordinary_bonus_spy
+bip_39_word_underscore_9: dove_desert_travel_wing_envelope_ordinary_bonus_spy_accuse
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 27_width_1_height_9_mm_depth
+description_main_capital: 27 Width 1 Height 9 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '27'
+description_main_length_3: '27_'
+description_main_length_4: 27_w
+description_main_length_5: 27_wi
+description_main_length_6: 27_wid
+description_main_name: 27 Width 1 Height 9 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '27'
+description_main_no_space_length_3: 27w
+description_main_no_space_length_4: 27wi
+description_main_no_space_length_5: 27wid
+description_main_no_space_length_6: 27widt
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '27'
+description_main_no_space_upper_length_3: 27W
+description_main_no_space_upper_length_4: 27WI
+description_main_no_space_upper_length_5: 27WID
+description_main_no_space_upper_length_6: 27WIDT
+description_main_upper: 27_WIDTH_1_HEIGHT_9_MM_DEPTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '27'
+description_main_upper_length_3: '27_'
+description_main_upper_length_4: 27_W
+description_main_upper_length_5: 27_WI
+description_main_upper_length_6: 27_WID
+description_only_numbers: '2719'
+description_only_numbers_short: 2k7
+description_or_color: 2k7
+description_or_color_upper: 2K7
+directory: parts/oobb_part_plate_27_width_1_height_9_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_27_width_1_height_9_mm_depth
+id: oobb_part_plate_27_width_1_height_9_mm_depth
+id_no_class: part_plate_27_width_1_height_9_mm_depth
+id_no_color: 27width1height9mmdepth
+id_no_size: 27_width_1_height_9_mm_depth
+id_no_type: plate_27_width_1_height_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_9_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_9_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_9_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2063ht0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2063ht0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2063ht0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2063ht0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_27_width_1_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_plate_27_width_1_height_9_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Plate 27 Width 1 Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_plate_27_width_1_height_9_mm_depth](none)<br><br>'
+md5: 9c42e4700dd3432e7125efbbcf0eea0e
+md5_10: 9c42e4700d
+md5_10_upper: 9C42E4700D
+md5_5: 9c42e
+md5_5_upper: 9C42E
+md5_6: 9c42e4
+md5_6_alpha: 63ht0
+md5_6_alpha_upper: 63HT0
+md5_6_upper: 9C42E4
+name: Oobb Part Plate 27 Width 1 Height 9 mm Depth
+name_no_class: Part Plate 27 Width 1 Height 9 mm Depth
+name_no_color: 27Width1Height9mmdepth
+name_no_size: 27 Width 1 Height 9 mm Depth
+name_no_size_short: 27 Width 1 Height 9 Mm Depth
+name_no_type: Plate 27 Width 1 Height 9 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: plate
+oomlout_detail_hierarchy_3_upper: PLATE
+oomlout_detail_hierarchy_3_upper_length_4: PLAT
+oomlout_detail_hierarchy_4: 9_mm_depth
+oomlout_detail_hierarchy_4_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_plate_27_width_1_height_9_mm_depth
+oomp_word: spades sheep anchor
+oomp_word_emoji: ':spades: :sheep: :anchor:'
+oomp_word_emoji_list:
+- ':spades:'
+- ':sheep:'
+- ':anchor:'
+oomp_word_list:
+- spades
+- sheep
+- anchor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: plate
+size_capital: Plate
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pl
+size_length_3: pla
+size_length_4: plat
+size_length_5: plate
+size_length_6: plate
+size_name: Plate
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: pla
+size_no_space_length_4: plat
+size_no_space_length_5: plate
+size_no_space_length_6: plate
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLA
+size_no_space_upper_length_4: PLAT
+size_no_space_upper_length_5: PLATE
+size_no_space_upper_length_6: PLATE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLATE
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLA
+size_upper_length_4: PLAT
+size_upper_length_5: PLATE
+size_upper_length_6: PLATE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

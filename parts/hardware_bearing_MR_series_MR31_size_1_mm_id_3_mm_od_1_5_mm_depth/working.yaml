@@ -1,0 +1,469 @@
+bip_39_word_dash_1: pilot
+bip_39_word_dash_10: pilot-enjoy-special-relief-amount-insane-throw-practice-orphan-easy
+bip_39_word_dash_11: pilot-enjoy-special-relief-amount-insane-throw-practice-orphan-easy-conduct
+bip_39_word_dash_12: pilot-enjoy-special-relief-amount-insane-throw-practice-orphan-easy-conduct-alien
+bip_39_word_dash_2: pilot-enjoy
+bip_39_word_dash_3: pilot-enjoy-special
+bip_39_word_dash_4: pilot-enjoy-special-relief
+bip_39_word_dash_5: pilot-enjoy-special-relief-amount
+bip_39_word_dash_6: pilot-enjoy-special-relief-amount-insane
+bip_39_word_dash_7: pilot-enjoy-special-relief-amount-insane-throw
+bip_39_word_dash_8: pilot-enjoy-special-relief-amount-insane-throw-practice
+bip_39_word_dash_9: pilot-enjoy-special-relief-amount-insane-throw-practice-orphan
+bip_39_word_new_br_1: pilot
+bip_39_word_new_br_10: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy
+bip_39_word_new_br_11: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy<br>conduct
+bip_39_word_new_br_12: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan<br>easy<br>conduct<br>alien
+bip_39_word_new_br_2: pilot<br>enjoy
+bip_39_word_new_br_3: pilot<br>enjoy<br>special
+bip_39_word_new_br_4: pilot<br>enjoy<br>special<br>relief
+bip_39_word_new_br_5: pilot<br>enjoy<br>special<br>relief<br>amount
+bip_39_word_new_br_6: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane
+bip_39_word_new_br_7: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw
+bip_39_word_new_br_8: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice
+bip_39_word_new_br_9: pilot<br>enjoy<br>special<br>relief<br>amount<br>insane<br>throw<br>practice<br>orphan
+bip_39_word_new_line_1: pilot
+bip_39_word_new_line_10: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan
+
+  easy'
+bip_39_word_new_line_11: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan
+
+  easy
+
+  conduct'
+bip_39_word_new_line_12: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan
+
+  easy
+
+  conduct
+
+  alien'
+bip_39_word_new_line_2: 'pilot
+
+  enjoy'
+bip_39_word_new_line_3: 'pilot
+
+  enjoy
+
+  special'
+bip_39_word_new_line_4: 'pilot
+
+  enjoy
+
+  special
+
+  relief'
+bip_39_word_new_line_5: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount'
+bip_39_word_new_line_6: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane'
+bip_39_word_new_line_7: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw'
+bip_39_word_new_line_8: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice'
+bip_39_word_new_line_9: 'pilot
+
+  enjoy
+
+  special
+
+  relief
+
+  amount
+
+  insane
+
+  throw
+
+  practice
+
+  orphan'
+bip_39_word_no_space_1: pilot
+bip_39_word_no_space_10: pilotenjoyspecialreliefamountinsanethrowpracticeorphaneasy
+bip_39_word_no_space_11: pilotenjoyspecialreliefamountinsanethrowpracticeorphaneasyconduct
+bip_39_word_no_space_12: pilotenjoyspecialreliefamountinsanethrowpracticeorphaneasyconductalien
+bip_39_word_no_space_2: pilotenjoy
+bip_39_word_no_space_3: pilotenjoyspecial
+bip_39_word_no_space_4: pilotenjoyspecialrelief
+bip_39_word_no_space_5: pilotenjoyspecialreliefamount
+bip_39_word_no_space_6: pilotenjoyspecialreliefamountinsane
+bip_39_word_no_space_7: pilotenjoyspecialreliefamountinsanethrow
+bip_39_word_no_space_8: pilotenjoyspecialreliefamountinsanethrowpractice
+bip_39_word_no_space_9: pilotenjoyspecialreliefamountinsanethrowpracticeorphan
+bip_39_word_space_0:
+- pilot
+- enjoy
+- special
+- relief
+- amount
+- insane
+- throw
+- practice
+- orphan
+- easy
+- conduct
+- alien
+bip_39_word_space_1: pilot
+bip_39_word_space_10: pilot enjoy special relief amount insane throw practice orphan
+  easy
+bip_39_word_space_11: pilot enjoy special relief amount insane throw practice orphan
+  easy conduct
+bip_39_word_space_12: pilot enjoy special relief amount insane throw practice orphan
+  easy conduct alien
+bip_39_word_space_2: pilot enjoy
+bip_39_word_space_3: pilot enjoy special
+bip_39_word_space_4: pilot enjoy special relief
+bip_39_word_space_5: pilot enjoy special relief amount
+bip_39_word_space_6: pilot enjoy special relief amount insane
+bip_39_word_space_7: pilot enjoy special relief amount insane throw
+bip_39_word_space_8: pilot enjoy special relief amount insane throw practice
+bip_39_word_space_9: pilot enjoy special relief amount insane throw practice orphan
+bip_39_word_underscore_1: pilot
+bip_39_word_underscore_10: pilot_enjoy_special_relief_amount_insane_throw_practice_orphan_easy
+bip_39_word_underscore_11: pilot_enjoy_special_relief_amount_insane_throw_practice_orphan_easy_conduct
+bip_39_word_underscore_12: pilot_enjoy_special_relief_amount_insane_throw_practice_orphan_easy_conduct_alien
+bip_39_word_underscore_2: pilot_enjoy
+bip_39_word_underscore_3: pilot_enjoy_special
+bip_39_word_underscore_4: pilot_enjoy_special_relief
+bip_39_word_underscore_5: pilot_enjoy_special_relief_amount
+bip_39_word_underscore_6: pilot_enjoy_special_relief_amount_insane
+bip_39_word_underscore_7: pilot_enjoy_special_relief_amount_insane_throw
+bip_39_word_underscore_8: pilot_enjoy_special_relief_amount_insane_throw_practice
+bip_39_word_underscore_9: pilot_enjoy_special_relief_amount_insane_throw_practice_orphan
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: MR31_size
+color_capital: Mr31 Size
+color_first_letter: M
+color_first_letter_upper: M
+color_length_1: M
+color_length_2: MR
+color_length_3: MR3
+color_length_4: MR31
+color_length_5: MR31_
+color_length_6: MR31_s
+color_name: Mr31 Size
+color_no_space_length_1: M
+color_no_space_length_2: MR
+color_no_space_length_3: MR3
+color_no_space_length_4: MR31
+color_no_space_length_5: MR31s
+color_no_space_length_6: MR31si
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: MR
+color_no_space_upper_length_3: MR3
+color_no_space_upper_length_4: MR31
+color_no_space_upper_length_5: MR31S
+color_no_space_upper_length_6: MR31SI
+color_upper: MR31_SIZE
+color_upper_length_1: M
+color_upper_length_2: MR
+color_upper_length_3: MR3
+color_upper_length_4: MR31
+color_upper_length_5: MR31_
+color_upper_length_6: MR31_S
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 1_mm_id_3_mm_od_1_5_mm_depth
+description_main_capital: 1 mm Id 3 mm Od 1.5 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: 1_m
+description_main_length_4: 1_mm
+description_main_length_5: 1_mm_
+description_main_length_6: 1_mm_i
+description_main_name: 1 mm ID 3 mm OD 1 5 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: 1m
+description_main_no_space_length_3: 1mm
+description_main_no_space_length_4: 1mmi
+description_main_no_space_length_5: 1mmid
+description_main_no_space_length_6: 1mmid3
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: 1M
+description_main_no_space_upper_length_3: 1MM
+description_main_no_space_upper_length_4: 1MMI
+description_main_no_space_upper_length_5: 1MMID
+description_main_no_space_upper_length_6: 1MMID3
+description_main_upper: 1_MM_ID_3_MM_OD_1_5_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: 1_M
+description_main_upper_length_4: 1_MM
+description_main_upper_length_5: 1_MM_
+description_main_upper_length_6: 1_MM_I
+description_only_numbers: '1315'
+description_only_numbers_short: 1k3
+description_or_color: M1k3
+description_or_color_upper: M1K3
+directory: parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+id: hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+id_no_class: bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+id_no_color: 1_mm_id_3_mm_od_1_5_mm_depth
+id_no_size: MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+id_no_type: MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203wz9t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203wz9t
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203wz9t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203wz9t
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth](none)<br>[](none)<br>[Hardware
+  Bearing Mr Series Mr31 Size 1 Mm Id 3 Mm Od 1 5 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth](none)<br><br>'
+md5: 645d9174e6a97c29d3840b55a1d2ad27
+md5_10: 645d9174e6
+md5_10_upper: 645D9174E6
+md5_5: 645d9
+md5_5_upper: 645D9
+md5_6: 645d91
+md5_6_alpha: 3wz9t
+md5_6_alpha_upper: 3WZ9T
+md5_6_upper: 645D91
+name: Hardware Bearing Mr Series Mr31 Size 1 mm ID 3 mm OD 1 5 mm Depth
+name_no_class: Bearing Mr Series Mr31 Size 1 mm ID 3 mm OD 1 5 mm Depth
+name_no_color: 1 mm ID 3 mm OD 1 5 mm Depth
+name_no_size: Mr31 Size 1 mm ID 3 mm OD 1 5 mm Depth
+name_no_size_short: Mr31 Size 1 Mm Id 3 Mm Od 1 5 Mm Depth
+name_no_type: Mr Series Mr31 Size 1 mm ID 3 mm OD 1 5 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: MR_series
+oomlout_detail_hierarchy_3_upper: MR_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: MR_S
+oomlout_detail_hierarchy_4: MR31_size
+oomlout_detail_hierarchy_4_upper: MR31_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: MR31
+oomlout_detail_hierarchy_5: 5_mm_depth
+oomlout_detail_hierarchy_5_upper: 5_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 5DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: brMR31
+oomlout_short_code_upper: BRMR31
+oomp_key: oomp_hardware_bearing_MR_series_MR31_size_1_mm_id_3_mm_od_1_5_mm_depth
+oomp_word: sunflower blowfish pushpin
+oomp_word_emoji: ':sunflower: :blowfish: :pushpin:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':blowfish:'
+- ':pushpin:'
+oomp_word_list:
+- sunflower
+- blowfish
+- pushpin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: MR_series
+size_capital: Mr Series
+size_first_letter: M
+size_first_letter_upper: M
+size_length_1: M
+size_length_2: MR
+size_length_3: MR_
+size_length_4: MR_s
+size_length_5: MR_se
+size_length_6: MR_ser
+size_name: Mr Series
+size_no_space_length_1: M
+size_no_space_length_2: MR
+size_no_space_length_3: MRs
+size_no_space_length_4: MRse
+size_no_space_length_5: MRser
+size_no_space_length_6: MRseri
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: MR
+size_no_space_upper_length_3: MRS
+size_no_space_upper_length_4: MRSE
+size_no_space_upper_length_5: MRSER
+size_no_space_upper_length_6: MRSERI
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MR_SERIES
+size_upper_length_1: M
+size_upper_length_2: MR
+size_upper_length_3: MR_
+size_upper_length_4: MR_S
+size_upper_length_5: MR_SE
+size_upper_length_6: MR_SER
+type: bearing
+type_capital: Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
+type_name: Bearing
+type_no_space_length_1: b
+type_no_space_length_2: be
+type_no_space_length_3: bea
+type_no_space_length_4: bear
+type_no_space_length_5: beari
+type_no_space_length_6: bearin
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BE
+type_no_space_upper_length_3: BEA
+type_no_space_upper_length_4: BEAR
+type_no_space_upper_length_5: BEARI
+type_no_space_upper_length_6: BEARIN
+type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

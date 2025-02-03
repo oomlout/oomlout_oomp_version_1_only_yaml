@@ -1,0 +1,558 @@
+bip_39_word_dash_1: galaxy
+bip_39_word_dash_10: galaxy-rebel-youth-silver-eternal-cruise-cute-razor-tool-salute
+bip_39_word_dash_11: galaxy-rebel-youth-silver-eternal-cruise-cute-razor-tool-salute-arctic
+bip_39_word_dash_12: galaxy-rebel-youth-silver-eternal-cruise-cute-razor-tool-salute-arctic-accident
+bip_39_word_dash_2: galaxy-rebel
+bip_39_word_dash_3: galaxy-rebel-youth
+bip_39_word_dash_4: galaxy-rebel-youth-silver
+bip_39_word_dash_5: galaxy-rebel-youth-silver-eternal
+bip_39_word_dash_6: galaxy-rebel-youth-silver-eternal-cruise
+bip_39_word_dash_7: galaxy-rebel-youth-silver-eternal-cruise-cute
+bip_39_word_dash_8: galaxy-rebel-youth-silver-eternal-cruise-cute-razor
+bip_39_word_dash_9: galaxy-rebel-youth-silver-eternal-cruise-cute-razor-tool
+bip_39_word_new_br_1: galaxy
+bip_39_word_new_br_10: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool<br>salute
+bip_39_word_new_br_11: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool<br>salute<br>arctic
+bip_39_word_new_br_12: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool<br>salute<br>arctic<br>accident
+bip_39_word_new_br_2: galaxy<br>rebel
+bip_39_word_new_br_3: galaxy<br>rebel<br>youth
+bip_39_word_new_br_4: galaxy<br>rebel<br>youth<br>silver
+bip_39_word_new_br_5: galaxy<br>rebel<br>youth<br>silver<br>eternal
+bip_39_word_new_br_6: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise
+bip_39_word_new_br_7: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute
+bip_39_word_new_br_8: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor
+bip_39_word_new_br_9: galaxy<br>rebel<br>youth<br>silver<br>eternal<br>cruise<br>cute<br>razor<br>tool
+bip_39_word_new_line_1: galaxy
+bip_39_word_new_line_10: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise
+
+  cute
+
+  razor
+
+  tool
+
+  salute'
+bip_39_word_new_line_11: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise
+
+  cute
+
+  razor
+
+  tool
+
+  salute
+
+  arctic'
+bip_39_word_new_line_12: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise
+
+  cute
+
+  razor
+
+  tool
+
+  salute
+
+  arctic
+
+  accident'
+bip_39_word_new_line_2: 'galaxy
+
+  rebel'
+bip_39_word_new_line_3: 'galaxy
+
+  rebel
+
+  youth'
+bip_39_word_new_line_4: 'galaxy
+
+  rebel
+
+  youth
+
+  silver'
+bip_39_word_new_line_5: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal'
+bip_39_word_new_line_6: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise'
+bip_39_word_new_line_7: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise
+
+  cute'
+bip_39_word_new_line_8: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise
+
+  cute
+
+  razor'
+bip_39_word_new_line_9: 'galaxy
+
+  rebel
+
+  youth
+
+  silver
+
+  eternal
+
+  cruise
+
+  cute
+
+  razor
+
+  tool'
+bip_39_word_no_space_1: galaxy
+bip_39_word_no_space_10: galaxyrebelyouthsilvereternalcruisecuterazortoolsalute
+bip_39_word_no_space_11: galaxyrebelyouthsilvereternalcruisecuterazortoolsalutearctic
+bip_39_word_no_space_12: galaxyrebelyouthsilvereternalcruisecuterazortoolsalutearcticaccident
+bip_39_word_no_space_2: galaxyrebel
+bip_39_word_no_space_3: galaxyrebelyouth
+bip_39_word_no_space_4: galaxyrebelyouthsilver
+bip_39_word_no_space_5: galaxyrebelyouthsilvereternal
+bip_39_word_no_space_6: galaxyrebelyouthsilvereternalcruise
+bip_39_word_no_space_7: galaxyrebelyouthsilvereternalcruisecute
+bip_39_word_no_space_8: galaxyrebelyouthsilvereternalcruisecuterazor
+bip_39_word_no_space_9: galaxyrebelyouthsilvereternalcruisecuterazortool
+bip_39_word_space_0:
+- galaxy
+- rebel
+- youth
+- silver
+- eternal
+- cruise
+- cute
+- razor
+- tool
+- salute
+- arctic
+- accident
+bip_39_word_space_1: galaxy
+bip_39_word_space_10: galaxy rebel youth silver eternal cruise cute razor tool salute
+bip_39_word_space_11: galaxy rebel youth silver eternal cruise cute razor tool salute
+  arctic
+bip_39_word_space_12: galaxy rebel youth silver eternal cruise cute razor tool salute
+  arctic accident
+bip_39_word_space_2: galaxy rebel
+bip_39_word_space_3: galaxy rebel youth
+bip_39_word_space_4: galaxy rebel youth silver
+bip_39_word_space_5: galaxy rebel youth silver eternal
+bip_39_word_space_6: galaxy rebel youth silver eternal cruise
+bip_39_word_space_7: galaxy rebel youth silver eternal cruise cute
+bip_39_word_space_8: galaxy rebel youth silver eternal cruise cute razor
+bip_39_word_space_9: galaxy rebel youth silver eternal cruise cute razor tool
+bip_39_word_underscore_1: galaxy
+bip_39_word_underscore_10: galaxy_rebel_youth_silver_eternal_cruise_cute_razor_tool_salute
+bip_39_word_underscore_11: galaxy_rebel_youth_silver_eternal_cruise_cute_razor_tool_salute_arctic
+bip_39_word_underscore_12: galaxy_rebel_youth_silver_eternal_cruise_cute_razor_tool_salute_arctic_accident
+bip_39_word_underscore_2: galaxy_rebel
+bip_39_word_underscore_3: galaxy_rebel_youth
+bip_39_word_underscore_4: galaxy_rebel_youth_silver
+bip_39_word_underscore_5: galaxy_rebel_youth_silver_eternal
+bip_39_word_underscore_6: galaxy_rebel_youth_silver_eternal_cruise
+bip_39_word_underscore_7: galaxy_rebel_youth_silver_eternal_cruise_cute
+bip_39_word_underscore_8: galaxy_rebel_youth_silver_eternal_cruise_cute_razor
+bip_39_word_underscore_9: galaxy_rebel_youth_silver_eternal_cruise_cute_razor_tool
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: mcu
+color_capital: Mcu
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: mc
+color_length_3: mcu
+color_length_4: mcu
+color_length_5: mcu
+color_length_6: mcu
+color_name: MCU
+color_no_space_length_1: m
+color_no_space_length_2: mc
+color_no_space_length_3: mcu
+color_no_space_length_4: mcu
+color_no_space_length_5: mcu
+color_no_space_length_6: mcu
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: MC
+color_no_space_upper_length_3: MCU
+color_no_space_upper_length_4: MCU
+color_no_space_upper_length_5: MCU
+color_no_space_upper_length_6: MCU
+color_upper: MCU
+color_upper_length_1: M
+color_upper_length_2: MC
+color_upper_length_3: MCU
+color_upper_length_4: MCU
+color_upper_length_5: MCU
+color_upper_length_6: MCU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: atmega328
+description_main_capital: Atmega328
+description_main_first_letter: a
+description_main_first_letter_upper: A
+description_main_length_1: a
+description_main_length_2: at
+description_main_length_3: atm
+description_main_length_4: atme
+description_main_length_5: atmeg
+description_main_length_6: atmega
+description_main_name: Atmega328
+description_main_no_space_length_1: a
+description_main_no_space_length_2: at
+description_main_no_space_length_3: atm
+description_main_no_space_length_4: atme
+description_main_no_space_length_5: atmeg
+description_main_no_space_length_6: atmega
+description_main_no_space_upper_length_1: A
+description_main_no_space_upper_length_2: AT
+description_main_no_space_upper_length_3: ATM
+description_main_no_space_upper_length_4: ATME
+description_main_no_space_upper_length_5: ATMEG
+description_main_no_space_upper_length_6: ATMEGA
+description_main_upper: ATMEGA328
+description_main_upper_length_1: A
+description_main_upper_length_2: AT
+description_main_upper_length_3: ATM
+description_main_upper_length_4: ATME
+description_main_upper_length_5: ATMEG
+description_main_upper_length_6: ATMEGA
+description_only_numbers: '328'
+description_only_numbers_short: '328'
+description_or_color: M328
+description_or_color_upper: M328
+directory: parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+distributors:
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C14877.html
+  name: LCSC
+  part_number: C14877
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C618816.html
+  name: LCSC
+  part_number: C618816
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+  note: source footprint kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+  oomp_key: oomp_kicad_package_qfp_tqfp_32_7x7mm_p0_8mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_itq32mcuat328_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id: electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id_no_class: ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+id_no_color: atmega328_microchip_atmega328p_au
+id_no_size: mcu_atmega328_microchip_atmega328p_au
+id_no_type: tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20v0xb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20v0xb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20v0xb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20v0xb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+manufacturer: microchip
+manufacturer_capital: Microchip
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_length_1: m
+manufacturer_length_2: mi
+manufacturer_length_3: mic
+manufacturer_length_4: micr
+manufacturer_length_5: micro
+manufacturer_length_6: microc
+manufacturer_name: Microchip
+manufacturer_no_space_length_1: m
+manufacturer_no_space_length_2: mi
+manufacturer_no_space_length_3: mic
+manufacturer_no_space_length_4: micr
+manufacturer_no_space_length_5: micro
+manufacturer_no_space_length_6: microc
+manufacturer_no_space_upper_length_1: M
+manufacturer_no_space_upper_length_2: MI
+manufacturer_no_space_upper_length_3: MIC
+manufacturer_no_space_upper_length_4: MICR
+manufacturer_no_space_upper_length_5: MICRO
+manufacturer_no_space_upper_length_6: MICROC
+manufacturer_upper: MICROCHIP
+manufacturer_upper_length_1: M
+manufacturer_upper_length_2: MI
+manufacturer_upper_length_3: MIC
+manufacturer_upper_length_4: MICR
+manufacturer_upper_length_5: MICRO
+manufacturer_upper_length_6: MICROC
+manufacturers:
+- id: manufacturer_microchip
+  link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU
+  name: Microchip
+  part_number: ATMEGA328P-AU
+- id: manufacturer_microchip
+  link: https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR
+  name: Microchip
+  part_number: ATMEGA328P-AUR
+markdown_full: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](none)<br>[itq32mcuat328](none)<br>[Electronic
+  Ic Tqfp 32 Mcu Atmega328 Microchip Atmega328P Au](none)<br>[LCSC - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC
+  - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)
+  [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AU)[(D)  ](https://www.digikey.com/en/products?keywords=ATMEGA328P-AU)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AU)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AU)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AU)<br>[Microchip
+  - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR) [(L)  ](https://www.lcsc.com/search?q=ATMEGA328P-AUR)[(D)  ](https://www.digikey.com/en/products?keywords=ATMEGA328P-AUR)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=ATMEGA328P-AUR)[(N)  ](https://www.newark.com/search?st=ATMEGA328P-AUR)[(SZ)  ](https://so.szlcsc.com/global.html?k=ATMEGA328P-AUR)<br>'
+markdown_short: '[electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au](none)<br>[LCSC
+  - C14877<br>](https://lcsc.com/product-detail/C14877.html)[LCSC - C618816<br>](https://lcsc.com/product-detail/C618816.html)<br>[Microchip
+  - ATMEGA328P-AU](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AU)[Microchip
+  - ATMEGA328P-AUR](https://www.microchip.com/wwwproducts/en/ATMEGA328P-AUR)'
+md5: 16166fb725b2a6d4d2a6cc8dfeeccaf7
+md5_10: 16166fb725
+md5_10_upper: 16166FB725
+md5_5: '16166'
+md5_5_upper: '16166'
+md5_6: 16166f
+md5_6_alpha: v0xb
+md5_6_alpha_upper: V0XB
+md5_6_upper: 16166F
+name: Electronic IC Tqfp 32 MCU Atmega328 Microchip Atmega328P Au
+name_no_class: IC Tqfp 32 MCU Atmega328 Microchip Atmega328P Au
+name_no_color: Atmega328 Microchip Atmega328P Au
+name_no_size: MCU Atmega328 Microchip Atmega328P Au
+name_no_size_short: Mcu Atmega328 Microchip Atmega328P Au
+name_no_type: Tqfp 32 MCU Atmega328 Microchip Atmega328P Au
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ic
+oomlout_detail_hierarchy_2_upper: IC
+oomlout_detail_hierarchy_2_upper_length_4: IC
+oomlout_detail_hierarchy_3: tqfp_32
+oomlout_detail_hierarchy_3_upper: TQFP_32
+oomlout_detail_hierarchy_3_upper_length_4: TQFP
+oomlout_detail_hierarchy_4: mcu
+oomlout_detail_hierarchy_4_upper: MCU
+oomlout_detail_hierarchy_4_upper_length_4: MCU
+oomlout_detail_hierarchy_5: atmega328
+oomlout_detail_hierarchy_5_upper: ATMEGA328
+oomlout_detail_hierarchy_5_upper_length_4: ATME
+oomlout_detail_hierarchy_6: microchip
+oomlout_detail_hierarchy_6_upper: MICROCHIP
+oomlout_detail_hierarchy_6_upper_length_4: MICR
+oomlout_detail_hierarchy_7: atmega328p_au
+oomlout_detail_hierarchy_7_upper: ATMEGA328P_AU
+oomlout_detail_hierarchy_7_upper_length_4: ATME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_ic_tqfp_32_mcu_atmega328_microchip_atmega328p_au
+oomp_word: thumbsup thumbsup moon
+oomp_word_emoji: ':thumbsup: :thumbsup: :moon:'
+oomp_word_emoji_list:
+- ':thumbsup:'
+- ':thumbsup:'
+- ':moon:'
+oomp_word_list:
+- thumbsup
+- thumbsup
+- moon
+package_style: tray
+part_number: atmega328p_au
+part_number_capital: Atmega328P Au
+part_number_first_letter: a
+part_number_first_letter_upper: A
+part_number_length_1: a
+part_number_length_2: at
+part_number_length_3: atm
+part_number_length_4: atme
+part_number_length_5: atmeg
+part_number_length_6: atmega
+part_number_name: Atmega328P Au
+part_number_no_space_length_1: a
+part_number_no_space_length_2: at
+part_number_no_space_length_3: atm
+part_number_no_space_length_4: atme
+part_number_no_space_length_5: atmeg
+part_number_no_space_length_6: atmega
+part_number_no_space_upper_length_1: A
+part_number_no_space_upper_length_2: AT
+part_number_no_space_upper_length_3: ATM
+part_number_no_space_upper_length_4: ATME
+part_number_no_space_upper_length_5: ATMEG
+part_number_no_space_upper_length_6: ATMEGA
+part_number_upper: ATMEGA328P_AU
+part_number_upper_length_1: A
+part_number_upper_length_2: AT
+part_number_upper_length_3: ATM
+part_number_upper_length_4: ATME
+part_number_upper_length_5: ATMEG
+part_number_upper_length_6: ATMEGA
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: itq32mcuat328
+short_code_upper: ITQ32MCUAT328
+short_name: atmega328 32 pin tqfp
+size: tqfp_32
+size_capital: Tqfp 32
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tq
+size_length_3: tqf
+size_length_4: tqfp
+size_length_5: tqfp_
+size_length_6: tqfp_3
+size_name: Tqfp 32
+size_no_space_length_1: t
+size_no_space_length_2: tq
+size_no_space_length_3: tqf
+size_no_space_length_4: tqfp
+size_no_space_length_5: tqfp3
+size_no_space_length_6: tqfp32
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TQ
+size_no_space_upper_length_3: TQF
+size_no_space_upper_length_4: TQFP
+size_no_space_upper_length_5: TQFP3
+size_no_space_upper_length_6: TQFP32
+size_only_numbers: '32'
+size_only_numbers_no_zeros: '32'
+size_upper: TQFP_32
+size_upper_length_1: T
+size_upper_length_2: TQ
+size_upper_length_3: TQF
+size_upper_length_4: TQFP
+size_upper_length_5: TQFP_
+size_upper_length_6: TQFP_3
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_a//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_mcu_microchip_atmega_atmega328_a
+  oomp_key: oomp_kicad_mcu_microchip_atmega_atmega328_a
+type: ic
+type_capital: Ic
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: ic
+type_length_3: ic
+type_length_4: ic
+type_length_5: ic
+type_length_6: ic
+type_name: IC
+type_no_space_length_1: i
+type_no_space_length_2: ic
+type_no_space_length_3: ic
+type_no_space_length_4: ic
+type_no_space_length_5: ic
+type_no_space_length_6: ic
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IC
+type_no_space_upper_length_3: IC
+type_no_space_upper_length_4: IC
+type_no_space_upper_length_5: IC
+type_no_space_upper_length_6: IC
+type_upper: IC
+type_upper_length_1: I
+type_upper_length_2: IC
+type_upper_length_3: IC
+type_upper_length_4: IC
+type_upper_length_5: IC
+type_upper_length_6: IC

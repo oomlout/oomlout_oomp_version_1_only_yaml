@@ -1,0 +1,466 @@
+bip_39_word_dash_1: drum
+bip_39_word_dash_10: drum-imitate-body-cost-final-sibling-hamster-purchase-minor-scatter
+bip_39_word_dash_11: drum-imitate-body-cost-final-sibling-hamster-purchase-minor-scatter-stamp
+bip_39_word_dash_12: drum-imitate-body-cost-final-sibling-hamster-purchase-minor-scatter-stamp-any
+bip_39_word_dash_2: drum-imitate
+bip_39_word_dash_3: drum-imitate-body
+bip_39_word_dash_4: drum-imitate-body-cost
+bip_39_word_dash_5: drum-imitate-body-cost-final
+bip_39_word_dash_6: drum-imitate-body-cost-final-sibling
+bip_39_word_dash_7: drum-imitate-body-cost-final-sibling-hamster
+bip_39_word_dash_8: drum-imitate-body-cost-final-sibling-hamster-purchase
+bip_39_word_dash_9: drum-imitate-body-cost-final-sibling-hamster-purchase-minor
+bip_39_word_new_br_1: drum
+bip_39_word_new_br_10: drum<br>imitate<br>body<br>cost<br>final<br>sibling<br>hamster<br>purchase<br>minor<br>scatter
+bip_39_word_new_br_11: drum<br>imitate<br>body<br>cost<br>final<br>sibling<br>hamster<br>purchase<br>minor<br>scatter<br>stamp
+bip_39_word_new_br_12: drum<br>imitate<br>body<br>cost<br>final<br>sibling<br>hamster<br>purchase<br>minor<br>scatter<br>stamp<br>any
+bip_39_word_new_br_2: drum<br>imitate
+bip_39_word_new_br_3: drum<br>imitate<br>body
+bip_39_word_new_br_4: drum<br>imitate<br>body<br>cost
+bip_39_word_new_br_5: drum<br>imitate<br>body<br>cost<br>final
+bip_39_word_new_br_6: drum<br>imitate<br>body<br>cost<br>final<br>sibling
+bip_39_word_new_br_7: drum<br>imitate<br>body<br>cost<br>final<br>sibling<br>hamster
+bip_39_word_new_br_8: drum<br>imitate<br>body<br>cost<br>final<br>sibling<br>hamster<br>purchase
+bip_39_word_new_br_9: drum<br>imitate<br>body<br>cost<br>final<br>sibling<br>hamster<br>purchase<br>minor
+bip_39_word_new_line_1: drum
+bip_39_word_new_line_10: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling
+
+  hamster
+
+  purchase
+
+  minor
+
+  scatter'
+bip_39_word_new_line_11: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling
+
+  hamster
+
+  purchase
+
+  minor
+
+  scatter
+
+  stamp'
+bip_39_word_new_line_12: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling
+
+  hamster
+
+  purchase
+
+  minor
+
+  scatter
+
+  stamp
+
+  any'
+bip_39_word_new_line_2: 'drum
+
+  imitate'
+bip_39_word_new_line_3: 'drum
+
+  imitate
+
+  body'
+bip_39_word_new_line_4: 'drum
+
+  imitate
+
+  body
+
+  cost'
+bip_39_word_new_line_5: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final'
+bip_39_word_new_line_6: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling'
+bip_39_word_new_line_7: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling
+
+  hamster'
+bip_39_word_new_line_8: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling
+
+  hamster
+
+  purchase'
+bip_39_word_new_line_9: 'drum
+
+  imitate
+
+  body
+
+  cost
+
+  final
+
+  sibling
+
+  hamster
+
+  purchase
+
+  minor'
+bip_39_word_no_space_1: drum
+bip_39_word_no_space_10: drumimitatebodycostfinalsiblinghamsterpurchaseminorscatter
+bip_39_word_no_space_11: drumimitatebodycostfinalsiblinghamsterpurchaseminorscatterstamp
+bip_39_word_no_space_12: drumimitatebodycostfinalsiblinghamsterpurchaseminorscatterstampany
+bip_39_word_no_space_2: drumimitate
+bip_39_word_no_space_3: drumimitatebody
+bip_39_word_no_space_4: drumimitatebodycost
+bip_39_word_no_space_5: drumimitatebodycostfinal
+bip_39_word_no_space_6: drumimitatebodycostfinalsibling
+bip_39_word_no_space_7: drumimitatebodycostfinalsiblinghamster
+bip_39_word_no_space_8: drumimitatebodycostfinalsiblinghamsterpurchase
+bip_39_word_no_space_9: drumimitatebodycostfinalsiblinghamsterpurchaseminor
+bip_39_word_space_0:
+- drum
+- imitate
+- body
+- cost
+- final
+- sibling
+- hamster
+- purchase
+- minor
+- scatter
+- stamp
+- any
+bip_39_word_space_1: drum
+bip_39_word_space_10: drum imitate body cost final sibling hamster purchase minor
+  scatter
+bip_39_word_space_11: drum imitate body cost final sibling hamster purchase minor
+  scatter stamp
+bip_39_word_space_12: drum imitate body cost final sibling hamster purchase minor
+  scatter stamp any
+bip_39_word_space_2: drum imitate
+bip_39_word_space_3: drum imitate body
+bip_39_word_space_4: drum imitate body cost
+bip_39_word_space_5: drum imitate body cost final
+bip_39_word_space_6: drum imitate body cost final sibling
+bip_39_word_space_7: drum imitate body cost final sibling hamster
+bip_39_word_space_8: drum imitate body cost final sibling hamster purchase
+bip_39_word_space_9: drum imitate body cost final sibling hamster purchase minor
+bip_39_word_underscore_1: drum
+bip_39_word_underscore_10: drum_imitate_body_cost_final_sibling_hamster_purchase_minor_scatter
+bip_39_word_underscore_11: drum_imitate_body_cost_final_sibling_hamster_purchase_minor_scatter_stamp
+bip_39_word_underscore_12: drum_imitate_body_cost_final_sibling_hamster_purchase_minor_scatter_stamp_any
+bip_39_word_underscore_2: drum_imitate
+bip_39_word_underscore_3: drum_imitate_body
+bip_39_word_underscore_4: drum_imitate_body_cost
+bip_39_word_underscore_5: drum_imitate_body_cost_final
+bip_39_word_underscore_6: drum_imitate_body_cost_final_sibling
+bip_39_word_underscore_7: drum_imitate_body_cost_final_sibling_hamster
+bip_39_word_underscore_8: drum_imitate_body_cost_final_sibling_hamster_purchase
+bip_39_word_underscore_9: drum_imitate_body_cost_final_sibling_hamster_purchase_minor
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: x_extra
+description_extra_capital: X Extra
+description_extra_first_letter: x
+description_extra_first_letter_upper: X
+description_extra_length_1: x
+description_extra_length_2: x_
+description_extra_length_3: x_e
+description_extra_length_4: x_ex
+description_extra_length_5: x_ext
+description_extra_length_6: x_extr
+description_extra_name: X Extra
+description_extra_no_space_length_1: x
+description_extra_no_space_length_2: xe
+description_extra_no_space_length_3: xex
+description_extra_no_space_length_4: xext
+description_extra_no_space_length_5: xextr
+description_extra_no_space_length_6: xextra
+description_extra_no_space_upper_length_1: X
+description_extra_no_space_upper_length_2: XE
+description_extra_no_space_upper_length_3: XEX
+description_extra_no_space_upper_length_4: XEXT
+description_extra_no_space_upper_length_5: XEXTR
+description_extra_no_space_upper_length_6: XEXTRA
+description_extra_upper: X_EXTRA
+description_extra_upper_length_1: X
+description_extra_upper_length_2: X_
+description_extra_upper_length_3: X_E
+description_extra_upper_length_4: X_EX
+description_extra_upper_length_5: X_EXT
+description_extra_upper_length_6: X_EXTR
+description_main: 5_width_1_mm_depth
+description_main_capital: 5 Width 1 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_w
+description_main_length_4: 5_wi
+description_main_length_5: 5_wid
+description_main_length_6: 5_widt
+description_main_name: 5 Width 1 mm Depth
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: 5w
+description_main_no_space_length_3: 5wi
+description_main_no_space_length_4: 5wid
+description_main_no_space_length_5: 5widt
+description_main_no_space_length_6: 5width
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: 5W
+description_main_no_space_upper_length_3: 5WI
+description_main_no_space_upper_length_4: 5WID
+description_main_no_space_upper_length_5: 5WIDT
+description_main_no_space_upper_length_6: 5WIDTH
+description_main_upper: 5_WIDTH_1_MM_DEPTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_W
+description_main_upper_length_4: 5_WI
+description_main_upper_length_5: 5_WID
+description_main_upper_length_6: 5_WIDT
+description_only_numbers: '51'
+description_only_numbers_short: '51'
+description_or_color: '51'
+description_or_color_upper: '51'
+directory: parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+id: oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+id_no_class: part_bunting_alphabet_5_width_1_mm_depth_x_extra
+id_no_color: 5width1mmdepthxextra
+id_no_size: 5_width_1_mm_depth_x_extra
+id_no_type: bunting_alphabet_5_width_1_mm_depth_x_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206dvxs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206dvxs
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206dvxs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206dvxs
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra](none)<br>[](none)<br>[Oobb
+  Part Bunting Alphabet 5 Width 1 Mm Depth X Extra](none)<br><br>'
+markdown_short: '[oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra](none)<br><br>'
+md5: a3a8f01c69ae2d171eab430a31dc5a1c
+md5_10: a3a8f01c69
+md5_10_upper: A3A8F01C69
+md5_5: a3a8f
+md5_5_upper: A3A8F
+md5_6: a3a8f0
+md5_6_alpha: 6dvxs
+md5_6_alpha_upper: 6DVXS
+md5_6_upper: A3A8F0
+name: Oobb Part Bunting Alphabet 5 Width 1 mm Depth X Extra
+name_no_class: Part Bunting Alphabet 5 Width 1 mm Depth X Extra
+name_no_color: 5Width1mmdepthxextra
+name_no_size: 5 Width 1 mm Depth X Extra
+name_no_size_short: 5 Width 1 Mm Depth X Extra
+name_no_type: Bunting Alphabet 5 Width 1 mm Depth X Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bunting_alphabet
+oomlout_detail_hierarchy_3_upper: BUNTING_ALPHABET
+oomlout_detail_hierarchy_3_upper_length_4: BUNT
+oomlout_detail_hierarchy_4: 1_mm_depth
+oomlout_detail_hierarchy_4_upper: 1_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 1DEP
+oomlout_detail_hierarchy_5: x_extra
+oomlout_detail_hierarchy_5_upper: X_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: X_EX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_bunting_alphabet_5_width_1_mm_depth_x_extra
+oomp_word: pencil shoe train
+oomp_word_emoji: ':pencil: :shoe: :train:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':shoe:'
+- ':train:'
+oomp_word_list:
+- pencil
+- shoe
+- train
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bunting_alphabet
+size_capital: Bunting Alphabet
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: bu
+size_length_3: bun
+size_length_4: bunt
+size_length_5: bunti
+size_length_6: buntin
+size_name: Bunting Alphabet
+size_no_space_length_1: b
+size_no_space_length_2: bu
+size_no_space_length_3: bun
+size_no_space_length_4: bunt
+size_no_space_length_5: bunti
+size_no_space_length_6: buntin
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BU
+size_no_space_upper_length_3: BUN
+size_no_space_upper_length_4: BUNT
+size_no_space_upper_length_5: BUNTI
+size_no_space_upper_length_6: BUNTIN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNTING_ALPHABET
+size_upper_length_1: B
+size_upper_length_2: BU
+size_upper_length_3: BUN
+size_upper_length_4: BUNT
+size_upper_length_5: BUNTI
+size_upper_length_6: BUNTIN
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

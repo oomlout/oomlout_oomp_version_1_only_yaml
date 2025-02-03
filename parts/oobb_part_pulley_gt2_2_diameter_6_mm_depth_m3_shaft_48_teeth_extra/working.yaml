@@ -1,0 +1,467 @@
+bip_39_word_dash_1: naive
+bip_39_word_dash_10: naive-mixed-jelly-top-harbor-mix-essay-park-swing-ankle
+bip_39_word_dash_11: naive-mixed-jelly-top-harbor-mix-essay-park-swing-ankle-absorb
+bip_39_word_dash_12: naive-mixed-jelly-top-harbor-mix-essay-park-swing-ankle-absorb-agree
+bip_39_word_dash_2: naive-mixed
+bip_39_word_dash_3: naive-mixed-jelly
+bip_39_word_dash_4: naive-mixed-jelly-top
+bip_39_word_dash_5: naive-mixed-jelly-top-harbor
+bip_39_word_dash_6: naive-mixed-jelly-top-harbor-mix
+bip_39_word_dash_7: naive-mixed-jelly-top-harbor-mix-essay
+bip_39_word_dash_8: naive-mixed-jelly-top-harbor-mix-essay-park
+bip_39_word_dash_9: naive-mixed-jelly-top-harbor-mix-essay-park-swing
+bip_39_word_new_br_1: naive
+bip_39_word_new_br_10: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix<br>essay<br>park<br>swing<br>ankle
+bip_39_word_new_br_11: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix<br>essay<br>park<br>swing<br>ankle<br>absorb
+bip_39_word_new_br_12: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix<br>essay<br>park<br>swing<br>ankle<br>absorb<br>agree
+bip_39_word_new_br_2: naive<br>mixed
+bip_39_word_new_br_3: naive<br>mixed<br>jelly
+bip_39_word_new_br_4: naive<br>mixed<br>jelly<br>top
+bip_39_word_new_br_5: naive<br>mixed<br>jelly<br>top<br>harbor
+bip_39_word_new_br_6: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix
+bip_39_word_new_br_7: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix<br>essay
+bip_39_word_new_br_8: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix<br>essay<br>park
+bip_39_word_new_br_9: naive<br>mixed<br>jelly<br>top<br>harbor<br>mix<br>essay<br>park<br>swing
+bip_39_word_new_line_1: naive
+bip_39_word_new_line_10: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix
+
+  essay
+
+  park
+
+  swing
+
+  ankle'
+bip_39_word_new_line_11: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix
+
+  essay
+
+  park
+
+  swing
+
+  ankle
+
+  absorb'
+bip_39_word_new_line_12: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix
+
+  essay
+
+  park
+
+  swing
+
+  ankle
+
+  absorb
+
+  agree'
+bip_39_word_new_line_2: 'naive
+
+  mixed'
+bip_39_word_new_line_3: 'naive
+
+  mixed
+
+  jelly'
+bip_39_word_new_line_4: 'naive
+
+  mixed
+
+  jelly
+
+  top'
+bip_39_word_new_line_5: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor'
+bip_39_word_new_line_6: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix'
+bip_39_word_new_line_7: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix
+
+  essay'
+bip_39_word_new_line_8: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix
+
+  essay
+
+  park'
+bip_39_word_new_line_9: 'naive
+
+  mixed
+
+  jelly
+
+  top
+
+  harbor
+
+  mix
+
+  essay
+
+  park
+
+  swing'
+bip_39_word_no_space_1: naive
+bip_39_word_no_space_10: naivemixedjellytopharbormixessayparkswingankle
+bip_39_word_no_space_11: naivemixedjellytopharbormixessayparkswingankleabsorb
+bip_39_word_no_space_12: naivemixedjellytopharbormixessayparkswingankleabsorbagree
+bip_39_word_no_space_2: naivemixed
+bip_39_word_no_space_3: naivemixedjelly
+bip_39_word_no_space_4: naivemixedjellytop
+bip_39_word_no_space_5: naivemixedjellytopharbor
+bip_39_word_no_space_6: naivemixedjellytopharbormix
+bip_39_word_no_space_7: naivemixedjellytopharbormixessay
+bip_39_word_no_space_8: naivemixedjellytopharbormixessaypark
+bip_39_word_no_space_9: naivemixedjellytopharbormixessayparkswing
+bip_39_word_space_0:
+- naive
+- mixed
+- jelly
+- top
+- harbor
+- mix
+- essay
+- park
+- swing
+- ankle
+- absorb
+- agree
+bip_39_word_space_1: naive
+bip_39_word_space_10: naive mixed jelly top harbor mix essay park swing ankle
+bip_39_word_space_11: naive mixed jelly top harbor mix essay park swing ankle absorb
+bip_39_word_space_12: naive mixed jelly top harbor mix essay park swing ankle absorb
+  agree
+bip_39_word_space_2: naive mixed
+bip_39_word_space_3: naive mixed jelly
+bip_39_word_space_4: naive mixed jelly top
+bip_39_word_space_5: naive mixed jelly top harbor
+bip_39_word_space_6: naive mixed jelly top harbor mix
+bip_39_word_space_7: naive mixed jelly top harbor mix essay
+bip_39_word_space_8: naive mixed jelly top harbor mix essay park
+bip_39_word_space_9: naive mixed jelly top harbor mix essay park swing
+bip_39_word_underscore_1: naive
+bip_39_word_underscore_10: naive_mixed_jelly_top_harbor_mix_essay_park_swing_ankle
+bip_39_word_underscore_11: naive_mixed_jelly_top_harbor_mix_essay_park_swing_ankle_absorb
+bip_39_word_underscore_12: naive_mixed_jelly_top_harbor_mix_essay_park_swing_ankle_absorb_agree
+bip_39_word_underscore_2: naive_mixed
+bip_39_word_underscore_3: naive_mixed_jelly
+bip_39_word_underscore_4: naive_mixed_jelly_top
+bip_39_word_underscore_5: naive_mixed_jelly_top_harbor
+bip_39_word_underscore_6: naive_mixed_jelly_top_harbor_mix
+bip_39_word_underscore_7: naive_mixed_jelly_top_harbor_mix_essay
+bip_39_word_underscore_8: naive_mixed_jelly_top_harbor_mix_essay_park
+bip_39_word_underscore_9: naive_mixed_jelly_top_harbor_mix_essay_park_swing
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: m3_shaft_48_teeth_extra
+description_extra_capital: M3 Shaft 48 Teeth Extra
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_length_1: m
+description_extra_length_2: m3
+description_extra_length_3: m3_
+description_extra_length_4: m3_s
+description_extra_length_5: m3_sh
+description_extra_length_6: m3_sha
+description_extra_name: M3 Shaft 48 Teeth Extra
+description_extra_no_space_length_1: m
+description_extra_no_space_length_2: m3
+description_extra_no_space_length_3: m3s
+description_extra_no_space_length_4: m3sh
+description_extra_no_space_length_5: m3sha
+description_extra_no_space_length_6: m3shaf
+description_extra_no_space_upper_length_1: M
+description_extra_no_space_upper_length_2: M3
+description_extra_no_space_upper_length_3: M3S
+description_extra_no_space_upper_length_4: M3SH
+description_extra_no_space_upper_length_5: M3SHA
+description_extra_no_space_upper_length_6: M3SHAF
+description_extra_upper: M3_SHAFT_48_TEETH_EXTRA
+description_extra_upper_length_1: M
+description_extra_upper_length_2: M3
+description_extra_upper_length_3: M3_
+description_extra_upper_length_4: M3_S
+description_extra_upper_length_5: M3_SH
+description_extra_upper_length_6: M3_SHA
+description_main: 2_diameter_6_mm_depth
+description_main_capital: 2 Diameter 6 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '2_'
+description_main_length_3: 2_d
+description_main_length_4: 2_di
+description_main_length_5: 2_dia
+description_main_length_6: 2_diam
+description_main_name: 2 Diameter 6 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: 2d
+description_main_no_space_length_3: 2di
+description_main_no_space_length_4: 2dia
+description_main_no_space_length_5: 2diam
+description_main_no_space_length_6: 2diame
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: 2D
+description_main_no_space_upper_length_3: 2DI
+description_main_no_space_upper_length_4: 2DIA
+description_main_no_space_upper_length_5: 2DIAM
+description_main_no_space_upper_length_6: 2DIAME
+description_main_upper: 2_DIAMETER_6_MM_DEPTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2_'
+description_main_upper_length_3: 2_D
+description_main_upper_length_4: 2_DI
+description_main_upper_length_5: 2_DIA
+description_main_upper_length_6: 2_DIAM
+description_only_numbers: '26'
+description_only_numbers_short: '26'
+description_or_color: '26'
+description_or_color_upper: '26'
+directory: parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+id: oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+id_no_class: part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+id_no_color: 2diameter6mmdepthm3shaft48teethextra
+id_no_size: 2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+id_no_type: pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2034dqa
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2034dqa
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2034dqa
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2034dqa
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra](none)<br>[](none)<br>[Oobb
+  Part Pulley Gt2 2 Diameter 6 Mm Depth M3 Shaft 48 Teeth Extra](none)<br><br>'
+markdown_short: '[oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra](none)<br><br>'
+md5: 5001824ee0a049a638348e4eefa38c95
+md5_10: 5001824ee0
+md5_10_upper: 5001824EE0
+md5_5: '50018'
+md5_5_upper: '50018'
+md5_6: '500182'
+md5_6_alpha: 34dqa
+md5_6_alpha_upper: 34DQA
+md5_6_upper: '500182'
+name: Oobb Part Pulley Gt2 2 Diameter 6 mm Depth M3 Shaft 48 Teeth Extra
+name_no_class: Part Pulley Gt2 2 Diameter 6 mm Depth M3 Shaft 48 Teeth Extra
+name_no_color: 2Diameter6mmdepthm3Shaft48Teethextra
+name_no_size: 2 Diameter 6 mm Depth M3 Shaft 48 Teeth Extra
+name_no_size_short: 2 Diameter 6 Mm Depth M3 Shaft 48 Teeth Extra
+name_no_type: Pulley Gt2 2 Diameter 6 mm Depth M3 Shaft 48 Teeth Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: pulley_gt2
+oomlout_detail_hierarchy_3_upper: PULLEY_GT2
+oomlout_detail_hierarchy_3_upper_length_4: PULL
+oomlout_detail_hierarchy_4: 2_diameter
+oomlout_detail_hierarchy_4_upper: 2_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 2_DI
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_detail_hierarchy_6: m3_shaft_48_teeth_extra
+oomlout_detail_hierarchy_6_upper: M3_SHAFT_48_TEETH_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: M3_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_pulley_gt2_2_diameter_6_mm_depth_m3_shaft_48_teeth_extra
+oomp_word: beetle smile radio
+oomp_word_emoji: ':beetle: :smile: :radio:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':smile:'
+- ':radio:'
+oomp_word_list:
+- beetle
+- smile
+- radio
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pulley_gt2
+size_capital: Pulley Gt2
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pu
+size_length_3: pul
+size_length_4: pull
+size_length_5: pulle
+size_length_6: pulley
+size_name: Pulley Gt2
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: pul
+size_no_space_length_4: pull
+size_no_space_length_5: pulle
+size_no_space_length_6: pulley
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUL
+size_no_space_upper_length_4: PULL
+size_no_space_upper_length_5: PULLE
+size_no_space_upper_length_6: PULLEY
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: PULLEY_GT2
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUL
+size_upper_length_4: PULL
+size_upper_length_5: PULLE
+size_upper_length_6: PULLEY
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

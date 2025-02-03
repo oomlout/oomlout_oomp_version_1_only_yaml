@@ -1,0 +1,465 @@
+bip_39_word_dash_1: park
+bip_39_word_dash_10: park-category-ship-prevent-climb-tray-party-sugar-beauty-quiz
+bip_39_word_dash_11: park-category-ship-prevent-climb-tray-party-sugar-beauty-quiz-actor
+bip_39_word_dash_12: park-category-ship-prevent-climb-tray-party-sugar-beauty-quiz-actor-among
+bip_39_word_dash_2: park-category
+bip_39_word_dash_3: park-category-ship
+bip_39_word_dash_4: park-category-ship-prevent
+bip_39_word_dash_5: park-category-ship-prevent-climb
+bip_39_word_dash_6: park-category-ship-prevent-climb-tray
+bip_39_word_dash_7: park-category-ship-prevent-climb-tray-party
+bip_39_word_dash_8: park-category-ship-prevent-climb-tray-party-sugar
+bip_39_word_dash_9: park-category-ship-prevent-climb-tray-party-sugar-beauty
+bip_39_word_new_br_1: park
+bip_39_word_new_br_10: park<br>category<br>ship<br>prevent<br>climb<br>tray<br>party<br>sugar<br>beauty<br>quiz
+bip_39_word_new_br_11: park<br>category<br>ship<br>prevent<br>climb<br>tray<br>party<br>sugar<br>beauty<br>quiz<br>actor
+bip_39_word_new_br_12: park<br>category<br>ship<br>prevent<br>climb<br>tray<br>party<br>sugar<br>beauty<br>quiz<br>actor<br>among
+bip_39_word_new_br_2: park<br>category
+bip_39_word_new_br_3: park<br>category<br>ship
+bip_39_word_new_br_4: park<br>category<br>ship<br>prevent
+bip_39_word_new_br_5: park<br>category<br>ship<br>prevent<br>climb
+bip_39_word_new_br_6: park<br>category<br>ship<br>prevent<br>climb<br>tray
+bip_39_word_new_br_7: park<br>category<br>ship<br>prevent<br>climb<br>tray<br>party
+bip_39_word_new_br_8: park<br>category<br>ship<br>prevent<br>climb<br>tray<br>party<br>sugar
+bip_39_word_new_br_9: park<br>category<br>ship<br>prevent<br>climb<br>tray<br>party<br>sugar<br>beauty
+bip_39_word_new_line_1: park
+bip_39_word_new_line_10: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray
+
+  party
+
+  sugar
+
+  beauty
+
+  quiz'
+bip_39_word_new_line_11: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray
+
+  party
+
+  sugar
+
+  beauty
+
+  quiz
+
+  actor'
+bip_39_word_new_line_12: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray
+
+  party
+
+  sugar
+
+  beauty
+
+  quiz
+
+  actor
+
+  among'
+bip_39_word_new_line_2: 'park
+
+  category'
+bip_39_word_new_line_3: 'park
+
+  category
+
+  ship'
+bip_39_word_new_line_4: 'park
+
+  category
+
+  ship
+
+  prevent'
+bip_39_word_new_line_5: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb'
+bip_39_word_new_line_6: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray'
+bip_39_word_new_line_7: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray
+
+  party'
+bip_39_word_new_line_8: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray
+
+  party
+
+  sugar'
+bip_39_word_new_line_9: 'park
+
+  category
+
+  ship
+
+  prevent
+
+  climb
+
+  tray
+
+  party
+
+  sugar
+
+  beauty'
+bip_39_word_no_space_1: park
+bip_39_word_no_space_10: parkcategoryshippreventclimbtraypartysugarbeautyquiz
+bip_39_word_no_space_11: parkcategoryshippreventclimbtraypartysugarbeautyquizactor
+bip_39_word_no_space_12: parkcategoryshippreventclimbtraypartysugarbeautyquizactoramong
+bip_39_word_no_space_2: parkcategory
+bip_39_word_no_space_3: parkcategoryship
+bip_39_word_no_space_4: parkcategoryshipprevent
+bip_39_word_no_space_5: parkcategoryshippreventclimb
+bip_39_word_no_space_6: parkcategoryshippreventclimbtray
+bip_39_word_no_space_7: parkcategoryshippreventclimbtrayparty
+bip_39_word_no_space_8: parkcategoryshippreventclimbtraypartysugar
+bip_39_word_no_space_9: parkcategoryshippreventclimbtraypartysugarbeauty
+bip_39_word_space_0:
+- park
+- category
+- ship
+- prevent
+- climb
+- tray
+- party
+- sugar
+- beauty
+- quiz
+- actor
+- among
+bip_39_word_space_1: park
+bip_39_word_space_10: park category ship prevent climb tray party sugar beauty quiz
+bip_39_word_space_11: park category ship prevent climb tray party sugar beauty quiz
+  actor
+bip_39_word_space_12: park category ship prevent climb tray party sugar beauty quiz
+  actor among
+bip_39_word_space_2: park category
+bip_39_word_space_3: park category ship
+bip_39_word_space_4: park category ship prevent
+bip_39_word_space_5: park category ship prevent climb
+bip_39_word_space_6: park category ship prevent climb tray
+bip_39_word_space_7: park category ship prevent climb tray party
+bip_39_word_space_8: park category ship prevent climb tray party sugar
+bip_39_word_space_9: park category ship prevent climb tray party sugar beauty
+bip_39_word_underscore_1: park
+bip_39_word_underscore_10: park_category_ship_prevent_climb_tray_party_sugar_beauty_quiz
+bip_39_word_underscore_11: park_category_ship_prevent_climb_tray_party_sugar_beauty_quiz_actor
+bip_39_word_underscore_12: park_category_ship_prevent_climb_tray_party_sugar_beauty_quiz_actor_among
+bip_39_word_underscore_2: park_category
+bip_39_word_underscore_3: park_category_ship
+bip_39_word_underscore_4: park_category_ship_prevent
+bip_39_word_underscore_5: park_category_ship_prevent_climb
+bip_39_word_underscore_6: park_category_ship_prevent_climb_tray
+bip_39_word_underscore_7: park_category_ship_prevent_climb_tray_party
+bip_39_word_underscore_8: park_category_ship_prevent_climb_tray_party_sugar
+bip_39_word_underscore_9: park_category_ship_prevent_climb_tray_party_sugar_beauty
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 1.5_extra
+description_extra_capital: 1.5 Extra
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_length_1: '1'
+description_extra_length_2: '1.'
+description_extra_length_3: '1.5'
+description_extra_length_4: '1.5_'
+description_extra_length_5: 1.5_e
+description_extra_length_6: 1.5_ex
+description_extra_name: 1.5 Extra
+description_extra_no_space_length_1: '1'
+description_extra_no_space_length_2: '1.'
+description_extra_no_space_length_3: '1.5'
+description_extra_no_space_length_4: 1.5e
+description_extra_no_space_length_5: 1.5ex
+description_extra_no_space_length_6: 1.5ext
+description_extra_no_space_upper_length_1: '1'
+description_extra_no_space_upper_length_2: '1.'
+description_extra_no_space_upper_length_3: '1.5'
+description_extra_no_space_upper_length_4: 1.5E
+description_extra_no_space_upper_length_5: 1.5EX
+description_extra_no_space_upper_length_6: 1.5EXT
+description_extra_upper: 1.5_EXTRA
+description_extra_upper_length_1: '1'
+description_extra_upper_length_2: '1.'
+description_extra_upper_length_3: '1.5'
+description_extra_upper_length_4: '1.5_'
+description_extra_upper_length_5: 1.5_E
+description_extra_upper_length_6: 1.5_EX
+description_main: 3_width_3_height_18_mm_depth
+description_main_capital: 3 Width 3 Height 18 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 3 Height 18 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper: 3_WIDTH_3_HEIGHT_18_MM_DEPTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+description_only_numbers: '3318'
+description_only_numbers_short: 3k3
+description_or_color: 3k3
+description_or_color_upper: 3K3
+directory: parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+id: oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+id_no_class: part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+id_no_color: 3width3height18mmdepth1.5extra
+id_no_size: 3_width_3_height_18_mm_depth_1.5_extra
+id_no_type: smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204x0mj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204x0mj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204x0mj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204x0mj
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra](none)<br>[](none)<br>[Oobb
+  Part Smd Magazine 3 Width 3 Height 18 Mm Depth 1.5 Extra](none)<br><br>'
+markdown_short: '[oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra](none)<br><br>'
+md5: 7e056bf89dd8d4139e958aa58c090d02
+md5_10: 7e056bf89d
+md5_10_upper: 7E056BF89D
+md5_5: 7e056
+md5_5_upper: 7E056
+md5_6: 7e056b
+md5_6_alpha: 4x0mj
+md5_6_alpha_upper: 4X0MJ
+md5_6_upper: 7E056B
+name: Oobb Part SMD Magazine 3 Width 3 Height 18 mm Depth 1.5 Extra
+name_no_class: Part SMD Magazine 3 Width 3 Height 18 mm Depth 1.5 Extra
+name_no_color: 3Width3Height18mmdepth1.5Extra
+name_no_size: 3 Width 3 Height 18 mm Depth 1.5 Extra
+name_no_size_short: 3 Width 3 Height 18 Mm Depth 1.5 Extra
+name_no_type: SMD Magazine 3 Width 3 Height 18 mm Depth 1.5 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: smd_magazine
+oomlout_detail_hierarchy_3_upper: SMD_MAGAZINE
+oomlout_detail_hierarchy_3_upper_length_4: SMD_
+oomlout_detail_hierarchy_4: 18_mm_depth
+oomlout_detail_hierarchy_4_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 18DE
+oomlout_detail_hierarchy_5: 1.5_extra
+oomlout_detail_hierarchy_5_upper: 1.5_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: '1.5_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_smd_magazine_3_width_3_height_18_mm_depth_1.5_extra
+oomp_word: fax kissing chestnut
+oomp_word_emoji: ':fax: :kissing: :chestnut:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':kissing:'
+- ':chestnut:'
+oomp_word_list:
+- fax
+- kissing
+- chestnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: smd_magazine
+size_capital: Smd Magazine
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sm
+size_length_3: smd
+size_length_4: smd_
+size_length_5: smd_m
+size_length_6: smd_ma
+size_name: SMD Magazine
+size_no_space_length_1: s
+size_no_space_length_2: sm
+size_no_space_length_3: smd
+size_no_space_length_4: smdm
+size_no_space_length_5: smdma
+size_no_space_length_6: smdmag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SM
+size_no_space_upper_length_3: SMD
+size_no_space_upper_length_4: SMDM
+size_no_space_upper_length_5: SMDMA
+size_no_space_upper_length_6: SMDMAG
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMD_MAGAZINE
+size_upper_length_1: S
+size_upper_length_2: SM
+size_upper_length_3: SMD
+size_upper_length_4: SMD_
+size_upper_length_5: SMD_M
+size_upper_length_6: SMD_MA
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

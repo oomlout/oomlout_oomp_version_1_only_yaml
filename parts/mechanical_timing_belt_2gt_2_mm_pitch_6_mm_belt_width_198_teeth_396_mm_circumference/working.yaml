@@ -1,0 +1,465 @@
+bip_39_word_dash_1: salute
+bip_39_word_dash_10: salute-blue-venture-memory-annual-early-length-hip-angry-absorb
+bip_39_word_dash_11: salute-blue-venture-memory-annual-early-length-hip-angry-absorb-acquire
+bip_39_word_dash_12: salute-blue-venture-memory-annual-early-length-hip-angry-absorb-acquire-alone
+bip_39_word_dash_2: salute-blue
+bip_39_word_dash_3: salute-blue-venture
+bip_39_word_dash_4: salute-blue-venture-memory
+bip_39_word_dash_5: salute-blue-venture-memory-annual
+bip_39_word_dash_6: salute-blue-venture-memory-annual-early
+bip_39_word_dash_7: salute-blue-venture-memory-annual-early-length
+bip_39_word_dash_8: salute-blue-venture-memory-annual-early-length-hip
+bip_39_word_dash_9: salute-blue-venture-memory-annual-early-length-hip-angry
+bip_39_word_new_br_1: salute
+bip_39_word_new_br_10: salute<br>blue<br>venture<br>memory<br>annual<br>early<br>length<br>hip<br>angry<br>absorb
+bip_39_word_new_br_11: salute<br>blue<br>venture<br>memory<br>annual<br>early<br>length<br>hip<br>angry<br>absorb<br>acquire
+bip_39_word_new_br_12: salute<br>blue<br>venture<br>memory<br>annual<br>early<br>length<br>hip<br>angry<br>absorb<br>acquire<br>alone
+bip_39_word_new_br_2: salute<br>blue
+bip_39_word_new_br_3: salute<br>blue<br>venture
+bip_39_word_new_br_4: salute<br>blue<br>venture<br>memory
+bip_39_word_new_br_5: salute<br>blue<br>venture<br>memory<br>annual
+bip_39_word_new_br_6: salute<br>blue<br>venture<br>memory<br>annual<br>early
+bip_39_word_new_br_7: salute<br>blue<br>venture<br>memory<br>annual<br>early<br>length
+bip_39_word_new_br_8: salute<br>blue<br>venture<br>memory<br>annual<br>early<br>length<br>hip
+bip_39_word_new_br_9: salute<br>blue<br>venture<br>memory<br>annual<br>early<br>length<br>hip<br>angry
+bip_39_word_new_line_1: salute
+bip_39_word_new_line_10: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early
+
+  length
+
+  hip
+
+  angry
+
+  absorb'
+bip_39_word_new_line_11: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early
+
+  length
+
+  hip
+
+  angry
+
+  absorb
+
+  acquire'
+bip_39_word_new_line_12: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early
+
+  length
+
+  hip
+
+  angry
+
+  absorb
+
+  acquire
+
+  alone'
+bip_39_word_new_line_2: 'salute
+
+  blue'
+bip_39_word_new_line_3: 'salute
+
+  blue
+
+  venture'
+bip_39_word_new_line_4: 'salute
+
+  blue
+
+  venture
+
+  memory'
+bip_39_word_new_line_5: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual'
+bip_39_word_new_line_6: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early'
+bip_39_word_new_line_7: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early
+
+  length'
+bip_39_word_new_line_8: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early
+
+  length
+
+  hip'
+bip_39_word_new_line_9: 'salute
+
+  blue
+
+  venture
+
+  memory
+
+  annual
+
+  early
+
+  length
+
+  hip
+
+  angry'
+bip_39_word_no_space_1: salute
+bip_39_word_no_space_10: saluteblueventurememoryannualearlylengthhipangryabsorb
+bip_39_word_no_space_11: saluteblueventurememoryannualearlylengthhipangryabsorbacquire
+bip_39_word_no_space_12: saluteblueventurememoryannualearlylengthhipangryabsorbacquirealone
+bip_39_word_no_space_2: saluteblue
+bip_39_word_no_space_3: saluteblueventure
+bip_39_word_no_space_4: saluteblueventurememory
+bip_39_word_no_space_5: saluteblueventurememoryannual
+bip_39_word_no_space_6: saluteblueventurememoryannualearly
+bip_39_word_no_space_7: saluteblueventurememoryannualearlylength
+bip_39_word_no_space_8: saluteblueventurememoryannualearlylengthhip
+bip_39_word_no_space_9: saluteblueventurememoryannualearlylengthhipangry
+bip_39_word_space_0:
+- salute
+- blue
+- venture
+- memory
+- annual
+- early
+- length
+- hip
+- angry
+- absorb
+- acquire
+- alone
+bip_39_word_space_1: salute
+bip_39_word_space_10: salute blue venture memory annual early length hip angry absorb
+bip_39_word_space_11: salute blue venture memory annual early length hip angry absorb
+  acquire
+bip_39_word_space_12: salute blue venture memory annual early length hip angry absorb
+  acquire alone
+bip_39_word_space_2: salute blue
+bip_39_word_space_3: salute blue venture
+bip_39_word_space_4: salute blue venture memory
+bip_39_word_space_5: salute blue venture memory annual
+bip_39_word_space_6: salute blue venture memory annual early
+bip_39_word_space_7: salute blue venture memory annual early length
+bip_39_word_space_8: salute blue venture memory annual early length hip
+bip_39_word_space_9: salute blue venture memory annual early length hip angry
+bip_39_word_underscore_1: salute
+bip_39_word_underscore_10: salute_blue_venture_memory_annual_early_length_hip_angry_absorb
+bip_39_word_underscore_11: salute_blue_venture_memory_annual_early_length_hip_angry_absorb_acquire
+bip_39_word_underscore_12: salute_blue_venture_memory_annual_early_length_hip_angry_absorb_acquire_alone
+bip_39_word_underscore_2: salute_blue
+bip_39_word_underscore_3: salute_blue_venture
+bip_39_word_underscore_4: salute_blue_venture_memory
+bip_39_word_underscore_5: salute_blue_venture_memory_annual
+bip_39_word_underscore_6: salute_blue_venture_memory_annual_early
+bip_39_word_underscore_7: salute_blue_venture_memory_annual_early_length
+bip_39_word_underscore_8: salute_blue_venture_memory_annual_early_length_hip
+bip_39_word_underscore_9: salute_blue_venture_memory_annual_early_length_hip_angry
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
+classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
+color: 6_mm_belt_width
+color_capital: 6 mm Belt Width
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '6_'
+color_length_3: 6_m
+color_length_4: 6_mm
+color_length_5: 6_mm_
+color_length_6: 6_mm_b
+color_name: 6 mm Belt Width
+color_no_space_length_1: '6'
+color_no_space_length_2: 6m
+color_no_space_length_3: 6mm
+color_no_space_length_4: 6mmb
+color_no_space_length_5: 6mmbe
+color_no_space_length_6: 6mmbel
+color_no_space_upper_length_1: '6'
+color_no_space_upper_length_2: 6M
+color_no_space_upper_length_3: 6MM
+color_no_space_upper_length_4: 6MMB
+color_no_space_upper_length_5: 6MMBE
+color_no_space_upper_length_6: 6MMBEL
+color_upper: 6_MM_BELT_WIDTH
+color_upper_length_1: '6'
+color_upper_length_2: '6_'
+color_upper_length_3: 6_M
+color_upper_length_4: 6_MM
+color_upper_length_5: 6_MM_
+color_upper_length_6: 6_MM_B
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 198_teeth_396_mm_circumference
+description_main_capital: 198 Teeth 396 mm Circumference
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '19'
+description_main_length_3: '198'
+description_main_length_4: '198_'
+description_main_length_5: 198_t
+description_main_length_6: 198_te
+description_main_name: 198 Teeth 396 mm Circumference
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '19'
+description_main_no_space_length_3: '198'
+description_main_no_space_length_4: 198t
+description_main_no_space_length_5: 198te
+description_main_no_space_length_6: 198tee
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '19'
+description_main_no_space_upper_length_3: '198'
+description_main_no_space_upper_length_4: 198T
+description_main_no_space_upper_length_5: 198TE
+description_main_no_space_upper_length_6: 198TEE
+description_main_upper: 198_TEETH_396_MM_CIRCUMFERENCE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '19'
+description_main_upper_length_3: '198'
+description_main_upper_length_4: '198_'
+description_main_upper_length_5: 198_T
+description_main_upper_length_6: 198_TE
+description_only_numbers: '198396'
+description_only_numbers_short: 198k
+description_or_color: 6198k
+description_or_color_upper: 6198K
+directory: parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+id: mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+id_no_class: timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+id_no_color: 198_teeth_396_mm_circumference
+id_no_size: 6_mm_belt_width_198_teeth_396_mm_circumference
+id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ajb4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ajb4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204ajb4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ajb4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference](none)<br>[](none)<br>[Mechanical
+  Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 198 Teeth 396 Mm Circumference](none)<br><br>'
+markdown_short: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference](none)<br><br>'
+md5: 6e044030476bf0011484b8afe48615f6
+md5_10: 6e04403047
+md5_10_upper: 6E04403047
+md5_5: 6e044
+md5_5_upper: 6E044
+md5_6: 6e0440
+md5_6_alpha: 4ajb4
+md5_6_alpha_upper: 4AJB4
+md5_6_upper: 6E0440
+name: Mechanical Timing Belt 2Gt 2 mm Pitch 6 mm Belt Width 198 Teeth 396 mm Circumference
+name_no_class: Timing Belt 2Gt 2 mm Pitch 6 mm Belt Width 198 Teeth 396 mm Circumference
+name_no_color: 198 Teeth 396 mm Circumference
+name_no_size: 6 mm Belt Width 198 Teeth 396 mm Circumference
+name_no_size_short: 6 Mm Belt Width 198 Teeth 396 Mm Circumference
+name_no_type: 2Gt 2 mm Pitch 6 mm Belt Width 198 Teeth 396 mm Circumference
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: timing_belt
+oomlout_detail_hierarchy_2_upper: TIMING_BELT
+oomlout_detail_hierarchy_2_upper_length_4: TIMI
+oomlout_detail_hierarchy_3: 2gt_2_mm_pitch
+oomlout_detail_hierarchy_3_upper: 2GT_2_MM_PITCH
+oomlout_detail_hierarchy_3_upper_length_4: 2GT_
+oomlout_detail_hierarchy_4: 6_mm_belt_width
+oomlout_detail_hierarchy_4_upper: 6_MM_BELT_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 6BEL
+oomlout_detail_hierarchy_5: 198_teeth_396_mm_circumference
+oomlout_detail_hierarchy_5_upper: 198_TEETH_396_MM_CIRCUMFERENCE
+oomlout_detail_hierarchy_5_upper_length_4: '198_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_198_teeth_396_mm_circumference
+oomp_word: new_moon wink racehorse
+oomp_word_emoji: ':new_moon: :wink: :racehorse:'
+oomp_word_emoji_list:
+- ':new_moon:'
+- ':wink:'
+- ':racehorse:'
+oomp_word_list:
+- new_moon
+- wink
+- racehorse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 2gt_2_mm_pitch
+size_capital: 2Gt 2 mm Pitch
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_length_1: '2'
+size_length_2: 2g
+size_length_3: 2gt
+size_length_4: 2gt_
+size_length_5: 2gt_2
+size_length_6: 2gt_2_
+size_name: 2Gt 2 mm Pitch
+size_no_space_length_1: '2'
+size_no_space_length_2: 2g
+size_no_space_length_3: 2gt
+size_no_space_length_4: 2gt2
+size_no_space_length_5: 2gt2m
+size_no_space_length_6: 2gt2mm
+size_no_space_upper_length_1: '2'
+size_no_space_upper_length_2: 2G
+size_no_space_upper_length_3: 2GT
+size_no_space_upper_length_4: 2GT2
+size_no_space_upper_length_5: 2GT2M
+size_no_space_upper_length_6: 2GT2MM
+size_only_numbers: '22'
+size_only_numbers_no_zeros: '22'
+size_upper: 2GT_2_MM_PITCH
+size_upper_length_1: '2'
+size_upper_length_2: 2G
+size_upper_length_3: 2GT
+size_upper_length_4: 2GT_
+size_upper_length_5: 2GT_2
+size_upper_length_6: 2GT_2_
+type: timing_belt
+type_capital: Timing Belt
+type_first_letter: t
+type_first_letter_upper: T
+type_length_1: t
+type_length_2: ti
+type_length_3: tim
+type_length_4: timi
+type_length_5: timin
+type_length_6: timing
+type_name: Timing Belt
+type_no_space_length_1: t
+type_no_space_length_2: ti
+type_no_space_length_3: tim
+type_no_space_length_4: timi
+type_no_space_length_5: timin
+type_no_space_length_6: timing
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TI
+type_no_space_upper_length_3: TIM
+type_no_space_upper_length_4: TIMI
+type_no_space_upper_length_5: TIMIN
+type_no_space_upper_length_6: TIMING
+type_upper: TIMING_BELT
+type_upper_length_1: T
+type_upper_length_2: TI
+type_upper_length_3: TIM
+type_upper_length_4: TIMI
+type_upper_length_5: TIMIN
+type_upper_length_6: TIMING

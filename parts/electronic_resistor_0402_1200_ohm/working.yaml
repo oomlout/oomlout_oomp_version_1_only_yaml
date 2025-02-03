@@ -1,0 +1,478 @@
+bip_39_word_dash_1: rebuild
+bip_39_word_dash_10: rebuild-fabric-print-isolate-document-inject-make-blanket-assault-photo
+bip_39_word_dash_11: rebuild-fabric-print-isolate-document-inject-make-blanket-assault-photo-order
+bip_39_word_dash_12: rebuild-fabric-print-isolate-document-inject-make-blanket-assault-photo-order-advice
+bip_39_word_dash_2: rebuild-fabric
+bip_39_word_dash_3: rebuild-fabric-print
+bip_39_word_dash_4: rebuild-fabric-print-isolate
+bip_39_word_dash_5: rebuild-fabric-print-isolate-document
+bip_39_word_dash_6: rebuild-fabric-print-isolate-document-inject
+bip_39_word_dash_7: rebuild-fabric-print-isolate-document-inject-make
+bip_39_word_dash_8: rebuild-fabric-print-isolate-document-inject-make-blanket
+bip_39_word_dash_9: rebuild-fabric-print-isolate-document-inject-make-blanket-assault
+bip_39_word_new_br_1: rebuild
+bip_39_word_new_br_10: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket<br>assault<br>photo
+bip_39_word_new_br_11: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket<br>assault<br>photo<br>order
+bip_39_word_new_br_12: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket<br>assault<br>photo<br>order<br>advice
+bip_39_word_new_br_2: rebuild<br>fabric
+bip_39_word_new_br_3: rebuild<br>fabric<br>print
+bip_39_word_new_br_4: rebuild<br>fabric<br>print<br>isolate
+bip_39_word_new_br_5: rebuild<br>fabric<br>print<br>isolate<br>document
+bip_39_word_new_br_6: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject
+bip_39_word_new_br_7: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make
+bip_39_word_new_br_8: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket
+bip_39_word_new_br_9: rebuild<br>fabric<br>print<br>isolate<br>document<br>inject<br>make<br>blanket<br>assault
+bip_39_word_new_line_1: rebuild
+bip_39_word_new_line_10: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject
+
+  make
+
+  blanket
+
+  assault
+
+  photo'
+bip_39_word_new_line_11: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject
+
+  make
+
+  blanket
+
+  assault
+
+  photo
+
+  order'
+bip_39_word_new_line_12: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject
+
+  make
+
+  blanket
+
+  assault
+
+  photo
+
+  order
+
+  advice'
+bip_39_word_new_line_2: 'rebuild
+
+  fabric'
+bip_39_word_new_line_3: 'rebuild
+
+  fabric
+
+  print'
+bip_39_word_new_line_4: 'rebuild
+
+  fabric
+
+  print
+
+  isolate'
+bip_39_word_new_line_5: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document'
+bip_39_word_new_line_6: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject'
+bip_39_word_new_line_7: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject
+
+  make'
+bip_39_word_new_line_8: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject
+
+  make
+
+  blanket'
+bip_39_word_new_line_9: 'rebuild
+
+  fabric
+
+  print
+
+  isolate
+
+  document
+
+  inject
+
+  make
+
+  blanket
+
+  assault'
+bip_39_word_no_space_1: rebuild
+bip_39_word_no_space_10: rebuildfabricprintisolatedocumentinjectmakeblanketassaultphoto
+bip_39_word_no_space_11: rebuildfabricprintisolatedocumentinjectmakeblanketassaultphotoorder
+bip_39_word_no_space_12: rebuildfabricprintisolatedocumentinjectmakeblanketassaultphotoorderadvice
+bip_39_word_no_space_2: rebuildfabric
+bip_39_word_no_space_3: rebuildfabricprint
+bip_39_word_no_space_4: rebuildfabricprintisolate
+bip_39_word_no_space_5: rebuildfabricprintisolatedocument
+bip_39_word_no_space_6: rebuildfabricprintisolatedocumentinject
+bip_39_word_no_space_7: rebuildfabricprintisolatedocumentinjectmake
+bip_39_word_no_space_8: rebuildfabricprintisolatedocumentinjectmakeblanket
+bip_39_word_no_space_9: rebuildfabricprintisolatedocumentinjectmakeblanketassault
+bip_39_word_space_0:
+- rebuild
+- fabric
+- print
+- isolate
+- document
+- inject
+- make
+- blanket
+- assault
+- photo
+- order
+- advice
+bip_39_word_space_1: rebuild
+bip_39_word_space_10: rebuild fabric print isolate document inject make blanket assault
+  photo
+bip_39_word_space_11: rebuild fabric print isolate document inject make blanket assault
+  photo order
+bip_39_word_space_12: rebuild fabric print isolate document inject make blanket assault
+  photo order advice
+bip_39_word_space_2: rebuild fabric
+bip_39_word_space_3: rebuild fabric print
+bip_39_word_space_4: rebuild fabric print isolate
+bip_39_word_space_5: rebuild fabric print isolate document
+bip_39_word_space_6: rebuild fabric print isolate document inject
+bip_39_word_space_7: rebuild fabric print isolate document inject make
+bip_39_word_space_8: rebuild fabric print isolate document inject make blanket
+bip_39_word_space_9: rebuild fabric print isolate document inject make blanket assault
+bip_39_word_underscore_1: rebuild
+bip_39_word_underscore_10: rebuild_fabric_print_isolate_document_inject_make_blanket_assault_photo
+bip_39_word_underscore_11: rebuild_fabric_print_isolate_document_inject_make_blanket_assault_photo_order
+bip_39_word_underscore_12: rebuild_fabric_print_isolate_document_inject_make_blanket_assault_photo_order_advice
+bip_39_word_underscore_2: rebuild_fabric
+bip_39_word_underscore_3: rebuild_fabric_print
+bip_39_word_underscore_4: rebuild_fabric_print_isolate
+bip_39_word_underscore_5: rebuild_fabric_print_isolate_document
+bip_39_word_underscore_6: rebuild_fabric_print_isolate_document_inject
+bip_39_word_underscore_7: rebuild_fabric_print_isolate_document_inject_make
+bip_39_word_underscore_8: rebuild_fabric_print_isolate_document_inject_make_blanket
+bip_39_word_underscore_9: rebuild_fabric_print_isolate_document_inject_make_blanket_assault
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 1200_ohm
+description_main_capital: 1200 Ohm
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '120'
+description_main_length_4: '1200'
+description_main_length_5: '1200_'
+description_main_length_6: 1200_o
+description_main_name: 1200 Ohm
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: '120'
+description_main_no_space_length_4: '1200'
+description_main_no_space_length_5: 1200o
+description_main_no_space_length_6: 1200oh
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: '120'
+description_main_no_space_upper_length_4: '1200'
+description_main_no_space_upper_length_5: 1200O
+description_main_no_space_upper_length_6: 1200OH
+description_main_upper: 1200_OHM
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '120'
+description_main_upper_length_4: '1200'
+description_main_upper_length_5: '1200_'
+description_main_upper_length_6: 1200_O
+description_only_numbers: '1200'
+description_only_numbers_short: 1k2
+description_or_color: 1k2
+description_or_color_upper: 1K2
+directory: parts/electronic_resistor_0402_1200_ohm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_1200_ohm
+id: electronic_resistor_0402_1200_ohm
+id_no_class: resistor_0402_1200_ohm
+id_no_color: 1200ohm
+id_no_size: 1200_ohm
+id_no_type: 0402_1200_ohm
+kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_1200_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_1200_ohm
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_1200_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_1200_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202jm20
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202jm20
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202jm20
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202jm20
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_1200_ohm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers:
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: did this one first, but not in jlc pcb basic parts and 1 percent are and
+      they are the same price
+    reason_short: not in jlc basic parts
+  part_number: 0402WGJ0122TCE
+- id: manufacturer_uniroyal
+  link: ''
+  name: Uniroyal
+  note:
+    reason: in the jlc basic parts catalogue
+    reason_short: jlc basic part
+  part_number: 0402WGF1201TCE
+- id: manufacturer_yageo
+  link: https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071K2L
+  name: Yageo
+  note:
+    reason: yageo is a commonly cross referenced part number
+    reason_short: available everywhere
+  part_number: RC0402JR-071K2L
+markdown_full: '[electronic_resistor_0402_1200_ohm](none)<br>[r4o122](none)<br>[Electronic
+  Resistor 0402 1200 Ohm](none)<br><br>[Uniroyal - 0402WGJ0122TCE- not in jlc basic
+  parts]() [(L)  ](https://www.lcsc.com/search?q=0402WGJ0122TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGJ0122TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGJ0122TCE)[(N)  ](https://www.newark.com/search?st=0402WGJ0122TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGJ0122TCE)<br>[Uniroyal
+  - 0402WGF1201TCE- jlc basic part]() [(L)  ](https://www.lcsc.com/search?q=0402WGF1201TCE)[(D)  ](https://www.digikey.com/en/products?keywords=0402WGF1201TCE)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=0402WGF1201TCE)[(N)  ](https://www.newark.com/search?st=0402WGF1201TCE)[(SZ)  ](https://so.szlcsc.com/global.html?k=0402WGF1201TCE)<br>[Yageo
+  - RC0402JR-071K2L- available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071K2L)
+  [(L)  ](https://www.lcsc.com/search?q=RC0402JR-071K2L)[(D)  ](https://www.digikey.com/en/products?keywords=RC0402JR-071K2L)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=RC0402JR-071K2L)[(N)  ](https://www.newark.com/search?st=RC0402JR-071K2L)[(SZ)  ](https://so.szlcsc.com/global.html?k=RC0402JR-071K2L)<br>'
+markdown_short: '[electronic_resistor_0402_1200_ohm](none)<br><br>[Uniroyal - 0402WGJ0122TCE-
+  not in jlc basic parts]()[Uniroyal - 0402WGF1201TCE- jlc basic part]()[Yageo - RC0402JR-071K2L-
+  available everywhere](https://www.yageo.com/en/Chart/Download/pdf/RC0402JR-071K2L)'
+md5: 413868e86c1750d1d020376955945d9a
+md5_10: 413868e86c
+md5_10_upper: 413868E86C
+md5_5: '41386'
+md5_5_upper: '41386'
+md5_6: '413868'
+md5_6_alpha: 2jm20
+md5_6_alpha_upper: 2JM20
+md5_6_upper: '413868'
+name: Electronic Resistor 0402 1200 Ohm
+name_no_class: Resistor 0402 1200 Ohm
+name_no_color: 1200Ohm
+name_no_size: 1200 Ohm
+name_no_size_short: 1k2 Ohm
+name_no_type: 0402 1200 Ohm
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: resistor
+oomlout_detail_hierarchy_2_upper: RESISTOR
+oomlout_detail_hierarchy_2_upper_length_4: RESI
+oomlout_detail_hierarchy_3: '0402'
+oomlout_detail_hierarchy_3_upper: '0402'
+oomlout_detail_hierarchy_3_upper_length_4: '0402'
+oomlout_detail_hierarchy_4: 1200_ohm
+oomlout_detail_hierarchy_4_upper: 1200_OHM
+oomlout_detail_hierarchy_4_upper_length_4: '1200'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_resistor_0402_1200_ohm
+oomp_word: camel frog mushroom
+oomp_word_emoji: ':camel: :frog: :mushroom:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':frog:'
+- ':mushroom:'
+oomp_word_list:
+- camel
+- frog
+- mushroom
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: r4o122
+short_code_upper: R4O122
+size: '0402'
+size_capital: '0402'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '04'
+size_length_3: '040'
+size_length_4: '0402'
+size_length_5: '0402'
+size_length_6: '0402'
+size_name: '0402'
+size_no_space_length_1: '0'
+size_no_space_length_2: '04'
+size_no_space_length_3: '040'
+size_no_space_length_4: '0402'
+size_no_space_length_5: '0402'
+size_no_space_length_6: '0402'
+size_no_space_upper_length_1: '0'
+size_no_space_upper_length_2: '04'
+size_no_space_upper_length_3: '040'
+size_no_space_upper_length_4: '0402'
+size_no_space_upper_length_5: '0402'
+size_no_space_upper_length_6: '0402'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+size_upper: '0402'
+size_upper_length_1: '0'
+size_upper_length_2: '04'
+size_upper_length_3: '040'
+size_upper_length_4: '0402'
+size_upper_length_5: '0402'
+size_upper_length_6: '0402'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_r
+  oomp_key: oomp_kicad_device_r
+type: resistor
+type_capital: Resistor
+type_first_letter: r
+type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
+type_name: Resistor
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: res
+type_no_space_length_4: resi
+type_no_space_length_5: resis
+type_no_space_length_6: resist
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: RES
+type_no_space_upper_length_4: RESI
+type_no_space_upper_length_5: RESIS
+type_no_space_upper_length_6: RESIST
+type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

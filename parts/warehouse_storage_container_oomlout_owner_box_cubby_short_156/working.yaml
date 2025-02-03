@@ -1,0 +1,467 @@
+bip_39_word_dash_1: target
+bip_39_word_dash_10: target-length-fashion-pass-again-twenty-common-rather-tomorrow-vapor
+bip_39_word_dash_11: target-length-fashion-pass-again-twenty-common-rather-tomorrow-vapor-carry
+bip_39_word_dash_12: target-length-fashion-pass-again-twenty-common-rather-tomorrow-vapor-carry-always
+bip_39_word_dash_2: target-length
+bip_39_word_dash_3: target-length-fashion
+bip_39_word_dash_4: target-length-fashion-pass
+bip_39_word_dash_5: target-length-fashion-pass-again
+bip_39_word_dash_6: target-length-fashion-pass-again-twenty
+bip_39_word_dash_7: target-length-fashion-pass-again-twenty-common
+bip_39_word_dash_8: target-length-fashion-pass-again-twenty-common-rather
+bip_39_word_dash_9: target-length-fashion-pass-again-twenty-common-rather-tomorrow
+bip_39_word_new_br_1: target
+bip_39_word_new_br_10: target<br>length<br>fashion<br>pass<br>again<br>twenty<br>common<br>rather<br>tomorrow<br>vapor
+bip_39_word_new_br_11: target<br>length<br>fashion<br>pass<br>again<br>twenty<br>common<br>rather<br>tomorrow<br>vapor<br>carry
+bip_39_word_new_br_12: target<br>length<br>fashion<br>pass<br>again<br>twenty<br>common<br>rather<br>tomorrow<br>vapor<br>carry<br>always
+bip_39_word_new_br_2: target<br>length
+bip_39_word_new_br_3: target<br>length<br>fashion
+bip_39_word_new_br_4: target<br>length<br>fashion<br>pass
+bip_39_word_new_br_5: target<br>length<br>fashion<br>pass<br>again
+bip_39_word_new_br_6: target<br>length<br>fashion<br>pass<br>again<br>twenty
+bip_39_word_new_br_7: target<br>length<br>fashion<br>pass<br>again<br>twenty<br>common
+bip_39_word_new_br_8: target<br>length<br>fashion<br>pass<br>again<br>twenty<br>common<br>rather
+bip_39_word_new_br_9: target<br>length<br>fashion<br>pass<br>again<br>twenty<br>common<br>rather<br>tomorrow
+bip_39_word_new_line_1: target
+bip_39_word_new_line_10: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty
+
+  common
+
+  rather
+
+  tomorrow
+
+  vapor'
+bip_39_word_new_line_11: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty
+
+  common
+
+  rather
+
+  tomorrow
+
+  vapor
+
+  carry'
+bip_39_word_new_line_12: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty
+
+  common
+
+  rather
+
+  tomorrow
+
+  vapor
+
+  carry
+
+  always'
+bip_39_word_new_line_2: 'target
+
+  length'
+bip_39_word_new_line_3: 'target
+
+  length
+
+  fashion'
+bip_39_word_new_line_4: 'target
+
+  length
+
+  fashion
+
+  pass'
+bip_39_word_new_line_5: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again'
+bip_39_word_new_line_6: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty'
+bip_39_word_new_line_7: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty
+
+  common'
+bip_39_word_new_line_8: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty
+
+  common
+
+  rather'
+bip_39_word_new_line_9: 'target
+
+  length
+
+  fashion
+
+  pass
+
+  again
+
+  twenty
+
+  common
+
+  rather
+
+  tomorrow'
+bip_39_word_no_space_1: target
+bip_39_word_no_space_10: targetlengthfashionpassagaintwentycommonrathertomorrowvapor
+bip_39_word_no_space_11: targetlengthfashionpassagaintwentycommonrathertomorrowvaporcarry
+bip_39_word_no_space_12: targetlengthfashionpassagaintwentycommonrathertomorrowvaporcarryalways
+bip_39_word_no_space_2: targetlength
+bip_39_word_no_space_3: targetlengthfashion
+bip_39_word_no_space_4: targetlengthfashionpass
+bip_39_word_no_space_5: targetlengthfashionpassagain
+bip_39_word_no_space_6: targetlengthfashionpassagaintwenty
+bip_39_word_no_space_7: targetlengthfashionpassagaintwentycommon
+bip_39_word_no_space_8: targetlengthfashionpassagaintwentycommonrather
+bip_39_word_no_space_9: targetlengthfashionpassagaintwentycommonrathertomorrow
+bip_39_word_space_0:
+- target
+- length
+- fashion
+- pass
+- again
+- twenty
+- common
+- rather
+- tomorrow
+- vapor
+- carry
+- always
+bip_39_word_space_1: target
+bip_39_word_space_10: target length fashion pass again twenty common rather tomorrow
+  vapor
+bip_39_word_space_11: target length fashion pass again twenty common rather tomorrow
+  vapor carry
+bip_39_word_space_12: target length fashion pass again twenty common rather tomorrow
+  vapor carry always
+bip_39_word_space_2: target length
+bip_39_word_space_3: target length fashion
+bip_39_word_space_4: target length fashion pass
+bip_39_word_space_5: target length fashion pass again
+bip_39_word_space_6: target length fashion pass again twenty
+bip_39_word_space_7: target length fashion pass again twenty common
+bip_39_word_space_8: target length fashion pass again twenty common rather
+bip_39_word_space_9: target length fashion pass again twenty common rather tomorrow
+bip_39_word_underscore_1: target
+bip_39_word_underscore_10: target_length_fashion_pass_again_twenty_common_rather_tomorrow_vapor
+bip_39_word_underscore_11: target_length_fashion_pass_again_twenty_common_rather_tomorrow_vapor_carry
+bip_39_word_underscore_12: target_length_fashion_pass_again_twenty_common_rather_tomorrow_vapor_carry_always
+bip_39_word_underscore_2: target_length
+bip_39_word_underscore_3: target_length_fashion
+bip_39_word_underscore_4: target_length_fashion_pass
+bip_39_word_underscore_5: target_length_fashion_pass_again
+bip_39_word_underscore_6: target_length_fashion_pass_again_twenty
+bip_39_word_underscore_7: target_length_fashion_pass_again_twenty_common
+bip_39_word_underscore_8: target_length_fashion_pass_again_twenty_common_rather
+bip_39_word_underscore_9: target_length_fashion_pass_again_twenty_common_rather_tomorrow
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cubby_short
+color_capital: Box Cubby Short
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cubby Short
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBBY_SHORT
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '156'
+description_main_capital: '156'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '156'
+description_main_length_4: '156'
+description_main_length_5: '156'
+description_main_length_6: '156'
+description_main_name: '156'
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: '156'
+description_main_no_space_length_4: '156'
+description_main_no_space_length_5: '156'
+description_main_no_space_length_6: '156'
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: '156'
+description_main_no_space_upper_length_4: '156'
+description_main_no_space_upper_length_5: '156'
+description_main_no_space_upper_length_6: '156'
+description_main_upper: '156'
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '156'
+description_main_upper_length_4: '156'
+description_main_upper_length_5: '156'
+description_main_upper_length_6: '156'
+description_only_numbers: '156'
+description_only_numbers_short: '156'
+description_or_color: B156
+description_or_color_upper: B156
+directory: parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+id: warehouse_storage_container_oomlout_owner_box_cubby_short_156
+id_no_class: storage_container_oomlout_owner_box_cubby_short_156
+id_no_color: '156'
+id_no_size: box_cubby_short_156
+id_no_type: oomlout_owner_box_cubby_short_156
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204oxz0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204oxz0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204oxz0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204oxz0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_156
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cubby_short_156](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cubby Short 156](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cubby_short_156](none)<br><br>'
+md5: 7845fc5f21b245cfac825a0aa6a006ef
+md5_10: 7845fc5f21
+md5_10_upper: 7845FC5F21
+md5_5: 7845f
+md5_5_upper: 7845F
+md5_6: 7845fc
+md5_6_alpha: 4oxz0
+md5_6_alpha_upper: 4OXZ0
+md5_6_upper: 7845FC
+name: Warehouse Storage Container Oomlout Owner Box Cubby Short 156
+name_no_class: Storage Container Oomlout Owner Box Cubby Short 156
+name_no_color: '156'
+name_no_size: Box Cubby Short 156
+name_no_size_short: Box Cubby Short 156
+name_no_type: Oomlout Owner Box Cubby Short 156
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cubby_short
+oomlout_detail_hierarchy_4_upper: BOX_CUBBY_SHORT
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '156'
+oomlout_detail_hierarchy_5_upper: '156'
+oomlout_detail_hierarchy_5_upper_length_4: '156'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cubby_short_156
+oomp_word: bell snake up
+oomp_word_emoji: ':bell: :snake: :up:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':snake:'
+- ':up:'
+oomp_word_list:
+- bell
+- snake
+- up
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

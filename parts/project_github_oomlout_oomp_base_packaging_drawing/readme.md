@@ -1,0 +1,118 @@
+# Project Github Oomlout Oomp Base Packaging Drawing  
+
+note: This is part of OOMP the Oopen Organization Method For Parts. For more details: https://github.com/oomlout/oomp_base
+
+##  part details
+  
+
+
+
+
+
+
+
+### name
+* name: Project Github Oomlout Oomp Base Packaging Drawing
+* name_short: 
+### id
+* oomp_id: project_github_oomlout_oomp_base_packaging_drawing
+  * classification: project
+  * type: github
+  * size: oomlout
+  * color: oomp_base_packaging_drawing
+  * description_main: 
+  * description_extra: 
+  * manufacturer: 
+  * part_number: 
+  * bip 39 word 2: later absurd
+  * bip 39 word 3: later absurd marriage
+  * bip 39 word: later absurd marriage awful gallery stadium alley save quick bean equip appear
+
+### other_codes
+* short_code: 
+* oomp_word: shoe tennis panda_face
+* oomp_word_emoji :shoe: :tennis: :panda_face:
+* md5_6_alpha: 6kthg
+* md5_6: a89844
+
+
+
+
+
+
+### oomlout_oomp_utility_custom_data_manipulation
+#### label print
+[3x2](http://192.168.1.245:1112/?label=oomp%206kthg)
+[3x2_oomp_table](http://192.168.1.108:1112/?label=oomp%206kthg)
+[2x1](http://192.168.1.242:1112/?label=oomp%206kthg)
+[6x4](http://192.168.1.55:1112/?label=oomp%206kthg)    
+
+#### link
+
+[link_main](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing) [link_github](https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing)                             
+
+#### price
+
+
+
+
+
+
+
+### all codes 
+| key | value |  
+| --- | --- |  
+| classification | project |  
+| classification_name | Project |  
+| color | oomp_base_packaging_drawing |  
+| color_name | Oomp Base Packaging Drawing |  
+| description_extra |  |  
+| description_extra_name |  |  
+| description_main |  |  
+| description_main_name |  |  
+| description_or_color | O  |  
+| directory | parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| distributors | [] |  
+| filter |  |  
+| from_yaml | False |  
+| github_link | https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| id | project_github_oomlout_oomp_base_packaging_drawing |  
+| link_1 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| link_1_name | link_main |  
+| link_2 | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| link_2_name | link_github |  
+| link_github | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| link_main | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| link_oomlout_label_2x1 | http://192.168.1.242:1112/?label=oomp%206kthg |  
+| link_oomlout_label_3x2 | http://192.168.1.245:1112/?label=oomp%206kthg |  
+| link_oomlout_label_3x2_oomp_table | http://192.168.1.108:1112/?label=oomp%206kthg |  
+| link_oomlout_label_6x4 | http://192.168.1.55:1112/?label=oomp%206kthg |  
+| link_redirect | https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomp_base_packaging_drawing |  
+| manufacturer |  |  
+| manufacturer_name |  |  
+| manufacturers | [] |  
+| markdown_full | [project_github_oomlout_oomp_base_packaging_drawing](none)<br>[](none)<br>[Project Github Oomlout Oomp Base Packaging Drawing](none)<br><br> |  
+| markdown_short | [project_github_oomlout_oomp_base_packaging_drawing](none)<br><br> |  
+| md5 | a89844e57dbfc0d34faf810b108043ea |  
+| md5_10 | a89844e57d |  
+| md5_5 | a8984 |  
+| md5_6 | a89844 |  
+| md5_6_alpha | 6kthg |  
+| name | Project Github Oomlout Oomp Base Packaging Drawing |  
+| oomlout_detail_hierarchy_1 | project |  
+| oomlout_detail_hierarchy_2 | github |  
+| oomlout_detail_hierarchy_3 | oomlout |  
+| oomlout_detail_hierarchy_4 | oomp_base_packaging_drawing |  
+| oomlout_oomp_utility_custom_data_manipulation | True |  
+| oomp_key | oomp_project_github_oomlout_oomp_base_packaging_drawing |  
+| oomp_word | shoe tennis panda_face |  
+| oomp_word_emoji | :shoe: :tennis: :panda_face: |  
+| oomp_word_emoji_list | [':shoe:', ':tennis:', ':panda_face:'] |  
+| oomp_word_list | ['shoe', 'tennis', 'panda_face'] |  
+| part_number |  |  
+| part_number_name |  |  
+| short_code |  |  
+| size | oomlout |  
+| size_name | Oomlout |  
+| type | github |  
+| type_name | Github |  

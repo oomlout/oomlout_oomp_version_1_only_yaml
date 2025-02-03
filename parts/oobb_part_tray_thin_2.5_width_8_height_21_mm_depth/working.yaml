@@ -1,0 +1,439 @@
+bip_39_word_dash_1: cushion
+bip_39_word_dash_10: cushion-bounce-observe-slam-drink-naive-type-panther-feature-initial
+bip_39_word_dash_11: cushion-bounce-observe-slam-drink-naive-type-panther-feature-initial-cactus
+bip_39_word_dash_12: cushion-bounce-observe-slam-drink-naive-type-panther-feature-initial-cactus-adapt
+bip_39_word_dash_2: cushion-bounce
+bip_39_word_dash_3: cushion-bounce-observe
+bip_39_word_dash_4: cushion-bounce-observe-slam
+bip_39_word_dash_5: cushion-bounce-observe-slam-drink
+bip_39_word_dash_6: cushion-bounce-observe-slam-drink-naive
+bip_39_word_dash_7: cushion-bounce-observe-slam-drink-naive-type
+bip_39_word_dash_8: cushion-bounce-observe-slam-drink-naive-type-panther
+bip_39_word_dash_9: cushion-bounce-observe-slam-drink-naive-type-panther-feature
+bip_39_word_new_br_1: cushion
+bip_39_word_new_br_10: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive<br>type<br>panther<br>feature<br>initial
+bip_39_word_new_br_11: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive<br>type<br>panther<br>feature<br>initial<br>cactus
+bip_39_word_new_br_12: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive<br>type<br>panther<br>feature<br>initial<br>cactus<br>adapt
+bip_39_word_new_br_2: cushion<br>bounce
+bip_39_word_new_br_3: cushion<br>bounce<br>observe
+bip_39_word_new_br_4: cushion<br>bounce<br>observe<br>slam
+bip_39_word_new_br_5: cushion<br>bounce<br>observe<br>slam<br>drink
+bip_39_word_new_br_6: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive
+bip_39_word_new_br_7: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive<br>type
+bip_39_word_new_br_8: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive<br>type<br>panther
+bip_39_word_new_br_9: cushion<br>bounce<br>observe<br>slam<br>drink<br>naive<br>type<br>panther<br>feature
+bip_39_word_new_line_1: cushion
+bip_39_word_new_line_10: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive
+
+  type
+
+  panther
+
+  feature
+
+  initial'
+bip_39_word_new_line_11: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive
+
+  type
+
+  panther
+
+  feature
+
+  initial
+
+  cactus'
+bip_39_word_new_line_12: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive
+
+  type
+
+  panther
+
+  feature
+
+  initial
+
+  cactus
+
+  adapt'
+bip_39_word_new_line_2: 'cushion
+
+  bounce'
+bip_39_word_new_line_3: 'cushion
+
+  bounce
+
+  observe'
+bip_39_word_new_line_4: 'cushion
+
+  bounce
+
+  observe
+
+  slam'
+bip_39_word_new_line_5: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink'
+bip_39_word_new_line_6: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive'
+bip_39_word_new_line_7: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive
+
+  type'
+bip_39_word_new_line_8: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive
+
+  type
+
+  panther'
+bip_39_word_new_line_9: 'cushion
+
+  bounce
+
+  observe
+
+  slam
+
+  drink
+
+  naive
+
+  type
+
+  panther
+
+  feature'
+bip_39_word_no_space_1: cushion
+bip_39_word_no_space_10: cushionbounceobserveslamdrinknaivetypepantherfeatureinitial
+bip_39_word_no_space_11: cushionbounceobserveslamdrinknaivetypepantherfeatureinitialcactus
+bip_39_word_no_space_12: cushionbounceobserveslamdrinknaivetypepantherfeatureinitialcactusadapt
+bip_39_word_no_space_2: cushionbounce
+bip_39_word_no_space_3: cushionbounceobserve
+bip_39_word_no_space_4: cushionbounceobserveslam
+bip_39_word_no_space_5: cushionbounceobserveslamdrink
+bip_39_word_no_space_6: cushionbounceobserveslamdrinknaive
+bip_39_word_no_space_7: cushionbounceobserveslamdrinknaivetype
+bip_39_word_no_space_8: cushionbounceobserveslamdrinknaivetypepanther
+bip_39_word_no_space_9: cushionbounceobserveslamdrinknaivetypepantherfeature
+bip_39_word_space_0:
+- cushion
+- bounce
+- observe
+- slam
+- drink
+- naive
+- type
+- panther
+- feature
+- initial
+- cactus
+- adapt
+bip_39_word_space_1: cushion
+bip_39_word_space_10: cushion bounce observe slam drink naive type panther feature
+  initial
+bip_39_word_space_11: cushion bounce observe slam drink naive type panther feature
+  initial cactus
+bip_39_word_space_12: cushion bounce observe slam drink naive type panther feature
+  initial cactus adapt
+bip_39_word_space_2: cushion bounce
+bip_39_word_space_3: cushion bounce observe
+bip_39_word_space_4: cushion bounce observe slam
+bip_39_word_space_5: cushion bounce observe slam drink
+bip_39_word_space_6: cushion bounce observe slam drink naive
+bip_39_word_space_7: cushion bounce observe slam drink naive type
+bip_39_word_space_8: cushion bounce observe slam drink naive type panther
+bip_39_word_space_9: cushion bounce observe slam drink naive type panther feature
+bip_39_word_underscore_1: cushion
+bip_39_word_underscore_10: cushion_bounce_observe_slam_drink_naive_type_panther_feature_initial
+bip_39_word_underscore_11: cushion_bounce_observe_slam_drink_naive_type_panther_feature_initial_cactus
+bip_39_word_underscore_12: cushion_bounce_observe_slam_drink_naive_type_panther_feature_initial_cactus_adapt
+bip_39_word_underscore_2: cushion_bounce
+bip_39_word_underscore_3: cushion_bounce_observe
+bip_39_word_underscore_4: cushion_bounce_observe_slam
+bip_39_word_underscore_5: cushion_bounce_observe_slam_drink
+bip_39_word_underscore_6: cushion_bounce_observe_slam_drink_naive
+bip_39_word_underscore_7: cushion_bounce_observe_slam_drink_naive_type
+bip_39_word_underscore_8: cushion_bounce_observe_slam_drink_naive_type_panther
+bip_39_word_underscore_9: cushion_bounce_observe_slam_drink_naive_type_panther_feature
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 2.5_width_8_height_21_mm_depth
+description_main_capital: 2.5 Width 8 Height 21 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '2.'
+description_main_length_3: '2.5'
+description_main_length_4: '2.5_'
+description_main_length_5: 2.5_w
+description_main_length_6: 2.5_wi
+description_main_name: 2.5 Width 8 Height 21 mm Depth
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '2.'
+description_main_no_space_length_3: '2.5'
+description_main_no_space_length_4: 2.5w
+description_main_no_space_length_5: 2.5wi
+description_main_no_space_length_6: 2.5wid
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '2.'
+description_main_no_space_upper_length_3: '2.5'
+description_main_no_space_upper_length_4: 2.5W
+description_main_no_space_upper_length_5: 2.5WI
+description_main_no_space_upper_length_6: 2.5WID
+description_main_upper: 2.5_WIDTH_8_HEIGHT_21_MM_DEPTH
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '2.'
+description_main_upper_length_3: '2.5'
+description_main_upper_length_4: '2.5_'
+description_main_upper_length_5: 2.5_W
+description_main_upper_length_6: 2.5_WI
+description_only_numbers: '25821'
+description_only_numbers_short: 26k
+description_or_color: 26k
+description_or_color_upper: 26K
+directory: parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+id: oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+id_no_class: part_tray_thin_2.5_width_8_height_21_mm_depth
+id_no_color: 2.5width8height21mmdepth
+id_no_size: 2.5_width_8_height_21_mm_depth
+id_no_type: tray_thin_2.5_width_8_height_21_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201vrx8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201vrx8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201vrx8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201vrx8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_2.5_width_8_height_21_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray Thin 2.5 Width 8 Height 21 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_2.5_width_8_height_21_mm_depth](none)<br><br>'
+md5: 30401cfaa19fdd7a4aa18cb130c699b3
+md5_10: 30401cfaa1
+md5_10_upper: 30401CFAA1
+md5_5: '30401'
+md5_5_upper: '30401'
+md5_6: 30401c
+md5_6_alpha: 1vrx8
+md5_6_alpha_upper: 1VRX8
+md5_6_upper: 30401C
+name: Oobb Part Tray Thin 2.5 Width 8 Height 21 mm Depth
+name_no_class: Part Tray Thin 2.5 Width 8 Height 21 mm Depth
+name_no_color: 2.5Width8Height21mmdepth
+name_no_size: 2.5 Width 8 Height 21 mm Depth
+name_no_size_short: 2.5 Width 8 Height 21 Mm Depth
+name_no_type: Tray Thin 2.5 Width 8 Height 21 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 21_mm_depth
+oomlout_detail_hierarchy_4_upper: 21_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 21DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_2.5_width_8_height_21_mm_depth
+oomp_word: foggy racehorse dancer
+oomp_word_emoji: ':foggy: :racehorse: :dancer:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':racehorse:'
+- ':dancer:'
+oomp_word_list:
+- foggy
+- racehorse
+- dancer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

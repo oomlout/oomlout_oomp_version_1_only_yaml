@@ -1,0 +1,478 @@
+bip_39_word_dash_1: relax
+bip_39_word_dash_10: relax-maze-dinosaur-sure-cry-calm-course-give-round-horse
+bip_39_word_dash_11: relax-maze-dinosaur-sure-cry-calm-course-give-round-horse-friend
+bip_39_word_dash_12: relax-maze-dinosaur-sure-cry-calm-course-give-round-horse-friend-among
+bip_39_word_dash_2: relax-maze
+bip_39_word_dash_3: relax-maze-dinosaur
+bip_39_word_dash_4: relax-maze-dinosaur-sure
+bip_39_word_dash_5: relax-maze-dinosaur-sure-cry
+bip_39_word_dash_6: relax-maze-dinosaur-sure-cry-calm
+bip_39_word_dash_7: relax-maze-dinosaur-sure-cry-calm-course
+bip_39_word_dash_8: relax-maze-dinosaur-sure-cry-calm-course-give
+bip_39_word_dash_9: relax-maze-dinosaur-sure-cry-calm-course-give-round
+bip_39_word_new_br_1: relax
+bip_39_word_new_br_10: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round<br>horse
+bip_39_word_new_br_11: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round<br>horse<br>friend
+bip_39_word_new_br_12: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round<br>horse<br>friend<br>among
+bip_39_word_new_br_2: relax<br>maze
+bip_39_word_new_br_3: relax<br>maze<br>dinosaur
+bip_39_word_new_br_4: relax<br>maze<br>dinosaur<br>sure
+bip_39_word_new_br_5: relax<br>maze<br>dinosaur<br>sure<br>cry
+bip_39_word_new_br_6: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm
+bip_39_word_new_br_7: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course
+bip_39_word_new_br_8: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give
+bip_39_word_new_br_9: relax<br>maze<br>dinosaur<br>sure<br>cry<br>calm<br>course<br>give<br>round
+bip_39_word_new_line_1: relax
+bip_39_word_new_line_10: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm
+
+  course
+
+  give
+
+  round
+
+  horse'
+bip_39_word_new_line_11: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm
+
+  course
+
+  give
+
+  round
+
+  horse
+
+  friend'
+bip_39_word_new_line_12: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm
+
+  course
+
+  give
+
+  round
+
+  horse
+
+  friend
+
+  among'
+bip_39_word_new_line_2: 'relax
+
+  maze'
+bip_39_word_new_line_3: 'relax
+
+  maze
+
+  dinosaur'
+bip_39_word_new_line_4: 'relax
+
+  maze
+
+  dinosaur
+
+  sure'
+bip_39_word_new_line_5: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry'
+bip_39_word_new_line_6: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm'
+bip_39_word_new_line_7: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm
+
+  course'
+bip_39_word_new_line_8: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm
+
+  course
+
+  give'
+bip_39_word_new_line_9: 'relax
+
+  maze
+
+  dinosaur
+
+  sure
+
+  cry
+
+  calm
+
+  course
+
+  give
+
+  round'
+bip_39_word_no_space_1: relax
+bip_39_word_no_space_10: relaxmazedinosaursurecrycalmcoursegiveroundhorse
+bip_39_word_no_space_11: relaxmazedinosaursurecrycalmcoursegiveroundhorsefriend
+bip_39_word_no_space_12: relaxmazedinosaursurecrycalmcoursegiveroundhorsefriendamong
+bip_39_word_no_space_2: relaxmaze
+bip_39_word_no_space_3: relaxmazedinosaur
+bip_39_word_no_space_4: relaxmazedinosaursure
+bip_39_word_no_space_5: relaxmazedinosaursurecry
+bip_39_word_no_space_6: relaxmazedinosaursurecrycalm
+bip_39_word_no_space_7: relaxmazedinosaursurecrycalmcourse
+bip_39_word_no_space_8: relaxmazedinosaursurecrycalmcoursegive
+bip_39_word_no_space_9: relaxmazedinosaursurecrycalmcoursegiveround
+bip_39_word_space_0:
+- relax
+- maze
+- dinosaur
+- sure
+- cry
+- calm
+- course
+- give
+- round
+- horse
+- friend
+- among
+bip_39_word_space_1: relax
+bip_39_word_space_10: relax maze dinosaur sure cry calm course give round horse
+bip_39_word_space_11: relax maze dinosaur sure cry calm course give round horse friend
+bip_39_word_space_12: relax maze dinosaur sure cry calm course give round horse friend
+  among
+bip_39_word_space_2: relax maze
+bip_39_word_space_3: relax maze dinosaur
+bip_39_word_space_4: relax maze dinosaur sure
+bip_39_word_space_5: relax maze dinosaur sure cry
+bip_39_word_space_6: relax maze dinosaur sure cry calm
+bip_39_word_space_7: relax maze dinosaur sure cry calm course
+bip_39_word_space_8: relax maze dinosaur sure cry calm course give
+bip_39_word_space_9: relax maze dinosaur sure cry calm course give round
+bip_39_word_underscore_1: relax
+bip_39_word_underscore_10: relax_maze_dinosaur_sure_cry_calm_course_give_round_horse
+bip_39_word_underscore_11: relax_maze_dinosaur_sure_cry_calm_course_give_round_horse_friend
+bip_39_word_underscore_12: relax_maze_dinosaur_sure_cry_calm_course_give_round_horse_friend_among
+bip_39_word_underscore_2: relax_maze
+bip_39_word_underscore_3: relax_maze_dinosaur
+bip_39_word_underscore_4: relax_maze_dinosaur_sure
+bip_39_word_underscore_5: relax_maze_dinosaur_sure_cry
+bip_39_word_underscore_6: relax_maze_dinosaur_sure_cry_calm
+bip_39_word_underscore_7: relax_maze_dinosaur_sure_cry_calm_course
+bip_39_word_underscore_8: relax_maze_dinosaur_sure_cry_calm_course_give
+bip_39_word_underscore_9: relax_maze_dinosaur_sure_cry_calm_course_give_round
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
+classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 39_mm_width_33_mm_height_bracket_m4_mounting_hole
+description_extra_capital: 39 mm Width 33 mm Height Bracket M4 Mounting Hole
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_length_1: '3'
+description_extra_length_2: '39'
+description_extra_length_3: '39_'
+description_extra_length_4: 39_m
+description_extra_length_5: 39_mm
+description_extra_length_6: 39_mm_
+description_extra_name: 39 mm Width 33 mm Height Bracket M4 Mounting Hole
+description_extra_no_space_length_1: '3'
+description_extra_no_space_length_2: '39'
+description_extra_no_space_length_3: 39m
+description_extra_no_space_length_4: 39mm
+description_extra_no_space_length_5: 39mmw
+description_extra_no_space_length_6: 39mmwi
+description_extra_no_space_upper_length_1: '3'
+description_extra_no_space_upper_length_2: '39'
+description_extra_no_space_upper_length_3: 39M
+description_extra_no_space_upper_length_4: 39MM
+description_extra_no_space_upper_length_5: 39MMW
+description_extra_no_space_upper_length_6: 39MMWI
+description_extra_upper: 39_MM_WIDTH_33_MM_HEIGHT_BRACKET_M4_MOUNTING_HOLE
+description_extra_upper_length_1: '3'
+description_extra_upper_length_2: '39'
+description_extra_upper_length_3: '39_'
+description_extra_upper_length_4: 39_M
+description_extra_upper_length_5: 39_MM
+description_extra_upper_length_6: 39_MM_
+description_main: 25_mm_diameter_brown_plastic_wheel
+description_main_capital: 25 mm Diameter Brown Plastic Wheel
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '25'
+description_main_length_3: '25_'
+description_main_length_4: 25_m
+description_main_length_5: 25_mm
+description_main_length_6: 25_mm_
+description_main_name: 25 mm Diameter Brown Plastic Wheel
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '25'
+description_main_no_space_length_3: 25m
+description_main_no_space_length_4: 25mm
+description_main_no_space_length_5: 25mmd
+description_main_no_space_length_6: 25mmdi
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '25'
+description_main_no_space_upper_length_3: 25M
+description_main_no_space_upper_length_4: 25MM
+description_main_no_space_upper_length_5: 25MMD
+description_main_no_space_upper_length_6: 25MMDI
+description_main_upper: 25_MM_DIAMETER_BROWN_PLASTIC_WHEEL
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '25'
+description_main_upper_length_3: '25_'
+description_main_upper_length_4: 25_M
+description_main_upper_length_5: 25_MM
+description_main_upper_length_6: 25_MM_
+description_only_numbers: '25'
+description_only_numbers_short: '25'
+description_or_color: '25'
+description_or_color_upper: '25'
+directory: parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+id: mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+id_no_class: wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+id_no_color: 25mmdiameterbrownplastic39mmwidth33mmheightbracketm4mountinghole
+id_no_size: 25_mm_diameter_brown_plastic_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+id_no_type: caster_25_mm_diameter_brown_plastic_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+link_2_name: link_github
+link_buy: https://www.amazon.com/dp/B0B83T6G8P
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204y09n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204y09n
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204y09n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204y09n
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole](none)<br>[](none)<br>[Mechanical
+  Wheel Caster 25 Mm Diameter Brown Plastic Wheel 39 Mm Width 33 Mm Height Bracket
+  M4 Mounting Hole](none)<br><br>'
+markdown_short: '[mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole](none)<br><br>'
+md5: 7eb9db75e3626628821a9da07ce265a8
+md5_10: 7eb9db75e3
+md5_10_upper: 7EB9DB75E3
+md5_5: 7eb9d
+md5_5_upper: 7EB9D
+md5_6: 7eb9db
+md5_6_alpha: 4y09n
+md5_6_alpha_upper: 4Y09N
+md5_6_upper: 7EB9DB
+name: Mechanical Wheel Caster 25 mm Diameter Brown Plastic Wheel 39 mm Width 33 mm
+  Height Bracket M4 Mounting Hole
+name_no_class: Wheel Caster 25 mm Diameter Brown Plastic Wheel 39 mm Width 33 mm Height
+  Bracket M4 Mounting Hole
+name_no_color: 25mmdiameterbrownplastic39mmwidth33mmheightbracketm4Mountinghole
+name_no_size: 25 mm Diameter Brown Plastic 39 mm Width 33 mm Height Bracket M4 Mounting
+  Hole
+name_no_size_short: 25 Mm Diameter Brown Plastic 39 Mm Width 33 Mm Height Bracket
+  M4 Mounting Hole
+name_no_type: Caster 25 mm Diameter Brown Plastic 39 mm Width 33 mm Height Bracket
+  M4 Mounting Hole
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: wheel
+oomlout_detail_hierarchy_2_upper: WHEEL
+oomlout_detail_hierarchy_2_upper_length_4: WHEE
+oomlout_detail_hierarchy_3: caster
+oomlout_detail_hierarchy_3_upper: CASTER
+oomlout_detail_hierarchy_3_upper_length_4: CAST
+oomlout_detail_hierarchy_4: 25_mm_diameter_brown
+oomlout_detail_hierarchy_4_upper: 25_MM_DIAMETER_BROWN
+oomlout_detail_hierarchy_4_upper_length_4: 25DI
+oomlout_detail_hierarchy_5: plastic_wheel
+oomlout_detail_hierarchy_5_upper: PLASTIC_WHEEL
+oomlout_detail_hierarchy_5_upper_length_4: PLAS
+oomlout_detail_hierarchy_6: 39_mm_width
+oomlout_detail_hierarchy_6_upper: 39_MM_WIDTH
+oomlout_detail_hierarchy_6_upper_length_4: 39WI
+oomlout_detail_hierarchy_7: 33_mm_height
+oomlout_detail_hierarchy_7_upper: 33_MM_HEIGHT
+oomlout_detail_hierarchy_7_upper_length_4: 33HE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_mechanical_wheel_caster_25_mm_diameter_brown_plastic_wheel_39_mm_width_33_mm_height_bracket_m4_mounting_hole
+oomp_word: fax fries tent
+oomp_word_emoji: ':fax: :fries: :tent:'
+oomp_word_emoji_list:
+- ':fax:'
+- ':fries:'
+- ':tent:'
+oomp_word_list:
+- fax
+- fries
+- tent
+part_number: ''
+part_number_capital: ''
+part_number_distributor_amazon: B0B83T6G8P
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Caster Wheel 25mm Black
+size: caster
+size_capital: Caster
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: ca
+size_length_3: cas
+size_length_4: cast
+size_length_5: caste
+size_length_6: caster
+size_name: Caster
+size_no_space_length_1: c
+size_no_space_length_2: ca
+size_no_space_length_3: cas
+size_no_space_length_4: cast
+size_no_space_length_5: caste
+size_no_space_length_6: caster
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CA
+size_no_space_upper_length_3: CAS
+size_no_space_upper_length_4: CAST
+size_no_space_upper_length_5: CASTE
+size_no_space_upper_length_6: CASTER
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CASTER
+size_upper_length_1: C
+size_upper_length_2: CA
+size_upper_length_3: CAS
+size_upper_length_4: CAST
+size_upper_length_5: CASTE
+size_upper_length_6: CASTER
+type: wheel
+type_capital: Wheel
+type_first_letter: w
+type_first_letter_upper: W
+type_length_1: w
+type_length_2: wh
+type_length_3: whe
+type_length_4: whee
+type_length_5: wheel
+type_length_6: wheel
+type_name: Wheel
+type_no_space_length_1: w
+type_no_space_length_2: wh
+type_no_space_length_3: whe
+type_no_space_length_4: whee
+type_no_space_length_5: wheel
+type_no_space_length_6: wheel
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WH
+type_no_space_upper_length_3: WHE
+type_no_space_upper_length_4: WHEE
+type_no_space_upper_length_5: WHEEL
+type_no_space_upper_length_6: WHEEL
+type_upper: WHEEL
+type_upper_length_1: W
+type_upper_length_2: WH
+type_upper_length_3: WHE
+type_upper_length_4: WHEE
+type_upper_length_5: WHEEL
+type_upper_length_6: WHEEL

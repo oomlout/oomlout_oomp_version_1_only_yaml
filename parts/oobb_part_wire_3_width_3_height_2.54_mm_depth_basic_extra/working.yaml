@@ -1,0 +1,466 @@
+bip_39_word_dash_1: sight
+bip_39_word_dash_10: sight-whale-road-lizard-position-appear-leopard-uncover-color-bitter
+bip_39_word_dash_11: sight-whale-road-lizard-position-appear-leopard-uncover-color-bitter-rack
+bip_39_word_dash_12: sight-whale-road-lizard-position-appear-leopard-uncover-color-bitter-rack-animal
+bip_39_word_dash_2: sight-whale
+bip_39_word_dash_3: sight-whale-road
+bip_39_word_dash_4: sight-whale-road-lizard
+bip_39_word_dash_5: sight-whale-road-lizard-position
+bip_39_word_dash_6: sight-whale-road-lizard-position-appear
+bip_39_word_dash_7: sight-whale-road-lizard-position-appear-leopard
+bip_39_word_dash_8: sight-whale-road-lizard-position-appear-leopard-uncover
+bip_39_word_dash_9: sight-whale-road-lizard-position-appear-leopard-uncover-color
+bip_39_word_new_br_1: sight
+bip_39_word_new_br_10: sight<br>whale<br>road<br>lizard<br>position<br>appear<br>leopard<br>uncover<br>color<br>bitter
+bip_39_word_new_br_11: sight<br>whale<br>road<br>lizard<br>position<br>appear<br>leopard<br>uncover<br>color<br>bitter<br>rack
+bip_39_word_new_br_12: sight<br>whale<br>road<br>lizard<br>position<br>appear<br>leopard<br>uncover<br>color<br>bitter<br>rack<br>animal
+bip_39_word_new_br_2: sight<br>whale
+bip_39_word_new_br_3: sight<br>whale<br>road
+bip_39_word_new_br_4: sight<br>whale<br>road<br>lizard
+bip_39_word_new_br_5: sight<br>whale<br>road<br>lizard<br>position
+bip_39_word_new_br_6: sight<br>whale<br>road<br>lizard<br>position<br>appear
+bip_39_word_new_br_7: sight<br>whale<br>road<br>lizard<br>position<br>appear<br>leopard
+bip_39_word_new_br_8: sight<br>whale<br>road<br>lizard<br>position<br>appear<br>leopard<br>uncover
+bip_39_word_new_br_9: sight<br>whale<br>road<br>lizard<br>position<br>appear<br>leopard<br>uncover<br>color
+bip_39_word_new_line_1: sight
+bip_39_word_new_line_10: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear
+
+  leopard
+
+  uncover
+
+  color
+
+  bitter'
+bip_39_word_new_line_11: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear
+
+  leopard
+
+  uncover
+
+  color
+
+  bitter
+
+  rack'
+bip_39_word_new_line_12: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear
+
+  leopard
+
+  uncover
+
+  color
+
+  bitter
+
+  rack
+
+  animal'
+bip_39_word_new_line_2: 'sight
+
+  whale'
+bip_39_word_new_line_3: 'sight
+
+  whale
+
+  road'
+bip_39_word_new_line_4: 'sight
+
+  whale
+
+  road
+
+  lizard'
+bip_39_word_new_line_5: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position'
+bip_39_word_new_line_6: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear'
+bip_39_word_new_line_7: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear
+
+  leopard'
+bip_39_word_new_line_8: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear
+
+  leopard
+
+  uncover'
+bip_39_word_new_line_9: 'sight
+
+  whale
+
+  road
+
+  lizard
+
+  position
+
+  appear
+
+  leopard
+
+  uncover
+
+  color'
+bip_39_word_no_space_1: sight
+bip_39_word_no_space_10: sightwhaleroadlizardpositionappearleoparduncovercolorbitter
+bip_39_word_no_space_11: sightwhaleroadlizardpositionappearleoparduncovercolorbitterrack
+bip_39_word_no_space_12: sightwhaleroadlizardpositionappearleoparduncovercolorbitterrackanimal
+bip_39_word_no_space_2: sightwhale
+bip_39_word_no_space_3: sightwhaleroad
+bip_39_word_no_space_4: sightwhaleroadlizard
+bip_39_word_no_space_5: sightwhaleroadlizardposition
+bip_39_word_no_space_6: sightwhaleroadlizardpositionappear
+bip_39_word_no_space_7: sightwhaleroadlizardpositionappearleopard
+bip_39_word_no_space_8: sightwhaleroadlizardpositionappearleoparduncover
+bip_39_word_no_space_9: sightwhaleroadlizardpositionappearleoparduncovercolor
+bip_39_word_space_0:
+- sight
+- whale
+- road
+- lizard
+- position
+- appear
+- leopard
+- uncover
+- color
+- bitter
+- rack
+- animal
+bip_39_word_space_1: sight
+bip_39_word_space_10: sight whale road lizard position appear leopard uncover color
+  bitter
+bip_39_word_space_11: sight whale road lizard position appear leopard uncover color
+  bitter rack
+bip_39_word_space_12: sight whale road lizard position appear leopard uncover color
+  bitter rack animal
+bip_39_word_space_2: sight whale
+bip_39_word_space_3: sight whale road
+bip_39_word_space_4: sight whale road lizard
+bip_39_word_space_5: sight whale road lizard position
+bip_39_word_space_6: sight whale road lizard position appear
+bip_39_word_space_7: sight whale road lizard position appear leopard
+bip_39_word_space_8: sight whale road lizard position appear leopard uncover
+bip_39_word_space_9: sight whale road lizard position appear leopard uncover color
+bip_39_word_underscore_1: sight
+bip_39_word_underscore_10: sight_whale_road_lizard_position_appear_leopard_uncover_color_bitter
+bip_39_word_underscore_11: sight_whale_road_lizard_position_appear_leopard_uncover_color_bitter_rack
+bip_39_word_underscore_12: sight_whale_road_lizard_position_appear_leopard_uncover_color_bitter_rack_animal
+bip_39_word_underscore_2: sight_whale
+bip_39_word_underscore_3: sight_whale_road
+bip_39_word_underscore_4: sight_whale_road_lizard
+bip_39_word_underscore_5: sight_whale_road_lizard_position
+bip_39_word_underscore_6: sight_whale_road_lizard_position_appear
+bip_39_word_underscore_7: sight_whale_road_lizard_position_appear_leopard
+bip_39_word_underscore_8: sight_whale_road_lizard_position_appear_leopard_uncover
+bip_39_word_underscore_9: sight_whale_road_lizard_position_appear_leopard_uncover_color
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: basic_extra
+description_extra_capital: Basic Extra
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_length_1: b
+description_extra_length_2: ba
+description_extra_length_3: bas
+description_extra_length_4: basi
+description_extra_length_5: basic
+description_extra_length_6: basic_
+description_extra_name: Basic Extra
+description_extra_no_space_length_1: b
+description_extra_no_space_length_2: ba
+description_extra_no_space_length_3: bas
+description_extra_no_space_length_4: basi
+description_extra_no_space_length_5: basic
+description_extra_no_space_length_6: basice
+description_extra_no_space_upper_length_1: B
+description_extra_no_space_upper_length_2: BA
+description_extra_no_space_upper_length_3: BAS
+description_extra_no_space_upper_length_4: BASI
+description_extra_no_space_upper_length_5: BASIC
+description_extra_no_space_upper_length_6: BASICE
+description_extra_upper: BASIC_EXTRA
+description_extra_upper_length_1: B
+description_extra_upper_length_2: BA
+description_extra_upper_length_3: BAS
+description_extra_upper_length_4: BASI
+description_extra_upper_length_5: BASIC
+description_extra_upper_length_6: BASIC_
+description_main: 3_width_3_height_2.54_mm_depth
+description_main_capital: 3 Width 3 Height 2.54 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '3_'
+description_main_length_3: 3_w
+description_main_length_4: 3_wi
+description_main_length_5: 3_wid
+description_main_length_6: 3_widt
+description_main_name: 3 Width 3 Height 2.54 mm Depth
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: 3w
+description_main_no_space_length_3: 3wi
+description_main_no_space_length_4: 3wid
+description_main_no_space_length_5: 3widt
+description_main_no_space_length_6: 3width
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: 3W
+description_main_no_space_upper_length_3: 3WI
+description_main_no_space_upper_length_4: 3WID
+description_main_no_space_upper_length_5: 3WIDT
+description_main_no_space_upper_length_6: 3WIDTH
+description_main_upper: 3_WIDTH_3_HEIGHT_2.54_MM_DEPTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '3_'
+description_main_upper_length_3: 3_W
+description_main_upper_length_4: 3_WI
+description_main_upper_length_5: 3_WID
+description_main_upper_length_6: 3_WIDT
+description_only_numbers: '33254'
+description_only_numbers_short: 33k
+description_or_color: 33k
+description_or_color_upper: 33K
+directory: parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+id: oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+id_no_class: part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+id_no_color: 3width3height2.54mmdepthbasicextra
+id_no_size: 3_width_3_height_2.54_mm_depth_basic_extra
+id_no_type: wire_3_width_3_height_2.54_mm_depth_basic_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205o7id
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205o7id
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205o7id
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205o7id
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra](none)<br>[](none)<br>[Oobb
+  Part Wire 3 Width 3 Height 2.54 Mm Depth Basic Extra](none)<br><br>'
+markdown_short: '[oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra](none)<br><br>'
+md5: 916105b16decb0082a54382d75fe6e41
+md5_10: 916105b16d
+md5_10_upper: 916105B16D
+md5_5: '91610'
+md5_5_upper: '91610'
+md5_6: '916105'
+md5_6_alpha: 5o7id
+md5_6_alpha_upper: 5O7ID
+md5_6_upper: '916105'
+name: Oobb Part Wire 3 Width 3 Height 2.54 mm Depth Basic Extra
+name_no_class: Part Wire 3 Width 3 Height 2.54 mm Depth Basic Extra
+name_no_color: 3Width3Height2.54mmdepthbasicextra
+name_no_size: 3 Width 3 Height 2.54 mm Depth Basic Extra
+name_no_size_short: 3 Width 3 Height 2.54 Mm Depth Basic Extra
+name_no_type: Wire 3 Width 3 Height 2.54 mm Depth Basic Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: wire
+oomlout_detail_hierarchy_3_upper: WIRE
+oomlout_detail_hierarchy_3_upper_length_4: WIRE
+oomlout_detail_hierarchy_4: 54_mm_depth
+oomlout_detail_hierarchy_4_upper: 54_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 54DE
+oomlout_detail_hierarchy_5: basic_extra
+oomlout_detail_hierarchy_5_upper: BASIC_EXTRA
+oomlout_detail_hierarchy_5_upper_length_4: BASI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_wire_3_width_3_height_2.54_mm_depth_basic_extra
+oomp_word: pushpin bouquet kissing
+oomp_word_emoji: ':pushpin: :bouquet: :kissing:'
+oomp_word_emoji_list:
+- ':pushpin:'
+- ':bouquet:'
+- ':kissing:'
+oomp_word_list:
+- pushpin
+- bouquet
+- kissing
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wire
+size_capital: Wire
+size_first_letter: w
+size_first_letter_upper: W
+size_length_1: w
+size_length_2: wi
+size_length_3: wir
+size_length_4: wire
+size_length_5: wire
+size_length_6: wire
+size_name: Wire
+size_no_space_length_1: w
+size_no_space_length_2: wi
+size_no_space_length_3: wir
+size_no_space_length_4: wire
+size_no_space_length_5: wire
+size_no_space_length_6: wire
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WI
+size_no_space_upper_length_3: WIR
+size_no_space_upper_length_4: WIRE
+size_no_space_upper_length_5: WIRE
+size_no_space_upper_length_6: WIRE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE
+size_upper_length_1: W
+size_upper_length_2: WI
+size_upper_length_3: WIR
+size_upper_length_4: WIRE
+size_upper_length_5: WIRE
+size_upper_length_6: WIRE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

@@ -1,0 +1,438 @@
+bip_39_word_dash_1: general
+bip_39_word_dash_10: general-kidney-awkward-next-ribbon-throw-sun-list-video-very
+bip_39_word_dash_11: general-kidney-awkward-next-ribbon-throw-sun-list-video-very-inflict
+bip_39_word_dash_12: general-kidney-awkward-next-ribbon-throw-sun-list-video-very-inflict-apple
+bip_39_word_dash_2: general-kidney
+bip_39_word_dash_3: general-kidney-awkward
+bip_39_word_dash_4: general-kidney-awkward-next
+bip_39_word_dash_5: general-kidney-awkward-next-ribbon
+bip_39_word_dash_6: general-kidney-awkward-next-ribbon-throw
+bip_39_word_dash_7: general-kidney-awkward-next-ribbon-throw-sun
+bip_39_word_dash_8: general-kidney-awkward-next-ribbon-throw-sun-list
+bip_39_word_dash_9: general-kidney-awkward-next-ribbon-throw-sun-list-video
+bip_39_word_new_br_1: general
+bip_39_word_new_br_10: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw<br>sun<br>list<br>video<br>very
+bip_39_word_new_br_11: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw<br>sun<br>list<br>video<br>very<br>inflict
+bip_39_word_new_br_12: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw<br>sun<br>list<br>video<br>very<br>inflict<br>apple
+bip_39_word_new_br_2: general<br>kidney
+bip_39_word_new_br_3: general<br>kidney<br>awkward
+bip_39_word_new_br_4: general<br>kidney<br>awkward<br>next
+bip_39_word_new_br_5: general<br>kidney<br>awkward<br>next<br>ribbon
+bip_39_word_new_br_6: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw
+bip_39_word_new_br_7: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw<br>sun
+bip_39_word_new_br_8: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw<br>sun<br>list
+bip_39_word_new_br_9: general<br>kidney<br>awkward<br>next<br>ribbon<br>throw<br>sun<br>list<br>video
+bip_39_word_new_line_1: general
+bip_39_word_new_line_10: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw
+
+  sun
+
+  list
+
+  video
+
+  very'
+bip_39_word_new_line_11: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw
+
+  sun
+
+  list
+
+  video
+
+  very
+
+  inflict'
+bip_39_word_new_line_12: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw
+
+  sun
+
+  list
+
+  video
+
+  very
+
+  inflict
+
+  apple'
+bip_39_word_new_line_2: 'general
+
+  kidney'
+bip_39_word_new_line_3: 'general
+
+  kidney
+
+  awkward'
+bip_39_word_new_line_4: 'general
+
+  kidney
+
+  awkward
+
+  next'
+bip_39_word_new_line_5: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon'
+bip_39_word_new_line_6: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw'
+bip_39_word_new_line_7: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw
+
+  sun'
+bip_39_word_new_line_8: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw
+
+  sun
+
+  list'
+bip_39_word_new_line_9: 'general
+
+  kidney
+
+  awkward
+
+  next
+
+  ribbon
+
+  throw
+
+  sun
+
+  list
+
+  video'
+bip_39_word_no_space_1: general
+bip_39_word_no_space_10: generalkidneyawkwardnextribbonthrowsunlistvideovery
+bip_39_word_no_space_11: generalkidneyawkwardnextribbonthrowsunlistvideoveryinflict
+bip_39_word_no_space_12: generalkidneyawkwardnextribbonthrowsunlistvideoveryinflictapple
+bip_39_word_no_space_2: generalkidney
+bip_39_word_no_space_3: generalkidneyawkward
+bip_39_word_no_space_4: generalkidneyawkwardnext
+bip_39_word_no_space_5: generalkidneyawkwardnextribbon
+bip_39_word_no_space_6: generalkidneyawkwardnextribbonthrow
+bip_39_word_no_space_7: generalkidneyawkwardnextribbonthrowsun
+bip_39_word_no_space_8: generalkidneyawkwardnextribbonthrowsunlist
+bip_39_word_no_space_9: generalkidneyawkwardnextribbonthrowsunlistvideo
+bip_39_word_space_0:
+- general
+- kidney
+- awkward
+- next
+- ribbon
+- throw
+- sun
+- list
+- video
+- very
+- inflict
+- apple
+bip_39_word_space_1: general
+bip_39_word_space_10: general kidney awkward next ribbon throw sun list video very
+bip_39_word_space_11: general kidney awkward next ribbon throw sun list video very
+  inflict
+bip_39_word_space_12: general kidney awkward next ribbon throw sun list video very
+  inflict apple
+bip_39_word_space_2: general kidney
+bip_39_word_space_3: general kidney awkward
+bip_39_word_space_4: general kidney awkward next
+bip_39_word_space_5: general kidney awkward next ribbon
+bip_39_word_space_6: general kidney awkward next ribbon throw
+bip_39_word_space_7: general kidney awkward next ribbon throw sun
+bip_39_word_space_8: general kidney awkward next ribbon throw sun list
+bip_39_word_space_9: general kidney awkward next ribbon throw sun list video
+bip_39_word_underscore_1: general
+bip_39_word_underscore_10: general_kidney_awkward_next_ribbon_throw_sun_list_video_very
+bip_39_word_underscore_11: general_kidney_awkward_next_ribbon_throw_sun_list_video_very_inflict
+bip_39_word_underscore_12: general_kidney_awkward_next_ribbon_throw_sun_list_video_very_inflict_apple
+bip_39_word_underscore_2: general_kidney
+bip_39_word_underscore_3: general_kidney_awkward
+bip_39_word_underscore_4: general_kidney_awkward_next
+bip_39_word_underscore_5: general_kidney_awkward_next_ribbon
+bip_39_word_underscore_6: general_kidney_awkward_next_ribbon_throw
+bip_39_word_underscore_7: general_kidney_awkward_next_ribbon_throw_sun
+bip_39_word_underscore_8: general_kidney_awkward_next_ribbon_throw_sun_list
+bip_39_word_underscore_9: general_kidney_awkward_next_ribbon_throw_sun_list_video
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 11_width_8_height_90_mm_depth
+description_main_capital: 11 Width 8 Height 90 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '11'
+description_main_length_3: '11_'
+description_main_length_4: 11_w
+description_main_length_5: 11_wi
+description_main_length_6: 11_wid
+description_main_name: 11 Width 8 Height 90 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '11'
+description_main_no_space_length_3: 11w
+description_main_no_space_length_4: 11wi
+description_main_no_space_length_5: 11wid
+description_main_no_space_length_6: 11widt
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '11'
+description_main_no_space_upper_length_3: 11W
+description_main_no_space_upper_length_4: 11WI
+description_main_no_space_upper_length_5: 11WID
+description_main_no_space_upper_length_6: 11WIDT
+description_main_upper: 11_WIDTH_8_HEIGHT_90_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '11'
+description_main_upper_length_3: '11_'
+description_main_upper_length_4: 11_W
+description_main_upper_length_5: 11_WI
+description_main_upper_length_6: 11_WID
+description_only_numbers: '11890'
+description_only_numbers_short: 12k
+description_or_color: 12k
+description_or_color_upper: 12K
+directory: parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+id: oobb_part_tray_thin_11_width_8_height_90_mm_depth
+id_no_class: part_tray_thin_11_width_8_height_90_mm_depth
+id_no_color: 11width8height90mmdepth
+id_no_size: 11_width_8_height_90_mm_depth
+id_no_type: tray_thin_11_width_8_height_90_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206o264
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206o264
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206o264
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206o264
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_11_width_8_height_90_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_11_width_8_height_90_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray Thin 11 Width 8 Height 90 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_11_width_8_height_90_mm_depth](none)<br><br>'
+md5: aae6fcbf9e827b2b855c8954219e9b06
+md5_10: aae6fcbf9e
+md5_10_upper: AAE6FCBF9E
+md5_5: aae6f
+md5_5_upper: AAE6F
+md5_6: aae6fc
+md5_6_alpha: 6o264
+md5_6_alpha_upper: 6O264
+md5_6_upper: AAE6FC
+name: Oobb Part Tray Thin 11 Width 8 Height 90 mm Depth
+name_no_class: Part Tray Thin 11 Width 8 Height 90 mm Depth
+name_no_color: 11Width8Height90mmdepth
+name_no_size: 11 Width 8 Height 90 mm Depth
+name_no_size_short: 11 Width 8 Height 90 Mm Depth
+name_no_type: Tray Thin 11 Width 8 Height 90 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 90_mm_depth
+oomlout_detail_hierarchy_4_upper: 90_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 90DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_11_width_8_height_90_mm_depth
+oomp_word: lipstick airplane up
+oomp_word_emoji: ':lipstick: :airplane: :up:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':airplane:'
+- ':up:'
+oomp_word_list:
+- lipstick
+- airplane
+- up
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

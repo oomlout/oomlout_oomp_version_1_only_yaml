@@ -1,0 +1,438 @@
+bip_39_word_dash_1: rich
+bip_39_word_dash_10: rich-ostrich-clock-enroll-issue-tenant-mushroom-method-oil-battle
+bip_39_word_dash_11: rich-ostrich-clock-enroll-issue-tenant-mushroom-method-oil-battle-surprise
+bip_39_word_dash_12: rich-ostrich-clock-enroll-issue-tenant-mushroom-method-oil-battle-surprise-ahead
+bip_39_word_dash_2: rich-ostrich
+bip_39_word_dash_3: rich-ostrich-clock
+bip_39_word_dash_4: rich-ostrich-clock-enroll
+bip_39_word_dash_5: rich-ostrich-clock-enroll-issue
+bip_39_word_dash_6: rich-ostrich-clock-enroll-issue-tenant
+bip_39_word_dash_7: rich-ostrich-clock-enroll-issue-tenant-mushroom
+bip_39_word_dash_8: rich-ostrich-clock-enroll-issue-tenant-mushroom-method
+bip_39_word_dash_9: rich-ostrich-clock-enroll-issue-tenant-mushroom-method-oil
+bip_39_word_new_br_1: rich
+bip_39_word_new_br_10: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant<br>mushroom<br>method<br>oil<br>battle
+bip_39_word_new_br_11: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant<br>mushroom<br>method<br>oil<br>battle<br>surprise
+bip_39_word_new_br_12: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant<br>mushroom<br>method<br>oil<br>battle<br>surprise<br>ahead
+bip_39_word_new_br_2: rich<br>ostrich
+bip_39_word_new_br_3: rich<br>ostrich<br>clock
+bip_39_word_new_br_4: rich<br>ostrich<br>clock<br>enroll
+bip_39_word_new_br_5: rich<br>ostrich<br>clock<br>enroll<br>issue
+bip_39_word_new_br_6: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant
+bip_39_word_new_br_7: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant<br>mushroom
+bip_39_word_new_br_8: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant<br>mushroom<br>method
+bip_39_word_new_br_9: rich<br>ostrich<br>clock<br>enroll<br>issue<br>tenant<br>mushroom<br>method<br>oil
+bip_39_word_new_line_1: rich
+bip_39_word_new_line_10: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant
+
+  mushroom
+
+  method
+
+  oil
+
+  battle'
+bip_39_word_new_line_11: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant
+
+  mushroom
+
+  method
+
+  oil
+
+  battle
+
+  surprise'
+bip_39_word_new_line_12: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant
+
+  mushroom
+
+  method
+
+  oil
+
+  battle
+
+  surprise
+
+  ahead'
+bip_39_word_new_line_2: 'rich
+
+  ostrich'
+bip_39_word_new_line_3: 'rich
+
+  ostrich
+
+  clock'
+bip_39_word_new_line_4: 'rich
+
+  ostrich
+
+  clock
+
+  enroll'
+bip_39_word_new_line_5: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue'
+bip_39_word_new_line_6: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant'
+bip_39_word_new_line_7: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant
+
+  mushroom'
+bip_39_word_new_line_8: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant
+
+  mushroom
+
+  method'
+bip_39_word_new_line_9: 'rich
+
+  ostrich
+
+  clock
+
+  enroll
+
+  issue
+
+  tenant
+
+  mushroom
+
+  method
+
+  oil'
+bip_39_word_no_space_1: rich
+bip_39_word_no_space_10: richostrichclockenrollissuetenantmushroommethodoilbattle
+bip_39_word_no_space_11: richostrichclockenrollissuetenantmushroommethodoilbattlesurprise
+bip_39_word_no_space_12: richostrichclockenrollissuetenantmushroommethodoilbattlesurpriseahead
+bip_39_word_no_space_2: richostrich
+bip_39_word_no_space_3: richostrichclock
+bip_39_word_no_space_4: richostrichclockenroll
+bip_39_word_no_space_5: richostrichclockenrollissue
+bip_39_word_no_space_6: richostrichclockenrollissuetenant
+bip_39_word_no_space_7: richostrichclockenrollissuetenantmushroom
+bip_39_word_no_space_8: richostrichclockenrollissuetenantmushroommethod
+bip_39_word_no_space_9: richostrichclockenrollissuetenantmushroommethodoil
+bip_39_word_space_0:
+- rich
+- ostrich
+- clock
+- enroll
+- issue
+- tenant
+- mushroom
+- method
+- oil
+- battle
+- surprise
+- ahead
+bip_39_word_space_1: rich
+bip_39_word_space_10: rich ostrich clock enroll issue tenant mushroom method oil battle
+bip_39_word_space_11: rich ostrich clock enroll issue tenant mushroom method oil battle
+  surprise
+bip_39_word_space_12: rich ostrich clock enroll issue tenant mushroom method oil battle
+  surprise ahead
+bip_39_word_space_2: rich ostrich
+bip_39_word_space_3: rich ostrich clock
+bip_39_word_space_4: rich ostrich clock enroll
+bip_39_word_space_5: rich ostrich clock enroll issue
+bip_39_word_space_6: rich ostrich clock enroll issue tenant
+bip_39_word_space_7: rich ostrich clock enroll issue tenant mushroom
+bip_39_word_space_8: rich ostrich clock enroll issue tenant mushroom method
+bip_39_word_space_9: rich ostrich clock enroll issue tenant mushroom method oil
+bip_39_word_underscore_1: rich
+bip_39_word_underscore_10: rich_ostrich_clock_enroll_issue_tenant_mushroom_method_oil_battle
+bip_39_word_underscore_11: rich_ostrich_clock_enroll_issue_tenant_mushroom_method_oil_battle_surprise
+bip_39_word_underscore_12: rich_ostrich_clock_enroll_issue_tenant_mushroom_method_oil_battle_surprise_ahead
+bip_39_word_underscore_2: rich_ostrich
+bip_39_word_underscore_3: rich_ostrich_clock
+bip_39_word_underscore_4: rich_ostrich_clock_enroll
+bip_39_word_underscore_5: rich_ostrich_clock_enroll_issue
+bip_39_word_underscore_6: rich_ostrich_clock_enroll_issue_tenant
+bip_39_word_underscore_7: rich_ostrich_clock_enroll_issue_tenant_mushroom
+bip_39_word_underscore_8: rich_ostrich_clock_enroll_issue_tenant_mushroom_method
+bip_39_word_underscore_9: rich_ostrich_clock_enroll_issue_tenant_mushroom_method_oil
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 9_width_5_height_30_mm_depth
+description_main_capital: 9 Width 5 Height 30 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_length_1: '9'
+description_main_length_2: '9_'
+description_main_length_3: 9_w
+description_main_length_4: 9_wi
+description_main_length_5: 9_wid
+description_main_length_6: 9_widt
+description_main_name: 9 Width 5 Height 30 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: 9w
+description_main_no_space_length_3: 9wi
+description_main_no_space_length_4: 9wid
+description_main_no_space_length_5: 9widt
+description_main_no_space_length_6: 9width
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: 9W
+description_main_no_space_upper_length_3: 9WI
+description_main_no_space_upper_length_4: 9WID
+description_main_no_space_upper_length_5: 9WIDT
+description_main_no_space_upper_length_6: 9WIDTH
+description_main_upper: 9_WIDTH_5_HEIGHT_30_MM_DEPTH
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '9_'
+description_main_upper_length_3: 9_W
+description_main_upper_length_4: 9_WI
+description_main_upper_length_5: 9_WID
+description_main_upper_length_6: 9_WIDT
+description_only_numbers: '9530'
+description_only_numbers_short: 9k5
+description_or_color: 9k5
+description_or_color_upper: 9K5
+directory: parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+id: oobb_part_tray_thin_9_width_5_height_30_mm_depth
+id_no_class: part_tray_thin_9_width_5_height_30_mm_depth
+id_no_color: 9width5height30mmdepth
+id_no_size: 9_width_5_height_30_mm_depth
+id_no_type: tray_thin_9_width_5_height_30_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2039kuc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2039kuc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2039kuc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2039kuc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_thin_9_width_5_height_30_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_tray_thin_9_width_5_height_30_mm_depth](none)<br>[](none)<br>[Oobb
+  Part Tray Thin 9 Width 5 Height 30 Mm Depth](none)<br><br>'
+markdown_short: '[oobb_part_tray_thin_9_width_5_height_30_mm_depth](none)<br><br>'
+md5: 53b4c4d4ce8c323b7c3b54b256e73dca
+md5_10: 53b4c4d4ce
+md5_10_upper: 53B4C4D4CE
+md5_5: 53b4c
+md5_5_upper: 53B4C
+md5_6: 53b4c4
+md5_6_alpha: 39kuc
+md5_6_alpha_upper: 39KUC
+md5_6_upper: 53B4C4
+name: Oobb Part Tray Thin 9 Width 5 Height 30 mm Depth
+name_no_class: Part Tray Thin 9 Width 5 Height 30 mm Depth
+name_no_color: 9Width5Height30mmdepth
+name_no_size: 9 Width 5 Height 30 mm Depth
+name_no_size_short: 9 Width 5 Height 30 Mm Depth
+name_no_type: Tray Thin 9 Width 5 Height 30 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_thin
+oomlout_detail_hierarchy_3_upper: TRAY_THIN
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 30_mm_depth
+oomlout_detail_hierarchy_4_upper: 30_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 30DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_tray_thin_9_width_5_height_30_mm_depth
+oomp_word: fish coffee cookie
+oomp_word_emoji: ':fish: :coffee: :cookie:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':coffee:'
+- ':cookie:'
+oomp_word_list:
+- fish
+- coffee
+- cookie
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tray_thin
+size_capital: Tray Thin
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tray
+size_length_5: tray_
+size_length_6: tray_t
+size_name: Tray Thin
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tray
+size_no_space_length_5: trayt
+size_no_space_length_6: trayth
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAY
+size_no_space_upper_length_5: TRAYT
+size_no_space_upper_length_6: TRAYTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRAY_THIN
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAY
+size_upper_length_5: TRAY_
+size_upper_length_6: TRAY_T
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART
