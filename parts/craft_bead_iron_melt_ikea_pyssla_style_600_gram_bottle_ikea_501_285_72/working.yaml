@@ -1,0 +1,350 @@
+bip_39_word_dash_12: hill-area-chunk-quit-lottery-menu-oblige-name-mouse-silly-raven-addict
+bip_39_word_dash_2: hill-area
+bip_39_word_dash_3: hill-area-chunk
+bip_39_word_new_br_12: hill<br>area<br>chunk<br>quit<br>lottery<br>menu<br>oblige<br>name<br>mouse<br>silly<br>raven<br>addict
+bip_39_word_new_br_2: hill<br>area
+bip_39_word_new_br_3: hill<br>area<br>chunk
+bip_39_word_new_line_12: 'hill
+
+  area
+
+  chunk
+
+  quit
+
+  lottery
+
+  menu
+
+  oblige
+
+  name
+
+  mouse
+
+  silly
+
+  raven
+
+  addict'
+bip_39_word_new_line_2: 'hill
+
+  area'
+bip_39_word_new_line_3: 'hill
+
+  area
+
+  chunk'
+bip_39_word_no_space_12: hillareachunkquitlotterymenuobligenamemousesillyravenaddict
+bip_39_word_no_space_2: hillarea
+bip_39_word_no_space_3: hillareachunk
+bip_39_word_space_12: hill area chunk quit lottery menu oblige name mouse silly raven
+  addict
+bip_39_word_space_2: hill area
+bip_39_word_space_3: hill area chunk
+bip_39_word_underscore_12: hill_area_chunk_quit_lottery_menu_oblige_name_mouse_silly_raven_addict
+bip_39_word_underscore_2: hill_area
+bip_39_word_underscore_3: hill_area_chunk
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cr
+classification_length_3: cra
+classification_length_4: craf
+classification_length_5: craft
+classification_length_6: craft
+classification_name: Craft
+classification_no_space_length_1: c
+classification_no_space_length_2: cr
+classification_no_space_length_3: cra
+classification_no_space_length_4: craf
+classification_no_space_length_5: craft
+classification_no_space_length_6: craft
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CR
+classification_no_space_upper_length_3: CRA
+classification_no_space_upper_length_4: CRAF
+classification_no_space_upper_length_5: CRAFT
+classification_no_space_upper_length_6: CRAFT
+classification_upper: CRAFT
+classification_upper_length_1: C
+classification_upper_length_2: CR
+classification_upper_length_3: CRA
+classification_upper_length_4: CRAF
+classification_upper_length_5: CRAFT
+classification_upper_length_6: CRAFT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 600_gram_bottle
+description_extra_capital: 600 Gram Bottle
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_length_1: '6'
+description_extra_length_2: '60'
+description_extra_length_3: '600'
+description_extra_length_4: '600_'
+description_extra_length_5: 600_g
+description_extra_length_6: 600_gr
+description_extra_name: 600 Gram Bottle
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: '60'
+description_extra_no_space_length_3: '600'
+description_extra_no_space_length_4: 600g
+description_extra_no_space_length_5: 600gr
+description_extra_no_space_length_6: 600gra
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: '60'
+description_extra_no_space_upper_length_3: '600'
+description_extra_no_space_upper_length_4: 600G
+description_extra_no_space_upper_length_5: 600GR
+description_extra_no_space_upper_length_6: 600GRA
+description_extra_upper: 600_GRAM_BOTTLE
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: '60'
+description_extra_upper_length_3: '600'
+description_extra_upper_length_4: '600_'
+description_extra_upper_length_5: 600_G
+description_extra_upper_length_6: 600_GR
+description_main: ikea_pyssla_style
+description_main_capital: Ikea Pyssla Style
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_length_1: i
+description_main_length_2: ik
+description_main_length_3: ike
+description_main_length_4: ikea
+description_main_length_5: ikea_
+description_main_length_6: ikea_p
+description_main_name: Ikea Pyssla Style
+description_main_no_space_length_1: i
+description_main_no_space_length_2: ik
+description_main_no_space_length_3: ike
+description_main_no_space_length_4: ikea
+description_main_no_space_length_5: ikeap
+description_main_no_space_length_6: ikeapy
+description_main_no_space_upper_length_1: I
+description_main_no_space_upper_length_2: IK
+description_main_no_space_upper_length_3: IKE
+description_main_no_space_upper_length_4: IKEA
+description_main_no_space_upper_length_5: IKEAP
+description_main_no_space_upper_length_6: IKEAPY
+description_main_upper: IKEA_PYSSLA_STYLE
+description_main_upper_length_1: I
+description_main_upper_length_2: IK
+description_main_upper_length_3: IKE
+description_main_upper_length_4: IKEA
+description_main_upper_length_5: IKEA_
+description_main_upper_length_6: IKEA_P
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+distributor_part_number_ikea: 501.285.72
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+id: craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+id_no_class: bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+id_no_color: ikeapysslastyle600grambottleikea50128572
+id_no_size: ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+id_no_type: iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+link_2_name: link_github
+link_distributor_ikea: https://www.ikea.com/gb/en/p/pyssla-beads-mixed-colours-50128572/
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202301e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202301e
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202301e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202301e
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_length_1: i
+manufacturer_length_2: ik
+manufacturer_length_3: ike
+manufacturer_length_4: ikea
+manufacturer_length_5: ikea
+manufacturer_length_6: ikea
+manufacturer_name: Ikea
+manufacturer_no_space_length_1: i
+manufacturer_no_space_length_2: ik
+manufacturer_no_space_length_3: ike
+manufacturer_no_space_length_4: ikea
+manufacturer_no_space_length_5: ikea
+manufacturer_no_space_length_6: ikea
+manufacturer_no_space_upper_length_1: I
+manufacturer_no_space_upper_length_2: IK
+manufacturer_no_space_upper_length_3: IKE
+manufacturer_no_space_upper_length_4: IKEA
+manufacturer_no_space_upper_length_5: IKEA
+manufacturer_no_space_upper_length_6: IKEA
+manufacturer_upper: IKEA
+manufacturer_upper_length_1: I
+manufacturer_upper_length_2: IK
+manufacturer_upper_length_3: IKE
+manufacturer_upper_length_4: IKEA
+manufacturer_upper_length_5: IKEA
+manufacturer_upper_length_6: IKEA
+manufacturers: []
+markdown_full: '[craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72](none)<br>[](none)<br>[Craft
+  Bead Iron Melt Ikea Pyssla Style 600 Gram Bottle Ikea 501 285 72](none)<br><br>'
+markdown_short: '[craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72](none)<br><br>'
+md5: 3564f22c8592d3062cc20afc5142d35d
+md5_10: 3564f22c85
+md5_10_upper: 3564F22C85
+md5_5: 3564f
+md5_5_upper: 3564F
+md5_6: 3564f2
+md5_6_alpha: 2301e
+md5_6_alpha_upper: 2301E
+md5_6_upper: 3564F2
+name: Craft Bead Iron Melt Ikea Pyssla Style 600 Gram Bottle Ikea 501 285 72
+name_no_class: Bead Iron Melt Ikea Pyssla Style 600 Gram Bottle Ikea 501 285 72
+name_no_color: Ikeapysslastyle600Grambottleikea50128572
+name_no_size: Ikea Pyssla Style 600 Gram Bottle Ikea 501 285 72
+name_no_size_short: Ikea Pyssla Style 600 Gram Bottle Ikea 501 285 72
+name_no_type: Iron Melt Ikea Pyssla Style 600 Gram Bottle Ikea 501 285 72
+oomlout_detail_hierarchy_1: craft
+oomlout_detail_hierarchy_1_upper: CRAFT
+oomlout_detail_hierarchy_1_upper_length_4: CRAF
+oomlout_detail_hierarchy_2: bead
+oomlout_detail_hierarchy_2_upper: BEAD
+oomlout_detail_hierarchy_2_upper_length_4: BEAD
+oomlout_detail_hierarchy_3: iron_melt
+oomlout_detail_hierarchy_3_upper: IRON_MELT
+oomlout_detail_hierarchy_3_upper_length_4: IRON
+oomlout_detail_hierarchy_4: ikea_pyssla_style
+oomlout_detail_hierarchy_4_upper: IKEA_PYSSLA_STYLE
+oomlout_detail_hierarchy_4_upper_length_4: IKEA
+oomlout_detail_hierarchy_5: 600_gram
+oomlout_detail_hierarchy_5_upper: 600_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '600_'
+oomlout_detail_hierarchy_6: ikea
+oomlout_detail_hierarchy_6_upper: IKEA
+oomlout_detail_hierarchy_6_upper_length_4: IKEA
+oomlout_detail_hierarchy_7: '501_285_72'
+oomlout_detail_hierarchy_7_upper: '501_285_72'
+oomlout_detail_hierarchy_7_upper_length_4: '501_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_craft_bead_iron_melt_ikea_pyssla_style_600_gram_bottle_ikea_501_285_72
+oomp_word: hamster sunflower one
+oomp_word_emoji: ':hamster: :sunflower: :one:'
+oomp_word_emoji_list:
+- ':hamster:'
+- ':sunflower:'
+- ':one:'
+oomp_word_list:
+- hamster
+- sunflower
+- one
+part_number: '501_285_72'
+part_number_capital: 501.285.72
+part_number_exact: 501.285.72
+part_number_first_letter: '5'
+part_number_first_letter_upper: '5'
+part_number_length_1: '5'
+part_number_length_2: '50'
+part_number_length_3: '501'
+part_number_length_4: '501_'
+part_number_length_5: '501_2'
+part_number_length_6: '501_28'
+part_number_name: 501 285 72
+part_number_no_space_length_1: '5'
+part_number_no_space_length_2: '50'
+part_number_no_space_length_3: '501'
+part_number_no_space_length_4: '5012'
+part_number_no_space_length_5: '50128'
+part_number_no_space_length_6: '501285'
+part_number_no_space_upper_length_1: '5'
+part_number_no_space_upper_length_2: '50'
+part_number_no_space_upper_length_3: '501'
+part_number_no_space_upper_length_4: '5012'
+part_number_no_space_upper_length_5: '50128'
+part_number_no_space_upper_length_6: '501285'
+part_number_upper: '501_285_72'
+part_number_upper_length_1: '5'
+part_number_upper_length_2: '50'
+part_number_upper_length_3: '501'
+part_number_upper_length_4: '501_'
+part_number_upper_length_5: '501_2'
+part_number_upper_length_6: '501_28'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: iron_melt
+size_capital: Iron Melt
+size_first_letter: i
+size_first_letter_upper: I
+size_length_1: i
+size_length_2: ir
+size_length_3: iro
+size_length_4: iron
+size_length_5: iron_
+size_length_6: iron_m
+size_name: Iron Melt
+size_no_space_length_1: i
+size_no_space_length_2: ir
+size_no_space_length_3: iro
+size_no_space_length_4: iron
+size_no_space_length_5: ironm
+size_no_space_length_6: ironme
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IR
+size_no_space_upper_length_3: IRO
+size_no_space_upper_length_4: IRON
+size_no_space_upper_length_5: IRONM
+size_no_space_upper_length_6: IRONME
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IRON_MELT
+size_upper_length_1: I
+size_upper_length_2: IR
+size_upper_length_3: IRO
+size_upper_length_4: IRON
+size_upper_length_5: IRON_
+size_upper_length_6: IRON_M
+type: bead
+type_capital: Bead
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bead
+type_length_5: bead
+type_length_6: bead
+type_name: Bead
+type_no_space_length_1: b
+type_no_space_length_2: be
+type_no_space_length_3: bea
+type_no_space_length_4: bead
+type_no_space_length_5: bead
+type_no_space_length_6: bead
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BE
+type_no_space_upper_length_3: BEA
+type_no_space_upper_length_4: BEAD
+type_no_space_upper_length_5: BEAD
+type_no_space_upper_length_6: BEAD
+type_upper: BEAD
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAD
+type_upper_length_5: BEAD
+type_upper_length_6: BEAD

@@ -1,0 +1,262 @@
+bip_39_word_dash_12: logic-earth-butter-alpha-proof-swear-relax-club-marriage-outdoor-escape-announce
+bip_39_word_dash_2: logic-earth
+bip_39_word_dash_3: logic-earth-butter
+bip_39_word_new_br_12: logic<br>earth<br>butter<br>alpha<br>proof<br>swear<br>relax<br>club<br>marriage<br>outdoor<br>escape<br>announce
+bip_39_word_new_br_2: logic<br>earth
+bip_39_word_new_br_3: logic<br>earth<br>butter
+bip_39_word_new_line_12: 'logic
+
+  earth
+
+  butter
+
+  alpha
+
+  proof
+
+  swear
+
+  relax
+
+  club
+
+  marriage
+
+  outdoor
+
+  escape
+
+  announce'
+bip_39_word_new_line_2: 'logic
+
+  earth'
+bip_39_word_new_line_3: 'logic
+
+  earth
+
+  butter'
+bip_39_word_no_space_12: logicearthbutteralphaproofswearrelaxclubmarriageoutdoorescapeannounce
+bip_39_word_no_space_2: logicearth
+bip_39_word_no_space_3: logicearthbutter
+bip_39_word_space_12: logic earth butter alpha proof swear relax club marriage outdoor
+  escape announce
+bip_39_word_space_2: logic earth
+bip_39_word_space_3: logic earth butter
+bip_39_word_underscore_12: logic_earth_butter_alpha_proof_swear_relax_club_marriage_outdoor_escape_announce
+bip_39_word_underscore_2: logic_earth
+bip_39_word_underscore_3: logic_earth_butter
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: th
+classification_length_3: thr
+classification_length_4: thre
+classification_length_5: three
+classification_length_6: three_
+classification_name: Three D Printer
+classification_no_space_length_1: t
+classification_no_space_length_2: th
+classification_no_space_length_3: thr
+classification_no_space_length_4: thre
+classification_no_space_length_5: three
+classification_no_space_length_6: threed
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TH
+classification_no_space_upper_length_3: THR
+classification_no_space_upper_length_4: THRE
+classification_no_space_upper_length_5: THREE
+classification_no_space_upper_length_6: THREED
+classification_upper: THREE_D_PRINTER
+classification_upper_length_1: T
+classification_upper_length_2: TH
+classification_upper_length_3: THR
+classification_upper_length_4: THRE
+classification_upper_length_5: THREE
+classification_upper_length_6: THREE_
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/three_d_printer_printer_wanhao_dupicator_i3_plus
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus
+id: three_d_printer_printer_wanhao_dupicator_i3_plus
+id_no_class: printer_wanhao_dupicator_i3_plus
+id_no_color: wanhaodupicatori3plus
+id_no_size: wanhaodupicatori3plus
+id_no_type: wanhao_dupicator_i3_plus
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus
+link_1_name: link_main
+link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205sqhz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205sqhz
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205sqhz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205sqhz
+manufacturer: wanhao
+manufacturer_capital: Wanhao
+manufacturer_first_letter: w
+manufacturer_first_letter_upper: W
+manufacturer_length_1: w
+manufacturer_length_2: wa
+manufacturer_length_3: wan
+manufacturer_length_4: wanh
+manufacturer_length_5: wanha
+manufacturer_length_6: wanhao
+manufacturer_name: Wanhao
+manufacturer_no_space_length_1: w
+manufacturer_no_space_length_2: wa
+manufacturer_no_space_length_3: wan
+manufacturer_no_space_length_4: wanh
+manufacturer_no_space_length_5: wanha
+manufacturer_no_space_length_6: wanhao
+manufacturer_no_space_upper_length_1: W
+manufacturer_no_space_upper_length_2: WA
+manufacturer_no_space_upper_length_3: WAN
+manufacturer_no_space_upper_length_4: WANH
+manufacturer_no_space_upper_length_5: WANHA
+manufacturer_no_space_upper_length_6: WANHAO
+manufacturer_upper: WANHAO
+manufacturer_upper_length_1: W
+manufacturer_upper_length_2: WA
+manufacturer_upper_length_3: WAN
+manufacturer_upper_length_4: WANH
+manufacturer_upper_length_5: WANHA
+manufacturer_upper_length_6: WANHAO
+manufacturers: []
+markdown_full: '[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br>[](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br>[Three
+  D Printer Printer Wanhao Dupicator I3 Plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br><br>'
+markdown_short: '[three_d_printer_printer_wanhao_dupicator_i3_plus](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus)<br><br>'
+md5: 949a274c422c36a36e5620703e915c1c
+md5_10: 949a274c42
+md5_10_upper: 949A274C42
+md5_5: 949a2
+md5_5_upper: 949A2
+md5_6: 949a27
+md5_6_alpha: 5sqhz
+md5_6_alpha_upper: 5SQHZ
+md5_6_upper: 949A27
+name: Three D Printer Printer Wanhao Dupicator I3 Plus
+name_no_class: Printer Wanhao Dupicator I3 Plus
+name_no_color: Wanhaodupicatori3Plus
+name_no_size: Wanhaodupicatori3Plus
+name_no_size_short: Wanhaodupicatori3Plus
+name_no_type: Wanhao Dupicator I3 Plus
+oomlout_detail_hierarchy_1: three_d_printer
+oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: THRE
+oomlout_detail_hierarchy_2: printer
+oomlout_detail_hierarchy_2_upper: PRINTER
+oomlout_detail_hierarchy_2_upper_length_4: PRIN
+oomlout_detail_hierarchy_3: wanhao
+oomlout_detail_hierarchy_3_upper: WANHAO
+oomlout_detail_hierarchy_3_upper_length_4: WANH
+oomlout_detail_hierarchy_4: dupicator_i3_plus
+oomlout_detail_hierarchy_4_upper: DUPICATOR_I3_PLUS
+oomlout_detail_hierarchy_4_upper_length_4: DUPI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_three_d_printer_printer_wanhao_dupicator_i3_plus
+oomp_word: microscope golf nose
+oomp_word_emoji: ':microscope: :golf: :nose:'
+oomp_word_emoji_list:
+- ':microscope:'
+- ':golf:'
+- ':nose:'
+oomp_word_list:
+- microscope
+- golf
+- nose
+part_number: dupicator_i3_plus
+part_number_capital: Dupicator I3 Plus
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_length_1: d
+part_number_length_2: du
+part_number_length_3: dup
+part_number_length_4: dupi
+part_number_length_5: dupic
+part_number_length_6: dupica
+part_number_name: Dupicator I3 Plus
+part_number_no_space_length_1: d
+part_number_no_space_length_2: du
+part_number_no_space_length_3: dup
+part_number_no_space_length_4: dupi
+part_number_no_space_length_5: dupic
+part_number_no_space_length_6: dupica
+part_number_no_space_upper_length_1: D
+part_number_no_space_upper_length_2: DU
+part_number_no_space_upper_length_3: DUP
+part_number_no_space_upper_length_4: DUPI
+part_number_no_space_upper_length_5: DUPIC
+part_number_no_space_upper_length_6: DUPICA
+part_number_upper: DUPICATOR_I3_PLUS
+part_number_upper_length_1: D
+part_number_upper_length_2: DU
+part_number_upper_length_3: DUP
+part_number_upper_length_4: DUPI
+part_number_upper_length_5: DUPIC
+part_number_upper_length_6: DUPICA
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pr
+type_length_3: pri
+type_length_4: prin
+type_length_5: print
+type_length_6: printe
+type_name: Printer
+type_no_space_length_1: p
+type_no_space_length_2: pr
+type_no_space_length_3: pri
+type_no_space_length_4: prin
+type_no_space_length_5: print
+type_no_space_length_6: printe
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PR
+type_no_space_upper_length_3: PRI
+type_no_space_upper_length_4: PRIN
+type_no_space_upper_length_5: PRINT
+type_no_space_upper_length_6: PRINTE
+type_upper: PRINTER
+type_upper_length_1: P
+type_upper_length_2: PR
+type_upper_length_3: PRI
+type_upper_length_4: PRIN
+type_upper_length_5: PRINT
+type_upper_length_6: PRINTE

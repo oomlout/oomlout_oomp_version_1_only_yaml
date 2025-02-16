@@ -1,0 +1,293 @@
+bip_39_word_dash_12: common-crater-dash-flush-indoor-aisle-upon-toy-cry-live-elevator-annual
+bip_39_word_dash_2: common-crater
+bip_39_word_dash_3: common-crater-dash
+bip_39_word_new_br_12: common<br>crater<br>dash<br>flush<br>indoor<br>aisle<br>upon<br>toy<br>cry<br>live<br>elevator<br>annual
+bip_39_word_new_br_2: common<br>crater
+bip_39_word_new_br_3: common<br>crater<br>dash
+bip_39_word_new_line_12: 'common
+
+  crater
+
+  dash
+
+  flush
+
+  indoor
+
+  aisle
+
+  upon
+
+  toy
+
+  cry
+
+  live
+
+  elevator
+
+  annual'
+bip_39_word_new_line_2: 'common
+
+  crater'
+bip_39_word_new_line_3: 'common
+
+  crater
+
+  dash'
+bip_39_word_no_space_12: commoncraterdashflushindooraisleupontoycryliveelevatorannual
+bip_39_word_no_space_2: commoncrater
+bip_39_word_no_space_3: commoncraterdash
+bip_39_word_space_12: common crater dash flush indoor aisle upon toy cry live elevator
+  annual
+bip_39_word_space_2: common crater
+bip_39_word_space_3: common crater dash
+bip_39_word_underscore_12: common_crater_dash_flush_indoor_aisle_upon_toy_cry_live_elevator_annual
+bip_39_word_underscore_2: common_crater
+bip_39_word_underscore_3: common_crater_dash
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
+classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
+color: num_nom
+color_capital: Num Nom
+color_first_letter: n
+color_first_letter_upper: N
+color_length_1: n
+color_length_2: nu
+color_length_3: num
+color_length_4: num_
+color_length_5: num_n
+color_length_6: num_no
+color_name: Num Nom
+color_no_space_length_1: n
+color_no_space_length_2: nu
+color_no_space_length_3: num
+color_no_space_length_4: numn
+color_no_space_length_5: numno
+color_no_space_length_6: numnom
+color_no_space_upper_length_1: N
+color_no_space_upper_length_2: NU
+color_no_space_upper_length_3: NUM
+color_no_space_upper_length_4: NUMN
+color_no_space_upper_length_5: NUMNO
+color_no_space_upper_length_6: NUMNOM
+color_upper: NUM_NOM
+color_upper_length_1: N
+color_upper_length_2: NU
+color_upper_length_3: NUM
+color_upper_length_4: NUM_
+color_upper_length_5: NUM_N
+color_upper_length_6: NUM_NO
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
+description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/toy_figurine_branded_num_nom_mixed
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_figurine_branded_num_nom_mixed
+id: toy_figurine_branded_num_nom_mixed
+id_no_class: figurine_branded_num_nom_mixed
+id_no_color: mixed
+id_no_size: num_nom_mixed
+id_no_type: branded_num_nom_mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vhls
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vhls
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205vhls
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vhls
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_figurine_branded_num_nom_mixed](none)<br>[](none)<br>[Toy Figurine
+  Branded Num Nom Mixed](none)<br><br>'
+markdown_short: '[toy_figurine_branded_num_nom_mixed](none)<br><br>'
+md5: 968fe0a9a9e67ddc16b9859c6f4ca173
+md5_10: 968fe0a9a9
+md5_10_upper: 968FE0A9A9
+md5_5: 968fe
+md5_5_upper: 968FE
+md5_6: 968fe0
+md5_6_alpha: 5vhls
+md5_6_alpha_upper: 5VHLS
+md5_6_upper: 968FE0
+name: Toy Figurine Branded Num Nom Mixed
+name_no_class: Figurine Branded Num Nom Mixed
+name_no_color: Mixed
+name_no_size: Num Nom Mixed
+name_no_size_short: Num Nom Mixed
+name_no_type: Branded Num Nom Mixed
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: figurine
+oomlout_detail_hierarchy_2_upper: FIGURINE
+oomlout_detail_hierarchy_2_upper_length_4: FIGU
+oomlout_detail_hierarchy_3: branded
+oomlout_detail_hierarchy_3_upper: BRANDED
+oomlout_detail_hierarchy_3_upper_length_4: BRAN
+oomlout_detail_hierarchy_4: num_nom
+oomlout_detail_hierarchy_4_upper: NUM_NOM
+oomlout_detail_hierarchy_4_upper_length_4: NUM_
+oomlout_detail_hierarchy_5: mixed
+oomlout_detail_hierarchy_5_upper: MIXED
+oomlout_detail_hierarchy_5_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_toy_figurine_branded_num_nom_mixed
+oomp_word: basketball calendar ship
+oomp_word_emoji: ':basketball: :calendar: :ship:'
+oomp_word_emoji_list:
+- ':basketball:'
+- ':calendar:'
+- ':ship:'
+oomp_word_list:
+- basketball
+- calendar
+- ship
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: branded
+size_capital: Branded
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: br
+size_length_3: bra
+size_length_4: bran
+size_length_5: brand
+size_length_6: brande
+size_name: Branded
+size_no_space_length_1: b
+size_no_space_length_2: br
+size_no_space_length_3: bra
+size_no_space_length_4: bran
+size_no_space_length_5: brand
+size_no_space_length_6: brande
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BR
+size_no_space_upper_length_3: BRA
+size_no_space_upper_length_4: BRAN
+size_no_space_upper_length_5: BRAND
+size_no_space_upper_length_6: BRANDE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRANDED
+size_upper_length_1: B
+size_upper_length_2: BR
+size_upper_length_3: BRA
+size_upper_length_4: BRAN
+size_upper_length_5: BRAND
+size_upper_length_6: BRANDE
+type: figurine
+type_capital: Figurine
+type_first_letter: f
+type_first_letter_upper: F
+type_length_1: f
+type_length_2: fi
+type_length_3: fig
+type_length_4: figu
+type_length_5: figur
+type_length_6: figuri
+type_name: Figurine
+type_no_space_length_1: f
+type_no_space_length_2: fi
+type_no_space_length_3: fig
+type_no_space_length_4: figu
+type_no_space_length_5: figur
+type_no_space_length_6: figuri
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FI
+type_no_space_upper_length_3: FIG
+type_no_space_upper_length_4: FIGU
+type_no_space_upper_length_5: FIGUR
+type_no_space_upper_length_6: FIGURI
+type_upper: FIGURINE
+type_upper_length_1: F
+type_upper_length_2: FI
+type_upper_length_3: FIG
+type_upper_length_4: FIGU
+type_upper_length_5: FIGUR
+type_upper_length_6: FIGURI

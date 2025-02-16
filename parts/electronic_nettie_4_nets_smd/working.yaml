@@ -1,0 +1,284 @@
+bip_39_word_dash_12: spring-there-reward-happy-route-vintage-slide-hurry-foot-broom-ribbon-art
+bip_39_word_dash_2: spring-there
+bip_39_word_dash_3: spring-there-reward
+bip_39_word_new_br_12: spring<br>there<br>reward<br>happy<br>route<br>vintage<br>slide<br>hurry<br>foot<br>broom<br>ribbon<br>art
+bip_39_word_new_br_2: spring<br>there
+bip_39_word_new_br_3: spring<br>there<br>reward
+bip_39_word_new_line_12: 'spring
+
+  there
+
+  reward
+
+  happy
+
+  route
+
+  vintage
+
+  slide
+
+  hurry
+
+  foot
+
+  broom
+
+  ribbon
+
+  art'
+bip_39_word_new_line_2: 'spring
+
+  there'
+bip_39_word_new_line_3: 'spring
+
+  there
+
+  reward'
+bip_39_word_no_space_12: springthererewardhappyroutevintageslidehurryfootbroomribbonart
+bip_39_word_no_space_2: springthere
+bip_39_word_no_space_3: springtherereward
+bip_39_word_space_12: spring there reward happy route vintage slide hurry foot broom
+  ribbon art
+bip_39_word_space_2: spring there
+bip_39_word_space_3: spring there reward
+bip_39_word_underscore_12: spring_there_reward_happy_route_vintage_slide_hurry_foot_broom_ribbon_art
+bip_39_word_underscore_2: spring_there
+bip_39_word_underscore_3: spring_there_reward
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: smd
+description_main_capital: Smd
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_length_1: s
+description_main_length_2: sm
+description_main_length_3: smd
+description_main_length_4: smd
+description_main_length_5: smd
+description_main_length_6: smd
+description_main_name: SMD
+description_main_no_space_length_1: s
+description_main_no_space_length_2: sm
+description_main_no_space_length_3: smd
+description_main_no_space_length_4: smd
+description_main_no_space_length_5: smd
+description_main_no_space_length_6: smd
+description_main_no_space_upper_length_1: S
+description_main_no_space_upper_length_2: SM
+description_main_no_space_upper_length_3: SMD
+description_main_no_space_upper_length_4: SMD
+description_main_no_space_upper_length_5: SMD
+description_main_no_space_upper_length_6: SMD
+description_main_upper: SMD
+description_main_upper_length_1: S
+description_main_upper_length_2: SM
+description_main_upper_length_3: SMD
+description_main_upper_length_4: SMD
+description_main_upper_length_5: SMD
+description_main_upper_length_6: SMD
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_nettie_4_nets_smd
+distributors: []
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_nettie_nettie_4_smd_pad0_5mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_nettie_nettie_4_smd_pad0_5mm
+  note: source footprint kicad_nettie_nettie_4_smd_pad0_5mm
+  oomp_key: oomp_kicad_nettie_nettie_4_smd_pad0_5mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_nt4_electronic_nettie_4_nets_smd//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_nt4_electronic_nettie_4_nets_smd
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt4_electronic_nettie_4_nets_smd
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_4_nets_smd
+id: electronic_nettie_4_nets_smd
+id_no_class: nettie_4_nets_smd
+id_no_color: smd
+id_no_size: smd
+id_no_type: 4_nets_smd
+kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_smd
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_smd
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_smd
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_smd
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2080kxz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2080kxz
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2080kxz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2080kxz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_nettie_4_nets_smd
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_nettie_4_nets_smd](none)<br>[nt4](none)<br>[Electronic
+  Nettie 4 Nets Smd](none)<br><br>'
+markdown_short: '[electronic_nettie_4_nets_smd](none)<br><br>'
+md5: cd720732d76fb973d0de468f71781e99
+md5_10: cd720732d7
+md5_10_upper: CD720732D7
+md5_5: cd720
+md5_5_upper: CD720
+md5_6: cd7207
+md5_6_alpha: 80kxz
+md5_6_alpha_upper: 80KXZ
+md5_6_upper: CD7207
+name: Electronic Nettie 4 Nets SMD
+name_no_class: Nettie 4 Nets SMD
+name_no_color: SMD
+name_no_size: SMD
+name_no_size_short: Smd
+name_no_type: 4 Nets SMD
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: nettie
+oomlout_detail_hierarchy_2_upper: NETTIE
+oomlout_detail_hierarchy_2_upper_length_4: NETT
+oomlout_detail_hierarchy_3: 4_nets
+oomlout_detail_hierarchy_3_upper: 4_NETS
+oomlout_detail_hierarchy_3_upper_length_4: 4_NE
+oomlout_detail_hierarchy_4: smd
+oomlout_detail_hierarchy_4_upper: SMD
+oomlout_detail_hierarchy_4_upper_length_4: SMD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_nettie_4_nets_smd
+oomp_word: strawberry dolls cry
+oomp_word_emoji: ':strawberry: :dolls: :cry:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':dolls:'
+- ':cry:'
+oomp_word_list:
+- strawberry
+- dolls
+- cry
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: nt4
+short_code_upper: NT4
+size: 4_nets
+size_capital: 4 Nets
+size_first_letter: '4'
+size_first_letter_upper: '4'
+size_length_1: '4'
+size_length_2: '4_'
+size_length_3: 4_n
+size_length_4: 4_ne
+size_length_5: 4_net
+size_length_6: 4_nets
+size_name: 4 Nets
+size_no_space_length_1: '4'
+size_no_space_length_2: 4n
+size_no_space_length_3: 4ne
+size_no_space_length_4: 4net
+size_no_space_length_5: 4nets
+size_no_space_length_6: 4nets
+size_no_space_upper_length_1: '4'
+size_no_space_upper_length_2: 4N
+size_no_space_upper_length_3: 4NE
+size_no_space_upper_length_4: 4NET
+size_no_space_upper_length_5: 4NETS
+size_no_space_upper_length_6: 4NETS
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: 4_NETS
+size_upper_length_1: '4'
+size_upper_length_2: '4_'
+size_upper_length_3: 4_N
+size_upper_length_4: 4_NE
+size_upper_length_5: 4_NET
+size_upper_length_6: 4_NETS
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_4//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_nettie_4
+  oomp_key: oomp_kicad_device_nettie_4
+type: nettie
+type_capital: Nettie
+type_first_letter: n
+type_first_letter_upper: N
+type_length_1: n
+type_length_2: ne
+type_length_3: net
+type_length_4: nett
+type_length_5: netti
+type_length_6: nettie
+type_name: Nettie
+type_no_space_length_1: n
+type_no_space_length_2: ne
+type_no_space_length_3: net
+type_no_space_length_4: nett
+type_no_space_length_5: netti
+type_no_space_length_6: nettie
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: NE
+type_no_space_upper_length_3: NET
+type_no_space_upper_length_4: NETT
+type_no_space_upper_length_5: NETTI
+type_no_space_upper_length_6: NETTIE
+type_upper: NETTIE
+type_upper_length_1: N
+type_upper_length_2: NE
+type_upper_length_3: NET
+type_upper_length_4: NETT
+type_upper_length_5: NETTI
+type_upper_length_6: NETTIE

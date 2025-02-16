@@ -1,0 +1,364 @@
+bip_39_word_dash_12: rabbit-trouble-above-asthma-gown-dizzy-identify-ten-tunnel-ramp-village-ahead
+bip_39_word_dash_2: rabbit-trouble
+bip_39_word_dash_3: rabbit-trouble-above
+bip_39_word_new_br_12: rabbit<br>trouble<br>above<br>asthma<br>gown<br>dizzy<br>identify<br>ten<br>tunnel<br>ramp<br>village<br>ahead
+bip_39_word_new_br_2: rabbit<br>trouble
+bip_39_word_new_br_3: rabbit<br>trouble<br>above
+bip_39_word_new_line_12: 'rabbit
+
+  trouble
+
+  above
+
+  asthma
+
+  gown
+
+  dizzy
+
+  identify
+
+  ten
+
+  tunnel
+
+  ramp
+
+  village
+
+  ahead'
+bip_39_word_new_line_2: 'rabbit
+
+  trouble'
+bip_39_word_new_line_3: 'rabbit
+
+  trouble
+
+  above'
+bip_39_word_no_space_12: rabbittroubleaboveasthmagowndizzyidentifytentunnelrampvillageahead
+bip_39_word_no_space_2: rabbittrouble
+bip_39_word_no_space_3: rabbittroubleabove
+bip_39_word_space_12: rabbit trouble above asthma gown dizzy identify ten tunnel ramp
+  village ahead
+bip_39_word_space_2: rabbit trouble
+bip_39_word_space_3: rabbit trouble above
+bip_39_word_underscore_12: rabbit_trouble_above_asthma_gown_dizzy_identify_ten_tunnel_ramp_village_ahead
+bip_39_word_underscore_2: rabbit_trouble
+bip_39_word_underscore_3: rabbit_trouble_above
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_length_1: r
+classification_length_2: re
+classification_length_3: rem
+classification_length_4: remo
+classification_length_5: remot
+classification_length_6: remote
+classification_name: Remote Control
+classification_no_space_length_1: r
+classification_no_space_length_2: re
+classification_no_space_length_3: rem
+classification_no_space_length_4: remo
+classification_no_space_length_5: remot
+classification_no_space_length_6: remote
+classification_no_space_upper_length_1: R
+classification_no_space_upper_length_2: RE
+classification_no_space_upper_length_3: REM
+classification_no_space_upper_length_4: REMO
+classification_no_space_upper_length_5: REMOT
+classification_no_space_upper_length_6: REMOTE
+classification_upper: REMOTE_CONTROL
+classification_upper_length_1: R
+classification_upper_length_2: RE
+classification_upper_length_3: REM
+classification_upper_length_4: REMO
+classification_upper_length_5: REMOT
+classification_upper_length_6: REMOTE
+color: car_style_grip_black
+color_capital: Car Style Grip Black
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: ca
+color_length_3: car
+color_length_4: car_
+color_length_5: car_s
+color_length_6: car_st
+color_name: Car Style Grip Black
+color_no_space_length_1: c
+color_no_space_length_2: ca
+color_no_space_length_3: car
+color_no_space_length_4: cars
+color_no_space_length_5: carst
+color_no_space_length_6: carsty
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CA
+color_no_space_upper_length_3: CAR
+color_no_space_upper_length_4: CARS
+color_no_space_upper_length_5: CARST
+color_no_space_upper_length_6: CARSTY
+color_upper: CAR_STYLE_GRIP_BLACK
+color_upper_length_1: C
+color_upper_length_2: CA
+color_upper_length_3: CAR
+color_upper_length_4: CAR_
+color_upper_length_5: CAR_S
+color_upper_length_6: CAR_ST
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: transmitter_full
+description_main_capital: Transmitter Full
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: tr
+description_main_length_3: tra
+description_main_length_4: tran
+description_main_length_5: trans
+description_main_length_6: transm
+description_main_name: Transmitter Full
+description_main_no_space_length_1: t
+description_main_no_space_length_2: tr
+description_main_no_space_length_3: tra
+description_main_no_space_length_4: tran
+description_main_no_space_length_5: trans
+description_main_no_space_length_6: transm
+description_main_no_space_upper_length_1: T
+description_main_no_space_upper_length_2: TR
+description_main_no_space_upper_length_3: TRA
+description_main_no_space_upper_length_4: TRAN
+description_main_no_space_upper_length_5: TRANS
+description_main_no_space_upper_length_6: TRANSM
+description_main_upper: TRANSMITTER_FULL
+description_main_upper_length_1: T
+description_main_upper_length_2: TR
+description_main_upper_length_3: TRA
+description_main_upper_length_4: TRAN
+description_main_upper_length_5: TRANS
+description_main_upper_length_6: TRANSM
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+id: remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+id_no_class: transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+id_no_color: transmitter_full_aliexpress_91803g_vt
+id_no_size: car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+id_no_type: 2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B08MQ4GK2B
+link_3_name: link_distributor_amazon
+link_4: https://www.aliexpress.com/item/32985435030.html
+link_4_name: link_distributor_aliexpress
+link_buy_1: https://www.amazon.co.uk/dp/B08MQ4GK2B
+link_buy_1_name: link_distributor_amazon
+link_buy_2: https://www.aliexpress.com/item/32985435030.html
+link_buy_2_name: link_distributor_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/32985435030.html
+link_distributor_amazon: https://www.amazon.co.uk/dp/B08MQ4GK2B
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2039uzw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2039uzw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2039uzw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2039uzw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_length_1: a
+manufacturer_length_2: al
+manufacturer_length_3: ali
+manufacturer_length_4: alie
+manufacturer_length_5: aliex
+manufacturer_length_6: aliexp
+manufacturer_name: Aliexpress
+manufacturer_no_space_length_1: a
+manufacturer_no_space_length_2: al
+manufacturer_no_space_length_3: ali
+manufacturer_no_space_length_4: alie
+manufacturer_no_space_length_5: aliex
+manufacturer_no_space_length_6: aliexp
+manufacturer_no_space_upper_length_1: A
+manufacturer_no_space_upper_length_2: AL
+manufacturer_no_space_upper_length_3: ALI
+manufacturer_no_space_upper_length_4: ALIE
+manufacturer_no_space_upper_length_5: ALIEX
+manufacturer_no_space_upper_length_6: ALIEXP
+manufacturer_upper: ALIEXPRESS
+manufacturer_upper_length_1: A
+manufacturer_upper_length_2: AL
+manufacturer_upper_length_3: ALI
+manufacturer_upper_length_4: ALIE
+manufacturer_upper_length_5: ALIEX
+manufacturer_upper_length_6: ALIEXP
+manufacturers: []
+markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt](none)<br>[](none)<br>[Remote
+  Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Transmitter
+  Full Aliexpress 91803G Vt](none)<br><br>'
+markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt](none)<br><br>'
+md5: 53e82c5f54deee1100b290e0013a4581
+md5_10: 53e82c5f54
+md5_10_upper: 53E82C5F54
+md5_5: 53e82
+md5_5_upper: 53E82
+md5_6: 53e82c
+md5_6_alpha: 39uzw
+md5_6_alpha_upper: 39UZW
+md5_6_upper: 53E82C
+name: Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black
+  Transmitter Full Aliexpress 91803G Vt
+name_no_class: Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Transmitter
+  Full Aliexpress 91803G Vt
+name_no_color: Transmitter Full Aliexpress 91803G Vt
+name_no_size: Car Style Grip Black Transmitter Full Aliexpress 91803G Vt
+name_no_size_short: Car Style Grip Black Transmitter Full Aliexpress 91803G Vt
+name_no_type: 2 4 Ghz 4 Channel Car Style Grip Black Transmitter Full Aliexpress 91803G
+  Vt
+oomlout_detail_hierarchy_1: remote_control
+oomlout_detail_hierarchy_1_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_1_upper_length_4: REMO
+oomlout_detail_hierarchy_2: transmitter_receiver_kit
+oomlout_detail_hierarchy_2_upper: TRANSMITTER_RECEIVER_KIT
+oomlout_detail_hierarchy_2_upper_length_4: TRAN
+oomlout_detail_hierarchy_3: 2_4_ghz_4_channel
+oomlout_detail_hierarchy_3_upper: 2_4_GHZ_4_CHANNEL
+oomlout_detail_hierarchy_3_upper_length_4: '2_4_'
+oomlout_detail_hierarchy_4: car_style_grip_black
+oomlout_detail_hierarchy_4_upper: CAR_STYLE_GRIP_BLACK
+oomlout_detail_hierarchy_4_upper_length_4: CAR_
+oomlout_detail_hierarchy_5: transmitter_full
+oomlout_detail_hierarchy_5_upper: TRANSMITTER_FULL
+oomlout_detail_hierarchy_5_upper_length_4: TRAN
+oomlout_detail_hierarchy_6: aliexpress
+oomlout_detail_hierarchy_6_upper: ALIEXPRESS
+oomlout_detail_hierarchy_6_upper_length_4: ALIE
+oomlout_detail_hierarchy_7: 91803g_vt
+oomlout_detail_hierarchy_7_upper: 91803G_VT
+oomlout_detail_hierarchy_7_upper_length_4: '9180'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_transmitter_full_aliexpress_91803g_vt
+oomp_word: fish tram snowflake
+oomp_word_emoji: ':fish: :tram: :snowflake:'
+oomp_word_emoji_list:
+- ':fish:'
+- ':tram:'
+- ':snowflake:'
+oomp_word_list:
+- fish
+- tram
+- snowflake
+part_number: 91803g_vt
+part_number_capital: 91803G Vt
+part_number_distributor_aliexpress: '32985435030'
+part_number_distributor_amazon: B08MQ4GK2B
+part_number_exact: 91803G-VT
+part_number_first_letter: '9'
+part_number_first_letter_upper: '9'
+part_number_length_1: '9'
+part_number_length_2: '91'
+part_number_length_3: '918'
+part_number_length_4: '9180'
+part_number_length_5: '91803'
+part_number_length_6: 91803g
+part_number_name: 91803G Vt
+part_number_no_space_length_1: '9'
+part_number_no_space_length_2: '91'
+part_number_no_space_length_3: '918'
+part_number_no_space_length_4: '9180'
+part_number_no_space_length_5: '91803'
+part_number_no_space_length_6: 91803g
+part_number_no_space_upper_length_1: '9'
+part_number_no_space_upper_length_2: '91'
+part_number_no_space_upper_length_3: '918'
+part_number_no_space_upper_length_4: '9180'
+part_number_no_space_upper_length_5: '91803'
+part_number_no_space_upper_length_6: 91803G
+part_number_upper: 91803G_VT
+part_number_upper_length_1: '9'
+part_number_upper_length_2: '91'
+part_number_upper_length_3: '918'
+part_number_upper_length_4: '9180'
+part_number_upper_length_5: '91803'
+part_number_upper_length_6: 91803G
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Transmitter Kit 4 Channel
+size: 2_4_ghz_4_channel
+size_capital: 2.4 Ghz 4 Channel
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_length_1: '2'
+size_length_2: '2_'
+size_length_3: '2_4'
+size_length_4: '2_4_'
+size_length_5: 2_4_g
+size_length_6: 2_4_gh
+size_name: 2 4 Ghz 4 Channel
+size_no_space_length_1: '2'
+size_no_space_length_2: '24'
+size_no_space_length_3: 24g
+size_no_space_length_4: 24gh
+size_no_space_length_5: 24ghz
+size_no_space_length_6: 24ghz4
+size_no_space_upper_length_1: '2'
+size_no_space_upper_length_2: '24'
+size_no_space_upper_length_3: 24G
+size_no_space_upper_length_4: 24GH
+size_no_space_upper_length_5: 24GHZ
+size_no_space_upper_length_6: 24GHZ4
+size_only_numbers: '244'
+size_only_numbers_no_zeros: '244'
+size_upper: 2_4_GHZ_4_CHANNEL
+size_upper_length_1: '2'
+size_upper_length_2: '2_'
+size_upper_length_3: '2_4'
+size_upper_length_4: '2_4_'
+size_upper_length_5: 2_4_G
+size_upper_length_6: 2_4_GH
+type: transmitter_receiver_kit
+type_capital: Transmitter Receiver Kit
+type_first_letter: t
+type_first_letter_upper: T
+type_length_1: t
+type_length_2: tr
+type_length_3: tra
+type_length_4: tran
+type_length_5: trans
+type_length_6: transm
+type_name: Transmitter Receiver Kit
+type_no_space_length_1: t
+type_no_space_length_2: tr
+type_no_space_length_3: tra
+type_no_space_length_4: tran
+type_no_space_length_5: trans
+type_no_space_length_6: transm
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TR
+type_no_space_upper_length_3: TRA
+type_no_space_upper_length_4: TRAN
+type_no_space_upper_length_5: TRANS
+type_no_space_upper_length_6: TRANSM
+type_upper: TRANSMITTER_RECEIVER_KIT
+type_upper_length_1: T
+type_upper_length_2: TR
+type_upper_length_3: TRA
+type_upper_length_4: TRAN
+type_upper_length_5: TRANS
+type_upper_length_6: TRANSM

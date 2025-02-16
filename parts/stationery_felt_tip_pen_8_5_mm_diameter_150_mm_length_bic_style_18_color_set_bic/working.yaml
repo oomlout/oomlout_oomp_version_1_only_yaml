@@ -1,0 +1,300 @@
+bip_39_word_dash_12: design-add-fit-clerk-excess-yellow-maid-claim-popular-party-claw-asset
+bip_39_word_dash_2: design-add
+bip_39_word_dash_3: design-add-fit
+bip_39_word_new_br_12: design<br>add<br>fit<br>clerk<br>excess<br>yellow<br>maid<br>claim<br>popular<br>party<br>claw<br>asset
+bip_39_word_new_br_2: design<br>add
+bip_39_word_new_br_3: design<br>add<br>fit
+bip_39_word_new_line_12: 'design
+
+  add
+
+  fit
+
+  clerk
+
+  excess
+
+  yellow
+
+  maid
+
+  claim
+
+  popular
+
+  party
+
+  claw
+
+  asset'
+bip_39_word_new_line_2: 'design
+
+  add'
+bip_39_word_new_line_3: 'design
+
+  add
+
+  fit'
+bip_39_word_no_space_12: designaddfitclerkexcessyellowmaidclaimpopularpartyclawasset
+bip_39_word_no_space_2: designadd
+bip_39_word_no_space_3: designaddfit
+bip_39_word_space_12: design add fit clerk excess yellow maid claim popular party
+  claw asset
+bip_39_word_space_2: design add
+bip_39_word_space_3: design add fit
+bip_39_word_underscore_12: design_add_fit_clerk_excess_yellow_maid_claim_popular_party_claw_asset
+bip_39_word_underscore_2: design_add
+bip_39_word_underscore_3: design_add_fit
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
+classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: bic_style_18_color_set
+description_extra_capital: Bic Style 18 Color Set
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_length_1: b
+description_extra_length_2: bi
+description_extra_length_3: bic
+description_extra_length_4: bic_
+description_extra_length_5: bic_s
+description_extra_length_6: bic_st
+description_extra_name: Bic Style 18 Color Set
+description_extra_no_space_length_1: b
+description_extra_no_space_length_2: bi
+description_extra_no_space_length_3: bic
+description_extra_no_space_length_4: bics
+description_extra_no_space_length_5: bicst
+description_extra_no_space_length_6: bicsty
+description_extra_no_space_upper_length_1: B
+description_extra_no_space_upper_length_2: BI
+description_extra_no_space_upper_length_3: BIC
+description_extra_no_space_upper_length_4: BICS
+description_extra_no_space_upper_length_5: BICST
+description_extra_no_space_upper_length_6: BICSTY
+description_extra_upper: BIC_STYLE_18_COLOR_SET
+description_extra_upper_length_1: B
+description_extra_upper_length_2: BI
+description_extra_upper_length_3: BIC
+description_extra_upper_length_4: BIC_
+description_extra_upper_length_5: BIC_S
+description_extra_upper_length_6: BIC_ST
+description_main: 8_5_mm_diameter_150_mm_length
+description_main_capital: 8.5 mm Diameter 150 mm Length
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '8_'
+description_main_length_3: '8_5'
+description_main_length_4: '8_5_'
+description_main_length_5: 8_5_m
+description_main_length_6: 8_5_mm
+description_main_name: 8 5 mm Diameter 150 mm Length
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: '85'
+description_main_no_space_length_3: 85m
+description_main_no_space_length_4: 85mm
+description_main_no_space_length_5: 85mmd
+description_main_no_space_length_6: 85mmdi
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: '85'
+description_main_no_space_upper_length_3: 85M
+description_main_no_space_upper_length_4: 85MM
+description_main_no_space_upper_length_5: 85MMD
+description_main_no_space_upper_length_6: 85MMDI
+description_main_upper: 8_5_MM_DIAMETER_150_MM_LENGTH
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '8_'
+description_main_upper_length_3: '8_5'
+description_main_upper_length_4: '8_5_'
+description_main_upper_length_5: 8_5_M
+description_main_upper_length_6: 8_5_MM
+description_only_numbers: '85150'
+description_only_numbers_short: 85k
+description_or_color: 85k
+description_or_color_upper: 85K
+directory: parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+distributor_part_number_amazon: B002047E7Q
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+id: stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+id_no_class: felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+id_no_color: 85mmdiameter150mmlengthbicstyle18colorsetbic
+id_no_size: 85mmdiameter150mmlengthbicstyle18colorsetbic
+id_no_type: 8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B002047E7Q
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B002047E7Q
+link_buy_1_name: link_distributor_amazon
+link_distributor_amazon: https://www.amazon.co.uk/dp/B002047E7Q
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208iofc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208iofc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208iofc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208iofc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+manufacturer: bic
+manufacturer_capital: Bic
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_length_1: b
+manufacturer_length_2: bi
+manufacturer_length_3: bic
+manufacturer_length_4: bic
+manufacturer_length_5: bic
+manufacturer_length_6: bic
+manufacturer_name: Bic
+manufacturer_no_space_length_1: b
+manufacturer_no_space_length_2: bi
+manufacturer_no_space_length_3: bic
+manufacturer_no_space_length_4: bic
+manufacturer_no_space_length_5: bic
+manufacturer_no_space_length_6: bic
+manufacturer_no_space_upper_length_1: B
+manufacturer_no_space_upper_length_2: BI
+manufacturer_no_space_upper_length_3: BIC
+manufacturer_no_space_upper_length_4: BIC
+manufacturer_no_space_upper_length_5: BIC
+manufacturer_no_space_upper_length_6: BIC
+manufacturer_upper: BIC
+manufacturer_upper_length_1: B
+manufacturer_upper_length_2: BI
+manufacturer_upper_length_3: BIC
+manufacturer_upper_length_4: BIC
+manufacturer_upper_length_5: BIC
+manufacturer_upper_length_6: BIC
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic](none)<br>[](none)<br>[Stationery
+  Felt Tip Pen 8 5 Mm Diameter 150 Mm Length Bic Style 18 Color Set Bic](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic](none)<br><br>'
+md5: da5428254129b0c3fc2742a6af80c9de
+md5_10: da54282541
+md5_10_upper: DA54282541
+md5_5: da542
+md5_5_upper: DA542
+md5_6: da5428
+md5_6_alpha: 8iofc
+md5_6_alpha_upper: 8IOFC
+md5_6_upper: DA5428
+name: Stationery Felt Tip Pen 8 5 mm Diameter 150 mm Length Bic Style 18 Color Set
+  Bic
+name_no_class: Felt Tip Pen 8 5 mm Diameter 150 mm Length Bic Style 18 Color Set Bic
+name_no_color: 85mmdiameter150mmlengthbicstyle18Colorsetbic
+name_no_size: 85mmdiameter150mmlengthbicstyle18Colorsetbic
+name_no_size_short: 85Mmdiameter150Mmlengthbicstyle18Colorsetbic
+name_no_type: 8 5 mm Diameter 150 mm Length Bic Style 18 Color Set Bic
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: felt_tip_pen
+oomlout_detail_hierarchy_2_upper: FELT_TIP_PEN
+oomlout_detail_hierarchy_2_upper_length_4: FELT
+oomlout_detail_hierarchy_3: 150_mm_length
+oomlout_detail_hierarchy_3_upper: 150_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 150L
+oomlout_detail_hierarchy_4: bic_style_18_color_set
+oomlout_detail_hierarchy_4_upper: BIC_STYLE_18_COLOR_SET
+oomlout_detail_hierarchy_4_upper_length_4: BIC_
+oomlout_detail_hierarchy_5: bic
+oomlout_detail_hierarchy_5_upper: BIC
+oomlout_detail_hierarchy_5_upper_length_4: BIC
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+oomp_word: hotel whale tongue
+oomp_word_emoji: ':hotel: :whale: :tongue:'
+oomp_word_emoji_list:
+- ':hotel:'
+- ':whale:'
+- ':tongue:'
+oomp_word_list:
+- hotel
+- whale
+- tongue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_length_1: f
+type_length_2: fe
+type_length_3: fel
+type_length_4: felt
+type_length_5: felt_
+type_length_6: felt_t
+type_name: Felt Tip Pen
+type_no_space_length_1: f
+type_no_space_length_2: fe
+type_no_space_length_3: fel
+type_no_space_length_4: felt
+type_no_space_length_5: feltt
+type_no_space_length_6: feltti
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FE
+type_no_space_upper_length_3: FEL
+type_no_space_upper_length_4: FELT
+type_no_space_upper_length_5: FELTT
+type_no_space_upper_length_6: FELTTI
+type_upper: FELT_TIP_PEN
+type_upper_length_1: F
+type_upper_length_2: FE
+type_upper_length_3: FEL
+type_upper_length_4: FELT
+type_upper_length_5: FELT_
+type_upper_length_6: FELT_T

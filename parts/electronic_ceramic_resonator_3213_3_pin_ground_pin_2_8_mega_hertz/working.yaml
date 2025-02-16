@@ -1,0 +1,311 @@
+bip_39_word_dash_12: wait-ski-entire-mixed-sort-shoot-bundle-meadow-random-sustain-whip-autumn
+bip_39_word_dash_2: wait-ski
+bip_39_word_dash_3: wait-ski-entire
+bip_39_word_new_br_12: wait<br>ski<br>entire<br>mixed<br>sort<br>shoot<br>bundle<br>meadow<br>random<br>sustain<br>whip<br>autumn
+bip_39_word_new_br_2: wait<br>ski
+bip_39_word_new_br_3: wait<br>ski<br>entire
+bip_39_word_new_line_12: 'wait
+
+  ski
+
+  entire
+
+  mixed
+
+  sort
+
+  shoot
+
+  bundle
+
+  meadow
+
+  random
+
+  sustain
+
+  whip
+
+  autumn'
+bip_39_word_new_line_2: 'wait
+
+  ski'
+bip_39_word_new_line_3: 'wait
+
+  ski
+
+  entire'
+bip_39_word_no_space_12: waitskientiremixedsortshootbundlemeadowrandomsustainwhipautumn
+bip_39_word_no_space_2: waitski
+bip_39_word_no_space_3: waitskientire
+bip_39_word_space_12: wait ski entire mixed sort shoot bundle meadow random sustain
+  whip autumn
+bip_39_word_space_2: wait ski
+bip_39_word_space_3: wait ski entire
+bip_39_word_underscore_12: wait_ski_entire_mixed_sort_shoot_bundle_meadow_random_sustain_whip_autumn
+bip_39_word_underscore_2: wait_ski
+bip_39_word_underscore_3: wait_ski_entire
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: 3_pin_ground_pin_2
+color_capital: 3 Pin Ground Pin 2
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_length_1: '3'
+color_length_2: '3_'
+color_length_3: 3_p
+color_length_4: 3_pi
+color_length_5: 3_pin
+color_length_6: 3_pin_
+color_name: 3 Pin Ground Pin 2
+color_no_space_length_1: '3'
+color_no_space_length_2: 3p
+color_no_space_length_3: 3pi
+color_no_space_length_4: 3pin
+color_no_space_length_5: 3ping
+color_no_space_length_6: 3pingr
+color_no_space_upper_length_1: '3'
+color_no_space_upper_length_2: 3P
+color_no_space_upper_length_3: 3PI
+color_no_space_upper_length_4: 3PIN
+color_no_space_upper_length_5: 3PING
+color_no_space_upper_length_6: 3PINGR
+color_upper: 3_PIN_GROUND_PIN_2
+color_upper_length_1: '3'
+color_upper_length_2: '3_'
+color_upper_length_3: 3_P
+color_upper_length_4: 3_PI
+color_upper_length_5: 3_PIN
+color_upper_length_6: 3_PIN_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 8_mega_hertz
+description_main_capital: 8 Mega Hertz
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '8_'
+description_main_length_3: 8_m
+description_main_length_4: 8_me
+description_main_length_5: 8_meg
+description_main_length_6: 8_mega
+description_main_name: 8 Mega Hertz
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: 8m
+description_main_no_space_length_3: 8me
+description_main_no_space_length_4: 8meg
+description_main_no_space_length_5: 8mega
+description_main_no_space_length_6: 8megah
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: 8M
+description_main_no_space_upper_length_3: 8ME
+description_main_no_space_upper_length_4: 8MEG
+description_main_no_space_upper_length_5: 8MEGA
+description_main_no_space_upper_length_6: 8MEGAH
+description_main_upper: 8_MEGA_HERTZ
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '8_'
+description_main_upper_length_3: 8_M
+description_main_upper_length_4: 8_ME
+description_main_upper_length_5: 8_MEG
+description_main_upper_length_6: 8_MEGA
+description_only_numbers: '8'
+description_only_numbers_short: '8'
+description_or_color: '38'
+description_or_color_upper: '38'
+directory: parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+distributors: []
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+  note: source footprint kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+  oomp_key: oomp_kicad_crystal_resonator_smd_murata_cstxexxv_3pin_3_0x1_1mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_xcr3213mhz8_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+id_no_class: ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+id_no_color: 8_mega_hertz
+id_no_size: 3_pin_ground_pin_2_8_mega_hertz
+id_no_type: 3213_3_pin_ground_pin_2_8_mega_hertz
+kicad_reference: x
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209twxi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209twxi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209twxi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209twxi
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](none)<br>[xcr3213mhz8](none)<br>[Electronic
+  Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz](none)<br><br>'
+markdown_short: '[electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz](none)<br><br>'
+md5: fbf4f6bd8d89a3cb1a67c8e2973297b3
+md5_10: fbf4f6bd8d
+md5_10_upper: FBF4F6BD8D
+md5_5: fbf4f
+md5_5_upper: FBF4F
+md5_6: fbf4f6
+md5_6_alpha: 9twxi
+md5_6_alpha_upper: 9TWXI
+md5_6_upper: FBF4F6
+name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_class: Ceramic Resonator 3213 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_color: 8 Mega Hertz
+name_no_size: 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_size_short: 3 Pin Ground Pin 2 8 Mega Hertz
+name_no_type: 3213 3 Pin Ground Pin 2 8 Mega Hertz
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ceramic_resonator
+oomlout_detail_hierarchy_2_upper: CERAMIC_RESONATOR
+oomlout_detail_hierarchy_2_upper_length_4: CERA
+oomlout_detail_hierarchy_3: '3213'
+oomlout_detail_hierarchy_3_upper: '3213'
+oomlout_detail_hierarchy_3_upper_length_4: '3213'
+oomlout_detail_hierarchy_4: 3_pin_ground_pin_2
+oomlout_detail_hierarchy_4_upper: 3_PIN_GROUND_PIN_2
+oomlout_detail_hierarchy_4_upper_length_4: 3_PI
+oomlout_detail_hierarchy_5: 8_mega_hertz
+oomlout_detail_hierarchy_5_upper: 8_MEGA_HERTZ
+oomlout_detail_hierarchy_5_upper_length_4: 8_ME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_8_mega_hertz
+oomp_word: ok three five
+oomp_word_emoji: ':ok: :three: :five:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':three:'
+- ':five:'
+oomp_word_list:
+- ok
+- three
+- five
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: xcr3213mhz8
+short_code_upper: XCR3213MHZ8
+size: '3213'
+size_capital: '3213'
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_length_1: '3'
+size_length_2: '32'
+size_length_3: '321'
+size_length_4: '3213'
+size_length_5: '3213'
+size_length_6: '3213'
+size_name: '3213'
+size_no_space_length_1: '3'
+size_no_space_length_2: '32'
+size_no_space_length_3: '321'
+size_no_space_length_4: '3213'
+size_no_space_length_5: '3213'
+size_no_space_length_6: '3213'
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: '32'
+size_no_space_upper_length_3: '321'
+size_no_space_upper_length_4: '3213'
+size_no_space_upper_length_5: '3213'
+size_no_space_upper_length_6: '3213'
+size_only_numbers: '3213'
+size_only_numbers_no_zeros: '3213'
+size_upper: '3213'
+size_upper_length_1: '3'
+size_upper_length_2: '32'
+size_upper_length_3: '321'
+size_upper_length_4: '3213'
+size_upper_length_5: '3213'
+size_upper_length_6: '3213'
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_crystal_gnd2
+  oomp_key: oomp_kicad_device_crystal_gnd2
+type: ceramic_resonator
+type_capital: Ceramic Resonator
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: ce
+type_length_3: cer
+type_length_4: cera
+type_length_5: ceram
+type_length_6: cerami
+type_name: Ceramic Resonator
+type_no_space_length_1: c
+type_no_space_length_2: ce
+type_no_space_length_3: cer
+type_no_space_length_4: cera
+type_no_space_length_5: ceram
+type_no_space_length_6: cerami
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CE
+type_no_space_upper_length_3: CER
+type_no_space_upper_length_4: CERA
+type_no_space_upper_length_5: CERAM
+type_no_space_upper_length_6: CERAMI
+type_upper: CERAMIC_RESONATOR
+type_upper_length_1: C
+type_upper_length_2: CE
+type_upper_length_3: CER
+type_upper_length_4: CERA
+type_upper_length_5: CERAM
+type_upper_length_6: CERAMI

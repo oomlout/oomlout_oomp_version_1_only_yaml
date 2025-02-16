@@ -1,0 +1,268 @@
+bip_39_word_dash_12: produce-coffee-powder-bring-live-flee-avoid-assist-boss-bench-child-armor
+bip_39_word_dash_2: produce-coffee
+bip_39_word_dash_3: produce-coffee-powder
+bip_39_word_new_br_12: produce<br>coffee<br>powder<br>bring<br>live<br>flee<br>avoid<br>assist<br>boss<br>bench<br>child<br>armor
+bip_39_word_new_br_2: produce<br>coffee
+bip_39_word_new_br_3: produce<br>coffee<br>powder
+bip_39_word_new_line_12: 'produce
+
+  coffee
+
+  powder
+
+  bring
+
+  live
+
+  flee
+
+  avoid
+
+  assist
+
+  boss
+
+  bench
+
+  child
+
+  armor'
+bip_39_word_new_line_2: 'produce
+
+  coffee'
+bip_39_word_new_line_3: 'produce
+
+  coffee
+
+  powder'
+bip_39_word_no_space_12: producecoffeepowderbringlivefleeavoidassistbossbenchchildarmor
+bip_39_word_no_space_2: producecoffee
+bip_39_word_no_space_3: producecoffeepowder
+bip_39_word_space_12: produce coffee powder bring live flee avoid assist boss bench
+  child armor
+bip_39_word_space_2: produce coffee
+bip_39_word_space_3: produce coffee powder
+bip_39_word_underscore_12: produce_coffee_powder_bring_live_flee_avoid_assist_boss_bench_child_armor
+bip_39_word_underscore_2: produce_coffee
+bip_39_word_underscore_3: produce_coffee_powder
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: tin_125_gram
+description_extra_capital: Tin 125 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: ti
+description_extra_length_3: tin
+description_extra_length_4: tin_
+description_extra_length_5: tin_1
+description_extra_length_6: tin_12
+description_extra_name: Tin 125 Gram
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: ti
+description_extra_no_space_length_3: tin
+description_extra_no_space_length_4: tin1
+description_extra_no_space_length_5: tin12
+description_extra_no_space_length_6: tin125
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TI
+description_extra_no_space_upper_length_3: TIN
+description_extra_no_space_upper_length_4: TIN1
+description_extra_no_space_upper_length_5: TIN12
+description_extra_no_space_upper_length_6: TIN125
+description_extra_upper: TIN_125_GRAM
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TI
+description_extra_upper_length_3: TIN
+description_extra_upper_length_4: TIN_
+description_extra_upper_length_5: TIN_1
+description_extra_upper_length_6: TIN_12
+description_main: tuna_in_sunflower_oil
+description_main_capital: Tuna In Sunflower Oil
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: tu
+description_main_length_3: tun
+description_main_length_4: tuna
+description_main_length_5: tuna_
+description_main_length_6: tuna_i
+description_main_name: Tuna In Sunflower Oil
+description_main_no_space_length_1: t
+description_main_no_space_length_2: tu
+description_main_no_space_length_3: tun
+description_main_no_space_length_4: tuna
+description_main_no_space_length_5: tunai
+description_main_no_space_length_6: tunain
+description_main_no_space_upper_length_1: T
+description_main_no_space_upper_length_2: TU
+description_main_no_space_upper_length_3: TUN
+description_main_no_space_upper_length_4: TUNA
+description_main_no_space_upper_length_5: TUNAI
+description_main_no_space_upper_length_6: TUNAIN
+description_main_upper: TUNA_IN_SUNFLOWER_OIL
+description_main_upper_length_1: T
+description_main_upper_length_2: TU
+description_main_upper_length_3: TUN
+description_main_upper_length_4: TUNA
+description_main_upper_length_5: TUNA_
+description_main_upper_length_6: TUNA_I
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+id: food_meat_tuna_in_sunflower_oil_tin_125_gram
+id_no_class: meat_tuna_in_sunflower_oil_tin_125_gram
+id_no_color: tunainsunfloweroiltin125gram
+id_no_size: tunainsunfloweroiltin125gram
+id_no_type: tuna_in_sunflower_oil_tin_125_gram
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207fbnp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207fbnp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207fbnp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207fbnp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_meat_tuna_in_sunflower_oil_tin_125_gram](none)<br>[](none)<br>[Food
+  Meat Tuna In Sunflower Oil Tin 125 Gram](none)<br><br>'
+markdown_short: '[food_meat_tuna_in_sunflower_oil_tin_125_gram](none)<br><br>'
+md5: be4fc540d10dc201634151c3524b4d5d
+md5_10: be4fc540d1
+md5_10_upper: BE4FC540D1
+md5_5: be4fc
+md5_5_upper: BE4FC
+md5_6: be4fc5
+md5_6_alpha: 7fbnp
+md5_6_alpha_upper: 7FBNP
+md5_6_upper: BE4FC5
+name: Food Meat Tuna In Sunflower Oil Tin 125 Gram
+name_no_class: Meat Tuna In Sunflower Oil Tin 125 Gram
+name_no_color: Tunainsunfloweroiltin125Gram
+name_no_size: Tunainsunfloweroiltin125Gram
+name_no_size_short: Tunainsunfloweroiltin125Gram
+name_no_type: Tuna In Sunflower Oil Tin 125 Gram
+name_short: Tuna in Sunflower Oil
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: meat
+oomlout_detail_hierarchy_2_upper: MEAT
+oomlout_detail_hierarchy_2_upper_length_4: MEAT
+oomlout_detail_hierarchy_3: tuna_in_sunflower_oil
+oomlout_detail_hierarchy_3_upper: TUNA_IN_SUNFLOWER_OIL
+oomlout_detail_hierarchy_3_upper_length_4: TUNA
+oomlout_detail_hierarchy_4: 125_gram
+oomlout_detail_hierarchy_4_upper: 125_GRAM
+oomlout_detail_hierarchy_4_upper_length_4: '125_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_meat_tuna_in_sunflower_oil_tin_125_gram
+oomp_word: ramen ant candy
+oomp_word_emoji: ':ramen: :ant: :candy:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':ant:'
+- ':candy:'
+oomp_word_list:
+- ramen
+- ant
+- candy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: meat
+type_capital: Meat
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: me
+type_length_3: mea
+type_length_4: meat
+type_length_5: meat
+type_length_6: meat
+type_name: Meat
+type_no_space_length_1: m
+type_no_space_length_2: me
+type_no_space_length_3: mea
+type_no_space_length_4: meat
+type_no_space_length_5: meat
+type_no_space_length_6: meat
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: ME
+type_no_space_upper_length_3: MEA
+type_no_space_upper_length_4: MEAT
+type_no_space_upper_length_5: MEAT
+type_no_space_upper_length_6: MEAT
+type_upper: MEAT
+type_upper_length_1: M
+type_upper_length_2: ME
+type_upper_length_3: MEA
+type_upper_length_4: MEAT
+type_upper_length_5: MEAT
+type_upper_length_6: MEAT

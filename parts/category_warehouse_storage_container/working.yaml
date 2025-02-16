@@ -1,0 +1,243 @@
+bip_39_word_dash_12: job-skull-pelican-jaguar-asset-sentence-relief-ship-scheme-grain-crush-address
+bip_39_word_dash_2: job-skull
+bip_39_word_dash_3: job-skull-pelican
+bip_39_word_new_br_12: job<br>skull<br>pelican<br>jaguar<br>asset<br>sentence<br>relief<br>ship<br>scheme<br>grain<br>crush<br>address
+bip_39_word_new_br_2: job<br>skull
+bip_39_word_new_br_3: job<br>skull<br>pelican
+bip_39_word_new_line_12: 'job
+
+  skull
+
+  pelican
+
+  jaguar
+
+  asset
+
+  sentence
+
+  relief
+
+  ship
+
+  scheme
+
+  grain
+
+  crush
+
+  address'
+bip_39_word_new_line_2: 'job
+
+  skull'
+bip_39_word_new_line_3: 'job
+
+  skull
+
+  pelican'
+bip_39_word_no_space_12: jobskullpelicanjaguarassetsentencereliefshipschemegraincrushaddress
+bip_39_word_no_space_2: jobskull
+bip_39_word_no_space_3: jobskullpelican
+bip_39_word_space_12: job skull pelican jaguar asset sentence relief ship scheme grain
+  crush address
+bip_39_word_space_2: job skull
+bip_39_word_space_3: job skull pelican
+bip_39_word_underscore_12: job_skull_pelican_jaguar_asset_sentence_relief_ship_scheme_grain_crush_address
+bip_39_word_underscore_2: job_skull
+bip_39_word_underscore_3: job_skull_pelican
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_warehouse
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_warehouse_storage_container
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_warehouse_storage_container
+id: category_warehouse_storage_container
+id_no_class: warehouse_storage_container
+id_no_color: storagecontainer
+id_no_size: storage_container
+id_no_type: storage_container
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2024fmh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2024fmh
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2024fmh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2024fmh
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_warehouse_storage_container](none)<br>[](none)<br>[Category
+  Warehouse Storage Container](none)<br><br>'
+markdown_short: '[category_warehouse_storage_container](none)<br><br>'
+md5: 366a196605c616ab0f86d77344b2b3c0
+md5_10: 366a196605
+md5_10_upper: 366A196605
+md5_5: 366a1
+md5_5_upper: 366A1
+md5_6: 366a19
+md5_6_alpha: 24fmh
+md5_6_alpha_upper: 24FMH
+md5_6_upper: 366A19
+name: Category Warehouse Storage Container
+name_no_class: Warehouse Storage Container
+name_no_color: Storagecontainer
+name_no_size: Storage Container
+name_no_size_short: Storage Container
+name_no_type: Storage Container
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: warehouse
+oomlout_detail_hierarchy_2_upper: WAREHOUSE
+oomlout_detail_hierarchy_2_upper_length_4: WARE
+oomlout_detail_hierarchy_3: storage_container
+oomlout_detail_hierarchy_3_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_3_upper_length_4: STOR
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_warehouse_storage_container
+oomp_word: rabbit palm_tree pray
+oomp_word_emoji: ':rabbit: :palm_tree: :pray:'
+oomp_word_emoji_list:
+- ':rabbit:'
+- ':palm_tree:'
+- ':pray:'
+oomp_word_list:
+- rabbit
+- palm_tree
+- pray
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorywarehouse
+size: storage_container
+size_capital: Storage Container
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: sto
+size_length_4: stor
+size_length_5: stora
+size_length_6: storag
+size_name: Storage Container
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: sto
+size_no_space_length_4: stor
+size_no_space_length_5: stora
+size_no_space_length_6: storag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STO
+size_no_space_upper_length_4: STOR
+size_no_space_upper_length_5: STORA
+size_no_space_upper_length_6: STORAG
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STORAGE_CONTAINER
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STO
+size_upper_length_4: STOR
+size_upper_length_5: STORA
+size_upper_length_6: STORAG
+type: warehouse
+type_capital: Warehouse
+type_first_letter: w
+type_first_letter_upper: W
+type_length_1: w
+type_length_2: wa
+type_length_3: war
+type_length_4: ware
+type_length_5: wareh
+type_length_6: wareho
+type_name: Warehouse
+type_no_space_length_1: w
+type_no_space_length_2: wa
+type_no_space_length_3: war
+type_no_space_length_4: ware
+type_no_space_length_5: wareh
+type_no_space_length_6: wareho
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WA
+type_no_space_upper_length_3: WAR
+type_no_space_upper_length_4: WARE
+type_no_space_upper_length_5: WAREH
+type_no_space_upper_length_6: WAREHO
+type_upper: WAREHOUSE
+type_upper_length_1: W
+type_upper_length_2: WA
+type_upper_length_3: WAR
+type_upper_length_4: WARE
+type_upper_length_5: WAREH
+type_upper_length_6: WAREHO
