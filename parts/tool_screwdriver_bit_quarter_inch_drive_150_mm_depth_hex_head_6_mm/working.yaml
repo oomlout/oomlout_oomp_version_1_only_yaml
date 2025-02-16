@@ -159,11 +159,11 @@ link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/
 link_1_name: link_main
 link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_150_mm_depth_hex_head_6_mm
 link_2_name: link_github
-link_3: https://www.aliexpress.com/item/1005007848287320.html
+link_3: https://www.aliexpress.com/item/1005006923093945.html
 link_3_name: link_distributor_aliexpress
-link_buy_1: https://www.aliexpress.com/item/1005007848287320.html
+link_buy_1: https://www.aliexpress.com/item/1005006923093945.html
 link_buy_1_name: link_distributor_aliexpress
-link_distributor_aliexpress: https://www.aliexpress.com/item/1005007848287320.html
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006923093945.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_150_mm_depth_hex_head_6_mm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_150_mm_depth_hex_head_6_mm
 link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204exhc
@@ -225,7 +225,7 @@ oomp_word_list:
 - bowtie
 part_number: ''
 part_number_capital: ''
-part_number_distributor_aliexpress: '1005007848287320'
+part_number_distributor_aliexpress: '1005006923093945'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
