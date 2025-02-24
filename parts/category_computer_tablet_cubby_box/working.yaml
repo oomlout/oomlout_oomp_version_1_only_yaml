@@ -81,7 +81,7 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_name: ''
 color_upper: ''
-description: category_computer
+description: category_computer_tablet
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
@@ -130,8 +130,8 @@ github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/ca
 id: category_computer_tablet_cubby_box
 id_no_class: computer_tablet_cubby_box
 id_no_color: cubbybox
-id_no_size: cubby_box
-id_no_type: tablet_cubby_box
+id_no_size: cubbybox
+id_no_type: cubby_box
 link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_cubby_box
 link_1_name: link_main
 link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_cubby_box
@@ -165,21 +165,18 @@ md5_6_upper: 7AD57C
 name: Category Computer Tablet Cubby Box
 name_no_class: Computer Tablet Cubby Box
 name_no_color: Cubbybox
-name_no_size: Cubby Box
-name_no_size_short: Cubby Box
-name_no_type: Tablet Cubby Box
+name_no_size: Cubbybox
+name_no_size_short: Cubbybox
+name_no_type: Cubby Box
 oomlout_detail_hierarchy_1: category
 oomlout_detail_hierarchy_1_upper: CATEGORY
 oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: computer
-oomlout_detail_hierarchy_2_upper: COMPUTER
+oomlout_detail_hierarchy_2: computer_tablet
+oomlout_detail_hierarchy_2_upper: COMPUTER_TABLET
 oomlout_detail_hierarchy_2_upper_length_4: COMP
-oomlout_detail_hierarchy_3: tablet
-oomlout_detail_hierarchy_3_upper: TABLET
-oomlout_detail_hierarchy_3_upper_length_4: TABL
-oomlout_detail_hierarchy_4: cubby_box
-oomlout_detail_hierarchy_4_upper: CUBBY_BOX
-oomlout_detail_hierarchy_4_upper_length_4: CUBB
+oomlout_detail_hierarchy_3: cubby_box
+oomlout_detail_hierarchy_3_upper: CUBBY_BOX
+oomlout_detail_hierarchy_3_upper_length_4: CUBB
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_computer_tablet_cubby_box
 oomp_word: camera house tv
@@ -205,41 +202,17 @@ price_3_name: amazon
 price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
-short_name: Categorycomputer
-size: tablet
-size_capital: Tablet
-size_first_letter: t
-size_first_letter_upper: T
-size_length_1: t
-size_length_2: ta
-size_length_3: tab
-size_length_4: tabl
-size_length_5: table
-size_length_6: tablet
-size_name: Tablet
-size_no_space_length_1: t
-size_no_space_length_2: ta
-size_no_space_length_3: tab
-size_no_space_length_4: tabl
-size_no_space_length_5: table
-size_no_space_length_6: tablet
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TA
-size_no_space_upper_length_3: TAB
-size_no_space_upper_length_4: TABL
-size_no_space_upper_length_5: TABLE
-size_no_space_upper_length_6: TABLET
+short_name: Categorycomputertablet
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: TABLET
-size_upper_length_1: T
-size_upper_length_2: TA
-size_upper_length_3: TAB
-size_upper_length_4: TABL
-size_upper_length_5: TABLE
-size_upper_length_6: TABLET
-type: computer
-type_capital: Computer
+size_upper: ''
+type: computer_tablet
+type_capital: Computer Tablet
 type_first_letter: c
 type_first_letter_upper: C
 type_length_1: c
@@ -248,7 +221,7 @@ type_length_3: com
 type_length_4: comp
 type_length_5: compu
 type_length_6: comput
-type_name: Computer
+type_name: Computer Tablet
 type_no_space_length_1: c
 type_no_space_length_2: co
 type_no_space_length_3: com
@@ -261,7 +234,7 @@ type_no_space_upper_length_3: COM
 type_no_space_upper_length_4: COMP
 type_no_space_upper_length_5: COMPU
 type_no_space_upper_length_6: COMPUT
-type_upper: COMPUTER
+type_upper: COMPUTER_TABLET
 type_upper_length_1: C
 type_upper_length_2: CO
 type_upper_length_3: COM
