@@ -1,0 +1,243 @@
+bip_39_word_dash_12: soccer-slogan-legend-approve-goddess-riot-there-minimum-genius-clog-afford-arrange
+bip_39_word_dash_2: soccer-slogan
+bip_39_word_dash_3: soccer-slogan-legend
+bip_39_word_new_br_12: soccer<br>slogan<br>legend<br>approve<br>goddess<br>riot<br>there<br>minimum<br>genius<br>clog<br>afford<br>arrange
+bip_39_word_new_br_2: soccer<br>slogan
+bip_39_word_new_br_3: soccer<br>slogan<br>legend
+bip_39_word_new_line_12: 'soccer
+
+  slogan
+
+  legend
+
+  approve
+
+  goddess
+
+  riot
+
+  there
+
+  minimum
+
+  genius
+
+  clog
+
+  afford
+
+  arrange'
+bip_39_word_new_line_2: 'soccer
+
+  slogan'
+bip_39_word_new_line_3: 'soccer
+
+  slogan
+
+  legend'
+bip_39_word_no_space_12: soccersloganlegendapprovegoddessriotthereminimumgeniusclogaffordarrange
+bip_39_word_no_space_2: soccerslogan
+bip_39_word_no_space_3: soccersloganlegend
+bip_39_word_space_12: soccer slogan legend approve goddess riot there minimum genius
+  clog afford arrange
+bip_39_word_space_2: soccer slogan
+bip_39_word_space_3: soccer slogan legend
+bip_39_word_underscore_12: soccer_slogan_legend_approve_goddess_riot_there_minimum_genius_clog_afford_arrange
+bip_39_word_underscore_2: soccer_slogan
+bip_39_word_underscore_3: soccer_slogan_legend
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_archive
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_archive_personal
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_archive_personal
+id: category_archive_personal
+id_no_class: archive_personal
+id_no_color: personal
+id_no_size: personal
+id_no_type: personal
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_personal
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_personal
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_personal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_personal
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207nd1m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207nd1m
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207nd1m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207nd1m
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_personal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_archive_personal](none)<br>[](none)<br>[Category Archive
+  Personal](none)<br><br>'
+markdown_short: '[category_archive_personal](none)<br><br>'
+md5: c408cae3078d1c0ee8b210acff32fe6e
+md5_10: c408cae307
+md5_10_upper: C408CAE307
+md5_5: c408c
+md5_5_upper: C408C
+md5_6: c408ca
+md5_6_alpha: 7nd1m
+md5_6_alpha_upper: 7ND1M
+md5_6_upper: C408CA
+name: Category Archive Personal
+name_no_class: Archive Personal
+name_no_color: Personal
+name_no_size: Personal
+name_no_size_short: Personal
+name_no_type: Personal
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: archive
+oomlout_detail_hierarchy_2_upper: ARCHIVE
+oomlout_detail_hierarchy_2_upper_length_4: ARCH
+oomlout_detail_hierarchy_3: personal
+oomlout_detail_hierarchy_3_upper: PERSONAL
+oomlout_detail_hierarchy_3_upper_length_4: PERS
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_archive_personal
+oomp_word: cookie scream cherries
+oomp_word_emoji: ':cookie: :scream: :cherries:'
+oomp_word_emoji_list:
+- ':cookie:'
+- ':scream:'
+- ':cherries:'
+oomp_word_list:
+- cookie
+- scream
+- cherries
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryarchive
+size: personal
+size_capital: Personal
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pe
+size_length_3: per
+size_length_4: pers
+size_length_5: perso
+size_length_6: person
+size_name: Personal
+size_no_space_length_1: p
+size_no_space_length_2: pe
+size_no_space_length_3: per
+size_no_space_length_4: pers
+size_no_space_length_5: perso
+size_no_space_length_6: person
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PE
+size_no_space_upper_length_3: PER
+size_no_space_upper_length_4: PERS
+size_no_space_upper_length_5: PERSO
+size_no_space_upper_length_6: PERSON
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PERSONAL
+size_upper_length_1: P
+size_upper_length_2: PE
+size_upper_length_3: PER
+size_upper_length_4: PERS
+size_upper_length_5: PERSO
+size_upper_length_6: PERSON
+type: archive
+type_capital: Archive
+type_first_letter: a
+type_first_letter_upper: A
+type_length_1: a
+type_length_2: ar
+type_length_3: arc
+type_length_4: arch
+type_length_5: archi
+type_length_6: archiv
+type_name: Archive
+type_no_space_length_1: a
+type_no_space_length_2: ar
+type_no_space_length_3: arc
+type_no_space_length_4: arch
+type_no_space_length_5: archi
+type_no_space_length_6: archiv
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AR
+type_no_space_upper_length_3: ARC
+type_no_space_upper_length_4: ARCH
+type_no_space_upper_length_5: ARCHI
+type_no_space_upper_length_6: ARCHIV
+type_upper: ARCHIVE
+type_upper_length_1: A
+type_upper_length_2: AR
+type_upper_length_3: ARC
+type_upper_length_4: ARCH
+type_upper_length_5: ARCHI
+type_upper_length_6: ARCHIV
