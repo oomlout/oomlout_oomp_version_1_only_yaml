@@ -1,0 +1,238 @@
+bip_39_word_dash_12: emotion-bike-diesel-govern-flush-true-business-valve-absent-pistol-solar-ability
+bip_39_word_dash_2: emotion-bike
+bip_39_word_dash_3: emotion-bike-diesel
+bip_39_word_new_br_12: emotion<br>bike<br>diesel<br>govern<br>flush<br>true<br>business<br>valve<br>absent<br>pistol<br>solar<br>ability
+bip_39_word_new_br_2: emotion<br>bike
+bip_39_word_new_br_3: emotion<br>bike<br>diesel
+bip_39_word_new_line_12: 'emotion
+
+  bike
+
+  diesel
+
+  govern
+
+  flush
+
+  true
+
+  business
+
+  valve
+
+  absent
+
+  pistol
+
+  solar
+
+  ability'
+bip_39_word_new_line_2: 'emotion
+
+  bike'
+bip_39_word_new_line_3: 'emotion
+
+  bike
+
+  diesel'
+bip_39_word_no_space_12: emotionbikedieselgovernflushtruebusinessvalveabsentpistolsolarability
+bip_39_word_no_space_2: emotionbike
+bip_39_word_no_space_3: emotionbikediesel
+bip_39_word_space_12: emotion bike diesel govern flush true business valve absent
+  pistol solar ability
+bip_39_word_space_2: emotion bike
+bip_39_word_space_3: emotion bike diesel
+bip_39_word_underscore_12: emotion_bike_diesel_govern_flush_true_business_valve_absent_pistol_solar_ability
+bip_39_word_underscore_2: emotion_bike
+bip_39_word_underscore_3: emotion_bike_diesel
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vid
+classification_length_4: vide
+classification_length_5: video
+classification_length_6: video_
+classification_name: Video Game Console
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vid
+classification_no_space_length_4: vide
+classification_no_space_length_5: video
+classification_no_space_length_6: videog
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VID
+classification_no_space_upper_length_4: VIDE
+classification_no_space_upper_length_5: VIDEO
+classification_no_space_upper_length_6: VIDEOG
+classification_upper: VIDEO_GAME_CONSOLE
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VID
+classification_upper_length_4: VIDE
+classification_upper_length_5: VIDEO
+classification_upper_length_6: VIDEO_
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: co
+description_main_length_3: con
+description_main_length_4: cont
+description_main_length_5: contr
+description_main_length_6: contro
+description_main_name: Controller
+description_main_no_space_length_1: c
+description_main_no_space_length_2: co
+description_main_no_space_length_3: con
+description_main_no_space_length_4: cont
+description_main_no_space_length_5: contr
+description_main_no_space_length_6: contro
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CO
+description_main_no_space_upper_length_3: CON
+description_main_no_space_upper_length_4: CONT
+description_main_no_space_upper_length_5: CONTR
+description_main_no_space_upper_length_6: CONTRO
+description_main_upper: CONTROLLER
+description_main_upper_length_1: C
+description_main_upper_length_2: CO
+description_main_upper_length_3: CON
+description_main_upper_length_4: CONT
+description_main_upper_length_5: CONTR
+description_main_upper_length_6: CONTRO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_playstation_controller
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_playstation_controller
+id: video_game_console_playstation_controller
+id_no_class: playstation_controller
+id_no_color: controller
+id_no_size: controller
+id_no_type: controller
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2052p5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2052p5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2052p5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2052p5
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_playstation_controller](none)<br>[](none)<br>[Video
+  Game Console Playstation Controller](none)<br><br>'
+markdown_short: '[video_game_console_playstation_controller](none)<br><br>'
+md5: 039ce95805f103e3a52ce6507b058a46
+md5_10: 039ce95805
+md5_10_upper: 039CE95805
+md5_5: 039ce
+md5_5_upper: 039CE
+md5_6: 039ce9
+md5_6_alpha: 52p5
+md5_6_alpha_upper: 52P5
+md5_6_upper: 039CE9
+name: Video Game Console Playstation Controller
+name_no_class: Playstation Controller
+name_no_color: Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Controller
+oomlout_detail_hierarchy_1: video_game_console
+oomlout_detail_hierarchy_1_upper: VIDEO_GAME_CONSOLE
+oomlout_detail_hierarchy_1_upper_length_4: VIDE
+oomlout_detail_hierarchy_2: playstation
+oomlout_detail_hierarchy_2_upper: PLAYSTATION
+oomlout_detail_hierarchy_2_upper_length_4: PLAY
+oomlout_detail_hierarchy_3: controller
+oomlout_detail_hierarchy_3_upper: CONTROLLER
+oomlout_detail_hierarchy_3_upper_length_4: CONT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_video_game_console_playstation_controller
+oomp_word: grin spades bike
+oomp_word_emoji: ':grin: :spades: :bike:'
+oomp_word_emoji_list:
+- ':grin:'
+- ':spades:'
+- ':bike:'
+oomp_word_list:
+- grin
+- spades
+- bike
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: playstation
+type_capital: Playstation
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pl
+type_length_3: pla
+type_length_4: play
+type_length_5: plays
+type_length_6: playst
+type_name: Playstation
+type_no_space_length_1: p
+type_no_space_length_2: pl
+type_no_space_length_3: pla
+type_no_space_length_4: play
+type_no_space_length_5: plays
+type_no_space_length_6: playst
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PL
+type_no_space_upper_length_3: PLA
+type_no_space_upper_length_4: PLAY
+type_no_space_upper_length_5: PLAYS
+type_no_space_upper_length_6: PLAYST
+type_upper: PLAYSTATION
+type_upper_length_1: P
+type_upper_length_2: PL
+type_upper_length_3: PLA
+type_upper_length_4: PLAY
+type_upper_length_5: PLAYS
+type_upper_length_6: PLAYST

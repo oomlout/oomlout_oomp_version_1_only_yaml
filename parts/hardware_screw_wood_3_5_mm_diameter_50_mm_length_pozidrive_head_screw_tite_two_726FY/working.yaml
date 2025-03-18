@@ -81,38 +81,15 @@ color_first_letter: ''
 color_first_letter_upper: ''
 color_name: ''
 color_upper: ''
-description_extra: pozidrive_head
-description_extra_capital: Pozidrive Head
-description_extra_first_letter: p
-description_extra_first_letter_upper: P
-description_extra_length_1: p
-description_extra_length_2: po
-description_extra_length_3: poz
-description_extra_length_4: pozi
-description_extra_length_5: pozid
-description_extra_length_6: pozidr
-description_extra_name: Pozidrive Head
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: po
-description_extra_no_space_length_3: poz
-description_extra_no_space_length_4: pozi
-description_extra_no_space_length_5: pozid
-description_extra_no_space_length_6: pozidr
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PO
-description_extra_no_space_upper_length_3: POZ
-description_extra_no_space_upper_length_4: POZI
-description_extra_no_space_upper_length_5: POZID
-description_extra_no_space_upper_length_6: POZIDR
-description_extra_upper: POZIDRIVE_HEAD
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PO
-description_extra_upper_length_3: POZ
-description_extra_upper_length_4: POZI
-description_extra_upper_length_5: POZID
-description_extra_upper_length_6: POZIDR
-description_main: 3_5_mm_diameter_50_mm_length
-description_main_capital: 3.5 mm Diameter 50 mm Length
+descripion_extra: pozidrive_head
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 3_5_mm_diameter_50_mm_length_pozidrive_head
+description_main_capital: 3.5 mm Diameter 50 mm Length Pozidrive Head
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
 description_main_length_1: '3'
@@ -121,7 +98,7 @@ description_main_length_3: '3_5'
 description_main_length_4: '3_5_'
 description_main_length_5: 3_5_m
 description_main_length_6: 3_5_mm
-description_main_name: 3 5 mm Diameter 50 mm Length
+description_main_name: 3 5 mm Diameter 50 mm Length Pozidrive Head
 description_main_no_space_length_1: '3'
 description_main_no_space_length_2: '35'
 description_main_no_space_length_3: 35m
@@ -134,7 +111,7 @@ description_main_no_space_upper_length_3: 35M
 description_main_no_space_upper_length_4: 35MM
 description_main_no_space_upper_length_5: 35MMD
 description_main_no_space_upper_length_6: 35MMDI
-description_main_upper: 3_5_MM_DIAMETER_50_MM_LENGTH
+description_main_upper: 3_5_MM_DIAMETER_50_MM_LENGTH_POZIDRIVE_HEAD
 description_main_upper_length_1: '3'
 description_main_upper_length_2: '3_'
 description_main_upper_length_3: '3_5'
@@ -197,7 +174,7 @@ manufacturer_upper_length_4: SCRE
 manufacturer_upper_length_5: SCREW
 manufacturer_upper_length_6: SCREW_
 manufacturers: []
-markdown_full: '[hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY](none)<br>[pz](none)<br>[Hardware
+markdown_full: '[hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY](none)<br>[](none)<br>[Hardware
   Screw Wood 3 5 Mm Diameter 50 Mm Length Pozidrive Head Screw Tite Two 726Fy](none)<br><br>'
 markdown_short: '[hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY](none)<br><br>'
 md5: 3e366f5267ff3a85635851ef85f08484
@@ -226,15 +203,12 @@ oomlout_detail_hierarchy_2_upper_length_4: SWOO
 oomlout_detail_hierarchy_3: 50_mm_length
 oomlout_detail_hierarchy_3_upper: 50_MM_LENGTH
 oomlout_detail_hierarchy_3_upper_length_4: 50LE
-oomlout_detail_hierarchy_4: pozidrive_head
-oomlout_detail_hierarchy_4_upper: POZIDRIVE_HEAD
-oomlout_detail_hierarchy_4_upper_length_4: POZI
-oomlout_detail_hierarchy_5: stite_two
-oomlout_detail_hierarchy_5_upper: STITE_TWO
-oomlout_detail_hierarchy_5_upper_length_4: STIT
-oomlout_detail_hierarchy_6: 726FY
-oomlout_detail_hierarchy_6_upper: 726FY
-oomlout_detail_hierarchy_6_upper_length_4: 726F
+oomlout_detail_hierarchy_4: stite_two
+oomlout_detail_hierarchy_4_upper: STITE_TWO
+oomlout_detail_hierarchy_4_upper_length_4: STIT
+oomlout_detail_hierarchy_5: 726FY
+oomlout_detail_hierarchy_5_upper: 726FY
+oomlout_detail_hierarchy_5_upper_length_4: 726F
 oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_wood_3_5_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_726FY
 oomp_word: monkey rabbit moon
@@ -281,9 +255,8 @@ price_1_name: orbital_fasteners
 price_2_name: accu
 price_3_name: amazon
 price_4_name: aliexpress
-short_code: pz
-short_code_upper: PZ
-short_name: ''
+short_code: ''
+short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
