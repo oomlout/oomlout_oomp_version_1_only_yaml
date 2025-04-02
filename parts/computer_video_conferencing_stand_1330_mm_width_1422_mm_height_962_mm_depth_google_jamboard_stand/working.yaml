@@ -1,0 +1,330 @@
+bip_39_word_dash_12: scissors-mimic-treat-trigger-paper-price-mesh-bar-frozen-farm-there-apology
+bip_39_word_dash_2: scissors-mimic
+bip_39_word_dash_3: scissors-mimic-treat
+bip_39_word_new_br_12: scissors<br>mimic<br>treat<br>trigger<br>paper<br>price<br>mesh<br>bar<br>frozen<br>farm<br>there<br>apology
+bip_39_word_new_br_2: scissors<br>mimic
+bip_39_word_new_br_3: scissors<br>mimic<br>treat
+bip_39_word_new_line_12: 'scissors
+
+  mimic
+
+  treat
+
+  trigger
+
+  paper
+
+  price
+
+  mesh
+
+  bar
+
+  frozen
+
+  farm
+
+  there
+
+  apology'
+bip_39_word_new_line_2: 'scissors
+
+  mimic'
+bip_39_word_new_line_3: 'scissors
+
+  mimic
+
+  treat'
+bip_39_word_no_space_12: scissorsmimictreattriggerpaperpricemeshbarfrozenfarmthereapology
+bip_39_word_no_space_2: scissorsmimic
+bip_39_word_no_space_3: scissorsmimictreat
+bip_39_word_space_12: scissors mimic treat trigger paper price mesh bar frozen farm
+  there apology
+bip_39_word_space_2: scissors mimic
+bip_39_word_space_3: scissors mimic treat
+bip_39_word_underscore_12: scissors_mimic_treat_trigger_paper_price_mesh_bar_frozen_farm_there_apology
+bip_39_word_underscore_2: scissors_mimic
+bip_39_word_underscore_3: scissors_mimic_treat
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: co
+classification_length_3: com
+classification_length_4: comp
+classification_length_5: compu
+classification_length_6: comput
+classification_name: Computer
+classification_no_space_length_1: c
+classification_no_space_length_2: co
+classification_no_space_length_3: com
+classification_no_space_length_4: comp
+classification_no_space_length_5: compu
+classification_no_space_length_6: comput
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CO
+classification_no_space_upper_length_3: COM
+classification_no_space_upper_length_4: COMP
+classification_no_space_upper_length_5: COMPU
+classification_no_space_upper_length_6: COMPUT
+classification_upper: COMPUTER
+classification_upper_length_1: C
+classification_upper_length_2: CO
+classification_upper_length_3: COM
+classification_upper_length_4: COMP
+classification_upper_length_5: COMPU
+classification_upper_length_6: COMPUT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 1330_mm_width_1422_mm_height_962_mm_depth
+description_main_capital: 1330 mm Width 1422 mm Height 962 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '13'
+description_main_length_3: '133'
+description_main_length_4: '1330'
+description_main_length_5: '1330_'
+description_main_length_6: 1330_m
+description_main_name: 1330 mm Width 1422 mm Height 962 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '13'
+description_main_no_space_length_3: '133'
+description_main_no_space_length_4: '1330'
+description_main_no_space_length_5: 1330m
+description_main_no_space_length_6: 1330mm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '13'
+description_main_no_space_upper_length_3: '133'
+description_main_no_space_upper_length_4: '1330'
+description_main_no_space_upper_length_5: 1330M
+description_main_no_space_upper_length_6: 1330MM
+description_main_upper: 1330_MM_WIDTH_1422_MM_HEIGHT_962_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '13'
+description_main_upper_length_3: '133'
+description_main_upper_length_4: '1330'
+description_main_upper_length_5: '1330_'
+description_main_upper_length_6: 1330_M
+description_only_numbers: '13301422962'
+description_only_numbers_short: 1M3
+description_or_color: 1M3
+description_or_color_upper: 1M3
+directory: parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+id: computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+id_no_class: video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+id_no_color: 1330mmwidth1422mmheight962mmdepthgooglejamboardstand
+id_no_size: 1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+id_no_type: stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206jmxg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206jmxg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206jmxg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206jmxg
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+manufacturer: google
+manufacturer_capital: Google
+manufacturer_first_letter: g
+manufacturer_first_letter_upper: G
+manufacturer_length_1: g
+manufacturer_length_2: go
+manufacturer_length_3: goo
+manufacturer_length_4: goog
+manufacturer_length_5: googl
+manufacturer_length_6: google
+manufacturer_name: Google
+manufacturer_no_space_length_1: g
+manufacturer_no_space_length_2: go
+manufacturer_no_space_length_3: goo
+manufacturer_no_space_length_4: goog
+manufacturer_no_space_length_5: googl
+manufacturer_no_space_length_6: google
+manufacturer_no_space_upper_length_1: G
+manufacturer_no_space_upper_length_2: GO
+manufacturer_no_space_upper_length_3: GOO
+manufacturer_no_space_upper_length_4: GOOG
+manufacturer_no_space_upper_length_5: GOOGL
+manufacturer_no_space_upper_length_6: GOOGLE
+manufacturer_upper: GOOGLE
+manufacturer_upper_length_1: G
+manufacturer_upper_length_2: GO
+manufacturer_upper_length_3: GOO
+manufacturer_upper_length_4: GOOG
+manufacturer_upper_length_5: GOOGL
+manufacturer_upper_length_6: GOOGLE
+manufacturers: []
+markdown_full: '[computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand](none)<br>[](none)<br>[Computer
+  Video Conferencing Stand 1330 Mm Width 1422 Mm Height 962 Mm Depth Google Jamboard
+  Stand](none)<br><br>'
+markdown_short: '[computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand](none)<br><br>'
+md5: a7c0d4caed12717aa9cffe89cfa33608
+md5_10: a7c0d4caed
+md5_10_upper: A7C0D4CAED
+md5_5: a7c0d
+md5_5_upper: A7C0D
+md5_6: a7c0d4
+md5_6_alpha: 6jmxg
+md5_6_alpha_upper: 6JMXG
+md5_6_upper: A7C0D4
+name: Computer Video Conferencing Stand 1330 mm Width 1422 mm Height 962 mm Depth
+  Google Jamboard Stand
+name_no_class: Video Conferencing Stand 1330 mm Width 1422 mm Height 962 mm Depth
+  Google Jamboard Stand
+name_no_color: 1330mmwidth1422mmheight962mmdepthgooglejamboardstand
+name_no_size: 1330 mm Width 1422 mm Height 962 mm Depth Google Jamboard Stand
+name_no_size_short: 1330 Mm Width 1422 Mm Height 962 Mm Depth Google Jamboard Stand
+name_no_type: Stand 1330 mm Width 1422 mm Height 962 mm Depth Google Jamboard Stand
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: video_conferencing
+oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
+oomlout_detail_hierarchy_2_upper_length_4: VIDE
+oomlout_detail_hierarchy_3: stand
+oomlout_detail_hierarchy_3_upper: STAND
+oomlout_detail_hierarchy_3_upper_length_4: STAN
+oomlout_detail_hierarchy_4: 1330_mm_width
+oomlout_detail_hierarchy_4_upper: 1330_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: '1330'
+oomlout_detail_hierarchy_5: 1422_mm_height
+oomlout_detail_hierarchy_5_upper: 1422_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: '1422'
+oomlout_detail_hierarchy_6: 962_mm_depth
+oomlout_detail_hierarchy_6_upper: 962_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 962D
+oomlout_detail_hierarchy_7: google
+oomlout_detail_hierarchy_7_upper: GOOGLE
+oomlout_detail_hierarchy_7_upper_length_4: GOOG
+oomlout_detail_hierarchy_8: jamboard_stand
+oomlout_detail_hierarchy_8_upper: JAMBOARD_STAND
+oomlout_detail_hierarchy_8_upper_length_4: JAMB
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_computer_video_conferencing_stand_1330_mm_width_1422_mm_height_962_mm_depth_google_jamboard_stand
+oomp_word: guitar bread corn
+oomp_word_emoji: ':guitar: :bread: :corn:'
+oomp_word_emoji_list:
+- ':guitar:'
+- ':bread:'
+- ':corn:'
+oomp_word_list:
+- guitar
+- bread
+- corn
+part_number: jamboard_stand
+part_number_capital: Jamboard Stand
+part_number_first_letter: j
+part_number_first_letter_upper: J
+part_number_length_1: j
+part_number_length_2: ja
+part_number_length_3: jam
+part_number_length_4: jamb
+part_number_length_5: jambo
+part_number_length_6: jamboa
+part_number_name: Jamboard Stand
+part_number_no_space_length_1: j
+part_number_no_space_length_2: ja
+part_number_no_space_length_3: jam
+part_number_no_space_length_4: jamb
+part_number_no_space_length_5: jambo
+part_number_no_space_length_6: jamboa
+part_number_no_space_upper_length_1: J
+part_number_no_space_upper_length_2: JA
+part_number_no_space_upper_length_3: JAM
+part_number_no_space_upper_length_4: JAMB
+part_number_no_space_upper_length_5: JAMBO
+part_number_no_space_upper_length_6: JAMBOA
+part_number_upper: JAMBOARD_STAND
+part_number_upper_length_1: J
+part_number_upper_length_2: JA
+part_number_upper_length_3: JAM
+part_number_upper_length_4: JAMB
+part_number_upper_length_5: JAMBO
+part_number_upper_length_6: JAMBOA
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: stand
+size_capital: Stand
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: sta
+size_length_4: stan
+size_length_5: stand
+size_length_6: stand
+size_name: Stand
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: sta
+size_no_space_length_4: stan
+size_no_space_length_5: stand
+size_no_space_length_6: stand
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STA
+size_no_space_upper_length_4: STAN
+size_no_space_upper_length_5: STAND
+size_no_space_upper_length_6: STAND
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STAND
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STA
+size_upper_length_4: STAN
+size_upper_length_5: STAND
+size_upper_length_6: STAND
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vid
+type_length_4: vide
+type_length_5: video
+type_length_6: video_
+type_name: Video Conferencing
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vid
+type_no_space_length_4: vide
+type_no_space_length_5: video
+type_no_space_length_6: videoc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VID
+type_no_space_upper_length_4: VIDE
+type_no_space_upper_length_5: VIDEO
+type_no_space_upper_length_6: VIDEOC
+type_upper: VIDEO_CONFERENCING
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VID
+type_upper_length_4: VIDE
+type_upper_length_5: VIDEO
+type_upper_length_6: VIDEO_
