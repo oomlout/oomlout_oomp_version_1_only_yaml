@@ -153,16 +153,8 @@ id_no_class: storage_container_oomlout_owner_tote_burgundy_134
 id_no_color: '134'
 id_no_size: tote_burgundy_134
 id_no_type: oomlout_owner_tote_burgundy_134
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_134
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_134
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_134
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_134
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2076ntu
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2076ntu
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2076ntu
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2076ntu
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_134
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,22 +181,6 @@ name_no_color: '134'
 name_no_size: Tote Burgundy 134
 name_no_size_short: Tote Burgundy 134
 name_no_type: Oomlout Owner Tote Burgundy 134
-oomlout_detail_hierarchy_1: warehouse
-oomlout_detail_hierarchy_1_upper: WAREHOUSE
-oomlout_detail_hierarchy_1_upper_length_4: WARE
-oomlout_detail_hierarchy_2: storage_container
-oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
-oomlout_detail_hierarchy_2_upper_length_4: STOR
-oomlout_detail_hierarchy_3: owner
-oomlout_detail_hierarchy_3_upper: OWNER
-oomlout_detail_hierarchy_3_upper_length_4: OWNE
-oomlout_detail_hierarchy_4: tote_burgundy
-oomlout_detail_hierarchy_4_upper: TOTE_BURGUNDY
-oomlout_detail_hierarchy_4_upper_length_4: TOTE
-oomlout_detail_hierarchy_5: '134'
-oomlout_detail_hierarchy_5_upper: '134'
-oomlout_detail_hierarchy_5_upper_length_4: '134'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_burgundy_134
 oomp_word: hamburger ear lips
 oomp_word_emoji: ':hamburger: :ear: :lips:'
@@ -223,10 +199,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

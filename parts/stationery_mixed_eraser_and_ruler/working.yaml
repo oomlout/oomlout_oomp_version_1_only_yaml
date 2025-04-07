@@ -129,16 +129,8 @@ id_no_class: mixed_eraser_and_ruler
 id_no_color: eraserandruler
 id_no_size: eraserandruler
 id_no_type: eraser_and_ruler
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_eraser_and_ruler
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_eraser_and_ruler
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_eraser_and_ruler
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_eraser_and_ruler
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201pk7k
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201pk7k
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201pk7k
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201pk7k
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_eraser_and_ruler
 manufacturer: ''
 manufacturer_capital: ''
@@ -165,16 +157,6 @@ name_no_color: Eraserandruler
 name_no_size: Eraserandruler
 name_no_size_short: Eraserandruler
 name_no_type: Eraser And Ruler
-oomlout_detail_hierarchy_1: stationery
-oomlout_detail_hierarchy_1_upper: STATIONERY
-oomlout_detail_hierarchy_1_upper_length_4: STAT
-oomlout_detail_hierarchy_2: mixed
-oomlout_detail_hierarchy_2_upper: MIXED
-oomlout_detail_hierarchy_2_upper_length_4: MIXE
-oomlout_detail_hierarchy_3: eraser_and_ruler
-oomlout_detail_hierarchy_3_upper: ERASER_AND_RULER
-oomlout_detail_hierarchy_3_upper_length_4: ERAS
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_mixed_eraser_and_ruler
 oomp_word: cloud tomato scissors
 oomp_word_emoji: ':cloud: :tomato: :scissors:'
@@ -192,10 +174,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

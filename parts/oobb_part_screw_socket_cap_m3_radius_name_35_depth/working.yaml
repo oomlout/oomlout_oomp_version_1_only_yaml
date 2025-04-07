@@ -129,16 +129,8 @@ id_no_class: part_screw_socket_cap_m3_radius_name_35_depth
 id_no_color: m3radiusname35depth
 id_no_size: m3_radius_name_35_depth
 id_no_type: screw_socket_cap_m3_radius_name_35_depth
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_35_depth
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_35_depth
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_35_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_35_depth
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205prtv
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205prtv
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205prtv
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205prtv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_socket_cap_m3_radius_name_35_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -165,19 +157,6 @@ name_no_color: M3Radiusname35Depth
 name_no_size: M3 Radius Name 35 Depth
 name_no_size_short: M3 Radius Name 35 Depth
 name_no_type: Screw Socket Cap M3 Radius Name 35 Depth
-oomlout_detail_hierarchy_1: oobb
-oomlout_detail_hierarchy_1_upper: OOBB
-oomlout_detail_hierarchy_1_upper_length_4: OOBB
-oomlout_detail_hierarchy_2: part
-oomlout_detail_hierarchy_2_upper: PART
-oomlout_detail_hierarchy_2_upper_length_4: PART
-oomlout_detail_hierarchy_3: ssocket_cap
-oomlout_detail_hierarchy_3_upper: SSOCKET_CAP
-oomlout_detail_hierarchy_3_upper_length_4: SSOC
-oomlout_detail_hierarchy_4: m3_radius_name_35_depth
-oomlout_detail_hierarchy_4_upper: M3_RADIUS_NAME_35_DEPTH
-oomlout_detail_hierarchy_4_upper_length_4: M3_R
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_screw_socket_cap_m3_radius_name_35_depth
 oomp_word: paperclip fax kiss
 oomp_word_emoji: ':paperclip: :fax: :kiss:'
@@ -195,10 +174,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

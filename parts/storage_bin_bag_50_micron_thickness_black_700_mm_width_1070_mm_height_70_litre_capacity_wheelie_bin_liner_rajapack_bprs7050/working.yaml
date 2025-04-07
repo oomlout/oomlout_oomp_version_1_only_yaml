@@ -177,16 +177,8 @@ id_no_class: bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_li
 id_no_color: 700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
 id_no_size: black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
 id_no_type: 50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208t4py
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208t4py
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208t4py
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208t4py
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
 manufacturer: rajapack
 manufacturer_capital: Rajapack
@@ -244,34 +236,6 @@ name_no_size_short: Black 700 Mm Width 1070 Mm Height 70 Litre Capacity Wheelie 
   Liner Rajapack Bprs7050
 name_no_type: 50 Micron Thickness Black 700 mm Width 1070 mm Height 70 Litre Capacity
   Wheelie Bin Liner Rajapack Bprs7050
-oomlout_detail_hierarchy_1: storage
-oomlout_detail_hierarchy_1_upper: STORAGE
-oomlout_detail_hierarchy_1_upper_length_4: STOR
-oomlout_detail_hierarchy_2: bin_bag
-oomlout_detail_hierarchy_2_upper: BIN_BAG
-oomlout_detail_hierarchy_2_upper_length_4: BIN_
-oomlout_detail_hierarchy_3: 50_micron_thickness
-oomlout_detail_hierarchy_3_upper: 50_MICRON_THICKNESS
-oomlout_detail_hierarchy_3_upper_length_4: 50_M
-oomlout_detail_hierarchy_4: black
-oomlout_detail_hierarchy_4_upper: BLACK
-oomlout_detail_hierarchy_4_upper_length_4: BLAC
-oomlout_detail_hierarchy_5: 700_mm_width
-oomlout_detail_hierarchy_5_upper: 700_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 700W
-oomlout_detail_hierarchy_6: 1070_mm_height
-oomlout_detail_hierarchy_6_upper: 1070_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: '1070'
-oomlout_detail_hierarchy_7: wheelie_bin_liner
-oomlout_detail_hierarchy_7_upper: WHEELIE_BIN_LINER
-oomlout_detail_hierarchy_7_upper_length_4: WHEE
-oomlout_detail_hierarchy_8: rajapack
-oomlout_detail_hierarchy_8_upper: RAJAPACK
-oomlout_detail_hierarchy_8_upper_length_4: RAJA
-oomlout_detail_hierarchy_9: bprs7050
-oomlout_detail_hierarchy_9_upper: BPRS7050
-oomlout_detail_hierarchy_9_upper_length_4: BPRS
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
 oomp_word: boat candy eyes
 oomp_word_emoji: ':boat: :candy: :eyes:'
@@ -313,10 +277,6 @@ part_number_upper_length_3: BPR
 part_number_upper_length_4: BPRS
 part_number_upper_length_5: BPRS7
 part_number_upper_length_6: BPRS70
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: b
 short_code_upper: B
 short_name: ''

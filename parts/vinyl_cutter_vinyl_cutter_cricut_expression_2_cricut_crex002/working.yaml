@@ -131,17 +131,9 @@ id_no_class: cricut_expression_2_cricut_crex002
 id_no_color: expression2crex002
 id_no_size: expression_2_crex002
 id_no_type: cricut_expression_2_cricut_crex002
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
-link_2_name: link_github
 link_distributor_cricut: ''
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208tbbt
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208tbbt
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208tbbt
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208tbbt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 manufacturer: cricut
 manufacturer_capital: Cricut
@@ -192,25 +184,6 @@ name_no_color: Expression2Crex002
 name_no_size: Expression 2 Crex002
 name_no_size_short: Expression 2 Crex002
 name_no_type: Cricut Expression 2 Cricut Crex002
-oomlout_detail_hierarchy_1: vinyl_cutter
-oomlout_detail_hierarchy_1_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_1_upper_length_4: VINY
-oomlout_detail_hierarchy_2: vinyl_cutter
-oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_2_upper_length_4: VINY
-oomlout_detail_hierarchy_3: cricut
-oomlout_detail_hierarchy_3_upper: CRICUT
-oomlout_detail_hierarchy_3_upper_length_4: CRIC
-oomlout_detail_hierarchy_4: expression_2
-oomlout_detail_hierarchy_4_upper: EXPRESSION_2
-oomlout_detail_hierarchy_4_upper_length_4: EXPR
-oomlout_detail_hierarchy_5: cricut
-oomlout_detail_hierarchy_5_upper: CRICUT
-oomlout_detail_hierarchy_5_upper_length_4: CRIC
-oomlout_detail_hierarchy_6: crex002
-oomlout_detail_hierarchy_6_upper: CREX002
-oomlout_detail_hierarchy_6_upper_length_4: CREX
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 oomp_word: boat airplane bowling
 oomp_word_emoji: ':boat: :airplane: :bowling:'
@@ -253,10 +226,6 @@ part_number_upper_length_3: CRE
 part_number_upper_length_4: CREX
 part_number_upper_length_5: CREX0
 part_number_upper_length_6: CREX00
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: cricut

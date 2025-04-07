@@ -129,16 +129,8 @@ id_no_class: takeaway_container_circle_60_ml_heavy_duty_satco
 id_no_color: heavydutysatco
 id_no_size: heavy_duty_satco
 id_no_type: 60_ml_heavy_duty_satco
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2047rzv
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2047rzv
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2047rzv
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2047rzv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_60_ml_heavy_duty_satco
 manufacturer: satco
 manufacturer_capital: Satco
@@ -189,22 +181,6 @@ name_no_color: Heavydutysatco
 name_no_size: Heavy Duty Satco
 name_no_size_short: Heavy Duty Satco
 name_no_type: 60 Ml Heavy Duty Satco
-oomlout_detail_hierarchy_1: packaging
-oomlout_detail_hierarchy_1_upper: PACKAGING
-oomlout_detail_hierarchy_1_upper_length_4: PACK
-oomlout_detail_hierarchy_2: takeaway_container_circle
-oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
-oomlout_detail_hierarchy_2_upper_length_4: TAKE
-oomlout_detail_hierarchy_3: 60_ml
-oomlout_detail_hierarchy_3_upper: 60_ML
-oomlout_detail_hierarchy_3_upper_length_4: 60_M
-oomlout_detail_hierarchy_4: heavy_duty
-oomlout_detail_hierarchy_4_upper: HEAVY_DUTY
-oomlout_detail_hierarchy_4_upper_length_4: HEAV
-oomlout_detail_hierarchy_5: satco
-oomlout_detail_hierarchy_5_upper: SATCO
-oomlout_detail_hierarchy_5_upper_length_4: SATC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcc60
 oomlout_short_code_upper: TCC60
 oomp_key: oomp_packaging_takeaway_container_circle_60_ml_heavy_duty_satco
@@ -224,10 +200,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

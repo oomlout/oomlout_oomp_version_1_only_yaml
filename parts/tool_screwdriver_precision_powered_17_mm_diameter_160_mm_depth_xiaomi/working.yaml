@@ -109,16 +109,8 @@ id_no_class: screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
 id_no_color: xiaomi
 id_no_size: xiaomi
 id_no_type: 17_mm_diameter_160_mm_depth_xiaomi
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202unqo
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202unqo
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202unqo
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202unqo
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
 manufacturer: xiaomi
 manufacturer_capital: Xiaomi
@@ -169,19 +161,6 @@ name_no_color: Xiaomi
 name_no_size: Xiaomi
 name_no_size_short: Xiaomi
 name_no_type: 17 mm Diameter 160 mm Depth Xiaomi
-oomlout_detail_hierarchy_1: tool
-oomlout_detail_hierarchy_1_upper: TOOL
-oomlout_detail_hierarchy_1_upper_length_4: TOOL
-oomlout_detail_hierarchy_2: screwdriver_precision_powered
-oomlout_detail_hierarchy_2_upper: SCREWDRIVER_PRECISION_POWERED
-oomlout_detail_hierarchy_2_upper_length_4: SCRE
-oomlout_detail_hierarchy_3: 160_mm_depth
-oomlout_detail_hierarchy_3_upper: 160_MM_DEPTH
-oomlout_detail_hierarchy_3_upper_length_4: 160D
-oomlout_detail_hierarchy_4: xiaomi
-oomlout_detail_hierarchy_4_upper: XIAOMI
-oomlout_detail_hierarchy_4_upper_length_4: XIAO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_xiaomi
 oomp_word: hatching_chick poop crown
 oomp_word_emoji: ':hatching_chick: :poop: :crown:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 17_mm_diameter_160_mm_depth

@@ -129,16 +129,8 @@ id_no_class: jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_k
 id_no_color: 1000mlcapacity110mmdiameter180mmdepthkilner0025491
 id_no_size: 1000mlcapacity110mmdiameter180mmdepthkilner0025491
 id_no_type: 1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2040o6u
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2040o6u
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2040o6u
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2040o6u
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
 link_short_1: kilner_1_litre
 link_short_2: kilner1l
@@ -194,22 +186,6 @@ name_no_color: 1000Mlcapacity110mmdiameter180mmdepthkilner0025491
 name_no_size: 1000Mlcapacity110mmdiameter180mmdepthkilner0025491
 name_no_size_short: 1000Mlcapacity110Mmdiameter180Mmdepthkilner0025491
 name_no_type: 1000 Ml Capacity 110 mm Diameter 180 mm Depth Kilner 0025 491
-oomlout_detail_hierarchy_1: storage
-oomlout_detail_hierarchy_1_upper: STORAGE
-oomlout_detail_hierarchy_1_upper_length_4: STOR
-oomlout_detail_hierarchy_2: jar_clip_top_kilner
-oomlout_detail_hierarchy_2_upper: JAR_CLIP_TOP_KILNER
-oomlout_detail_hierarchy_2_upper_length_4: JAR_
-oomlout_detail_hierarchy_3: 180_mm_depth
-oomlout_detail_hierarchy_3_upper: 180_MM_DEPTH
-oomlout_detail_hierarchy_3_upper_length_4: 180D
-oomlout_detail_hierarchy_4: kilner
-oomlout_detail_hierarchy_4_upper: KILNER
-oomlout_detail_hierarchy_4_upper_length_4: KILN
-oomlout_detail_hierarchy_5: 0025_491
-oomlout_detail_hierarchy_5_upper: 0025_491
-oomlout_detail_hierarchy_5_upper_length_4: '0025'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_storage_jar_clip_top_kilner_1000_ml_capacity_110_mm_diameter_180_mm_depth_kilner_0025_491
 oomp_word: leaves recycle santa
 oomp_word_emoji: ':leaves: :recycle: :santa:'
@@ -252,10 +228,6 @@ part_number_upper_length_3: '002'
 part_number_upper_length_4: '0025'
 part_number_upper_length_5: '0025_'
 part_number_upper_length_6: '0025_4'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

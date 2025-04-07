@@ -132,16 +132,8 @@ id_no_class: screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two
 id_no_color: 4mmdiameter50mmlengthpozidriveheadscrewtitetwo127FY
 id_no_size: 4mmdiameter50mmlengthpozidriveheadscrewtitetwo127FY
 id_no_type: 4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ou5z
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ou5z
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204ou5z
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ou5z
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
 manufacturer: screw_tite_two
 manufacturer_capital: Screw Tite Two
@@ -194,22 +186,6 @@ name_no_color: 4mmdiameter50mmlengthpozidriveheadscrewtitetwo127Fy
 name_no_size: 4mmdiameter50mmlengthpozidriveheadscrewtitetwo127Fy
 name_no_size_short: 4Mmdiameter50Mmlengthpozidriveheadscrewtitetwo127Fy
 name_no_type: 4 mm Diameter 50 mm Length Pozidrive Head Screw Tite Two 127Fy
-oomlout_detail_hierarchy_1: hardware
-oomlout_detail_hierarchy_1_upper: HARDWARE
-oomlout_detail_hierarchy_1_upper_length_4: HARD
-oomlout_detail_hierarchy_2: swood
-oomlout_detail_hierarchy_2_upper: SWOOD
-oomlout_detail_hierarchy_2_upper_length_4: SWOO
-oomlout_detail_hierarchy_3: 50_mm_length
-oomlout_detail_hierarchy_3_upper: 50_MM_LENGTH
-oomlout_detail_hierarchy_3_upper_length_4: 50LE
-oomlout_detail_hierarchy_4: stite_two
-oomlout_detail_hierarchy_4_upper: STITE_TWO
-oomlout_detail_hierarchy_4_upper_length_4: STIT
-oomlout_detail_hierarchy_5: 127FY
-oomlout_detail_hierarchy_5_upper: 127FY
-oomlout_detail_hierarchy_5_upper_length_4: 127F
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_wood_4_mm_diameter_50_mm_length_pozidrive_head_screw_tite_two_127FY
 oomp_word: bell cat pizza
 oomp_word_emoji: ':bell: :cat: :pizza:'
@@ -251,10 +227,6 @@ part_number_upper_length_3: '127'
 part_number_upper_length_4: 127F
 part_number_upper_length_5: 127FY
 part_number_upper_length_6: 127FY
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

@@ -153,16 +153,8 @@ id_no_class: wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
 id_no_color: 10mmdiameterrollerplasticdeodorantroller
 id_no_size: 10_mm_diameter_roller_plastic_deodorant_roller
 id_no_type: caster_10_mm_diameter_roller_plastic_deodorant_roller
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20yj9z
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20yj9z
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20yj9z
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20yj9z
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,22 +181,6 @@ name_no_color: 10mmdiameterrollerplasticdeodorantroller
 name_no_size: 10 mm Diameter Roller Plastic Deodorant Roller
 name_no_size_short: 10 Mm Diameter Roller Plastic Deodorant Roller
 name_no_type: Caster 10 mm Diameter Roller Plastic Deodorant Roller
-oomlout_detail_hierarchy_1: mechanical
-oomlout_detail_hierarchy_1_upper: MECHANICAL
-oomlout_detail_hierarchy_1_upper_length_4: MECH
-oomlout_detail_hierarchy_2: wheel
-oomlout_detail_hierarchy_2_upper: WHEEL
-oomlout_detail_hierarchy_2_upper_length_4: WHEE
-oomlout_detail_hierarchy_3: caster
-oomlout_detail_hierarchy_3_upper: CASTER
-oomlout_detail_hierarchy_3_upper_length_4: CAST
-oomlout_detail_hierarchy_4: 10_mm_diameter_roller_plastic
-oomlout_detail_hierarchy_4_upper: 10_MM_DIAMETER_ROLLER_PLASTIC
-oomlout_detail_hierarchy_4_upper_length_4: 10DI
-oomlout_detail_hierarchy_5: deodorant_roller
-oomlout_detail_hierarchy_5_upper: DEODORANT_ROLLER
-oomlout_detail_hierarchy_5_upper_length_4: DEOD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
 oomp_word: hand basketball thumbsdown
 oomp_word_emoji: ':hand: :basketball: :thumbsdown:'
@@ -222,10 +198,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Roller Ball 10mm Diameter

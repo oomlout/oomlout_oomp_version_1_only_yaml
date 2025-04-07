@@ -131,17 +131,9 @@ id_no_class: cricut_explore_air_2_cricut_cxpl202
 id_no_color: exploreair2cxpl202
 id_no_size: explore_air_2_cxpl202
 id_no_type: cricut_explore_air_2_cricut_cxpl202
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_2_cricut_cxpl202
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_2_cricut_cxpl202
-link_2_name: link_github
 link_distributor_cricut: ''
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_2_cricut_cxpl202
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_2_cricut_cxpl202
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209it7p
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209it7p
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209it7p
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209it7p
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_2_cricut_cxpl202
 manufacturer: cricut
 manufacturer_capital: Cricut
@@ -192,25 +184,6 @@ name_no_color: Exploreair2Cxpl202
 name_no_size: Explore Air 2 Cxpl202
 name_no_size_short: Explore Air 2 Cxpl202
 name_no_type: Cricut Explore Air 2 Cricut Cxpl202
-oomlout_detail_hierarchy_1: vinyl_cutter
-oomlout_detail_hierarchy_1_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_1_upper_length_4: VINY
-oomlout_detail_hierarchy_2: vinyl_cutter
-oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_2_upper_length_4: VINY
-oomlout_detail_hierarchy_3: cricut
-oomlout_detail_hierarchy_3_upper: CRICUT
-oomlout_detail_hierarchy_3_upper_length_4: CRIC
-oomlout_detail_hierarchy_4: explore_air_2
-oomlout_detail_hierarchy_4_upper: EXPLORE_AIR_2
-oomlout_detail_hierarchy_4_upper_length_4: EXPL
-oomlout_detail_hierarchy_5: cricut
-oomlout_detail_hierarchy_5_upper: CRICUT
-oomlout_detail_hierarchy_5_upper_length_4: CRIC
-oomlout_detail_hierarchy_6: cxpl202
-oomlout_detail_hierarchy_6_upper: CXPL202
-oomlout_detail_hierarchy_6_upper_length_4: CXPL
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_explore_air_2_cricut_cxpl202
 oomp_word: three heart maple_leaf
 oomp_word_emoji: ':three: :heart: :maple_leaf:'
@@ -253,10 +226,6 @@ part_number_upper_length_3: CXP
 part_number_upper_length_4: CXPL
 part_number_upper_length_5: CXPL2
 part_number_upper_length_6: CXPL20
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: cricut

@@ -131,16 +131,8 @@ id_no_class: takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118
 id_no_color: 195mmwidth195mmheight118mmdepthtamperevidentsystempak2306
 id_no_size: 195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
 id_no_type: 3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202i4g6
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202i4g6
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202i4g6
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202i4g6
 link_purchase: https://systempak.net/product/3000ml-square-tamper-evident-containers-and-lids/
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
 manufacturer: systempak
@@ -197,31 +189,6 @@ name_no_size_short: 195 Mm Width 195 Mm Height 118 Mm Depth Tamper Evident Syste
   2306
 name_no_type: 3000 Ml 195 mm Width 195 mm Height 118 mm Depth Tamper Evident Systempak
   2306
-oomlout_detail_hierarchy_1: packaging
-oomlout_detail_hierarchy_1_upper: PACKAGING
-oomlout_detail_hierarchy_1_upper_length_4: PACK
-oomlout_detail_hierarchy_2: takeaway_container_rectangle
-oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_RECTANGLE
-oomlout_detail_hierarchy_2_upper_length_4: TAKE
-oomlout_detail_hierarchy_3: 3000_ml
-oomlout_detail_hierarchy_3_upper: 3000_ML
-oomlout_detail_hierarchy_3_upper_length_4: '3000'
-oomlout_detail_hierarchy_4: 195_mm_width
-oomlout_detail_hierarchy_4_upper: 195_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 195W
-oomlout_detail_hierarchy_5: 195_mm_height
-oomlout_detail_hierarchy_5_upper: 195_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 195H
-oomlout_detail_hierarchy_6: 118_mm_depth
-oomlout_detail_hierarchy_6_upper: 118_MM_DEPTH
-oomlout_detail_hierarchy_6_upper_length_4: 118D
-oomlout_detail_hierarchy_7: systempak
-oomlout_detail_hierarchy_7_upper: SYSTEMPAK
-oomlout_detail_hierarchy_7_upper_length_4: SYST
-oomlout_detail_hierarchy_8: '2306'
-oomlout_detail_hierarchy_8_upper: '2306'
-oomlout_detail_hierarchy_8_upper_length_4: '2306'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcr3000
 oomlout_short_code_upper: TCR3000
 oomp_key: oomp_packaging_takeaway_container_rectangle_3000_ml_195_mm_width_195_mm_height_118_mm_depth_tamper_evident_systempak_2306
@@ -265,10 +232,6 @@ part_number_upper_length_3: '230'
 part_number_upper_length_4: '2306'
 part_number_upper_length_5: '2306'
 part_number_upper_length_6: '2306'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

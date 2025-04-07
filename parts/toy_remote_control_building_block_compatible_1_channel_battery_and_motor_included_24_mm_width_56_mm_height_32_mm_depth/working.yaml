@@ -132,21 +132,9 @@ id_no_class: remote_control_building_block_compatible_1_channel_battery_and_moto
 id_no_color: 1channelbatteryandmotorincluded24mmwidth56mmheight32mmdepth
 id_no_size: 1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
 id_no_type: building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
-link_2_name: link_github
-link_3: https://www.aliexpress.com/item/1005007142691134.html
-link_3_name: link_distributor_aliexpress
-link_buy_1: https://www.aliexpress.com/item/1005007142691134.html
-link_buy_1_name: link_distributor_aliexpress
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007142691134.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20m5zx
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20m5zx
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20m5zx
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20m5zx
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -179,25 +167,6 @@ name_no_size_short: 1 Channel Battery And Motor Included 24 Mm Width 56 Mm Heigh
   32 Mm Depth
 name_no_type: Building Block Compatible 1 Channel Battery And Motor Included 24 mm
   Width 56 mm Height 32 mm Depth
-oomlout_detail_hierarchy_1: toy
-oomlout_detail_hierarchy_1_upper: TOY
-oomlout_detail_hierarchy_1_upper_length_4: TOY
-oomlout_detail_hierarchy_2: remote_control
-oomlout_detail_hierarchy_2_upper: REMOTE_CONTROL
-oomlout_detail_hierarchy_2_upper_length_4: REMO
-oomlout_detail_hierarchy_3: building_block_compatible
-oomlout_detail_hierarchy_3_upper: BUILDING_BLOCK_COMPATIBLE
-oomlout_detail_hierarchy_3_upper_length_4: BUIL
-oomlout_detail_hierarchy_4: 24_mm_width
-oomlout_detail_hierarchy_4_upper: 24_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 24WI
-oomlout_detail_hierarchy_5: 56_mm_height
-oomlout_detail_hierarchy_5_upper: 56_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 56HE
-oomlout_detail_hierarchy_6: 32_mm_depth
-oomlout_detail_hierarchy_6_upper: 32_MM_DEPTH
-oomlout_detail_hierarchy_6_upper_length_4: 32DE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_remote_control_building_block_compatible_1_channel_battery_and_motor_included_24_mm_width_56_mm_height_32_mm_depth
 oomp_word: sparkles honey_pot stars
 oomp_word_emoji: ':sparkles: :honey_pot: :stars:'
@@ -215,10 +184,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: building_block_compatible
