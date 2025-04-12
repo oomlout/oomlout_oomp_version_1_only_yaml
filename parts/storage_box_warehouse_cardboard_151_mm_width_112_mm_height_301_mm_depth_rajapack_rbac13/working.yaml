@@ -153,8 +153,16 @@ id_no_class: box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_raj
 id_no_color: cardboard151mmwidth112mmheight301mmdepthrajapackrbac13
 id_no_size: cardboard151mmwidth112mmheight301mmdepthrajapackrbac13
 id_no_type: cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2021ula
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2021ula
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2021ula
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2021ula
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
 manufacturer: rajapack
 manufacturer_capital: Rajapack
@@ -207,6 +215,31 @@ name_no_color: Cardboard151mmwidth112mmheight301mmdepthrajapackrbac13
 name_no_size: Cardboard151mmwidth112mmheight301mmdepthrajapackrbac13
 name_no_size_short: Cardboard151Mmwidth112Mmheight301Mmdepthrajapackrbac13
 name_no_type: Cardboard 151 mm Width 112 mm Height 301 mm Depth Rajapack Rbac13
+oomlout_detail_hierarchy_1: storage
+oomlout_detail_hierarchy_1_upper: STORAGE
+oomlout_detail_hierarchy_1_upper_length_4: STOR
+oomlout_detail_hierarchy_2: box_warehouse
+oomlout_detail_hierarchy_2_upper: BOX_WAREHOUSE
+oomlout_detail_hierarchy_2_upper_length_4: BOX_
+oomlout_detail_hierarchy_3: cardboard
+oomlout_detail_hierarchy_3_upper: CARDBOARD
+oomlout_detail_hierarchy_3_upper_length_4: CARD
+oomlout_detail_hierarchy_4: 151_mm_width
+oomlout_detail_hierarchy_4_upper: 151_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 151W
+oomlout_detail_hierarchy_5: 112_mm_height
+oomlout_detail_hierarchy_5_upper: 112_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 112H
+oomlout_detail_hierarchy_6: 301_mm_depth
+oomlout_detail_hierarchy_6_upper: 301_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 301D
+oomlout_detail_hierarchy_7: rajapack
+oomlout_detail_hierarchy_7_upper: RAJAPACK
+oomlout_detail_hierarchy_7_upper_length_4: RAJA
+oomlout_detail_hierarchy_8: rbac13
+oomlout_detail_hierarchy_8_upper: RBAC13
+oomlout_detail_hierarchy_8_upper_length_4: RBAC
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_storage_box_warehouse_cardboard_151_mm_width_112_mm_height_301_mm_depth_rajapack_rbac13
 oomp_word: mouse books angel
 oomp_word_emoji: ':mouse: :books: :angel:'
@@ -248,6 +281,10 @@ part_number_upper_length_3: RBA
 part_number_upper_length_4: RBAC
 part_number_upper_length_5: RBAC1
 part_number_upper_length_6: RBAC13
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

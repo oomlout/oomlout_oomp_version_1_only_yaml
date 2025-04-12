@@ -131,10 +131,26 @@ id_no_class: remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_hei
 id_no_color: excavator300mmwidth105mmheight150mmdepthyigongtoysbc1044
 id_no_size: excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 id_no_type: 2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B0D3KQQX6G
+link_3_name: link_distributor_amazon
+link_4: https://www.aliexpress.com/item/1005007659407993.html
+link_4_name: link_distributor_aliexpress
+link_buy_1: https://www.amazon.co.uk/dp/B0D3KQQX6G
+link_buy_1_name: link_distributor_amazon
+link_buy_2: https://www.aliexpress.com/item/1005007659407993.html
+link_buy_2_name: link_distributor_aliexpress
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007659407993.html
 link_distributor_amazon: https://www.amazon.co.uk/dp/B0D3KQQX6G
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201twba
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201twba
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201twba
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201twba
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 manufacturer: yi_gong_toys
 manufacturer_capital: Yi Gong Toys
@@ -190,6 +206,31 @@ name_no_size_short: Excavator 300 Mm Width 105 Mm Height 150 Mm Depth Yi Gong To
   Bc1044
 name_no_type: 2 4 Ghz Controller Excavator 300 mm Width 105 mm Height 150 mm Depth
   Yi Gong Toys Bc1044
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: remote_control
+oomlout_detail_hierarchy_2_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_2_upper_length_4: REMO
+oomlout_detail_hierarchy_3: 2_4_ghz_controller
+oomlout_detail_hierarchy_3_upper: 2_4_GHZ_CONTROLLER
+oomlout_detail_hierarchy_3_upper_length_4: '2_4_'
+oomlout_detail_hierarchy_4: 300_mm_width
+oomlout_detail_hierarchy_4_upper: 300_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 300W
+oomlout_detail_hierarchy_5: 105_mm_height
+oomlout_detail_hierarchy_5_upper: 105_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 105H
+oomlout_detail_hierarchy_6: 150_mm_depth
+oomlout_detail_hierarchy_6_upper: 150_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 150D
+oomlout_detail_hierarchy_7: yi_gong_toys
+oomlout_detail_hierarchy_7_upper: YI_GONG_TOYS
+oomlout_detail_hierarchy_7_upper_length_4: YI_G
+oomlout_detail_hierarchy_8: bc1044
+oomlout_detail_hierarchy_8_upper: BC1044
+oomlout_detail_hierarchy_8_upper_length_4: BC10
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 oomp_word: zap bike school
 oomp_word_emoji: ':zap: :bike: :school:'
@@ -232,6 +273,10 @@ part_number_upper_length_3: BC1
 part_number_upper_length_4: BC10
 part_number_upper_length_5: BC104
 part_number_upper_length_6: BC1044
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

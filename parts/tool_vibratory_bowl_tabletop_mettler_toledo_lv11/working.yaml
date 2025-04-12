@@ -107,8 +107,16 @@ id_no_class: vibratory_bowl_tabletop_mettler_toledo_lv11
 id_no_color: mettlertoledolv11
 id_no_size: mettler_toledo_lv11
 id_no_type: tabletop_mettler_toledo_lv11
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207g8vs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207g8vs
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207g8vs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207g8vs
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
 manufacturer: mettler_toledo
 manufacturer_capital: Mettler Toledo
@@ -159,6 +167,22 @@ name_no_color: Mettlertoledolv11
 name_no_size: Mettler Toledo Lv11
 name_no_size_short: Mettler Toledo Lv11
 name_no_type: Tabletop Mettler Toledo Lv11
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: vibratory_bowl
+oomlout_detail_hierarchy_2_upper: VIBRATORY_BOWL
+oomlout_detail_hierarchy_2_upper_length_4: VIBR
+oomlout_detail_hierarchy_3: tabletop
+oomlout_detail_hierarchy_3_upper: TABLETOP
+oomlout_detail_hierarchy_3_upper_length_4: TABL
+oomlout_detail_hierarchy_4: mettler_toledo
+oomlout_detail_hierarchy_4_upper: METTLER_TOLEDO
+oomlout_detail_hierarchy_4_upper_length_4: METT
+oomlout_detail_hierarchy_5: lv11
+oomlout_detail_hierarchy_5_upper: LV11
+oomlout_detail_hierarchy_5_upper_length_4: LV11
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_vibratory_bowl_tabletop_mettler_toledo_lv11
 oomp_word: ramen six seven
 oomp_word_emoji: ':ramen: :six: :seven:'
@@ -200,6 +224,10 @@ part_number_upper_length_3: LV1
 part_number_upper_length_4: LV11
 part_number_upper_length_5: LV11
 part_number_upper_length_6: LV11
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: tabletop

@@ -130,9 +130,21 @@ id_no_class: bubble_wand_33_mm_diameter_370_mm_depth
 id_no_color: 33mmdiameter370mmdepth
 id_no_size: 33_mm_diameter_370_mm_depth
 id_no_type: wand_33_mm_diameter_370_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+link_2_name: link_github
+link_3: https://www.amazon.com/dp/B0CLSHKHM1
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.com/dp/B0CLSHKHM1
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.com/dp/B0CLSHKHM1
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203tq00
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203tq00
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203tq00
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203tq00
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -159,6 +171,19 @@ name_no_color: 33mmdiameter370mmdepth
 name_no_size: 33 mm Diameter 370 mm Depth
 name_no_size_short: 33 Mm Diameter 370 Mm Depth
 name_no_type: Wand 33 mm Diameter 370 mm Depth
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: bubble
+oomlout_detail_hierarchy_2_upper: BUBBLE
+oomlout_detail_hierarchy_2_upper_length_4: BUBB
+oomlout_detail_hierarchy_3: wand
+oomlout_detail_hierarchy_3_upper: WAND
+oomlout_detail_hierarchy_3_upper_length_4: WAND
+oomlout_detail_hierarchy_4: 370_mm_depth
+oomlout_detail_hierarchy_4_upper: 370_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 370D
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_bubble_wand_33_mm_diameter_370_mm_depth
 oomp_word: tulip sunglasses ship
 oomp_word_emoji: ':tulip: :sunglasses: :ship:'
@@ -176,6 +201,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

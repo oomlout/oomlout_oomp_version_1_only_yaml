@@ -129,8 +129,16 @@ id_no_class: part_tray_vertical_15_width_14_height_18_mm_depth
 id_no_color: 15width14height18mmdepth
 id_no_size: 15_width_14_height_18_mm_depth
 id_no_type: tray_vertical_15_width_14_height_18_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_15_width_14_height_18_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_15_width_14_height_18_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_15_width_14_height_18_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_15_width_14_height_18_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208x9b5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208x9b5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208x9b5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208x9b5
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tray_vertical_15_width_14_height_18_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -157,6 +165,19 @@ name_no_color: 15Width14Height18mmdepth
 name_no_size: 15 Width 14 Height 18 mm Depth
 name_no_size_short: 15 Width 14 Height 18 Mm Depth
 name_no_type: Tray Vertical 15 Width 14 Height 18 mm Depth
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: tray_vertical
+oomlout_detail_hierarchy_3_upper: TRAY_VERTICAL
+oomlout_detail_hierarchy_3_upper_length_4: TRAY
+oomlout_detail_hierarchy_4: 18_mm_depth
+oomlout_detail_hierarchy_4_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 18DE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tray_vertical_15_width_14_height_18_mm_depth
 oomp_word: anchor tea bouquet
 oomp_word_emoji: ':anchor: :tea: :bouquet:'
@@ -174,6 +195,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

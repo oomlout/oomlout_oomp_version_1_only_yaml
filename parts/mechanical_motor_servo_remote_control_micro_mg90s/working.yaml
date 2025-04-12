@@ -129,8 +129,16 @@ id_no_class: motor_servo_remote_control_micro_mg90s
 id_no_color: mg90s
 id_no_size: mg90s
 id_no_type: micro_mg90s
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20arw3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20arw3
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20arw3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20arw3
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_micro_mg90s
 manufacturer: ''
 manufacturer_capital: ''
@@ -157,6 +165,19 @@ name_no_color: Mg90S
 name_no_size: Mg90S
 name_no_size_short: Mg90S
 name_no_type: Micro Mg90S
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: motor_servo_remote_control
+oomlout_detail_hierarchy_2_upper: MOTOR_SERVO_REMOTE_CONTROL
+oomlout_detail_hierarchy_2_upper_length_4: MOTO
+oomlout_detail_hierarchy_3: micro
+oomlout_detail_hierarchy_3_upper: MICRO
+oomlout_detail_hierarchy_3_upper_length_4: MICR
+oomlout_detail_hierarchy_4: mg90s
+oomlout_detail_hierarchy_4_upper: MG90S
+oomlout_detail_hierarchy_4_upper_length_4: MG90
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_servo_remote_control_micro_mg90s
 oomp_word: cry boot eyeglasses
 oomp_word_emoji: ':cry: :boot: :eyeglasses:'
@@ -174,6 +195,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

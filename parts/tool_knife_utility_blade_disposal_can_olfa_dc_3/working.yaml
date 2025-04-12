@@ -107,8 +107,16 @@ id_no_class: knife_utility_blade_disposal_can_olfa_dc_3
 id_no_color: olfadc3
 id_no_size: olfadc3
 id_no_type: olfa_dc_3
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2067hmd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2067hmd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2067hmd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2067hmd
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
 manufacturer: olfa
 manufacturer_capital: Olfa
@@ -159,6 +167,19 @@ name_no_color: Olfadc3
 name_no_size: Olfadc3
 name_no_size_short: Olfadc3
 name_no_type: Olfa Dc 3
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: knife_utility_blade_disposal_can
+oomlout_detail_hierarchy_2_upper: KNIFE_UTILITY_BLADE_DISPOSAL_CAN
+oomlout_detail_hierarchy_2_upper_length_4: KNIF
+oomlout_detail_hierarchy_3: olfa
+oomlout_detail_hierarchy_3_upper: OLFA
+oomlout_detail_hierarchy_3_upper_length_4: OLFA
+oomlout_detail_hierarchy_4: dc_3
+oomlout_detail_hierarchy_4_upper: DC_3
+oomlout_detail_hierarchy_4_upper_length_4: DC_3
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_knife_utility_blade_disposal_can_olfa_dc_3
 oomp_word: diamonds clap four
 oomp_word_emoji: ':diamonds: :clap: :four:'
@@ -201,6 +222,10 @@ part_number_upper_length_3: DC_
 part_number_upper_length_4: DC_3
 part_number_upper_length_5: DC_3
 part_number_upper_length_6: DC_3
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

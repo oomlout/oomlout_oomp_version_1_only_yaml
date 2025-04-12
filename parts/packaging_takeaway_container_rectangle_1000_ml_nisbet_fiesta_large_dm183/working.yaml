@@ -105,8 +105,16 @@ id_no_class: takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
 id_no_color: nisbetfiestalargedm183
 id_no_size: nisbet_fiesta_large_dm183
 id_no_type: 1000_ml_nisbet_fiesta_large_dm183
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202uv8g
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202uv8g
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202uv8g
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202uv8g
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
 manufacturer: nisbet_fiesta
 manufacturer_capital: Nisbet Fiesta
@@ -157,6 +165,22 @@ name_no_color: Nisbetfiestalargedm183
 name_no_size: Nisbet Fiesta Large Dm183
 name_no_size_short: Nisbet Fiesta Large Dm183
 name_no_type: 1000 Ml Nisbet Fiesta Large Dm183
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_rectangle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_RECTANGLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 1000_ml
+oomlout_detail_hierarchy_3_upper: 1000_ML
+oomlout_detail_hierarchy_3_upper_length_4: '1000'
+oomlout_detail_hierarchy_4: nisbet_fiesta
+oomlout_detail_hierarchy_4_upper: NISBET_FIESTA
+oomlout_detail_hierarchy_4_upper_length_4: NISB
+oomlout_detail_hierarchy_5: large_dm183
+oomlout_detail_hierarchy_5_upper: LARGE_DM183
+oomlout_detail_hierarchy_5_upper_length_4: LARG
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcr1000
 oomlout_short_code_upper: TCR1000
 oomp_key: oomp_packaging_takeaway_container_rectangle_1000_ml_nisbet_fiesta_large_dm183
@@ -200,6 +224,10 @@ part_number_upper_length_3: LAR
 part_number_upper_length_4: LARG
 part_number_upper_length_5: LARGE
 part_number_upper_length_6: LARGE_
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

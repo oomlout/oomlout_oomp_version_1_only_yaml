@@ -130,9 +130,17 @@ id_no_class: pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 id_no_color: ikeasolfagelstyle24colorsetikea20544232
 id_no_size: ikeasolfagelstyle24colorsetikea20544232
 id_no_type: ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_2_name: link_github
 link_distributor_ikea: https://www.ikea.com/gb/en/p/solfagel-coloured-pencil-mixed-colours-20544232/
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204jrg4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204jrg4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204jrg4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204jrg4
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -183,6 +191,25 @@ name_no_color: Ikeasolfagelstyle24Colorsetikea20544232
 name_no_size: Ikeasolfagelstyle24Colorsetikea20544232
 name_no_size_short: Ikeasolfagelstyle24Colorsetikea20544232
 name_no_type: Ikea Solfagel Style 24 Color Set Ikea 205 442 32
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: pencil_crayon
+oomlout_detail_hierarchy_2_upper: PENCIL_CRAYON
+oomlout_detail_hierarchy_2_upper_length_4: PENC
+oomlout_detail_hierarchy_3: ikea_solfagel_style_24
+oomlout_detail_hierarchy_3_upper: IKEA_SOLFAGEL_STYLE_24
+oomlout_detail_hierarchy_3_upper_length_4: IKEA
+oomlout_detail_hierarchy_4: color_set
+oomlout_detail_hierarchy_4_upper: COLOR_SET
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: ikea
+oomlout_detail_hierarchy_5_upper: IKEA
+oomlout_detail_hierarchy_5_upper_length_4: IKEA
+oomlout_detail_hierarchy_6: '205_442_32'
+oomlout_detail_hierarchy_6_upper: '205_442_32'
+oomlout_detail_hierarchy_6_upper_length_4: '205_'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 oomp_word: fireworks telescope coffee
 oomp_word_emoji: ':fireworks: :telescope: :coffee:'
@@ -225,6 +252,10 @@ part_number_upper_length_3: '205'
 part_number_upper_length_4: '205_'
 part_number_upper_length_5: '205_4'
 part_number_upper_length_6: '205_44'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

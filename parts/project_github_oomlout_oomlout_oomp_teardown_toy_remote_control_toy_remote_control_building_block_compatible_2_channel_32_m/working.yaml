@@ -133,8 +133,16 @@ id_no_class: github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_
 id_no_color: oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
 id_no_size: oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
 id_no_type: oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201uc9f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201uc9f
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201uc9f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201uc9f
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,6 +176,28 @@ name_no_size_short: Oomp Teardown Toy Remote Control Toy Remote Control Building
   Compatible 2 Channel 32 M
 name_no_type: Oomlout Oomlout Oomp Teardown Toy Remote Control Toy Remote Control
   Building Block Compatible 2 Channel 32 M
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: oomp_teardown
+oomlout_detail_hierarchy_4_upper: OOMP_TEARDOWN
+oomlout_detail_hierarchy_4_upper_length_4: OOMP
+oomlout_detail_hierarchy_5: toy_remote_control_toy
+oomlout_detail_hierarchy_5_upper: TOY_REMOTE_CONTROL_TOY
+oomlout_detail_hierarchy_5_upper_length_4: TOY_
+oomlout_detail_hierarchy_6: remote_control_building_block
+oomlout_detail_hierarchy_6_upper: REMOTE_CONTROL_BUILDING_BLOCK
+oomlout_detail_hierarchy_6_upper_length_4: REMO
+oomlout_detail_hierarchy_7: compatible_2_channel_32_m
+oomlout_detail_hierarchy_7_upper: COMPATIBLE_2_CHANNEL_32_M
+oomlout_detail_hierarchy_7_upper_length_4: COMP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_toy_remote_control_building_block_compatible_2_channel_32_m
 oomp_word: cyclone koala books
 oomp_word_emoji: ':cyclone: :koala: :books:'
@@ -185,6 +215,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

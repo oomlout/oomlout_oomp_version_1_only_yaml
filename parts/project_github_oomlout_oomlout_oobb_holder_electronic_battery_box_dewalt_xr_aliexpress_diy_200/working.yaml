@@ -132,8 +132,16 @@ id_no_class: github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr
 id_no_color: oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
 id_no_size: oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
 id_no_type: oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209f4yw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209f4yw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209f4yw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209f4yw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
 manufacturer: ''
 manufacturer_capital: ''
@@ -164,6 +172,25 @@ name_no_size: Oobb Holder Electronic Battery Box Dewalt Xr Aliexpress Diy 200
 name_no_size_short: Oobb Holder Electronic Battery Box Dewalt Xr Aliexpress Diy 200
 name_no_type: Oomlout Oomlout Oobb Holder Electronic Battery Box Dewalt Xr Aliexpress
   Diy 200
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: oobb_holder
+oomlout_detail_hierarchy_4_upper: OOBB_HOLDER
+oomlout_detail_hierarchy_4_upper_length_4: OOBB
+oomlout_detail_hierarchy_5: electronic_battery_box_dewalt
+oomlout_detail_hierarchy_5_upper: ELECTRONIC_BATTERY_BOX_DEWALT
+oomlout_detail_hierarchy_5_upper_length_4: ELEC
+oomlout_detail_hierarchy_6: xr_aliexpress_diy_200
+oomlout_detail_hierarchy_6_upper: XR_ALIEXPRESS_DIY_200
+oomlout_detail_hierarchy_6_upper_length_4: XR_A
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oobb_holder_electronic_battery_box_dewalt_xr_aliexpress_diy_200
 oomp_word: ticket moon tram
 oomp_word_emoji: ':ticket: :moon: :tram:'
@@ -181,6 +208,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

@@ -105,8 +105,16 @@ id_no_class: roomba_520
 id_no_color: roomba520
 id_no_size: roomba520
 id_no_type: roomba520
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202znsd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202znsd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202znsd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202znsd
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
 manufacturer: roomba
 manufacturer_capital: Roomba
@@ -157,6 +165,16 @@ name_no_color: Roomba520
 name_no_size: Roomba520
 name_no_size_short: Roomba520
 name_no_type: Roomba520
+oomlout_detail_hierarchy_1: robot_vacuum
+oomlout_detail_hierarchy_1_upper: ROBOT_VACUUM
+oomlout_detail_hierarchy_1_upper_length_4: ROBO
+oomlout_detail_hierarchy_2: roomba
+oomlout_detail_hierarchy_2_upper: ROOMBA
+oomlout_detail_hierarchy_2_upper_length_4: ROOM
+oomlout_detail_hierarchy_3: '520'
+oomlout_detail_hierarchy_3_upper: '520'
+oomlout_detail_hierarchy_3_upper_length_4: '520'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_robot_vacuum_roomba_520
 oomp_word: turtle headphones snowman
 oomp_word_emoji: ':turtle: :headphones: :snowman:'
@@ -198,6 +216,10 @@ part_number_upper_length_3: '520'
 part_number_upper_length_4: '520'
 part_number_upper_length_5: '520'
 part_number_upper_length_6: '520'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Roomba 520

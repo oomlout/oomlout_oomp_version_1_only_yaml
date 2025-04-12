@@ -135,8 +135,16 @@ id_no_class: cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_dept
 id_no_color: brown
 id_no_size: brown
 id_no_type: imperial_7_in_width_5_in_height_2_in_depth_brown
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207m8me
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207m8me
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207m8me
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207m8me
 link_purchase:
 - ebay.co.uk/itm/233048701153?var=532550738565
 - https://www.tinyboxcompany.co.uk/1-piece-a6-mailing-gift-box-kraft-natural-fmkra6
@@ -168,6 +176,25 @@ name_no_color: Brown
 name_no_size: Brown
 name_no_size_short: Brown
 name_no_type: Imperial 7 In Width 5 In Height 2 In Depth Brown
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: cardboard_box_postal_tabs
+oomlout_detail_hierarchy_2_upper: CARDBOARD_BOX_POSTAL_TABS
+oomlout_detail_hierarchy_2_upper_length_4: CARD
+oomlout_detail_hierarchy_3: imperial_7_in_width
+oomlout_detail_hierarchy_3_upper: IMPERIAL_7_IN_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: IMPE
+oomlout_detail_hierarchy_4: 5_in_height_2
+oomlout_detail_hierarchy_4_upper: 5_IN_HEIGHT_2
+oomlout_detail_hierarchy_4_upper_length_4: 5_IN
+oomlout_detail_hierarchy_5: in_depth
+oomlout_detail_hierarchy_5_upper: IN_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: IN_D
+oomlout_detail_hierarchy_6: brown
+oomlout_detail_hierarchy_6_upper: BROWN
+oomlout_detail_hierarchy_6_upper_length_4: BROW
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_brown
 oomp_word: cake pig eyes
 oomp_word_emoji: ':cake: :pig: :eyes:'
@@ -185,6 +212,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: br
 short_code_upper: BR
 short_name: ''

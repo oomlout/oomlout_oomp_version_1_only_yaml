@@ -131,8 +131,16 @@ id_no_class: garden_secateurs_anvil_fiskars_p91
 id_no_color: gardensecateursanvilfiskarsp91
 id_no_size: gardensecateursanvilfiskarsp91
 id_no_type: garden_secateurs_anvil_fiskars_p91
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_garden_tool_secateurs_anvil_fiskars_p91
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_garden_tool_secateurs_anvil_fiskars_p91
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_garden_tool_secateurs_anvil_fiskars_p91
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_garden_tool_secateurs_anvil_fiskars_p91
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ofss
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ofss
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202ofss
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ofss
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_garden_tool_secateurs_anvil_fiskars_p91
 manufacturer: fiskars
 manufacturer_capital: Fiskars
@@ -183,6 +191,22 @@ name_no_color: Gardensecateursanvilfiskarsp91
 name_no_size: Gardensecateursanvilfiskarsp91
 name_no_size_short: Gardensecateursanvilfiskarsp91
 name_no_type: Garden Secateurs Anvil Fiskars P91
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: garden_tool
+oomlout_detail_hierarchy_2_upper: GARDEN_TOOL
+oomlout_detail_hierarchy_2_upper_length_4: GARD
+oomlout_detail_hierarchy_3: secateurs_anvil
+oomlout_detail_hierarchy_3_upper: SECATEURS_ANVIL
+oomlout_detail_hierarchy_3_upper_length_4: SECA
+oomlout_detail_hierarchy_4: fiskars
+oomlout_detail_hierarchy_4_upper: FISKARS
+oomlout_detail_hierarchy_4_upper_length_4: FISK
+oomlout_detail_hierarchy_5: p91
+oomlout_detail_hierarchy_5_upper: P91
+oomlout_detail_hierarchy_5_upper_length_4: P91
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_garden_tool_secateurs_anvil_fiskars_p91
 oomp_word: panda_face guitar up
 oomp_word_emoji: ':panda_face: :guitar: :up:'
@@ -224,6 +248,10 @@ part_number_upper_length_3: P91
 part_number_upper_length_4: P91
 part_number_upper_length_5: P91
 part_number_upper_length_6: P91
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

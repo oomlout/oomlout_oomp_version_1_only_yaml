@@ -155,8 +155,16 @@ id_no_class: part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_
 id_no_color: 3width3height12mmdepth6704bearingmotorservostandard01shafthornadapterprintedextra
 id_no_size: 3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
 id_no_type: bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205dywb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205dywb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205dywb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205dywb
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,6 +197,28 @@ name_no_size_short: 3 Width 3 Height 12 Mm Depth 6704 Bearing Motor Servo Standa
   01 Shaft Horn Adapter Printed Extra
 name_no_type: Bearing Plate 3 Width 3 Height 12 mm Depth 6704 Bearing Motor Servo
   Standard 01 Shaft Horn Adapter Printed Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: bearing_plate
+oomlout_detail_hierarchy_3_upper: BEARING_PLATE
+oomlout_detail_hierarchy_3_upper_length_4: BEAR
+oomlout_detail_hierarchy_4: 12_mm_depth
+oomlout_detail_hierarchy_4_upper: 12_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 12DE
+oomlout_detail_hierarchy_5: 6704_bearing_motor_servo
+oomlout_detail_hierarchy_5_upper: 6704_BEARING_MOTOR_SERVO
+oomlout_detail_hierarchy_5_upper_length_4: '6704'
+oomlout_detail_hierarchy_6: standard_01_shaft_horn
+oomlout_detail_hierarchy_6_upper: STANDARD_01_SHAFT_HORN
+oomlout_detail_hierarchy_6_upper_length_4: STAN
+oomlout_detail_hierarchy_7: adapter_printed_extra
+oomlout_detail_hierarchy_7_upper: ADAPTER_PRINTED_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: ADAP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_bearing_plate_3_width_3_height_12_mm_depth_6704_bearing_motor_servo_standard_01_shaft_horn_adapter_printed_extra
 oomp_word: envelope thumbsup car
 oomp_word_emoji: ':envelope: :thumbsup: :car:'
@@ -206,6 +236,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

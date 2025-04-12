@@ -153,8 +153,16 @@ id_no_class: bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_lit
 id_no_color: 736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
 id_no_size: black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
 id_no_type: 60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207g9g8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207g9g8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207g9g8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207g9g8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
 manufacturer: kite_packaging
 manufacturer_capital: Kite Packaging
@@ -211,6 +219,31 @@ name_no_size_short: Black 736 Mm Width 990 Mm Height 70 Litre Capacity Kite Pack
   Rs240 182939
 name_no_type: 60 Micron Thickness Black 736 mm Width 990 mm Height 70 Litre Capacity
   Kite Packaging Rs240 182939
+oomlout_detail_hierarchy_1: storage
+oomlout_detail_hierarchy_1_upper: STORAGE
+oomlout_detail_hierarchy_1_upper_length_4: STOR
+oomlout_detail_hierarchy_2: bin_bag
+oomlout_detail_hierarchy_2_upper: BIN_BAG
+oomlout_detail_hierarchy_2_upper_length_4: BIN_
+oomlout_detail_hierarchy_3: 60_micron_thickness
+oomlout_detail_hierarchy_3_upper: 60_MICRON_THICKNESS
+oomlout_detail_hierarchy_3_upper_length_4: 60_M
+oomlout_detail_hierarchy_4: black
+oomlout_detail_hierarchy_4_upper: BLACK
+oomlout_detail_hierarchy_4_upper_length_4: BLAC
+oomlout_detail_hierarchy_5: 736_mm_width
+oomlout_detail_hierarchy_5_upper: 736_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 736W
+oomlout_detail_hierarchy_6: 990_mm_height
+oomlout_detail_hierarchy_6_upper: 990_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 990H
+oomlout_detail_hierarchy_7: kite_packaging
+oomlout_detail_hierarchy_7_upper: KITE_PACKAGING
+oomlout_detail_hierarchy_7_upper_length_4: KITE
+oomlout_detail_hierarchy_8: rs240_182939
+oomlout_detail_hierarchy_8_upper: RS240_182939
+oomlout_detail_hierarchy_8_upper_length_4: RS24
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_storage_bin_bag_60_micron_thickness_black_736_mm_width_990_mm_height_70_litre_capacity_kite_packaging_rs240_182939
 oomp_word: ramen nine hospital
 oomp_word_emoji: ':ramen: :nine: :hospital:'
@@ -253,6 +286,10 @@ part_number_upper_length_3: RS2
 part_number_upper_length_4: RS24
 part_number_upper_length_5: RS240
 part_number_upper_length_6: RS240_
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: b
 short_code_upper: B
 short_name: ''

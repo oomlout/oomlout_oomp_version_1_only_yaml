@@ -108,8 +108,16 @@ id_no_color: m25
 id_no_size: m2_5
 id_no_type: m2_5
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20106zq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20106zq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20106zq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20106zq
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m2_5
 manufacturer: ''
 manufacturer_capital: ''
@@ -135,6 +143,16 @@ name_no_color: M25
 name_no_size: M2 5
 name_no_size_short: M2 5
 name_no_type: M2 5
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: nut
+oomlout_detail_hierarchy_2_upper: NUT
+oomlout_detail_hierarchy_2_upper_length_4: NUT
+oomlout_detail_hierarchy_3: m2_5
+oomlout_detail_hierarchy_3_upper: M2_5
+oomlout_detail_hierarchy_3_upper_length_4: M2_5
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: n2d5m
 oomlout_short_code_upper: N2D5M
 oomp_key: oomp_hardware_nut_m2_5
@@ -154,6 +172,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: nu
 short_code_upper: NU
 size: m2_5

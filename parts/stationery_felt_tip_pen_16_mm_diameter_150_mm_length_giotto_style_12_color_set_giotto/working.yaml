@@ -154,9 +154,21 @@ id_no_class: felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set
 id_no_color: 16mmdiameter150mmlengthgiottostyle12colorsetgiotto
 id_no_size: 16mmdiameter150mmlengthgiottostyle12colorsetgiotto
 id_no_type: 16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B00MPCT2RI
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B00MPCT2RI
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B00MPCT2RI
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206w59i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206w59i
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206w59i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206w59i
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 manufacturer: giotto
 manufacturer_capital: Giotto
@@ -209,6 +221,22 @@ name_no_color: 16mmdiameter150mmlengthgiottostyle12Colorsetgiotto
 name_no_size: 16mmdiameter150mmlengthgiottostyle12Colorsetgiotto
 name_no_size_short: 16Mmdiameter150Mmlengthgiottostyle12Colorsetgiotto
 name_no_type: 16 mm Diameter 150 mm Length Giotto Style 12 Color Set Giotto
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: felt_tip_pen
+oomlout_detail_hierarchy_2_upper: FELT_TIP_PEN
+oomlout_detail_hierarchy_2_upper_length_4: FELT
+oomlout_detail_hierarchy_3: 150_mm_length
+oomlout_detail_hierarchy_3_upper: 150_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 150L
+oomlout_detail_hierarchy_4: giotto_style_12_color_set
+oomlout_detail_hierarchy_4_upper: GIOTTO_STYLE_12_COLOR_SET
+oomlout_detail_hierarchy_4_upper_length_4: GIOT
+oomlout_detail_hierarchy_5: giotto
+oomlout_detail_hierarchy_5_upper: GIOTTO
+oomlout_detail_hierarchy_5_upper_length_4: GIOT
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 oomp_word: crown shoe trumpet
 oomp_word_emoji: ':crown: :shoe: :trumpet:'
@@ -226,6 +254,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

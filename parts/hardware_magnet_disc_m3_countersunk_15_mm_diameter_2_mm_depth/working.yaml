@@ -155,8 +155,16 @@ id_no_class: magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
 id_no_color: 15_mm_diameter_2_mm_depth
 id_no_size: m3_countersunk_15_mm_diameter_2_mm_depth
 id_no_type: disc_m3_countersunk_15_mm_diameter_2_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015fpf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015fpf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2015fpf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015fpf
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -183,6 +191,22 @@ name_no_color: 15 mm Diameter 2 mm Depth
 name_no_size: M3 Countersunk 15 mm Diameter 2 mm Depth
 name_no_size_short: M3 Countersunk 15 Mm Diameter 2 Mm Depth
 name_no_type: Disc M3 Countersunk 15 mm Diameter 2 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: magnet
+oomlout_detail_hierarchy_2_upper: MAGNET
+oomlout_detail_hierarchy_2_upper_length_4: MAGN
+oomlout_detail_hierarchy_3: disc
+oomlout_detail_hierarchy_3_upper: DISC
+oomlout_detail_hierarchy_3_upper_length_4: DISC
+oomlout_detail_hierarchy_4: m3_countersunk
+oomlout_detail_hierarchy_4_upper: M3_COUNTERSUNK
+oomlout_detail_hierarchy_4_upper_length_4: M3_C
+oomlout_detail_hierarchy_5: 2_mm_depth
+oomlout_detail_hierarchy_5_upper: 2_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 2DEP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_magnet_disc_m3_countersunk_15_mm_diameter_2_mm_depth
 oomp_word: baby speaker cake
 oomp_word_emoji: ':baby: :speaker: :cake:'
@@ -200,6 +224,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: disc

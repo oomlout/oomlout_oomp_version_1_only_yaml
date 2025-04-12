@@ -133,8 +133,16 @@ id_no_class: github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_ro
 id_no_color: electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 id_no_size: electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 id_no_type: oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202culv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202culv
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202culv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202culv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,6 +176,28 @@ name_no_size_short: Electronic Robot Vacuum Part Robot Vacuum Roomba 500 Series 
   Wheel Connector Pcb
 name_no_type: Oomlout Oomlout Electronic Robot Vacuum Part Robot Vacuum Roomba 500
   Series Motor Wheel Connector PCB
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: electronic_robot_vacuum
+oomlout_detail_hierarchy_4_upper: ELECTRONIC_ROBOT_VACUUM
+oomlout_detail_hierarchy_4_upper_length_4: ELEC
+oomlout_detail_hierarchy_5: part_robot_vacuum_roomba
+oomlout_detail_hierarchy_5_upper: PART_ROBOT_VACUUM_ROOMBA
+oomlout_detail_hierarchy_5_upper_length_4: PART
+oomlout_detail_hierarchy_6: 500_series_motor_wheel
+oomlout_detail_hierarchy_6_upper: 500_SERIES_MOTOR_WHEEL
+oomlout_detail_hierarchy_6_upper_length_4: '500_'
+oomlout_detail_hierarchy_7: connector_pcb
+oomlout_detail_hierarchy_7_upper: CONNECTOR_PCB
+oomlout_detail_hierarchy_7_upper_length_4: CONN
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_electronic_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_connector_pcb
 oomp_word: pig herb two
 oomp_word_emoji: ':pig: :herb: :two:'
@@ -185,6 +215,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

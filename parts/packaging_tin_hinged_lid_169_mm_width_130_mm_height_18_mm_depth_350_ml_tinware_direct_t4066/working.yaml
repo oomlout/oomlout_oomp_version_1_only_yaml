@@ -109,8 +109,16 @@ id_no_class: tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinwar
 id_no_color: tinwaredirectt4066
 id_no_size: tinware_direct_t4066
 id_no_type: 169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206hoth
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206hoth
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206hoth
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206hoth
 link_purchase:
 - https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726837358619
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
@@ -165,6 +173,28 @@ name_no_color: Tinwaredirectt4066
 name_no_size: Tinware Direct T4066
 name_no_size_short: Tinware Direct T4066
 name_no_type: 169 mm Width 130 mm Height 18 mm Depth 350 Ml Tinware Direct T4066
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: tin_hinged_lid
+oomlout_detail_hierarchy_2_upper: TIN_HINGED_LID
+oomlout_detail_hierarchy_2_upper_length_4: TIN_
+oomlout_detail_hierarchy_3: 169_mm_width
+oomlout_detail_hierarchy_3_upper: 169_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 169W
+oomlout_detail_hierarchy_4: 130_mm_height
+oomlout_detail_hierarchy_4_upper: 130_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 130H
+oomlout_detail_hierarchy_5: 18_mm_depth
+oomlout_detail_hierarchy_5_upper: 18_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 18DE
+oomlout_detail_hierarchy_6: tinware_direct
+oomlout_detail_hierarchy_6_upper: TINWARE_DIRECT
+oomlout_detail_hierarchy_6_upper_length_4: TINW
+oomlout_detail_hierarchy_7: t4066
+oomlout_detail_hierarchy_7_upper: T4066
+oomlout_detail_hierarchy_7_upper_length_4: T406
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
 oomp_word: trumpet blowfish rocket
 oomp_word_emoji: ':trumpet: :blowfish: :rocket:'
@@ -208,6 +238,10 @@ part_number_upper_length_5: T4066
 part_number_upper_length_6: T4066
 price_1: "\xA30.79"
 price_10: "\xA30.79"
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 price_current: "\xA30.79"
 short_code: ''
 short_code_upper: ''

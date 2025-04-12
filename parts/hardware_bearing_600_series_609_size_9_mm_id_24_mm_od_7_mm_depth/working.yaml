@@ -155,8 +155,16 @@ id_no_class: bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
 id_no_color: 9_mm_id_24_mm_od_7_mm_depth
 id_no_size: 609_size_9_mm_id_24_mm_od_7_mm_depth
 id_no_type: 600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20261w7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20261w7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20261w7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20261w7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -183,6 +191,22 @@ name_no_color: 9 mm ID 24 mm OD 7 mm Depth
 name_no_size: 609 Size 9 mm ID 24 mm OD 7 mm Depth
 name_no_size_short: 609 Size 9 Mm Id 24 Mm Od 7 Mm Depth
 name_no_type: 600 Series 609 Size 9 mm ID 24 mm OD 7 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 600_series
+oomlout_detail_hierarchy_3_upper: 600_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '600_'
+oomlout_detail_hierarchy_4: 609_size
+oomlout_detail_hierarchy_4_upper: 609_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '609_'
+oomlout_detail_hierarchy_5: 7_mm_depth
+oomlout_detail_hierarchy_5_upper: 7_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 7DEP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: br609
 oomlout_short_code_upper: BR609
 oomp_key: oomp_hardware_bearing_600_series_609_size_9_mm_id_24_mm_od_7_mm_depth
@@ -202,6 +226,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 600_series

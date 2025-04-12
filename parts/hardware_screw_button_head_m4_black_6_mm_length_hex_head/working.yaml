@@ -180,8 +180,16 @@ id_no_color: 6_mm_length_hex_head
 id_no_size: black_6_mm_length_hex_head
 id_no_type: m4_black_6_mm_length_hex_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_button_head_m4_black_6_mm_length_hex_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_button_head_m4_black_6_mm_length_hex_head
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_button_head_m4_black_6_mm_length_hex_head
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_button_head_m4_black_6_mm_length_hex_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206oqhq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206oqhq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206oqhq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206oqhq
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_button_head_m4_black_6_mm_length_hex_head
 manufacturer: ''
 manufacturer_capital: ''
@@ -208,6 +216,25 @@ name_no_color: 6 mm Length Hex Head
 name_no_size: Black 6 mm Length Hex Head
 name_no_size_short: Black 6 Mm Length Hex Head
 name_no_type: M4 Black 6 mm Length Hex Head
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: sbutton_head
+oomlout_detail_hierarchy_2_upper: SBUTTON_HEAD
+oomlout_detail_hierarchy_2_upper_length_4: SBUT
+oomlout_detail_hierarchy_3: m4
+oomlout_detail_hierarchy_3_upper: M4
+oomlout_detail_hierarchy_3_upper_length_4: M4
+oomlout_detail_hierarchy_4: black
+oomlout_detail_hierarchy_4_upper: BLACK
+oomlout_detail_hierarchy_4_upper_length_4: BLAC
+oomlout_detail_hierarchy_5: 6_mm_length
+oomlout_detail_hierarchy_5_upper: 6_MM_LENGTH
+oomlout_detail_hierarchy_5_upper_length_4: 6LEN
+oomlout_detail_hierarchy_6: hex_head
+oomlout_detail_hierarchy_6_upper: HEX_HEAD
+oomlout_detail_hierarchy_6_upper_length_4: HEX_
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_button_head_m4_black_6_mm_length_hex_head
 oomp_word: boot tulip angel
 oomp_word_emoji: ':boot: :tulip: :angel:'
@@ -225,6 +252,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: 4b6h
 short_code_upper: 4B6H
 size: m4

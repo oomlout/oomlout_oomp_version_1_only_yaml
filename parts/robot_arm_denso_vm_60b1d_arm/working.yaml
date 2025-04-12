@@ -129,8 +129,16 @@ id_no_class: denso_vm_60b1d_arm
 id_no_color: arm
 id_no_size: arm
 id_no_type: vm_60b1d_arm
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_denso_vm_60b1d_arm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_denso_vm_60b1d_arm
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_denso_vm_60b1d_arm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_denso_vm_60b1d_arm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204tpiw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204tpiw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204tpiw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204tpiw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_denso_vm_60b1d_arm
 manufacturer: ''
 manufacturer_capital: ''
@@ -157,6 +165,19 @@ name_no_color: Arm
 name_no_size: Arm
 name_no_size_short: Arm
 name_no_type: Vm 60B1D Arm
+oomlout_detail_hierarchy_1: robot_arm
+oomlout_detail_hierarchy_1_upper: ROBOT_ARM
+oomlout_detail_hierarchy_1_upper_length_4: ROBO
+oomlout_detail_hierarchy_2: denso
+oomlout_detail_hierarchy_2_upper: DENSO
+oomlout_detail_hierarchy_2_upper_length_4: DENS
+oomlout_detail_hierarchy_3: vm_60b1d
+oomlout_detail_hierarchy_3_upper: VM_60B1D
+oomlout_detail_hierarchy_3_upper_length_4: VM_6
+oomlout_detail_hierarchy_4: arm
+oomlout_detail_hierarchy_4_upper: ARM
+oomlout_detail_hierarchy_4_upper_length_4: ARM
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_robot_arm_denso_vm_60b1d_arm
 oomp_word: computer lipstick bell
 oomp_word_emoji: ':computer: :lipstick: :bell:'
@@ -174,6 +195,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: vm_60b1d

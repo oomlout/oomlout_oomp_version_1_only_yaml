@@ -153,9 +153,17 @@ id_no_class: transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_rec
 id_no_color: receiver_full_turnigy_t6a_v2
 id_no_size: car_style_grip_black_receiver_full_turnigy_t6a_v2
 id_no_type: 2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
+link_2_name: link_github
 link_distributor_hobbyking: https://hobbyking.com/en_us/turnigy-t6a-v2-afhds-mode-2-2-4ghz-6ch-transmitter-w-receiver.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2043ke5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2043ke5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2043ke5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2043ke5
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
 manufacturer: turnigy
 manufacturer_capital: Turnigy
@@ -209,6 +217,28 @@ name_no_color: Receiver Full Turnigy T6A V2
 name_no_size: Car Style Grip Black Receiver Full Turnigy T6A V2
 name_no_size_short: Car Style Grip Black Receiver Full Turnigy T6A V2
 name_no_type: 2 4 Ghz 6 Channel Car Style Grip Black Receiver Full Turnigy T6A V2
+oomlout_detail_hierarchy_1: remote_control
+oomlout_detail_hierarchy_1_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_1_upper_length_4: REMO
+oomlout_detail_hierarchy_2: transmitter_receiver_kit
+oomlout_detail_hierarchy_2_upper: TRANSMITTER_RECEIVER_KIT
+oomlout_detail_hierarchy_2_upper_length_4: TRAN
+oomlout_detail_hierarchy_3: 2_4_ghz_6_channel
+oomlout_detail_hierarchy_3_upper: 2_4_GHZ_6_CHANNEL
+oomlout_detail_hierarchy_3_upper_length_4: '2_4_'
+oomlout_detail_hierarchy_4: car_style_grip_black
+oomlout_detail_hierarchy_4_upper: CAR_STYLE_GRIP_BLACK
+oomlout_detail_hierarchy_4_upper_length_4: CAR_
+oomlout_detail_hierarchy_5: receiver_full
+oomlout_detail_hierarchy_5_upper: RECEIVER_FULL
+oomlout_detail_hierarchy_5_upper_length_4: RECE
+oomlout_detail_hierarchy_6: turnigy
+oomlout_detail_hierarchy_6_upper: TURNIGY
+oomlout_detail_hierarchy_6_upper_length_4: TURN
+oomlout_detail_hierarchy_7: t6a_v2
+oomlout_detail_hierarchy_7_upper: T6A_V2
+oomlout_detail_hierarchy_7_upper_length_4: T6A_
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_car_style_grip_black_receiver_full_turnigy_t6a_v2
 oomp_word: cactus heart parking
 oomp_word_emoji: ':cactus: :heart: :parking:'
@@ -252,6 +282,10 @@ part_number_upper_length_3: T6A
 part_number_upper_length_4: T6A_
 part_number_upper_length_5: T6A_V
 part_number_upper_length_6: T6A_V2
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Transmitter Kit 6 Channel

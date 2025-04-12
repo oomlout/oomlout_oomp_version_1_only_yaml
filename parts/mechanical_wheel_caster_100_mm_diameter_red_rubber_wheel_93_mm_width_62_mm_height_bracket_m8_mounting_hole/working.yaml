@@ -153,8 +153,16 @@ id_no_class: wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_hei
 id_no_color: 100mmdiameterredrubber93mmwidth62mmheightbracketm8mountinghole
 id_no_size: 100_mm_diameter_red_rubber_93_mm_width_62_mm_height_bracket_m8_mounting_hole
 id_no_type: caster_100_mm_diameter_red_rubber_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2017tbd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2017tbd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2017tbd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2017tbd
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
 manufacturer: ''
 manufacturer_capital: ''
@@ -187,6 +195,28 @@ name_no_size_short: 100 Mm Diameter Red Rubber 93 Mm Width 62 Mm Height Bracket 
   Mounting Hole
 name_no_type: Caster 100 mm Diameter Red Rubber 93 mm Width 62 mm Height Bracket M8
   Mounting Hole
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: wheel
+oomlout_detail_hierarchy_2_upper: WHEEL
+oomlout_detail_hierarchy_2_upper_length_4: WHEE
+oomlout_detail_hierarchy_3: caster
+oomlout_detail_hierarchy_3_upper: CASTER
+oomlout_detail_hierarchy_3_upper_length_4: CAST
+oomlout_detail_hierarchy_4: 100_mm_diameter_red
+oomlout_detail_hierarchy_4_upper: 100_MM_DIAMETER_RED
+oomlout_detail_hierarchy_4_upper_length_4: 100D
+oomlout_detail_hierarchy_5: rubber_wheel
+oomlout_detail_hierarchy_5_upper: RUBBER_WHEEL
+oomlout_detail_hierarchy_5_upper_length_4: RUBB
+oomlout_detail_hierarchy_6: 93_mm_width
+oomlout_detail_hierarchy_6_upper: 93_MM_WIDTH
+oomlout_detail_hierarchy_6_upper_length_4: 93WI
+oomlout_detail_hierarchy_7: 62_mm_height
+oomlout_detail_hierarchy_7_upper: 62_MM_HEIGHT
+oomlout_detail_hierarchy_7_upper_length_4: 62HE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
 oomp_word: princess ocean sunny
 oomp_word_emoji: ':princess: :ocean: :sunny:'
@@ -204,6 +234,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Caster Wheel 100mm Red

@@ -131,8 +131,16 @@ id_no_class: takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tampe
 id_no_color: 118mmdiameter125mmdepthtamperevidentsystempak2021
 id_no_size: 118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
 id_no_type: 870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207b4hq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207b4hq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207b4hq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207b4hq
 link_purchase:
 - https://systempak.net/product/870ml-x-118od-round-plastic-tamper-proof-food-containers-and-lids/
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
@@ -189,6 +197,25 @@ name_no_size: 118 mm Diameter 125 mm Depth Tamper Evident Systempak 2021
 name_no_size_short: 118 Mm Diameter 125 Mm Depth Tamper Evident Systempak 2021
 name_no_type: 870 Ml 118 mm Diameter 125 mm Depth Tamper Evident Systempak 2021
 note: only available by the pallet
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_circle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 870_ml
+oomlout_detail_hierarchy_3_upper: 870_ML
+oomlout_detail_hierarchy_3_upper_length_4: '870_'
+oomlout_detail_hierarchy_4: 125_mm_depth
+oomlout_detail_hierarchy_4_upper: 125_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 125D
+oomlout_detail_hierarchy_5: systempak
+oomlout_detail_hierarchy_5_upper: SYSTEMPAK
+oomlout_detail_hierarchy_5_upper_length_4: SYST
+oomlout_detail_hierarchy_6: '2021'
+oomlout_detail_hierarchy_6_upper: '2021'
+oomlout_detail_hierarchy_6_upper_length_4: '2021'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcc870
 oomlout_short_code_upper: TCC870
 oomp_key: oomp_packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
@@ -232,6 +259,10 @@ part_number_upper_length_3: '202'
 part_number_upper_length_4: '2021'
 part_number_upper_length_5: '2021'
 part_number_upper_length_6: '2021'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

@@ -131,8 +131,16 @@ id_no_class: screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_
 id_no_color: pozidrivhead1wera2055series05118032001
 id_no_size: pozidriv_head_1_wera_2055_series_05118032001
 id_no_type: kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xdv2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xdv2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207xdv2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xdv2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
 manufacturer: wera
 manufacturer_capital: Wera
@@ -187,6 +195,25 @@ name_no_size: Pozidriv Head 1 Wera 2055 Series 05118032001
 name_no_size_short: Pozidriv Head 1 Wera 2055 Series 05118032001
 name_no_type: Kraftform Micro Style 18 mm Diameter 177 mm Depth Pozidriv Head 1 Wera
   2055 Series 05118032001
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: sdriver_precision
+oomlout_detail_hierarchy_2_upper: SDRIVER_PRECISION
+oomlout_detail_hierarchy_2_upper_length_4: SDRI
+oomlout_detail_hierarchy_3: 177_mm_depth
+oomlout_detail_hierarchy_3_upper: 177_MM_DEPTH
+oomlout_detail_hierarchy_3_upper_length_4: 177D
+oomlout_detail_hierarchy_4: pozidriv_head_1
+oomlout_detail_hierarchy_4_upper: POZIDRIV_HEAD_1
+oomlout_detail_hierarchy_4_upper_length_4: POZI
+oomlout_detail_hierarchy_5: wera
+oomlout_detail_hierarchy_5_upper: WERA
+oomlout_detail_hierarchy_5_upper_length_4: WERA
+oomlout_detail_hierarchy_6: 2055_series_05118032001
+oomlout_detail_hierarchy_6_upper: 2055_SERIES_05118032001
+oomlout_detail_hierarchy_6_upper_length_4: '2055'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_pozidriv_head_1_wera_2055_series_05118032001
 oomp_word: grapes cloud new_moon
 oomp_word_emoji: ':grapes: :cloud: :new_moon:'
@@ -228,6 +255,10 @@ part_number_upper_length_3: '205'
 part_number_upper_length_4: '2055'
 part_number_upper_length_5: '2055_'
 part_number_upper_length_6: 2055_S
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: kraftform_micro_style_18_mm_diameter_177_mm_depth

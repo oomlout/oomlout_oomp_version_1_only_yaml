@@ -108,8 +108,16 @@ id_no_class: envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
 id_no_color: c6size162mmwidth114mmheightfitsa6sheet
 id_no_size: c6_size_162_mm_width_114_mm_height_fits_a6_sheet
 id_no_type: c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204r6zq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204r6zq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204r6zq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204r6zq
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
 manufacturer: ''
 manufacturer_capital: ''
@@ -136,6 +144,19 @@ name_no_color: C6Size162mmwidth114mmheightfitsa6Sheet
 name_no_size: C6 Size 162 mm Width 114 mm Height Fits A6 Sheet
 name_no_size_short: C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet
 name_no_type: C6 Size 162 mm Width 114 mm Height Fits A6 Sheet
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: envelope
+oomlout_detail_hierarchy_2_upper: ENVELOPE
+oomlout_detail_hierarchy_2_upper_length_4: ENVE
+oomlout_detail_hierarchy_3: 162_mm_width
+oomlout_detail_hierarchy_3_upper: 162_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 162W
+oomlout_detail_hierarchy_4: 114_mm_height
+oomlout_detail_hierarchy_4_upper: 114_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 114H
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
 oomp_word: balloon ship eyes
 oomp_word_emoji: ':balloon: :ship: :eyes:'
@@ -153,6 +174,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: C6 Envelope

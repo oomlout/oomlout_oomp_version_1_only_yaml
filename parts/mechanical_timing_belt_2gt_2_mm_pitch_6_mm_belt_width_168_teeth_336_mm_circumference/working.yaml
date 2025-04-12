@@ -153,8 +153,16 @@ id_no_class: timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumf
 id_no_color: 168_teeth_336_mm_circumference
 id_no_size: 6_mm_belt_width_168_teeth_336_mm_circumference
 id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206qqge
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206qqge
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206qqge
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206qqge
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
 manufacturer: ''
 manufacturer_capital: ''
@@ -181,6 +189,22 @@ name_no_color: 168 Teeth 336 mm Circumference
 name_no_size: 6 mm Belt Width 168 Teeth 336 mm Circumference
 name_no_size_short: 6 Mm Belt Width 168 Teeth 336 Mm Circumference
 name_no_type: 2Gt 2 mm Pitch 6 mm Belt Width 168 Teeth 336 mm Circumference
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: timing_belt
+oomlout_detail_hierarchy_2_upper: TIMING_BELT
+oomlout_detail_hierarchy_2_upper_length_4: TIMI
+oomlout_detail_hierarchy_3: 2gt_2_mm_pitch
+oomlout_detail_hierarchy_3_upper: 2GT_2_MM_PITCH
+oomlout_detail_hierarchy_3_upper_length_4: 2GT_
+oomlout_detail_hierarchy_4: 6_mm_belt_width
+oomlout_detail_hierarchy_4_upper: 6_MM_BELT_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 6BEL
+oomlout_detail_hierarchy_5: 168_teeth_336_mm_circumference
+oomlout_detail_hierarchy_5_upper: 168_TEETH_336_MM_CIRCUMFERENCE
+oomlout_detail_hierarchy_5_upper_length_4: '168_'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_168_teeth_336_mm_circumference
 oomp_word: shirt peach new_moon
 oomp_word_emoji: ':shirt: :peach: :new_moon:'
@@ -198,6 +222,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

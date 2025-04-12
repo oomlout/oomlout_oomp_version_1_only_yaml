@@ -156,8 +156,16 @@ id_no_color: 4mmlengthpozidrivehead
 id_no_size: 4_mm_length_pozidrive_head
 id_no_type: m2_4_mm_length_pozidrive_head
 kicad_reference: ''
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m2_4_mm_length_pozidrive_head
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m2_4_mm_length_pozidrive_head
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m2_4_mm_length_pozidrive_head
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m2_4_mm_length_pozidrive_head
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20oowe
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20oowe
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20oowe
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20oowe
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_machine_screw_m2_4_mm_length_pozidrive_head
 manufacturer: ''
 manufacturer_capital: ''
@@ -184,6 +192,22 @@ name_no_color: 4mmlengthpozidrivehead
 name_no_size: 4 mm Length Pozidrive Head
 name_no_size_short: 4 Mm Length Pozidrive Head
 name_no_type: M2 4 mm Length Pozidrive Head
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: smachine_screw
+oomlout_detail_hierarchy_2_upper: SMACHINE_SCREW
+oomlout_detail_hierarchy_2_upper_length_4: SMAC
+oomlout_detail_hierarchy_3: m2
+oomlout_detail_hierarchy_3_upper: M2
+oomlout_detail_hierarchy_3_upper_length_4: M2
+oomlout_detail_hierarchy_4: 4_mm_length
+oomlout_detail_hierarchy_4_upper: 4_MM_LENGTH
+oomlout_detail_hierarchy_4_upper_length_4: 4LEN
+oomlout_detail_hierarchy_5: pozidrive_head
+oomlout_detail_hierarchy_5_upper: POZIDRIVE_HEAD
+oomlout_detail_hierarchy_5_upper_length_4: POZI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: ms2m4pz
 oomlout_short_code_upper: MS2M4PZ
 oomp_key: oomp_hardware_screw_machine_screw_m2_4_mm_length_pozidrive_head
@@ -203,6 +227,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: 24pz
 short_code_upper: 24PZ
 size: m2

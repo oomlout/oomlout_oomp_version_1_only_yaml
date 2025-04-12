@@ -153,10 +153,26 @@ id_no_class: transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_rec
 id_no_color: receiver_pcb_aliexpress_ds_4a
 id_no_size: car_style_grip_black_receiver_pcb_aliexpress_ds_4a
 id_no_type: 2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B0CH8G9NJ5
+link_3_name: link_distributor_amazon
+link_4: https://www.aliexpress.com/item/1005006041694540.html
+link_4_name: link_distributor_aliexpress
+link_buy_1: https://www.amazon.co.uk/dp/B0CH8G9NJ5
+link_buy_1_name: link_distributor_amazon
+link_buy_2: https://www.aliexpress.com/item/1005006041694540.html
+link_buy_2_name: link_distributor_aliexpress
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005006041694540.html
 link_distributor_amazon: https://www.amazon.co.uk/dp/B0CH8G9NJ5
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ijdg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ijdg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205ijdg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ijdg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
 manufacturer: aliexpress
 manufacturer_capital: Aliexpress
@@ -210,6 +226,28 @@ name_no_color: Receiver PCB Aliexpress Ds 4A
 name_no_size: Car Style Grip Black Receiver PCB Aliexpress Ds 4A
 name_no_size_short: Car Style Grip Black Receiver Pcb Aliexpress Ds 4A
 name_no_type: 2 4 Ghz 4 Channel Car Style Grip Black Receiver PCB Aliexpress Ds 4A
+oomlout_detail_hierarchy_1: remote_control
+oomlout_detail_hierarchy_1_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_1_upper_length_4: REMO
+oomlout_detail_hierarchy_2: transmitter_receiver_kit
+oomlout_detail_hierarchy_2_upper: TRANSMITTER_RECEIVER_KIT
+oomlout_detail_hierarchy_2_upper_length_4: TRAN
+oomlout_detail_hierarchy_3: 2_4_ghz_4_channel
+oomlout_detail_hierarchy_3_upper: 2_4_GHZ_4_CHANNEL
+oomlout_detail_hierarchy_3_upper_length_4: '2_4_'
+oomlout_detail_hierarchy_4: car_style_grip_black
+oomlout_detail_hierarchy_4_upper: CAR_STYLE_GRIP_BLACK
+oomlout_detail_hierarchy_4_upper_length_4: CAR_
+oomlout_detail_hierarchy_5: receiver_pcb
+oomlout_detail_hierarchy_5_upper: RECEIVER_PCB
+oomlout_detail_hierarchy_5_upper_length_4: RECE
+oomlout_detail_hierarchy_6: aliexpress
+oomlout_detail_hierarchy_6_upper: ALIEXPRESS
+oomlout_detail_hierarchy_6_upper_length_4: ALIE
+oomlout_detail_hierarchy_7: ds_4a
+oomlout_detail_hierarchy_7_upper: DS_4A
+oomlout_detail_hierarchy_7_upper_length_4: DS_4
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_pcb_aliexpress_ds_4a
 oomp_word: scroll rat microscope
 oomp_word_emoji: ':scroll: :rat: :microscope:'
@@ -254,6 +292,10 @@ part_number_upper_length_3: DS_
 part_number_upper_length_4: DS_4
 part_number_upper_length_5: DS_4A
 part_number_upper_length_6: DS_4A
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Transmitter Kit 4 Channel

@@ -131,8 +131,16 @@ id_no_class: screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_
 id_no_color: torxhead4wera2067series05118039001
 id_no_size: torx_head_4_wera_2067_series_05118039001
 id_no_type: kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203cgty
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203cgty
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203cgty
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203cgty
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
 manufacturer: wera
 manufacturer_capital: Wera
@@ -187,6 +195,25 @@ name_no_size: Torx Head 4 Wera 2067 Series 05118039001
 name_no_size_short: Torx Head 4 Wera 2067 Series 05118039001
 name_no_type: Kraftform Micro Style 18 mm Diameter 137 mm Depth Torx Head 4 Wera 2067
   Series 05118039001
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: sdriver_precision
+oomlout_detail_hierarchy_2_upper: SDRIVER_PRECISION
+oomlout_detail_hierarchy_2_upper_length_4: SDRI
+oomlout_detail_hierarchy_3: 137_mm_depth
+oomlout_detail_hierarchy_3_upper: 137_MM_DEPTH
+oomlout_detail_hierarchy_3_upper_length_4: 137D
+oomlout_detail_hierarchy_4: torx_head_4
+oomlout_detail_hierarchy_4_upper: TORX_HEAD_4
+oomlout_detail_hierarchy_4_upper_length_4: TORX
+oomlout_detail_hierarchy_5: wera
+oomlout_detail_hierarchy_5_upper: WERA
+oomlout_detail_hierarchy_5_upper_length_4: WERA
+oomlout_detail_hierarchy_6: 2067_series_05118039001
+oomlout_detail_hierarchy_6_upper: 2067_SERIES_05118039001
+oomlout_detail_hierarchy_6_upper_length_4: '2067'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_4_wera_2067_series_05118039001
 oomp_word: dolphin cake rabbit
 oomp_word_emoji: ':dolphin: :cake: :rabbit:'
@@ -228,6 +255,10 @@ part_number_upper_length_3: '206'
 part_number_upper_length_4: '2067'
 part_number_upper_length_5: '2067_'
 part_number_upper_length_6: 2067_S
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: kraftform_micro_style_18_mm_diameter_137_mm_depth

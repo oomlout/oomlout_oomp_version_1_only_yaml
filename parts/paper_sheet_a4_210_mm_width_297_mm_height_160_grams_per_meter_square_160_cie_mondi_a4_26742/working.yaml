@@ -160,9 +160,21 @@ id_no_class: sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_
 id_no_color: 160gramspermetersquare160ciemondia426742
 id_no_size: 160_grams_per_meter_square_160_cie_mondi_a4_26742
 id_no_type: a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B000KJOBK6
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B000KJOBK6
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B000KJOBK6
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206m1kl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206m1kl
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206m1kl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206m1kl
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
 manufacturer: mondi
 manufacturer_capital: Mondi
@@ -217,6 +229,31 @@ name_no_size: 160 Grams Per Meter Square 160 Cie Mondi A4 26742
 name_no_size_short: 160 Grams Per Meter Square 160 Cie Mondi A4 26742
 name_no_type: A4 210 mm Width 297 mm Height 160 Grams Per Meter Square 160 Cie Mondi
   A4 26742
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_detail_hierarchy_5: 160_gram
+oomlout_detail_hierarchy_5_upper: 160_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '160_'
+oomlout_detail_hierarchy_6: 160_cie
+oomlout_detail_hierarchy_6_upper: 160_CIE
+oomlout_detail_hierarchy_6_upper_length_4: '160_'
+oomlout_detail_hierarchy_7: mondi
+oomlout_detail_hierarchy_7_upper: MONDI
+oomlout_detail_hierarchy_7_upper_length_4: MOND
+oomlout_detail_hierarchy_8: a4_26742
+oomlout_detail_hierarchy_8_upper: A4_26742
+oomlout_detail_hierarchy_8_upper_length_4: A4_2
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_160_cie_mondi_a4_26742
 oomp_word: sandal gift ghost
 oomp_word_emoji: ':sandal: :gift: :ghost:'
@@ -260,8 +297,13 @@ part_number_upper_length_4: A4_2
 part_number_upper_length_5: A4_26
 part_number_upper_length_6: A4_267
 price_1: 0.029333333333333336
+price_1_distributor_3: 0.0483
 price_1_distributor_amazon: 0.0483
 price_1_distributor_viking_direct: 0.029333333333333336
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height

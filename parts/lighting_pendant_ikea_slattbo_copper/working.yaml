@@ -129,8 +129,16 @@ id_no_class: pendant_ikea_slattbo_copper
 id_no_color: copper
 id_no_size: copper
 id_no_type: ikea_slattbo_copper
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201orw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201orw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201orw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201orw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/lighting_pendant_ikea_slattbo_copper
 manufacturer: ''
 manufacturer_capital: ''
@@ -157,6 +165,19 @@ name_no_color: Copper
 name_no_size: Copper
 name_no_size_short: Copper
 name_no_type: Ikea Slattbo Copper
+oomlout_detail_hierarchy_1: lighting
+oomlout_detail_hierarchy_1_upper: LIGHTING
+oomlout_detail_hierarchy_1_upper_length_4: LIGH
+oomlout_detail_hierarchy_2: pendant
+oomlout_detail_hierarchy_2_upper: PENDANT
+oomlout_detail_hierarchy_2_upper_length_4: PEND
+oomlout_detail_hierarchy_3: ikea_slattbo
+oomlout_detail_hierarchy_3_upper: IKEA_SLATTBO
+oomlout_detail_hierarchy_3_upper_length_4: IKEA
+oomlout_detail_hierarchy_4: copper
+oomlout_detail_hierarchy_4_upper: COPPER
+oomlout_detail_hierarchy_4_upper_length_4: COPP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_lighting_pendant_ikea_slattbo_copper
 oomp_word: smile dog shirt
 oomp_word_emoji: ':smile: :dog: :shirt:'
@@ -174,6 +195,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ikea_slattbo

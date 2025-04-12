@@ -105,8 +105,16 @@ id_no_class: all_in_one_inkjet_a4_canon_pixma_ts5350
 id_no_color: canonpixmats5350
 id_no_size: canon_pixma_ts5350
 id_no_type: a4_canon_pixma_ts5350
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205bzce
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205bzce
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205bzce
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205bzce
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
 manufacturer: canon_pixma
 manufacturer_capital: Canon Pixma
@@ -157,6 +165,22 @@ name_no_color: Canonpixmats5350
 name_no_size: Canon Pixma Ts5350
 name_no_size_short: Canon Pixma Ts5350
 name_no_type: A4 Canon Pixma Ts5350
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: all_in_one_inkjet
+oomlout_detail_hierarchy_2_upper: ALL_IN_ONE_INKJET
+oomlout_detail_hierarchy_2_upper_length_4: ALL_
+oomlout_detail_hierarchy_3: a4
+oomlout_detail_hierarchy_3_upper: A4
+oomlout_detail_hierarchy_3_upper_length_4: A4
+oomlout_detail_hierarchy_4: canon_pixma
+oomlout_detail_hierarchy_4_upper: CANON_PIXMA
+oomlout_detail_hierarchy_4_upper_length_4: CANO
+oomlout_detail_hierarchy_5: ts5350
+oomlout_detail_hierarchy_5_upper: TS5350
+oomlout_detail_hierarchy_5_upper_length_4: TS53
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_all_in_one_inkjet_a4_canon_pixma_ts5350
 oomp_word: wrench shirt jeans
 oomp_word_emoji: ':wrench: :shirt: :jeans:'
@@ -198,6 +222,10 @@ part_number_upper_length_3: TS5
 part_number_upper_length_4: TS53
 part_number_upper_length_5: TS535
 part_number_upper_length_6: TS5350
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Printer Canon TS5350

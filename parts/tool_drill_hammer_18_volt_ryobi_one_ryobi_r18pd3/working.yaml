@@ -107,8 +107,16 @@ id_no_class: drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
 id_no_color: ryobir18pd3
 id_no_size: ryobi_r18pd3
 id_no_type: 18_volt_ryobi_one_ryobi_r18pd3
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2051s92
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2051s92
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2051s92
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2051s92
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
 manufacturer: ryobi
 manufacturer_capital: Ryobi
@@ -159,6 +167,22 @@ name_no_color: Ryobir18Pd3
 name_no_size: Ryobi R18Pd3
 name_no_size_short: Ryobi R18Pd3
 name_no_type: 18 Volt Ryobi One Ryobi R18Pd3
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: drill_hammer
+oomlout_detail_hierarchy_2_upper: DRILL_HAMMER
+oomlout_detail_hierarchy_2_upper_length_4: DRIL
+oomlout_detail_hierarchy_3: 18_volt_ryobi_one
+oomlout_detail_hierarchy_3_upper: 18_VOLT_RYOBI_ONE
+oomlout_detail_hierarchy_3_upper_length_4: 18_V
+oomlout_detail_hierarchy_4: ryobi
+oomlout_detail_hierarchy_4_upper: RYOBI
+oomlout_detail_hierarchy_4_upper_length_4: RYOB
+oomlout_detail_hierarchy_5: r18pd3
+oomlout_detail_hierarchy_5_upper: R18PD3
+oomlout_detail_hierarchy_5_upper_length_4: R18P
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
 oomp_word: watch palm_tree bird
 oomp_word_emoji: ':watch: :palm_tree: :bird:'
@@ -200,6 +224,10 @@ part_number_upper_length_3: R18
 part_number_upper_length_4: R18P
 part_number_upper_length_5: R18PD
 part_number_upper_length_6: R18PD3
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 18_volt_ryobi_one

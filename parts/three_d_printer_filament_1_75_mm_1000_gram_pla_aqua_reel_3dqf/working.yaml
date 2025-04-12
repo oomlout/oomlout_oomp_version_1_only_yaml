@@ -151,9 +151,17 @@ id_no_class: filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
 id_no_color: reel_3dqf
 id_no_size: pla_aqua_reel_3dqf
 id_no_type: 1_75_mm_1000_gram_pla_aqua_reel_3dqf
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
+link_2_name: link_github
 link_distributor_3dqf: https://www.3dqf.co.uk/product-page/aqua-1-75mm-uk-made-3d-printer-filament
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dbn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dbn
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201dbn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dbn
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
 manufacturer: 3dqf
 manufacturer_capital: 3Dqf
@@ -204,6 +212,25 @@ name_no_color: Reel 3Dqf
 name_no_size: Pla Aqua Reel 3Dqf
 name_no_size_short: Pla Aqua Reel 3Dqf
 name_no_type: 1 75 mm 1000 Gram Pla Aqua Reel 3Dqf
+oomlout_detail_hierarchy_1: three_d_printer
+oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: THRE
+oomlout_detail_hierarchy_2: filament
+oomlout_detail_hierarchy_2_upper: FILAMENT
+oomlout_detail_hierarchy_2_upper_length_4: FILA
+oomlout_detail_hierarchy_3: 1000_gram
+oomlout_detail_hierarchy_3_upper: 1000_GRAM
+oomlout_detail_hierarchy_3_upper_length_4: '1000'
+oomlout_detail_hierarchy_4: pla_aqua
+oomlout_detail_hierarchy_4_upper: PLA_AQUA
+oomlout_detail_hierarchy_4_upper_length_4: PLA_
+oomlout_detail_hierarchy_5: reel
+oomlout_detail_hierarchy_5_upper: REEL
+oomlout_detail_hierarchy_5_upper_length_4: REEL
+oomlout_detail_hierarchy_6: 3dqf
+oomlout_detail_hierarchy_6_upper: 3DQF
+oomlout_detail_hierarchy_6_upper_length_4: 3DQF
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_filament_1_75_mm_1000_gram_pla_aqua_reel_3dqf
 oomp_word: bowtie eight eyeglasses
 oomp_word_emoji: ':bowtie: :eight: :eyeglasses:'
@@ -221,6 +248,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 price_current: 0.015825000000000002
 price_per: 0.015825000000000002
 price_per_gram: 0.015825000000000002

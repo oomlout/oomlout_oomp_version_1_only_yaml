@@ -131,8 +131,16 @@ id_no_class: github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_
 id_no_color: organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
 id_no_size: organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
 id_no_type: oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206fggb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206fggb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206fggb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206fggb
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
 manufacturer: ''
 manufacturer_capital: ''
@@ -163,6 +171,25 @@ name_no_size: Organizing Kitchen Storage Jar Clip Top Jar Kilner Shelf Layout
 name_no_size_short: Organizing Kitchen Storage Jar Clip Top Jar Kilner Shelf Layout
 name_no_type: Oomlout Oomlout Organizing Kitchen Storage Jar Clip Top Jar Kilner Shelf
   Layout
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: organizing_kitchen_storage
+oomlout_detail_hierarchy_4_upper: ORGANIZING_KITCHEN_STORAGE
+oomlout_detail_hierarchy_4_upper_length_4: ORGA
+oomlout_detail_hierarchy_5: jar_clip_top_jar
+oomlout_detail_hierarchy_5_upper: JAR_CLIP_TOP_JAR
+oomlout_detail_hierarchy_5_upper_length_4: JAR_
+oomlout_detail_hierarchy_6: kilner_shelf_layout
+oomlout_detail_hierarchy_6_upper: KILNER_SHELF_LAYOUT
+oomlout_detail_hierarchy_6_upper_length_4: KILN
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_organizing_kitchen_storage_jar_clip_top_jar_kilner_shelf_layout
 oomp_word: book honey_pot sunglasses
 oomp_word_emoji: ':book: :honey_pot: :sunglasses:'
@@ -180,6 +207,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

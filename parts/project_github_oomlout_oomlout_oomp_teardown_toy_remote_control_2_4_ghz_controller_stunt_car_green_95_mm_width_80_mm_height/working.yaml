@@ -133,8 +133,16 @@ id_no_class: github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_con
 id_no_color: oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
 id_no_size: oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
 id_no_type: oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20yfqi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20yfqi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20yfqi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20yfqi
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,6 +176,31 @@ name_no_size_short: Oomp Teardown Toy Remote Control 2 4 Ghz Controller Stunt Ca
   Green 95 Mm Width 80 Mm Height
 name_no_type: Oomlout Oomlout Oomp Teardown Toy Remote Control 2 4 Ghz Controller
   Stunt Car Green 95 mm Width 80 mm Height
+oomlout_detail_hierarchy_1: project
+oomlout_detail_hierarchy_1_upper: PROJECT
+oomlout_detail_hierarchy_1_upper_length_4: PROJ
+oomlout_detail_hierarchy_2: github
+oomlout_detail_hierarchy_2_upper: GITHUB
+oomlout_detail_hierarchy_2_upper_length_4: GITH
+oomlout_detail_hierarchy_3: oomlout
+oomlout_detail_hierarchy_3_upper: OOMLOUT
+oomlout_detail_hierarchy_3_upper_length_4: OOML
+oomlout_detail_hierarchy_4: oomp_teardown
+oomlout_detail_hierarchy_4_upper: OOMP_TEARDOWN
+oomlout_detail_hierarchy_4_upper_length_4: OOMP
+oomlout_detail_hierarchy_5: toy_remote_control_2
+oomlout_detail_hierarchy_5_upper: TOY_REMOTE_CONTROL_2
+oomlout_detail_hierarchy_5_upper_length_4: TOY_
+oomlout_detail_hierarchy_6: 4_ghz_controller_stunt
+oomlout_detail_hierarchy_6_upper: 4_GHZ_CONTROLLER_STUNT
+oomlout_detail_hierarchy_6_upper_length_4: 4_GH
+oomlout_detail_hierarchy_7: car_green_95_mm
+oomlout_detail_hierarchy_7_upper: CAR_GREEN_95_MM
+oomlout_detail_hierarchy_7_upper_length_4: CAR_
+oomlout_detail_hierarchy_8: width_80_mm_height
+oomlout_detail_hierarchy_8_upper: WIDTH_80_MM_HEIGHT
+oomlout_detail_hierarchy_8_upper_length_4: WIDT
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_oomp_teardown_toy_remote_control_2_4_ghz_controller_stunt_car_green_95_mm_width_80_mm_height
 oomp_word: hand key umbrella
 oomp_word_emoji: ':hand: :key: :umbrella:'
@@ -185,6 +218,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

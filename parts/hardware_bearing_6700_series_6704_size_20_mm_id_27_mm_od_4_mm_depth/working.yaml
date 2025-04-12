@@ -155,8 +155,16 @@ id_no_class: bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
 id_no_color: 20_mm_id_27_mm_od_4_mm_depth
 id_no_size: 6704_size_20_mm_id_27_mm_od_4_mm_depth
 id_no_type: 6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204y780
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204y780
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204y780
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204y780
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
@@ -183,6 +191,22 @@ name_no_color: 20 mm ID 27 mm OD 4 mm Depth
 name_no_size: 6704 Size 20 mm ID 27 mm OD 4 mm Depth
 name_no_size_short: 6704 Size 20 Mm Id 27 Mm Od 4 Mm Depth
 name_no_type: 6700 Series 6704 Size 20 mm ID 27 mm OD 4 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 6700_series
+oomlout_detail_hierarchy_3_upper: 6700_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '6700'
+oomlout_detail_hierarchy_4: 6704_size
+oomlout_detail_hierarchy_4_upper: 6704_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '6704'
+oomlout_detail_hierarchy_5: 4_mm_depth
+oomlout_detail_hierarchy_5_upper: 4_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 4DEP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: br6704
 oomlout_short_code_upper: BR6704
 oomp_key: oomp_hardware_bearing_6700_series_6704_size_20_mm_id_27_mm_od_4_mm_depth
@@ -202,6 +226,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 6700_series

@@ -155,8 +155,16 @@ id_no_class: part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encod
 id_no_color: 5width5height3mmdepthmechanicalmotorwithencoder30mmdiametercricutmakercompatibleextra
 id_no_size: 5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
 id_no_type: holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2020mit
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2020mit
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2020mit
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2020mit
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,6 +197,28 @@ name_no_size_short: 5 Width 5 Height 3 Mm Depth Mechanical Motor With Encoder 30
   Diameter Cricut Maker Compatible Extra
 name_no_type: Holder 5 Width 5 Height 3 mm Depth Mechanical Motor With Encoder 30
   mm Diameter Cricut Maker Compatible Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: holder
+oomlout_detail_hierarchy_3_upper: HOLDER
+oomlout_detail_hierarchy_3_upper_length_4: HOLD
+oomlout_detail_hierarchy_4: 3_mm_depth
+oomlout_detail_hierarchy_4_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3DEP
+oomlout_detail_hierarchy_5: mechanical_motor_with_encoder
+oomlout_detail_hierarchy_5_upper: MECHANICAL_MOTOR_WITH_ENCODER
+oomlout_detail_hierarchy_5_upper_length_4: MECH
+oomlout_detail_hierarchy_6: 30_mm_diameter_cricut
+oomlout_detail_hierarchy_6_upper: 30_MM_DIAMETER_CRICUT
+oomlout_detail_hierarchy_6_upper_length_4: 30DI
+oomlout_detail_hierarchy_7: maker_compatible_extra
+oomlout_detail_hierarchy_7_upper: MAKER_COMPATIBLE_EXTRA
+oomlout_detail_hierarchy_7_upper_length_4: MAKE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_holder_5_width_5_height_3_mm_depth_mechanical_motor_with_encoder_30_mm_diameter_cricut_maker_compatible_extra
 oomp_word: dog coffee kissing
 oomp_word_emoji: ':dog: :coffee: :kissing:'
@@ -206,6 +236,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

@@ -129,7 +129,13 @@ id_no_class: motor_stepper_nema_17_42_mm_width_42_mm_height_48_mm_depth
 id_no_color: 42mmwidth42mmheight48mmdepth
 id_no_size: 42_mm_width_42_mm_height_48_mm_depth
 id_no_type: nema_17_42_mm_width_42_mm_height_48_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_42_mm_width_42_mm_height_48_mm_depth
+link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/mechanical_motor_stepper_nema_17_42_mm_width_42_mm_height_48_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20144y5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20144y5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20144y5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20144y5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -155,6 +161,25 @@ name_no_color: 42mmwidth42mmheight48mmdepth
 name_no_size: 42 mm Width 42 mm Height 48 mm Depth
 name_no_size_short: 42 Mm Width 42 Mm Height 48 Mm Depth
 name_no_type: Nema 17 42 mm Width 42 mm Height 48 mm Depth
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: motor_stepper
+oomlout_detail_hierarchy_2_upper: MOTOR_STEPPER
+oomlout_detail_hierarchy_2_upper_length_4: MOTO
+oomlout_detail_hierarchy_3: nema_17
+oomlout_detail_hierarchy_3_upper: NEMA_17
+oomlout_detail_hierarchy_3_upper_length_4: NEMA
+oomlout_detail_hierarchy_4: 42_mm_width
+oomlout_detail_hierarchy_4_upper: 42_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 42WI
+oomlout_detail_hierarchy_5: 42_mm_height
+oomlout_detail_hierarchy_5_upper: 42_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 42HE
+oomlout_detail_hierarchy_6: 48_mm_depth
+oomlout_detail_hierarchy_6_upper: 48_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 48DE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_stepper_nema_17_42_mm_width_42_mm_height_48_mm_depth
 oomp_word: dancer books heart
 oomp_word_emoji: ':dancer: :books: :heart:'
@@ -172,6 +197,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

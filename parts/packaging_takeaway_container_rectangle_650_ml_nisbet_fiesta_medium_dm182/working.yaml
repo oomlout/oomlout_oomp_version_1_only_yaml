@@ -105,8 +105,16 @@ id_no_class: takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
 id_no_color: nisbetfiestamediumdm182
 id_no_size: nisbet_fiesta_medium_dm182
 id_no_type: 650_ml_nisbet_fiesta_medium_dm182
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ufec
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ufec
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20ufec
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ufec
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
 manufacturer: nisbet_fiesta
 manufacturer_capital: Nisbet Fiesta
@@ -157,6 +165,22 @@ name_no_color: Nisbetfiestamediumdm182
 name_no_size: Nisbet Fiesta Medium Dm182
 name_no_size_short: Nisbet Fiesta Medium Dm182
 name_no_type: 650 Ml Nisbet Fiesta Medium Dm182
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_rectangle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_RECTANGLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 650_ml
+oomlout_detail_hierarchy_3_upper: 650_ML
+oomlout_detail_hierarchy_3_upper_length_4: '650_'
+oomlout_detail_hierarchy_4: nisbet_fiesta
+oomlout_detail_hierarchy_4_upper: NISBET_FIESTA
+oomlout_detail_hierarchy_4_upper_length_4: NISB
+oomlout_detail_hierarchy_5: medium_dm182
+oomlout_detail_hierarchy_5_upper: MEDIUM_DM182
+oomlout_detail_hierarchy_5_upper_length_4: MEDI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcr650
 oomlout_short_code_upper: TCR650
 oomp_key: oomp_packaging_takeaway_container_rectangle_650_ml_nisbet_fiesta_medium_dm182
@@ -200,6 +224,10 @@ part_number_upper_length_3: MED
 part_number_upper_length_4: MEDI
 part_number_upper_length_5: MEDIU
 part_number_upper_length_6: MEDIUM
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

@@ -155,8 +155,16 @@ id_no_class: screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712
 id_no_color: tradecase1200piecespozidriveheadscrewtitetwo712KR
 id_no_size: tradecase1200piecespozidriveheadscrewtitetwo712KR
 id_no_type: trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20zhmw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20zhmw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20zhmw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20zhmw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
 manufacturer: screw_tite_two
 manufacturer_capital: Screw Tite Two
@@ -207,6 +215,25 @@ name_no_color: Tradecase1200Piecespozidriveheadscrewtitetwo712Kr
 name_no_size: Tradecase1200Piecespozidriveheadscrewtitetwo712Kr
 name_no_size_short: Tradecase1k2Piecespozidriveheadscrewtitetwo712Kr
 name_no_type: Trade Case 1200 Pieces Pozidrive Head Screw Tite Two 712Kr
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: swood
+oomlout_detail_hierarchy_2_upper: SWOOD
+oomlout_detail_hierarchy_2_upper_length_4: SWOO
+oomlout_detail_hierarchy_3: trade_case_1200_pieces
+oomlout_detail_hierarchy_3_upper: TRADE_CASE_1200_PIECES
+oomlout_detail_hierarchy_3_upper_length_4: TRAD
+oomlout_detail_hierarchy_4: pozidrive_head
+oomlout_detail_hierarchy_4_upper: POZIDRIVE_HEAD
+oomlout_detail_hierarchy_4_upper_length_4: POZI
+oomlout_detail_hierarchy_5: stite_two
+oomlout_detail_hierarchy_5_upper: STITE_TWO
+oomlout_detail_hierarchy_5_upper_length_4: STIT
+oomlout_detail_hierarchy_6: 712KR
+oomlout_detail_hierarchy_6_upper: 712KR
+oomlout_detail_hierarchy_6_upper_length_4: 712K
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
 oomp_word: pray panda_face scream
 oomp_word_emoji: ':pray: :panda_face: :scream:'
@@ -248,6 +275,10 @@ part_number_upper_length_3: '712'
 part_number_upper_length_4: 712K
 part_number_upper_length_5: 712KR
 part_number_upper_length_6: 712KR
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: pz
 short_code_upper: PZ
 short_name: ''

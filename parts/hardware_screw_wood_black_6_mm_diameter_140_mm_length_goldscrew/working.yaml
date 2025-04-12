@@ -155,8 +155,16 @@ id_no_class: screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
 id_no_color: black6mmdiameter140mmlengthgoldscrew
 id_no_size: black6mmdiameter140mmlengthgoldscrew
 id_no_type: black_6_mm_diameter_140_mm_length_goldscrew
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206eu44
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206eu44
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206eu44
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206eu44
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
 manufacturer: goldscrew
 manufacturer_capital: Goldscrew
@@ -207,6 +215,22 @@ name_no_color: Black6mmdiameter140mmlengthgoldscrew
 name_no_size: Black6mmdiameter140mmlengthgoldscrew
 name_no_size_short: Black6Mmdiameter140Mmlengthgoldscrew
 name_no_type: Black 6 mm Diameter 140 mm Length Goldscrew
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: swood
+oomlout_detail_hierarchy_2_upper: SWOOD
+oomlout_detail_hierarchy_2_upper_length_4: SWOO
+oomlout_detail_hierarchy_3: black
+oomlout_detail_hierarchy_3_upper: BLACK
+oomlout_detail_hierarchy_3_upper_length_4: BLAC
+oomlout_detail_hierarchy_4: 140_mm_length
+oomlout_detail_hierarchy_4_upper: 140_MM_LENGTH
+oomlout_detail_hierarchy_4_upper_length_4: 140L
+oomlout_detail_hierarchy_5: goldscrew
+oomlout_detail_hierarchy_5_upper: GOLDSCREW
+oomlout_detail_hierarchy_5_upper_length_4: GOLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_wood_black_6_mm_diameter_140_mm_length_goldscrew
 oomp_word: book dolphin three
 oomp_word_emoji: ':book: :dolphin: :three:'
@@ -224,6 +248,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: b
 short_code_upper: B
 size: ''

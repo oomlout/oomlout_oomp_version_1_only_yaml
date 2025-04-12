@@ -108,8 +108,16 @@ id_no_class: sheet_a8_52_mm_width_74_mm_height
 id_no_color: a852mmwidth74mmheight
 id_no_size: a8_52_mm_width_74_mm_height
 id_no_type: a8_52_mm_width_74_mm_height
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2064q9w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2064q9w
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2064q9w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2064q9w
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a8_52_mm_width_74_mm_height
 manufacturer: ''
 manufacturer_capital: ''
@@ -136,6 +144,19 @@ name_no_color: A852mmwidth74mmheight
 name_no_size: A8 52 mm Width 74 mm Height
 name_no_size_short: A8 52 Mm Width 74 Mm Height
 name_no_type: A8 52 mm Width 74 mm Height
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 52_mm_width
+oomlout_detail_hierarchy_3_upper: 52_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 52WI
+oomlout_detail_hierarchy_4: 74_mm_height
+oomlout_detail_hierarchy_4_upper: 74_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 74HE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a8_52_mm_width_74_mm_height
 oomp_word: hearts droplet wink
 oomp_word_emoji: ':hearts: :droplet: :wink:'
@@ -153,6 +174,10 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a8_52_mm_width_74_mm_height

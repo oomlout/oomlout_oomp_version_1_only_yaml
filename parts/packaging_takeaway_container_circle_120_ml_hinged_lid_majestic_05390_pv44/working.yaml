@@ -133,8 +133,16 @@ id_no_class: takeaway_container_circle_120_ml_hinged_lid_majestic_05390_pv44
 id_no_color: hingedlidmajestic05390pv44
 id_no_size: hinged_lid_majestic_05390_pv44
 id_no_type: 120_ml_hinged_lid_majestic_05390_pv44
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_120_ml_hinged_lid_majestic_05390_pv44
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_120_ml_hinged_lid_majestic_05390_pv44
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_120_ml_hinged_lid_majestic_05390_pv44
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_120_ml_hinged_lid_majestic_05390_pv44
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2096s6y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2096s6y
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2096s6y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2096s6y
 link_purchase:
 - https://www.amazon.co.uk/dp/B071P1XVLT?psc=1&smid=A2RGWAHP8GK42C&ref_=chk_typ_imgToDp
 - https://www.ebay.co.uk/itm/175662239573?var=475027888760
@@ -188,10 +196,29 @@ name_no_color: Hingedlidmajestic05390Pv44
 name_no_size: Hinged Lid Majestic 05390 Pv44
 name_no_size_short: Hinged Lid Majestic 05390 Pv44
 name_no_type: 120 Ml Hinged Lid Majestic 05390 Pv44
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: takeaway_container_circle
+oomlout_detail_hierarchy_2_upper: TAKEAWAY_CONTAINER_CIRCLE
+oomlout_detail_hierarchy_2_upper_length_4: TAKE
+oomlout_detail_hierarchy_3: 120_ml
+oomlout_detail_hierarchy_3_upper: 120_ML
+oomlout_detail_hierarchy_3_upper_length_4: '120_'
+oomlout_detail_hierarchy_4: hinged_lid
+oomlout_detail_hierarchy_4_upper: HINGED_LID
+oomlout_detail_hierarchy_4_upper_length_4: HING
+oomlout_detail_hierarchy_5: majestic
+oomlout_detail_hierarchy_5_upper: MAJESTIC
+oomlout_detail_hierarchy_5_upper_length_4: MAJE
+oomlout_detail_hierarchy_6: 05390_pv44
+oomlout_detail_hierarchy_6_upper: 05390_PV44
+oomlout_detail_hierarchy_6_upper_length_4: 0539
 oomlout_mechanical_hole_cutout_12_mm_lift: 57 mm
 oomlout_mechanical_hole_cutout_lip_size: 66 mm
 oomlout_mechanical_hole_cutout_size: 66 mm
 oomlout_mechanical_hole_cutout_top_size: 69 mm
+oomlout_oomp_utility_custom_data_manipulation: true
 oomlout_short_code: tcc120
 oomlout_short_code_upper: TCC120
 oomp_key: oomp_packaging_takeaway_container_circle_120_ml_hinged_lid_majestic_05390_pv44
@@ -235,6 +262,10 @@ part_number_upper_length_3: '053'
 part_number_upper_length_4: 0539
 part_number_upper_length_5: 05390
 part_number_upper_length_6: 05390_
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
