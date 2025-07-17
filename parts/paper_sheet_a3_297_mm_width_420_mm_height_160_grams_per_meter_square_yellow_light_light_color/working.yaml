@@ -1,0 +1,303 @@
+bip_39_word_dash_12: impact-digital-caution-popular-burden-voyage-biology-turtle-business-arrest-cupboard-attack
+bip_39_word_dash_2: impact-digital
+bip_39_word_dash_3: impact-digital-caution
+bip_39_word_new_br_12: impact<br>digital<br>caution<br>popular<br>burden<br>voyage<br>biology<br>turtle<br>business<br>arrest<br>cupboard<br>attack
+bip_39_word_new_br_2: impact<br>digital
+bip_39_word_new_br_3: impact<br>digital<br>caution
+bip_39_word_new_line_12: 'impact
+
+  digital
+
+  caution
+
+  popular
+
+  burden
+
+  voyage
+
+  biology
+
+  turtle
+
+  business
+
+  arrest
+
+  cupboard
+
+  attack'
+bip_39_word_new_line_2: 'impact
+
+  digital'
+bip_39_word_new_line_3: 'impact
+
+  digital
+
+  caution'
+bip_39_word_no_space_12: impactdigitalcautionpopularburdenvoyagebiologyturtlebusinessarrestcupboardattack
+bip_39_word_no_space_2: impactdigital
+bip_39_word_no_space_3: impactdigitalcaution
+bip_39_word_space_12: impact digital caution popular burden voyage biology turtle
+  business arrest cupboard attack
+bip_39_word_space_2: impact digital
+bip_39_word_space_3: impact digital caution
+bip_39_word_underscore_12: impact_digital_caution_popular_burden_voyage_biology_turtle_business_arrest_cupboard_attack
+bip_39_word_underscore_2: impact_digital
+bip_39_word_underscore_3: impact_digital_caution
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
+classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: yellow_light_light_color
+description_extra_capital: Yellow Light Light Color
+description_extra_first_letter: y
+description_extra_first_letter_upper: Y
+description_extra_length_1: y
+description_extra_length_2: ye
+description_extra_length_3: yel
+description_extra_length_4: yell
+description_extra_length_5: yello
+description_extra_length_6: yellow
+description_extra_name: Yellow Light Light Color
+description_extra_no_space_length_1: y
+description_extra_no_space_length_2: ye
+description_extra_no_space_length_3: yel
+description_extra_no_space_length_4: yell
+description_extra_no_space_length_5: yello
+description_extra_no_space_length_6: yellow
+description_extra_no_space_upper_length_1: Y
+description_extra_no_space_upper_length_2: YE
+description_extra_no_space_upper_length_3: YEL
+description_extra_no_space_upper_length_4: YELL
+description_extra_no_space_upper_length_5: YELLO
+description_extra_no_space_upper_length_6: YELLOW
+description_extra_upper: YELLOW_LIGHT_LIGHT_COLOR
+description_extra_upper_length_1: Y
+description_extra_upper_length_2: YE
+description_extra_upper_length_3: YEL
+description_extra_upper_length_4: YELL
+description_extra_upper_length_5: YELLO
+description_extra_upper_length_6: YELLOW
+description_main: 160_grams_per_meter_square
+description_main_capital: 160 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '16'
+description_main_length_3: '160'
+description_main_length_4: '160_'
+description_main_length_5: 160_g
+description_main_length_6: 160_gr
+description_main_name: 160 Grams Per Meter Square
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '16'
+description_main_no_space_length_3: '160'
+description_main_no_space_length_4: 160g
+description_main_no_space_length_5: 160gr
+description_main_no_space_length_6: 160gra
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '16'
+description_main_no_space_upper_length_3: '160'
+description_main_no_space_upper_length_4: 160G
+description_main_no_space_upper_length_5: 160GR
+description_main_no_space_upper_length_6: 160GRA
+description_main_upper: 160_GRAMS_PER_METER_SQUARE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '16'
+description_main_upper_length_3: '160'
+description_main_upper_length_4: '160_'
+description_main_upper_length_5: 160_G
+description_main_upper_length_6: 160_GR
+description_only_numbers: '160'
+description_only_numbers_short: '160'
+description_or_color: '160'
+description_or_color_upper: '160'
+directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+height: 420 mm
+id: paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+id_no_class: sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+id_no_color: 160gramspermetersquareyellowlightlightcolor
+id_no_size: 160_grams_per_meter_square_yellow_light_light_color
+id_no_type: a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208znur
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208znur
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208znur
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208znur
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color](none)<br>[](none)<br>[Paper
+  Sheet A3 297 Mm Width 420 Mm Height 160 Grams Per Meter Square Yellow Light Light
+  Color](none)<br><br>'
+markdown_short: '[paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color](none)<br><br>'
+md5: e66b8318f8eae2cfd80f4a82494f7b8e
+md5_10: e66b8318f8
+md5_10_upper: E66B8318F8
+md5_5: e66b8
+md5_5_upper: E66B8
+md5_6: e66b83
+md5_6_alpha: 8znur
+md5_6_alpha_upper: 8ZNUR
+md5_6_upper: E66B83
+name: Paper Sheet A3 297 mm Width 420 mm Height 160 Grams Per Meter Square Yellow
+  Light Light Color
+name_no_class: Sheet A3 297 mm Width 420 mm Height 160 Grams Per Meter Square Yellow
+  Light Light Color
+name_no_color: 160Gramspermetersquareyellowlightlightcolor
+name_no_size: 160 Grams Per Meter Square Yellow Light Light Color
+name_no_size_short: 160 Grams Per Meter Square Yellow Light Light Color
+name_no_type: A3 297 mm Width 420 mm Height 160 Grams Per Meter Square Yellow Light
+  Light Color
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 297_mm_width
+oomlout_detail_hierarchy_3_upper: 297_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 297W
+oomlout_detail_hierarchy_4: 420_mm_height
+oomlout_detail_hierarchy_4_upper: 420_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 420H
+oomlout_detail_hierarchy_5: 160_gram
+oomlout_detail_hierarchy_5_upper: 160_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '160_'
+oomlout_detail_hierarchy_6: yellow_light_light_color
+oomlout_detail_hierarchy_6_upper: YELLOW_LIGHT_LIGHT_COLOR
+oomlout_detail_hierarchy_6_upper_length_4: YELL
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_yellow_light_light_color
+oomp_word: airplane chestnut lock
+oomp_word_emoji: ':airplane: :chestnut: :lock:'
+oomp_word_emoji_list:
+- ':airplane:'
+- ':chestnut:'
+- ':lock:'
+oomp_word_list:
+- airplane
+- chestnut
+- lock
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: a3_297_mm_width_420_mm_height
+size_capital: A3.297 mm Width 420 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a3
+size_length_3: a3_
+size_length_4: a3_2
+size_length_5: a3_29
+size_length_6: a3_297
+size_name: A3 297 mm Width 420 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a3
+size_no_space_length_3: a32
+size_no_space_length_4: a329
+size_no_space_length_5: a3297
+size_no_space_length_6: a3297m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A3
+size_no_space_upper_length_3: A32
+size_no_space_upper_length_4: A329
+size_no_space_upper_length_5: A3297
+size_no_space_upper_length_6: A3297M
+size_only_numbers: '3297420'
+size_only_numbers_no_zeros: '329742'
+size_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A3
+size_upper_length_3: A3_
+size_upper_length_4: A3_2
+size_upper_length_5: A3_29
+size_upper_length_6: A3_297
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
+type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
+width: 297 mm

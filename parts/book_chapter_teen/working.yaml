@@ -1,0 +1,239 @@
+bip_39_word_dash_12: amateur-alpha-wise-oven-grace-mouse-dinner-close-proud-riot-bright-anxiety
+bip_39_word_dash_2: amateur-alpha
+bip_39_word_dash_3: amateur-alpha-wise
+bip_39_word_new_br_12: amateur<br>alpha<br>wise<br>oven<br>grace<br>mouse<br>dinner<br>close<br>proud<br>riot<br>bright<br>anxiety
+bip_39_word_new_br_2: amateur<br>alpha
+bip_39_word_new_br_3: amateur<br>alpha<br>wise
+bip_39_word_new_line_12: 'amateur
+
+  alpha
+
+  wise
+
+  oven
+
+  grace
+
+  mouse
+
+  dinner
+
+  close
+
+  proud
+
+  riot
+
+  bright
+
+  anxiety'
+bip_39_word_new_line_2: 'amateur
+
+  alpha'
+bip_39_word_new_line_3: 'amateur
+
+  alpha
+
+  wise'
+bip_39_word_no_space_12: amateuralphawiseovengracemousedinnercloseproudriotbrightanxiety
+bip_39_word_no_space_2: amateuralpha
+bip_39_word_no_space_3: amateuralphawise
+bip_39_word_space_12: amateur alpha wise oven grace mouse dinner close proud riot
+  bright anxiety
+bip_39_word_space_2: amateur alpha
+bip_39_word_space_3: amateur alpha wise
+bip_39_word_underscore_12: amateur_alpha_wise_oven_grace_mouse_dinner_close_proud_riot_bright_anxiety
+bip_39_word_underscore_2: amateur_alpha
+bip_39_word_underscore_3: amateur_alpha_wise
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_length_1: b
+classification_length_2: bo
+classification_length_3: boo
+classification_length_4: book
+classification_length_5: book
+classification_length_6: book
+classification_name: Book
+classification_no_space_length_1: b
+classification_no_space_length_2: bo
+classification_no_space_length_3: boo
+classification_no_space_length_4: book
+classification_no_space_length_5: book
+classification_no_space_length_6: book
+classification_no_space_upper_length_1: B
+classification_no_space_upper_length_2: BO
+classification_no_space_upper_length_3: BOO
+classification_no_space_upper_length_4: BOOK
+classification_no_space_upper_length_5: BOOK
+classification_no_space_upper_length_6: BOOK
+classification_upper: BOOK
+classification_upper_length_1: B
+classification_upper_length_2: BO
+classification_upper_length_3: BOO
+classification_upper_length_4: BOOK
+classification_upper_length_5: BOOK
+classification_upper_length_6: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_chapter_teen
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_chapter_teen
+id: book_chapter_teen
+id_no_class: chapter_teen
+id_no_color: teen
+id_no_size: teen
+id_no_type: teen
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20691ym
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20691ym
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20691ym
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20691ym
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_chapter_teen](none)<br>[](none)<br>[Book Chapter Teen](none)<br><br>'
+markdown_short: '[book_chapter_teen](none)<br><br>'
+md5: a0382e8d662ba7ca42b2b9ddf8c1c03d
+md5_10: a0382e8d66
+md5_10_upper: A0382E8D66
+md5_5: a0382
+md5_5_upper: A0382
+md5_6: a0382e
+md5_6_alpha: 691ym
+md5_6_alpha_upper: 691YM
+md5_6_upper: A0382E
+name: Book Chapter Teen
+name_no_class: Chapter Teen
+name_no_color: Teen
+name_no_size: Teen
+name_no_size_short: Teen
+name_no_type: Teen
+oomlout_detail_hierarchy_1: book
+oomlout_detail_hierarchy_1_upper: BOOK
+oomlout_detail_hierarchy_1_upper_length_4: BOOK
+oomlout_detail_hierarchy_2: chapter
+oomlout_detail_hierarchy_2_upper: CHAPTER
+oomlout_detail_hierarchy_2_upper_length_4: CHAP
+oomlout_detail_hierarchy_3: teen
+oomlout_detail_hierarchy_3_upper: TEEN
+oomlout_detail_hierarchy_3_upper_length_4: TEEN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_book_chapter_teen
+oomp_word: ring frog zap
+oomp_word_emoji: ':ring: :frog: :zap:'
+oomp_word_emoji_list:
+- ':ring:'
+- ':frog:'
+- ':zap:'
+oomp_word_list:
+- ring
+- frog
+- zap
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: teen
+size_capital: Teen
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: te
+size_length_3: tee
+size_length_4: teen
+size_length_5: teen
+size_length_6: teen
+size_name: Teen
+size_no_space_length_1: t
+size_no_space_length_2: te
+size_no_space_length_3: tee
+size_no_space_length_4: teen
+size_no_space_length_5: teen
+size_no_space_length_6: teen
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TE
+size_no_space_upper_length_3: TEE
+size_no_space_upper_length_4: TEEN
+size_no_space_upper_length_5: TEEN
+size_no_space_upper_length_6: TEEN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TEEN
+size_upper_length_1: T
+size_upper_length_2: TE
+size_upper_length_3: TEE
+size_upper_length_4: TEEN
+size_upper_length_5: TEEN
+size_upper_length_6: TEEN
+type: chapter
+type_capital: Chapter
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: ch
+type_length_3: cha
+type_length_4: chap
+type_length_5: chapt
+type_length_6: chapte
+type_name: Chapter
+type_no_space_length_1: c
+type_no_space_length_2: ch
+type_no_space_length_3: cha
+type_no_space_length_4: chap
+type_no_space_length_5: chapt
+type_no_space_length_6: chapte
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CH
+type_no_space_upper_length_3: CHA
+type_no_space_upper_length_4: CHAP
+type_no_space_upper_length_5: CHAPT
+type_no_space_upper_length_6: CHAPTE
+type_upper: CHAPTER
+type_upper_length_1: C
+type_upper_length_2: CH
+type_upper_length_3: CHA
+type_upper_length_4: CHAP
+type_upper_length_5: CHAPT
+type_upper_length_6: CHAPTE
