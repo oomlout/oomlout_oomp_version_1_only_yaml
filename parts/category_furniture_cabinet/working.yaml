@@ -1,98 +1,23 @@
-bip_39_word_dash_12: hole-neglect-evidence-volume-entry-balance-tide-smile-inject-pen-morning-add
-bip_39_word_dash_2: hole-neglect
-bip_39_word_dash_3: hole-neglect-evidence
-bip_39_word_new_br_12: hole<br>neglect<br>evidence<br>volume<br>entry<br>balance<br>tide<br>smile<br>inject<br>pen<br>morning<br>add
-bip_39_word_new_br_2: hole<br>neglect
-bip_39_word_new_br_3: hole<br>neglect<br>evidence
-bip_39_word_new_line_12: 'hole
-
-  neglect
-
-  evidence
-
-  volume
-
-  entry
-
-  balance
-
-  tide
-
-  smile
-
-  inject
-
-  pen
-
-  morning
-
-  add'
-bip_39_word_new_line_2: 'hole
-
-  neglect'
-bip_39_word_new_line_3: 'hole
-
-  neglect
-
-  evidence'
-bip_39_word_no_space_12: holeneglectevidencevolumeentrybalancetidesmileinjectpenmorningadd
-bip_39_word_no_space_2: holeneglect
-bip_39_word_no_space_3: holeneglectevidence
-bip_39_word_space_12: hole neglect evidence volume entry balance tide smile inject
-  pen morning add
-bip_39_word_space_2: hole neglect
-bip_39_word_space_3: hole neglect evidence
-bip_39_word_underscore_12: hole_neglect_evidence_volume_entry_balance_tide_smile_inject_pen_morning_add
-bip_39_word_underscore_2: hole_neglect
-bip_39_word_underscore_3: hole_neglect_evidence
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_furniture
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_furniture_cabinet
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_furniture_cabinet
 id: category_furniture_cabinet
 id_no_class: furniture_cabinet
-id_no_color: cabinet
 id_no_size: cabinet
 id_no_type: cabinet
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_furniture_cabinet](none)<br>[](none)<br>[Category Furniture
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 1ZT9K
 md5_6_upper: 331FE8
 name: Category Furniture Cabinet
 name_no_class: Furniture Cabinet
-name_no_color: Cabinet
 name_no_size: Cabinet
 name_no_size_short: Cabinet
 name_no_type: Cabinet
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: cabinet
 size_capital: Cabinet
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: ca
-size_length_3: cab
-size_length_4: cabi
-size_length_5: cabin
-size_length_6: cabine
-size_name: Cabinet
-size_no_space_length_1: c
-size_no_space_length_2: ca
-size_no_space_length_3: cab
-size_no_space_length_4: cabi
-size_no_space_length_5: cabin
-size_no_space_length_6: cabine
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CA
-size_no_space_upper_length_3: CAB
-size_no_space_upper_length_4: CABI
-size_no_space_upper_length_5: CABIN
-size_no_space_upper_length_6: CABINE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CABINET
-size_upper_length_1: C
-size_upper_length_2: CA
-size_upper_length_3: CAB
-size_upper_length_4: CABI
-size_upper_length_5: CABIN
-size_upper_length_6: CABINE
 type: furniture
 type_capital: Furniture
 type_first_letter: f
 type_first_letter_upper: F
-type_length_1: f
-type_length_2: fu
-type_length_3: fur
-type_length_4: furn
-type_length_5: furni
-type_length_6: furnit
-type_name: Furniture
-type_no_space_length_1: f
-type_no_space_length_2: fu
-type_no_space_length_3: fur
-type_no_space_length_4: furn
-type_no_space_length_5: furni
-type_no_space_length_6: furnit
-type_no_space_upper_length_1: F
-type_no_space_upper_length_2: FU
-type_no_space_upper_length_3: FUR
-type_no_space_upper_length_4: FURN
-type_no_space_upper_length_5: FURNI
-type_no_space_upper_length_6: FURNIT
 type_upper: FURNITURE
-type_upper_length_1: F
-type_upper_length_2: FU
-type_upper_length_3: FUR
-type_upper_length_4: FURN
-type_upper_length_5: FURNI
-type_upper_length_6: FURNIT

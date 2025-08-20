@@ -1,146 +1,23 @@
-bip_39_word_dash_12: emotion-pole-deliver-can-artist-arctic-trip-grab-strike-brain-rifle-auto
-bip_39_word_dash_2: emotion-pole
-bip_39_word_dash_3: emotion-pole-deliver
-bip_39_word_new_br_12: emotion<br>pole<br>deliver<br>can<br>artist<br>arctic<br>trip<br>grab<br>strike<br>brain<br>rifle<br>auto
-bip_39_word_new_br_2: emotion<br>pole
-bip_39_word_new_br_3: emotion<br>pole<br>deliver
-bip_39_word_new_line_12: 'emotion
-
-  pole
-
-  deliver
-
-  can
-
-  artist
-
-  arctic
-
-  trip
-
-  grab
-
-  strike
-
-  brain
-
-  rifle
-
-  auto'
-bip_39_word_new_line_2: 'emotion
-
-  pole'
-bip_39_word_new_line_3: 'emotion
-
-  pole
-
-  deliver'
-bip_39_word_no_space_12: emotionpoledelivercanartistarctictripgrabstrikebrainrifleauto
-bip_39_word_no_space_2: emotionpole
-bip_39_word_no_space_3: emotionpoledeliver
-bip_39_word_space_12: emotion pole deliver can artist arctic trip grab strike brain
-  rifle auto
-bip_39_word_space_2: emotion pole
-bip_39_word_space_3: emotion pole deliver
-bip_39_word_underscore_12: emotion_pole_deliver_can_artist_arctic_trip_grab_strike_brain_rifle_auto
-bip_39_word_underscore_2: emotion_pole
-bip_39_word_underscore_3: emotion_pole_deliver
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: blue
 color_capital: Blue
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bl
-color_length_3: blu
-color_length_4: blue
-color_length_5: blue
-color_length_6: blue
-color_name: Blue
-color_no_space_length_1: b
-color_no_space_length_2: bl
-color_no_space_length_3: blu
-color_no_space_length_4: blue
-color_no_space_length_5: blue
-color_no_space_length_6: blue
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BL
-color_no_space_upper_length_3: BLU
-color_no_space_upper_length_4: BLUE
-color_no_space_upper_length_5: BLUE
-color_no_space_upper_length_6: BLUE
 color_upper: BLUE
-color_upper_length_1: B
-color_upper_length_2: BL
-color_upper_length_3: BLU
-color_upper_length_4: BLUE
-color_upper_length_5: BLUE
-color_upper_length_6: BLUE
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: tint
 description_main_capital: Tint
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: ti
-description_main_length_3: tin
-description_main_length_4: tint
-description_main_length_5: tint
-description_main_length_6: tint
-description_main_name: Tint
-description_main_no_space_length_1: t
-description_main_no_space_length_2: ti
-description_main_no_space_length_3: tin
-description_main_no_space_length_4: tint
-description_main_no_space_length_5: tint
-description_main_no_space_length_6: tint
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TI
-description_main_no_space_upper_length_3: TIN
-description_main_no_space_upper_length_4: TINT
-description_main_no_space_upper_length_5: TINT
-description_main_no_space_upper_length_6: TINT
 description_main_upper: TINT
-description_main_upper_length_1: T
-description_main_upper_length_2: TI
-description_main_upper_length_3: TIN
-description_main_upper_length_4: TINT
-description_main_upper_length_5: TINT
-description_main_upper_length_6: TINT
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'B '
@@ -164,10 +41,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l6l_electronic_led_0603_blue_tint
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0603_blue_tint
 id: electronic_led_0603_blue_tint
 id_no_class: led_0603_blue_tint
-id_no_color: tint
 id_no_size: blue_tint
 id_no_type: 0603_blue_tint
 kicad_reference: L
@@ -178,7 +53,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_xinglight
@@ -199,9 +73,8 @@ md5_6: f97346
 md5_6_alpha: 9qe6e
 md5_6_alpha_upper: 9QE6E
 md5_6_upper: F97346
-name: Electronic LED 0603 Blue Tint
-name_no_class: LED 0603 Blue Tint
-name_no_color: Tint
+name: Electronic Led 0603 Blue Tint
+name_no_class: Led 0603 Blue Tint
 name_no_size: Blue Tint
 name_no_size_short: Blue Tint
 name_no_type: 0603 Blue Tint
@@ -221,7 +94,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: l6l
 short_code_upper: L6L
@@ -230,34 +102,9 @@ size: '0603'
 size_capital: '0603'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '06'
-size_length_3: '060'
-size_length_4: '0603'
-size_length_5: '0603'
-size_length_6: '0603'
-size_name: '0603'
-size_no_space_length_1: '0'
-size_no_space_length_2: '06'
-size_no_space_length_3: '060'
-size_no_space_length_4: '0603'
-size_no_space_length_5: '0603'
-size_no_space_length_6: '0603'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '06'
-size_no_space_upper_length_3: '060'
-size_no_space_upper_length_4: '0603'
-size_no_space_upper_length_5: '0603'
-size_no_space_upper_length_6: '0603'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
 size_upper: '0603'
-size_upper_length_1: '0'
-size_upper_length_2: '06'
-size_upper_length_3: '060'
-size_upper_length_4: '0603'
-size_upper_length_5: '0603'
-size_upper_length_6: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -270,29 +117,4 @@ type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

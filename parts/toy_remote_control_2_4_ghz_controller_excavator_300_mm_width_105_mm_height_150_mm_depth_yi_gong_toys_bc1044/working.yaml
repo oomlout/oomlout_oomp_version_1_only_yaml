@@ -1,122 +1,23 @@
-bip_39_word_dash_12: smoke-mule-lunch-tag-weather-more-collect-fun-goat-force-insane-actual
-bip_39_word_dash_2: smoke-mule
-bip_39_word_dash_3: smoke-mule-lunch
-bip_39_word_new_br_12: smoke<br>mule<br>lunch<br>tag<br>weather<br>more<br>collect<br>fun<br>goat<br>force<br>insane<br>actual
-bip_39_word_new_br_2: smoke<br>mule
-bip_39_word_new_br_3: smoke<br>mule<br>lunch
-bip_39_word_new_line_12: 'smoke
-
-  mule
-
-  lunch
-
-  tag
-
-  weather
-
-  more
-
-  collect
-
-  fun
-
-  goat
-
-  force
-
-  insane
-
-  actual'
-bip_39_word_new_line_2: 'smoke
-
-  mule'
-bip_39_word_new_line_3: 'smoke
-
-  mule
-
-  lunch'
-bip_39_word_no_space_12: smokemulelunchtagweathermorecollectfungoatforceinsaneactual
-bip_39_word_no_space_2: smokemule
-bip_39_word_no_space_3: smokemulelunch
-bip_39_word_space_12: smoke mule lunch tag weather more collect fun goat force insane
-  actual
-bip_39_word_space_2: smoke mule
-bip_39_word_space_3: smoke mule lunch
-bip_39_word_underscore_12: smoke_mule_lunch_tag_weather_more_collect_fun_goat_force_insane_actual
-bip_39_word_underscore_2: smoke_mule
-bip_39_word_underscore_3: smoke_mule_lunch
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: to
-classification_length_3: toy
-classification_length_4: toy
-classification_length_5: toy
-classification_length_6: toy
-classification_name: Toy
-classification_no_space_length_1: t
-classification_no_space_length_2: to
-classification_no_space_length_3: toy
-classification_no_space_length_4: toy
-classification_no_space_length_5: toy
-classification_no_space_length_6: toy
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TO
-classification_no_space_upper_length_3: TOY
-classification_no_space_upper_length_4: TOY
-classification_no_space_upper_length_5: TOY
-classification_no_space_upper_length_6: TOY
 classification_upper: TOY
-classification_upper_length_1: T
-classification_upper_length_2: TO
-classification_upper_length_3: TOY
-classification_upper_length_4: TOY
-classification_upper_length_5: TOY
-classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: excavator_300_mm_width_105_mm_height_150_mm_depth
 description_main_capital: Excavator 300 mm Width 105 mm Height 150 mm Depth
 description_main_first_letter: e
 description_main_first_letter_upper: E
-description_main_length_1: e
-description_main_length_2: ex
-description_main_length_3: exc
-description_main_length_4: exca
-description_main_length_5: excav
-description_main_length_6: excava
-description_main_name: Excavator 300 mm Width 105 mm Height 150 mm Depth
-description_main_no_space_length_1: e
-description_main_no_space_length_2: ex
-description_main_no_space_length_3: exc
-description_main_no_space_length_4: exca
-description_main_no_space_length_5: excav
-description_main_no_space_length_6: excava
-description_main_no_space_upper_length_1: E
-description_main_no_space_upper_length_2: EX
-description_main_no_space_upper_length_3: EXC
-description_main_no_space_upper_length_4: EXCA
-description_main_no_space_upper_length_5: EXCAV
-description_main_no_space_upper_length_6: EXCAVA
 description_main_upper: EXCAVATOR_300_MM_WIDTH_105_MM_HEIGHT_150_MM_DEPTH
-description_main_upper_length_1: E
-description_main_upper_length_2: EX
-description_main_upper_length_3: EXC
-description_main_upper_length_4: EXCA
-description_main_upper_length_5: EXCAV
-description_main_upper_length_6: EXCAVA
 description_only_numbers: '300105150'
 description_only_numbers_short: 3M
 description_or_color: 3M
@@ -125,10 +26,8 @@ directory: parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_10
 distributor_aliexpress: '1005007659407993'
 distributor_amazon: B0D3KQQX6G
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 id: toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 id_no_class: remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
-id_no_color: excavator300mmwidth105mmheight150mmdepthyigongtoysbc1044
 id_no_size: excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 id_no_type: 2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007659407993.html
@@ -140,32 +39,7 @@ manufacturer: yi_gong_toys
 manufacturer_capital: Yi Gong Toys
 manufacturer_first_letter: y
 manufacturer_first_letter_upper: Y
-manufacturer_length_1: y
-manufacturer_length_2: yi
-manufacturer_length_3: yi_
-manufacturer_length_4: yi_g
-manufacturer_length_5: yi_go
-manufacturer_length_6: yi_gon
-manufacturer_name: Yi Gong Toys
-manufacturer_no_space_length_1: y
-manufacturer_no_space_length_2: yi
-manufacturer_no_space_length_3: yig
-manufacturer_no_space_length_4: yigo
-manufacturer_no_space_length_5: yigon
-manufacturer_no_space_length_6: yigong
-manufacturer_no_space_upper_length_1: Y
-manufacturer_no_space_upper_length_2: YI
-manufacturer_no_space_upper_length_3: YIG
-manufacturer_no_space_upper_length_4: YIGO
-manufacturer_no_space_upper_length_5: YIGON
-manufacturer_no_space_upper_length_6: YIGONG
 manufacturer_upper: YI_GONG_TOYS
-manufacturer_upper_length_1: Y
-manufacturer_upper_length_2: YI
-manufacturer_upper_length_3: YI_
-manufacturer_upper_length_4: YI_G
-manufacturer_upper_length_5: YI_GO
-manufacturer_upper_length_6: YI_GON
 manufacturers: []
 markdown_full: '[toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044](none)<br>[](none)<br>[Toy
   Remote Control 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height 150 Mm Depth
@@ -180,15 +54,14 @@ md5_6: 2ee9d6
 md5_6_alpha: 1twba
 md5_6_alpha_upper: 1TWBA
 md5_6_upper: 2EE9D6
-name: Toy Remote Control 2 4 Ghz Controller Excavator 300 mm Width 105 mm Height 150
-  mm Depth Yi Gong Toys Bc1044
-name_no_class: Remote Control 2 4 Ghz Controller Excavator 300 mm Width 105 mm Height
-  150 mm Depth Yi Gong Toys Bc1044
-name_no_color: Excavator300mmwidth105mmheight150mmdepthyigongtoysbc1044
-name_no_size: Excavator 300 mm Width 105 mm Height 150 mm Depth Yi Gong Toys Bc1044
+name: Toy Remote Control 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height 150
+  Mm Depth Yi Gong Toys Bc1044
+name_no_class: Remote Control 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height
+  150 Mm Depth Yi Gong Toys Bc1044
+name_no_size: Excavator 300 Mm Width 105 Mm Height 150 Mm Depth Yi Gong Toys Bc1044
 name_no_size_short: Excavator 300 Mm Width 105 Mm Height 150 Mm Depth Yi Gong Toys
   Bc1044
-name_no_type: 2 4 Ghz Controller Excavator 300 mm Width 105 mm Height 150 mm Depth
+name_no_type: 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height 150 Mm Depth
   Yi Gong Toys Bc1044
 oomp_key: oomp_toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
 oomp_word: zap bike school
@@ -206,32 +79,7 @@ part_number_capital: Bc1044
 part_number_exact: BC1044
 part_number_first_letter: b
 part_number_first_letter_upper: B
-part_number_length_1: b
-part_number_length_2: bc
-part_number_length_3: bc1
-part_number_length_4: bc10
-part_number_length_5: bc104
-part_number_length_6: bc1044
-part_number_name: Bc1044
-part_number_no_space_length_1: b
-part_number_no_space_length_2: bc
-part_number_no_space_length_3: bc1
-part_number_no_space_length_4: bc10
-part_number_no_space_length_5: bc104
-part_number_no_space_length_6: bc1044
-part_number_no_space_upper_length_1: B
-part_number_no_space_upper_length_2: BC
-part_number_no_space_upper_length_3: BC1
-part_number_no_space_upper_length_4: BC10
-part_number_no_space_upper_length_5: BC104
-part_number_no_space_upper_length_6: BC1044
 part_number_upper: BC1044
-part_number_upper_length_1: B
-part_number_upper_length_2: BC
-part_number_upper_length_3: BC1
-part_number_upper_length_4: BC10
-part_number_upper_length_5: BC104
-part_number_upper_length_6: BC1044
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -239,61 +87,11 @@ size: 2_4_ghz_controller
 size_capital: 2.4 Ghz Controller
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '2_'
-size_length_3: '2_4'
-size_length_4: '2_4_'
-size_length_5: 2_4_g
-size_length_6: 2_4_gh
-size_name: 2 4 Ghz Controller
-size_no_space_length_1: '2'
-size_no_space_length_2: '24'
-size_no_space_length_3: 24g
-size_no_space_length_4: 24gh
-size_no_space_length_5: 24ghz
-size_no_space_length_6: 24ghzc
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '24'
-size_no_space_upper_length_3: 24G
-size_no_space_upper_length_4: 24GH
-size_no_space_upper_length_5: 24GHZ
-size_no_space_upper_length_6: 24GHZC
 size_only_numbers: '24'
 size_only_numbers_no_zeros: '24'
 size_upper: 2_4_GHZ_CONTROLLER
-size_upper_length_1: '2'
-size_upper_length_2: '2_'
-size_upper_length_3: '2_4'
-size_upper_length_4: '2_4_'
-size_upper_length_5: 2_4_G
-size_upper_length_6: 2_4_GH
 type: remote_control
 type_capital: Remote Control
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: rem
-type_length_4: remo
-type_length_5: remot
-type_length_6: remote
-type_name: Remote Control
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: rem
-type_no_space_length_4: remo
-type_no_space_length_5: remot
-type_no_space_length_6: remote
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: REM
-type_no_space_upper_length_4: REMO
-type_no_space_upper_length_5: REMOT
-type_no_space_upper_length_6: REMOTE
 type_upper: REMOTE_CONTROL
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: REM
-type_upper_length_4: REMO
-type_upper_length_5: REMOT
-type_upper_length_6: REMOTE

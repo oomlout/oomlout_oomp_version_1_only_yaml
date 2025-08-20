@@ -1,98 +1,23 @@
-bip_39_word_dash_12: behind-seminar-blade-length-marriage-wait-type-shift-cream-kangaroo-eyebrow-accuse
-bip_39_word_dash_2: behind-seminar
-bip_39_word_dash_3: behind-seminar-blade
-bip_39_word_new_br_12: behind<br>seminar<br>blade<br>length<br>marriage<br>wait<br>type<br>shift<br>cream<br>kangaroo<br>eyebrow<br>accuse
-bip_39_word_new_br_2: behind<br>seminar
-bip_39_word_new_br_3: behind<br>seminar<br>blade
-bip_39_word_new_line_12: 'behind
-
-  seminar
-
-  blade
-
-  length
-
-  marriage
-
-  wait
-
-  type
-
-  shift
-
-  cream
-
-  kangaroo
-
-  eyebrow
-
-  accuse'
-bip_39_word_new_line_2: 'behind
-
-  seminar'
-bip_39_word_new_line_3: 'behind
-
-  seminar
-
-  blade'
-bip_39_word_no_space_12: behindseminarbladelengthmarriagewaittypeshiftcreamkangarooeyebrowaccuse
-bip_39_word_no_space_2: behindseminar
-bip_39_word_no_space_3: behindseminarblade
-bip_39_word_space_12: behind seminar blade length marriage wait type shift cream kangaroo
-  eyebrow accuse
-bip_39_word_space_2: behind seminar
-bip_39_word_space_3: behind seminar blade
-bip_39_word_underscore_12: behind_seminar_blade_length_marriage_wait_type_shift_cream_kangaroo_eyebrow_accuse
-bip_39_word_underscore_2: behind_seminar
-bip_39_word_underscore_3: behind_seminar_blade
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_tool
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_tool_timer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_timer
 id: category_tool_timer
 id_no_class: tool_timer
-id_no_color: timer
 id_no_size: timer
 id_no_type: timer
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_timer
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_timer](none)<br>[](none)<br>[Category Tool Timer](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: 11EVY
 md5_6_upper: 1AA29E
 name: Category Tool Timer
 name_no_class: Tool Timer
-name_no_color: Timer
 name_no_size: Timer
 name_no_size_short: Timer
 name_no_type: Timer
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,61 +80,11 @@ size: timer
 size_capital: Timer
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: ti
-size_length_3: tim
-size_length_4: time
-size_length_5: timer
-size_length_6: timer
-size_name: Timer
-size_no_space_length_1: t
-size_no_space_length_2: ti
-size_no_space_length_3: tim
-size_no_space_length_4: time
-size_no_space_length_5: timer
-size_no_space_length_6: timer
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TI
-size_no_space_upper_length_3: TIM
-size_no_space_upper_length_4: TIME
-size_no_space_upper_length_5: TIMER
-size_no_space_upper_length_6: TIMER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TIMER
-size_upper_length_1: T
-size_upper_length_2: TI
-size_upper_length_3: TIM
-size_upper_length_4: TIME
-size_upper_length_5: TIMER
-size_upper_length_6: TIMER
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

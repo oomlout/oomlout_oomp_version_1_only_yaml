@@ -1,123 +1,24 @@
-bip_39_word_dash_12: emotion-affair-slot-tower-bind-patient-wine-hour-forward-cream-begin-advance
-bip_39_word_dash_2: emotion-affair
-bip_39_word_dash_3: emotion-affair-slot
-bip_39_word_new_br_12: emotion<br>affair<br>slot<br>tower<br>bind<br>patient<br>wine<br>hour<br>forward<br>cream<br>begin<br>advance
-bip_39_word_new_br_2: emotion<br>affair
-bip_39_word_new_br_3: emotion<br>affair<br>slot
-bip_39_word_new_line_12: 'emotion
-
-  affair
-
-  slot
-
-  tower
-
-  bind
-
-  patient
-
-  wine
-
-  hour
-
-  forward
-
-  cream
-
-  begin
-
-  advance'
-bip_39_word_new_line_2: 'emotion
-
-  affair'
-bip_39_word_new_line_3: 'emotion
-
-  affair
-
-  slot'
-bip_39_word_no_space_12: emotionaffairslottowerbindpatientwinehourforwardcreambeginadvance
-bip_39_word_no_space_2: emotionaffair
-bip_39_word_no_space_3: emotionaffairslot
-bip_39_word_space_12: emotion affair slot tower bind patient wine hour forward cream
-  begin advance
-bip_39_word_space_2: emotion affair
-bip_39_word_space_3: emotion affair slot
-bip_39_word_underscore_12: emotion_affair_slot_tower_bind_patient_wine_hour_forward_cream_begin_advance
-bip_39_word_underscore_2: emotion_affair
-bip_39_word_underscore_3: emotion_affair_slot
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: nutmeg ground
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: nutmeg_ground
 description_main_capital: Nutmeg Ground
 description_main_first_letter: n
 description_main_first_letter_upper: N
-description_main_length_1: n
-description_main_length_2: nu
-description_main_length_3: nut
-description_main_length_4: nutm
-description_main_length_5: nutme
-description_main_length_6: nutmeg
-description_main_name: Nutmeg Ground
-description_main_no_space_length_1: n
-description_main_no_space_length_2: nu
-description_main_no_space_length_3: nut
-description_main_no_space_length_4: nutm
-description_main_no_space_length_5: nutme
-description_main_no_space_length_6: nutmeg
-description_main_no_space_upper_length_1: N
-description_main_no_space_upper_length_2: NU
-description_main_no_space_upper_length_3: NUT
-description_main_no_space_upper_length_4: NUTM
-description_main_no_space_upper_length_5: NUTME
-description_main_no_space_upper_length_6: NUTMEG
 description_main_upper: NUTMEG_GROUND
-description_main_upper_length_1: N
-description_main_upper_length_2: NU
-description_main_upper_length_3: NUT
-description_main_upper_length_4: NUTM
-description_main_upper_length_5: NUTME
-description_main_upper_length_6: NUTMEG
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -126,10 +27,8 @@ directory: parts/food_seasoning_spice_nutmeg_ground
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_spice_nutmeg_ground
 id: food_seasoning_spice_nutmeg_ground
 id_no_class: seasoning_spice_nutmeg_ground
-id_no_color: nutmegground
 id_no_size: nutmeg_ground
 id_no_type: spice_nutmeg_ground
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_nutmeg_ground
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_seasoning_spice_nutmeg_ground](none)<br>[](none)<br>[Food Seasoning
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 2FB7W
 md5_6_upper: 3E288C
 name: Food Seasoning Spice Nutmeg Ground
 name_no_class: Seasoning Spice Nutmeg Ground
-name_no_color: Nutmegground
 name_no_size: Nutmeg Ground
 name_no_size_short: Nutmeg Ground
 name_no_type: Spice Nutmeg Ground
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: spice
 size_capital: Spice
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sp
-size_length_3: spi
-size_length_4: spic
-size_length_5: spice
-size_length_6: spice
-size_name: Spice
-size_no_space_length_1: s
-size_no_space_length_2: sp
-size_no_space_length_3: spi
-size_no_space_length_4: spic
-size_no_space_length_5: spice
-size_no_space_length_6: spice
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SP
-size_no_space_upper_length_3: SPI
-size_no_space_upper_length_4: SPIC
-size_no_space_upper_length_5: SPICE
-size_no_space_upper_length_6: SPICE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SPICE
-size_upper_length_1: S
-size_upper_length_2: SP
-size_upper_length_3: SPI
-size_upper_length_4: SPIC
-size_upper_length_5: SPICE
-size_upper_length_6: SPICE
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: se
-type_length_3: sea
-type_length_4: seas
-type_length_5: seaso
-type_length_6: season
-type_name: Seasoning
-type_no_space_length_1: s
-type_no_space_length_2: se
-type_no_space_length_3: sea
-type_no_space_length_4: seas
-type_no_space_length_5: seaso
-type_no_space_length_6: season
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SE
-type_no_space_upper_length_3: SEA
-type_no_space_upper_length_4: SEAS
-type_no_space_upper_length_5: SEASO
-type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
-type_upper_length_1: S
-type_upper_length_2: SE
-type_upper_length_3: SEA
-type_upper_length_4: SEAS
-type_upper_length_5: SEASO
-type_upper_length_6: SEASON

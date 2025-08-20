@@ -1,146 +1,23 @@
-bip_39_word_dash_12: book-chunk-kangaroo-this-pigeon-easily-vacuum-siren-winner-impulse-open-arm
-bip_39_word_dash_2: book-chunk
-bip_39_word_dash_3: book-chunk-kangaroo
-bip_39_word_new_br_12: book<br>chunk<br>kangaroo<br>this<br>pigeon<br>easily<br>vacuum<br>siren<br>winner<br>impulse<br>open<br>arm
-bip_39_word_new_br_2: book<br>chunk
-bip_39_word_new_br_3: book<br>chunk<br>kangaroo
-bip_39_word_new_line_12: 'book
-
-  chunk
-
-  kangaroo
-
-  this
-
-  pigeon
-
-  easily
-
-  vacuum
-
-  siren
-
-  winner
-
-  impulse
-
-  open
-
-  arm'
-bip_39_word_new_line_2: 'book
-
-  chunk'
-bip_39_word_new_line_3: 'book
-
-  chunk
-
-  kangaroo'
-bip_39_word_no_space_12: bookchunkkangaroothispigeoneasilyvacuumsirenwinnerimpulseopenarm
-bip_39_word_no_space_2: bookchunk
-bip_39_word_no_space_3: bookchunkkangaroo
-bip_39_word_space_12: book chunk kangaroo this pigeon easily vacuum siren winner impulse
-  open arm
-bip_39_word_space_2: book chunk
-bip_39_word_space_3: book chunk kangaroo
-bip_39_word_underscore_12: book_chunk_kangaroo_this_pigeon_easily_vacuum_siren_winner_impulse_open_arm
-bip_39_word_underscore_2: book_chunk
-bip_39_word_underscore_3: book_chunk_kangaroo
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 5_mm
 color_capital: 5 mm
 color_first_letter: '5'
 color_first_letter_upper: '5'
-color_length_1: '5'
-color_length_2: '5_'
-color_length_3: 5_m
-color_length_4: 5_mm
-color_length_5: 5_mm
-color_length_6: 5_mm
-color_name: 5 mm
-color_no_space_length_1: '5'
-color_no_space_length_2: 5m
-color_no_space_length_3: 5mm
-color_no_space_length_4: 5mm
-color_no_space_length_5: 5mm
-color_no_space_length_6: 5mm
-color_no_space_upper_length_1: '5'
-color_no_space_upper_length_2: 5M
-color_no_space_upper_length_3: 5MM
-color_no_space_upper_length_4: 5MM
-color_no_space_upper_length_5: 5MM
-color_no_space_upper_length_6: 5MM
 color_upper: 5_MM
-color_upper_length_1: '5'
-color_upper_length_2: '5_'
-color_upper_length_3: 5_M
-color_upper_length_4: 5_MM
-color_upper_length_5: 5_MM
-color_upper_length_6: 5_MM
 description: category_hardware
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_hardware_shelf_support_peg_5_mm_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_shelf_support_peg_5_mm_tote
 id: category_hardware_shelf_support_peg_5_mm_tote
 id_no_class: hardware_shelf_support_peg_5_mm_tote
-id_no_color: tote
 id_no_size: 5_mm_tote
 id_no_type: shelf_support_peg_5_mm_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg_5_mm_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_shelf_support_peg_5_mm_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: bb365c
 md5_6_alpha: 7ayxo
 md5_6_alpha_upper: 7AYXO
 md5_6_upper: BB365C
-name: Category Hardware Shelf Support Peg 5 mm Tote
-name_no_class: Hardware Shelf Support Peg 5 mm Tote
-name_no_color: Tote
-name_no_size: 5 mm Tote
+name: Category Hardware Shelf Support Peg 5 Mm Tote
+name_no_class: Hardware Shelf Support Peg 5 Mm Tote
+name_no_size: 5 Mm Tote
 name_no_size_short: 5 Mm Tote
-name_no_type: Shelf Support Peg 5 mm Tote
+name_no_type: Shelf Support Peg 5 Mm Tote
 oomp_key: oomp_category_hardware_shelf_support_peg_5_mm_tote
 oomp_word: curry rabbit ox
 oomp_word_emoji: ':curry: :rabbit: :ox:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: shelf_support_peg
 size_capital: Shelf Support Peg
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sh
-size_length_3: she
-size_length_4: shel
-size_length_5: shelf
-size_length_6: shelf_
-size_name: Shelf Support Peg
-size_no_space_length_1: s
-size_no_space_length_2: sh
-size_no_space_length_3: she
-size_no_space_length_4: shel
-size_no_space_length_5: shelf
-size_no_space_length_6: shelfs
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SH
-size_no_space_upper_length_3: SHE
-size_no_space_upper_length_4: SHEL
-size_no_space_upper_length_5: SHELF
-size_no_space_upper_length_6: SHELFS
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHELF_SUPPORT_PEG
-size_upper_length_1: S
-size_upper_length_2: SH
-size_upper_length_3: SHE
-size_upper_length_4: SHEL
-size_upper_length_5: SHELF
-size_upper_length_6: SHELF_
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

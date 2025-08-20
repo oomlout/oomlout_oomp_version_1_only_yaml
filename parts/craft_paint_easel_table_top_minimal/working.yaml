@@ -1,156 +1,31 @@
-bip_39_word_dash_12: process-plunge-one-jewel-weird-capital-ankle-height-heavy-palm-outer-aspect
-bip_39_word_dash_2: process-plunge
-bip_39_word_dash_3: process-plunge-one
-bip_39_word_new_br_12: process<br>plunge<br>one<br>jewel<br>weird<br>capital<br>ankle<br>height<br>heavy<br>palm<br>outer<br>aspect
-bip_39_word_new_br_2: process<br>plunge
-bip_39_word_new_br_3: process<br>plunge<br>one
-bip_39_word_new_line_12: 'process
-
-  plunge
-
-  one
-
-  jewel
-
-  weird
-
-  capital
-
-  ankle
-
-  height
-
-  heavy
-
-  palm
-
-  outer
-
-  aspect'
-bip_39_word_new_line_2: 'process
-
-  plunge'
-bip_39_word_new_line_3: 'process
-
-  plunge
-
-  one'
-bip_39_word_no_space_12: processplungeonejewelweirdcapitalankleheightheavypalmouteraspect
-bip_39_word_no_space_2: processplunge
-bip_39_word_no_space_3: processplungeone
-bip_39_word_space_12: process plunge one jewel weird capital ankle height heavy palm
-  outer aspect
-bip_39_word_space_2: process plunge
-bip_39_word_space_3: process plunge one
-bip_39_word_underscore_12: process_plunge_one_jewel_weird_capital_ankle_height_heavy_palm_outer_aspect
-bip_39_word_underscore_2: process_plunge
-bip_39_word_underscore_3: process_plunge_one
 classification: craft
 classification_capital: Craft
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: cr
-classification_length_3: cra
-classification_length_4: craf
-classification_length_5: craft
-classification_length_6: craft
-classification_name: Craft
-classification_no_space_length_1: c
-classification_no_space_length_2: cr
-classification_no_space_length_3: cra
-classification_no_space_length_4: craf
-classification_no_space_length_5: craft
-classification_no_space_length_6: craft
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CR
-classification_no_space_upper_length_3: CRA
-classification_no_space_upper_length_4: CRAF
-classification_no_space_upper_length_5: CRAFT
-classification_no_space_upper_length_6: CRAFT
 classification_upper: CRAFT
-classification_upper_length_1: C
-classification_upper_length_2: CR
-classification_upper_length_3: CRA
-classification_upper_length_4: CRAF
-classification_upper_length_5: CRAFT
-classification_upper_length_6: CRAFT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: minimal
 description_extra_capital: Minimal
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: mi
-description_extra_length_3: min
-description_extra_length_4: mini
-description_extra_length_5: minim
-description_extra_length_6: minima
-description_extra_name: Minimal
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mi
-description_extra_no_space_length_3: min
-description_extra_no_space_length_4: mini
-description_extra_no_space_length_5: minim
-description_extra_no_space_length_6: minima
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MI
-description_extra_no_space_upper_length_3: MIN
-description_extra_no_space_upper_length_4: MINI
-description_extra_no_space_upper_length_5: MINIM
-description_extra_no_space_upper_length_6: MINIMA
 description_extra_upper: MINIMAL
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MI
-description_extra_upper_length_3: MIN
-description_extra_upper_length_4: MINI
-description_extra_upper_length_5: MINIM
-description_extra_upper_length_6: MINIMA
 description_main: table_top
 description_main_capital: Table Top
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: ta
-description_main_length_3: tab
-description_main_length_4: tabl
-description_main_length_5: table
-description_main_length_6: table_
-description_main_name: Table Top
-description_main_no_space_length_1: t
-description_main_no_space_length_2: ta
-description_main_no_space_length_3: tab
-description_main_no_space_length_4: tabl
-description_main_no_space_length_5: table
-description_main_no_space_length_6: tablet
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TA
-description_main_no_space_upper_length_3: TAB
-description_main_no_space_upper_length_4: TABL
-description_main_no_space_upper_length_5: TABLE
-description_main_no_space_upper_length_6: TABLET
 description_main_upper: TABLE_TOP
-description_main_upper_length_1: T
-description_main_upper_length_2: TA
-description_main_upper_length_3: TAB
-description_main_upper_length_4: TABL
-description_main_upper_length_5: TABLE
-description_main_upper_length_6: TABLE_
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/craft_paint_easel_table_top_minimal
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/craft_paint_easel_table_top_minimal
 id: craft_paint_easel_table_top_minimal
 id_no_class: paint_easel_table_top_minimal
-id_no_color: tabletopminimal
 id_no_size: table_top_minimal
 id_no_type: easel_table_top_minimal
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_table_top_minimal
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[craft_paint_easel_table_top_minimal](none)<br>[](none)<br>[Craft
@@ -177,7 +51,6 @@ md5_6_alpha_upper: 8EBON
 md5_6_upper: D73AA7
 name: Craft Paint Easel Table Top Minimal
 name_no_class: Paint Easel Table Top Minimal
-name_no_color: Tabletopminimal
 name_no_size: Table Top Minimal
 name_no_size_short: Table Top Minimal
 name_no_type: Easel Table Top Minimal
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: easel
 size_capital: Easel
 size_first_letter: e
 size_first_letter_upper: E
-size_length_1: e
-size_length_2: ea
-size_length_3: eas
-size_length_4: ease
-size_length_5: easel
-size_length_6: easel
-size_name: Easel
-size_no_space_length_1: e
-size_no_space_length_2: ea
-size_no_space_length_3: eas
-size_no_space_length_4: ease
-size_no_space_length_5: easel
-size_no_space_length_6: easel
-size_no_space_upper_length_1: E
-size_no_space_upper_length_2: EA
-size_no_space_upper_length_3: EAS
-size_no_space_upper_length_4: EASE
-size_no_space_upper_length_5: EASEL
-size_no_space_upper_length_6: EASEL
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: EASEL
-size_upper_length_1: E
-size_upper_length_2: EA
-size_upper_length_3: EAS
-size_upper_length_4: EASE
-size_upper_length_5: EASEL
-size_upper_length_6: EASEL
 type: paint
 type_capital: Paint
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pai
-type_length_4: pain
-type_length_5: paint
-type_length_6: paint
-type_name: Paint
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pai
-type_no_space_length_4: pain
-type_no_space_length_5: paint
-type_no_space_length_6: paint
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAI
-type_no_space_upper_length_4: PAIN
-type_no_space_upper_length_5: PAINT
-type_no_space_upper_length_6: PAINT
 type_upper: PAINT
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAI
-type_upper_length_4: PAIN
-type_upper_length_5: PAINT
-type_upper_length_6: PAINT

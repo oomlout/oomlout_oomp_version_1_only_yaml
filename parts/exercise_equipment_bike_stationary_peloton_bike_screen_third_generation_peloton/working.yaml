@@ -1,156 +1,31 @@
-bip_39_word_dash_12: theme-post-gorilla-blind-arrest-solid-arch-excess-output-digital-razor-art
-bip_39_word_dash_2: theme-post
-bip_39_word_dash_3: theme-post-gorilla
-bip_39_word_new_br_12: theme<br>post<br>gorilla<br>blind<br>arrest<br>solid<br>arch<br>excess<br>output<br>digital<br>razor<br>art
-bip_39_word_new_br_2: theme<br>post
-bip_39_word_new_br_3: theme<br>post<br>gorilla
-bip_39_word_new_line_12: 'theme
-
-  post
-
-  gorilla
-
-  blind
-
-  arrest
-
-  solid
-
-  arch
-
-  excess
-
-  output
-
-  digital
-
-  razor
-
-  art'
-bip_39_word_new_line_2: 'theme
-
-  post'
-bip_39_word_new_line_3: 'theme
-
-  post
-
-  gorilla'
-bip_39_word_no_space_12: themepostgorillablindarrestsolidarchexcessoutputdigitalrazorart
-bip_39_word_no_space_2: themepost
-bip_39_word_no_space_3: themepostgorilla
-bip_39_word_space_12: theme post gorilla blind arrest solid arch excess output digital
-  razor art
-bip_39_word_space_2: theme post
-bip_39_word_space_3: theme post gorilla
-bip_39_word_underscore_12: theme_post_gorilla_blind_arrest_solid_arch_excess_output_digital_razor_art
-bip_39_word_underscore_2: theme_post
-bip_39_word_underscore_3: theme_post_gorilla
 classification: exercise_equipment
 classification_capital: Exercise Equipment
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: ex
-classification_length_3: exe
-classification_length_4: exer
-classification_length_5: exerc
-classification_length_6: exerci
-classification_name: Exercise Equipment
-classification_no_space_length_1: e
-classification_no_space_length_2: ex
-classification_no_space_length_3: exe
-classification_no_space_length_4: exer
-classification_no_space_length_5: exerc
-classification_no_space_length_6: exerci
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EX
-classification_no_space_upper_length_3: EXE
-classification_no_space_upper_length_4: EXER
-classification_no_space_upper_length_5: EXERC
-classification_no_space_upper_length_6: EXERCI
 classification_upper: EXERCISE_EQUIPMENT
-classification_upper_length_1: E
-classification_upper_length_2: EX
-classification_upper_length_3: EXE
-classification_upper_length_4: EXER
-classification_upper_length_5: EXERC
-classification_upper_length_6: EXERCI
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: third_generation
 description_extra_capital: Third Generation
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: th
-description_extra_length_3: thi
-description_extra_length_4: thir
-description_extra_length_5: third
-description_extra_length_6: third_
-description_extra_name: Third Generation
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: th
-description_extra_no_space_length_3: thi
-description_extra_no_space_length_4: thir
-description_extra_no_space_length_5: third
-description_extra_no_space_length_6: thirdg
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TH
-description_extra_no_space_upper_length_3: THI
-description_extra_no_space_upper_length_4: THIR
-description_extra_no_space_upper_length_5: THIRD
-description_extra_no_space_upper_length_6: THIRDG
 description_extra_upper: THIRD_GENERATION
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TH
-description_extra_upper_length_3: THI
-description_extra_upper_length_4: THIR
-description_extra_upper_length_5: THIRD
-description_extra_upper_length_6: THIRD_
 description_main: screen
 description_main_capital: Screen
 description_main_first_letter: s
 description_main_first_letter_upper: S
-description_main_length_1: s
-description_main_length_2: sc
-description_main_length_3: scr
-description_main_length_4: scre
-description_main_length_5: scree
-description_main_length_6: screen
-description_main_name: Screen
-description_main_no_space_length_1: s
-description_main_no_space_length_2: sc
-description_main_no_space_length_3: scr
-description_main_no_space_length_4: scre
-description_main_no_space_length_5: scree
-description_main_no_space_length_6: screen
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SC
-description_main_no_space_upper_length_3: SCR
-description_main_no_space_upper_length_4: SCRE
-description_main_no_space_upper_length_5: SCREE
-description_main_no_space_upper_length_6: SCREEN
 description_main_upper: SCREEN
-description_main_upper_length_1: S
-description_main_upper_length_2: SC
-description_main_upper_length_3: SCR
-description_main_upper_length_4: SCRE
-description_main_upper_length_5: SCREE
-description_main_upper_length_6: SCREEN
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
 id: exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
 id_no_class: bike_stationary_peloton_bike_screen_third_generation_peloton
-id_no_color: screenthirdgenerationpeloton
 id_no_size: screen_third_generation_peloton
 id_no_type: peloton_bike_screen_third_generation_peloton
 link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=
@@ -161,32 +36,7 @@ manufacturer: peloton
 manufacturer_capital: Peloton
 manufacturer_first_letter: p
 manufacturer_first_letter_upper: P
-manufacturer_length_1: p
-manufacturer_length_2: pe
-manufacturer_length_3: pel
-manufacturer_length_4: pelo
-manufacturer_length_5: pelot
-manufacturer_length_6: peloto
-manufacturer_name: Peloton
-manufacturer_no_space_length_1: p
-manufacturer_no_space_length_2: pe
-manufacturer_no_space_length_3: pel
-manufacturer_no_space_length_4: pelo
-manufacturer_no_space_length_5: pelot
-manufacturer_no_space_length_6: peloto
-manufacturer_no_space_upper_length_1: P
-manufacturer_no_space_upper_length_2: PE
-manufacturer_no_space_upper_length_3: PEL
-manufacturer_no_space_upper_length_4: PELO
-manufacturer_no_space_upper_length_5: PELOT
-manufacturer_no_space_upper_length_6: PELOTO
 manufacturer_upper: PELOTON
-manufacturer_upper_length_1: P
-manufacturer_upper_length_2: PE
-manufacturer_upper_length_3: PEL
-manufacturer_upper_length_4: PELO
-manufacturer_upper_length_5: PELOT
-manufacturer_upper_length_6: PELOTO
 manufacturers: []
 markdown_full: '[exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton](none)<br>[](none)<br>[Exercise
   Equipment Bike Stationary Peloton Bike Screen Third Generation Peloton](none)<br><br>'
@@ -202,7 +52,6 @@ md5_6_alpha_upper: 80IFJ
 md5_6_upper: CD654F
 name: Exercise Equipment Bike Stationary Peloton Bike Screen Third Generation Peloton
 name_no_class: Bike Stationary Peloton Bike Screen Third Generation Peloton
-name_no_color: Screenthirdgenerationpeloton
 name_no_size: Screen Third Generation Peloton
 name_no_size_short: Screen Third Generation Peloton
 name_no_type: Peloton Bike Screen Third Generation Peloton
@@ -221,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -229,61 +77,11 @@ size: peloton_bike
 size_capital: Peloton Bike
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pe
-size_length_3: pel
-size_length_4: pelo
-size_length_5: pelot
-size_length_6: peloto
-size_name: Peloton Bike
-size_no_space_length_1: p
-size_no_space_length_2: pe
-size_no_space_length_3: pel
-size_no_space_length_4: pelo
-size_no_space_length_5: pelot
-size_no_space_length_6: peloto
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PE
-size_no_space_upper_length_3: PEL
-size_no_space_upper_length_4: PELO
-size_no_space_upper_length_5: PELOT
-size_no_space_upper_length_6: PELOTO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PELOTON_BIKE
-size_upper_length_1: P
-size_upper_length_2: PE
-size_upper_length_3: PEL
-size_upper_length_4: PELO
-size_upper_length_5: PELOT
-size_upper_length_6: PELOTO
 type: bike_stationary
 type_capital: Bike Stationary
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: bi
-type_length_3: bik
-type_length_4: bike
-type_length_5: bike_
-type_length_6: bike_s
-type_name: Bike Stationary
-type_no_space_length_1: b
-type_no_space_length_2: bi
-type_no_space_length_3: bik
-type_no_space_length_4: bike
-type_no_space_length_5: bikes
-type_no_space_length_6: bikest
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BI
-type_no_space_upper_length_3: BIK
-type_no_space_upper_length_4: BIKE
-type_no_space_upper_length_5: BIKES
-type_no_space_upper_length_6: BIKEST
 type_upper: BIKE_STATIONARY
-type_upper_length_1: B
-type_upper_length_2: BI
-type_upper_length_3: BIK
-type_upper_length_4: BIKE
-type_upper_length_5: BIKE_
-type_upper_length_6: BIKE_S

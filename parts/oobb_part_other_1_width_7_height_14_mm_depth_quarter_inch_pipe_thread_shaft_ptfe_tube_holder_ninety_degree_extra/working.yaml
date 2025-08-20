@@ -1,158 +1,32 @@
-bip_39_word_dash_12: access-high-scheme-shed-woman-common-loop-history-actor-hope-option-another
-bip_39_word_dash_2: access-high
-bip_39_word_dash_3: access-high-scheme
-bip_39_word_new_br_12: access<br>high<br>scheme<br>shed<br>woman<br>common<br>loop<br>history<br>actor<br>hope<br>option<br>another
-bip_39_word_new_br_2: access<br>high
-bip_39_word_new_br_3: access<br>high<br>scheme
-bip_39_word_new_line_12: 'access
-
-  high
-
-  scheme
-
-  shed
-
-  woman
-
-  common
-
-  loop
-
-  history
-
-  actor
-
-  hope
-
-  option
-
-  another'
-bip_39_word_new_line_2: 'access
-
-  high'
-bip_39_word_new_line_3: 'access
-
-  high
-
-  scheme'
-bip_39_word_no_space_12: accesshighschemeshedwomancommonloophistoryactorhopeoptionanother
-bip_39_word_no_space_2: accesshigh
-bip_39_word_no_space_3: accesshighscheme
-bip_39_word_space_12: access high scheme shed woman common loop history actor hope
-  option another
-bip_39_word_space_2: access high
-bip_39_word_space_3: access high scheme
-bip_39_word_underscore_12: access_high_scheme_shed_woman_common_loop_history_actor_hope_option_another
-bip_39_word_underscore_2: access_high
-bip_39_word_underscore_3: access_high_scheme
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 description_extra_capital: Quarter Inch Pipe Thread Shaft Ptfe Tube Holder Ninety
   Degree Extra
 description_extra_first_letter: q
 description_extra_first_letter_upper: Q
-description_extra_length_1: q
-description_extra_length_2: qu
-description_extra_length_3: qua
-description_extra_length_4: quar
-description_extra_length_5: quart
-description_extra_length_6: quarte
-description_extra_name: Quarter Inch Pipe Thread Shaft Ptfe Tube Holder Ninety Degree
-  Extra
-description_extra_no_space_length_1: q
-description_extra_no_space_length_2: qu
-description_extra_no_space_length_3: qua
-description_extra_no_space_length_4: quar
-description_extra_no_space_length_5: quart
-description_extra_no_space_length_6: quarte
-description_extra_no_space_upper_length_1: Q
-description_extra_no_space_upper_length_2: QU
-description_extra_no_space_upper_length_3: QUA
-description_extra_no_space_upper_length_4: QUAR
-description_extra_no_space_upper_length_5: QUART
-description_extra_no_space_upper_length_6: QUARTE
 description_extra_upper: QUARTER_INCH_PIPE_THREAD_SHAFT_PTFE_TUBE_HOLDER_NINETY_DEGREE_EXTRA
-description_extra_upper_length_1: Q
-description_extra_upper_length_2: QU
-description_extra_upper_length_3: QUA
-description_extra_upper_length_4: QUAR
-description_extra_upper_length_5: QUART
-description_extra_upper_length_6: QUARTE
 description_main: 1_width_7_height_14_mm_depth
 description_main_capital: 1 Width 7 Height 14 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '1_'
-description_main_length_3: 1_w
-description_main_length_4: 1_wi
-description_main_length_5: 1_wid
-description_main_length_6: 1_widt
-description_main_name: 1 Width 7 Height 14 mm Depth
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: 1w
-description_main_no_space_length_3: 1wi
-description_main_no_space_length_4: 1wid
-description_main_no_space_length_5: 1widt
-description_main_no_space_length_6: 1width
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: 1W
-description_main_no_space_upper_length_3: 1WI
-description_main_no_space_upper_length_4: 1WID
-description_main_no_space_upper_length_5: 1WIDT
-description_main_no_space_upper_length_6: 1WIDTH
 description_main_upper: 1_WIDTH_7_HEIGHT_14_MM_DEPTH
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '1_'
-description_main_upper_length_3: 1_W
-description_main_upper_length_4: 1_WI
-description_main_upper_length_5: 1_WID
-description_main_upper_length_6: 1_WIDT
 description_only_numbers: '1714'
 description_only_numbers_short: 1k7
 description_or_color: 1k7
 description_or_color_upper: 1K7
 directory: parts/oobb_part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 id: oobb_part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 id_no_class: part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
-id_no_color: 1width7height14mmdepthquarterinchpipethreadshaftptfetubeholderninetydegreeextra
 id_no_size: 1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 id_no_type: other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
@@ -162,7 +36,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra](none)<br>[](none)<br>[Oobb
@@ -178,16 +51,15 @@ md5_6: 99375b
 md5_6_alpha: 5z7tn
 md5_6_alpha_upper: 5Z7TN
 md5_6_upper: 99375B
-name: Oobb Part Other 1 Width 7 Height 14 mm Depth Quarter Inch Pipe Thread Shaft
+name: Oobb Part Other 1 Width 7 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft
   Ptfe Tube Holder Ninety Degree Extra
-name_no_class: Part Other 1 Width 7 Height 14 mm Depth Quarter Inch Pipe Thread Shaft
+name_no_class: Part Other 1 Width 7 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft
   Ptfe Tube Holder Ninety Degree Extra
-name_no_color: 1Width7Height14mmdepthquarterinchpipethreadshaftptfetubeholderninetydegreeextra
-name_no_size: 1 Width 7 Height 14 mm Depth Quarter Inch Pipe Thread Shaft Ptfe Tube
+name_no_size: 1 Width 7 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe Tube
   Holder Ninety Degree Extra
 name_no_size_short: 1 Width 7 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe
   Tube Holder Ninety Degree Extra
-name_no_type: Other 1 Width 7 Height 14 mm Depth Quarter Inch Pipe Thread Shaft Ptfe
+name_no_type: Other 1 Width 7 Height 14 Mm Depth Quarter Inch Pipe Thread Shaft Ptfe
   Tube Holder Ninety Degree Extra
 oomp_key: oomp_oobb_part_other_1_width_7_height_14_mm_depth_quarter_inch_pipe_thread_shaft_ptfe_tube_holder_ninety_degree_extra
 oomp_word: bowling wolf rooster
@@ -204,7 +76,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -213,61 +84,11 @@ size: other
 size_capital: Other
 size_first_letter: o
 size_first_letter_upper: O
-size_length_1: o
-size_length_2: ot
-size_length_3: oth
-size_length_4: othe
-size_length_5: other
-size_length_6: other
-size_name: Other
-size_no_space_length_1: o
-size_no_space_length_2: ot
-size_no_space_length_3: oth
-size_no_space_length_4: othe
-size_no_space_length_5: other
-size_no_space_length_6: other
-size_no_space_upper_length_1: O
-size_no_space_upper_length_2: OT
-size_no_space_upper_length_3: OTH
-size_no_space_upper_length_4: OTHE
-size_no_space_upper_length_5: OTHER
-size_no_space_upper_length_6: OTHER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: OTHER
-size_upper_length_1: O
-size_upper_length_2: OT
-size_upper_length_3: OTH
-size_upper_length_4: OTHE
-size_upper_length_5: OTHER
-size_upper_length_6: OTHER
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

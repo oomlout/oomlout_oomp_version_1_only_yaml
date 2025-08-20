@@ -1,122 +1,23 @@
-bip_39_word_dash_12: crime-cushion-cry-hello-share-pumpkin-people-stumble-rice-metal-kind-almost
-bip_39_word_dash_2: crime-cushion
-bip_39_word_dash_3: crime-cushion-cry
-bip_39_word_new_br_12: crime<br>cushion<br>cry<br>hello<br>share<br>pumpkin<br>people<br>stumble<br>rice<br>metal<br>kind<br>almost
-bip_39_word_new_br_2: crime<br>cushion
-bip_39_word_new_br_3: crime<br>cushion<br>cry
-bip_39_word_new_line_12: 'crime
-
-  cushion
-
-  cry
-
-  hello
-
-  share
-
-  pumpkin
-
-  people
-
-  stumble
-
-  rice
-
-  metal
-
-  kind
-
-  almost'
-bip_39_word_new_line_2: 'crime
-
-  cushion'
-bip_39_word_new_line_3: 'crime
-
-  cushion
-
-  cry'
-bip_39_word_no_space_12: crimecushioncryhellosharepumpkinpeoplestumblericemetalkindalmost
-bip_39_word_no_space_2: crimecushion
-bip_39_word_no_space_3: crimecushioncry
-bip_39_word_space_12: crime cushion cry hello share pumpkin people stumble rice metal
-  kind almost
-bip_39_word_space_2: crime cushion
-bip_39_word_space_3: crime cushion cry
-bip_39_word_underscore_12: crime_cushion_cry_hello_share_pumpkin_people_stumble_rice_metal_kind_almost
-bip_39_word_underscore_2: crime_cushion
-bip_39_word_underscore_3: crime_cushion_cry
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 1800_ohm
 description_main_capital: 1800 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '18'
-description_main_length_3: '180'
-description_main_length_4: '1800'
-description_main_length_5: '1800_'
-description_main_length_6: 1800_o
-description_main_name: 1800 Ohm
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '18'
-description_main_no_space_length_3: '180'
-description_main_no_space_length_4: '1800'
-description_main_no_space_length_5: 1800o
-description_main_no_space_length_6: 1800oh
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '18'
-description_main_no_space_upper_length_3: '180'
-description_main_no_space_upper_length_4: '1800'
-description_main_no_space_upper_length_5: 1800O
-description_main_no_space_upper_length_6: 1800OH
 description_main_upper: 1800_OHM
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '18'
-description_main_upper_length_3: '180'
-description_main_upper_length_4: '1800'
-description_main_upper_length_5: '1800_'
-description_main_upper_length_6: 1800_O
 description_only_numbers: '1800'
 description_only_numbers_short: 1k8
 description_or_color: 1k8
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ro182_electronic_resistor_quarter_watt_through_hole_1800_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_quarter_watt_through_hole_1800_ohm
 id: electronic_resistor_quarter_watt_through_hole_1800_ohm
 id_no_class: resistor_quarter_watt_through_hole_1800_ohm
-id_no_color: 1800ohm
 id_no_size: 1800_ohm
 id_no_type: quarter_watt_through_hole_1800_ohm
 kicad_reference: R
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_quarter_watt_through_hole_1800_ohm](none)<br>[ro182](none)<br>[Electronic
@@ -167,7 +65,6 @@ md5_6_alpha_upper: 491R7
 md5_6_upper: 6CF523
 name: Electronic Resistor Quarter Watt Through Hole 1800 Ohm
 name_no_class: Resistor Quarter Watt Through Hole 1800 Ohm
-name_no_color: 1800Ohm
 name_no_size: 1800 Ohm
 name_no_size_short: 1k8 Ohm
 name_no_type: Quarter Watt Through Hole 1800 Ohm
@@ -186,7 +83,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ro182
 short_code_upper: RO182
@@ -194,34 +90,9 @@ size: quarter_watt_through_hole
 size_capital: Quarter Watt Through Hole
 size_first_letter: q
 size_first_letter_upper: Q
-size_length_1: q
-size_length_2: qu
-size_length_3: qua
-size_length_4: quar
-size_length_5: quart
-size_length_6: quarte
-size_name: Quarter Watt Through Hole
-size_no_space_length_1: q
-size_no_space_length_2: qu
-size_no_space_length_3: qua
-size_no_space_length_4: quar
-size_no_space_length_5: quart
-size_no_space_length_6: quarte
-size_no_space_upper_length_1: Q
-size_no_space_upper_length_2: QU
-size_no_space_upper_length_3: QUA
-size_no_space_upper_length_4: QUAR
-size_no_space_upper_length_5: QUART
-size_no_space_upper_length_6: QUARTE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: QUARTER_WATT_THROUGH_HOLE
-size_upper_length_1: Q
-size_upper_length_2: QU
-size_upper_length_3: QUA
-size_upper_length_4: QUAR
-size_upper_length_5: QUART
-size_upper_length_6: QUARTE
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_r//working/working.kicad_sym
   index: 0
@@ -231,29 +102,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

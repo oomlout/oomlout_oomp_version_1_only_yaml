@@ -1,134 +1,33 @@
-bip_39_word_dash_12: chapter-utility-valid-amateur-fossil-aware-often-margin-fee-portion-endorse-angle
-bip_39_word_dash_2: chapter-utility
-bip_39_word_dash_3: chapter-utility-valid
-bip_39_word_new_br_12: chapter<br>utility<br>valid<br>amateur<br>fossil<br>aware<br>often<br>margin<br>fee<br>portion<br>endorse<br>angle
-bip_39_word_new_br_2: chapter<br>utility
-bip_39_word_new_br_3: chapter<br>utility<br>valid
-bip_39_word_new_line_12: 'chapter
-
-  utility
-
-  valid
-
-  amateur
-
-  fossil
-
-  aware
-
-  often
-
-  margin
-
-  fee
-
-  portion
-
-  endorse
-
-  angle'
-bip_39_word_new_line_2: 'chapter
-
-  utility'
-bip_39_word_new_line_3: 'chapter
-
-  utility
-
-  valid'
-bip_39_word_no_space_12: chapterutilityvalidamateurfossilawareoftenmarginfeeportionendorseangle
-bip_39_word_no_space_2: chapterutility
-bip_39_word_no_space_3: chapterutilityvalid
-bip_39_word_space_12: chapter utility valid amateur fossil aware often margin fee
-  portion endorse angle
-bip_39_word_space_2: chapter utility
-bip_39_word_space_3: chapter utility valid
-bip_39_word_underscore_12: chapter_utility_valid_amateur_fossil_aware_often_margin_fee_portion_endorse_angle
-bip_39_word_underscore_2: chapter_utility
-bip_39_word_underscore_3: chapter_utility_valid
 box_quantity: '126'
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pac
-classification_length_4: pack
-classification_length_5: packa
-classification_length_6: packag
-classification_name: Packaging
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pac
-classification_no_space_length_4: pack
-classification_no_space_length_5: packa
-classification_no_space_length_6: packag
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAC
-classification_no_space_upper_length_4: PACK
-classification_no_space_upper_length_5: PACKA
-classification_no_space_upper_length_6: PACKAG
 classification_upper: PACKAGING
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAC
-classification_upper_length_4: PACK
-classification_upper_length_5: PACKA
-classification_upper_length_6: PACKAG
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 cost_per: "\xA30.571"
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 185_mm_width_140_mm_height_115_mm_depth_tamper_evident
 description_main_capital: 185 mm Width 140 mm Height 115 mm Depth Tamper Evident
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '18'
-description_main_length_3: '185'
-description_main_length_4: '185_'
-description_main_length_5: 185_m
-description_main_length_6: 185_mm
-description_main_name: 185 mm Width 140 mm Height 115 mm Depth Tamper Evident
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '18'
-description_main_no_space_length_3: '185'
-description_main_no_space_length_4: 185m
-description_main_no_space_length_5: 185mm
-description_main_no_space_length_6: 185mmw
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '18'
-description_main_no_space_upper_length_3: '185'
-description_main_no_space_upper_length_4: 185M
-description_main_no_space_upper_length_5: 185MM
-description_main_no_space_upper_length_6: 185MMW
 description_main_upper: 185_MM_WIDTH_140_MM_HEIGHT_115_MM_DEPTH_TAMPER_EVIDENT
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '18'
-description_main_upper_length_3: '185'
-description_main_upper_length_4: '185_'
-description_main_upper_length_5: 185_M
-description_main_upper_length_6: 185_MM
 description_only_numbers: '185140115'
 description_only_numbers_short: 1M8
 description_or_color: 1M8
 description_or_color_upper: 1M8
 directory: parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
 id: packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
 id_no_class: takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
-id_no_color: 185mmwidth140mmheight115mmdepthtamperevidentsystempak2108
 id_no_size: 185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
 id_no_type: 2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
@@ -139,32 +38,7 @@ manufacturer: systempak
 manufacturer_capital: Systempak
 manufacturer_first_letter: s
 manufacturer_first_letter_upper: S
-manufacturer_length_1: s
-manufacturer_length_2: sy
-manufacturer_length_3: sys
-manufacturer_length_4: syst
-manufacturer_length_5: syste
-manufacturer_length_6: system
-manufacturer_name: Systempak
-manufacturer_no_space_length_1: s
-manufacturer_no_space_length_2: sy
-manufacturer_no_space_length_3: sys
-manufacturer_no_space_length_4: syst
-manufacturer_no_space_length_5: syste
-manufacturer_no_space_length_6: system
-manufacturer_no_space_upper_length_1: S
-manufacturer_no_space_upper_length_2: SY
-manufacturer_no_space_upper_length_3: SYS
-manufacturer_no_space_upper_length_4: SYST
-manufacturer_no_space_upper_length_5: SYSTE
-manufacturer_no_space_upper_length_6: SYSTEM
 manufacturer_upper: SYSTEMPAK
-manufacturer_upper_length_1: S
-manufacturer_upper_length_2: SY
-manufacturer_upper_length_3: SYS
-manufacturer_upper_length_4: SYST
-manufacturer_upper_length_5: SYSTE
-manufacturer_upper_length_6: SYSTEM
 manufacturers: []
 markdown_full: '[packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108](none)<br>[](none)<br>[Packaging
   Takeaway Container Rectangle 2000 Ml 185 Mm Width 140 Mm Height 115 Mm Depth Tamper
@@ -179,18 +53,15 @@ md5_6: 8c93aa
 md5_6_alpha: 5hgoa
 md5_6_alpha_upper: 5HGOA
 md5_6_upper: 8C93AA
-name: Packaging Takeaway Container Rectangle 2000 Ml 185 mm Width 140 mm Height 115
-  mm Depth Tamper Evident Systempak 2108
-name_no_class: Takeaway Container Rectangle 2000 Ml 185 mm Width 140 mm Height 115
-  mm Depth Tamper Evident Systempak 2108
-name_no_color: 185mmwidth140mmheight115mmdepthtamperevidentsystempak2108
-name_no_size: 185 mm Width 140 mm Height 115 mm Depth Tamper Evident Systempak 2108
+name: Packaging Takeaway Container Rectangle 2000 Ml 185 Mm Width 140 Mm Height 115
+  Mm Depth Tamper Evident Systempak 2108
+name_no_class: Takeaway Container Rectangle 2000 Ml 185 Mm Width 140 Mm Height 115
+  Mm Depth Tamper Evident Systempak 2108
+name_no_size: 185 Mm Width 140 Mm Height 115 Mm Depth Tamper Evident Systempak 2108
 name_no_size_short: 185 Mm Width 140 Mm Height 115 Mm Depth Tamper Evident Systempak
   2108
-name_no_type: 2000 Ml 185 mm Width 140 mm Height 115 mm Depth Tamper Evident Systempak
+name_no_type: 2000 Ml 185 Mm Width 140 Mm Height 115 Mm Depth Tamper Evident Systempak
   2108
-oomlout_short_code: tcr2000
-oomlout_short_code_upper: TCR2000
 oomp_key: oomp_packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
 oomp_word: pill books lipstick
 oomp_word_emoji: ':pill: :books: :lipstick:'
@@ -206,32 +77,7 @@ part_number: '2108'
 part_number_capital: '2108'
 part_number_first_letter: '2'
 part_number_first_letter_upper: '2'
-part_number_length_1: '2'
-part_number_length_2: '21'
-part_number_length_3: '210'
-part_number_length_4: '2108'
-part_number_length_5: '2108'
-part_number_length_6: '2108'
-part_number_name: '2108'
-part_number_no_space_length_1: '2'
-part_number_no_space_length_2: '21'
-part_number_no_space_length_3: '210'
-part_number_no_space_length_4: '2108'
-part_number_no_space_length_5: '2108'
-part_number_no_space_length_6: '2108'
-part_number_no_space_upper_length_1: '2'
-part_number_no_space_upper_length_2: '21'
-part_number_no_space_upper_length_3: '210'
-part_number_no_space_upper_length_4: '2108'
-part_number_no_space_upper_length_5: '2108'
-part_number_no_space_upper_length_6: '2108'
 part_number_upper: '2108'
-part_number_upper_length_1: '2'
-part_number_upper_length_2: '21'
-part_number_upper_length_3: '210'
-part_number_upper_length_4: '2108'
-part_number_upper_length_5: '2108'
-part_number_upper_length_6: '2108'
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -239,63 +85,13 @@ size: 2000_ml
 size_capital: 2000 Ml
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '20'
-size_length_3: '200'
-size_length_4: '2000'
-size_length_5: '2000_'
-size_length_6: 2000_m
-size_name: 2000 Ml
-size_no_space_length_1: '2'
-size_no_space_length_2: '20'
-size_no_space_length_3: '200'
-size_no_space_length_4: '2000'
-size_no_space_length_5: 2000m
-size_no_space_length_6: 2000ml
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '20'
-size_no_space_upper_length_3: '200'
-size_no_space_upper_length_4: '2000'
-size_no_space_upper_length_5: 2000M
-size_no_space_upper_length_6: 2000ML
 size_only_numbers: '2000'
 size_only_numbers_no_zeros: '2'
 size_upper: 2000_ML
-size_upper_length_1: '2'
-size_upper_length_2: '20'
-size_upper_length_3: '200'
-size_upper_length_4: '2000'
-size_upper_length_5: '2000_'
-size_upper_length_6: 2000_M
 type: takeaway_container_rectangle
 type_capital: Takeaway Container Rectangle
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: ta
-type_length_3: tak
-type_length_4: take
-type_length_5: takea
-type_length_6: takeaw
-type_name: Takeaway Container Rectangle
-type_no_space_length_1: t
-type_no_space_length_2: ta
-type_no_space_length_3: tak
-type_no_space_length_4: take
-type_no_space_length_5: takea
-type_no_space_length_6: takeaw
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TA
-type_no_space_upper_length_3: TAK
-type_no_space_upper_length_4: TAKE
-type_no_space_upper_length_5: TAKEA
-type_no_space_upper_length_6: TAKEAW
 type_upper: TAKEAWAY_CONTAINER_RECTANGLE
-type_upper_length_1: T
-type_upper_length_2: TA
-type_upper_length_3: TAK
-type_upper_length_4: TAKE
-type_upper_length_5: TAKEA
-type_upper_length_6: TAKEAW
 upc_number: ''
 weight: ''

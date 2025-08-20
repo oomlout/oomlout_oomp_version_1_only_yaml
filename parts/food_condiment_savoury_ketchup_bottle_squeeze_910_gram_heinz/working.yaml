@@ -1,170 +1,23 @@
-bip_39_word_dash_12: million-train-similar-doctor-tilt-diesel-flight-speed-split-mixture-photo-access
-bip_39_word_dash_2: million-train
-bip_39_word_dash_3: million-train-similar
-bip_39_word_new_br_12: million<br>train<br>similar<br>doctor<br>tilt<br>diesel<br>flight<br>speed<br>split<br>mixture<br>photo<br>access
-bip_39_word_new_br_2: million<br>train
-bip_39_word_new_br_3: million<br>train<br>similar
-bip_39_word_new_line_12: 'million
-
-  train
-
-  similar
-
-  doctor
-
-  tilt
-
-  diesel
-
-  flight
-
-  speed
-
-  split
-
-  mixture
-
-  photo
-
-  access'
-bip_39_word_new_line_2: 'million
-
-  train'
-bip_39_word_new_line_3: 'million
-
-  train
-
-  similar'
-bip_39_word_no_space_12: milliontrainsimilardoctortiltdieselflightspeedsplitmixturephotoaccess
-bip_39_word_no_space_2: milliontrain
-bip_39_word_no_space_3: milliontrainsimilar
-bip_39_word_space_12: million train similar doctor tilt diesel flight speed split
-  mixture photo access
-bip_39_word_space_2: million train
-bip_39_word_space_3: million train similar
-bip_39_word_underscore_12: million_train_similar_doctor_tilt_diesel_flight_speed_split_mixture_photo_access
-bip_39_word_underscore_2: million_train
-bip_39_word_underscore_3: million_train_similar
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: savoury
 color_capital: Savoury
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: sa
-color_length_3: sav
-color_length_4: savo
-color_length_5: savou
-color_length_6: savour
-color_name: Savoury
-color_no_space_length_1: s
-color_no_space_length_2: sa
-color_no_space_length_3: sav
-color_no_space_length_4: savo
-color_no_space_length_5: savou
-color_no_space_length_6: savour
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: SA
-color_no_space_upper_length_3: SAV
-color_no_space_upper_length_4: SAVO
-color_no_space_upper_length_5: SAVOU
-color_no_space_upper_length_6: SAVOUR
 color_upper: SAVOURY
-color_upper_length_1: S
-color_upper_length_2: SA
-color_upper_length_3: SAV
-color_upper_length_4: SAVO
-color_upper_length_5: SAVOU
-color_upper_length_6: SAVOUR
 description_extra: bottle_squeeze_910_gram
 description_extra_capital: Bottle Squeeze 910 Gram
 description_extra_first_letter: b
 description_extra_first_letter_upper: B
-description_extra_length_1: b
-description_extra_length_2: bo
-description_extra_length_3: bot
-description_extra_length_4: bott
-description_extra_length_5: bottl
-description_extra_length_6: bottle
-description_extra_name: Bottle Squeeze 910 Gram
-description_extra_no_space_length_1: b
-description_extra_no_space_length_2: bo
-description_extra_no_space_length_3: bot
-description_extra_no_space_length_4: bott
-description_extra_no_space_length_5: bottl
-description_extra_no_space_length_6: bottle
-description_extra_no_space_upper_length_1: B
-description_extra_no_space_upper_length_2: BO
-description_extra_no_space_upper_length_3: BOT
-description_extra_no_space_upper_length_4: BOTT
-description_extra_no_space_upper_length_5: BOTTL
-description_extra_no_space_upper_length_6: BOTTLE
 description_extra_upper: BOTTLE_SQUEEZE_910_GRAM
-description_extra_upper_length_1: B
-description_extra_upper_length_2: BO
-description_extra_upper_length_3: BOT
-description_extra_upper_length_4: BOTT
-description_extra_upper_length_5: BOTTL
-description_extra_upper_length_6: BOTTLE
 description_main: ketchup
 description_main_capital: Ketchup
 description_main_first_letter: k
 description_main_first_letter_upper: K
-description_main_length_1: k
-description_main_length_2: ke
-description_main_length_3: ket
-description_main_length_4: ketc
-description_main_length_5: ketch
-description_main_length_6: ketchu
-description_main_name: Ketchup
-description_main_no_space_length_1: k
-description_main_no_space_length_2: ke
-description_main_no_space_length_3: ket
-description_main_no_space_length_4: ketc
-description_main_no_space_length_5: ketch
-description_main_no_space_length_6: ketchu
-description_main_no_space_upper_length_1: K
-description_main_no_space_upper_length_2: KE
-description_main_no_space_upper_length_3: KET
-description_main_no_space_upper_length_4: KETC
-description_main_no_space_upper_length_5: KETCH
-description_main_no_space_upper_length_6: KETCHU
 description_main_upper: KETCHUP
-description_main_upper_length_1: K
-description_main_upper_length_2: KE
-description_main_upper_length_3: KET
-description_main_upper_length_4: KETC
-description_main_upper_length_5: KETCH
-description_main_upper_length_6: KETCHU
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'S '
@@ -173,10 +26,8 @@ directory: parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
 id: food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
 id_no_class: condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
-id_no_color: savouryketchupbottlesqueeze910gramheinz
 id_no_size: savouryketchupbottlesqueeze910gramheinz
 id_no_type: savoury_ketchup_bottle_squeeze_910_gram_heinz
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
@@ -186,32 +37,7 @@ manufacturer: heinz
 manufacturer_capital: Heinz
 manufacturer_first_letter: h
 manufacturer_first_letter_upper: H
-manufacturer_length_1: h
-manufacturer_length_2: he
-manufacturer_length_3: hei
-manufacturer_length_4: hein
-manufacturer_length_5: heinz
-manufacturer_length_6: heinz
-manufacturer_name: Heinz
-manufacturer_no_space_length_1: h
-manufacturer_no_space_length_2: he
-manufacturer_no_space_length_3: hei
-manufacturer_no_space_length_4: hein
-manufacturer_no_space_length_5: heinz
-manufacturer_no_space_length_6: heinz
-manufacturer_no_space_upper_length_1: H
-manufacturer_no_space_upper_length_2: HE
-manufacturer_no_space_upper_length_3: HEI
-manufacturer_no_space_upper_length_4: HEIN
-manufacturer_no_space_upper_length_5: HEINZ
-manufacturer_no_space_upper_length_6: HEINZ
 manufacturer_upper: HEINZ
-manufacturer_upper_length_1: H
-manufacturer_upper_length_2: HE
-manufacturer_upper_length_3: HEI
-manufacturer_upper_length_4: HEIN
-manufacturer_upper_length_5: HEINZ
-manufacturer_upper_length_6: HEINZ
 manufacturers: []
 markdown_full: '[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](none)<br>[](none)<br>[Food
   Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz](none)<br><br>'
@@ -227,7 +53,6 @@ md5_6_alpha_upper: TW0Z
 md5_6_upper: '154763'
 name: Food Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz
 name_no_class: Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz
-name_no_color: Savouryketchupbottlesqueeze910Gramheinz
 name_no_size: Savouryketchupbottlesqueeze910Gramheinz
 name_no_size_short: Savouryketchupbottlesqueeze910Gramheinz
 name_no_type: Savoury Ketchup Bottle Squeeze 910 Gram Heinz
@@ -247,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -255,7 +79,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -263,29 +86,4 @@ type: condiment
 type_capital: Condiment
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: con
-type_length_4: cond
-type_length_5: condi
-type_length_6: condim
-type_name: Condiment
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: con
-type_no_space_length_4: cond
-type_no_space_length_5: condi
-type_no_space_length_6: condim
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: CON
-type_no_space_upper_length_4: COND
-type_no_space_upper_length_5: CONDI
-type_no_space_upper_length_6: CONDIM
 type_upper: CONDIMENT
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: CON
-type_upper_length_4: COND
-type_upper_length_5: CONDI
-type_upper_length_6: CONDIM

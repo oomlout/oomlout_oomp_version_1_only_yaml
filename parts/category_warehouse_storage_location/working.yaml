@@ -1,98 +1,23 @@
-bip_39_word_dash_12: trap-deal-cram-deliver-language-congress-extra-resist-mobile-february-squirrel-another
-bip_39_word_dash_2: trap-deal
-bip_39_word_dash_3: trap-deal-cram
-bip_39_word_new_br_12: trap<br>deal<br>cram<br>deliver<br>language<br>congress<br>extra<br>resist<br>mobile<br>february<br>squirrel<br>another
-bip_39_word_new_br_2: trap<br>deal
-bip_39_word_new_br_3: trap<br>deal<br>cram
-bip_39_word_new_line_12: 'trap
-
-  deal
-
-  cram
-
-  deliver
-
-  language
-
-  congress
-
-  extra
-
-  resist
-
-  mobile
-
-  february
-
-  squirrel
-
-  another'
-bip_39_word_new_line_2: 'trap
-
-  deal'
-bip_39_word_new_line_3: 'trap
-
-  deal
-
-  cram'
-bip_39_word_no_space_12: trapdealcramdeliverlanguagecongressextraresistmobilefebruarysquirrelanother
-bip_39_word_no_space_2: trapdeal
-bip_39_word_no_space_3: trapdealcram
-bip_39_word_space_12: trap deal cram deliver language congress extra resist mobile
-  february squirrel another
-bip_39_word_space_2: trap deal
-bip_39_word_space_3: trap deal cram
-bip_39_word_underscore_12: trap_deal_cram_deliver_language_congress_extra_resist_mobile_february_squirrel_another
-bip_39_word_underscore_2: trap_deal
-bip_39_word_underscore_3: trap_deal_cram
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_warehouse
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_warehouse_storage_location
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_warehouse_storage_location
 id: category_warehouse_storage_location
 id_no_class: warehouse_storage_location
-id_no_color: storagelocation
 id_no_size: storage_location
 id_no_type: storage_location
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_warehouse_storage_location](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 5ZTXX
 md5_6_upper: 99A755
 name: Category Warehouse Storage Location
 name_no_class: Warehouse Storage Location
-name_no_color: Storagelocation
 name_no_size: Storage Location
 name_no_size_short: Storage Location
 name_no_type: Storage Location
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: storage_location
 size_capital: Storage Location
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: sto
-size_length_4: stor
-size_length_5: stora
-size_length_6: storag
-size_name: Storage Location
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: sto
-size_no_space_length_4: stor
-size_no_space_length_5: stora
-size_no_space_length_6: storag
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STO
-size_no_space_upper_length_4: STOR
-size_no_space_upper_length_5: STORA
-size_no_space_upper_length_6: STORAG
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STORAGE_LOCATION
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STO
-size_upper_length_4: STOR
-size_upper_length_5: STORA
-size_upper_length_6: STORAG
 type: warehouse
 type_capital: Warehouse
 type_first_letter: w
 type_first_letter_upper: W
-type_length_1: w
-type_length_2: wa
-type_length_3: war
-type_length_4: ware
-type_length_5: wareh
-type_length_6: wareho
-type_name: Warehouse
-type_no_space_length_1: w
-type_no_space_length_2: wa
-type_no_space_length_3: war
-type_no_space_length_4: ware
-type_no_space_length_5: wareh
-type_no_space_length_6: wareho
-type_no_space_upper_length_1: W
-type_no_space_upper_length_2: WA
-type_no_space_upper_length_3: WAR
-type_no_space_upper_length_4: WARE
-type_no_space_upper_length_5: WAREH
-type_no_space_upper_length_6: WAREHO
 type_upper: WAREHOUSE
-type_upper_length_1: W
-type_upper_length_2: WA
-type_upper_length_3: WAR
-type_upper_length_4: WARE
-type_upper_length_5: WAREH
-type_upper_length_6: WAREHO

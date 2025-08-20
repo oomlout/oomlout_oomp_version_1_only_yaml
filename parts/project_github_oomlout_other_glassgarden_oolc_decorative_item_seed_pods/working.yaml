@@ -1,121 +1,22 @@
-bip_39_word_dash_12: raven-kiss-gesture-pen-focus-discover-under-crucial-cave-virus-sauce-aisle
-bip_39_word_dash_2: raven-kiss
-bip_39_word_dash_3: raven-kiss-gesture
-bip_39_word_new_br_12: raven<br>kiss<br>gesture<br>pen<br>focus<br>discover<br>under<br>crucial<br>cave<br>virus<br>sauce<br>aisle
-bip_39_word_new_br_2: raven<br>kiss
-bip_39_word_new_br_3: raven<br>kiss<br>gesture
-bip_39_word_new_line_12: 'raven
-
-  kiss
-
-  gesture
-
-  pen
-
-  focus
-
-  discover
-
-  under
-
-  crucial
-
-  cave
-
-  virus
-
-  sauce
-
-  aisle'
-bip_39_word_new_line_2: 'raven
-
-  kiss'
-bip_39_word_new_line_3: 'raven
-
-  kiss
-
-  gesture'
-bip_39_word_no_space_12: ravenkissgesturepenfocusdiscoverundercrucialcavevirussauceaisle
-bip_39_word_no_space_2: ravenkiss
-bip_39_word_no_space_3: ravenkissgesture
-bip_39_word_space_12: raven kiss gesture pen focus discover under crucial cave virus
-  sauce aisle
-bip_39_word_space_2: raven kiss
-bip_39_word_space_3: raven kiss gesture
-bip_39_word_underscore_12: raven_kiss_gesture_pen_focus_discover_under_crucial_cave_virus_sauce_aisle
-bip_39_word_underscore_2: raven_kiss
-bip_39_word_underscore_3: raven_kiss_gesture
 classification: project
 classification_capital: Project
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pr
-classification_length_3: pro
-classification_length_4: proj
-classification_length_5: proje
-classification_length_6: projec
-classification_name: Project
-classification_no_space_length_1: p
-classification_no_space_length_2: pr
-classification_no_space_length_3: pro
-classification_no_space_length_4: proj
-classification_no_space_length_5: proje
-classification_no_space_length_6: projec
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PR
-classification_no_space_upper_length_3: PRO
-classification_no_space_upper_length_4: PROJ
-classification_no_space_upper_length_5: PROJE
-classification_no_space_upper_length_6: PROJEC
 classification_upper: PROJECT
-classification_upper_length_1: P
-classification_upper_length_2: PR
-classification_upper_length_3: PRO
-classification_upper_length_4: PROJ
-classification_upper_length_5: PROJE
-classification_upper_length_6: PROJEC
 color: other_glassgarden_oolc_decorative_item_seed_pods
 color_capital: Other Glassgarden Oolc Decorative Item Seed Pods
 color_first_letter: o
 color_first_letter_upper: O
-color_length_1: o
-color_length_2: ot
-color_length_3: oth
-color_length_4: othe
-color_length_5: other
-color_length_6: other_
-color_name: Other Glassgarden Oolc Decorative Item Seed Pods
-color_no_space_length_1: o
-color_no_space_length_2: ot
-color_no_space_length_3: oth
-color_no_space_length_4: othe
-color_no_space_length_5: other
-color_no_space_length_6: otherg
-color_no_space_upper_length_1: O
-color_no_space_upper_length_2: OT
-color_no_space_upper_length_3: OTH
-color_no_space_upper_length_4: OTHE
-color_no_space_upper_length_5: OTHER
-color_no_space_upper_length_6: OTHERG
 color_upper: OTHER_GLASSGARDEN_OOLC_DECORATIVE_ITEM_SEED_PODS
-color_upper_length_1: O
-color_upper_length_2: OT
-color_upper_length_3: OTH
-color_upper_length_4: OTHE
-color_upper_length_5: OTHER
-color_upper_length_6: OTHER_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_s
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_seed_pods
 id: project_github_oomlout_other_glassgarden_oolc_decorative_item_seed_pods
 id_no_class: github_oomlout_other_glassgarden_oolc_decorative_item_seed_pods
-id_no_color: other_glassgarden_oolc_decorative_item_seed_pods
 id_no_size: other_glassgarden_oolc_decorative_item_seed_pods
 id_no_type: oomlout_other_glassgarden_oolc_decorative_item_seed_pods
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_other_glassgarden_oolc_decorative_item_seed_pods
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[project_github_oomlout_other_glassgarden_oolc_decorative_item_seed_pods](none)<br>[](none)<br>[Project
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 3KIT9
 md5_6_upper: 5B7F3D
 name: Project Github Oomlout Other Glassgarden Oolc Decorative Item Seed Pods
 name_no_class: Github Oomlout Other Glassgarden Oolc Decorative Item Seed Pods
-name_no_color: Other Glassgarden Oolc Decorative Item Seed Pods
 name_no_size: Other Glassgarden Oolc Decorative Item Seed Pods
 name_no_size_short: Other Glassgarden Oolc Decorative Item Seed Pods
 name_no_type: Oomlout Other Glassgarden Oolc Decorative Item Seed Pods
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: oomlout
 size_capital: Oomlout
 size_first_letter: o
 size_first_letter_upper: O
-size_length_1: o
-size_length_2: oo
-size_length_3: oom
-size_length_4: ooml
-size_length_5: oomlo
-size_length_6: oomlou
-size_name: Oomlout
-size_no_space_length_1: o
-size_no_space_length_2: oo
-size_no_space_length_3: oom
-size_no_space_length_4: ooml
-size_no_space_length_5: oomlo
-size_no_space_length_6: oomlou
-size_no_space_upper_length_1: O
-size_no_space_upper_length_2: OO
-size_no_space_upper_length_3: OOM
-size_no_space_upper_length_4: OOML
-size_no_space_upper_length_5: OOMLO
-size_no_space_upper_length_6: OOMLOU
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: OOMLOUT
-size_upper_length_1: O
-size_upper_length_2: OO
-size_upper_length_3: OOM
-size_upper_length_4: OOML
-size_upper_length_5: OOMLO
-size_upper_length_6: OOMLOU
 type: github
 type_capital: Github
 type_first_letter: g
 type_first_letter_upper: G
-type_length_1: g
-type_length_2: gi
-type_length_3: git
-type_length_4: gith
-type_length_5: githu
-type_length_6: github
-type_name: Github
-type_no_space_length_1: g
-type_no_space_length_2: gi
-type_no_space_length_3: git
-type_no_space_length_4: gith
-type_no_space_length_5: githu
-type_no_space_length_6: github
-type_no_space_upper_length_1: G
-type_no_space_upper_length_2: GI
-type_no_space_upper_length_3: GIT
-type_no_space_upper_length_4: GITH
-type_no_space_upper_length_5: GITHU
-type_no_space_upper_length_6: GITHUB
 type_upper: GITHUB
-type_upper_length_1: G
-type_upper_length_2: GI
-type_upper_length_3: GIT
-type_upper_length_4: GITH
-type_upper_length_5: GITHU
-type_upper_length_6: GITHUB

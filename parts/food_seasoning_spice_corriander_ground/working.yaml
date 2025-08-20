@@ -1,123 +1,24 @@
-bip_39_word_dash_12: cook-aware-aim-actual-suffer-afford-net-climb-praise-match-year-admit
-bip_39_word_dash_2: cook-aware
-bip_39_word_dash_3: cook-aware-aim
-bip_39_word_new_br_12: cook<br>aware<br>aim<br>actual<br>suffer<br>afford<br>net<br>climb<br>praise<br>match<br>year<br>admit
-bip_39_word_new_br_2: cook<br>aware
-bip_39_word_new_br_3: cook<br>aware<br>aim
-bip_39_word_new_line_12: 'cook
-
-  aware
-
-  aim
-
-  actual
-
-  suffer
-
-  afford
-
-  net
-
-  climb
-
-  praise
-
-  match
-
-  year
-
-  admit'
-bip_39_word_new_line_2: 'cook
-
-  aware'
-bip_39_word_new_line_3: 'cook
-
-  aware
-
-  aim'
-bip_39_word_no_space_12: cookawareaimactualsufferaffordnetclimbpraisematchyearadmit
-bip_39_word_no_space_2: cookaware
-bip_39_word_no_space_3: cookawareaim
-bip_39_word_space_12: cook aware aim actual suffer afford net climb praise match year
-  admit
-bip_39_word_space_2: cook aware
-bip_39_word_space_3: cook aware aim
-bip_39_word_underscore_12: cook_aware_aim_actual_suffer_afford_net_climb_praise_match_year_admit
-bip_39_word_underscore_2: cook_aware
-bip_39_word_underscore_3: cook_aware_aim
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: corriander ground
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: corriander_ground
 description_main_capital: Corriander Ground
 description_main_first_letter: c
 description_main_first_letter_upper: C
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: cor
-description_main_length_4: corr
-description_main_length_5: corri
-description_main_length_6: corria
-description_main_name: Corriander Ground
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: cor
-description_main_no_space_length_4: corr
-description_main_no_space_length_5: corri
-description_main_no_space_length_6: corria
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: COR
-description_main_no_space_upper_length_4: CORR
-description_main_no_space_upper_length_5: CORRI
-description_main_no_space_upper_length_6: CORRIA
 description_main_upper: CORRIANDER_GROUND
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: COR
-description_main_upper_length_4: CORR
-description_main_upper_length_5: CORRI
-description_main_upper_length_6: CORRIA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -126,10 +27,8 @@ directory: parts/food_seasoning_spice_corriander_ground
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_spice_corriander_ground
 id: food_seasoning_spice_corriander_ground
 id_no_class: seasoning_spice_corriander_ground
-id_no_color: corrianderground
 id_no_size: corriander_ground
 id_no_type: spice_corriander_ground
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_corriander_ground
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_seasoning_spice_corriander_ground](none)<br>[](none)<br>[Food
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 2C9NM
 md5_6_upper: 3BFDE2
 name: Food Seasoning Spice Corriander Ground
 name_no_class: Seasoning Spice Corriander Ground
-name_no_color: Corrianderground
 name_no_size: Corriander Ground
 name_no_size_short: Corriander Ground
 name_no_type: Spice Corriander Ground
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: spice
 size_capital: Spice
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sp
-size_length_3: spi
-size_length_4: spic
-size_length_5: spice
-size_length_6: spice
-size_name: Spice
-size_no_space_length_1: s
-size_no_space_length_2: sp
-size_no_space_length_3: spi
-size_no_space_length_4: spic
-size_no_space_length_5: spice
-size_no_space_length_6: spice
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SP
-size_no_space_upper_length_3: SPI
-size_no_space_upper_length_4: SPIC
-size_no_space_upper_length_5: SPICE
-size_no_space_upper_length_6: SPICE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SPICE
-size_upper_length_1: S
-size_upper_length_2: SP
-size_upper_length_3: SPI
-size_upper_length_4: SPIC
-size_upper_length_5: SPICE
-size_upper_length_6: SPICE
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: se
-type_length_3: sea
-type_length_4: seas
-type_length_5: seaso
-type_length_6: season
-type_name: Seasoning
-type_no_space_length_1: s
-type_no_space_length_2: se
-type_no_space_length_3: sea
-type_no_space_length_4: seas
-type_no_space_length_5: seaso
-type_no_space_length_6: season
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SE
-type_no_space_upper_length_3: SEA
-type_no_space_upper_length_4: SEAS
-type_no_space_upper_length_5: SEASO
-type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
-type_upper_length_1: S
-type_upper_length_2: SE
-type_upper_length_3: SEA
-type_upper_length_4: SEAS
-type_upper_length_5: SEASO
-type_upper_length_6: SEASON

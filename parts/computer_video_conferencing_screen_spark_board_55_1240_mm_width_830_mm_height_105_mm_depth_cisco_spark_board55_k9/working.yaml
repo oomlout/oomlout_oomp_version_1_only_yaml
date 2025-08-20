@@ -1,146 +1,23 @@
-bip_39_word_dash_12: swim-valve-hole-involve-innocent-fix-grace-assault-enlist-scare-vehicle-amateur
-bip_39_word_dash_2: swim-valve
-bip_39_word_dash_3: swim-valve-hole
-bip_39_word_new_br_12: swim<br>valve<br>hole<br>involve<br>innocent<br>fix<br>grace<br>assault<br>enlist<br>scare<br>vehicle<br>amateur
-bip_39_word_new_br_2: swim<br>valve
-bip_39_word_new_br_3: swim<br>valve<br>hole
-bip_39_word_new_line_12: 'swim
-
-  valve
-
-  hole
-
-  involve
-
-  innocent
-
-  fix
-
-  grace
-
-  assault
-
-  enlist
-
-  scare
-
-  vehicle
-
-  amateur'
-bip_39_word_new_line_2: 'swim
-
-  valve'
-bip_39_word_new_line_3: 'swim
-
-  valve
-
-  hole'
-bip_39_word_no_space_12: swimvalveholeinvolveinnocentfixgraceassaultenlistscarevehicleamateur
-bip_39_word_no_space_2: swimvalve
-bip_39_word_no_space_3: swimvalvehole
-bip_39_word_space_12: swim valve hole involve innocent fix grace assault enlist scare
-  vehicle amateur
-bip_39_word_space_2: swim valve
-bip_39_word_space_3: swim valve hole
-bip_39_word_underscore_12: swim_valve_hole_involve_innocent_fix_grace_assault_enlist_scare_vehicle_amateur
-bip_39_word_underscore_2: swim_valve
-bip_39_word_underscore_3: swim_valve_hole
 classification: computer
 classification_capital: Computer
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: co
-classification_length_3: com
-classification_length_4: comp
-classification_length_5: compu
-classification_length_6: comput
-classification_name: Computer
-classification_no_space_length_1: c
-classification_no_space_length_2: co
-classification_no_space_length_3: com
-classification_no_space_length_4: comp
-classification_no_space_length_5: compu
-classification_no_space_length_6: comput
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CO
-classification_no_space_upper_length_3: COM
-classification_no_space_upper_length_4: COMP
-classification_no_space_upper_length_5: COMPU
-classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER
-classification_upper_length_1: C
-classification_upper_length_2: CO
-classification_upper_length_3: COM
-classification_upper_length_4: COMP
-classification_upper_length_5: COMPU
-classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: 1240_mm_width_830_mm_height_105_mm_depth
 description_extra_capital: 1240 mm Width 830 mm Height 105 mm Depth
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
-description_extra_length_1: '1'
-description_extra_length_2: '12'
-description_extra_length_3: '124'
-description_extra_length_4: '1240'
-description_extra_length_5: '1240_'
-description_extra_length_6: 1240_m
-description_extra_name: 1240 mm Width 830 mm Height 105 mm Depth
-description_extra_no_space_length_1: '1'
-description_extra_no_space_length_2: '12'
-description_extra_no_space_length_3: '124'
-description_extra_no_space_length_4: '1240'
-description_extra_no_space_length_5: 1240m
-description_extra_no_space_length_6: 1240mm
-description_extra_no_space_upper_length_1: '1'
-description_extra_no_space_upper_length_2: '12'
-description_extra_no_space_upper_length_3: '124'
-description_extra_no_space_upper_length_4: '1240'
-description_extra_no_space_upper_length_5: 1240M
-description_extra_no_space_upper_length_6: 1240MM
 description_extra_upper: 1240_MM_WIDTH_830_MM_HEIGHT_105_MM_DEPTH
-description_extra_upper_length_1: '1'
-description_extra_upper_length_2: '12'
-description_extra_upper_length_3: '124'
-description_extra_upper_length_4: '1240'
-description_extra_upper_length_5: '1240_'
-description_extra_upper_length_6: 1240_M
 description_main: spark_board_55
 description_main_capital: Spark Board 55
 description_main_first_letter: s
 description_main_first_letter_upper: S
-description_main_length_1: s
-description_main_length_2: sp
-description_main_length_3: spa
-description_main_length_4: spar
-description_main_length_5: spark
-description_main_length_6: spark_
-description_main_name: Spark Board 55
-description_main_no_space_length_1: s
-description_main_no_space_length_2: sp
-description_main_no_space_length_3: spa
-description_main_no_space_length_4: spar
-description_main_no_space_length_5: spark
-description_main_no_space_length_6: sparkb
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SP
-description_main_no_space_upper_length_3: SPA
-description_main_no_space_upper_length_4: SPAR
-description_main_no_space_upper_length_5: SPARK
-description_main_no_space_upper_length_6: SPARKB
 description_main_upper: SPARK_BOARD_55
-description_main_upper_length_1: S
-description_main_upper_length_2: SP
-description_main_upper_length_3: SPA
-description_main_upper_length_4: SPAR
-description_main_upper_length_5: SPARK
-description_main_upper_length_6: SPARK_
 description_only_numbers: '55'
 description_only_numbers_short: '55'
 description_or_color: '55'
@@ -149,10 +26,8 @@ directory: parts/computer_video_conferencing_screen_spark_board_55_1240_mm_width
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
 id: computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
 id_no_class: video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
-id_no_color: sparkboard551240mmwidth830mmheight105mmdepthciscosparkboard55k9
 id_no_size: spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
 id_no_type: screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
 link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-board/series.html
@@ -163,32 +38,7 @@ manufacturer: cisco
 manufacturer_capital: Cisco
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
-manufacturer_length_1: c
-manufacturer_length_2: ci
-manufacturer_length_3: cis
-manufacturer_length_4: cisc
-manufacturer_length_5: cisco
-manufacturer_length_6: cisco
-manufacturer_name: Cisco
-manufacturer_no_space_length_1: c
-manufacturer_no_space_length_2: ci
-manufacturer_no_space_length_3: cis
-manufacturer_no_space_length_4: cisc
-manufacturer_no_space_length_5: cisco
-manufacturer_no_space_length_6: cisco
-manufacturer_no_space_upper_length_1: C
-manufacturer_no_space_upper_length_2: CI
-manufacturer_no_space_upper_length_3: CIS
-manufacturer_no_space_upper_length_4: CISC
-manufacturer_no_space_upper_length_5: CISCO
-manufacturer_no_space_upper_length_6: CISCO
 manufacturer_upper: CISCO
-manufacturer_upper_length_1: C
-manufacturer_upper_length_2: CI
-manufacturer_upper_length_3: CIS
-manufacturer_upper_length_4: CISC
-manufacturer_upper_length_5: CISCO
-manufacturer_upper_length_6: CISCO
 manufacturers: []
 markdown_full: '[computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9](none)<br>[](none)<br>[Computer
   Video Conferencing Screen Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth
@@ -203,16 +53,15 @@ md5_6: 7be3f0
 md5_6_alpha: 4u0vk
 md5_6_alpha_upper: 4U0VK
 md5_6_upper: 7BE3F0
-name: Computer Video Conferencing Screen Spark Board 55 1240 mm Width 830 mm Height
-  105 mm Depth Cisco Spark Board55 K9
-name_no_class: Video Conferencing Screen Spark Board 55 1240 mm Width 830 mm Height
-  105 mm Depth Cisco Spark Board55 K9
-name_no_color: Sparkboard551240mmwidth830mmheight105mmdepthciscosparkboard55K9
-name_no_size: Spark Board 55 1240 mm Width 830 mm Height 105 mm Depth Cisco Spark
+name: Computer Video Conferencing Screen Spark Board 55 1240 Mm Width 830 Mm Height
+  105 Mm Depth Cisco Spark Board55 K9
+name_no_class: Video Conferencing Screen Spark Board 55 1240 Mm Width 830 Mm Height
+  105 Mm Depth Cisco Spark Board55 K9
+name_no_size: Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco Spark
   Board55 K9
 name_no_size_short: Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco
   Spark Board55 K9
-name_no_type: Screen Spark Board 55 1240 mm Width 830 mm Height 105 mm Depth Cisco
+name_no_type: Screen Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco
   Spark Board55 K9
 oomp_key: oomp_computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
 oomp_word: computer rowboat train
@@ -230,93 +79,18 @@ part_number_capital: Spark Board55 K9
 part_number_exact: SPARK-BOARD55-K9
 part_number_first_letter: s
 part_number_first_letter_upper: S
-part_number_length_1: s
-part_number_length_2: sp
-part_number_length_3: spa
-part_number_length_4: spar
-part_number_length_5: spark
-part_number_length_6: spark_
-part_number_name: Spark Board55 K9
-part_number_no_space_length_1: s
-part_number_no_space_length_2: sp
-part_number_no_space_length_3: spa
-part_number_no_space_length_4: spar
-part_number_no_space_length_5: spark
-part_number_no_space_length_6: sparkb
-part_number_no_space_upper_length_1: S
-part_number_no_space_upper_length_2: SP
-part_number_no_space_upper_length_3: SPA
-part_number_no_space_upper_length_4: SPAR
-part_number_no_space_upper_length_5: SPARK
-part_number_no_space_upper_length_6: SPARKB
 part_number_upper: SPARK_BOARD55_K9
-part_number_upper_length_1: S
-part_number_upper_length_2: SP
-part_number_upper_length_3: SPA
-part_number_upper_length_4: SPAR
-part_number_upper_length_5: SPARK
-part_number_upper_length_6: SPARK_
 short_code: ''
 short_code_upper: ''
 size: screen
 size_capital: Screen
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sc
-size_length_3: scr
-size_length_4: scre
-size_length_5: scree
-size_length_6: screen
-size_name: Screen
-size_no_space_length_1: s
-size_no_space_length_2: sc
-size_no_space_length_3: scr
-size_no_space_length_4: scre
-size_no_space_length_5: scree
-size_no_space_length_6: screen
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SC
-size_no_space_upper_length_3: SCR
-size_no_space_upper_length_4: SCRE
-size_no_space_upper_length_5: SCREE
-size_no_space_upper_length_6: SCREEN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREEN
-size_upper_length_1: S
-size_upper_length_2: SC
-size_upper_length_3: SCR
-size_upper_length_4: SCRE
-size_upper_length_5: SCREE
-size_upper_length_6: SCREEN
 type: video_conferencing
 type_capital: Video Conferencing
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vid
-type_length_4: vide
-type_length_5: video
-type_length_6: video_
-type_name: Video Conferencing
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vid
-type_no_space_length_4: vide
-type_no_space_length_5: video
-type_no_space_length_6: videoc
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VID
-type_no_space_upper_length_4: VIDE
-type_no_space_upper_length_5: VIDEO
-type_no_space_upper_length_6: VIDEOC
 type_upper: VIDEO_CONFERENCING
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VID
-type_upper_length_4: VIDE
-type_upper_length_5: VIDEO
-type_upper_length_6: VIDEO_

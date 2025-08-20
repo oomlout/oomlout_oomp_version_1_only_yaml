@@ -1,156 +1,31 @@
-bip_39_word_dash_12: always-term-ability-accident-leader-assault-early-hospital-trim-true-creek-artist
-bip_39_word_dash_2: always-term
-bip_39_word_dash_3: always-term-ability
-bip_39_word_new_br_12: always<br>term<br>ability<br>accident<br>leader<br>assault<br>early<br>hospital<br>trim<br>true<br>creek<br>artist
-bip_39_word_new_br_2: always<br>term
-bip_39_word_new_br_3: always<br>term<br>ability
-bip_39_word_new_line_12: 'always
-
-  term
-
-  ability
-
-  accident
-
-  leader
-
-  assault
-
-  early
-
-  hospital
-
-  trim
-
-  true
-
-  creek
-
-  artist'
-bip_39_word_new_line_2: 'always
-
-  term'
-bip_39_word_new_line_3: 'always
-
-  term
-
-  ability'
-bip_39_word_no_space_12: alwaystermabilityaccidentleaderassaultearlyhospitaltrimtruecreekartist
-bip_39_word_no_space_2: alwaysterm
-bip_39_word_no_space_3: alwaystermability
-bip_39_word_space_12: always term ability accident leader assault early hospital trim
-  true creek artist
-bip_39_word_space_2: always term
-bip_39_word_space_3: always term ability
-bip_39_word_underscore_12: always_term_ability_accident_leader_assault_early_hospital_trim_true_creek_artist
-bip_39_word_underscore_2: always_term
-bip_39_word_underscore_3: always_term_ability
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
-classification_length_1: m
-classification_length_2: me
-classification_length_3: mec
-classification_length_4: mech
-classification_length_5: mecha
-classification_length_6: mechan
-classification_name: Mechanical
-classification_no_space_length_1: m
-classification_no_space_length_2: me
-classification_no_space_length_3: mec
-classification_no_space_length_4: mech
-classification_no_space_length_5: mecha
-classification_no_space_length_6: mechan
-classification_no_space_upper_length_1: M
-classification_no_space_upper_length_2: ME
-classification_no_space_upper_length_3: MEC
-classification_no_space_upper_length_4: MECH
-classification_no_space_upper_length_5: MECHA
-classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
-classification_upper_length_1: M
-classification_upper_length_2: ME
-classification_upper_length_3: MEC
-classification_upper_length_4: MECH
-classification_upper_length_5: MECHA
-classification_upper_length_6: MECHAN
 color: 6_mm_belt_width
 color_capital: 6 mm Belt Width
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '6_'
-color_length_3: 6_m
-color_length_4: 6_mm
-color_length_5: 6_mm_
-color_length_6: 6_mm_b
-color_name: 6 mm Belt Width
-color_no_space_length_1: '6'
-color_no_space_length_2: 6m
-color_no_space_length_3: 6mm
-color_no_space_length_4: 6mmb
-color_no_space_length_5: 6mmbe
-color_no_space_length_6: 6mmbel
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: 6M
-color_no_space_upper_length_3: 6MM
-color_no_space_upper_length_4: 6MMB
-color_no_space_upper_length_5: 6MMBE
-color_no_space_upper_length_6: 6MMBEL
 color_upper: 6_MM_BELT_WIDTH
-color_upper_length_1: '6'
-color_upper_length_2: '6_'
-color_upper_length_3: 6_M
-color_upper_length_4: 6_MM
-color_upper_length_5: 6_MM_
-color_upper_length_6: 6_MM_B
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 180_teeth_360_mm_circumference
 description_main_capital: 180 Teeth 360 mm Circumference
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '18'
-description_main_length_3: '180'
-description_main_length_4: '180_'
-description_main_length_5: 180_t
-description_main_length_6: 180_te
-description_main_name: 180 Teeth 360 mm Circumference
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '18'
-description_main_no_space_length_3: '180'
-description_main_no_space_length_4: 180t
-description_main_no_space_length_5: 180te
-description_main_no_space_length_6: 180tee
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '18'
-description_main_no_space_upper_length_3: '180'
-description_main_no_space_upper_length_4: 180T
-description_main_no_space_upper_length_5: 180TE
-description_main_no_space_upper_length_6: 180TEE
 description_main_upper: 180_TEETH_360_MM_CIRCUMFERENCE
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '18'
-description_main_upper_length_3: '180'
-description_main_upper_length_4: '180_'
-description_main_upper_length_5: 180_T
-description_main_upper_length_6: 180_TE
 description_only_numbers: '180360'
 description_only_numbers_short: 180k
 description_or_color: 6180k
 description_or_color_upper: 6180K
 directory: parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
 id: mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
 id_no_class: timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
-id_no_color: 180_teeth_360_mm_circumference
 id_no_size: 6_mm_belt_width_180_teeth_360_mm_circumference
 id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference](none)<br>[](none)<br>[Mechanical
@@ -175,12 +49,11 @@ md5_6: d0667a
 md5_6_alpha: 84qd6
 md5_6_alpha_upper: 84QD6
 md5_6_upper: D0667A
-name: Mechanical Timing Belt 2Gt 2 mm Pitch 6 mm Belt Width 180 Teeth 360 mm Circumference
-name_no_class: Timing Belt 2Gt 2 mm Pitch 6 mm Belt Width 180 Teeth 360 mm Circumference
-name_no_color: 180 Teeth 360 mm Circumference
-name_no_size: 6 mm Belt Width 180 Teeth 360 mm Circumference
+name: Mechanical Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 180 Teeth 360 Mm Circumference
+name_no_class: Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 180 Teeth 360 Mm Circumference
+name_no_size: 6 Mm Belt Width 180 Teeth 360 Mm Circumference
 name_no_size_short: 6 Mm Belt Width 180 Teeth 360 Mm Circumference
-name_no_type: 2Gt 2 mm Pitch 6 mm Belt Width 180 Teeth 360 mm Circumference
+name_no_type: 2Gt 2 Mm Pitch 6 Mm Belt Width 180 Teeth 360 Mm Circumference
 oomp_key: oomp_mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_180_teeth_360_mm_circumference
 oomp_word: banana leaves camera
 oomp_word_emoji: ':banana: :leaves: :camera:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: 2gt_2_mm_pitch
 size_capital: 2Gt 2 mm Pitch
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: 2g
-size_length_3: 2gt
-size_length_4: 2gt_
-size_length_5: 2gt_2
-size_length_6: 2gt_2_
-size_name: 2Gt 2 mm Pitch
-size_no_space_length_1: '2'
-size_no_space_length_2: 2g
-size_no_space_length_3: 2gt
-size_no_space_length_4: 2gt2
-size_no_space_length_5: 2gt2m
-size_no_space_length_6: 2gt2mm
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: 2G
-size_no_space_upper_length_3: 2GT
-size_no_space_upper_length_4: 2GT2
-size_no_space_upper_length_5: 2GT2M
-size_no_space_upper_length_6: 2GT2MM
 size_only_numbers: '22'
 size_only_numbers_no_zeros: '22'
 size_upper: 2GT_2_MM_PITCH
-size_upper_length_1: '2'
-size_upper_length_2: 2G
-size_upper_length_3: 2GT
-size_upper_length_4: 2GT_
-size_upper_length_5: 2GT_2
-size_upper_length_6: 2GT_2_
 type: timing_belt
 type_capital: Timing Belt
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: ti
-type_length_3: tim
-type_length_4: timi
-type_length_5: timin
-type_length_6: timing
-type_name: Timing Belt
-type_no_space_length_1: t
-type_no_space_length_2: ti
-type_no_space_length_3: tim
-type_no_space_length_4: timi
-type_no_space_length_5: timin
-type_no_space_length_6: timing
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TI
-type_no_space_upper_length_3: TIM
-type_no_space_upper_length_4: TIMI
-type_no_space_upper_length_5: TIMIN
-type_no_space_upper_length_6: TIMING
 type_upper: TIMING_BELT
-type_upper_length_1: T
-type_upper_length_2: TI
-type_upper_length_3: TIM
-type_upper_length_4: TIMI
-type_upper_length_5: TIMIN
-type_upper_length_6: TIMING

@@ -1,98 +1,23 @@
-bip_39_word_dash_12: task-nest-about-coach-antenna-have-chronic-skate-can-motor-injury-apart
-bip_39_word_dash_2: task-nest
-bip_39_word_dash_3: task-nest-about
-bip_39_word_new_br_12: task<br>nest<br>about<br>coach<br>antenna<br>have<br>chronic<br>skate<br>can<br>motor<br>injury<br>apart
-bip_39_word_new_br_2: task<br>nest
-bip_39_word_new_br_3: task<br>nest<br>about
-bip_39_word_new_line_12: 'task
-
-  nest
-
-  about
-
-  coach
-
-  antenna
-
-  have
-
-  chronic
-
-  skate
-
-  can
-
-  motor
-
-  injury
-
-  apart'
-bip_39_word_new_line_2: 'task
-
-  nest'
-bip_39_word_new_line_3: 'task
-
-  nest
-
-  about'
-bip_39_word_no_space_12: tasknestaboutcoachantennahavechronicskatecanmotorinjuryapart
-bip_39_word_no_space_2: tasknest
-bip_39_word_no_space_3: tasknestabout
-bip_39_word_space_12: task nest about coach antenna have chronic skate can motor injury
-  apart
-bip_39_word_space_2: task nest
-bip_39_word_space_3: task nest about
-bip_39_word_underscore_12: task_nest_about_coach_antenna_have_chronic_skate_can_motor_injury_apart
-bip_39_word_underscore_2: task_nest
-bip_39_word_underscore_3: task_nest_about
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_computer_tablet
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_computer_tablet_kindle_paperwhite
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer_tablet_kindle_paperwhite
 id: category_computer_tablet_kindle_paperwhite
 id_no_class: computer_tablet_kindle_paperwhite
-id_no_color: kindlepaperwhite
 id_no_size: kindle_paperwhite
 id_no_type: kindle_paperwhite
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_kindle_paperwhite
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_computer_tablet_kindle_paperwhite](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 6FN1G
 md5_6_upper: A4E864
 name: Category Computer Tablet Kindle Paperwhite
 name_no_class: Computer Tablet Kindle Paperwhite
-name_no_color: Kindlepaperwhite
 name_no_size: Kindle Paperwhite
 name_no_size_short: Kindle Paperwhite
 name_no_type: Kindle Paperwhite
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: kindle_paperwhite
 size_capital: Kindle Paperwhite
 size_first_letter: k
 size_first_letter_upper: K
-size_length_1: k
-size_length_2: ki
-size_length_3: kin
-size_length_4: kind
-size_length_5: kindl
-size_length_6: kindle
-size_name: Kindle Paperwhite
-size_no_space_length_1: k
-size_no_space_length_2: ki
-size_no_space_length_3: kin
-size_no_space_length_4: kind
-size_no_space_length_5: kindl
-size_no_space_length_6: kindle
-size_no_space_upper_length_1: K
-size_no_space_upper_length_2: KI
-size_no_space_upper_length_3: KIN
-size_no_space_upper_length_4: KIND
-size_no_space_upper_length_5: KINDL
-size_no_space_upper_length_6: KINDLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: KINDLE_PAPERWHITE
-size_upper_length_1: K
-size_upper_length_2: KI
-size_upper_length_3: KIN
-size_upper_length_4: KIND
-size_upper_length_5: KINDL
-size_upper_length_6: KINDLE
 type: computer_tablet
 type_capital: Computer Tablet
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: com
-type_length_4: comp
-type_length_5: compu
-type_length_6: comput
-type_name: Computer Tablet
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: com
-type_no_space_length_4: comp
-type_no_space_length_5: compu
-type_no_space_length_6: comput
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COM
-type_no_space_upper_length_4: COMP
-type_no_space_upper_length_5: COMPU
-type_no_space_upper_length_6: COMPUT
 type_upper: COMPUTER_TABLET
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COM
-type_upper_length_4: COMP
-type_upper_length_5: COMPU
-type_upper_length_6: COMPUT

@@ -1,156 +1,31 @@
-bip_39_word_dash_12: want-unique-improve-fire-alley-use-uniform-stick-swim-drift-jungle-addict
-bip_39_word_dash_2: want-unique
-bip_39_word_dash_3: want-unique-improve
-bip_39_word_new_br_12: want<br>unique<br>improve<br>fire<br>alley<br>use<br>uniform<br>stick<br>swim<br>drift<br>jungle<br>addict
-bip_39_word_new_br_2: want<br>unique
-bip_39_word_new_br_3: want<br>unique<br>improve
-bip_39_word_new_line_12: 'want
-
-  unique
-
-  improve
-
-  fire
-
-  alley
-
-  use
-
-  uniform
-
-  stick
-
-  swim
-
-  drift
-
-  jungle
-
-  addict'
-bip_39_word_new_line_2: 'want
-
-  unique'
-bip_39_word_new_line_3: 'want
-
-  unique
-
-  improve'
-bip_39_word_no_space_12: wantuniqueimprovefirealleyuseuniformstickswimdriftjungleaddict
-bip_39_word_no_space_2: wantunique
-bip_39_word_no_space_3: wantuniqueimprove
-bip_39_word_space_12: want unique improve fire alley use uniform stick swim drift
-  jungle addict
-bip_39_word_space_2: want unique
-bip_39_word_space_3: want unique improve
-bip_39_word_underscore_12: want_unique_improve_fire_alley_use_uniform_stick_swim_drift_jungle_addict
-bip_39_word_underscore_2: want_unique
-bip_39_word_underscore_3: want_unique_improve
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: motor_tt_01_shaft_72_teeth_shield_extra
 description_extra_capital: Motor Tt 01 Shaft 72 Teeth Shield Extra
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: mo
-description_extra_length_3: mot
-description_extra_length_4: moto
-description_extra_length_5: motor
-description_extra_length_6: motor_
-description_extra_name: Motor Tt 01 Shaft 72 Teeth Shield Extra
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mo
-description_extra_no_space_length_3: mot
-description_extra_no_space_length_4: moto
-description_extra_no_space_length_5: motor
-description_extra_no_space_length_6: motort
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MO
-description_extra_no_space_upper_length_3: MOT
-description_extra_no_space_upper_length_4: MOTO
-description_extra_no_space_upper_length_5: MOTOR
-description_extra_no_space_upper_length_6: MOTORT
 description_extra_upper: MOTOR_TT_01_SHAFT_72_TEETH_SHIELD_EXTRA
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MO
-description_extra_upper_length_3: MOT
-description_extra_upper_length_4: MOTO
-description_extra_upper_length_5: MOTOR
-description_extra_upper_length_6: MOTOR_
 description_main: 3_diameter_6_mm_depth
 description_main_capital: 3 Diameter 6 mm Depth
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '3_'
-description_main_length_3: 3_d
-description_main_length_4: 3_di
-description_main_length_5: 3_dia
-description_main_length_6: 3_diam
-description_main_name: 3 Diameter 6 mm Depth
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: 3d
-description_main_no_space_length_3: 3di
-description_main_no_space_length_4: 3dia
-description_main_no_space_length_5: 3diam
-description_main_no_space_length_6: 3diame
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: 3D
-description_main_no_space_upper_length_3: 3DI
-description_main_no_space_upper_length_4: 3DIA
-description_main_no_space_upper_length_5: 3DIAM
-description_main_no_space_upper_length_6: 3DIAME
 description_main_upper: 3_DIAMETER_6_MM_DEPTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '3_'
-description_main_upper_length_3: 3_D
-description_main_upper_length_4: 3_DI
-description_main_upper_length_5: 3_DIA
-description_main_upper_length_6: 3_DIAM
 description_only_numbers: '36'
 description_only_numbers_short: '36'
 description_or_color: '36'
 description_or_color_upper: '36'
 directory: parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
 id: oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
 id_no_class: part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
-id_no_color: 3diameter6mmdepthmotortt01shaft72teethshieldextra
 id_no_size: 3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
 id_no_type: pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra](none)<br>[](none)<br>[Oobb
@@ -175,14 +49,13 @@ md5_6: 34f210
 md5_6_alpha: 22dcg
 md5_6_alpha_upper: 22DCG
 md5_6_upper: 34F210
-name: Oobb Part Pulley Gt2 3 Diameter 6 mm Depth Motor Tt 01 Shaft 72 Teeth Shield
+name: Oobb Part Pulley Gt2 3 Diameter 6 Mm Depth Motor Tt 01 Shaft 72 Teeth Shield
   Extra
-name_no_class: Part Pulley Gt2 3 Diameter 6 mm Depth Motor Tt 01 Shaft 72 Teeth Shield
+name_no_class: Part Pulley Gt2 3 Diameter 6 Mm Depth Motor Tt 01 Shaft 72 Teeth Shield
   Extra
-name_no_color: 3Diameter6mmdepthmotortt01Shaft72Teethshieldextra
-name_no_size: 3 Diameter 6 mm Depth Motor Tt 01 Shaft 72 Teeth Shield Extra
+name_no_size: 3 Diameter 6 Mm Depth Motor Tt 01 Shaft 72 Teeth Shield Extra
 name_no_size_short: 3 Diameter 6 Mm Depth Motor Tt 01 Shaft 72 Teeth Shield Extra
-name_no_type: Pulley Gt2 3 Diameter 6 mm Depth Motor Tt 01 Shaft 72 Teeth Shield Extra
+name_no_type: Pulley Gt2 3 Diameter 6 Mm Depth Motor Tt 01 Shaft 72 Teeth Shield Extra
 oomp_key: oomp_oobb_part_pulley_gt2_3_diameter_6_mm_depth_motor_tt_01_shaft_72_teeth_shield_extra
 oomp_word: mouse one star
 oomp_word_emoji: ':mouse: :one: :star:'
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -207,61 +79,11 @@ size: pulley_gt2
 size_capital: Pulley Gt2
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pu
-size_length_3: pul
-size_length_4: pull
-size_length_5: pulle
-size_length_6: pulley
-size_name: Pulley Gt2
-size_no_space_length_1: p
-size_no_space_length_2: pu
-size_no_space_length_3: pul
-size_no_space_length_4: pull
-size_no_space_length_5: pulle
-size_no_space_length_6: pulley
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PU
-size_no_space_upper_length_3: PUL
-size_no_space_upper_length_4: PULL
-size_no_space_upper_length_5: PULLE
-size_no_space_upper_length_6: PULLEY
 size_only_numbers: '2'
 size_only_numbers_no_zeros: '2'
 size_upper: PULLEY_GT2
-size_upper_length_1: P
-size_upper_length_2: PU
-size_upper_length_3: PUL
-size_upper_length_4: PULL
-size_upper_length_5: PULLE
-size_upper_length_6: PULLEY
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

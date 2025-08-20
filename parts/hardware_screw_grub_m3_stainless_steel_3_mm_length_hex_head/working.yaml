@@ -1,170 +1,23 @@
-bip_39_word_dash_12: crime-front-inform-once-rail-harsh-pulse-treat-high-purse-depend-accuse
-bip_39_word_dash_2: crime-front
-bip_39_word_dash_3: crime-front-inform
-bip_39_word_new_br_12: crime<br>front<br>inform<br>once<br>rail<br>harsh<br>pulse<br>treat<br>high<br>purse<br>depend<br>accuse
-bip_39_word_new_br_2: crime<br>front
-bip_39_word_new_br_3: crime<br>front<br>inform
-bip_39_word_new_line_12: 'crime
-
-  front
-
-  inform
-
-  once
-
-  rail
-
-  harsh
-
-  pulse
-
-  treat
-
-  high
-
-  purse
-
-  depend
-
-  accuse'
-bip_39_word_new_line_2: 'crime
-
-  front'
-bip_39_word_new_line_3: 'crime
-
-  front
-
-  inform'
-bip_39_word_no_space_12: crimefrontinformoncerailharshpulsetreathighpursedependaccuse
-bip_39_word_no_space_2: crimefront
-bip_39_word_no_space_3: crimefrontinform
-bip_39_word_space_12: crime front inform once rail harsh pulse treat high purse depend
-  accuse
-bip_39_word_space_2: crime front
-bip_39_word_space_3: crime front inform
-bip_39_word_underscore_12: crime_front_inform_once_rail_harsh_pulse_treat_high_purse_depend_accuse
-bip_39_word_underscore_2: crime_front
-bip_39_word_underscore_3: crime_front_inform
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: stainless_steel
 color_capital: Stainless Steel
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: st
-color_length_3: sta
-color_length_4: stai
-color_length_5: stain
-color_length_6: stainl
-color_name: Stainless Steel
-color_no_space_length_1: s
-color_no_space_length_2: st
-color_no_space_length_3: sta
-color_no_space_length_4: stai
-color_no_space_length_5: stain
-color_no_space_length_6: stainl
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: ST
-color_no_space_upper_length_3: STA
-color_no_space_upper_length_4: STAI
-color_no_space_upper_length_5: STAIN
-color_no_space_upper_length_6: STAINL
 color_upper: STAINLESS_STEEL
-color_upper_length_1: S
-color_upper_length_2: ST
-color_upper_length_3: STA
-color_upper_length_4: STAI
-color_upper_length_5: STAIN
-color_upper_length_6: STAINL
 description_extra: hex_head
 description_extra_capital: Hex Head
 description_extra_first_letter: h
 description_extra_first_letter_upper: H
-description_extra_length_1: h
-description_extra_length_2: he
-description_extra_length_3: hex
-description_extra_length_4: hex_
-description_extra_length_5: hex_h
-description_extra_length_6: hex_he
-description_extra_name: Hex Head
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: he
-description_extra_no_space_length_3: hex
-description_extra_no_space_length_4: hexh
-description_extra_no_space_length_5: hexhe
-description_extra_no_space_length_6: hexhea
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HE
-description_extra_no_space_upper_length_3: HEX
-description_extra_no_space_upper_length_4: HEXH
-description_extra_no_space_upper_length_5: HEXHE
-description_extra_no_space_upper_length_6: HEXHEA
 description_extra_upper: HEX_HEAD
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HE
-description_extra_upper_length_3: HEX
-description_extra_upper_length_4: HEX_
-description_extra_upper_length_5: HEX_H
-description_extra_upper_length_6: HEX_HE
 description_main: 3_mm_length
 description_main_capital: 3 mm Length
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '3_'
-description_main_length_3: 3_m
-description_main_length_4: 3_mm
-description_main_length_5: 3_mm_
-description_main_length_6: 3_mm_l
-description_main_name: 3 mm Length
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: 3m
-description_main_no_space_length_3: 3mm
-description_main_no_space_length_4: 3mml
-description_main_no_space_length_5: 3mmle
-description_main_no_space_length_6: 3mmlen
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: 3M
-description_main_no_space_upper_length_3: 3MM
-description_main_no_space_upper_length_4: 3MML
-description_main_no_space_upper_length_5: 3MMLE
-description_main_no_space_upper_length_6: 3MMLEN
 description_main_upper: 3_MM_LENGTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '3_'
-description_main_upper_length_3: 3_M
-description_main_upper_length_4: 3_MM
-description_main_upper_length_5: 3_MM_
-description_main_upper_length_6: 3_MM_L
 description_only_numbers: '3'
 description_only_numbers_short: '3'
 description_or_color: S3
@@ -173,10 +26,8 @@ directory: parts/hardware_screw_grub_m3_stainless_steel_3_mm_length_hex_head
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_grub_m3_stainless_steel_3_mm_length_hex_head
 id: hardware_screw_grub_m3_stainless_steel_3_mm_length_hex_head
 id_no_class: screw_grub_m3_stainless_steel_3_mm_length_hex_head
-id_no_color: 3_mm_length_hex_head
 id_no_size: stainless_steel_3_mm_length_hex_head
 id_no_type: m3_stainless_steel_3_mm_length_hex_head
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_grub_m3_stainless_steel_3_mm_length_hex_head
@@ -186,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_screw_grub_m3_stainless_steel_3_mm_length_hex_head](none)<br>[33h](none)<br>[Hardware
@@ -201,12 +51,11 @@ md5_6: 1a75eb
 md5_6_alpha: '11623'
 md5_6_alpha_upper: '11623'
 md5_6_upper: 1A75EB
-name: Hardware Screw Grub M3 Stainless Steel 3 mm Length Hex Head
-name_no_class: Screw Grub M3 Stainless Steel 3 mm Length Hex Head
-name_no_color: 3 mm Length Hex Head
-name_no_size: Stainless Steel 3 mm Length Hex Head
+name: Hardware Screw Grub M3 Stainless Steel 3 Mm Length Hex Head
+name_no_class: Screw Grub M3 Stainless Steel 3 Mm Length Hex Head
+name_no_size: Stainless Steel 3 Mm Length Hex Head
 name_no_size_short: Stainless Steel 3 Mm Length Hex Head
-name_no_type: M3 Stainless Steel 3 mm Length Hex Head
+name_no_type: M3 Stainless Steel 3 Mm Length Hex Head
 oomp_key: oomp_hardware_screw_grub_m3_stainless_steel_3_mm_length_hex_head
 oomp_word: clap ghost car
 oomp_word_emoji: ':clap: :ghost: :car:'
@@ -222,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: 33h
 short_code_upper: 33H
@@ -230,61 +78,11 @@ size: m3
 size_capital: M3
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m3
-size_length_3: m3
-size_length_4: m3
-size_length_5: m3
-size_length_6: m3
-size_name: M3
-size_no_space_length_1: m
-size_no_space_length_2: m3
-size_no_space_length_3: m3
-size_no_space_length_4: m3
-size_no_space_length_5: m3
-size_no_space_length_6: m3
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M3
-size_no_space_upper_length_3: M3
-size_no_space_upper_length_4: M3
-size_no_space_upper_length_5: M3
-size_no_space_upper_length_6: M3
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: M3
-size_upper_length_1: M
-size_upper_length_2: M3
-size_upper_length_3: M3
-size_upper_length_4: M3
-size_upper_length_5: M3
-size_upper_length_6: M3
 type: screw_grub
 type_capital: Screw Grub
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sc
-type_length_3: scr
-type_length_4: scre
-type_length_5: screw
-type_length_6: screw_
-type_name: Screw Grub
-type_no_space_length_1: s
-type_no_space_length_2: sc
-type_no_space_length_3: scr
-type_no_space_length_4: scre
-type_no_space_length_5: screw
-type_no_space_length_6: screwg
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SC
-type_no_space_upper_length_3: SCR
-type_no_space_upper_length_4: SCRE
-type_no_space_upper_length_5: SCREW
-type_no_space_upper_length_6: SCREWG
 type_upper: SCREW_GRUB
-type_upper_length_1: S
-type_upper_length_2: SC
-type_upper_length_3: SCR
-type_upper_length_4: SCRE
-type_upper_length_5: SCREW
-type_upper_length_6: SCREW_

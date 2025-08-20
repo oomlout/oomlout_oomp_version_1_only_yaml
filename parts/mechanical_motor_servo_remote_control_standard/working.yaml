@@ -1,132 +1,31 @@
-bip_39_word_dash_12: speak-blood-kite-dash-atom-pelican-can-plunge-boost-cradle-festival-august
-bip_39_word_dash_2: speak-blood
-bip_39_word_dash_3: speak-blood-kite
-bip_39_word_new_br_12: speak<br>blood<br>kite<br>dash<br>atom<br>pelican<br>can<br>plunge<br>boost<br>cradle<br>festival<br>august
-bip_39_word_new_br_2: speak<br>blood
-bip_39_word_new_br_3: speak<br>blood<br>kite
-bip_39_word_new_line_12: 'speak
-
-  blood
-
-  kite
-
-  dash
-
-  atom
-
-  pelican
-
-  can
-
-  plunge
-
-  boost
-
-  cradle
-
-  festival
-
-  august'
-bip_39_word_new_line_2: 'speak
-
-  blood'
-bip_39_word_new_line_3: 'speak
-
-  blood
-
-  kite'
-bip_39_word_no_space_12: speakbloodkitedashatompelicancanplungeboostcradlefestivalaugust
-bip_39_word_no_space_2: speakblood
-bip_39_word_no_space_3: speakbloodkite
-bip_39_word_space_12: speak blood kite dash atom pelican can plunge boost cradle festival
-  august
-bip_39_word_space_2: speak blood
-bip_39_word_space_3: speak blood kite
-bip_39_word_underscore_12: speak_blood_kite_dash_atom_pelican_can_plunge_boost_cradle_festival_august
-bip_39_word_underscore_2: speak_blood
-bip_39_word_underscore_3: speak_blood_kite
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
-classification_length_1: m
-classification_length_2: me
-classification_length_3: mec
-classification_length_4: mech
-classification_length_5: mecha
-classification_length_6: mechan
-classification_name: Mechanical
-classification_no_space_length_1: m
-classification_no_space_length_2: me
-classification_no_space_length_3: mec
-classification_no_space_length_4: mech
-classification_no_space_length_5: mecha
-classification_no_space_length_6: mechan
-classification_no_space_upper_length_1: M
-classification_no_space_upper_length_2: ME
-classification_no_space_upper_length_3: MEC
-classification_no_space_upper_length_4: MECH
-classification_no_space_upper_length_5: MECHA
-classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
-classification_upper_length_1: M
-classification_upper_length_2: ME
-classification_upper_length_3: MEC
-classification_upper_length_4: MECH
-classification_upper_length_5: MECHA
-classification_upper_length_6: MECHAN
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: standard
 description_main_capital: Standard
 description_main_first_letter: s
 description_main_first_letter_upper: S
-description_main_length_1: s
-description_main_length_2: st
-description_main_length_3: sta
-description_main_length_4: stan
-description_main_length_5: stand
-description_main_length_6: standa
-description_main_name: Standard
-description_main_no_space_length_1: s
-description_main_no_space_length_2: st
-description_main_no_space_length_3: sta
-description_main_no_space_length_4: stan
-description_main_no_space_length_5: stand
-description_main_no_space_length_6: standa
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: ST
-description_main_no_space_upper_length_3: STA
-description_main_no_space_upper_length_4: STAN
-description_main_no_space_upper_length_5: STAND
-description_main_no_space_upper_length_6: STANDA
 description_main_upper: STANDARD
-description_main_upper_length_1: S
-description_main_upper_length_2: ST
-description_main_upper_length_3: STA
-description_main_upper_length_4: STAN
-description_main_upper_length_5: STAND
-description_main_upper_length_6: STANDA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_motor_servo_remote_control_standard
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_servo_remote_control_standard
 id: mechanical_motor_servo_remote_control_standard
 id_no_class: motor_servo_remote_control_standard
-id_no_color: standard
 id_no_size: standard
 id_no_type: standard
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_standard
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_motor_servo_remote_control_standard](none)<br>[](none)<br>[Mechanical
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 9GV2K
 md5_6_upper: F2AA4C
 name: Mechanical Motor Servo Remote Control Standard
 name_no_class: Motor Servo Remote Control Standard
-name_no_color: Standard
 name_no_size: Standard
 name_no_size_short: Standard
 name_no_type: Standard
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,7 +77,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -189,29 +84,4 @@ type: motor_servo_remote_control
 type_capital: Motor Servo Remote Control
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: mo
-type_length_3: mot
-type_length_4: moto
-type_length_5: motor
-type_length_6: motor_
-type_name: Motor Servo Remote Control
-type_no_space_length_1: m
-type_no_space_length_2: mo
-type_no_space_length_3: mot
-type_no_space_length_4: moto
-type_no_space_length_5: motor
-type_no_space_length_6: motors
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: MO
-type_no_space_upper_length_3: MOT
-type_no_space_upper_length_4: MOTO
-type_no_space_upper_length_5: MOTOR
-type_no_space_upper_length_6: MOTORS
 type_upper: MOTOR_SERVO_REMOTE_CONTROL
-type_upper_length_1: M
-type_upper_length_2: MO
-type_upper_length_3: MOT
-type_upper_length_4: MOTO
-type_upper_length_5: MOTOR
-type_upper_length_6: MOTOR_

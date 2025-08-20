@@ -1,121 +1,22 @@
-bip_39_word_dash_12: dutch-guard-dirt-reopen-throw-garden-suit-happy-small-vast-unable-artefact
-bip_39_word_dash_2: dutch-guard
-bip_39_word_dash_3: dutch-guard-dirt
-bip_39_word_new_br_12: dutch<br>guard<br>dirt<br>reopen<br>throw<br>garden<br>suit<br>happy<br>small<br>vast<br>unable<br>artefact
-bip_39_word_new_br_2: dutch<br>guard
-bip_39_word_new_br_3: dutch<br>guard<br>dirt
-bip_39_word_new_line_12: 'dutch
-
-  guard
-
-  dirt
-
-  reopen
-
-  throw
-
-  garden
-
-  suit
-
-  happy
-
-  small
-
-  vast
-
-  unable
-
-  artefact'
-bip_39_word_new_line_2: 'dutch
-
-  guard'
-bip_39_word_new_line_3: 'dutch
-
-  guard
-
-  dirt'
-bip_39_word_no_space_12: dutchguarddirtreopenthrowgardensuithappysmallvastunableartefact
-bip_39_word_no_space_2: dutchguard
-bip_39_word_no_space_3: dutchguarddirt
-bip_39_word_space_12: dutch guard dirt reopen throw garden suit happy small vast unable
-  artefact
-bip_39_word_space_2: dutch guard
-bip_39_word_space_3: dutch guard dirt
-bip_39_word_underscore_12: dutch_guard_dirt_reopen_throw_garden_suit_happy_small_vast_unable_artefact
-bip_39_word_underscore_2: dutch_guard
-bip_39_word_underscore_3: dutch_guard_dirt
 classification: clothes
 classification_capital: Clothes
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: cl
-classification_length_3: clo
-classification_length_4: clot
-classification_length_5: cloth
-classification_length_6: clothe
-classification_name: Clothes
-classification_no_space_length_1: c
-classification_no_space_length_2: cl
-classification_no_space_length_3: clo
-classification_no_space_length_4: clot
-classification_no_space_length_5: cloth
-classification_no_space_length_6: clothe
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CL
-classification_no_space_upper_length_3: CLO
-classification_no_space_upper_length_4: CLOT
-classification_no_space_upper_length_5: CLOTH
-classification_no_space_upper_length_6: CLOTHE
 classification_upper: CLOTHES
-classification_upper_length_1: C
-classification_upper_length_2: CL
-classification_upper_length_3: CLO
-classification_upper_length_4: CLOT
-classification_upper_length_5: CLOTH
-classification_upper_length_6: CLOTHE
 color: color_medium
 color_capital: Color Medium
 color_first_letter: c
 color_first_letter_upper: C
-color_length_1: c
-color_length_2: co
-color_length_3: col
-color_length_4: colo
-color_length_5: color
-color_length_6: color_
-color_name: Color Medium
-color_no_space_length_1: c
-color_no_space_length_2: co
-color_no_space_length_3: col
-color_no_space_length_4: colo
-color_no_space_length_5: color
-color_no_space_length_6: colorm
-color_no_space_upper_length_1: C
-color_no_space_upper_length_2: CO
-color_no_space_upper_length_3: COL
-color_no_space_upper_length_4: COLO
-color_no_space_upper_length_5: COLOR
-color_no_space_upper_length_6: COLORM
 color_upper: COLOR_MEDIUM
-color_upper_length_1: C
-color_upper_length_2: CO
-color_upper_length_3: COL
-color_upper_length_4: COLO
-color_upper_length_5: COLOR
-color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/clothes_item_scarf_color_medium
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_scarf_color_medium
 id: clothes_item_scarf_color_medium
 id_no_class: item_scarf_color_medium
-id_no_color: color_medium
 id_no_size: color_medium
 id_no_type: scarf_color_medium
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_color_medium
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[clothes_item_scarf_color_medium](none)<br>[](none)<br>[Clothes Item
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 83YD8
 md5_6_upper: CFD8BC
 name: Clothes Item Scarf Color Medium
 name_no_class: Item Scarf Color Medium
-name_no_color: Color Medium
 name_no_size: Color Medium
 name_no_size_short: Color Medium
 name_no_type: Scarf Color Medium
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: scarf
 size_capital: Scarf
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sc
-size_length_3: sca
-size_length_4: scar
-size_length_5: scarf
-size_length_6: scarf
-size_name: Scarf
-size_no_space_length_1: s
-size_no_space_length_2: sc
-size_no_space_length_3: sca
-size_no_space_length_4: scar
-size_no_space_length_5: scarf
-size_no_space_length_6: scarf
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SC
-size_no_space_upper_length_3: SCA
-size_no_space_upper_length_4: SCAR
-size_no_space_upper_length_5: SCARF
-size_no_space_upper_length_6: SCARF
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCARF
-size_upper_length_1: S
-size_upper_length_2: SC
-size_upper_length_3: SCA
-size_upper_length_4: SCAR
-size_upper_length_5: SCARF
-size_upper_length_6: SCARF
 type: item
 type_capital: Item
 type_first_letter: i
 type_first_letter_upper: I
-type_length_1: i
-type_length_2: it
-type_length_3: ite
-type_length_4: item
-type_length_5: item
-type_length_6: item
-type_name: Item
-type_no_space_length_1: i
-type_no_space_length_2: it
-type_no_space_length_3: ite
-type_no_space_length_4: item
-type_no_space_length_5: item
-type_no_space_length_6: item
-type_no_space_upper_length_1: I
-type_no_space_upper_length_2: IT
-type_no_space_upper_length_3: ITE
-type_no_space_upper_length_4: ITEM
-type_no_space_upper_length_5: ITEM
-type_no_space_upper_length_6: ITEM
 type_upper: ITEM
-type_upper_length_1: I
-type_upper_length_2: IT
-type_upper_length_3: ITE
-type_upper_length_4: ITEM
-type_upper_length_5: ITEM
-type_upper_length_6: ITEM

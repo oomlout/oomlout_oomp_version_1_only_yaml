@@ -1,156 +1,31 @@
-bip_39_word_dash_12: apple-original-sight-tongue-slogan-have-popular-feed-cotton-vital-repeat-april
-bip_39_word_dash_2: apple-original
-bip_39_word_dash_3: apple-original-sight
-bip_39_word_new_br_12: apple<br>original<br>sight<br>tongue<br>slogan<br>have<br>popular<br>feed<br>cotton<br>vital<br>repeat<br>april
-bip_39_word_new_br_2: apple<br>original
-bip_39_word_new_br_3: apple<br>original<br>sight
-bip_39_word_new_line_12: 'apple
-
-  original
-
-  sight
-
-  tongue
-
-  slogan
-
-  have
-
-  popular
-
-  feed
-
-  cotton
-
-  vital
-
-  repeat
-
-  april'
-bip_39_word_new_line_2: 'apple
-
-  original'
-bip_39_word_new_line_3: 'apple
-
-  original
-
-  sight'
-bip_39_word_no_space_12: appleoriginalsighttonguesloganhavepopularfeedcottonvitalrepeatapril
-bip_39_word_no_space_2: appleoriginal
-bip_39_word_no_space_3: appleoriginalsight
-bip_39_word_space_12: apple original sight tongue slogan have popular feed cotton
-  vital repeat april
-bip_39_word_space_2: apple original
-bip_39_word_space_3: apple original sight
-bip_39_word_underscore_12: apple_original_sight_tongue_slogan_have_popular_feed_cotton_vital_repeat_april
-bip_39_word_underscore_2: apple_original
-bip_39_word_underscore_3: apple_original_sight
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 description_extra_capital: Tool Knife Utility Blade Disposal Can Olfa Dc 3 Extra
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: too
-description_extra_length_4: tool
-description_extra_length_5: tool_
-description_extra_length_6: tool_k
-description_extra_name: Tool Knife Utility Blade Disposal Can Olfa Dc 3 Extra
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: too
-description_extra_no_space_length_4: tool
-description_extra_no_space_length_5: toolk
-description_extra_no_space_length_6: toolkn
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOO
-description_extra_no_space_upper_length_4: TOOL
-description_extra_no_space_upper_length_5: TOOLK
-description_extra_no_space_upper_length_6: TOOLKN
 description_extra_upper: TOOL_KNIFE_UTILITY_BLADE_DISPOSAL_CAN_OLFA_DC_3_EXTRA
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOO
-description_extra_upper_length_4: TOOL
-description_extra_upper_length_5: TOOL_
-description_extra_upper_length_6: TOOL_K
 description_main: 5_width_3_height_29.5_mm_depth
 description_main_capital: 5 Width 3 Height 29.5 mm Depth
 description_main_first_letter: '5'
 description_main_first_letter_upper: '5'
-description_main_length_1: '5'
-description_main_length_2: '5_'
-description_main_length_3: 5_w
-description_main_length_4: 5_wi
-description_main_length_5: 5_wid
-description_main_length_6: 5_widt
-description_main_name: 5 Width 3 Height 29.5 mm Depth
-description_main_no_space_length_1: '5'
-description_main_no_space_length_2: 5w
-description_main_no_space_length_3: 5wi
-description_main_no_space_length_4: 5wid
-description_main_no_space_length_5: 5widt
-description_main_no_space_length_6: 5width
-description_main_no_space_upper_length_1: '5'
-description_main_no_space_upper_length_2: 5W
-description_main_no_space_upper_length_3: 5WI
-description_main_no_space_upper_length_4: 5WID
-description_main_no_space_upper_length_5: 5WIDT
-description_main_no_space_upper_length_6: 5WIDTH
 description_main_upper: 5_WIDTH_3_HEIGHT_29.5_MM_DEPTH
-description_main_upper_length_1: '5'
-description_main_upper_length_2: '5_'
-description_main_upper_length_3: 5_W
-description_main_upper_length_4: 5_WI
-description_main_upper_length_5: 5_WID
-description_main_upper_length_6: 5_WIDT
 description_only_numbers: '53295'
 description_only_numbers_short: 53k
 description_or_color: 53k
 description_or_color_upper: 53K
 directory: parts/oobb_part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 id: oobb_part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 id_no_class: part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
-id_no_color: 5width3height29.5mmdepthtoolknifeutilitybladedisposalcanolfadc3extra
 id_no_size: 5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 id_no_type: tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra](none)<br>[](none)<br>[Oobb
@@ -176,16 +50,15 @@ md5_6: af6d7d
 md5_6_alpha: 6uf0d
 md5_6_alpha_upper: 6UF0D
 md5_6_upper: AF6D7D
-name: Oobb Part Tool Holder Vertical 5 Width 3 Height 29.5 mm Depth Tool Knife Utility
+name: Oobb Part Tool Holder Vertical 5 Width 3 Height 29.5 Mm Depth Tool Knife Utility
   Blade Disposal Can Olfa Dc 3 Extra
-name_no_class: Part Tool Holder Vertical 5 Width 3 Height 29.5 mm Depth Tool Knife
+name_no_class: Part Tool Holder Vertical 5 Width 3 Height 29.5 Mm Depth Tool Knife
   Utility Blade Disposal Can Olfa Dc 3 Extra
-name_no_color: 5Width3Height29.5mmdepthtoolknifeutilitybladedisposalcanolfadc3Extra
-name_no_size: 5 Width 3 Height 29.5 mm Depth Tool Knife Utility Blade Disposal Can
+name_no_size: 5 Width 3 Height 29.5 Mm Depth Tool Knife Utility Blade Disposal Can
   Olfa Dc 3 Extra
 name_no_size_short: 5 Width 3 Height 29.5 Mm Depth Tool Knife Utility Blade Disposal
   Can Olfa Dc 3 Extra
-name_no_type: Tool Holder Vertical 5 Width 3 Height 29.5 mm Depth Tool Knife Utility
+name_no_type: Tool Holder Vertical 5 Width 3 Height 29.5 Mm Depth Tool Knife Utility
   Blade Disposal Can Olfa Dc 3 Extra
 oomp_key: oomp_oobb_part_tool_holder_vertical_5_width_3_height_29.5_mm_depth_tool_knife_utility_blade_disposal_can_olfa_dc_3_extra
 oomp_word: tophat shell phone
@@ -202,7 +75,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -211,61 +83,11 @@ size: tool_holder_vertical
 size_capital: Tool Holder Vertical
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: to
-size_length_3: too
-size_length_4: tool
-size_length_5: tool_
-size_length_6: tool_h
-size_name: Tool Holder Vertical
-size_no_space_length_1: t
-size_no_space_length_2: to
-size_no_space_length_3: too
-size_no_space_length_4: tool
-size_no_space_length_5: toolh
-size_no_space_length_6: toolho
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TO
-size_no_space_upper_length_3: TOO
-size_no_space_upper_length_4: TOOL
-size_no_space_upper_length_5: TOOLH
-size_no_space_upper_length_6: TOOLHO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TOOL_HOLDER_VERTICAL
-size_upper_length_1: T
-size_upper_length_2: TO
-size_upper_length_3: TOO
-size_upper_length_4: TOOL
-size_upper_length_5: TOOL_
-size_upper_length_6: TOOL_H
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: glare-keen-solar-left-stick-oak-between-file-black-draft-crystal-arch
-bip_39_word_dash_2: glare-keen
-bip_39_word_dash_3: glare-keen-solar
-bip_39_word_new_br_12: glare<br>keen<br>solar<br>left<br>stick<br>oak<br>between<br>file<br>black<br>draft<br>crystal<br>arch
-bip_39_word_new_br_2: glare<br>keen
-bip_39_word_new_br_3: glare<br>keen<br>solar
-bip_39_word_new_line_12: 'glare
-
-  keen
-
-  solar
-
-  left
-
-  stick
-
-  oak
-
-  between
-
-  file
-
-  black
-
-  draft
-
-  crystal
-
-  arch'
-bip_39_word_new_line_2: 'glare
-
-  keen'
-bip_39_word_new_line_3: 'glare
-
-  keen
-
-  solar'
-bip_39_word_no_space_12: glarekeensolarleftstickoakbetweenfileblackdraftcrystalarch
-bip_39_word_no_space_2: glarekeen
-bip_39_word_no_space_3: glarekeensolar
-bip_39_word_space_12: glare keen solar left stick oak between file black draft crystal
-  arch
-bip_39_word_space_2: glare keen
-bip_39_word_space_3: glare keen solar
-bip_39_word_underscore_12: glare_keen_solar_left_stick_oak_between_file_black_draft_crystal_arch
-bip_39_word_underscore_2: glare_keen
-bip_39_word_underscore_3: glare_keen_solar
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 6_5_mm
 color_capital: 6.5 mm
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '6_'
-color_length_3: '6_5'
-color_length_4: '6_5_'
-color_length_5: 6_5_m
-color_length_6: 6_5_mm
-color_name: 6 5 mm
-color_no_space_length_1: '6'
-color_no_space_length_2: '65'
-color_no_space_length_3: 65m
-color_no_space_length_4: 65mm
-color_no_space_length_5: 65mm
-color_no_space_length_6: 65mm
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: '65'
-color_no_space_upper_length_3: 65M
-color_no_space_upper_length_4: 65MM
-color_no_space_upper_length_5: 65MM
-color_no_space_upper_length_6: 65MM
 color_upper: 6_5_MM
-color_upper_length_1: '6'
-color_upper_length_2: '6_'
-color_upper_length_3: '6_5'
-color_upper_length_4: '6_5_'
-color_upper_length_5: 6_5_M
-color_upper_length_6: 6_5_MM
 description: category_hardware
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_hardware_ball_bearing_6_5_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_ball_bearing_6_5_mm
 id: category_hardware_ball_bearing_6_5_mm
 id_no_class: hardware_ball_bearing_6_5_mm
-id_no_color: 6_5_mm
 id_no_size: 6_5_mm
 id_no_type: ball_bearing_6_5_mm
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_6_5_mm
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_ball_bearing_6_5_mm](none)<br>[](none)<br>[Category
@@ -154,12 +52,11 @@ md5_6: b06a90
 md5_6_alpha: 6vt00
 md5_6_alpha_upper: 6VT00
 md5_6_upper: B06A90
-name: Category Hardware Ball Bearing 6 5 mm
-name_no_class: Hardware Ball Bearing 6 5 mm
-name_no_color: 6 5 mm
-name_no_size: 6 5 mm
+name: Category Hardware Ball Bearing 6 5 Mm
+name_no_class: Hardware Ball Bearing 6 5 Mm
+name_no_size: 6 5 Mm
 name_no_size_short: 6 5 Mm
-name_no_type: Ball Bearing 6 5 mm
+name_no_type: Ball Bearing 6 5 Mm
 oomp_key: oomp_category_hardware_ball_bearing_6_5_mm
 oomp_word: crown palm_tree scissors
 oomp_word_emoji: ':crown: :palm_tree: :scissors:'
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: ball_bearing
 size_capital: Ball Bearing
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bal
-size_length_4: ball
-size_length_5: ball_
-size_length_6: ball_b
-size_name: Ball Bearing
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bal
-size_no_space_length_4: ball
-size_no_space_length_5: ballb
-size_no_space_length_6: ballbe
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAL
-size_no_space_upper_length_4: BALL
-size_no_space_upper_length_5: BALLB
-size_no_space_upper_length_6: BALLBE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BALL_BEARING
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAL
-size_upper_length_4: BALL
-size_upper_length_5: BALL_
-size_upper_length_6: BALL_B
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

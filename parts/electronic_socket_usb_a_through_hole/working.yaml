@@ -1,122 +1,23 @@
-bip_39_word_dash_12: divorce-brick-atom-upper-talent-left-renew-tail-pupil-mandate-below-approve
-bip_39_word_dash_2: divorce-brick
-bip_39_word_dash_3: divorce-brick-atom
-bip_39_word_new_br_12: divorce<br>brick<br>atom<br>upper<br>talent<br>left<br>renew<br>tail<br>pupil<br>mandate<br>below<br>approve
-bip_39_word_new_br_2: divorce<br>brick
-bip_39_word_new_br_3: divorce<br>brick<br>atom
-bip_39_word_new_line_12: 'divorce
-
-  brick
-
-  atom
-
-  upper
-
-  talent
-
-  left
-
-  renew
-
-  tail
-
-  pupil
-
-  mandate
-
-  below
-
-  approve'
-bip_39_word_new_line_2: 'divorce
-
-  brick'
-bip_39_word_new_line_3: 'divorce
-
-  brick
-
-  atom'
-bip_39_word_no_space_12: divorcebrickatomuppertalentleftrenewtailpupilmandatebelowapprove
-bip_39_word_no_space_2: divorcebrick
-bip_39_word_no_space_3: divorcebrickatom
-bip_39_word_space_12: divorce brick atom upper talent left renew tail pupil mandate
-  below approve
-bip_39_word_space_2: divorce brick
-bip_39_word_space_3: divorce brick atom
-bip_39_word_underscore_12: divorce_brick_atom_upper_talent_left_renew_tail_pupil_mandate_below_approve
-bip_39_word_underscore_2: divorce_brick
-bip_39_word_underscore_3: divorce_brick_atom
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: through_hole
 description_main_capital: Through Hole
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: th
-description_main_length_3: thr
-description_main_length_4: thro
-description_main_length_5: throu
-description_main_length_6: throug
-description_main_name: Through Hole
-description_main_no_space_length_1: t
-description_main_no_space_length_2: th
-description_main_no_space_length_3: thr
-description_main_no_space_length_4: thro
-description_main_no_space_length_5: throu
-description_main_no_space_length_6: throug
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TH
-description_main_no_space_upper_length_3: THR
-description_main_no_space_upper_length_4: THRO
-description_main_no_space_upper_length_5: THROU
-description_main_no_space_upper_length_6: THROUG
 description_main_upper: THROUGH_HOLE
-description_main_upper_length_1: T
-description_main_upper_length_2: TH
-description_main_upper_length_3: THR
-description_main_upper_length_4: THRO
-description_main_upper_length_5: THROU
-description_main_upper_length_6: THROUG
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -138,10 +39,8 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scuath_electronic_socket_usb_a_through_hole
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_scuath_electronic_socket_usb_a_through_hole
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_a_through_hole
 id: electronic_socket_usb_a_through_hole
 id_no_class: socket_usb_a_through_hole
-id_no_color: throughhole
 id_no_size: through_hole
 id_no_type: usb_a_through_hole
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_a_through_hole
@@ -151,7 +50,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_socket_usb_a_through_hole](none)<br>[scuath](none)<br>[Electronic
@@ -166,12 +64,11 @@ md5_6: ac29a1
 md5_6_alpha: 6ptwh
 md5_6_alpha_upper: 6PTWH
 md5_6_upper: AC29A1
-name: Electronic Socket USB A Through Hole
-name_no_class: Socket USB A Through Hole
-name_no_color: Throughhole
+name: Electronic Socket Usb A Through Hole
+name_no_class: Socket Usb A Through Hole
 name_no_size: Through Hole
 name_no_size_short: Through Hole
-name_no_type: USB A Through Hole
+name_no_type: Usb A Through Hole
 oomp_key: oomp_electronic_socket_usb_a_through_hole
 oomp_word: shirt sunny trophy
 oomp_word_emoji: ':shirt: :sunny: :trophy:'
@@ -187,7 +84,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 pins:
   pin_1:
@@ -217,34 +113,9 @@ size: usb_a
 size_capital: Usb A
 size_first_letter: u
 size_first_letter_upper: U
-size_length_1: u
-size_length_2: us
-size_length_3: usb
-size_length_4: usb_
-size_length_5: usb_a
-size_length_6: usb_a
-size_name: USB A
-size_no_space_length_1: u
-size_no_space_length_2: us
-size_no_space_length_3: usb
-size_no_space_length_4: usba
-size_no_space_length_5: usba
-size_no_space_length_6: usba
-size_no_space_upper_length_1: U
-size_no_space_upper_length_2: US
-size_no_space_upper_length_3: USB
-size_no_space_upper_length_4: USBA
-size_no_space_upper_length_5: USBA
-size_no_space_upper_length_6: USBA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: USB_A
-size_upper_length_1: U
-size_upper_length_2: US
-size_upper_length_3: USB
-size_upper_length_4: USB_
-size_upper_length_5: USB_A
-size_upper_length_6: USB_A
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_a//working/working.kicad_sym
   index: 0
@@ -254,29 +125,4 @@ type: socket
 type_capital: Socket
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: so
-type_length_3: soc
-type_length_4: sock
-type_length_5: socke
-type_length_6: socket
-type_name: Socket
-type_no_space_length_1: s
-type_no_space_length_2: so
-type_no_space_length_3: soc
-type_no_space_length_4: sock
-type_no_space_length_5: socke
-type_no_space_length_6: socket
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SO
-type_no_space_upper_length_3: SOC
-type_no_space_upper_length_4: SOCK
-type_no_space_upper_length_5: SOCKE
-type_no_space_upper_length_6: SOCKET
 type_upper: SOCKET
-type_upper_length_1: S
-type_upper_length_2: SO
-type_upper_length_3: SOC
-type_upper_length_4: SOCK
-type_upper_length_5: SOCKE
-type_upper_length_6: SOCKET

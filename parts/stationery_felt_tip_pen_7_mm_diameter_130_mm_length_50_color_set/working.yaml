@@ -1,146 +1,23 @@
-bip_39_word_dash_12: myth-crew-plug-grab-visual-snake-organ-sustain-floor-clean-pattern-alone
-bip_39_word_dash_2: myth-crew
-bip_39_word_dash_3: myth-crew-plug
-bip_39_word_new_br_12: myth<br>crew<br>plug<br>grab<br>visual<br>snake<br>organ<br>sustain<br>floor<br>clean<br>pattern<br>alone
-bip_39_word_new_br_2: myth<br>crew
-bip_39_word_new_br_3: myth<br>crew<br>plug
-bip_39_word_new_line_12: 'myth
-
-  crew
-
-  plug
-
-  grab
-
-  visual
-
-  snake
-
-  organ
-
-  sustain
-
-  floor
-
-  clean
-
-  pattern
-
-  alone'
-bip_39_word_new_line_2: 'myth
-
-  crew'
-bip_39_word_new_line_3: 'myth
-
-  crew
-
-  plug'
-bip_39_word_no_space_12: mythcrewpluggrabvisualsnakeorgansustainfloorcleanpatternalone
-bip_39_word_no_space_2: mythcrew
-bip_39_word_no_space_3: mythcrewplug
-bip_39_word_space_12: myth crew plug grab visual snake organ sustain floor clean pattern
-  alone
-bip_39_word_space_2: myth crew
-bip_39_word_space_3: myth crew plug
-bip_39_word_underscore_12: myth_crew_plug_grab_visual_snake_organ_sustain_floor_clean_pattern_alone
-bip_39_word_underscore_2: myth_crew
-bip_39_word_underscore_3: myth_crew_plug
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: 50_color_set
 description_extra_capital: 50 Color Set
 description_extra_first_letter: '5'
 description_extra_first_letter_upper: '5'
-description_extra_length_1: '5'
-description_extra_length_2: '50'
-description_extra_length_3: '50_'
-description_extra_length_4: 50_c
-description_extra_length_5: 50_co
-description_extra_length_6: 50_col
-description_extra_name: 50 Color Set
-description_extra_no_space_length_1: '5'
-description_extra_no_space_length_2: '50'
-description_extra_no_space_length_3: 50c
-description_extra_no_space_length_4: 50co
-description_extra_no_space_length_5: 50col
-description_extra_no_space_length_6: 50colo
-description_extra_no_space_upper_length_1: '5'
-description_extra_no_space_upper_length_2: '50'
-description_extra_no_space_upper_length_3: 50C
-description_extra_no_space_upper_length_4: 50CO
-description_extra_no_space_upper_length_5: 50COL
-description_extra_no_space_upper_length_6: 50COLO
 description_extra_upper: 50_COLOR_SET
-description_extra_upper_length_1: '5'
-description_extra_upper_length_2: '50'
-description_extra_upper_length_3: '50_'
-description_extra_upper_length_4: 50_C
-description_extra_upper_length_5: 50_CO
-description_extra_upper_length_6: 50_COL
 description_main: 7_mm_diameter_130_mm_length
 description_main_capital: 7 mm Diameter 130 mm Length
 description_main_first_letter: '7'
 description_main_first_letter_upper: '7'
-description_main_length_1: '7'
-description_main_length_2: '7_'
-description_main_length_3: 7_m
-description_main_length_4: 7_mm
-description_main_length_5: 7_mm_
-description_main_length_6: 7_mm_d
-description_main_name: 7 mm Diameter 130 mm Length
-description_main_no_space_length_1: '7'
-description_main_no_space_length_2: 7m
-description_main_no_space_length_3: 7mm
-description_main_no_space_length_4: 7mmd
-description_main_no_space_length_5: 7mmdi
-description_main_no_space_length_6: 7mmdia
-description_main_no_space_upper_length_1: '7'
-description_main_no_space_upper_length_2: 7M
-description_main_no_space_upper_length_3: 7MM
-description_main_no_space_upper_length_4: 7MMD
-description_main_no_space_upper_length_5: 7MMDI
-description_main_no_space_upper_length_6: 7MMDIA
 description_main_upper: 7_MM_DIAMETER_130_MM_LENGTH
-description_main_upper_length_1: '7'
-description_main_upper_length_2: '7_'
-description_main_upper_length_3: 7_M
-description_main_upper_length_4: 7_MM
-description_main_upper_length_5: 7_MM_
-description_main_upper_length_6: 7_MM_D
 description_only_numbers: '7130'
 description_only_numbers_short: 7k1
 description_or_color: 7k1
@@ -148,10 +25,8 @@ description_or_color_upper: 7K1
 directory: parts/stationery_felt_tip_pen_7_mm_diameter_130_mm_length_50_color_set
 distributor_part_number_amazon: B085CKP544
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_felt_tip_pen_7_mm_diameter_130_mm_length_50_color_set
 id: stationery_felt_tip_pen_7_mm_diameter_130_mm_length_50_color_set
 id_no_class: felt_tip_pen_7_mm_diameter_130_mm_length_50_color_set
-id_no_color: 7mmdiameter130mmlength50colorset
 id_no_size: 7mmdiameter130mmlength50colorset
 id_no_type: 7_mm_diameter_130_mm_length_50_color_set
 link_distributor_amazon: https://www.amazon.co.uk/dp/B085CKP544
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[stationery_felt_tip_pen_7_mm_diameter_130_mm_length_50_color_set](none)<br>[](none)<br>[Stationery
@@ -177,12 +51,11 @@ md5_6: 6f428a
 md5_6_alpha: 4ca6i
 md5_6_alpha_upper: 4CA6I
 md5_6_upper: 6F428A
-name: Stationery Felt Tip Pen 7 mm Diameter 130 mm Length 50 Color Set
-name_no_class: Felt Tip Pen 7 mm Diameter 130 mm Length 50 Color Set
-name_no_color: 7mmdiameter130mmlength50Colorset
-name_no_size: 7mmdiameter130mmlength50Colorset
+name: Stationery Felt Tip Pen 7 Mm Diameter 130 Mm Length 50 Color Set
+name_no_class: Felt Tip Pen 7 Mm Diameter 130 Mm Length 50 Color Set
+name_no_size: 7Mmdiameter130Mmlength50Colorset
 name_no_size_short: 7Mmdiameter130Mmlength50Colorset
-name_no_type: 7 mm Diameter 130 mm Length 50 Color Set
+name_no_type: 7 Mm Diameter 130 Mm Length 50 Color Set
 oomp_key: oomp_stationery_felt_tip_pen_7_mm_diameter_130_mm_length_50_color_set
 oomp_word: moon sheep envelope
 oomp_word_emoji: ':moon: :sheep: :envelope:'
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -207,7 +79,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -215,29 +86,4 @@ type: felt_tip_pen
 type_capital: Felt Tip Pen
 type_first_letter: f
 type_first_letter_upper: F
-type_length_1: f
-type_length_2: fe
-type_length_3: fel
-type_length_4: felt
-type_length_5: felt_
-type_length_6: felt_t
-type_name: Felt Tip Pen
-type_no_space_length_1: f
-type_no_space_length_2: fe
-type_no_space_length_3: fel
-type_no_space_length_4: felt
-type_no_space_length_5: feltt
-type_no_space_length_6: feltti
-type_no_space_upper_length_1: F
-type_no_space_upper_length_2: FE
-type_no_space_upper_length_3: FEL
-type_no_space_upper_length_4: FELT
-type_no_space_upper_length_5: FELTT
-type_no_space_upper_length_6: FELTTI
 type_upper: FELT_TIP_PEN
-type_upper_length_1: F
-type_upper_length_2: FE
-type_upper_length_3: FEL
-type_upper_length_4: FELT
-type_upper_length_5: FELT_
-type_upper_length_6: FELT_T

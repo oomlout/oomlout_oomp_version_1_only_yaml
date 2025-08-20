@@ -1,97 +1,22 @@
-bip_39_word_dash_12: moon-sight-hotel-wet-call-evidence-brick-crunch-service-alcohol-verb-add
-bip_39_word_dash_2: moon-sight
-bip_39_word_dash_3: moon-sight-hotel
-bip_39_word_new_br_12: moon<br>sight<br>hotel<br>wet<br>call<br>evidence<br>brick<br>crunch<br>service<br>alcohol<br>verb<br>add
-bip_39_word_new_br_2: moon<br>sight
-bip_39_word_new_br_3: moon<br>sight<br>hotel
-bip_39_word_new_line_12: 'moon
-
-  sight
-
-  hotel
-
-  wet
-
-  call
-
-  evidence
-
-  brick
-
-  crunch
-
-  service
-
-  alcohol
-
-  verb
-
-  add'
-bip_39_word_new_line_2: 'moon
-
-  sight'
-bip_39_word_new_line_3: 'moon
-
-  sight
-
-  hotel'
-bip_39_word_no_space_12: moonsighthotelwetcallevidencebrickcrunchservicealcoholverbadd
-bip_39_word_no_space_2: moonsight
-bip_39_word_no_space_3: moonsighthotel
-bip_39_word_space_12: moon sight hotel wet call evidence brick crunch service alcohol
-  verb add
-bip_39_word_space_2: moon sight
-bip_39_word_space_3: moon sight hotel
-bip_39_word_underscore_12: moon_sight_hotel_wet_call_evidence_brick_crunch_service_alcohol_verb_add
-bip_39_word_underscore_2: moon_sight
-bip_39_word_underscore_3: moon_sight_hotel
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_ball_bearing_5_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ball_bearing_5_mm
 id: hardware_ball_bearing_5_mm
 id_no_class: ball_bearing_5_mm
-id_no_color: 5mm
 id_no_size: 5_mm
 id_no_type: 5_mm
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_5_mm
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_ball_bearing_5_mm](none)<br>[5](none)<br>[Hardware Ball
@@ -127,12 +49,11 @@ md5_6: 33e501
 md5_6_alpha: 20w75
 md5_6_alpha_upper: 20W75
 md5_6_upper: 33E501
-name: Hardware Ball Bearing 5 mm
-name_no_class: Ball Bearing 5 mm
-name_no_color: 5mm
-name_no_size: 5 mm
+name: Hardware Ball Bearing 5 Mm
+name_no_class: Ball Bearing 5 Mm
+name_no_size: 5 Mm
 name_no_size_short: 5 Mm
-name_no_type: 5 mm
+name_no_type: 5 Mm
 oomp_key: oomp_hardware_ball_bearing_5_mm
 oomp_word: dog rocket smile
 oomp_word_emoji: ':dog: :rocket: :smile:'
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: '5'
 short_code_upper: '5'
@@ -156,61 +76,11 @@ size: 5_mm
 size_capital: 5 mm
 size_first_letter: '5'
 size_first_letter_upper: '5'
-size_length_1: '5'
-size_length_2: '5_'
-size_length_3: 5_m
-size_length_4: 5_mm
-size_length_5: 5_mm
-size_length_6: 5_mm
-size_name: 5 mm
-size_no_space_length_1: '5'
-size_no_space_length_2: 5m
-size_no_space_length_3: 5mm
-size_no_space_length_4: 5mm
-size_no_space_length_5: 5mm
-size_no_space_length_6: 5mm
-size_no_space_upper_length_1: '5'
-size_no_space_upper_length_2: 5M
-size_no_space_upper_length_3: 5MM
-size_no_space_upper_length_4: 5MM
-size_no_space_upper_length_5: 5MM
-size_no_space_upper_length_6: 5MM
 size_only_numbers: '5'
 size_only_numbers_no_zeros: '5'
 size_upper: 5_MM
-size_upper_length_1: '5'
-size_upper_length_2: '5_'
-size_upper_length_3: 5_M
-size_upper_length_4: 5_MM
-size_upper_length_5: 5_MM
-size_upper_length_6: 5_MM
 type: ball_bearing
 type_capital: Ball Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bal
-type_length_4: ball
-type_length_5: ball_
-type_length_6: ball_b
-type_name: Ball Bearing
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bal
-type_no_space_length_4: ball
-type_no_space_length_5: ballb
-type_no_space_length_6: ballbe
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAL
-type_no_space_upper_length_4: BALL
-type_no_space_upper_length_5: BALLB
-type_no_space_upper_length_6: BALLBE
 type_upper: BALL_BEARING
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAL
-type_upper_length_4: BALL
-type_upper_length_5: BALL_
-type_upper_length_6: BALL_B

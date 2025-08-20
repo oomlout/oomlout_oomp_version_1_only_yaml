@@ -1,97 +1,22 @@
-bip_39_word_dash_12: hello-moral-risk-rebel-current-advance-dirt-pigeon-video-bubble-possible-arrange
-bip_39_word_dash_2: hello-moral
-bip_39_word_dash_3: hello-moral-risk
-bip_39_word_new_br_12: hello<br>moral<br>risk<br>rebel<br>current<br>advance<br>dirt<br>pigeon<br>video<br>bubble<br>possible<br>arrange
-bip_39_word_new_br_2: hello<br>moral
-bip_39_word_new_br_3: hello<br>moral<br>risk
-bip_39_word_new_line_12: 'hello
-
-  moral
-
-  risk
-
-  rebel
-
-  current
-
-  advance
-
-  dirt
-
-  pigeon
-
-  video
-
-  bubble
-
-  possible
-
-  arrange'
-bip_39_word_new_line_2: 'hello
-
-  moral'
-bip_39_word_new_line_3: 'hello
-
-  moral
-
-  risk'
-bip_39_word_no_space_12: hellomoralriskrebelcurrentadvancedirtpigeonvideobubblepossiblearrange
-bip_39_word_no_space_2: hellomoral
-bip_39_word_no_space_3: hellomoralrisk
-bip_39_word_space_12: hello moral risk rebel current advance dirt pigeon video bubble
-  possible arrange
-bip_39_word_space_2: hello moral
-bip_39_word_space_3: hello moral risk
-bip_39_word_underscore_12: hello_moral_risk_rebel_current_advance_dirt_pigeon_video_bubble_possible_arrange
-bip_39_word_underscore_2: hello_moral
-bip_39_word_underscore_3: hello_moral_risk
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_on_the_way_out
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_on_the_way_out
 id: book_on_the_way_out
 id_no_class: on_the_way_out
-id_no_color: onthewayout
 id_no_size: onthewayout
 id_no_type: on_the_way_out
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_on_the_way_out
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_on_the_way_out](none)<br>[](none)<br>[Book On The Way Out](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: 7P5VR
 md5_6_upper: C55107
 name: Book On The Way Out
 name_no_class: On The Way Out
-name_no_color: Onthewayout
 name_no_size: Onthewayout
 name_no_size_short: Onthewayout
 name_no_type: On The Way Out
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,7 +77,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -165,29 +84,4 @@ type: on_the_way_out
 type_capital: On The Way Out
 type_first_letter: o
 type_first_letter_upper: O
-type_length_1: o
-type_length_2: 'on'
-type_length_3: on_
-type_length_4: on_t
-type_length_5: on_th
-type_length_6: on_the
-type_name: On The Way Out
-type_no_space_length_1: o
-type_no_space_length_2: 'on'
-type_no_space_length_3: ont
-type_no_space_length_4: onth
-type_no_space_length_5: onthe
-type_no_space_length_6: onthew
-type_no_space_upper_length_1: O
-type_no_space_upper_length_2: 'ON'
-type_no_space_upper_length_3: ONT
-type_no_space_upper_length_4: ONTH
-type_no_space_upper_length_5: ONTHE
-type_no_space_upper_length_6: ONTHEW
 type_upper: ON_THE_WAY_OUT
-type_upper_length_1: O
-type_upper_length_2: 'ON'
-type_upper_length_3: ON_
-type_upper_length_4: ON_T
-type_upper_length_5: ON_TH
-type_upper_length_6: ON_THE

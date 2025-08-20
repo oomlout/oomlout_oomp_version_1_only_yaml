@@ -1,98 +1,23 @@
-bip_39_word_dash_12: library-mushroom-climb-tip-sun-output-envelope-glimpse-else-swim-dismiss-argue
-bip_39_word_dash_2: library-mushroom
-bip_39_word_dash_3: library-mushroom-climb
-bip_39_word_new_br_12: library<br>mushroom<br>climb<br>tip<br>sun<br>output<br>envelope<br>glimpse<br>else<br>swim<br>dismiss<br>argue
-bip_39_word_new_br_2: library<br>mushroom
-bip_39_word_new_br_3: library<br>mushroom<br>climb
-bip_39_word_new_line_12: 'library
-
-  mushroom
-
-  climb
-
-  tip
-
-  sun
-
-  output
-
-  envelope
-
-  glimpse
-
-  else
-
-  swim
-
-  dismiss
-
-  argue'
-bip_39_word_new_line_2: 'library
-
-  mushroom'
-bip_39_word_new_line_3: 'library
-
-  mushroom
-
-  climb'
-bip_39_word_no_space_12: librarymushroomclimbtipsunoutputenvelopeglimpseelseswimdismissargue
-bip_39_word_no_space_2: librarymushroom
-bip_39_word_no_space_3: librarymushroomclimb
-bip_39_word_space_12: library mushroom climb tip sun output envelope glimpse else
-  swim dismiss argue
-bip_39_word_space_2: library mushroom
-bip_39_word_space_3: library mushroom climb
-bip_39_word_underscore_12: library_mushroom_climb_tip_sun_output_envelope_glimpse_else_swim_dismiss_argue
-bip_39_word_underscore_2: library_mushroom
-bip_39_word_underscore_3: library_mushroom_climb
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_video_game_console
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_video_game_console
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_video_game_console
 id: category_video_game_console
 id_no_class: video_game_console
-id_no_color: videogameconsole
 id_no_size: videogameconsole
 id_no_type: video_game_console
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_video_game_console](none)<br>[](none)<br>[Category Video
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 775IU
 md5_6_upper: B87EB6
 name: Category Video Game Console
 name_no_class: Video Game Console
-name_no_color: Videogameconsole
 name_no_size: Videogameconsole
 name_no_size_short: Videogameconsole
 name_no_type: Video Game Console
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -169,29 +88,4 @@ type: video_game_console
 type_capital: Video Game Console
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vid
-type_length_4: vide
-type_length_5: video
-type_length_6: video_
-type_name: Video Game Console
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vid
-type_no_space_length_4: vide
-type_no_space_length_5: video
-type_no_space_length_6: videog
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VID
-type_no_space_upper_length_4: VIDE
-type_no_space_upper_length_5: VIDEO
-type_no_space_upper_length_6: VIDEOG
 type_upper: VIDEO_GAME_CONSOLE
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VID
-type_upper_length_4: VIDE
-type_upper_length_5: VIDEO
-type_upper_length_6: VIDEO_

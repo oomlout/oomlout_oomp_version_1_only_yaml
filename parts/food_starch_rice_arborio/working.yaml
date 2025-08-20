@@ -1,122 +1,23 @@
-bip_39_word_dash_12: general-casino-laugh-ten-message-mixture-scorpion-trial-coconut-cry-about-artist
-bip_39_word_dash_2: general-casino
-bip_39_word_dash_3: general-casino-laugh
-bip_39_word_new_br_12: general<br>casino<br>laugh<br>ten<br>message<br>mixture<br>scorpion<br>trial<br>coconut<br>cry<br>about<br>artist
-bip_39_word_new_br_2: general<br>casino
-bip_39_word_new_br_3: general<br>casino<br>laugh
-bip_39_word_new_line_12: 'general
-
-  casino
-
-  laugh
-
-  ten
-
-  message
-
-  mixture
-
-  scorpion
-
-  trial
-
-  coconut
-
-  cry
-
-  about
-
-  artist'
-bip_39_word_new_line_2: 'general
-
-  casino'
-bip_39_word_new_line_3: 'general
-
-  casino
-
-  laugh'
-bip_39_word_no_space_12: generalcasinolaughtenmessagemixturescorpiontrialcoconutcryaboutartist
-bip_39_word_no_space_2: generalcasino
-bip_39_word_no_space_3: generalcasinolaugh
-bip_39_word_space_12: general casino laugh ten message mixture scorpion trial coconut
-  cry about artist
-bip_39_word_space_2: general casino
-bip_39_word_space_3: general casino laugh
-bip_39_word_underscore_12: general_casino_laugh_ten_message_mixture_scorpion_trial_coconut_cry_about_artist
-bip_39_word_underscore_2: general_casino
-bip_39_word_underscore_3: general_casino_laugh
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: arborio
 color_capital: Arborio
 color_first_letter: a
 color_first_letter_upper: A
-color_length_1: a
-color_length_2: ar
-color_length_3: arb
-color_length_4: arbo
-color_length_5: arbor
-color_length_6: arbori
-color_name: Arborio
-color_no_space_length_1: a
-color_no_space_length_2: ar
-color_no_space_length_3: arb
-color_no_space_length_4: arbo
-color_no_space_length_5: arbor
-color_no_space_length_6: arbori
-color_no_space_upper_length_1: A
-color_no_space_upper_length_2: AR
-color_no_space_upper_length_3: ARB
-color_no_space_upper_length_4: ARBO
-color_no_space_upper_length_5: ARBOR
-color_no_space_upper_length_6: ARBORI
 color_upper: ARBORIO
-color_upper_length_1: A
-color_upper_length_2: AR
-color_upper_length_3: ARB
-color_upper_length_4: ARBO
-color_upper_length_5: ARBOR
-color_upper_length_6: ARBORI
 description: rice_arborio
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/food_starch_rice_arborio
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_arborio
 id: food_starch_rice_arborio
 id_no_class: starch_rice_arborio
-id_no_color: arborio
 id_no_size: arborio
 id_no_type: rice_arborio
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_arborio
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_starch_rice_arborio](none)<br>[](none)<br>[Food Starch Rice
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 846A5
 md5_6_upper: D000CD
 name: Food Starch Rice Arborio
 name_no_class: Starch Rice Arborio
-name_no_color: Arborio
 name_no_size: Arborio
 name_no_size_short: Arborio
 name_no_type: Rice Arborio
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: rice
 size_capital: Rice
 size_first_letter: r
 size_first_letter_upper: R
-size_length_1: r
-size_length_2: ri
-size_length_3: ric
-size_length_4: rice
-size_length_5: rice
-size_length_6: rice
-size_name: Rice
-size_no_space_length_1: r
-size_no_space_length_2: ri
-size_no_space_length_3: ric
-size_no_space_length_4: rice
-size_no_space_length_5: rice
-size_no_space_length_6: rice
-size_no_space_upper_length_1: R
-size_no_space_upper_length_2: RI
-size_no_space_upper_length_3: RIC
-size_no_space_upper_length_4: RICE
-size_no_space_upper_length_5: RICE
-size_no_space_upper_length_6: RICE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: RICE
-size_upper_length_1: R
-size_upper_length_2: RI
-size_upper_length_3: RIC
-size_upper_length_4: RICE
-size_upper_length_5: RICE
-size_upper_length_6: RICE
 type: starch
 type_capital: Starch
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: star
-type_length_5: starc
-type_length_6: starch
-type_name: Starch
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: star
-type_no_space_length_5: starc
-type_no_space_length_6: starch
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAR
-type_no_space_upper_length_5: STARC
-type_no_space_upper_length_6: STARCH
 type_upper: STARCH
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAR
-type_upper_length_5: STARC
-type_upper_length_6: STARCH

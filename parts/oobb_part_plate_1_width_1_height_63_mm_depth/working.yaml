@@ -1,132 +1,31 @@
-bip_39_word_dash_12: illegal-two-awkward-nation-jungle-scene-trophy-spare-rescue-main-sponsor-angry
-bip_39_word_dash_2: illegal-two
-bip_39_word_dash_3: illegal-two-awkward
-bip_39_word_new_br_12: illegal<br>two<br>awkward<br>nation<br>jungle<br>scene<br>trophy<br>spare<br>rescue<br>main<br>sponsor<br>angry
-bip_39_word_new_br_2: illegal<br>two
-bip_39_word_new_br_3: illegal<br>two<br>awkward
-bip_39_word_new_line_12: 'illegal
-
-  two
-
-  awkward
-
-  nation
-
-  jungle
-
-  scene
-
-  trophy
-
-  spare
-
-  rescue
-
-  main
-
-  sponsor
-
-  angry'
-bip_39_word_new_line_2: 'illegal
-
-  two'
-bip_39_word_new_line_3: 'illegal
-
-  two
-
-  awkward'
-bip_39_word_no_space_12: illegaltwoawkwardnationjunglescenetrophysparerescuemainsponsorangry
-bip_39_word_no_space_2: illegaltwo
-bip_39_word_no_space_3: illegaltwoawkward
-bip_39_word_space_12: illegal two awkward nation jungle scene trophy spare rescue
-  main sponsor angry
-bip_39_word_space_2: illegal two
-bip_39_word_space_3: illegal two awkward
-bip_39_word_underscore_12: illegal_two_awkward_nation_jungle_scene_trophy_spare_rescue_main_sponsor_angry
-bip_39_word_underscore_2: illegal_two
-bip_39_word_underscore_3: illegal_two_awkward
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 1_width_1_height_63_mm_depth
 description_main_capital: 1 Width 1 Height 63 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '1_'
-description_main_length_3: 1_w
-description_main_length_4: 1_wi
-description_main_length_5: 1_wid
-description_main_length_6: 1_widt
-description_main_name: 1 Width 1 Height 63 mm Depth
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: 1w
-description_main_no_space_length_3: 1wi
-description_main_no_space_length_4: 1wid
-description_main_no_space_length_5: 1widt
-description_main_no_space_length_6: 1width
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: 1W
-description_main_no_space_upper_length_3: 1WI
-description_main_no_space_upper_length_4: 1WID
-description_main_no_space_upper_length_5: 1WIDT
-description_main_no_space_upper_length_6: 1WIDTH
 description_main_upper: 1_WIDTH_1_HEIGHT_63_MM_DEPTH
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '1_'
-description_main_upper_length_3: 1_W
-description_main_upper_length_4: 1_WI
-description_main_upper_length_5: 1_WID
-description_main_upper_length_6: 1_WIDT
 description_only_numbers: '1163'
 description_only_numbers_short: 1k1
 description_or_color: 1k1
 description_or_color_upper: 1K1
 directory: parts/oobb_part_plate_1_width_1_height_63_mm_depth
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_plate_1_width_1_height_63_mm_depth
 id: oobb_part_plate_1_width_1_height_63_mm_depth
 id_no_class: part_plate_1_width_1_height_63_mm_depth
-id_no_color: 1width1height63mmdepth
 id_no_size: 1_width_1_height_63_mm_depth
 id_no_type: plate_1_width_1_height_63_mm_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_plate_1_width_1_height_63_mm_depth
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_plate_1_width_1_height_63_mm_depth](none)<br>[](none)<br>[Oobb
@@ -151,12 +49,11 @@ md5_6: 8fa4e1
 md5_6_alpha: 5lrs1
 md5_6_alpha_upper: 5LRS1
 md5_6_upper: 8FA4E1
-name: Oobb Part Plate 1 Width 1 Height 63 mm Depth
-name_no_class: Part Plate 1 Width 1 Height 63 mm Depth
-name_no_color: 1Width1Height63mmdepth
-name_no_size: 1 Width 1 Height 63 mm Depth
+name: Oobb Part Plate 1 Width 1 Height 63 Mm Depth
+name_no_class: Part Plate 1 Width 1 Height 63 Mm Depth
+name_no_size: 1 Width 1 Height 63 Mm Depth
 name_no_size_short: 1 Width 1 Height 63 Mm Depth
-name_no_type: Plate 1 Width 1 Height 63 mm Depth
+name_no_type: Plate 1 Width 1 Height 63 Mm Depth
 oomp_key: oomp_oobb_part_plate_1_width_1_height_63_mm_depth
 oomp_word: calendar book boat
 oomp_word_emoji: ':calendar: :book: :boat:'
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,61 +77,11 @@ size: plate
 size_capital: Plate
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pl
-size_length_3: pla
-size_length_4: plat
-size_length_5: plate
-size_length_6: plate
-size_name: Plate
-size_no_space_length_1: p
-size_no_space_length_2: pl
-size_no_space_length_3: pla
-size_no_space_length_4: plat
-size_no_space_length_5: plate
-size_no_space_length_6: plate
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PL
-size_no_space_upper_length_3: PLA
-size_no_space_upper_length_4: PLAT
-size_no_space_upper_length_5: PLATE
-size_no_space_upper_length_6: PLATE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PLATE
-size_upper_length_1: P
-size_upper_length_2: PL
-size_upper_length_3: PLA
-size_upper_length_4: PLAT
-size_upper_length_5: PLATE
-size_upper_length_6: PLATE
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

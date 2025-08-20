@@ -1,146 +1,23 @@
-bip_39_word_dash_12: gorilla-siege-blast-maple-umbrella-deer-erode-call-ice-correct-tip-achieve
-bip_39_word_dash_2: gorilla-siege
-bip_39_word_dash_3: gorilla-siege-blast
-bip_39_word_new_br_12: gorilla<br>siege<br>blast<br>maple<br>umbrella<br>deer<br>erode<br>call<br>ice<br>correct<br>tip<br>achieve
-bip_39_word_new_br_2: gorilla<br>siege
-bip_39_word_new_br_3: gorilla<br>siege<br>blast
-bip_39_word_new_line_12: 'gorilla
-
-  siege
-
-  blast
-
-  maple
-
-  umbrella
-
-  deer
-
-  erode
-
-  call
-
-  ice
-
-  correct
-
-  tip
-
-  achieve'
-bip_39_word_new_line_2: 'gorilla
-
-  siege'
-bip_39_word_new_line_3: 'gorilla
-
-  siege
-
-  blast'
-bip_39_word_no_space_12: gorillasiegeblastmapleumbrelladeererodecallicecorrecttipachieve
-bip_39_word_no_space_2: gorillasiege
-bip_39_word_no_space_3: gorillasiegeblast
-bip_39_word_space_12: gorilla siege blast maple umbrella deer erode call ice correct
-  tip achieve
-bip_39_word_space_2: gorilla siege
-bip_39_word_space_3: gorilla siege blast
-bip_39_word_underscore_12: gorilla_siege_blast_maple_umbrella_deer_erode_call_ice_correct_tip_achieve
-bip_39_word_underscore_2: gorilla_siege
-bip_39_word_underscore_3: gorilla_siege_blast
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 62000_series
 color_capital: 62000 Series
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '62'
-color_length_3: '620'
-color_length_4: '6200'
-color_length_5: '62000'
-color_length_6: '62000_'
-color_name: 62000 Series
-color_no_space_length_1: '6'
-color_no_space_length_2: '62'
-color_no_space_length_3: '620'
-color_no_space_length_4: '6200'
-color_no_space_length_5: '62000'
-color_no_space_length_6: 62000s
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: '62'
-color_no_space_upper_length_3: '620'
-color_no_space_upper_length_4: '6200'
-color_no_space_upper_length_5: '62000'
-color_no_space_upper_length_6: 62000S
 color_upper: 62000_SERIES
-color_upper_length_1: '6'
-color_upper_length_2: '62'
-color_upper_length_3: '620'
-color_upper_length_4: '6200'
-color_upper_length_5: '62000'
-color_upper_length_6: '62000_'
 description: category_hardware
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_hardware_bearing_62000_series_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_bearing_62000_series_tote
 id: category_hardware_bearing_62000_series_tote
 id_no_class: hardware_bearing_62000_series_tote
-id_no_color: tote
 id_no_size: 62000_series_tote
 id_no_type: bearing_62000_series_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_62000_series_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_bearing_62000_series_tote](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 15TE4
 md5_6_upper: 1DC50C
 name: Category Hardware Bearing 62000 Series Tote
 name_no_class: Hardware Bearing 62000 Series Tote
-name_no_color: Tote
 name_no_size: 62000 Series Tote
 name_no_size_short: 62000 Series Tote
 name_no_type: Bearing 62000 Series Tote
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: bearing
 size_capital: Bearing
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: be
-size_length_3: bea
-size_length_4: bear
-size_length_5: beari
-size_length_6: bearin
-size_name: Bearing
-size_no_space_length_1: b
-size_no_space_length_2: be
-size_no_space_length_3: bea
-size_no_space_length_4: bear
-size_no_space_length_5: beari
-size_no_space_length_6: bearin
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BE
-size_no_space_upper_length_3: BEA
-size_no_space_upper_length_4: BEAR
-size_no_space_upper_length_5: BEARI
-size_no_space_upper_length_6: BEARIN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BEARING
-size_upper_length_1: B
-size_upper_length_2: BE
-size_upper_length_3: BEA
-size_upper_length_4: BEAR
-size_upper_length_5: BEARI
-size_upper_length_6: BEARIN
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

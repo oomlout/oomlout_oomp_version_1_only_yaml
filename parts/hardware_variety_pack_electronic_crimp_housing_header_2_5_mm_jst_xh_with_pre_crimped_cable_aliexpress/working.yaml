@@ -1,122 +1,23 @@
-bip_39_word_dash_12: opera-fabric-together-frozen-actress-year-undo-joy-omit-skull-duty-anger
-bip_39_word_dash_2: opera-fabric
-bip_39_word_dash_3: opera-fabric-together
-bip_39_word_new_br_12: opera<br>fabric<br>together<br>frozen<br>actress<br>year<br>undo<br>joy<br>omit<br>skull<br>duty<br>anger
-bip_39_word_new_br_2: opera<br>fabric
-bip_39_word_new_br_3: opera<br>fabric<br>together
-bip_39_word_new_line_12: 'opera
-
-  fabric
-
-  together
-
-  frozen
-
-  actress
-
-  year
-
-  undo
-
-  joy
-
-  omit
-
-  skull
-
-  duty
-
-  anger'
-bip_39_word_new_line_2: 'opera
-
-  fabric'
-bip_39_word_new_line_3: 'opera
-
-  fabric
-
-  together'
-bip_39_word_no_space_12: operafabrictogetherfrozenactressyearundojoyomitskulldutyanger
-bip_39_word_no_space_2: operafabric
-bip_39_word_no_space_3: operafabrictogether
-bip_39_word_space_12: opera fabric together frozen actress year undo joy omit skull
-  duty anger
-bip_39_word_space_2: opera fabric
-bip_39_word_space_3: opera fabric together
-bip_39_word_underscore_12: opera_fabric_together_frozen_actress_year_undo_joy_omit_skull_duty_anger
-bip_39_word_underscore_2: opera_fabric
-bip_39_word_underscore_3: opera_fabric_together
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: with_pre_crimped_cable
 description_main_capital: With Pre Crimped Cable
 description_main_first_letter: w
 description_main_first_letter_upper: W
-description_main_length_1: w
-description_main_length_2: wi
-description_main_length_3: wit
-description_main_length_4: with
-description_main_length_5: with_
-description_main_length_6: with_p
-description_main_name: With Pre Crimped Cable
-description_main_no_space_length_1: w
-description_main_no_space_length_2: wi
-description_main_no_space_length_3: wit
-description_main_no_space_length_4: with
-description_main_no_space_length_5: withp
-description_main_no_space_length_6: withpr
-description_main_no_space_upper_length_1: W
-description_main_no_space_upper_length_2: WI
-description_main_no_space_upper_length_3: WIT
-description_main_no_space_upper_length_4: WITH
-description_main_no_space_upper_length_5: WITHP
-description_main_no_space_upper_length_6: WITHPR
 description_main_upper: WITH_PRE_CRIMPED_CABLE
-description_main_upper_length_1: W
-description_main_upper_length_2: WI
-description_main_upper_length_3: WIT
-description_main_upper_length_4: WITH
-description_main_upper_length_5: WITH_
-description_main_upper_length_6: WITH_P
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -125,10 +26,8 @@ directory: parts/hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_js
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
 id: hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
 id_no_class: variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
-id_no_color: withprecrimpedcablealiexpress
 id_no_size: with_pre_crimped_cable_aliexpress
 id_no_type: electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
 kicad_reference: ''
@@ -140,32 +39,7 @@ manufacturer: aliexpress
 manufacturer_capital: Aliexpress
 manufacturer_first_letter: a
 manufacturer_first_letter_upper: A
-manufacturer_length_1: a
-manufacturer_length_2: al
-manufacturer_length_3: ali
-manufacturer_length_4: alie
-manufacturer_length_5: aliex
-manufacturer_length_6: aliexp
-manufacturer_name: Aliexpress
-manufacturer_no_space_length_1: a
-manufacturer_no_space_length_2: al
-manufacturer_no_space_length_3: ali
-manufacturer_no_space_length_4: alie
-manufacturer_no_space_length_5: aliex
-manufacturer_no_space_length_6: aliexp
-manufacturer_no_space_upper_length_1: A
-manufacturer_no_space_upper_length_2: AL
-manufacturer_no_space_upper_length_3: ALI
-manufacturer_no_space_upper_length_4: ALIE
-manufacturer_no_space_upper_length_5: ALIEX
-manufacturer_no_space_upper_length_6: ALIEXP
 manufacturer_upper: ALIEXPRESS
-manufacturer_upper_length_1: A
-manufacturer_upper_length_2: AL
-manufacturer_upper_length_3: ALI
-manufacturer_upper_length_4: ALIE
-manufacturer_upper_length_5: ALIEX
-manufacturer_upper_length_6: ALIEXP
 manufacturers: []
 markdown_full: '[hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress](none)<br>[](none)<br>[Hardware
   Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre Crimped Cable
@@ -180,14 +54,13 @@ md5_6: 8a8932
 md5_6_alpha: 5elgy
 md5_6_alpha_upper: 5ELGY
 md5_6_upper: 8A8932
-name: Hardware Variety Pack Electronic Crimp Housing Header 2 5 mm Jst Xh With Pre
+name: Hardware Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre
   Crimped Cable Aliexpress
-name_no_class: Variety Pack Electronic Crimp Housing Header 2 5 mm Jst Xh With Pre
+name_no_class: Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre
   Crimped Cable Aliexpress
-name_no_color: Withprecrimpedcablealiexpress
 name_no_size: With Pre Crimped Cable Aliexpress
 name_no_size_short: With Pre Crimped Cable Aliexpress
-name_no_type: Electronic Crimp Housing Header 2 5 mm Jst Xh With Pre Crimped Cable
+name_no_type: Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre Crimped Cable
   Aliexpress
 oomp_key: oomp_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
 oomp_word: envelope hammer cat
@@ -205,7 +78,6 @@ part_number_capital: ''
 part_number_distributor_aliexpress: '1005006126557275'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 search_term_aliexpress: 2.54mm XH Connector Socket Kit with Pre-Crimped Cable Wire
   2/3/4/5/6/7 Pin Housing JST Adapter Cable Male and Female Compatible
@@ -215,61 +87,11 @@ size: electronic_crimp_housing_header_2_5_mm_jst_xh
 size_capital: Electronic Crimp Housing Header 2.5 mm Jst Xh
 size_first_letter: e
 size_first_letter_upper: E
-size_length_1: e
-size_length_2: el
-size_length_3: ele
-size_length_4: elec
-size_length_5: elect
-size_length_6: electr
-size_name: Electronic Crimp Housing Header 2 5 mm Jst Xh
-size_no_space_length_1: e
-size_no_space_length_2: el
-size_no_space_length_3: ele
-size_no_space_length_4: elec
-size_no_space_length_5: elect
-size_no_space_length_6: electr
-size_no_space_upper_length_1: E
-size_no_space_upper_length_2: EL
-size_no_space_upper_length_3: ELE
-size_no_space_upper_length_4: ELEC
-size_no_space_upper_length_5: ELECT
-size_no_space_upper_length_6: ELECTR
 size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
 size_upper: ELECTRONIC_CRIMP_HOUSING_HEADER_2_5_MM_JST_XH
-size_upper_length_1: E
-size_upper_length_2: EL
-size_upper_length_3: ELE
-size_upper_length_4: ELEC
-size_upper_length_5: ELECT
-size_upper_length_6: ELECTR
 type: variety_pack
 type_capital: Variety Pack
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: va
-type_length_3: var
-type_length_4: vari
-type_length_5: varie
-type_length_6: variet
-type_name: Variety Pack
-type_no_space_length_1: v
-type_no_space_length_2: va
-type_no_space_length_3: var
-type_no_space_length_4: vari
-type_no_space_length_5: varie
-type_no_space_length_6: variet
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VA
-type_no_space_upper_length_3: VAR
-type_no_space_upper_length_4: VARI
-type_no_space_upper_length_5: VARIE
-type_no_space_upper_length_6: VARIET
 type_upper: VARIETY_PACK
-type_upper_length_1: V
-type_upper_length_2: VA
-type_upper_length_3: VAR
-type_upper_length_4: VARI
-type_upper_length_5: VARIE
-type_upper_length_6: VARIET

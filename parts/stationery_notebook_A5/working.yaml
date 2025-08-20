@@ -1,97 +1,22 @@
-bip_39_word_dash_12: pass-ritual-legal-dignity-fantasy-follow-method-nest-dose-unveil-lazy-account
-bip_39_word_dash_2: pass-ritual
-bip_39_word_dash_3: pass-ritual-legal
-bip_39_word_new_br_12: pass<br>ritual<br>legal<br>dignity<br>fantasy<br>follow<br>method<br>nest<br>dose<br>unveil<br>lazy<br>account
-bip_39_word_new_br_2: pass<br>ritual
-bip_39_word_new_br_3: pass<br>ritual<br>legal
-bip_39_word_new_line_12: 'pass
-
-  ritual
-
-  legal
-
-  dignity
-
-  fantasy
-
-  follow
-
-  method
-
-  nest
-
-  dose
-
-  unveil
-
-  lazy
-
-  account'
-bip_39_word_new_line_2: 'pass
-
-  ritual'
-bip_39_word_new_line_3: 'pass
-
-  ritual
-
-  legal'
-bip_39_word_no_space_12: passrituallegaldignityfantasyfollowmethodnestdoseunveillazyaccount
-bip_39_word_no_space_2: passritual
-bip_39_word_no_space_3: passrituallegal
-bip_39_word_space_12: pass ritual legal dignity fantasy follow method nest dose unveil
-  lazy account
-bip_39_word_space_2: pass ritual
-bip_39_word_space_3: pass ritual legal
-bip_39_word_underscore_12: pass_ritual_legal_dignity_fantasy_follow_method_nest_dose_unveil_lazy_account
-bip_39_word_underscore_2: pass_ritual
-bip_39_word_underscore_3: pass_ritual_legal
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/stationery_notebook_A5
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_notebook_A5
 id: stationery_notebook_A5
 id_no_class: notebook_A5
-id_no_color: A5
 id_no_size: A5
 id_no_type: A5
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A5
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[stationery_notebook_A5](none)<br>[](none)<br>[Stationery Notebook
@@ -129,7 +51,6 @@ md5_6_alpha_upper: Z3LN
 md5_6_upper: 18FCFB
 name: Stationery Notebook A5
 name_no_class: Notebook A5
-name_no_color: A5
 name_no_size: A5
 name_no_size_short: A5
 name_no_type: A5
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: A5
 size_capital: A5
 size_first_letter: A
 size_first_letter_upper: A
-size_length_1: A
-size_length_2: A5
-size_length_3: A5
-size_length_4: A5
-size_length_5: A5
-size_length_6: A5
-size_name: A5
-size_no_space_length_1: A
-size_no_space_length_2: A5
-size_no_space_length_3: A5
-size_no_space_length_4: A5
-size_no_space_length_5: A5
-size_no_space_length_6: A5
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A5
-size_no_space_upper_length_3: A5
-size_no_space_upper_length_4: A5
-size_no_space_upper_length_5: A5
-size_no_space_upper_length_6: A5
 size_only_numbers: '5'
 size_only_numbers_no_zeros: '5'
 size_upper: A5
-size_upper_length_1: A
-size_upper_length_2: A5
-size_upper_length_3: A5
-size_upper_length_4: A5
-size_upper_length_5: A5
-size_upper_length_6: A5
 type: notebook
 type_capital: Notebook
 type_first_letter: n
 type_first_letter_upper: N
-type_length_1: n
-type_length_2: 'no'
-type_length_3: not
-type_length_4: note
-type_length_5: noteb
-type_length_6: notebo
-type_name: Notebook
-type_no_space_length_1: n
-type_no_space_length_2: 'no'
-type_no_space_length_3: not
-type_no_space_length_4: note
-type_no_space_length_5: noteb
-type_no_space_length_6: notebo
-type_no_space_upper_length_1: N
-type_no_space_upper_length_2: 'NO'
-type_no_space_upper_length_3: NOT
-type_no_space_upper_length_4: NOTE
-type_no_space_upper_length_5: NOTEB
-type_no_space_upper_length_6: NOTEBO
 type_upper: NOTEBOOK
-type_upper_length_1: N
-type_upper_length_2: 'NO'
-type_upper_length_3: NOT
-type_upper_length_4: NOTE
-type_upper_length_5: NOTEB
-type_upper_length_6: NOTEBO

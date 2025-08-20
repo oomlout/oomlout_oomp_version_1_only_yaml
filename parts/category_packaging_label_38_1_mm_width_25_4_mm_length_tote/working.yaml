@@ -1,146 +1,23 @@
-bip_39_word_dash_12: step-adult-cotton-lock-interest-slight-jungle-term-special-helmet-only-allow
-bip_39_word_dash_2: step-adult
-bip_39_word_dash_3: step-adult-cotton
-bip_39_word_new_br_12: step<br>adult<br>cotton<br>lock<br>interest<br>slight<br>jungle<br>term<br>special<br>helmet<br>only<br>allow
-bip_39_word_new_br_2: step<br>adult
-bip_39_word_new_br_3: step<br>adult<br>cotton
-bip_39_word_new_line_12: 'step
-
-  adult
-
-  cotton
-
-  lock
-
-  interest
-
-  slight
-
-  jungle
-
-  term
-
-  special
-
-  helmet
-
-  only
-
-  allow'
-bip_39_word_new_line_2: 'step
-
-  adult'
-bip_39_word_new_line_3: 'step
-
-  adult
-
-  cotton'
-bip_39_word_no_space_12: stepadultcottonlockinterestslightjungletermspecialhelmetonlyallow
-bip_39_word_no_space_2: stepadult
-bip_39_word_no_space_3: stepadultcotton
-bip_39_word_space_12: step adult cotton lock interest slight jungle term special helmet
-  only allow
-bip_39_word_space_2: step adult
-bip_39_word_space_3: step adult cotton
-bip_39_word_underscore_12: step_adult_cotton_lock_interest_slight_jungle_term_special_helmet_only_allow
-bip_39_word_underscore_2: step_adult
-bip_39_word_underscore_3: step_adult_cotton
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 38_1_mm_width_25_4_mm_length
 color_capital: 38.1 mm Width 25.4 mm Length
 color_first_letter: '3'
 color_first_letter_upper: '3'
-color_length_1: '3'
-color_length_2: '38'
-color_length_3: '38_'
-color_length_4: '38_1'
-color_length_5: '38_1_'
-color_length_6: 38_1_m
-color_name: 38 1 mm Width 25 4 mm Length
-color_no_space_length_1: '3'
-color_no_space_length_2: '38'
-color_no_space_length_3: '381'
-color_no_space_length_4: 381m
-color_no_space_length_5: 381mm
-color_no_space_length_6: 381mmw
-color_no_space_upper_length_1: '3'
-color_no_space_upper_length_2: '38'
-color_no_space_upper_length_3: '381'
-color_no_space_upper_length_4: 381M
-color_no_space_upper_length_5: 381MM
-color_no_space_upper_length_6: 381MMW
 color_upper: 38_1_MM_WIDTH_25_4_MM_LENGTH
-color_upper_length_1: '3'
-color_upper_length_2: '38'
-color_upper_length_3: '38_'
-color_upper_length_4: '38_1'
-color_upper_length_5: '38_1_'
-color_upper_length_6: 38_1_M
 description: category_packaging
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 id: category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 id_no_class: packaging_label_38_1_mm_width_25_4_mm_length_tote
-id_no_color: tote
 id_no_size: 38_1_mm_width_25_4_mm_length_tote
 id_no_type: label_38_1_mm_width_25_4_mm_length_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_packaging_label_38_1_mm_width_25_4_mm_length_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: 6b361a
 md5_6_alpha: 46lga
 md5_6_alpha_upper: 46LGA
 md5_6_upper: 6B361A
-name: Category Packaging Label 38 1 mm Width 25 4 mm Length Tote
-name_no_class: Packaging Label 38 1 mm Width 25 4 mm Length Tote
-name_no_color: Tote
-name_no_size: 38 1 mm Width 25 4 mm Length Tote
+name: Category Packaging Label 38 1 Mm Width 25 4 Mm Length Tote
+name_no_class: Packaging Label 38 1 Mm Width 25 4 Mm Length Tote
+name_no_size: 38 1 Mm Width 25 4 Mm Length Tote
 name_no_size_short: 38 1 Mm Width 25 4 Mm Length Tote
-name_no_type: Label 38 1 mm Width 25 4 mm Length Tote
+name_no_type: Label 38 1 Mm Width 25 4 Mm Length Tote
 oomp_key: oomp_category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 oomp_word: chestnut rabbit clap
 oomp_word_emoji: ':chestnut: :rabbit: :clap:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: label
 size_capital: Label
 size_first_letter: l
 size_first_letter_upper: L
-size_length_1: l
-size_length_2: la
-size_length_3: lab
-size_length_4: labe
-size_length_5: label
-size_length_6: label
-size_name: Label
-size_no_space_length_1: l
-size_no_space_length_2: la
-size_no_space_length_3: lab
-size_no_space_length_4: labe
-size_no_space_length_5: label
-size_no_space_length_6: label
-size_no_space_upper_length_1: L
-size_no_space_upper_length_2: LA
-size_no_space_upper_length_3: LAB
-size_no_space_upper_length_4: LABE
-size_no_space_upper_length_5: LABEL
-size_no_space_upper_length_6: LABEL
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: LABEL
-size_upper_length_1: L
-size_upper_length_2: LA
-size_upper_length_3: LAB
-size_upper_length_4: LABE
-size_upper_length_5: LABEL
-size_upper_length_6: LABEL
 type: packaging
 type_capital: Packaging
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pac
-type_length_4: pack
-type_length_5: packa
-type_length_6: packag
-type_name: Packaging
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pac
-type_no_space_length_4: pack
-type_no_space_length_5: packa
-type_no_space_length_6: packag
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAC
-type_no_space_upper_length_4: PACK
-type_no_space_upper_length_5: PACKA
-type_no_space_upper_length_6: PACKAG
 type_upper: PACKAGING
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAC
-type_upper_length_4: PACK
-type_upper_length_5: PACKA
-type_upper_length_6: PACKAG

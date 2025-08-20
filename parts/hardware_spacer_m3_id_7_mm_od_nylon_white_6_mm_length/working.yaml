@@ -1,146 +1,23 @@
-bip_39_word_dash_12: mask-time-supreme-dress-vanish-hungry-thunder-gallery-similar-game-night-accident
-bip_39_word_dash_2: mask-time
-bip_39_word_dash_3: mask-time-supreme
-bip_39_word_new_br_12: mask<br>time<br>supreme<br>dress<br>vanish<br>hungry<br>thunder<br>gallery<br>similar<br>game<br>night<br>accident
-bip_39_word_new_br_2: mask<br>time
-bip_39_word_new_br_3: mask<br>time<br>supreme
-bip_39_word_new_line_12: 'mask
-
-  time
-
-  supreme
-
-  dress
-
-  vanish
-
-  hungry
-
-  thunder
-
-  gallery
-
-  similar
-
-  game
-
-  night
-
-  accident'
-bip_39_word_new_line_2: 'mask
-
-  time'
-bip_39_word_new_line_3: 'mask
-
-  time
-
-  supreme'
-bip_39_word_no_space_12: masktimesupremedressvanishhungrythundergallerysimilargamenightaccident
-bip_39_word_no_space_2: masktime
-bip_39_word_no_space_3: masktimesupreme
-bip_39_word_space_12: mask time supreme dress vanish hungry thunder gallery similar
-  game night accident
-bip_39_word_space_2: mask time
-bip_39_word_space_3: mask time supreme
-bip_39_word_underscore_12: mask_time_supreme_dress_vanish_hungry_thunder_gallery_similar_game_night_accident
-bip_39_word_underscore_2: mask_time
-bip_39_word_underscore_3: mask_time_supreme
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: nylon_white
 color_capital: Nylon White
 color_first_letter: n
 color_first_letter_upper: N
-color_length_1: n
-color_length_2: ny
-color_length_3: nyl
-color_length_4: nylo
-color_length_5: nylon
-color_length_6: nylon_
-color_name: Nylon White
-color_no_space_length_1: n
-color_no_space_length_2: ny
-color_no_space_length_3: nyl
-color_no_space_length_4: nylo
-color_no_space_length_5: nylon
-color_no_space_length_6: nylonw
-color_no_space_upper_length_1: N
-color_no_space_upper_length_2: NY
-color_no_space_upper_length_3: NYL
-color_no_space_upper_length_4: NYLO
-color_no_space_upper_length_5: NYLON
-color_no_space_upper_length_6: NYLONW
 color_upper: NYLON_WHITE
-color_upper_length_1: N
-color_upper_length_2: NY
-color_upper_length_3: NYL
-color_upper_length_4: NYLO
-color_upper_length_5: NYLON
-color_upper_length_6: NYLON_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 6_mm_length
 description_main_capital: 6 mm Length
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
-description_main_length_1: '6'
-description_main_length_2: '6_'
-description_main_length_3: 6_m
-description_main_length_4: 6_mm
-description_main_length_5: 6_mm_
-description_main_length_6: 6_mm_l
-description_main_name: 6 mm Length
-description_main_no_space_length_1: '6'
-description_main_no_space_length_2: 6m
-description_main_no_space_length_3: 6mm
-description_main_no_space_length_4: 6mml
-description_main_no_space_length_5: 6mmle
-description_main_no_space_length_6: 6mmlen
-description_main_no_space_upper_length_1: '6'
-description_main_no_space_upper_length_2: 6M
-description_main_no_space_upper_length_3: 6MM
-description_main_no_space_upper_length_4: 6MML
-description_main_no_space_upper_length_5: 6MMLE
-description_main_no_space_upper_length_6: 6MMLEN
 description_main_upper: 6_MM_LENGTH
-description_main_upper_length_1: '6'
-description_main_upper_length_2: '6_'
-description_main_upper_length_3: 6_M
-description_main_upper_length_4: 6_MM
-description_main_upper_length_5: 6_MM_
-description_main_upper_length_6: 6_MM_L
 description_only_numbers: '6'
 description_only_numbers_short: '6'
 description_or_color: N6
@@ -149,10 +26,8 @@ directory: parts/hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length
 id: hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length
 id_no_class: spacer_m3_id_7_mm_od_nylon_white_6_mm_length
-id_no_color: 6_mm_length
 id_no_size: nylon_white_6_mm_length
 id_no_type: m3_id_7_mm_od_nylon_white_6_mm_length
 kicad_reference: ''
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length](none)<br>[6](none)<br>[Hardware
@@ -178,32 +52,11 @@ md5_6: 172b17
 md5_6_alpha: wjkn
 md5_6_alpha_upper: WJKN
 md5_6_upper: 172B17
-name: Hardware Spacer M3 ID 7 mm OD Nylon White 6 mm Length
-name_no_class: Spacer M3 ID 7 mm OD Nylon White 6 mm Length
-name_no_color: 6 mm Length
-name_no_size: Nylon White 6 mm Length
+name: Hardware Spacer M3 Id 7 Mm Od Nylon White 6 Mm Length
+name_no_class: Spacer M3 Id 7 Mm Od Nylon White 6 Mm Length
+name_no_size: Nylon White 6 Mm Length
 name_no_size_short: Nylon White 6 Mm Length
-name_no_type: M3 ID 7 mm OD Nylon White 6 mm Length
-oomlout_bolt_color: ''
-oomlout_bolt_head_type: Bolt
-oomlout_bolt_head_type_diagram: head_type_diagram.png
-oomlout_bolt_length: 6 mm
-oomlout_bolt_length_no_unit: '6'
-oomlout_bolt_md5_6_alpha_first_3: wjk
-oomlout_bolt_md5_6_alpha_first_3_upper: WJK
-oomlout_bolt_md5_6_alpha_last_3: n
-oomlout_bolt_md5_6_alpha_last_3_upper: N
-oomlout_bolt_md5_6_first_3: '172'
-oomlout_bolt_md5_6_first_3_upper: '172'
-oomlout_bolt_md5_6_last_3: b17
-oomlout_bolt_md5_6_last_3_upper: B17
-oomlout_bolt_name: Spacer M3X7X6 mm  (Bolt)
-oomlout_bolt_size: ''
-oomlout_bolt_size_long: M3X7
-oomlout_bolt_type: Spacer
-oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: sp3x7nw6
-oomlout_short_code_upper: SP3X7NW6
+name_no_type: M3 Id 7 Mm Od Nylon White 6 Mm Length
 oomp_key: oomp_hardware_spacer_m3_id_7_mm_od_nylon_white_6_mm_length
 oomp_word: thumbsdown cloud thumbsdown
 oomp_word_emoji: ':thumbsdown: :cloud: :thumbsdown:'
@@ -219,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: '6'
 short_code_upper: '6'
@@ -227,61 +79,11 @@ size: m3_id_7_mm_od
 size_capital: M3 Id 7 mm Od
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m3
-size_length_3: m3_
-size_length_4: m3_i
-size_length_5: m3_id
-size_length_6: m3_id_
-size_name: M3 ID 7 mm OD
-size_no_space_length_1: m
-size_no_space_length_2: m3
-size_no_space_length_3: m3i
-size_no_space_length_4: m3id
-size_no_space_length_5: m3id7
-size_no_space_length_6: m3id7m
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M3
-size_no_space_upper_length_3: M3I
-size_no_space_upper_length_4: M3ID
-size_no_space_upper_length_5: M3ID7
-size_no_space_upper_length_6: M3ID7M
 size_only_numbers: '37'
 size_only_numbers_no_zeros: '37'
 size_upper: M3_ID_7_MM_OD
-size_upper_length_1: M
-size_upper_length_2: M3
-size_upper_length_3: M3_
-size_upper_length_4: M3_I
-size_upper_length_5: M3_ID
-size_upper_length_6: M3_ID_
 type: spacer
 type_capital: Spacer
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sp
-type_length_3: spa
-type_length_4: spac
-type_length_5: space
-type_length_6: spacer
-type_name: Spacer
-type_no_space_length_1: s
-type_no_space_length_2: sp
-type_no_space_length_3: spa
-type_no_space_length_4: spac
-type_no_space_length_5: space
-type_no_space_length_6: spacer
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SP
-type_no_space_upper_length_3: SPA
-type_no_space_upper_length_4: SPAC
-type_no_space_upper_length_5: SPACE
-type_no_space_upper_length_6: SPACER
 type_upper: SPACER
-type_upper_length_1: S
-type_upper_length_2: SP
-type_upper_length_3: SPA
-type_upper_length_4: SPAC
-type_upper_length_5: SPACE
-type_upper_length_6: SPACER

@@ -1,121 +1,22 @@
-bip_39_word_dash_12: sail-diesel-eagle-fitness-science-upgrade-away-gauge-surface-lab-actor-always
-bip_39_word_dash_2: sail-diesel
-bip_39_word_dash_3: sail-diesel-eagle
-bip_39_word_new_br_12: sail<br>diesel<br>eagle<br>fitness<br>science<br>upgrade<br>away<br>gauge<br>surface<br>lab<br>actor<br>always
-bip_39_word_new_br_2: sail<br>diesel
-bip_39_word_new_br_3: sail<br>diesel<br>eagle
-bip_39_word_new_line_12: 'sail
-
-  diesel
-
-  eagle
-
-  fitness
-
-  science
-
-  upgrade
-
-  away
-
-  gauge
-
-  surface
-
-  lab
-
-  actor
-
-  always'
-bip_39_word_new_line_2: 'sail
-
-  diesel'
-bip_39_word_new_line_3: 'sail
-
-  diesel
-
-  eagle'
-bip_39_word_no_space_12: saildieseleaglefitnessscienceupgradeawaygaugesurfacelabactoralways
-bip_39_word_no_space_2: saildiesel
-bip_39_word_no_space_3: saildieseleagle
-bip_39_word_space_12: sail diesel eagle fitness science upgrade away gauge surface
-  lab actor always
-bip_39_word_space_2: sail diesel
-bip_39_word_space_3: sail diesel eagle
-bip_39_word_underscore_12: sail_diesel_eagle_fitness_science_upgrade_away_gauge_surface_lab_actor_always
-bip_39_word_underscore_2: sail_diesel
-bip_39_word_underscore_3: sail_diesel_eagle
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: blue
 color_capital: Blue
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bl
-color_length_3: blu
-color_length_4: blue
-color_length_5: blue
-color_length_6: blue
-color_name: Blue
-color_no_space_length_1: b
-color_no_space_length_2: bl
-color_no_space_length_3: blu
-color_no_space_length_4: blue
-color_no_space_length_5: blue
-color_no_space_length_6: blue
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BL
-color_no_space_upper_length_3: BLU
-color_no_space_upper_length_4: BLUE
-color_no_space_upper_length_5: BLUE
-color_no_space_upper_length_6: BLUE
 color_upper: BLUE
-color_upper_length_1: B
-color_upper_length_2: BL
-color_upper_length_3: BLU
-color_upper_length_4: BLUE
-color_upper_length_5: BLUE
-color_upper_length_6: BLUE
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l10l_electronic_led_10_mm_blue
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_10_mm_blue
 id: electronic_led_10_mm_blue
 id_no_class: led_10_mm_blue
-id_no_color: blue
 id_no_size: blue
 id_no_type: 10_mm_blue
 kicad_reference: L
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_10_mm_blue](none)<br>[l10l](none)<br>[Electronic Led
@@ -165,12 +63,11 @@ md5_6: 78055f
 md5_6_alpha: 4ol7j
 md5_6_alpha_upper: 4OL7J
 md5_6_upper: 78055F
-name: Electronic LED 10 mm Blue
-name_no_class: LED 10 mm Blue
-name_no_color: Blue
+name: Electronic Led 10 Mm Blue
+name_no_class: Led 10 Mm Blue
 name_no_size: Blue
 name_no_size_short: Blue
-name_no_type: 10 mm Blue
+name_no_type: 10 Mm Blue
 oomp_key: oomp_electronic_led_10_mm_blue
 oomp_word: bell kissing leopard
 oomp_word_emoji: ':bell: :kissing: :leopard:'
@@ -186,7 +83,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: l10l
 short_code_upper: L10L
@@ -195,34 +91,9 @@ size: 10_mm
 size_capital: 10 mm
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '10'
-size_length_3: '10_'
-size_length_4: 10_m
-size_length_5: 10_mm
-size_length_6: 10_mm
-size_name: 10 mm
-size_no_space_length_1: '1'
-size_no_space_length_2: '10'
-size_no_space_length_3: 10m
-size_no_space_length_4: 10mm
-size_no_space_length_5: 10mm
-size_no_space_length_6: 10mm
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: '10'
-size_no_space_upper_length_3: 10M
-size_no_space_upper_length_4: 10MM
-size_no_space_upper_length_5: 10MM
-size_no_space_upper_length_6: 10MM
 size_only_numbers: '10'
 size_only_numbers_no_zeros: '1'
 size_upper: 10_MM
-size_upper_length_1: '1'
-size_upper_length_2: '10'
-size_upper_length_3: '10_'
-size_upper_length_4: 10_M
-size_upper_length_5: 10_MM
-size_upper_length_6: 10_MM
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
   index: 0
@@ -232,29 +103,4 @@ type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

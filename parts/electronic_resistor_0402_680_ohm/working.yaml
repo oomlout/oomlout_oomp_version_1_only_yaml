@@ -1,122 +1,23 @@
-bip_39_word_dash_12: valley-bacon-diesel-love-fashion-later-fantasy-craft-word-lumber-toward-amateur
-bip_39_word_dash_2: valley-bacon
-bip_39_word_dash_3: valley-bacon-diesel
-bip_39_word_new_br_12: valley<br>bacon<br>diesel<br>love<br>fashion<br>later<br>fantasy<br>craft<br>word<br>lumber<br>toward<br>amateur
-bip_39_word_new_br_2: valley<br>bacon
-bip_39_word_new_br_3: valley<br>bacon<br>diesel
-bip_39_word_new_line_12: 'valley
-
-  bacon
-
-  diesel
-
-  love
-
-  fashion
-
-  later
-
-  fantasy
-
-  craft
-
-  word
-
-  lumber
-
-  toward
-
-  amateur'
-bip_39_word_new_line_2: 'valley
-
-  bacon'
-bip_39_word_new_line_3: 'valley
-
-  bacon
-
-  diesel'
-bip_39_word_no_space_12: valleybacondiesellovefashionlaterfantasycraftwordlumbertowardamateur
-bip_39_word_no_space_2: valleybacon
-bip_39_word_no_space_3: valleybacondiesel
-bip_39_word_space_12: valley bacon diesel love fashion later fantasy craft word lumber
-  toward amateur
-bip_39_word_space_2: valley bacon
-bip_39_word_space_3: valley bacon diesel
-bip_39_word_underscore_12: valley_bacon_diesel_love_fashion_later_fantasy_craft_word_lumber_toward_amateur
-bip_39_word_underscore_2: valley_bacon
-bip_39_word_underscore_3: valley_bacon_diesel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 680_ohm
 description_main_capital: 680 Ohm
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
-description_main_length_1: '6'
-description_main_length_2: '68'
-description_main_length_3: '680'
-description_main_length_4: '680_'
-description_main_length_5: 680_o
-description_main_length_6: 680_oh
-description_main_name: 680 Ohm
-description_main_no_space_length_1: '6'
-description_main_no_space_length_2: '68'
-description_main_no_space_length_3: '680'
-description_main_no_space_length_4: 680o
-description_main_no_space_length_5: 680oh
-description_main_no_space_length_6: 680ohm
-description_main_no_space_upper_length_1: '6'
-description_main_no_space_upper_length_2: '68'
-description_main_no_space_upper_length_3: '680'
-description_main_no_space_upper_length_4: 680O
-description_main_no_space_upper_length_5: 680OH
-description_main_no_space_upper_length_6: 680OHM
 description_main_upper: 680_OHM
-description_main_upper_length_1: '6'
-description_main_upper_length_2: '68'
-description_main_upper_length_3: '680'
-description_main_upper_length_4: '680_'
-description_main_upper_length_5: 680_O
-description_main_upper_length_6: 680_OH
 description_only_numbers: '680'
 description_only_numbers_short: '680'
 description_or_color: '680'
@@ -125,10 +26,8 @@ directory: parts/electronic_resistor_0402_680_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_680_ohm
 id: electronic_resistor_0402_680_ohm
 id_no_class: resistor_0402_680_ohm
-id_no_color: 680ohm
 id_no_size: 680_ohm
 id_no_type: 0402_680_ohm
 kicad_reference: R
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -184,7 +82,6 @@ md5_6_alpha_upper: 4TW69
 md5_6_upper: 7BCC21
 name: Electronic Resistor 0402 680 Ohm
 name_no_class: Resistor 0402 680 Ohm
-name_no_color: 680Ohm
 name_no_size: 680 Ohm
 name_no_size_short: 680 Ohm
 name_no_type: 0402 680 Ohm
@@ -204,7 +101,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r4o681
 short_code_upper: R4O681
@@ -212,34 +108,9 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '04'
-size_length_3: '040'
-size_length_4: '0402'
-size_length_5: '0402'
-size_length_6: '0402'
-size_name: '0402'
-size_no_space_length_1: '0'
-size_no_space_length_2: '04'
-size_no_space_length_3: '040'
-size_no_space_length_4: '0402'
-size_no_space_length_5: '0402'
-size_no_space_length_6: '0402'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '04'
-size_no_space_upper_length_3: '040'
-size_no_space_upper_length_4: '0402'
-size_no_space_upper_length_5: '0402'
-size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
-size_upper_length_1: '0'
-size_upper_length_2: '04'
-size_upper_length_3: '040'
-size_upper_length_4: '0402'
-size_upper_length_5: '0402'
-size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -252,29 +123,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: pass-genuine-genre-divert-ride-cruise-wrist-birth-need-ugly-office-antenna
-bip_39_word_dash_2: pass-genuine
-bip_39_word_dash_3: pass-genuine-genre
-bip_39_word_new_br_12: pass<br>genuine<br>genre<br>divert<br>ride<br>cruise<br>wrist<br>birth<br>need<br>ugly<br>office<br>antenna
-bip_39_word_new_br_2: pass<br>genuine
-bip_39_word_new_br_3: pass<br>genuine<br>genre
-bip_39_word_new_line_12: 'pass
-
-  genuine
-
-  genre
-
-  divert
-
-  ride
-
-  cruise
-
-  wrist
-
-  birth
-
-  need
-
-  ugly
-
-  office
-
-  antenna'
-bip_39_word_new_line_2: 'pass
-
-  genuine'
-bip_39_word_new_line_3: 'pass
-
-  genuine
-
-  genre'
-bip_39_word_no_space_12: passgenuinegenredivertridecruisewristbirthneeduglyofficeantenna
-bip_39_word_no_space_2: passgenuine
-bip_39_word_no_space_3: passgenuinegenre
-bip_39_word_space_12: pass genuine genre divert ride cruise wrist birth need ugly
-  office antenna
-bip_39_word_space_2: pass genuine
-bip_39_word_space_3: pass genuine genre
-bip_39_word_underscore_12: pass_genuine_genre_divert_ride_cruise_wrist_birth_need_ugly_office_antenna
-bip_39_word_underscore_2: pass_genuine
-bip_39_word_underscore_3: pass_genuine_genre
 classification: vinyl_cutter
 classification_capital: Vinyl Cutter
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl_
-classification_name: Vinyl Cutter
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinylc
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYLC
 classification_upper: VINYL_CUTTER
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: maker_3
 description_main_capital: Maker 3
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: ma
-description_main_length_3: mak
-description_main_length_4: make
-description_main_length_5: maker
-description_main_length_6: maker_
-description_main_name: Maker 3
-description_main_no_space_length_1: m
-description_main_no_space_length_2: ma
-description_main_no_space_length_3: mak
-description_main_no_space_length_4: make
-description_main_no_space_length_5: maker
-description_main_no_space_length_6: maker3
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MA
-description_main_no_space_upper_length_3: MAK
-description_main_no_space_upper_length_4: MAKE
-description_main_no_space_upper_length_5: MAKER
-description_main_no_space_upper_length_6: MAKER3
 description_main_upper: MAKER_3
-description_main_upper_length_1: M
-description_main_upper_length_2: MA
-description_main_upper_length_3: MAK
-description_main_upper_length_4: MAKE
-description_main_upper_length_5: MAKER
-description_main_upper_length_6: MAKER_
 description_only_numbers: '3'
 description_only_numbers_short: '3'
 description_or_color: '3'
@@ -125,10 +26,8 @@ directory: parts/vinyl_cutter_vinyl_cutter_cricut_maker_3_cricut_cxpl303
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_3_cricut_cxpl303
 id: vinyl_cutter_vinyl_cutter_cricut_maker_3_cricut_cxpl303
 id_no_class: cricut_maker_3_cricut_cxpl303
-id_no_color: maker3cxpl303
 id_no_size: maker_3_cxpl303
 id_no_type: cricut_maker_3_cricut_cxpl303
 link_distributor_cricut: ''
@@ -139,32 +38,7 @@ manufacturer: cricut
 manufacturer_capital: Cricut
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
-manufacturer_length_1: c
-manufacturer_length_2: cr
-manufacturer_length_3: cri
-manufacturer_length_4: cric
-manufacturer_length_5: cricu
-manufacturer_length_6: cricut
-manufacturer_name: Cricut
-manufacturer_no_space_length_1: c
-manufacturer_no_space_length_2: cr
-manufacturer_no_space_length_3: cri
-manufacturer_no_space_length_4: cric
-manufacturer_no_space_length_5: cricu
-manufacturer_no_space_length_6: cricut
-manufacturer_no_space_upper_length_1: C
-manufacturer_no_space_upper_length_2: CR
-manufacturer_no_space_upper_length_3: CRI
-manufacturer_no_space_upper_length_4: CRIC
-manufacturer_no_space_upper_length_5: CRICU
-manufacturer_no_space_upper_length_6: CRICUT
 manufacturer_upper: CRICUT
-manufacturer_upper_length_1: C
-manufacturer_upper_length_2: CR
-manufacturer_upper_length_3: CRI
-manufacturer_upper_length_4: CRIC
-manufacturer_upper_length_5: CRICU
-manufacturer_upper_length_6: CRICUT
 manufacturers: []
 markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_maker_3_cricut_cxpl303](none)<br>[](none)<br>[Vinyl
   Cutter Vinyl Cutter Cricut Maker 3 Cricut Cxpl303](none)<br><br>'
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 64TA3
 md5_6_upper: 9D333B
 name: Vinyl Cutter Vinyl Cutter Cricut Maker 3 Cricut Cxpl303
 name_no_class: Cricut Maker 3 Cricut Cxpl303
-name_no_color: Maker3Cxpl303
 name_no_size: Maker 3 Cxpl303
 name_no_size_short: Maker 3 Cxpl303
 name_no_type: Cricut Maker 3 Cricut Cxpl303
@@ -200,93 +73,18 @@ part_number_capital: Cxpl303
 part_number_exact: CXPL303
 part_number_first_letter: c
 part_number_first_letter_upper: C
-part_number_length_1: c
-part_number_length_2: cx
-part_number_length_3: cxp
-part_number_length_4: cxpl
-part_number_length_5: cxpl3
-part_number_length_6: cxpl30
-part_number_name: Cxpl303
-part_number_no_space_length_1: c
-part_number_no_space_length_2: cx
-part_number_no_space_length_3: cxp
-part_number_no_space_length_4: cxpl
-part_number_no_space_length_5: cxpl3
-part_number_no_space_length_6: cxpl30
-part_number_no_space_upper_length_1: C
-part_number_no_space_upper_length_2: CX
-part_number_no_space_upper_length_3: CXP
-part_number_no_space_upper_length_4: CXPL
-part_number_no_space_upper_length_5: CXPL3
-part_number_no_space_upper_length_6: CXPL30
 part_number_upper: CXPL303
-part_number_upper_length_1: C
-part_number_upper_length_2: CX
-part_number_upper_length_3: CXP
-part_number_upper_length_4: CXPL
-part_number_upper_length_5: CXPL3
-part_number_upper_length_6: CXPL30
 short_code: ''
 short_code_upper: ''
 size: cricut
 size_capital: Cricut
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: cr
-size_length_3: cri
-size_length_4: cric
-size_length_5: cricu
-size_length_6: cricut
-size_name: Cricut
-size_no_space_length_1: c
-size_no_space_length_2: cr
-size_no_space_length_3: cri
-size_no_space_length_4: cric
-size_no_space_length_5: cricu
-size_no_space_length_6: cricut
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CR
-size_no_space_upper_length_3: CRI
-size_no_space_upper_length_4: CRIC
-size_no_space_upper_length_5: CRICU
-size_no_space_upper_length_6: CRICUT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CRICUT
-size_upper_length_1: C
-size_upper_length_2: CR
-size_upper_length_3: CRI
-size_upper_length_4: CRIC
-size_upper_length_5: CRICU
-size_upper_length_6: CRICUT
 type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vin
-type_length_4: viny
-type_length_5: vinyl
-type_length_6: vinyl_
-type_name: Vinyl Cutter
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vin
-type_no_space_length_4: viny
-type_no_space_length_5: vinyl
-type_no_space_length_6: vinylc
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VIN
-type_no_space_upper_length_4: VINY
-type_no_space_upper_length_5: VINYL
-type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VIN
-type_upper_length_4: VINY
-type_upper_length_5: VINYL
-type_upper_length_6: VINYL_

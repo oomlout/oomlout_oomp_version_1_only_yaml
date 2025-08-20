@@ -1,170 +1,23 @@
-bip_39_word_dash_12: cousin-drill-slush-busy-buyer-position-track-loan-frog-cost-delay-agree
-bip_39_word_dash_2: cousin-drill
-bip_39_word_dash_3: cousin-drill-slush
-bip_39_word_new_br_12: cousin<br>drill<br>slush<br>busy<br>buyer<br>position<br>track<br>loan<br>frog<br>cost<br>delay<br>agree
-bip_39_word_new_br_2: cousin<br>drill
-bip_39_word_new_br_3: cousin<br>drill<br>slush
-bip_39_word_new_line_12: 'cousin
-
-  drill
-
-  slush
-
-  busy
-
-  buyer
-
-  position
-
-  track
-
-  loan
-
-  frog
-
-  cost
-
-  delay
-
-  agree'
-bip_39_word_new_line_2: 'cousin
-
-  drill'
-bip_39_word_new_line_3: 'cousin
-
-  drill
-
-  slush'
-bip_39_word_no_space_12: cousindrillslushbusybuyerpositiontrackloanfrogcostdelayagree
-bip_39_word_no_space_2: cousindrill
-bip_39_word_no_space_3: cousindrillslush
-bip_39_word_space_12: cousin drill slush busy buyer position track loan frog cost
-  delay agree
-bip_39_word_space_2: cousin drill
-bip_39_word_space_3: cousin drill slush
-bip_39_word_underscore_12: cousin_drill_slush_busy_buyer_position_track_loan_frog_cost_delay_agree
-bip_39_word_underscore_2: cousin_drill
-bip_39_word_underscore_3: cousin_drill_slush
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: brass
 color_capital: Brass
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: br
-color_length_3: bra
-color_length_4: bras
-color_length_5: brass
-color_length_6: brass
-color_name: Brass
-color_no_space_length_1: b
-color_no_space_length_2: br
-color_no_space_length_3: bra
-color_no_space_length_4: bras
-color_no_space_length_5: brass
-color_no_space_length_6: brass
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BR
-color_no_space_upper_length_3: BRA
-color_no_space_upper_length_4: BRAS
-color_no_space_upper_length_5: BRASS
-color_no_space_upper_length_6: BRASS
 color_upper: BRASS
-color_upper_length_1: B
-color_upper_length_2: BR
-color_upper_length_3: BRA
-color_upper_length_4: BRAS
-color_upper_length_5: BRASS
-color_upper_length_6: BRASS
 description_extra: 22500_g_weight_capacity
 description_extra_capital: 22500 G Weight Capacity
 description_extra_first_letter: '2'
 description_extra_first_letter_upper: '2'
-description_extra_length_1: '2'
-description_extra_length_2: '22'
-description_extra_length_3: '225'
-description_extra_length_4: '2250'
-description_extra_length_5: '22500'
-description_extra_length_6: '22500_'
-description_extra_name: 22500 G Weight Capacity
-description_extra_no_space_length_1: '2'
-description_extra_no_space_length_2: '22'
-description_extra_no_space_length_3: '225'
-description_extra_no_space_length_4: '2250'
-description_extra_no_space_length_5: '22500'
-description_extra_no_space_length_6: 22500g
-description_extra_no_space_upper_length_1: '2'
-description_extra_no_space_upper_length_2: '22'
-description_extra_no_space_upper_length_3: '225'
-description_extra_no_space_upper_length_4: '2250'
-description_extra_no_space_upper_length_5: '22500'
-description_extra_no_space_upper_length_6: 22500G
 description_extra_upper: 22500_G_WEIGHT_CAPACITY
-description_extra_upper_length_1: '2'
-description_extra_upper_length_2: '22'
-description_extra_upper_length_3: '225'
-description_extra_upper_length_4: '2250'
-description_extra_upper_length_5: '22500'
-description_extra_upper_length_6: '22500_'
 description_main: 6_5_mm_width_36_mm_height_12_mm_depth
 description_main_capital: 6.5 mm Width 36 mm Height 12 mm Depth
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
-description_main_length_1: '6'
-description_main_length_2: '6_'
-description_main_length_3: '6_5'
-description_main_length_4: '6_5_'
-description_main_length_5: 6_5_m
-description_main_length_6: 6_5_mm
-description_main_name: 6 5 mm Width 36 mm Height 12 mm Depth
-description_main_no_space_length_1: '6'
-description_main_no_space_length_2: '65'
-description_main_no_space_length_3: 65m
-description_main_no_space_length_4: 65mm
-description_main_no_space_length_5: 65mmw
-description_main_no_space_length_6: 65mmwi
-description_main_no_space_upper_length_1: '6'
-description_main_no_space_upper_length_2: '65'
-description_main_no_space_upper_length_3: 65M
-description_main_no_space_upper_length_4: 65MM
-description_main_no_space_upper_length_5: 65MMW
-description_main_no_space_upper_length_6: 65MMWI
 description_main_upper: 6_5_MM_WIDTH_36_MM_HEIGHT_12_MM_DEPTH
-description_main_upper_length_1: '6'
-description_main_upper_length_2: '6_'
-description_main_upper_length_3: '6_5'
-description_main_upper_length_4: '6_5_'
-description_main_upper_length_5: 6_5_M
-description_main_upper_length_6: 6_5_MM
 description_only_numbers: '653612'
 description_only_numbers_short: 654k
 description_or_color: B654k
@@ -174,10 +27,8 @@ distributor_amazon: B0CSBNN2R1
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_hook_picture_hanging_brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity
 id: hardware_hook_picture_hanging_brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity
 id_no_class: hook_picture_hanging_brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity
-id_no_color: brass65mmwidth36mmheight12mmdepth22500gweightcapacity
 id_no_size: brass65mmwidth36mmheight12mmdepth22500gweightcapacity
 id_no_type: brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity
 link_distributor_amazon: https://www.amazon.co.uk/dp/B0CSBNN2R1
@@ -188,7 +39,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_hook_picture_hanging_brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity](none)<br>[](none)<br>[Hardware
@@ -204,14 +54,13 @@ md5_6: 5073cc
 md5_6_alpha: 350b0
 md5_6_alpha_upper: 350B0
 md5_6_upper: 5073CC
-name: Hardware Hook Picture Hanging Brass 6 5 mm Width 36 mm Height 12 mm Depth 22500
+name: Hardware Hook Picture Hanging Brass 6 5 Mm Width 36 Mm Height 12 Mm Depth 22500
   G Weight Capacity
-name_no_class: Hook Picture Hanging Brass 6 5 mm Width 36 mm Height 12 mm Depth 22500
+name_no_class: Hook Picture Hanging Brass 6 5 Mm Width 36 Mm Height 12 Mm Depth 22500
   G Weight Capacity
-name_no_color: Brass65mmwidth36mmheight12mmdepth22500Gweightcapacity
-name_no_size: Brass65mmwidth36mmheight12mmdepth22500Gweightcapacity
+name_no_size: Brass65Mmwidth36Mmheight12Mmdepth22500Gweightcapacity
 name_no_size_short: Brass65Mmwidth36Mmheight12Mmdepth22500Gweightcapacity
-name_no_type: Brass 6 5 mm Width 36 mm Height 12 mm Depth 22500 G Weight Capacity
+name_no_type: Brass 6 5 Mm Width 36 Mm Height 12 Mm Depth 22500 G Weight Capacity
 oomp_key: oomp_hardware_hook_picture_hanging_brass_6_5_mm_width_36_mm_height_12_mm_depth_22500_g_weight_capacity
 oomp_word: beetle flags watermelon
 oomp_word_emoji: ':beetle: :flags: :watermelon:'
@@ -227,7 +76,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -235,7 +83,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -243,29 +90,4 @@ type: hook_picture_hanging
 type_capital: Hook Picture Hanging
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ho
-type_length_3: hoo
-type_length_4: hook
-type_length_5: hook_
-type_length_6: hook_p
-type_name: Hook Picture Hanging
-type_no_space_length_1: h
-type_no_space_length_2: ho
-type_no_space_length_3: hoo
-type_no_space_length_4: hook
-type_no_space_length_5: hookp
-type_no_space_length_6: hookpi
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HO
-type_no_space_upper_length_3: HOO
-type_no_space_upper_length_4: HOOK
-type_no_space_upper_length_5: HOOKP
-type_no_space_upper_length_6: HOOKPI
 type_upper: HOOK_PICTURE_HANGING
-type_upper_length_1: H
-type_upper_length_2: HO
-type_upper_length_3: HOO
-type_upper_length_4: HOOK
-type_upper_length_5: HOOK_
-type_upper_length_6: HOOK_P

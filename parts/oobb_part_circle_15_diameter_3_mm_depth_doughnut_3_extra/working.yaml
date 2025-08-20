@@ -1,156 +1,31 @@
-bip_39_word_dash_12: domain-object-later-purchase-that-resist-cash-skin-vintage-cash-memory-alcohol
-bip_39_word_dash_2: domain-object
-bip_39_word_dash_3: domain-object-later
-bip_39_word_new_br_12: domain<br>object<br>later<br>purchase<br>that<br>resist<br>cash<br>skin<br>vintage<br>cash<br>memory<br>alcohol
-bip_39_word_new_br_2: domain<br>object
-bip_39_word_new_br_3: domain<br>object<br>later
-bip_39_word_new_line_12: 'domain
-
-  object
-
-  later
-
-  purchase
-
-  that
-
-  resist
-
-  cash
-
-  skin
-
-  vintage
-
-  cash
-
-  memory
-
-  alcohol'
-bip_39_word_new_line_2: 'domain
-
-  object'
-bip_39_word_new_line_3: 'domain
-
-  object
-
-  later'
-bip_39_word_no_space_12: domainobjectlaterpurchasethatresistcashskinvintagecashmemoryalcohol
-bip_39_word_no_space_2: domainobject
-bip_39_word_no_space_3: domainobjectlater
-bip_39_word_space_12: domain object later purchase that resist cash skin vintage cash
-  memory alcohol
-bip_39_word_space_2: domain object
-bip_39_word_space_3: domain object later
-bip_39_word_underscore_12: domain_object_later_purchase_that_resist_cash_skin_vintage_cash_memory_alcohol
-bip_39_word_underscore_2: domain_object
-bip_39_word_underscore_3: domain_object_later
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: doughnut_3_extra
 description_extra_capital: Doughnut 3 Extra
 description_extra_first_letter: d
 description_extra_first_letter_upper: D
-description_extra_length_1: d
-description_extra_length_2: do
-description_extra_length_3: dou
-description_extra_length_4: doug
-description_extra_length_5: dough
-description_extra_length_6: doughn
-description_extra_name: Doughnut 3 Extra
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: do
-description_extra_no_space_length_3: dou
-description_extra_no_space_length_4: doug
-description_extra_no_space_length_5: dough
-description_extra_no_space_length_6: doughn
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DO
-description_extra_no_space_upper_length_3: DOU
-description_extra_no_space_upper_length_4: DOUG
-description_extra_no_space_upper_length_5: DOUGH
-description_extra_no_space_upper_length_6: DOUGHN
 description_extra_upper: DOUGHNUT_3_EXTRA
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DO
-description_extra_upper_length_3: DOU
-description_extra_upper_length_4: DOUG
-description_extra_upper_length_5: DOUGH
-description_extra_upper_length_6: DOUGHN
 description_main: 15_diameter_3_mm_depth
 description_main_capital: 15 Diameter 3 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '15'
-description_main_length_3: '15_'
-description_main_length_4: 15_d
-description_main_length_5: 15_di
-description_main_length_6: 15_dia
-description_main_name: 15 Diameter 3 mm Depth
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '15'
-description_main_no_space_length_3: 15d
-description_main_no_space_length_4: 15di
-description_main_no_space_length_5: 15dia
-description_main_no_space_length_6: 15diam
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '15'
-description_main_no_space_upper_length_3: 15D
-description_main_no_space_upper_length_4: 15DI
-description_main_no_space_upper_length_5: 15DIA
-description_main_no_space_upper_length_6: 15DIAM
 description_main_upper: 15_DIAMETER_3_MM_DEPTH
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '15'
-description_main_upper_length_3: '15_'
-description_main_upper_length_4: 15_D
-description_main_upper_length_5: 15_DI
-description_main_upper_length_6: 15_DIA
 description_only_numbers: '153'
 description_only_numbers_short: '153'
 description_or_color: '153'
 description_or_color_upper: '153'
 directory: parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_3_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_3_extra
 id: oobb_part_circle_15_diameter_3_mm_depth_doughnut_3_extra
 id_no_class: part_circle_15_diameter_3_mm_depth_doughnut_3_extra
-id_no_color: 15diameter3mmdepthdoughnut3extra
 id_no_size: 15_diameter_3_mm_depth_doughnut_3_extra
 id_no_type: circle_15_diameter_3_mm_depth_doughnut_3_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_15_diameter_3_mm_depth_doughnut_3_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_circle_15_diameter_3_mm_depth_doughnut_3_extra](none)<br>[](none)<br>[Oobb
@@ -175,12 +49,11 @@ md5_6: 6115c8
 md5_6_alpha: 3sde0
 md5_6_alpha_upper: 3SDE0
 md5_6_upper: 6115C8
-name: Oobb Part Circle 15 Diameter 3 mm Depth Doughnut 3 Extra
-name_no_class: Part Circle 15 Diameter 3 mm Depth Doughnut 3 Extra
-name_no_color: 15Diameter3mmdepthdoughnut3Extra
-name_no_size: 15 Diameter 3 mm Depth Doughnut 3 Extra
+name: Oobb Part Circle 15 Diameter 3 Mm Depth Doughnut 3 Extra
+name_no_class: Part Circle 15 Diameter 3 Mm Depth Doughnut 3 Extra
+name_no_size: 15 Diameter 3 Mm Depth Doughnut 3 Extra
 name_no_size_short: 15 Diameter 3 Mm Depth Doughnut 3 Extra
-name_no_type: Circle 15 Diameter 3 mm Depth Doughnut 3 Extra
+name_no_type: Circle 15 Diameter 3 Mm Depth Doughnut 3 Extra
 oomp_key: oomp_oobb_part_circle_15_diameter_3_mm_depth_doughnut_3_extra
 oomp_word: bouquet poop apple
 oomp_word_emoji: ':bouquet: :poop: :apple:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: circle
 size_capital: Circle
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: ci
-size_length_3: cir
-size_length_4: circ
-size_length_5: circl
-size_length_6: circle
-size_name: Circle
-size_no_space_length_1: c
-size_no_space_length_2: ci
-size_no_space_length_3: cir
-size_no_space_length_4: circ
-size_no_space_length_5: circl
-size_no_space_length_6: circle
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CI
-size_no_space_upper_length_3: CIR
-size_no_space_upper_length_4: CIRC
-size_no_space_upper_length_5: CIRCL
-size_no_space_upper_length_6: CIRCLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CIRCLE
-size_upper_length_1: C
-size_upper_length_2: CI
-size_upper_length_3: CIR
-size_upper_length_4: CIRC
-size_upper_length_5: CIRCL
-size_upper_length_6: CIRCLE
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

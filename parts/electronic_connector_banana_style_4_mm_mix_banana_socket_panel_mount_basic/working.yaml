@@ -1,146 +1,23 @@
-bip_39_word_dash_12: hand-river-buffalo-banner-obvious-enrich-grain-tool-quality-media-camera-arrest
-bip_39_word_dash_2: hand-river
-bip_39_word_dash_3: hand-river-buffalo
-bip_39_word_new_br_12: hand<br>river<br>buffalo<br>banner<br>obvious<br>enrich<br>grain<br>tool<br>quality<br>media<br>camera<br>arrest
-bip_39_word_new_br_2: hand<br>river
-bip_39_word_new_br_3: hand<br>river<br>buffalo
-bip_39_word_new_line_12: 'hand
-
-  river
-
-  buffalo
-
-  banner
-
-  obvious
-
-  enrich
-
-  grain
-
-  tool
-
-  quality
-
-  media
-
-  camera
-
-  arrest'
-bip_39_word_new_line_2: 'hand
-
-  river'
-bip_39_word_new_line_3: 'hand
-
-  river
-
-  buffalo'
-bip_39_word_no_space_12: handriverbuffalobannerobviousenrichgraintoolqualitymediacameraarrest
-bip_39_word_no_space_2: handriver
-bip_39_word_no_space_3: handriverbuffalo
-bip_39_word_space_12: hand river buffalo banner obvious enrich grain tool quality
-  media camera arrest
-bip_39_word_space_2: hand river
-bip_39_word_space_3: hand river buffalo
-bip_39_word_underscore_12: hand_river_buffalo_banner_obvious_enrich_grain_tool_quality_media_camera_arrest
-bip_39_word_underscore_2: hand_river
-bip_39_word_underscore_3: hand_river_buffalo
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: mix
 color_capital: Mix
 color_first_letter: m
 color_first_letter_upper: M
-color_length_1: m
-color_length_2: mi
-color_length_3: mix
-color_length_4: mix
-color_length_5: mix
-color_length_6: mix
-color_name: Mix
-color_no_space_length_1: m
-color_no_space_length_2: mi
-color_no_space_length_3: mix
-color_no_space_length_4: mix
-color_no_space_length_5: mix
-color_no_space_length_6: mix
-color_no_space_upper_length_1: M
-color_no_space_upper_length_2: MI
-color_no_space_upper_length_3: MIX
-color_no_space_upper_length_4: MIX
-color_no_space_upper_length_5: MIX
-color_no_space_upper_length_6: MIX
 color_upper: MIX
-color_upper_length_1: M
-color_upper_length_2: MI
-color_upper_length_3: MIX
-color_upper_length_4: MIX
-color_upper_length_5: MIX
-color_upper_length_6: MIX
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: banana_socket_panel_mount_basic
 description_main_capital: Banana Socket Panel Mount Basic
 description_main_first_letter: b
 description_main_first_letter_upper: B
-description_main_length_1: b
-description_main_length_2: ba
-description_main_length_3: ban
-description_main_length_4: bana
-description_main_length_5: banan
-description_main_length_6: banana
-description_main_name: Banana Socket Panel Mount Basic
-description_main_no_space_length_1: b
-description_main_no_space_length_2: ba
-description_main_no_space_length_3: ban
-description_main_no_space_length_4: bana
-description_main_no_space_length_5: banan
-description_main_no_space_length_6: banana
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BA
-description_main_no_space_upper_length_3: BAN
-description_main_no_space_upper_length_4: BANA
-description_main_no_space_upper_length_5: BANAN
-description_main_no_space_upper_length_6: BANANA
 description_main_upper: BANANA_SOCKET_PANEL_MOUNT_BASIC
-description_main_upper_length_1: B
-description_main_upper_length_2: BA
-description_main_upper_length_3: BAN
-description_main_upper_length_4: BANA
-description_main_upper_length_5: BANAN
-description_main_upper_length_6: BANANA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'M '
@@ -149,10 +26,8 @@ directory: parts/electronic_connector_banana_style_4_mm_mix_banana_socket_panel_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_socket_panel_mount_basic
 id: electronic_connector_banana_style_4_mm_mix_banana_socket_panel_mount_basic
 id_no_class: connector_banana_style_4_mm_mix_banana_socket_panel_mount_basic
-id_no_color: banana_socket_panel_mount_basic
 id_no_size: mix_banana_socket_panel_mount_basic
 id_no_type: banana_style_4_mm_mix_banana_socket_panel_mount_basic
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_socket_panel_mount_basic
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_connector_banana_style_4_mm_mix_banana_socket_panel_mount_basic](none)<br>[con](none)<br>[Electronic
@@ -177,12 +51,11 @@ md5_6: c64162
 md5_6_alpha: 7qhcy
 md5_6_alpha_upper: 7QHCY
 md5_6_upper: C64162
-name: Electronic Connector Banana Style 4 mm Mix Banana Socket Panel Mount Basic
-name_no_class: Connector Banana Style 4 mm Mix Banana Socket Panel Mount Basic
-name_no_color: Banana Socket Panel Mount Basic
+name: Electronic Connector Banana Style 4 Mm Mix Banana Socket Panel Mount Basic
+name_no_class: Connector Banana Style 4 Mm Mix Banana Socket Panel Mount Basic
 name_no_size: Mix Banana Socket Panel Mount Basic
 name_no_size_short: Mix Banana Socket Panel Mount Basic
-name_no_type: Banana Style 4 mm Mix Banana Socket Panel Mount Basic
+name_no_type: Banana Style 4 Mm Mix Banana Socket Panel Mount Basic
 oomp_key: oomp_electronic_connector_banana_style_4_mm_mix_banana_socket_panel_mount_basic
 oomp_word: lollipop camel tulip
 oomp_word_emoji: ':lollipop: :camel: :tulip:'
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: con
 short_code_upper: CON
@@ -206,61 +78,11 @@ size: banana_style_4_mm
 size_capital: Banana Style 4 mm
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: ban
-size_length_4: bana
-size_length_5: banan
-size_length_6: banana
-size_name: Banana Style 4 mm
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: ban
-size_no_space_length_4: bana
-size_no_space_length_5: banan
-size_no_space_length_6: banana
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAN
-size_no_space_upper_length_4: BANA
-size_no_space_upper_length_5: BANAN
-size_no_space_upper_length_6: BANANA
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: BANANA_STYLE_4_MM
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAN
-size_upper_length_4: BANA
-size_upper_length_5: BANAN
-size_upper_length_6: BANANA
 type: connector
 type_capital: Connector
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: con
-type_length_4: conn
-type_length_5: conne
-type_length_6: connec
-type_name: Connector
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: con
-type_no_space_length_4: conn
-type_no_space_length_5: conne
-type_no_space_length_6: connec
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: CON
-type_no_space_upper_length_4: CONN
-type_no_space_upper_length_5: CONNE
-type_no_space_upper_length_6: CONNEC
 type_upper: CONNECTOR
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: CON
-type_upper_length_4: CONN
-type_upper_length_5: CONNE
-type_upper_length_6: CONNEC

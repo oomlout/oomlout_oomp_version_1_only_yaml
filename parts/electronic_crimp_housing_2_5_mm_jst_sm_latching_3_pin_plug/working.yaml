@@ -1,156 +1,31 @@
-bip_39_word_dash_12: aim-cotton-acoustic-narrow-thumb-foot-process-true-fatal-earth-chaos-adjust
-bip_39_word_dash_2: aim-cotton
-bip_39_word_dash_3: aim-cotton-acoustic
-bip_39_word_new_br_12: aim<br>cotton<br>acoustic<br>narrow<br>thumb<br>foot<br>process<br>true<br>fatal<br>earth<br>chaos<br>adjust
-bip_39_word_new_br_2: aim<br>cotton
-bip_39_word_new_br_3: aim<br>cotton<br>acoustic
-bip_39_word_new_line_12: 'aim
-
-  cotton
-
-  acoustic
-
-  narrow
-
-  thumb
-
-  foot
-
-  process
-
-  true
-
-  fatal
-
-  earth
-
-  chaos
-
-  adjust'
-bip_39_word_new_line_2: 'aim
-
-  cotton'
-bip_39_word_new_line_3: 'aim
-
-  cotton
-
-  acoustic'
-bip_39_word_no_space_12: aimcottonacousticnarrowthumbfootprocesstruefatalearthchaosadjust
-bip_39_word_no_space_2: aimcotton
-bip_39_word_no_space_3: aimcottonacoustic
-bip_39_word_space_12: aim cotton acoustic narrow thumb foot process true fatal earth
-  chaos adjust
-bip_39_word_space_2: aim cotton
-bip_39_word_space_3: aim cotton acoustic
-bip_39_word_underscore_12: aim_cotton_acoustic_narrow_thumb_foot_process_true_fatal_earth_chaos_adjust
-bip_39_word_underscore_2: aim_cotton
-bip_39_word_underscore_3: aim_cotton_acoustic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: plug
 description_extra_capital: Plug
 description_extra_first_letter: p
 description_extra_first_letter_upper: P
-description_extra_length_1: p
-description_extra_length_2: pl
-description_extra_length_3: plu
-description_extra_length_4: plug
-description_extra_length_5: plug
-description_extra_length_6: plug
-description_extra_name: Plug
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: pl
-description_extra_no_space_length_3: plu
-description_extra_no_space_length_4: plug
-description_extra_no_space_length_5: plug
-description_extra_no_space_length_6: plug
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PL
-description_extra_no_space_upper_length_3: PLU
-description_extra_no_space_upper_length_4: PLUG
-description_extra_no_space_upper_length_5: PLUG
-description_extra_no_space_upper_length_6: PLUG
 description_extra_upper: PLUG
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PL
-description_extra_upper_length_3: PLU
-description_extra_upper_length_4: PLUG
-description_extra_upper_length_5: PLUG
-description_extra_upper_length_6: PLUG
 description_main: 3_pin
 description_main_capital: 3 Pin
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '3_'
-description_main_length_3: 3_p
-description_main_length_4: 3_pi
-description_main_length_5: 3_pin
-description_main_length_6: 3_pin
-description_main_name: 3 Pin
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: 3p
-description_main_no_space_length_3: 3pi
-description_main_no_space_length_4: 3pin
-description_main_no_space_length_5: 3pin
-description_main_no_space_length_6: 3pin
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: 3P
-description_main_no_space_upper_length_3: 3PI
-description_main_no_space_upper_length_4: 3PIN
-description_main_no_space_upper_length_5: 3PIN
-description_main_no_space_upper_length_6: 3PIN
 description_main_upper: 3_PIN
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '3_'
-description_main_upper_length_3: 3_P
-description_main_upper_length_4: 3_PI
-description_main_upper_length_5: 3_PIN
-description_main_upper_length_6: 3_PIN
 description_only_numbers: '3'
 description_only_numbers_short: '3'
 description_or_color: '3'
 description_or_color_upper: '3'
 directory: parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_3_pin_plug
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_3_pin_plug
 id: electronic_crimp_housing_2_5_mm_jst_sm_latching_3_pin_plug
 id_no_class: crimp_housing_2_5_mm_jst_sm_latching_3_pin_plug
-id_no_color: 3pinplug
 id_no_size: 3_pin_plug
 id_no_type: 2_5_mm_jst_sm_latching_3_pin_plug
 kicad_reference: CONN
@@ -161,7 +36,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_3_pin_plug](none)<br>[ch3p](none)<br>[Electronic
@@ -176,12 +50,11 @@ md5_6: 384c91
 md5_6_alpha: 272xd
 md5_6_alpha_upper: 272XD
 md5_6_upper: 384C91
-name: Electronic Crimp Housing 2 5 mm Jst Sm Latching 3 Pin Plug
-name_no_class: Crimp Housing 2 5 mm Jst Sm Latching 3 Pin Plug
-name_no_color: 3Pinplug
+name: Electronic Crimp Housing 2 5 Mm Jst Sm Latching 3 Pin Plug
+name_no_class: Crimp Housing 2 5 Mm Jst Sm Latching 3 Pin Plug
 name_no_size: 3 Pin Plug
 name_no_size_short: 3 Pin Plug
-name_no_type: 2 5 mm Jst Sm Latching 3 Pin Plug
+name_no_type: 2 5 Mm Jst Sm Latching 3 Pin Plug
 oomp_key: oomp_electronic_crimp_housing_2_5_mm_jst_sm_latching_3_pin_plug
 oomp_word: frog turtle pushpin
 oomp_word_emoji: ':frog: :turtle: :pushpin:'
@@ -197,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ch3p
 short_code_upper: CH3P
@@ -205,61 +77,11 @@ size: 2_5_mm_jst_sm_latching
 size_capital: 2.5 mm Jst Sm Latching
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '2_'
-size_length_3: '2_5'
-size_length_4: '2_5_'
-size_length_5: 2_5_m
-size_length_6: 2_5_mm
-size_name: 2 5 mm Jst Sm Latching
-size_no_space_length_1: '2'
-size_no_space_length_2: '25'
-size_no_space_length_3: 25m
-size_no_space_length_4: 25mm
-size_no_space_length_5: 25mmj
-size_no_space_length_6: 25mmjs
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '25'
-size_no_space_upper_length_3: 25M
-size_no_space_upper_length_4: 25MM
-size_no_space_upper_length_5: 25MMJ
-size_no_space_upper_length_6: 25MMJS
 size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
 size_upper: 2_5_MM_JST_SM_LATCHING
-size_upper_length_1: '2'
-size_upper_length_2: '2_'
-size_upper_length_3: '2_5'
-size_upper_length_4: '2_5_'
-size_upper_length_5: 2_5_M
-size_upper_length_6: 2_5_MM
 type: crimp_housing
 type_capital: Crimp Housing
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cr
-type_length_3: cri
-type_length_4: crim
-type_length_5: crimp
-type_length_6: crimp_
-type_name: Crimp Housing
-type_no_space_length_1: c
-type_no_space_length_2: cr
-type_no_space_length_3: cri
-type_no_space_length_4: crim
-type_no_space_length_5: crimp
-type_no_space_length_6: crimph
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CR
-type_no_space_upper_length_3: CRI
-type_no_space_upper_length_4: CRIM
-type_no_space_upper_length_5: CRIMP
-type_no_space_upper_length_6: CRIMPH
 type_upper: CRIMP_HOUSING
-type_upper_length_1: C
-type_upper_length_2: CR
-type_upper_length_3: CRI
-type_upper_length_4: CRIM
-type_upper_length_5: CRIMP
-type_upper_length_6: CRIMP_

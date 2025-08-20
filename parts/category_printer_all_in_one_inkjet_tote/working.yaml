@@ -1,122 +1,23 @@
-bip_39_word_dash_12: squeeze-begin-blossom-visa-absorb-entry-fragile-excess-dream-warfare-ranch-action
-bip_39_word_dash_2: squeeze-begin
-bip_39_word_dash_3: squeeze-begin-blossom
-bip_39_word_new_br_12: squeeze<br>begin<br>blossom<br>visa<br>absorb<br>entry<br>fragile<br>excess<br>dream<br>warfare<br>ranch<br>action
-bip_39_word_new_br_2: squeeze<br>begin
-bip_39_word_new_br_3: squeeze<br>begin<br>blossom
-bip_39_word_new_line_12: 'squeeze
-
-  begin
-
-  blossom
-
-  visa
-
-  absorb
-
-  entry
-
-  fragile
-
-  excess
-
-  dream
-
-  warfare
-
-  ranch
-
-  action'
-bip_39_word_new_line_2: 'squeeze
-
-  begin'
-bip_39_word_new_line_3: 'squeeze
-
-  begin
-
-  blossom'
-bip_39_word_no_space_12: squeezebeginblossomvisaabsorbentryfragileexcessdreamwarfareranchaction
-bip_39_word_no_space_2: squeezebegin
-bip_39_word_no_space_3: squeezebeginblossom
-bip_39_word_space_12: squeeze begin blossom visa absorb entry fragile excess dream
-  warfare ranch action
-bip_39_word_space_2: squeeze begin
-bip_39_word_space_3: squeeze begin blossom
-bip_39_word_underscore_12: squeeze_begin_blossom_visa_absorb_entry_fragile_excess_dream_warfare_ranch_action
-bip_39_word_underscore_2: squeeze_begin
-bip_39_word_underscore_3: squeeze_begin_blossom
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_printer
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_printer_all_in_one_inkjet_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_printer_all_in_one_inkjet_tote
 id: category_printer_all_in_one_inkjet_tote
 id_no_class: printer_all_in_one_inkjet_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: all_in_one_inkjet_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_printer_all_in_one_inkjet_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 1M4VX
 md5_6_upper: 29633D
 name: Category Printer All In One Inkjet Tote
 name_no_class: Printer All In One Inkjet Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: All In One Inkjet Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: all_in_one_inkjet
 size_capital: All In One Inkjet
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: al
-size_length_3: all
-size_length_4: all_
-size_length_5: all_i
-size_length_6: all_in
-size_name: All In One Inkjet
-size_no_space_length_1: a
-size_no_space_length_2: al
-size_no_space_length_3: all
-size_no_space_length_4: alli
-size_no_space_length_5: allin
-size_no_space_length_6: allino
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: AL
-size_no_space_upper_length_3: ALL
-size_no_space_upper_length_4: ALLI
-size_no_space_upper_length_5: ALLIN
-size_no_space_upper_length_6: ALLINO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ALL_IN_ONE_INKJET
-size_upper_length_1: A
-size_upper_length_2: AL
-size_upper_length_3: ALL
-size_upper_length_4: ALL_
-size_upper_length_5: ALL_I
-size_upper_length_6: ALL_IN
 type: printer
 type_capital: Printer
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pr
-type_length_3: pri
-type_length_4: prin
-type_length_5: print
-type_length_6: printe
-type_name: Printer
-type_no_space_length_1: p
-type_no_space_length_2: pr
-type_no_space_length_3: pri
-type_no_space_length_4: prin
-type_no_space_length_5: print
-type_no_space_length_6: printe
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PR
-type_no_space_upper_length_3: PRI
-type_no_space_upper_length_4: PRIN
-type_no_space_upper_length_5: PRINT
-type_no_space_upper_length_6: PRINTE
 type_upper: PRINTER
-type_upper_length_1: P
-type_upper_length_2: PR
-type_upper_length_3: PRI
-type_upper_length_4: PRIN
-type_upper_length_5: PRINT
-type_upper_length_6: PRINTE

@@ -1,170 +1,23 @@
-bip_39_word_dash_12: walnut-behave-wire-material-gentle-top-slam-game-master-parade-gown-achieve
-bip_39_word_dash_2: walnut-behave
-bip_39_word_dash_3: walnut-behave-wire
-bip_39_word_new_br_12: walnut<br>behave<br>wire<br>material<br>gentle<br>top<br>slam<br>game<br>master<br>parade<br>gown<br>achieve
-bip_39_word_new_br_2: walnut<br>behave
-bip_39_word_new_br_3: walnut<br>behave<br>wire
-bip_39_word_new_line_12: 'walnut
-
-  behave
-
-  wire
-
-  material
-
-  gentle
-
-  top
-
-  slam
-
-  game
-
-  master
-
-  parade
-
-  gown
-
-  achieve'
-bip_39_word_new_line_2: 'walnut
-
-  behave'
-bip_39_word_new_line_3: 'walnut
-
-  behave
-
-  wire'
-bip_39_word_no_space_12: walnutbehavewirematerialgentletopslamgamemasterparadegownachieve
-bip_39_word_no_space_2: walnutbehave
-bip_39_word_no_space_3: walnutbehavewire
-bip_39_word_space_12: walnut behave wire material gentle top slam game master parade
-  gown achieve
-bip_39_word_space_2: walnut behave
-bip_39_word_space_3: walnut behave wire
-bip_39_word_underscore_12: walnut_behave_wire_material_gentle_top_slam_game_master_parade_gown_achieve
-bip_39_word_underscore_2: walnut_behave
-bip_39_word_underscore_3: walnut_behave_wire
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
-classification_length_1: g
-classification_length_2: ga
-classification_length_3: gar
-classification_length_4: gard
-classification_length_5: garde
-classification_length_6: garden
-classification_name: Garden
-classification_no_space_length_1: g
-classification_no_space_length_2: ga
-classification_no_space_length_3: gar
-classification_no_space_length_4: gard
-classification_no_space_length_5: garde
-classification_no_space_length_6: garden
-classification_no_space_upper_length_1: G
-classification_no_space_upper_length_2: GA
-classification_no_space_upper_length_3: GAR
-classification_no_space_upper_length_4: GARD
-classification_no_space_upper_length_5: GARDE
-classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
-classification_upper_length_1: G
-classification_upper_length_2: GA
-classification_upper_length_3: GAR
-classification_upper_length_4: GARD
-classification_upper_length_5: GARDE
-classification_upper_length_6: GARDEN
 color: daisy
 color_capital: Daisy
 color_first_letter: d
 color_first_letter_upper: D
-color_length_1: d
-color_length_2: da
-color_length_3: dai
-color_length_4: dais
-color_length_5: daisy
-color_length_6: daisy
-color_name: Daisy
-color_no_space_length_1: d
-color_no_space_length_2: da
-color_no_space_length_3: dai
-color_no_space_length_4: dais
-color_no_space_length_5: daisy
-color_no_space_length_6: daisy
-color_no_space_upper_length_1: D
-color_no_space_upper_length_2: DA
-color_no_space_upper_length_3: DAI
-color_no_space_upper_length_4: DAIS
-color_no_space_upper_length_5: DAISY
-color_no_space_upper_length_6: DAISY
 color_upper: DAISY
-color_upper_length_1: D
-color_upper_length_2: DA
-color_upper_length_3: DAI
-color_upper_length_4: DAIS
-color_upper_length_5: DAISY
-color_upper_length_6: DAISY
 description_extra: seed_packet
 description_extra_capital: Seed Packet
 description_extra_first_letter: s
 description_extra_first_letter_upper: S
-description_extra_length_1: s
-description_extra_length_2: se
-description_extra_length_3: see
-description_extra_length_4: seed
-description_extra_length_5: seed_
-description_extra_length_6: seed_p
-description_extra_name: Seed Packet
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: se
-description_extra_no_space_length_3: see
-description_extra_no_space_length_4: seed
-description_extra_no_space_length_5: seedp
-description_extra_no_space_length_6: seedpa
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SE
-description_extra_no_space_upper_length_3: SEE
-description_extra_no_space_upper_length_4: SEED
-description_extra_no_space_upper_length_5: SEEDP
-description_extra_no_space_upper_length_6: SEEDPA
 description_extra_upper: SEED_PACKET
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SE
-description_extra_upper_length_3: SEE
-description_extra_upper_length_4: SEED
-description_extra_upper_length_5: SEED_
-description_extra_upper_length_6: SEED_P
 description_main: ox_eye
 description_main_capital: Ox Eye
 description_main_first_letter: o
 description_main_first_letter_upper: O
-description_main_length_1: o
-description_main_length_2: ox
-description_main_length_3: ox_
-description_main_length_4: ox_e
-description_main_length_5: ox_ey
-description_main_length_6: ox_eye
-description_main_name: Ox Eye
-description_main_no_space_length_1: o
-description_main_no_space_length_2: ox
-description_main_no_space_length_3: oxe
-description_main_no_space_length_4: oxey
-description_main_no_space_length_5: oxeye
-description_main_no_space_length_6: oxeye
-description_main_no_space_upper_length_1: O
-description_main_no_space_upper_length_2: OX
-description_main_no_space_upper_length_3: OXE
-description_main_no_space_upper_length_4: OXEY
-description_main_no_space_upper_length_5: OXEYE
-description_main_no_space_upper_length_6: OXEYE
 description_main_upper: OX_EYE
-description_main_upper_length_1: O
-description_main_upper_length_2: OX
-description_main_upper_length_3: OX_
-description_main_upper_length_4: OX_E
-description_main_upper_length_5: OX_EY
-description_main_upper_length_6: OX_EYE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'D '
@@ -172,10 +25,8 @@ description_or_color_upper: 'D '
 directory: parts/garden_plant_flower_daisy_ox_eye_seed_packet
 distributor_sutton_seeds: '142036'
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_flower_daisy_ox_eye_seed_packet
 id: garden_plant_flower_daisy_ox_eye_seed_packet
 id_no_class: plant_flower_daisy_ox_eye_seed_packet
-id_no_color: ox_eye_seed_packet
 id_no_size: daisy_ox_eye_seed_packet
 id_no_type: flower_daisy_ox_eye_seed_packet
 link_distributor_sutton_seeds: https://www.suttons.co.uk/oxeye-daisy-seeds_mh-53149
@@ -186,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_flower_daisy_ox_eye_seed_packet](none)<br>[](none)<br>[Garden
@@ -203,7 +53,6 @@ md5_6_alpha_upper: 14FVS
 md5_6_upper: 1CCA68
 name: Garden Plant Flower Daisy Ox Eye Seed Packet
 name_no_class: Plant Flower Daisy Ox Eye Seed Packet
-name_no_color: Ox Eye Seed Packet
 name_no_size: Daisy Ox Eye Seed Packet
 name_no_size_short: Daisy Ox Eye Seed Packet
 name_no_type: Flower Daisy Ox Eye Seed Packet
@@ -222,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -231,61 +79,11 @@ size: flower
 size_capital: Flower
 size_first_letter: f
 size_first_letter_upper: F
-size_length_1: f
-size_length_2: fl
-size_length_3: flo
-size_length_4: flow
-size_length_5: flowe
-size_length_6: flower
-size_name: Flower
-size_no_space_length_1: f
-size_no_space_length_2: fl
-size_no_space_length_3: flo
-size_no_space_length_4: flow
-size_no_space_length_5: flowe
-size_no_space_length_6: flower
-size_no_space_upper_length_1: F
-size_no_space_upper_length_2: FL
-size_no_space_upper_length_3: FLO
-size_no_space_upper_length_4: FLOW
-size_no_space_upper_length_5: FLOWE
-size_no_space_upper_length_6: FLOWER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FLOWER
-size_upper_length_1: F
-size_upper_length_2: FL
-size_upper_length_3: FLO
-size_upper_length_4: FLOW
-size_upper_length_5: FLOWE
-size_upper_length_6: FLOWER
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pl
-type_length_3: pla
-type_length_4: plan
-type_length_5: plant
-type_length_6: plant
-type_name: Plant
-type_no_space_length_1: p
-type_no_space_length_2: pl
-type_no_space_length_3: pla
-type_no_space_length_4: plan
-type_no_space_length_5: plant
-type_no_space_length_6: plant
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PL
-type_no_space_upper_length_3: PLA
-type_no_space_upper_length_4: PLAN
-type_no_space_upper_length_5: PLANT
-type_no_space_upper_length_6: PLANT
 type_upper: PLANT
-type_upper_length_1: P
-type_upper_length_2: PL
-type_upper_length_3: PLA
-type_upper_length_4: PLAN
-type_upper_length_5: PLANT
-type_upper_length_6: PLANT

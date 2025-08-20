@@ -1,98 +1,23 @@
-bip_39_word_dash_12: reform-office-decide-comic-excess-tuition-dial-buzz-beach-practice-ensure-about
-bip_39_word_dash_2: reform-office
-bip_39_word_dash_3: reform-office-decide
-bip_39_word_new_br_12: reform<br>office<br>decide<br>comic<br>excess<br>tuition<br>dial<br>buzz<br>beach<br>practice<br>ensure<br>about
-bip_39_word_new_br_2: reform<br>office
-bip_39_word_new_br_3: reform<br>office<br>decide
-bip_39_word_new_line_12: 'reform
-
-  office
-
-  decide
-
-  comic
-
-  excess
-
-  tuition
-
-  dial
-
-  buzz
-
-  beach
-
-  practice
-
-  ensure
-
-  about'
-bip_39_word_new_line_2: 'reform
-
-  office'
-bip_39_word_new_line_3: 'reform
-
-  office
-
-  decide'
-bip_39_word_no_space_12: reformofficedecidecomicexcesstuitiondialbuzzbeachpracticeensureabout
-bip_39_word_no_space_2: reformoffice
-bip_39_word_no_space_3: reformofficedecide
-bip_39_word_space_12: reform office decide comic excess tuition dial buzz beach practice
-  ensure about
-bip_39_word_space_2: reform office
-bip_39_word_space_3: reform office decide
-bip_39_word_underscore_12: reform_office_decide_comic_excess_tuition_dial_buzz_beach_practice_ensure_about
-bip_39_word_underscore_2: reform_office
-bip_39_word_underscore_3: reform_office_decide
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_household_toy
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_household_toy_game
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_toy_game
 id: category_household_toy_game
 id_no_class: household_toy_game
-id_no_color: game
 id_no_size: game
 id_no_type: game
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_game
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_household_toy_game](none)<br>[](none)<br>[Category Household
@@ -132,7 +54,6 @@ md5_6_alpha_upper: '9962'
 md5_6_upper: 0696AA
 name: Category Household Toy Game
 name_no_class: Household Toy Game
-name_no_color: Game
 name_no_size: Game
 name_no_size_short: Game
 name_no_type: Game
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: game
 size_capital: Game
 size_first_letter: g
 size_first_letter_upper: G
-size_length_1: g
-size_length_2: ga
-size_length_3: gam
-size_length_4: game
-size_length_5: game
-size_length_6: game
-size_name: Game
-size_no_space_length_1: g
-size_no_space_length_2: ga
-size_no_space_length_3: gam
-size_no_space_length_4: game
-size_no_space_length_5: game
-size_no_space_length_6: game
-size_no_space_upper_length_1: G
-size_no_space_upper_length_2: GA
-size_no_space_upper_length_3: GAM
-size_no_space_upper_length_4: GAME
-size_no_space_upper_length_5: GAME
-size_no_space_upper_length_6: GAME
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GAME
-size_upper_length_1: G
-size_upper_length_2: GA
-size_upper_length_3: GAM
-size_upper_length_4: GAME
-size_upper_length_5: GAME
-size_upper_length_6: GAME
 type: household_toy
 type_capital: Household Toy
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ho
-type_length_3: hou
-type_length_4: hous
-type_length_5: house
-type_length_6: househ
-type_name: Household Toy
-type_no_space_length_1: h
-type_no_space_length_2: ho
-type_no_space_length_3: hou
-type_no_space_length_4: hous
-type_no_space_length_5: house
-type_no_space_length_6: househ
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HO
-type_no_space_upper_length_3: HOU
-type_no_space_upper_length_4: HOUS
-type_no_space_upper_length_5: HOUSE
-type_no_space_upper_length_6: HOUSEH
 type_upper: HOUSEHOLD_TOY
-type_upper_length_1: H
-type_upper_length_2: HO
-type_upper_length_3: HOU
-type_upper_length_4: HOUS
-type_upper_length_5: HOUSE
-type_upper_length_6: HOUSEH

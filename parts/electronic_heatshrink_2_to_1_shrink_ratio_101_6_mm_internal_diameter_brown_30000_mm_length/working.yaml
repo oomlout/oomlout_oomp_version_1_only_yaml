@@ -1,156 +1,31 @@
-bip_39_word_dash_12: hint-expand-lobster-vault-gloom-scan-letter-velvet-edge-side-lady-agree
-bip_39_word_dash_2: hint-expand
-bip_39_word_dash_3: hint-expand-lobster
-bip_39_word_new_br_12: hint<br>expand<br>lobster<br>vault<br>gloom<br>scan<br>letter<br>velvet<br>edge<br>side<br>lady<br>agree
-bip_39_word_new_br_2: hint<br>expand
-bip_39_word_new_br_3: hint<br>expand<br>lobster
-bip_39_word_new_line_12: 'hint
-
-  expand
-
-  lobster
-
-  vault
-
-  gloom
-
-  scan
-
-  letter
-
-  velvet
-
-  edge
-
-  side
-
-  lady
-
-  agree'
-bip_39_word_new_line_2: 'hint
-
-  expand'
-bip_39_word_new_line_3: 'hint
-
-  expand
-
-  lobster'
-bip_39_word_no_space_12: hintexpandlobstervaultgloomscanlettervelvetedgesideladyagree
-bip_39_word_no_space_2: hintexpand
-bip_39_word_no_space_3: hintexpandlobster
-bip_39_word_space_12: hint expand lobster vault gloom scan letter velvet edge side
-  lady agree
-bip_39_word_space_2: hint expand
-bip_39_word_space_3: hint expand lobster
-bip_39_word_underscore_12: hint_expand_lobster_vault_gloom_scan_letter_velvet_edge_side_lady_agree
-bip_39_word_underscore_2: hint_expand
-bip_39_word_underscore_3: hint_expand_lobster
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: brown
 color_capital: Brown
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: br
-color_length_3: bro
-color_length_4: brow
-color_length_5: brown
-color_length_6: brown
-color_name: Brown
-color_no_space_length_1: b
-color_no_space_length_2: br
-color_no_space_length_3: bro
-color_no_space_length_4: brow
-color_no_space_length_5: brown
-color_no_space_length_6: brown
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BR
-color_no_space_upper_length_3: BRO
-color_no_space_upper_length_4: BROW
-color_no_space_upper_length_5: BROWN
-color_no_space_upper_length_6: BROWN
 color_upper: BROWN
-color_upper_length_1: B
-color_upper_length_2: BR
-color_upper_length_3: BRO
-color_upper_length_4: BROW
-color_upper_length_5: BROWN
-color_upper_length_6: BROWN
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 30000_mm_length
 description_main_capital: 30000 mm Length
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '30'
-description_main_length_3: '300'
-description_main_length_4: '3000'
-description_main_length_5: '30000'
-description_main_length_6: '30000_'
-description_main_name: 30000 mm Length
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '30'
-description_main_no_space_length_3: '300'
-description_main_no_space_length_4: '3000'
-description_main_no_space_length_5: '30000'
-description_main_no_space_length_6: 30000m
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '30'
-description_main_no_space_upper_length_3: '300'
-description_main_no_space_upper_length_4: '3000'
-description_main_no_space_upper_length_5: '30000'
-description_main_no_space_upper_length_6: 30000M
 description_main_upper: 30000_MM_LENGTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '30'
-description_main_upper_length_3: '300'
-description_main_upper_length_4: '3000'
-description_main_upper_length_5: '30000'
-description_main_upper_length_6: '30000_'
 description_only_numbers: '30000'
 description_only_numbers_short: 30k
 description_or_color: B30k
 description_or_color_upper: B30K
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_brown_30000_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_brown_30000_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_brown_30000_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_brown_30000_mm_length
-id_no_color: 30000_mm_length
 id_no_size: brown_30000_mm_length
 id_no_type: 101_6_mm_internal_diameter_brown_30000_mm_length
 kicad_reference: ''
@@ -161,7 +36,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_brown_30000_mm_length](none)<br>[br](none)<br>[Electronic
@@ -176,14 +50,13 @@ md5_6: 50f931
 md5_6_alpha: 35qnl
 md5_6_alpha_upper: 35QNL
 md5_6_upper: 50F931
-name: Electronic Heatshrink 2 To 1 Shrink Ratio 101 6 mm Internal Diameter Brown 30000
-  mm Length
-name_no_class: Heatshrink 2 To 1 Shrink Ratio 101 6 mm Internal Diameter Brown 30000
-  mm Length
-name_no_color: 30000 mm Length
-name_no_size: Brown 30000 mm Length
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Brown 30000
+  Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Brown 30000
+  Mm Length
+name_no_size: Brown 30000 Mm Length
 name_no_size_short: Brown 30k Mm Length
-name_no_type: 101 6 mm Internal Diameter Brown 30000 mm Length
+name_no_type: 101 6 Mm Internal Diameter Brown 30000 Mm Length
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_brown_30000_mm_length
 oomp_word: beetle eight ocean
 oomp_word_emoji: ':beetle: :eight: :ocean:'
@@ -199,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: br
 short_code_upper: BR
@@ -207,61 +79,11 @@ size: 101_6_mm_internal_diameter
 size_capital: 101.6 mm Internal Diameter
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '10'
-size_length_3: '101'
-size_length_4: '101_'
-size_length_5: '101_6'
-size_length_6: '101_6_'
-size_name: 101 6 mm Internal Diameter
-size_no_space_length_1: '1'
-size_no_space_length_2: '10'
-size_no_space_length_3: '101'
-size_no_space_length_4: '1016'
-size_no_space_length_5: 1016m
-size_no_space_length_6: 1016mm
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: '10'
-size_no_space_upper_length_3: '101'
-size_no_space_upper_length_4: '1016'
-size_no_space_upper_length_5: 1016M
-size_no_space_upper_length_6: 1016MM
 size_only_numbers: '1016'
 size_only_numbers_no_zeros: '116'
 size_upper: 101_6_MM_INTERNAL_DIAMETER
-size_upper_length_1: '1'
-size_upper_length_2: '10'
-size_upper_length_3: '101'
-size_upper_length_4: '101_'
-size_upper_length_5: '101_6'
-size_upper_length_6: '101_6_'
 type: heatshrink_2_to_1_shrink_ratio
 type_capital: Heatshrink 2 To 1 Shrink Ratio
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: he
-type_length_3: hea
-type_length_4: heat
-type_length_5: heats
-type_length_6: heatsh
-type_name: Heatshrink 2 To 1 Shrink Ratio
-type_no_space_length_1: h
-type_no_space_length_2: he
-type_no_space_length_3: hea
-type_no_space_length_4: heat
-type_no_space_length_5: heats
-type_no_space_length_6: heatsh
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HE
-type_no_space_upper_length_3: HEA
-type_no_space_upper_length_4: HEAT
-type_no_space_upper_length_5: HEATS
-type_no_space_upper_length_6: HEATSH
 type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO
-type_upper_length_1: H
-type_upper_length_2: HE
-type_upper_length_3: HEA
-type_upper_length_4: HEAT
-type_upper_length_5: HEATS
-type_upper_length_6: HEATSH

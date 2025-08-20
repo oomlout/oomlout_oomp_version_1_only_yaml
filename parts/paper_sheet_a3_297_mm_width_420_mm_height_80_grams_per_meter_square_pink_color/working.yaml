@@ -1,146 +1,23 @@
-bip_39_word_dash_12: main-tomorrow-napkin-join-entire-develop-invest-spy-salute-burst-nasty-answer
-bip_39_word_dash_2: main-tomorrow
-bip_39_word_dash_3: main-tomorrow-napkin
-bip_39_word_new_br_12: main<br>tomorrow<br>napkin<br>join<br>entire<br>develop<br>invest<br>spy<br>salute<br>burst<br>nasty<br>answer
-bip_39_word_new_br_2: main<br>tomorrow
-bip_39_word_new_br_3: main<br>tomorrow<br>napkin
-bip_39_word_new_line_12: 'main
-
-  tomorrow
-
-  napkin
-
-  join
-
-  entire
-
-  develop
-
-  invest
-
-  spy
-
-  salute
-
-  burst
-
-  nasty
-
-  answer'
-bip_39_word_new_line_2: 'main
-
-  tomorrow'
-bip_39_word_new_line_3: 'main
-
-  tomorrow
-
-  napkin'
-bip_39_word_no_space_12: maintomorrownapkinjoinentiredevelopinvestspysaluteburstnastyanswer
-bip_39_word_no_space_2: maintomorrow
-bip_39_word_no_space_3: maintomorrownapkin
-bip_39_word_space_12: main tomorrow napkin join entire develop invest spy salute burst
-  nasty answer
-bip_39_word_space_2: main tomorrow
-bip_39_word_space_3: main tomorrow napkin
-bip_39_word_underscore_12: main_tomorrow_napkin_join_entire_develop_invest_spy_salute_burst_nasty_answer
-bip_39_word_underscore_2: main_tomorrow
-bip_39_word_underscore_3: main_tomorrow_napkin
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pap
-classification_length_4: pape
-classification_length_5: paper
-classification_length_6: paper
-classification_name: Paper
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pap
-classification_no_space_length_4: pape
-classification_no_space_length_5: paper
-classification_no_space_length_6: paper
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAP
-classification_no_space_upper_length_4: PAPE
-classification_no_space_upper_length_5: PAPER
-classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAP
-classification_upper_length_4: PAPE
-classification_upper_length_5: PAPER
-classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: pink_color
 description_extra_capital: Pink Color
 description_extra_first_letter: p
 description_extra_first_letter_upper: P
-description_extra_length_1: p
-description_extra_length_2: pi
-description_extra_length_3: pin
-description_extra_length_4: pink
-description_extra_length_5: pink_
-description_extra_length_6: pink_c
-description_extra_name: Pink Color
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: pi
-description_extra_no_space_length_3: pin
-description_extra_no_space_length_4: pink
-description_extra_no_space_length_5: pinkc
-description_extra_no_space_length_6: pinkco
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PI
-description_extra_no_space_upper_length_3: PIN
-description_extra_no_space_upper_length_4: PINK
-description_extra_no_space_upper_length_5: PINKC
-description_extra_no_space_upper_length_6: PINKCO
 description_extra_upper: PINK_COLOR
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PI
-description_extra_upper_length_3: PIN
-description_extra_upper_length_4: PINK
-description_extra_upper_length_5: PINK_
-description_extra_upper_length_6: PINK_C
 description_main: 80_grams_per_meter_square
 description_main_capital: 80 Grams Per Meter Square
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
-description_main_length_1: '8'
-description_main_length_2: '80'
-description_main_length_3: '80_'
-description_main_length_4: 80_g
-description_main_length_5: 80_gr
-description_main_length_6: 80_gra
-description_main_name: 80 Grams Per Meter Square
-description_main_no_space_length_1: '8'
-description_main_no_space_length_2: '80'
-description_main_no_space_length_3: 80g
-description_main_no_space_length_4: 80gr
-description_main_no_space_length_5: 80gra
-description_main_no_space_length_6: 80gram
-description_main_no_space_upper_length_1: '8'
-description_main_no_space_upper_length_2: '80'
-description_main_no_space_upper_length_3: 80G
-description_main_no_space_upper_length_4: 80GR
-description_main_no_space_upper_length_5: 80GRA
-description_main_no_space_upper_length_6: 80GRAM
 description_main_upper: 80_GRAMS_PER_METER_SQUARE
-description_main_upper_length_1: '8'
-description_main_upper_length_2: '80'
-description_main_upper_length_3: '80_'
-description_main_upper_length_4: 80_G
-description_main_upper_length_5: 80_GR
-description_main_upper_length_6: 80_GRA
 description_only_numbers: '80'
 description_only_numbers_short: '80'
 description_or_color: '80'
@@ -149,11 +26,9 @@ directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_sq
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color
 height: 420 mm
 id: paper_sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color
 id_no_class: sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color
-id_no_color: 80gramspermetersquarepinkcolor
 id_no_size: 80_grams_per_meter_square_pink_color
 id_no_type: a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color](none)<br>[](none)<br>[Paper
@@ -178,13 +52,12 @@ md5_6: 9b2647
 md5_6_alpha: 61xl3
 md5_6_alpha_upper: 61XL3
 md5_6_upper: 9B2647
-name: Paper Sheet A3 297 mm Width 420 mm Height 80 Grams Per Meter Square Pink Color
-name_no_class: Sheet A3 297 mm Width 420 mm Height 80 Grams Per Meter Square Pink
+name: Paper Sheet A3 297 Mm Width 420 Mm Height 80 Grams Per Meter Square Pink Color
+name_no_class: Sheet A3 297 Mm Width 420 Mm Height 80 Grams Per Meter Square Pink
   Color
-name_no_color: 80Gramspermetersquarepinkcolor
 name_no_size: 80 Grams Per Meter Square Pink Color
 name_no_size_short: 80 Grams Per Meter Square Pink Color
-name_no_type: A3 297 mm Width 420 mm Height 80 Grams Per Meter Square Pink Color
+name_no_type: A3 297 Mm Width 420 Mm Height 80 Grams Per Meter Square Pink Color
 oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_80_grams_per_meter_square_pink_color
 oomp_word: ski eyes baby_chick
 oomp_word_emoji: ':ski: :eyes: :baby_chick:'
@@ -200,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -208,62 +80,12 @@ size: a3_297_mm_width_420_mm_height
 size_capital: A3.297 mm Width 420 mm Height
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: a3
-size_length_3: a3_
-size_length_4: a3_2
-size_length_5: a3_29
-size_length_6: a3_297
-size_name: A3 297 mm Width 420 mm Height
-size_no_space_length_1: a
-size_no_space_length_2: a3
-size_no_space_length_3: a32
-size_no_space_length_4: a329
-size_no_space_length_5: a3297
-size_no_space_length_6: a3297m
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A3
-size_no_space_upper_length_3: A32
-size_no_space_upper_length_4: A329
-size_no_space_upper_length_5: A3297
-size_no_space_upper_length_6: A3297M
 size_only_numbers: '3297420'
 size_only_numbers_no_zeros: '329742'
 size_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
-size_upper_length_1: A
-size_upper_length_2: A3
-size_upper_length_3: A3_
-size_upper_length_4: A3_2
-size_upper_length_5: A3_29
-size_upper_length_6: A3_297
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sh
-type_length_3: she
-type_length_4: shee
-type_length_5: sheet
-type_length_6: sheet
-type_name: Sheet
-type_no_space_length_1: s
-type_no_space_length_2: sh
-type_no_space_length_3: she
-type_no_space_length_4: shee
-type_no_space_length_5: sheet
-type_no_space_length_6: sheet
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SH
-type_no_space_upper_length_3: SHE
-type_no_space_upper_length_4: SHEE
-type_no_space_upper_length_5: SHEET
-type_no_space_upper_length_6: SHEET
 type_upper: SHEET
-type_upper_length_1: S
-type_upper_length_2: SH
-type_upper_length_3: SHE
-type_upper_length_4: SHEE
-type_upper_length_5: SHEET
-type_upper_length_6: SHEET
 width: 297 mm

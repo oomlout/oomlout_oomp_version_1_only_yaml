@@ -1,147 +1,24 @@
-bip_39_word_dash_12: speed-length-magic-actual-deny-beauty-steak-disorder-lunar-brown-envelope-ahead
-bip_39_word_dash_2: speed-length
-bip_39_word_dash_3: speed-length-magic
-bip_39_word_new_br_12: speed<br>length<br>magic<br>actual<br>deny<br>beauty<br>steak<br>disorder<br>lunar<br>brown<br>envelope<br>ahead
-bip_39_word_new_br_2: speed<br>length
-bip_39_word_new_br_3: speed<br>length<br>magic
-bip_39_word_new_line_12: 'speed
-
-  length
-
-  magic
-
-  actual
-
-  deny
-
-  beauty
-
-  steak
-
-  disorder
-
-  lunar
-
-  brown
-
-  envelope
-
-  ahead'
-bip_39_word_new_line_2: 'speed
-
-  length'
-bip_39_word_new_line_3: 'speed
-
-  length
-
-  magic'
-bip_39_word_no_space_12: speedlengthmagicactualdenybeautysteakdisorderlunarbrownenvelopeahead
-bip_39_word_no_space_2: speedlength
-bip_39_word_no_space_3: speedlengthmagic
-bip_39_word_space_12: speed length magic actual deny beauty steak disorder lunar brown
-  envelope ahead
-bip_39_word_space_2: speed length
-bip_39_word_space_3: speed length magic
-bip_39_word_underscore_12: speed_length_magic_actual_deny_beauty_steak_disorder_lunar_brown_envelope_ahead
-bip_39_word_underscore_2: speed_length
-bip_39_word_underscore_3: speed_length_magic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: ''
 description_extra: wifi_header_attached
 description_extra_capital: Wifi Header Attached
 description_extra_first_letter: w
 description_extra_first_letter_upper: W
-description_extra_length_1: w
-description_extra_length_2: wi
-description_extra_length_3: wif
-description_extra_length_4: wifi
-description_extra_length_5: wifi_
-description_extra_length_6: wifi_h
-description_extra_name: Wifi Header Attached
-description_extra_no_space_length_1: w
-description_extra_no_space_length_2: wi
-description_extra_no_space_length_3: wif
-description_extra_no_space_length_4: wifi
-description_extra_no_space_length_5: wifih
-description_extra_no_space_length_6: wifihe
-description_extra_no_space_upper_length_1: W
-description_extra_no_space_upper_length_2: WI
-description_extra_no_space_upper_length_3: WIF
-description_extra_no_space_upper_length_4: WIFI
-description_extra_no_space_upper_length_5: WIFIH
-description_extra_no_space_upper_length_6: WIFIHE
 description_extra_upper: WIFI_HEADER_ATTACHED
-description_extra_upper_length_1: W
-description_extra_upper_length_2: WI
-description_extra_upper_length_3: WIF
-description_extra_upper_length_4: WIFI
-description_extra_upper_length_5: WIFI_
-description_extra_upper_length_6: WIFI_H
 description_main: raspberry_pi_2040
 description_main_capital: Raspberry Pi 2040
 description_main_first_letter: r
 description_main_first_letter_upper: R
-description_main_length_1: r
-description_main_length_2: ra
-description_main_length_3: ras
-description_main_length_4: rasp
-description_main_length_5: raspb
-description_main_length_6: raspbe
-description_main_name: Raspberry Pi 2040
-description_main_no_space_length_1: r
-description_main_no_space_length_2: ra
-description_main_no_space_length_3: ras
-description_main_no_space_length_4: rasp
-description_main_no_space_length_5: raspb
-description_main_no_space_length_6: raspbe
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RA
-description_main_no_space_upper_length_3: RAS
-description_main_no_space_upper_length_4: RASP
-description_main_no_space_upper_length_5: RASPB
-description_main_no_space_upper_length_6: RASPBE
 description_main_upper: RASPBERRY_PI_2040
-description_main_upper_length_1: R
-description_main_upper_length_2: RA
-description_main_upper_length_3: RAS
-description_main_upper_length_4: RASP
-description_main_upper_length_5: RASPB
-description_main_upper_length_6: RASPBE
 description_only_numbers: '2040'
 description_only_numbers_short: 2k
 description_or_color: 2k
@@ -159,10 +36,8 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_pcrp2040_electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi_header_attached
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_pcrp2040_electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi_header_attached
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi_header_attached
 id: electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi_header_attached
 id_no_class: breakout_board_mcu_pico_raspberry_pi_2040_wifi_header_attached
-id_no_color: raspberrypi2040wifiheaderattached
 id_no_size: raspberry_pi_2040_wifi_header_attached
 id_no_type: pico_raspberry_pi_2040_wifi_header_attached
 kicad_reference: BB
@@ -173,7 +48,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_breakout_board_mcu_pico_raspberry_pi_2040_wifi_header_attached](none)<br>[pcrp2040](none)<br>[Electronic
@@ -188,9 +62,8 @@ md5_6: '529787'
 md5_6_alpha: 380hz
 md5_6_alpha_upper: 380HZ
 md5_6_upper: '529787'
-name: Electronic Breakout Board MCU Pico Raspberry Pi 2040 Wifi Header Attached
-name_no_class: Breakout Board MCU Pico Raspberry Pi 2040 Wifi Header Attached
-name_no_color: Raspberrypi2040Wifiheaderattached
+name: Electronic Breakout Board Mcu Pico Raspberry Pi 2040 Wifi Header Attached
+name_no_class: Breakout Board Mcu Pico Raspberry Pi 2040 Wifi Header Attached
 name_no_size: Raspberry Pi 2040 Wifi Header Attached
 name_no_size_short: Raspberry Pi 2k Wifi Header Attached
 name_no_type: Pico Raspberry Pi 2040 Wifi Header Attached
@@ -210,7 +83,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 pins:
   pin_1:
@@ -380,61 +252,11 @@ size: pico
 size_capital: Pico
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pi
-size_length_3: pic
-size_length_4: pico
-size_length_5: pico
-size_length_6: pico
-size_name: Pico
-size_no_space_length_1: p
-size_no_space_length_2: pi
-size_no_space_length_3: pic
-size_no_space_length_4: pico
-size_no_space_length_5: pico
-size_no_space_length_6: pico
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PI
-size_no_space_upper_length_3: PIC
-size_no_space_upper_length_4: PICO
-size_no_space_upper_length_5: PICO
-size_no_space_upper_length_6: PICO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PICO
-size_upper_length_1: P
-size_upper_length_2: PI
-size_upper_length_3: PIC
-size_upper_length_4: PICO
-size_upper_length_5: PICO
-size_upper_length_6: PICO
 type: breakout_board_mcu
 type_capital: Breakout Board Mcu
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: br
-type_length_3: bre
-type_length_4: brea
-type_length_5: break
-type_length_6: breako
-type_name: Breakout Board MCU
-type_no_space_length_1: b
-type_no_space_length_2: br
-type_no_space_length_3: bre
-type_no_space_length_4: brea
-type_no_space_length_5: break
-type_no_space_length_6: breako
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BR
-type_no_space_upper_length_3: BRE
-type_no_space_upper_length_4: BREA
-type_no_space_upper_length_5: BREAK
-type_no_space_upper_length_6: BREAKO
 type_upper: BREAKOUT_BOARD_MCU
-type_upper_length_1: B
-type_upper_length_2: BR
-type_upper_length_3: BRE
-type_upper_length_4: BREA
-type_upper_length_5: BREAK
-type_upper_length_6: BREAKO

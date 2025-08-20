@@ -1,122 +1,23 @@
-bip_39_word_dash_12: survey-boost-viable-balance-pioneer-bargain-produce-deny-elder-online-pumpkin-alcohol
-bip_39_word_dash_2: survey-boost
-bip_39_word_dash_3: survey-boost-viable
-bip_39_word_new_br_12: survey<br>boost<br>viable<br>balance<br>pioneer<br>bargain<br>produce<br>deny<br>elder<br>online<br>pumpkin<br>alcohol
-bip_39_word_new_br_2: survey<br>boost
-bip_39_word_new_br_3: survey<br>boost<br>viable
-bip_39_word_new_line_12: 'survey
-
-  boost
-
-  viable
-
-  balance
-
-  pioneer
-
-  bargain
-
-  produce
-
-  deny
-
-  elder
-
-  online
-
-  pumpkin
-
-  alcohol'
-bip_39_word_new_line_2: 'survey
-
-  boost'
-bip_39_word_new_line_3: 'survey
-
-  boost
-
-  viable'
-bip_39_word_no_space_12: surveyboostviablebalancepioneerbargainproducedenyelderonlinepumpkinalcohol
-bip_39_word_no_space_2: surveyboost
-bip_39_word_no_space_3: surveyboostviable
-bip_39_word_space_12: survey boost viable balance pioneer bargain produce deny elder
-  online pumpkin alcohol
-bip_39_word_space_2: survey boost
-bip_39_word_space_3: survey boost viable
-bip_39_word_underscore_12: survey_boost_viable_balance_pioneer_bargain_produce_deny_elder_online_pumpkin_alcohol
-bip_39_word_underscore_2: survey_boost
-bip_39_word_underscore_3: survey_boost_viable
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 3_mm
 color_capital: 3 mm
 color_first_letter: '3'
 color_first_letter_upper: '3'
-color_length_1: '3'
-color_length_2: '3_'
-color_length_3: 3_m
-color_length_4: 3_mm
-color_length_5: 3_mm
-color_length_6: 3_mm
-color_name: 3 mm
-color_no_space_length_1: '3'
-color_no_space_length_2: 3m
-color_no_space_length_3: 3mm
-color_no_space_length_4: 3mm
-color_no_space_length_5: 3mm
-color_no_space_length_6: 3mm
-color_no_space_upper_length_1: '3'
-color_no_space_upper_length_2: 3M
-color_no_space_upper_length_3: 3MM
-color_no_space_upper_length_4: 3MM
-color_no_space_upper_length_5: 3MM
-color_no_space_upper_length_6: 3MM
 color_upper: 3_MM
-color_upper_length_1: '3'
-color_upper_length_2: '3_'
-color_upper_length_3: 3_M
-color_upper_length_4: 3_MM
-color_upper_length_5: 3_MM
-color_upper_length_6: 3_MM
 description: category_hardware
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_hardware_ball_bearing_3_mm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_ball_bearing_3_mm
 id: category_hardware_ball_bearing_3_mm
 id_no_class: hardware_ball_bearing_3_mm
-id_no_color: 3_mm
 id_no_size: 3_mm
 id_no_type: ball_bearing_3_mm
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_3_mm
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_ball_bearing_3_mm](none)<br>[](none)<br>[Category
@@ -154,12 +52,11 @@ md5_6: 615b66
 md5_6_alpha: 3sr52
 md5_6_alpha_upper: 3SR52
 md5_6_upper: 615B66
-name: Category Hardware Ball Bearing 3 mm
-name_no_class: Hardware Ball Bearing 3 mm
-name_no_color: 3 mm
-name_no_size: 3 mm
+name: Category Hardware Ball Bearing 3 Mm
+name_no_class: Hardware Ball Bearing 3 Mm
+name_no_size: 3 Mm
 name_no_size_short: 3 Mm
-name_no_type: Ball Bearing 3 mm
+name_no_type: Ball Bearing 3 Mm
 oomp_key: oomp_category_hardware_ball_bearing_3_mm
 oomp_word: bouquet rooster leaves
 oomp_word_emoji: ':bouquet: :rooster: :leaves:'
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: ball_bearing
 size_capital: Ball Bearing
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bal
-size_length_4: ball
-size_length_5: ball_
-size_length_6: ball_b
-size_name: Ball Bearing
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bal
-size_no_space_length_4: ball
-size_no_space_length_5: ballb
-size_no_space_length_6: ballbe
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAL
-size_no_space_upper_length_4: BALL
-size_no_space_upper_length_5: BALLB
-size_no_space_upper_length_6: BALLBE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BALL_BEARING
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAL
-size_upper_length_4: BALL
-size_upper_length_5: BALL_
-size_upper_length_6: BALL_B
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

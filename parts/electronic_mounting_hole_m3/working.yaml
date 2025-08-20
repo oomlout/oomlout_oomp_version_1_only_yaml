@@ -1,97 +1,22 @@
-bip_39_word_dash_12: tooth-post-recall-various-asthma-security-glance-nest-turn-always-nurse-anchor
-bip_39_word_dash_2: tooth-post
-bip_39_word_dash_3: tooth-post-recall
-bip_39_word_new_br_12: tooth<br>post<br>recall<br>various<br>asthma<br>security<br>glance<br>nest<br>turn<br>always<br>nurse<br>anchor
-bip_39_word_new_br_2: tooth<br>post
-bip_39_word_new_br_3: tooth<br>post<br>recall
-bip_39_word_new_line_12: 'tooth
-
-  post
-
-  recall
-
-  various
-
-  asthma
-
-  security
-
-  glance
-
-  nest
-
-  turn
-
-  always
-
-  nurse
-
-  anchor'
-bip_39_word_new_line_2: 'tooth
-
-  post'
-bip_39_word_new_line_3: 'tooth
-
-  post
-
-  recall'
-bip_39_word_no_space_12: toothpostrecallvariousasthmasecurityglancenestturnalwaysnurseanchor
-bip_39_word_no_space_2: toothpost
-bip_39_word_no_space_3: toothpostrecall
-bip_39_word_space_12: tooth post recall various asthma security glance nest turn always
-  nurse anchor
-bip_39_word_space_2: tooth post
-bip_39_word_space_3: tooth post recall
-bip_39_word_underscore_12: tooth_post_recall_various_asthma_security_glance_nest_turn_always_nurse_anchor
-bip_39_word_underscore_2: tooth_post
-bip_39_word_underscore_3: tooth_post_recall
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -110,10 +35,8 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_mh3_electronic_mounting_hole_m3
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_mounting_hole_m3
 id: electronic_mounting_hole_m3
 id_no_class: mounting_hole_m3
-id_no_color: m3
 id_no_size: m3
 id_no_type: m3
 kicad_reference: H
@@ -124,7 +47,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_mounting_hole_m3](none)<br>[mh3](none)<br>[Electronic
@@ -141,7 +63,6 @@ md5_6_alpha_upper: 59VY9
 md5_6_upper: 872F01
 name: Electronic Mounting Hole M3
 name_no_class: Mounting Hole M3
-name_no_color: M3
 name_no_size: M3
 name_no_size_short: M3
 name_no_type: M3
@@ -161,7 +82,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: mh3
 short_code_upper: MH3
@@ -170,34 +90,9 @@ size: m3
 size_capital: M3
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m3
-size_length_3: m3
-size_length_4: m3
-size_length_5: m3
-size_length_6: m3
-size_name: M3
-size_no_space_length_1: m
-size_no_space_length_2: m3
-size_no_space_length_3: m3
-size_no_space_length_4: m3
-size_no_space_length_5: m3
-size_no_space_length_6: m3
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M3
-size_no_space_upper_length_3: M3
-size_no_space_upper_length_4: M3
-size_no_space_upper_length_5: M3
-size_no_space_upper_length_6: M3
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: M3
-size_upper_length_1: M
-size_upper_length_2: M3
-size_upper_length_3: M3
-size_upper_length_4: M3
-size_upper_length_5: M3
-size_upper_length_6: M3
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_mechanical_mountinghole//working/working.kicad_sym
   index: 0
@@ -207,29 +102,4 @@ type: mounting_hole
 type_capital: Mounting Hole
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: mo
-type_length_3: mou
-type_length_4: moun
-type_length_5: mount
-type_length_6: mounti
-type_name: Mounting Hole
-type_no_space_length_1: m
-type_no_space_length_2: mo
-type_no_space_length_3: mou
-type_no_space_length_4: moun
-type_no_space_length_5: mount
-type_no_space_length_6: mounti
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: MO
-type_no_space_upper_length_3: MOU
-type_no_space_upper_length_4: MOUN
-type_no_space_upper_length_5: MOUNT
-type_no_space_upper_length_6: MOUNTI
 type_upper: MOUNTING_HOLE
-type_upper_length_1: M
-type_upper_length_2: MO
-type_upper_length_3: MOU
-type_upper_length_4: MOUN
-type_upper_length_5: MOUNT
-type_upper_length_6: MOUNTI

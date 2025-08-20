@@ -1,122 +1,23 @@
-bip_39_word_dash_12: card-main-rent-outdoor-gadget-fault-various-poem-industry-salmon-dial-around
-bip_39_word_dash_2: card-main
-bip_39_word_dash_3: card-main-rent
-bip_39_word_new_br_12: card<br>main<br>rent<br>outdoor<br>gadget<br>fault<br>various<br>poem<br>industry<br>salmon<br>dial<br>around
-bip_39_word_new_br_2: card<br>main
-bip_39_word_new_br_3: card<br>main<br>rent
-bip_39_word_new_line_12: 'card
-
-  main
-
-  rent
-
-  outdoor
-
-  gadget
-
-  fault
-
-  various
-
-  poem
-
-  industry
-
-  salmon
-
-  dial
-
-  around'
-bip_39_word_new_line_2: 'card
-
-  main'
-bip_39_word_new_line_3: 'card
-
-  main
-
-  rent'
-bip_39_word_no_space_12: cardmainrentoutdoorgadgetfaultvariouspoemindustrysalmondialaround
-bip_39_word_no_space_2: cardmain
-bip_39_word_no_space_3: cardmainrent
-bip_39_word_space_12: card main rent outdoor gadget fault various poem industry salmon
-  dial around
-bip_39_word_space_2: card main
-bip_39_word_space_3: card main rent
-bip_39_word_underscore_12: card_main_rent_outdoor_gadget_fault_various_poem_industry_salmon_dial_around
-bip_39_word_underscore_2: card_main
-bip_39_word_underscore_3: card_main_rent
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 1000000_ohm
 description_main_capital: 1000000 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '10'
-description_main_length_3: '100'
-description_main_length_4: '1000'
-description_main_length_5: '10000'
-description_main_length_6: '100000'
-description_main_name: 1000000 Ohm
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '10'
-description_main_no_space_length_3: '100'
-description_main_no_space_length_4: '1000'
-description_main_no_space_length_5: '10000'
-description_main_no_space_length_6: '100000'
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '10'
-description_main_no_space_upper_length_3: '100'
-description_main_no_space_upper_length_4: '1000'
-description_main_no_space_upper_length_5: '10000'
-description_main_no_space_upper_length_6: '100000'
 description_main_upper: 1000000_OHM
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '10'
-description_main_upper_length_3: '100'
-description_main_upper_length_4: '1000'
-description_main_upper_length_5: '10000'
-description_main_upper_length_6: '100000'
 description_only_numbers: '1000000'
 description_only_numbers_short: 1M
 description_or_color: 1M
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r8o105_electronic_resistor_0805_1000000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0805_1000000_ohm
 id: electronic_resistor_0805_1000000_ohm
 id_no_class: resistor_0805_1000000_ohm
-id_no_color: 1000000ohm
 id_no_size: 1000000_ohm
 id_no_type: 0805_1000000_ohm
 kicad_reference: R
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_0805_1000000_ohm](none)<br>[r8o105](none)<br>[Electronic
@@ -167,7 +65,6 @@ md5_6_alpha_upper: 7L6B3
 md5_6_upper: C27A2F
 name: Electronic Resistor 0805 1000000 Ohm
 name_no_class: Resistor 0805 1000000 Ohm
-name_no_color: 1000000Ohm
 name_no_size: 1000000 Ohm
 name_no_size_short: 1M Ohm
 name_no_type: 0805 1000000 Ohm
@@ -187,7 +84,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r8o105
 short_code_upper: R8O105
@@ -195,34 +91,9 @@ size: 0805
 size_capital: 0805
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: 08
-size_length_3: 080
-size_length_4: 0805
-size_length_5: 0805
-size_length_6: 0805
-size_name: 0805
-size_no_space_length_1: '0'
-size_no_space_length_2: 08
-size_no_space_length_3: 080
-size_no_space_length_4: 0805
-size_no_space_length_5: 0805
-size_no_space_length_6: 0805
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: 08
-size_no_space_upper_length_3: 080
-size_no_space_upper_length_4: 0805
-size_no_space_upper_length_5: 0805
-size_no_space_upper_length_6: 0805
 size_only_numbers: 0805
 size_only_numbers_no_zeros: '85'
 size_upper: 0805
-size_upper_length_1: '0'
-size_upper_length_2: 08
-size_upper_length_3: 080
-size_upper_length_4: 0805
-size_upper_length_5: 0805
-size_upper_length_6: 0805
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -235,29 +106,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

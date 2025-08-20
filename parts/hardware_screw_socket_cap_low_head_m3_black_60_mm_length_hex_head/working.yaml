@@ -1,170 +1,23 @@
-bip_39_word_dash_12: spider-round-glove-glue-bus-detect-urge-jealous-excess-goddess-jazz-armor
-bip_39_word_dash_2: spider-round
-bip_39_word_dash_3: spider-round-glove
-bip_39_word_new_br_12: spider<br>round<br>glove<br>glue<br>bus<br>detect<br>urge<br>jealous<br>excess<br>goddess<br>jazz<br>armor
-bip_39_word_new_br_2: spider<br>round
-bip_39_word_new_br_3: spider<br>round<br>glove
-bip_39_word_new_line_12: 'spider
-
-  round
-
-  glove
-
-  glue
-
-  bus
-
-  detect
-
-  urge
-
-  jealous
-
-  excess
-
-  goddess
-
-  jazz
-
-  armor'
-bip_39_word_new_line_2: 'spider
-
-  round'
-bip_39_word_new_line_3: 'spider
-
-  round
-
-  glove'
-bip_39_word_no_space_12: spiderroundglovegluebusdetecturgejealousexcessgoddessjazzarmor
-bip_39_word_no_space_2: spiderround
-bip_39_word_no_space_3: spiderroundglove
-bip_39_word_space_12: spider round glove glue bus detect urge jealous excess goddess
-  jazz armor
-bip_39_word_space_2: spider round
-bip_39_word_space_3: spider round glove
-bip_39_word_underscore_12: spider_round_glove_glue_bus_detect_urge_jealous_excess_goddess_jazz_armor
-bip_39_word_underscore_2: spider_round
-bip_39_word_underscore_3: spider_round_glove
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: black
 color_capital: Black
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bl
-color_length_3: bla
-color_length_4: blac
-color_length_5: black
-color_length_6: black
-color_name: Black
-color_no_space_length_1: b
-color_no_space_length_2: bl
-color_no_space_length_3: bla
-color_no_space_length_4: blac
-color_no_space_length_5: black
-color_no_space_length_6: black
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BL
-color_no_space_upper_length_3: BLA
-color_no_space_upper_length_4: BLAC
-color_no_space_upper_length_5: BLACK
-color_no_space_upper_length_6: BLACK
 color_upper: BLACK
-color_upper_length_1: B
-color_upper_length_2: BL
-color_upper_length_3: BLA
-color_upper_length_4: BLAC
-color_upper_length_5: BLACK
-color_upper_length_6: BLACK
 description_extra: hex_head
 description_extra_capital: Hex Head
 description_extra_first_letter: h
 description_extra_first_letter_upper: H
-description_extra_length_1: h
-description_extra_length_2: he
-description_extra_length_3: hex
-description_extra_length_4: hex_
-description_extra_length_5: hex_h
-description_extra_length_6: hex_he
-description_extra_name: Hex Head
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: he
-description_extra_no_space_length_3: hex
-description_extra_no_space_length_4: hexh
-description_extra_no_space_length_5: hexhe
-description_extra_no_space_length_6: hexhea
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HE
-description_extra_no_space_upper_length_3: HEX
-description_extra_no_space_upper_length_4: HEXH
-description_extra_no_space_upper_length_5: HEXHE
-description_extra_no_space_upper_length_6: HEXHEA
 description_extra_upper: HEX_HEAD
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HE
-description_extra_upper_length_3: HEX
-description_extra_upper_length_4: HEX_
-description_extra_upper_length_5: HEX_H
-description_extra_upper_length_6: HEX_HE
 description_main: 60_mm_length
 description_main_capital: 60 mm Length
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
-description_main_length_1: '6'
-description_main_length_2: '60'
-description_main_length_3: '60_'
-description_main_length_4: 60_m
-description_main_length_5: 60_mm
-description_main_length_6: 60_mm_
-description_main_name: 60 mm Length
-description_main_no_space_length_1: '6'
-description_main_no_space_length_2: '60'
-description_main_no_space_length_3: 60m
-description_main_no_space_length_4: 60mm
-description_main_no_space_length_5: 60mml
-description_main_no_space_length_6: 60mmle
-description_main_no_space_upper_length_1: '6'
-description_main_no_space_upper_length_2: '60'
-description_main_no_space_upper_length_3: 60M
-description_main_no_space_upper_length_4: 60MM
-description_main_no_space_upper_length_5: 60MML
-description_main_no_space_upper_length_6: 60MMLE
 description_main_upper: 60_MM_LENGTH
-description_main_upper_length_1: '6'
-description_main_upper_length_2: '60'
-description_main_upper_length_3: '60_'
-description_main_upper_length_4: 60_M
-description_main_upper_length_5: 60_MM
-description_main_upper_length_6: 60_MM_
 description_only_numbers: '60'
 description_only_numbers_short: '60'
 description_or_color: B60
@@ -173,10 +26,8 @@ directory: parts/hardware_screw_socket_cap_low_head_m3_black_60_mm_length_hex_he
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_socket_cap_low_head_m3_black_60_mm_length_hex_head
 id: hardware_screw_socket_cap_low_head_m3_black_60_mm_length_hex_head
 id_no_class: screw_socket_cap_low_head_m3_black_60_mm_length_hex_head
-id_no_color: 60_mm_length_hex_head
 id_no_size: black_60_mm_length_hex_head
 id_no_type: m3_black_60_mm_length_hex_head
 kicad_reference: ''
@@ -187,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_screw_socket_cap_low_head_m3_black_60_mm_length_hex_head](none)<br>[3b60h](none)<br>[Hardware
@@ -202,28 +52,11 @@ md5_6: beeed9
 md5_6_alpha: 7g72x
 md5_6_alpha_upper: 7G72X
 md5_6_upper: BEEED9
-name: Hardware Screw Socket Cap Low Head M3 Black 60 mm Length Hex Head
-name_no_class: Screw Socket Cap Low Head M3 Black 60 mm Length Hex Head
-name_no_color: 60 mm Length Hex Head
-name_no_size: Black 60 mm Length Hex Head
+name: Hardware Screw Socket Cap Low Head M3 Black 60 Mm Length Hex Head
+name_no_class: Screw Socket Cap Low Head M3 Black 60 Mm Length Hex Head
+name_no_size: Black 60 Mm Length Hex Head
 name_no_size_short: Black 60 Mm Length Hex Head
-name_no_type: M3 Black 60 mm Length Hex Head
-oomlout_bolt_color: Black
-oomlout_bolt_head_type: Hex Head
-oomlout_bolt_head_type_diagram: head_type_diagram.png
-oomlout_bolt_length: 60 mm
-oomlout_bolt_length_no_unit: '60'
-oomlout_bolt_md5_6_alpha_first_3: 7g7
-oomlout_bolt_md5_6_alpha_first_3_upper: 7G7
-oomlout_bolt_md5_6_alpha_last_3: 2x
-oomlout_bolt_md5_6_alpha_last_3_upper: 2X
-oomlout_bolt_md5_6_first_3: bee
-oomlout_bolt_md5_6_first_3_upper: BEE
-oomlout_bolt_md5_6_last_3: ed9
-oomlout_bolt_md5_6_last_3_upper: ED9
-oomlout_bolt_name: Socket Cap M3X60 mm Black (Hex Head)
-oomlout_bolt_size: M3
-oomlout_bolt_type: Socket Cap
+name_no_type: M3 Black 60 Mm Length Hex Head
 oomp_key: oomp_hardware_screw_socket_cap_low_head_m3_black_60_mm_length_hex_head
 oomp_word: ramen ambulance bank
 oomp_word_emoji: ':ramen: :ambulance: :bank:'
@@ -239,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: 3b60h
 short_code_upper: 3B60H
@@ -247,61 +79,11 @@ size: m3
 size_capital: M3
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m3
-size_length_3: m3
-size_length_4: m3
-size_length_5: m3
-size_length_6: m3
-size_name: M3
-size_no_space_length_1: m
-size_no_space_length_2: m3
-size_no_space_length_3: m3
-size_no_space_length_4: m3
-size_no_space_length_5: m3
-size_no_space_length_6: m3
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M3
-size_no_space_upper_length_3: M3
-size_no_space_upper_length_4: M3
-size_no_space_upper_length_5: M3
-size_no_space_upper_length_6: M3
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: M3
-size_upper_length_1: M
-size_upper_length_2: M3
-size_upper_length_3: M3
-size_upper_length_4: M3
-size_upper_length_5: M3
-size_upper_length_6: M3
 type: screw_socket_cap_low_head
 type_capital: Screw Socket Cap Low Head
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sc
-type_length_3: scr
-type_length_4: scre
-type_length_5: screw
-type_length_6: screw_
-type_name: Screw Socket Cap Low Head
-type_no_space_length_1: s
-type_no_space_length_2: sc
-type_no_space_length_3: scr
-type_no_space_length_4: scre
-type_no_space_length_5: screw
-type_no_space_length_6: screws
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SC
-type_no_space_upper_length_3: SCR
-type_no_space_upper_length_4: SCRE
-type_no_space_upper_length_5: SCREW
-type_no_space_upper_length_6: SCREWS
 type_upper: SCREW_SOCKET_CAP_LOW_HEAD
-type_upper_length_1: S
-type_upper_length_2: SC
-type_upper_length_3: SCR
-type_upper_length_4: SCRE
-type_upper_length_5: SCREW
-type_upper_length_6: SCREW_

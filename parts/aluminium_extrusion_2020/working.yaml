@@ -1,97 +1,22 @@
-bip_39_word_dash_12: asthma-liar-cram-winter-cross-dish-special-demise-caught-female-invite-arrow
-bip_39_word_dash_2: asthma-liar
-bip_39_word_dash_3: asthma-liar-cram
-bip_39_word_new_br_12: asthma<br>liar<br>cram<br>winter<br>cross<br>dish<br>special<br>demise<br>caught<br>female<br>invite<br>arrow
-bip_39_word_new_br_2: asthma<br>liar
-bip_39_word_new_br_3: asthma<br>liar<br>cram
-bip_39_word_new_line_12: 'asthma
-
-  liar
-
-  cram
-
-  winter
-
-  cross
-
-  dish
-
-  special
-
-  demise
-
-  caught
-
-  female
-
-  invite
-
-  arrow'
-bip_39_word_new_line_2: 'asthma
-
-  liar'
-bip_39_word_new_line_3: 'asthma
-
-  liar
-
-  cram'
-bip_39_word_no_space_12: asthmaliarcramwintercrossdishspecialdemisecaughtfemaleinvitearrow
-bip_39_word_no_space_2: asthmaliar
-bip_39_word_no_space_3: asthmaliarcram
-bip_39_word_space_12: asthma liar cram winter cross dish special demise caught female
-  invite arrow
-bip_39_word_space_2: asthma liar
-bip_39_word_space_3: asthma liar cram
-bip_39_word_underscore_12: asthma_liar_cram_winter_cross_dish_special_demise_caught_female_invite_arrow
-bip_39_word_underscore_2: asthma_liar
-bip_39_word_underscore_3: asthma_liar_cram
 classification: aluminium_extrusion
 classification_capital: Aluminium Extrusion
 classification_first_letter: a
 classification_first_letter_upper: A
-classification_length_1: a
-classification_length_2: al
-classification_length_3: alu
-classification_length_4: alum
-classification_length_5: alumi
-classification_length_6: alumin
-classification_name: Aluminium Extrusion
-classification_no_space_length_1: a
-classification_no_space_length_2: al
-classification_no_space_length_3: alu
-classification_no_space_length_4: alum
-classification_no_space_length_5: alumi
-classification_no_space_length_6: alumin
-classification_no_space_upper_length_1: A
-classification_no_space_upper_length_2: AL
-classification_no_space_upper_length_3: ALU
-classification_no_space_upper_length_4: ALUM
-classification_no_space_upper_length_5: ALUMI
-classification_no_space_upper_length_6: ALUMIN
 classification_upper: ALUMINIUM_EXTRUSION
-classification_upper_length_1: A
-classification_upper_length_2: AL
-classification_upper_length_3: ALU
-classification_upper_length_4: ALUM
-classification_upper_length_5: ALUMI
-classification_upper_length_6: ALUMIN
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,14 +26,11 @@ directory: parts/aluminium_extrusion_2020
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/aluminium_extrusion_2020
 id: aluminium_extrusion_2020
 id_no_class: '2020'
-id_no_color: '2020'
 id_no_size: '2020'
 id_no_type: '2020'
 kicad_reference: ''
-link_buy: https://www.aluminium-profile.co.uk/20x20-aluminium-profile-kjn992888
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/aluminium_extrusion_2020
@@ -116,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[aluminium_extrusion_2020](none)<br>[](none)<br>[Aluminium Extrusion
@@ -133,7 +54,6 @@ md5_6_alpha_upper: 7X1CL
 md5_6_upper: CAEC15
 name: Aluminium Extrusion 2020
 name_no_class: '2020'
-name_no_color: '2020'
 name_no_size: '2020'
 name_no_size_short: '2020'
 name_no_type: '2020'
@@ -152,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,7 +79,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -168,29 +86,4 @@ type: '2020'
 type_capital: '2020'
 type_first_letter: '2'
 type_first_letter_upper: '2'
-type_length_1: '2'
-type_length_2: '20'
-type_length_3: '202'
-type_length_4: '2020'
-type_length_5: '2020'
-type_length_6: '2020'
-type_name: '2020'
-type_no_space_length_1: '2'
-type_no_space_length_2: '20'
-type_no_space_length_3: '202'
-type_no_space_length_4: '2020'
-type_no_space_length_5: '2020'
-type_no_space_length_6: '2020'
-type_no_space_upper_length_1: '2'
-type_no_space_upper_length_2: '20'
-type_no_space_upper_length_3: '202'
-type_no_space_upper_length_4: '2020'
-type_no_space_upper_length_5: '2020'
-type_no_space_upper_length_6: '2020'
 type_upper: '2020'
-type_upper_length_1: '2'
-type_upper_length_2: '20'
-type_upper_length_3: '202'
-type_upper_length_4: '2020'
-type_upper_length_5: '2020'
-type_upper_length_6: '2020'

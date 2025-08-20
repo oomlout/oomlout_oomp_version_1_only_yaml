@@ -1,121 +1,22 @@
-bip_39_word_dash_12: junior-cycle-today-curious-seminar-hard-beauty-bus-royal-element-unaware-annual
-bip_39_word_dash_2: junior-cycle
-bip_39_word_dash_3: junior-cycle-today
-bip_39_word_new_br_12: junior<br>cycle<br>today<br>curious<br>seminar<br>hard<br>beauty<br>bus<br>royal<br>element<br>unaware<br>annual
-bip_39_word_new_br_2: junior<br>cycle
-bip_39_word_new_br_3: junior<br>cycle<br>today
-bip_39_word_new_line_12: 'junior
-
-  cycle
-
-  today
-
-  curious
-
-  seminar
-
-  hard
-
-  beauty
-
-  bus
-
-  royal
-
-  element
-
-  unaware
-
-  annual'
-bip_39_word_new_line_2: 'junior
-
-  cycle'
-bip_39_word_new_line_3: 'junior
-
-  cycle
-
-  today'
-bip_39_word_no_space_12: juniorcycletodaycuriousseminarhardbeautybusroyalelementunawareannual
-bip_39_word_no_space_2: juniorcycle
-bip_39_word_no_space_3: juniorcycletoday
-bip_39_word_space_12: junior cycle today curious seminar hard beauty bus royal element
-  unaware annual
-bip_39_word_space_2: junior cycle
-bip_39_word_space_3: junior cycle today
-bip_39_word_underscore_12: junior_cycle_today_curious_seminar_hard_beauty_bus_royal_element_unaware_annual
-bip_39_word_underscore_2: junior_cycle
-bip_39_word_underscore_3: junior_cycle_today
 classification: clothes
 classification_capital: Clothes
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: cl
-classification_length_3: clo
-classification_length_4: clot
-classification_length_5: cloth
-classification_length_6: clothe
-classification_name: Clothes
-classification_no_space_length_1: c
-classification_no_space_length_2: cl
-classification_no_space_length_3: clo
-classification_no_space_length_4: clot
-classification_no_space_length_5: cloth
-classification_no_space_length_6: clothe
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CL
-classification_no_space_upper_length_3: CLO
-classification_no_space_upper_length_4: CLOT
-classification_no_space_upper_length_5: CLOTH
-classification_no_space_upper_length_6: CLOTHE
 classification_upper: CLOTHES
-classification_upper_length_1: C
-classification_upper_length_2: CL
-classification_upper_length_3: CLO
-classification_upper_length_4: CLOT
-classification_upper_length_5: CLOTH
-classification_upper_length_6: CLOTHE
 color: color_double_extra_large
 color_capital: Color Double Extra Large
 color_first_letter: c
 color_first_letter_upper: C
-color_length_1: c
-color_length_2: co
-color_length_3: col
-color_length_4: colo
-color_length_5: color
-color_length_6: color_
-color_name: Color Double Extra Large
-color_no_space_length_1: c
-color_no_space_length_2: co
-color_no_space_length_3: col
-color_no_space_length_4: colo
-color_no_space_length_5: color
-color_no_space_length_6: colord
-color_no_space_upper_length_1: C
-color_no_space_upper_length_2: CO
-color_no_space_upper_length_3: COL
-color_no_space_upper_length_4: COLO
-color_no_space_upper_length_5: COLOR
-color_no_space_upper_length_6: COLORD
 color_upper: COLOR_DOUBLE_EXTRA_LARGE
-color_upper_length_1: C
-color_upper_length_2: CO
-color_upper_length_3: COL
-color_upper_length_4: COLO
-color_upper_length_5: COLOR
-color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/clothes_item_hat_color_double_extra_large
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_hat_color_double_extra_large
 id: clothes_item_hat_color_double_extra_large
 id_no_class: item_hat_color_double_extra_large
-id_no_color: color_double_extra_large
 id_no_size: color_double_extra_large
 id_no_type: hat_color_double_extra_large
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_color_double_extra_large
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[clothes_item_hat_color_double_extra_large](none)<br>[](none)<br>[Clothes
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 5XAKX
 md5_6_upper: 97D8D1
 name: Clothes Item Hat Color Double Extra Large
 name_no_class: Item Hat Color Double Extra Large
-name_no_color: Color Double Extra Large
 name_no_size: Color Double Extra Large
 name_no_size_short: Color Double Extra Large
 name_no_type: Hat Color Double Extra Large
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: hat
 size_capital: Hat
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: ha
-size_length_3: hat
-size_length_4: hat
-size_length_5: hat
-size_length_6: hat
-size_name: Hat
-size_no_space_length_1: h
-size_no_space_length_2: ha
-size_no_space_length_3: hat
-size_no_space_length_4: hat
-size_no_space_length_5: hat
-size_no_space_length_6: hat
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HA
-size_no_space_upper_length_3: HAT
-size_no_space_upper_length_4: HAT
-size_no_space_upper_length_5: HAT
-size_no_space_upper_length_6: HAT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HAT
-size_upper_length_1: H
-size_upper_length_2: HA
-size_upper_length_3: HAT
-size_upper_length_4: HAT
-size_upper_length_5: HAT
-size_upper_length_6: HAT
 type: item
 type_capital: Item
 type_first_letter: i
 type_first_letter_upper: I
-type_length_1: i
-type_length_2: it
-type_length_3: ite
-type_length_4: item
-type_length_5: item
-type_length_6: item
-type_name: Item
-type_no_space_length_1: i
-type_no_space_length_2: it
-type_no_space_length_3: ite
-type_no_space_length_4: item
-type_no_space_length_5: item
-type_no_space_length_6: item
-type_no_space_upper_length_1: I
-type_no_space_upper_length_2: IT
-type_no_space_upper_length_3: ITE
-type_no_space_upper_length_4: ITEM
-type_no_space_upper_length_5: ITEM
-type_no_space_upper_length_6: ITEM
 type_upper: ITEM
-type_upper_length_1: I
-type_upper_length_2: IT
-type_upper_length_3: ITE
-type_upper_length_4: ITEM
-type_upper_length_5: ITEM
-type_upper_length_6: ITEM

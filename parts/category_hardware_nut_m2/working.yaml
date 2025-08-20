@@ -1,122 +1,23 @@
-bip_39_word_dash_12: conduct-chronic-galaxy-world-kid-general-salmon-wet-west-horn-armor-alarm
-bip_39_word_dash_2: conduct-chronic
-bip_39_word_dash_3: conduct-chronic-galaxy
-bip_39_word_new_br_12: conduct<br>chronic<br>galaxy<br>world<br>kid<br>general<br>salmon<br>wet<br>west<br>horn<br>armor<br>alarm
-bip_39_word_new_br_2: conduct<br>chronic
-bip_39_word_new_br_3: conduct<br>chronic<br>galaxy
-bip_39_word_new_line_12: 'conduct
-
-  chronic
-
-  galaxy
-
-  world
-
-  kid
-
-  general
-
-  salmon
-
-  wet
-
-  west
-
-  horn
-
-  armor
-
-  alarm'
-bip_39_word_new_line_2: 'conduct
-
-  chronic'
-bip_39_word_new_line_3: 'conduct
-
-  chronic
-
-  galaxy'
-bip_39_word_no_space_12: conductchronicgalaxyworldkidgeneralsalmonwetwesthornarmoralarm
-bip_39_word_no_space_2: conductchronic
-bip_39_word_no_space_3: conductchronicgalaxy
-bip_39_word_space_12: conduct chronic galaxy world kid general salmon wet west horn
-  armor alarm
-bip_39_word_space_2: conduct chronic
-bip_39_word_space_3: conduct chronic galaxy
-bip_39_word_underscore_12: conduct_chronic_galaxy_world_kid_general_salmon_wet_west_horn_armor_alarm
-bip_39_word_underscore_2: conduct_chronic
-bip_39_word_underscore_3: conduct_chronic_galaxy
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: m2
 color_capital: M2
 color_first_letter: m
 color_first_letter_upper: M
-color_length_1: m
-color_length_2: m2
-color_length_3: m2
-color_length_4: m2
-color_length_5: m2
-color_length_6: m2
-color_name: M2
-color_no_space_length_1: m
-color_no_space_length_2: m2
-color_no_space_length_3: m2
-color_no_space_length_4: m2
-color_no_space_length_5: m2
-color_no_space_length_6: m2
-color_no_space_upper_length_1: M
-color_no_space_upper_length_2: M2
-color_no_space_upper_length_3: M2
-color_no_space_upper_length_4: M2
-color_no_space_upper_length_5: M2
-color_no_space_upper_length_6: M2
 color_upper: M2
-color_upper_length_1: M
-color_upper_length_2: M2
-color_upper_length_3: M2
-color_upper_length_4: M2
-color_upper_length_5: M2
-color_upper_length_6: M2
 description: category_hardware
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_hardware_nut_m2
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_nut_m2
 id: category_hardware_nut_m2
 id_no_class: hardware_nut_m2
-id_no_color: m2
 id_no_size: m2
 id_no_type: nut_m2
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m2
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_nut_m2](none)<br>[](none)<br>[Category Hardware
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 3LCYJ
 md5_6_upper: 5C17DB
 name: Category Hardware Nut M2
 name_no_class: Hardware Nut M2
-name_no_color: M2
 name_no_size: M2
 name_no_size_short: M2
 name_no_type: Nut M2
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: nut
 size_capital: Nut
 size_first_letter: n
 size_first_letter_upper: N
-size_length_1: n
-size_length_2: nu
-size_length_3: nut
-size_length_4: nut
-size_length_5: nut
-size_length_6: nut
-size_name: Nut
-size_no_space_length_1: n
-size_no_space_length_2: nu
-size_no_space_length_3: nut
-size_no_space_length_4: nut
-size_no_space_length_5: nut
-size_no_space_length_6: nut
-size_no_space_upper_length_1: N
-size_no_space_upper_length_2: NU
-size_no_space_upper_length_3: NUT
-size_no_space_upper_length_4: NUT
-size_no_space_upper_length_5: NUT
-size_no_space_upper_length_6: NUT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: NUT
-size_upper_length_1: N
-size_upper_length_2: NU
-size_upper_length_3: NUT
-size_upper_length_4: NUT
-size_upper_length_5: NUT
-size_upper_length_6: NUT
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

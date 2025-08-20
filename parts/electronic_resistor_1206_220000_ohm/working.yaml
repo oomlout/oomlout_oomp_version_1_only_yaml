@@ -1,122 +1,23 @@
-bip_39_word_dash_12: doctor-good-later-mimic-upset-soda-kite-swim-expose-peace-keen-analyst
-bip_39_word_dash_2: doctor-good
-bip_39_word_dash_3: doctor-good-later
-bip_39_word_new_br_12: doctor<br>good<br>later<br>mimic<br>upset<br>soda<br>kite<br>swim<br>expose<br>peace<br>keen<br>analyst
-bip_39_word_new_br_2: doctor<br>good
-bip_39_word_new_br_3: doctor<br>good<br>later
-bip_39_word_new_line_12: 'doctor
-
-  good
-
-  later
-
-  mimic
-
-  upset
-
-  soda
-
-  kite
-
-  swim
-
-  expose
-
-  peace
-
-  keen
-
-  analyst'
-bip_39_word_new_line_2: 'doctor
-
-  good'
-bip_39_word_new_line_3: 'doctor
-
-  good
-
-  later'
-bip_39_word_no_space_12: doctorgoodlatermimicupsetsodakiteswimexposepeacekeenanalyst
-bip_39_word_no_space_2: doctorgood
-bip_39_word_no_space_3: doctorgoodlater
-bip_39_word_space_12: doctor good later mimic upset soda kite swim expose peace keen
-  analyst
-bip_39_word_space_2: doctor good
-bip_39_word_space_3: doctor good later
-bip_39_word_underscore_12: doctor_good_later_mimic_upset_soda_kite_swim_expose_peace_keen_analyst
-bip_39_word_underscore_2: doctor_good
-bip_39_word_underscore_3: doctor_good_later
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 220000_ohm
 description_main_capital: 220000 Ohm
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '22'
-description_main_length_3: '220'
-description_main_length_4: '2200'
-description_main_length_5: '22000'
-description_main_length_6: '220000'
-description_main_name: 220000 Ohm
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '22'
-description_main_no_space_length_3: '220'
-description_main_no_space_length_4: '2200'
-description_main_no_space_length_5: '22000'
-description_main_no_space_length_6: '220000'
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '22'
-description_main_no_space_upper_length_3: '220'
-description_main_no_space_upper_length_4: '2200'
-description_main_no_space_upper_length_5: '22000'
-description_main_no_space_upper_length_6: '220000'
 description_main_upper: 220000_OHM
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '22'
-description_main_upper_length_3: '220'
-description_main_upper_length_4: '2200'
-description_main_upper_length_5: '22000'
-description_main_upper_length_6: '220000'
 description_only_numbers: '220000'
 description_only_numbers_short: 220k
 description_or_color: 220k
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o224_electronic_resistor_1206_220000_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_220000_ohm
 id: electronic_resistor_1206_220000_ohm
 id_no_class: resistor_1206_220000_ohm
-id_no_color: 220000ohm
 id_no_size: 220000_ohm
 id_no_type: 1206_220000_ohm
 kicad_reference: R
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_1206_220000_ohm](none)<br>[r12o224](none)<br>[Electronic
@@ -167,7 +65,6 @@ md5_6_alpha_upper: 56R1K
 md5_6_upper: 84F368
 name: Electronic Resistor 1206 220000 Ohm
 name_no_class: Resistor 1206 220000 Ohm
-name_no_color: 220000Ohm
 name_no_size: 220000 Ohm
 name_no_size_short: 220k Ohm
 name_no_type: 1206 220000 Ohm
@@ -187,7 +84,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r12o224
 short_code_upper: R12O224
@@ -195,34 +91,9 @@ size: '1206'
 size_capital: '1206'
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '12'
-size_length_3: '120'
-size_length_4: '1206'
-size_length_5: '1206'
-size_length_6: '1206'
-size_name: '1206'
-size_no_space_length_1: '1'
-size_no_space_length_2: '12'
-size_no_space_length_3: '120'
-size_no_space_length_4: '1206'
-size_no_space_length_5: '1206'
-size_no_space_length_6: '1206'
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: '12'
-size_no_space_upper_length_3: '120'
-size_no_space_upper_length_4: '1206'
-size_no_space_upper_length_5: '1206'
-size_no_space_upper_length_6: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
 size_upper: '1206'
-size_upper_length_1: '1'
-size_upper_length_2: '12'
-size_upper_length_3: '120'
-size_upper_length_4: '1206'
-size_upper_length_5: '1206'
-size_upper_length_6: '1206'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -235,29 +106,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: nephew-rail-piece-acid-tuna-palm-ready-coin-fashion-economy-pigeon-attract
-bip_39_word_dash_2: nephew-rail
-bip_39_word_dash_3: nephew-rail-piece
-bip_39_word_new_br_12: nephew<br>rail<br>piece<br>acid<br>tuna<br>palm<br>ready<br>coin<br>fashion<br>economy<br>pigeon<br>attract
-bip_39_word_new_br_2: nephew<br>rail
-bip_39_word_new_br_3: nephew<br>rail<br>piece
-bip_39_word_new_line_12: 'nephew
-
-  rail
-
-  piece
-
-  acid
-
-  tuna
-
-  palm
-
-  ready
-
-  coin
-
-  fashion
-
-  economy
-
-  pigeon
-
-  attract'
-bip_39_word_new_line_2: 'nephew
-
-  rail'
-bip_39_word_new_line_3: 'nephew
-
-  rail
-
-  piece'
-bip_39_word_no_space_12: nephewrailpieceacidtunapalmreadycoinfashioneconomypigeonattract
-bip_39_word_no_space_2: nephewrail
-bip_39_word_no_space_3: nephewrailpiece
-bip_39_word_space_12: nephew rail piece acid tuna palm ready coin fashion economy
-  pigeon attract
-bip_39_word_space_2: nephew rail
-bip_39_word_space_3: nephew rail piece
-bip_39_word_underscore_12: nephew_rail_piece_acid_tuna_palm_ready_coin_fashion_economy_pigeon_attract
-bip_39_word_underscore_2: nephew_rail
-bip_39_word_underscore_3: nephew_rail_piece
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 40_mm_length
 description_main_capital: 40 mm Length
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
-description_main_length_1: '4'
-description_main_length_2: '40'
-description_main_length_3: '40_'
-description_main_length_4: 40_m
-description_main_length_5: 40_mm
-description_main_length_6: 40_mm_
-description_main_name: 40 mm Length
-description_main_no_space_length_1: '4'
-description_main_no_space_length_2: '40'
-description_main_no_space_length_3: 40m
-description_main_no_space_length_4: 40mm
-description_main_no_space_length_5: 40mml
-description_main_no_space_length_6: 40mmle
-description_main_no_space_upper_length_1: '4'
-description_main_no_space_upper_length_2: '40'
-description_main_no_space_upper_length_3: 40M
-description_main_no_space_upper_length_4: 40MM
-description_main_no_space_upper_length_5: 40MML
-description_main_no_space_upper_length_6: 40MMLE
 description_main_upper: 40_MM_LENGTH
-description_main_upper_length_1: '4'
-description_main_upper_length_2: '40'
-description_main_upper_length_3: '40_'
-description_main_upper_length_4: 40_M
-description_main_upper_length_5: 40_MM
-description_main_upper_length_6: 40_MM_
 description_only_numbers: '40'
 description_only_numbers_short: '40'
 description_or_color: '40'
@@ -125,10 +26,8 @@ directory: parts/hardware_bolt_m8_40_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bolt_m8_40_mm_length
 id: hardware_bolt_m8_40_mm_length
 id_no_class: bolt_m8_40_mm_length
-id_no_color: 40mmlength
 id_no_size: 40_mm_length
 id_no_type: m8_40_mm_length
 kicad_reference: ''
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bolt_m8_40_mm_length](none)<br>[b840](none)<br>[Hardware
@@ -154,31 +52,11 @@ md5_6: ed4951
 md5_6_alpha: 99b2p
 md5_6_alpha_upper: 99B2P
 md5_6_upper: ED4951
-name: Hardware Bolt M8 40 mm Length
-name_no_class: Bolt M8 40 mm Length
-name_no_color: 40mmlength
-name_no_size: 40 mm Length
+name: Hardware Bolt M8 40 Mm Length
+name_no_class: Bolt M8 40 Mm Length
+name_no_size: 40 Mm Length
 name_no_size_short: 40 Mm Length
-name_no_type: M8 40 mm Length
-oomlout_bolt_color: ''
-oomlout_bolt_head_type: Bolt
-oomlout_bolt_head_type_diagram: head_type_diagram.png
-oomlout_bolt_length: 40 mm
-oomlout_bolt_length_no_unit: '40'
-oomlout_bolt_md5_6_alpha_first_3: 99b
-oomlout_bolt_md5_6_alpha_first_3_upper: 99B
-oomlout_bolt_md5_6_alpha_last_3: 2p
-oomlout_bolt_md5_6_alpha_last_3_upper: 2P
-oomlout_bolt_md5_6_first_3: ed4
-oomlout_bolt_md5_6_first_3_upper: ED4
-oomlout_bolt_md5_6_last_3: '951'
-oomlout_bolt_md5_6_last_3_upper: '951'
-oomlout_bolt_name: Bolt M8X40 mm  (Bolt)
-oomlout_bolt_size: M8
-oomlout_bolt_type: Bolt
-oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: b8m40
-oomlout_short_code_upper: B8M40
+name_no_type: M8 40 Mm Length
 oomp_key: oomp_hardware_bolt_m8_40_mm_length
 oomp_word: bus hatching_chick snail
 oomp_word_emoji: ':bus: :hatching_chick: :snail:'
@@ -194,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: b840
 short_code_upper: B840
@@ -202,61 +79,11 @@ size: m8
 size_capital: M8
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m8
-size_length_3: m8
-size_length_4: m8
-size_length_5: m8
-size_length_6: m8
-size_name: M8
-size_no_space_length_1: m
-size_no_space_length_2: m8
-size_no_space_length_3: m8
-size_no_space_length_4: m8
-size_no_space_length_5: m8
-size_no_space_length_6: m8
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M8
-size_no_space_upper_length_3: M8
-size_no_space_upper_length_4: M8
-size_no_space_upper_length_5: M8
-size_no_space_upper_length_6: M8
 size_only_numbers: '8'
 size_only_numbers_no_zeros: '8'
 size_upper: M8
-size_upper_length_1: M
-size_upper_length_2: M8
-size_upper_length_3: M8
-size_upper_length_4: M8
-size_upper_length_5: M8
-size_upper_length_6: M8
 type: bolt
 type_capital: Bolt
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: bo
-type_length_3: bol
-type_length_4: bolt
-type_length_5: bolt
-type_length_6: bolt
-type_name: Bolt
-type_no_space_length_1: b
-type_no_space_length_2: bo
-type_no_space_length_3: bol
-type_no_space_length_4: bolt
-type_no_space_length_5: bolt
-type_no_space_length_6: bolt
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BO
-type_no_space_upper_length_3: BOL
-type_no_space_upper_length_4: BOLT
-type_no_space_upper_length_5: BOLT
-type_no_space_upper_length_6: BOLT
 type_upper: BOLT
-type_upper_length_1: B
-type_upper_length_2: BO
-type_upper_length_3: BOL
-type_upper_length_4: BOLT
-type_upper_length_5: BOLT
-type_upper_length_6: BOLT

@@ -1,97 +1,22 @@
-bip_39_word_dash_12: caution-hard-original-mosquito-elegant-polar-flower-ignore-panda-blood-duck-address
-bip_39_word_dash_2: caution-hard
-bip_39_word_dash_3: caution-hard-original
-bip_39_word_new_br_12: caution<br>hard<br>original<br>mosquito<br>elegant<br>polar<br>flower<br>ignore<br>panda<br>blood<br>duck<br>address
-bip_39_word_new_br_2: caution<br>hard
-bip_39_word_new_br_3: caution<br>hard<br>original
-bip_39_word_new_line_12: 'caution
-
-  hard
-
-  original
-
-  mosquito
-
-  elegant
-
-  polar
-
-  flower
-
-  ignore
-
-  panda
-
-  blood
-
-  duck
-
-  address'
-bip_39_word_new_line_2: 'caution
-
-  hard'
-bip_39_word_new_line_3: 'caution
-
-  hard
-
-  original'
-bip_39_word_no_space_12: cautionhardoriginalmosquitoelegantpolarflowerignorepandabloodduckaddress
-bip_39_word_no_space_2: cautionhard
-bip_39_word_no_space_3: cautionhardoriginal
-bip_39_word_space_12: caution hard original mosquito elegant polar flower ignore panda
-  blood duck address
-bip_39_word_space_2: caution hard
-bip_39_word_space_3: caution hard original
-bip_39_word_underscore_12: caution_hard_original_mosquito_elegant_polar_flower_ignore_panda_blood_duck_address
-bip_39_word_underscore_2: caution_hard
-bip_39_word_underscore_3: caution_hard_original
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_looking_food
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_looking_food
 id: book_looking_food
 id_no_class: looking_food
-id_no_color: food
 id_no_size: food
 id_no_type: food
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_food
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_looking_food](none)<br>[](none)<br>[Book Looking Food](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: 24LFP
 md5_6_upper: '368785'
 name: Book Looking Food
 name_no_class: Looking Food
-name_no_color: Food
 name_no_size: Food
 name_no_size_short: Food
 name_no_type: Food
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: food
 size_capital: Food
 size_first_letter: f
 size_first_letter_upper: F
-size_length_1: f
-size_length_2: fo
-size_length_3: foo
-size_length_4: food
-size_length_5: food
-size_length_6: food
-size_name: Food
-size_no_space_length_1: f
-size_no_space_length_2: fo
-size_no_space_length_3: foo
-size_no_space_length_4: food
-size_no_space_length_5: food
-size_no_space_length_6: food
-size_no_space_upper_length_1: F
-size_no_space_upper_length_2: FO
-size_no_space_upper_length_3: FOO
-size_no_space_upper_length_4: FOOD
-size_no_space_upper_length_5: FOOD
-size_no_space_upper_length_6: FOOD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FOOD
-size_upper_length_1: F
-size_upper_length_2: FO
-size_upper_length_3: FOO
-size_upper_length_4: FOOD
-size_upper_length_5: FOOD
-size_upper_length_6: FOOD
 type: looking
 type_capital: Looking
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: lo
-type_length_3: loo
-type_length_4: look
-type_length_5: looki
-type_length_6: lookin
-type_name: Looking
-type_no_space_length_1: l
-type_no_space_length_2: lo
-type_no_space_length_3: loo
-type_no_space_length_4: look
-type_no_space_length_5: looki
-type_no_space_length_6: lookin
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LO
-type_no_space_upper_length_3: LOO
-type_no_space_upper_length_4: LOOK
-type_no_space_upper_length_5: LOOKI
-type_no_space_upper_length_6: LOOKIN
 type_upper: LOOKING
-type_upper_length_1: L
-type_upper_length_2: LO
-type_upper_length_3: LOO
-type_upper_length_4: LOOK
-type_upper_length_5: LOOKI
-type_upper_length_6: LOOKIN

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: boil-olive-slush-banana-project-lemon-wine-brick-tape-sphere-lion-approve
-bip_39_word_dash_2: boil-olive
-bip_39_word_dash_3: boil-olive-slush
-bip_39_word_new_br_12: boil<br>olive<br>slush<br>banana<br>project<br>lemon<br>wine<br>brick<br>tape<br>sphere<br>lion<br>approve
-bip_39_word_new_br_2: boil<br>olive
-bip_39_word_new_br_3: boil<br>olive<br>slush
-bip_39_word_new_line_12: 'boil
-
-  olive
-
-  slush
-
-  banana
-
-  project
-
-  lemon
-
-  wine
-
-  brick
-
-  tape
-
-  sphere
-
-  lion
-
-  approve'
-bip_39_word_new_line_2: 'boil
-
-  olive'
-bip_39_word_new_line_3: 'boil
-
-  olive
-
-  slush'
-bip_39_word_no_space_12: boiloliveslushbananaprojectlemonwinebricktapespherelionapprove
-bip_39_word_no_space_2: boilolive
-bip_39_word_no_space_3: boiloliveslush
-bip_39_word_space_12: boil olive slush banana project lemon wine brick tape sphere
-  lion approve
-bip_39_word_space_2: boil olive
-bip_39_word_space_3: boil olive slush
-bip_39_word_underscore_12: boil_olive_slush_banana_project_lemon_wine_brick_tape_sphere_lion_approve
-bip_39_word_underscore_2: boil_olive
-bip_39_word_underscore_3: boil_olive_slush
 classification: computer
 classification_capital: Computer
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: co
-classification_length_3: com
-classification_length_4: comp
-classification_length_5: compu
-classification_length_6: comput
-classification_name: Computer
-classification_no_space_length_1: c
-classification_no_space_length_2: co
-classification_no_space_length_3: com
-classification_no_space_length_4: comp
-classification_no_space_length_5: compu
-classification_no_space_length_6: comput
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CO
-classification_no_space_upper_length_3: COM
-classification_no_space_upper_length_4: COMP
-classification_no_space_upper_length_5: COMPU
-classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER
-classification_upper_length_1: C
-classification_upper_length_2: CO
-classification_upper_length_3: COM
-classification_upper_length_4: COMP
-classification_upper_length_5: COMPU
-classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 94_mm_width_101_mm_length_29_mm_depth
 description_main_capital: 94 mm Width 101 mm Length 29 mm Depth
 description_main_first_letter: '9'
 description_main_first_letter_upper: '9'
-description_main_length_1: '9'
-description_main_length_2: '94'
-description_main_length_3: '94_'
-description_main_length_4: 94_m
-description_main_length_5: 94_mm
-description_main_length_6: 94_mm_
-description_main_name: 94 mm Width 101 mm Length 29 mm Depth
-description_main_no_space_length_1: '9'
-description_main_no_space_length_2: '94'
-description_main_no_space_length_3: 94m
-description_main_no_space_length_4: 94mm
-description_main_no_space_length_5: 94mmw
-description_main_no_space_length_6: 94mmwi
-description_main_no_space_upper_length_1: '9'
-description_main_no_space_upper_length_2: '94'
-description_main_no_space_upper_length_3: 94M
-description_main_no_space_upper_length_4: 94MM
-description_main_no_space_upper_length_5: 94MMW
-description_main_no_space_upper_length_6: 94MMWI
 description_main_upper: 94_MM_WIDTH_101_MM_LENGTH_29_MM_DEPTH
-description_main_upper_length_1: '9'
-description_main_upper_length_2: '94'
-description_main_upper_length_3: '94_'
-description_main_upper_length_4: 94_M
-description_main_upper_length_5: 94_MM
-description_main_upper_length_6: 94_MM_
 description_only_numbers: '9410129'
 description_only_numbers_short: 9M4
 description_or_color: 9M4
@@ -125,10 +26,8 @@ directory: parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_n
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 id: computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 id_no_class: network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
-id_no_color: 94mmwidth101mmlength29mmdepthnetgeargs105
 id_no_size: 94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 id_no_type: switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
@@ -138,32 +37,7 @@ manufacturer: netgear
 manufacturer_capital: Netgear
 manufacturer_first_letter: n
 manufacturer_first_letter_upper: N
-manufacturer_length_1: n
-manufacturer_length_2: ne
-manufacturer_length_3: net
-manufacturer_length_4: netg
-manufacturer_length_5: netge
-manufacturer_length_6: netgea
-manufacturer_name: Netgear
-manufacturer_no_space_length_1: n
-manufacturer_no_space_length_2: ne
-manufacturer_no_space_length_3: net
-manufacturer_no_space_length_4: netg
-manufacturer_no_space_length_5: netge
-manufacturer_no_space_length_6: netgea
-manufacturer_no_space_upper_length_1: N
-manufacturer_no_space_upper_length_2: NE
-manufacturer_no_space_upper_length_3: NET
-manufacturer_no_space_upper_length_4: NETG
-manufacturer_no_space_upper_length_5: NETGE
-manufacturer_no_space_upper_length_6: NETGEA
 manufacturer_upper: NETGEAR
-manufacturer_upper_length_1: N
-manufacturer_upper_length_2: NE
-manufacturer_upper_length_3: NET
-manufacturer_upper_length_4: NETG
-manufacturer_upper_length_5: NETGE
-manufacturer_upper_length_6: NETGEA
 manufacturers: []
 markdown_full: '[computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105](none)<br>[](none)<br>[Computer
   Network Switch 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105](none)<br><br>'
@@ -177,12 +51,11 @@ md5_6: ad0474
 md5_6_alpha: 6r14k
 md5_6_alpha_upper: 6R14K
 md5_6_upper: AD0474
-name: Computer Network Switch 94 mm Width 101 mm Length 29 mm Depth Netgear Gs105
-name_no_class: Network Switch 94 mm Width 101 mm Length 29 mm Depth Netgear Gs105
-name_no_color: 94mmwidth101mmlength29mmdepthnetgeargs105
-name_no_size: 94 mm Width 101 mm Length 29 mm Depth Netgear Gs105
+name: Computer Network Switch 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105
+name_no_class: Network Switch 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105
+name_no_size: 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105
 name_no_size_short: 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105
-name_no_type: Switch 94 mm Width 101 mm Length 29 mm Depth Netgear Gs105
+name_no_type: Switch 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105
 oomp_key: oomp_computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 oomp_word: dress wink fireworks
 oomp_word_emoji: ':dress: :wink: :fireworks:'
@@ -199,93 +72,18 @@ part_number_capital: Gs105
 part_number_exact: GS105
 part_number_first_letter: g
 part_number_first_letter_upper: G
-part_number_length_1: g
-part_number_length_2: gs
-part_number_length_3: gs1
-part_number_length_4: gs10
-part_number_length_5: gs105
-part_number_length_6: gs105
-part_number_name: Gs105
-part_number_no_space_length_1: g
-part_number_no_space_length_2: gs
-part_number_no_space_length_3: gs1
-part_number_no_space_length_4: gs10
-part_number_no_space_length_5: gs105
-part_number_no_space_length_6: gs105
-part_number_no_space_upper_length_1: G
-part_number_no_space_upper_length_2: GS
-part_number_no_space_upper_length_3: GS1
-part_number_no_space_upper_length_4: GS10
-part_number_no_space_upper_length_5: GS105
-part_number_no_space_upper_length_6: GS105
 part_number_upper: GS105
-part_number_upper_length_1: G
-part_number_upper_length_2: GS
-part_number_upper_length_3: GS1
-part_number_upper_length_4: GS10
-part_number_upper_length_5: GS105
-part_number_upper_length_6: GS105
 short_code: ''
 short_code_upper: ''
 size: switch
 size_capital: Switch
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sw
-size_length_3: swi
-size_length_4: swit
-size_length_5: switc
-size_length_6: switch
-size_name: Switch
-size_no_space_length_1: s
-size_no_space_length_2: sw
-size_no_space_length_3: swi
-size_no_space_length_4: swit
-size_no_space_length_5: switc
-size_no_space_length_6: switch
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SW
-size_no_space_upper_length_3: SWI
-size_no_space_upper_length_4: SWIT
-size_no_space_upper_length_5: SWITC
-size_no_space_upper_length_6: SWITCH
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SWITCH
-size_upper_length_1: S
-size_upper_length_2: SW
-size_upper_length_3: SWI
-size_upper_length_4: SWIT
-size_upper_length_5: SWITC
-size_upper_length_6: SWITCH
 type: network
 type_capital: Network
 type_first_letter: n
 type_first_letter_upper: N
-type_length_1: n
-type_length_2: ne
-type_length_3: net
-type_length_4: netw
-type_length_5: netwo
-type_length_6: networ
-type_name: Network
-type_no_space_length_1: n
-type_no_space_length_2: ne
-type_no_space_length_3: net
-type_no_space_length_4: netw
-type_no_space_length_5: netwo
-type_no_space_length_6: networ
-type_no_space_upper_length_1: N
-type_no_space_upper_length_2: NE
-type_no_space_upper_length_3: NET
-type_no_space_upper_length_4: NETW
-type_no_space_upper_length_5: NETWO
-type_no_space_upper_length_6: NETWOR
 type_upper: NETWORK
-type_upper_length_1: N
-type_upper_length_2: NE
-type_upper_length_3: NET
-type_upper_length_4: NETW
-type_upper_length_5: NETWO
-type_upper_length_6: NETWOR

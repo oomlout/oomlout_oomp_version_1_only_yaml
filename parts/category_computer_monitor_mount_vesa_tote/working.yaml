@@ -1,146 +1,23 @@
-bip_39_word_dash_12: runway-half-flush-odor-stereo-various-indicate-pepper-pen-inch-lava-alert
-bip_39_word_dash_2: runway-half
-bip_39_word_dash_3: runway-half-flush
-bip_39_word_new_br_12: runway<br>half<br>flush<br>odor<br>stereo<br>various<br>indicate<br>pepper<br>pen<br>inch<br>lava<br>alert
-bip_39_word_new_br_2: runway<br>half
-bip_39_word_new_br_3: runway<br>half<br>flush
-bip_39_word_new_line_12: 'runway
-
-  half
-
-  flush
-
-  odor
-
-  stereo
-
-  various
-
-  indicate
-
-  pepper
-
-  pen
-
-  inch
-
-  lava
-
-  alert'
-bip_39_word_new_line_2: 'runway
-
-  half'
-bip_39_word_new_line_3: 'runway
-
-  half
-
-  flush'
-bip_39_word_no_space_12: runwayhalfflushodorstereovariousindicatepepperpeninchlavaalert
-bip_39_word_no_space_2: runwayhalf
-bip_39_word_no_space_3: runwayhalfflush
-bip_39_word_space_12: runway half flush odor stereo various indicate pepper pen inch
-  lava alert
-bip_39_word_space_2: runway half
-bip_39_word_space_3: runway half flush
-bip_39_word_underscore_12: runway_half_flush_odor_stereo_various_indicate_pepper_pen_inch_lava_alert
-bip_39_word_underscore_2: runway_half
-bip_39_word_underscore_3: runway_half_flush
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: vesa
 color_capital: Vesa
 color_first_letter: v
 color_first_letter_upper: V
-color_length_1: v
-color_length_2: ve
-color_length_3: ves
-color_length_4: vesa
-color_length_5: vesa
-color_length_6: vesa
-color_name: Vesa
-color_no_space_length_1: v
-color_no_space_length_2: ve
-color_no_space_length_3: ves
-color_no_space_length_4: vesa
-color_no_space_length_5: vesa
-color_no_space_length_6: vesa
-color_no_space_upper_length_1: V
-color_no_space_upper_length_2: VE
-color_no_space_upper_length_3: VES
-color_no_space_upper_length_4: VESA
-color_no_space_upper_length_5: VESA
-color_no_space_upper_length_6: VESA
 color_upper: VESA
-color_upper_length_1: V
-color_upper_length_2: VE
-color_upper_length_3: VES
-color_upper_length_4: VESA
-color_upper_length_5: VESA
-color_upper_length_6: VESA
 description: category_computer
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_computer_monitor_mount_vesa_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer_monitor_mount_vesa_tote
 id: category_computer_monitor_mount_vesa_tote
 id_no_class: computer_monitor_mount_vesa_tote
-id_no_color: tote
 id_no_size: vesa_tote
 id_no_type: monitor_mount_vesa_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_computer_monitor_mount_vesa_tote](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 3V1CS
 md5_6_upper: 62FB9C
 name: Category Computer Monitor Mount Vesa Tote
 name_no_class: Computer Monitor Mount Vesa Tote
-name_no_color: Tote
 name_no_size: Vesa Tote
 name_no_size_short: Vesa Tote
 name_no_type: Monitor Mount Vesa Tote
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: monitor_mount
 size_capital: Monitor Mount
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: mo
-size_length_3: mon
-size_length_4: moni
-size_length_5: monit
-size_length_6: monito
-size_name: Monitor Mount
-size_no_space_length_1: m
-size_no_space_length_2: mo
-size_no_space_length_3: mon
-size_no_space_length_4: moni
-size_no_space_length_5: monit
-size_no_space_length_6: monito
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: MO
-size_no_space_upper_length_3: MON
-size_no_space_upper_length_4: MONI
-size_no_space_upper_length_5: MONIT
-size_no_space_upper_length_6: MONITO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MONITOR_MOUNT
-size_upper_length_1: M
-size_upper_length_2: MO
-size_upper_length_3: MON
-size_upper_length_4: MONI
-size_upper_length_5: MONIT
-size_upper_length_6: MONITO
 type: computer
 type_capital: Computer
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: com
-type_length_4: comp
-type_length_5: compu
-type_length_6: comput
-type_name: Computer
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: com
-type_no_space_length_4: comp
-type_no_space_length_5: compu
-type_no_space_length_6: comput
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COM
-type_no_space_upper_length_4: COMP
-type_no_space_upper_length_5: COMPU
-type_no_space_upper_length_6: COMPUT
 type_upper: COMPUTER
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COM
-type_upper_length_4: COMP
-type_upper_length_5: COMPU
-type_upper_length_6: COMPUT

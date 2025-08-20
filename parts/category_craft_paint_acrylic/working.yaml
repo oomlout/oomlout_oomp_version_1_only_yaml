@@ -1,122 +1,23 @@
-bip_39_word_dash_12: chat-dash-shoulder-pool-antique-extend-sea-option-husband-clay-interest-appear
-bip_39_word_dash_2: chat-dash
-bip_39_word_dash_3: chat-dash-shoulder
-bip_39_word_new_br_12: chat<br>dash<br>shoulder<br>pool<br>antique<br>extend<br>sea<br>option<br>husband<br>clay<br>interest<br>appear
-bip_39_word_new_br_2: chat<br>dash
-bip_39_word_new_br_3: chat<br>dash<br>shoulder
-bip_39_word_new_line_12: 'chat
-
-  dash
-
-  shoulder
-
-  pool
-
-  antique
-
-  extend
-
-  sea
-
-  option
-
-  husband
-
-  clay
-
-  interest
-
-  appear'
-bip_39_word_new_line_2: 'chat
-
-  dash'
-bip_39_word_new_line_3: 'chat
-
-  dash
-
-  shoulder'
-bip_39_word_no_space_12: chatdashshoulderpoolantiqueextendseaoptionhusbandclayinterestappear
-bip_39_word_no_space_2: chatdash
-bip_39_word_no_space_3: chatdashshoulder
-bip_39_word_space_12: chat dash shoulder pool antique extend sea option husband clay
-  interest appear
-bip_39_word_space_2: chat dash
-bip_39_word_space_3: chat dash shoulder
-bip_39_word_underscore_12: chat_dash_shoulder_pool_antique_extend_sea_option_husband_clay_interest_appear
-bip_39_word_underscore_2: chat_dash
-bip_39_word_underscore_3: chat_dash_shoulder
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: acrylic
 color_capital: Acrylic
 color_first_letter: a
 color_first_letter_upper: A
-color_length_1: a
-color_length_2: ac
-color_length_3: acr
-color_length_4: acry
-color_length_5: acryl
-color_length_6: acryli
-color_name: Acrylic
-color_no_space_length_1: a
-color_no_space_length_2: ac
-color_no_space_length_3: acr
-color_no_space_length_4: acry
-color_no_space_length_5: acryl
-color_no_space_length_6: acryli
-color_no_space_upper_length_1: A
-color_no_space_upper_length_2: AC
-color_no_space_upper_length_3: ACR
-color_no_space_upper_length_4: ACRY
-color_no_space_upper_length_5: ACRYL
-color_no_space_upper_length_6: ACRYLI
 color_upper: ACRYLIC
-color_upper_length_1: A
-color_upper_length_2: AC
-color_upper_length_3: ACR
-color_upper_length_4: ACRY
-color_upper_length_5: ACRYL
-color_upper_length_6: ACRYLI
 description: category_craft
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_craft_paint_acrylic
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_paint_acrylic
 id: category_craft_paint_acrylic
 id_no_class: craft_paint_acrylic
-id_no_color: acrylic
 id_no_size: acrylic
 id_no_type: paint_acrylic
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_acrylic
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_paint_acrylic](none)<br>[](none)<br>[Category Craft
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 6L9VU
 md5_6_upper: A8EB4A
 name: Category Craft Paint Acrylic
 name_no_class: Craft Paint Acrylic
-name_no_color: Acrylic
 name_no_size: Acrylic
 name_no_size_short: Acrylic
 name_no_type: Paint Acrylic
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: paint
 size_capital: Paint
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: pai
-size_length_4: pain
-size_length_5: paint
-size_length_6: paint
-size_name: Paint
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: pai
-size_no_space_length_4: pain
-size_no_space_length_5: paint
-size_no_space_length_6: paint
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAI
-size_no_space_upper_length_4: PAIN
-size_no_space_upper_length_5: PAINT
-size_no_space_upper_length_6: PAINT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PAINT
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAI
-size_upper_length_4: PAIN
-size_upper_length_5: PAINT
-size_upper_length_6: PAINT
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cr
-type_length_3: cra
-type_length_4: craf
-type_length_5: craft
-type_length_6: craft
-type_name: Craft
-type_no_space_length_1: c
-type_no_space_length_2: cr
-type_no_space_length_3: cra
-type_no_space_length_4: craf
-type_no_space_length_5: craft
-type_no_space_length_6: craft
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CR
-type_no_space_upper_length_3: CRA
-type_no_space_upper_length_4: CRAF
-type_no_space_upper_length_5: CRAFT
-type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
-type_upper_length_1: C
-type_upper_length_2: CR
-type_upper_length_3: CRA
-type_upper_length_4: CRAF
-type_upper_length_5: CRAFT
-type_upper_length_6: CRAFT

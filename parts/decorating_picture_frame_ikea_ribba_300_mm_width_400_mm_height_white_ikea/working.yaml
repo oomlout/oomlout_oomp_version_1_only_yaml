@@ -1,156 +1,31 @@
-bip_39_word_dash_12: tragic-vicious-song-drum-wish-need-damage-bulk-youth-more-release-action
-bip_39_word_dash_2: tragic-vicious
-bip_39_word_dash_3: tragic-vicious-song
-bip_39_word_new_br_12: tragic<br>vicious<br>song<br>drum<br>wish<br>need<br>damage<br>bulk<br>youth<br>more<br>release<br>action
-bip_39_word_new_br_2: tragic<br>vicious
-bip_39_word_new_br_3: tragic<br>vicious<br>song
-bip_39_word_new_line_12: 'tragic
-
-  vicious
-
-  song
-
-  drum
-
-  wish
-
-  need
-
-  damage
-
-  bulk
-
-  youth
-
-  more
-
-  release
-
-  action'
-bip_39_word_new_line_2: 'tragic
-
-  vicious'
-bip_39_word_new_line_3: 'tragic
-
-  vicious
-
-  song'
-bip_39_word_no_space_12: tragicvicioussongdrumwishneeddamagebulkyouthmorereleaseaction
-bip_39_word_no_space_2: tragicvicious
-bip_39_word_no_space_3: tragicvicioussong
-bip_39_word_space_12: tragic vicious song drum wish need damage bulk youth more release
-  action
-bip_39_word_space_2: tragic vicious
-bip_39_word_space_3: tragic vicious song
-bip_39_word_underscore_12: tragic_vicious_song_drum_wish_need_damage_bulk_youth_more_release_action
-bip_39_word_underscore_2: tragic_vicious
-bip_39_word_underscore_3: tragic_vicious_song
 classification: decorating
 classification_capital: Decorating
 classification_first_letter: d
 classification_first_letter_upper: D
-classification_length_1: d
-classification_length_2: de
-classification_length_3: dec
-classification_length_4: deco
-classification_length_5: decor
-classification_length_6: decora
-classification_name: Decorating
-classification_no_space_length_1: d
-classification_no_space_length_2: de
-classification_no_space_length_3: dec
-classification_no_space_length_4: deco
-classification_no_space_length_5: decor
-classification_no_space_length_6: decora
-classification_no_space_upper_length_1: D
-classification_no_space_upper_length_2: DE
-classification_no_space_upper_length_3: DEC
-classification_no_space_upper_length_4: DECO
-classification_no_space_upper_length_5: DECOR
-classification_no_space_upper_length_6: DECORA
 classification_upper: DECORATING
-classification_upper_length_1: D
-classification_upper_length_2: DE
-classification_upper_length_3: DEC
-classification_upper_length_4: DECO
-classification_upper_length_5: DECOR
-classification_upper_length_6: DECORA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: white
 description_extra_capital: White
 description_extra_first_letter: w
 description_extra_first_letter_upper: W
-description_extra_length_1: w
-description_extra_length_2: wh
-description_extra_length_3: whi
-description_extra_length_4: whit
-description_extra_length_5: white
-description_extra_length_6: white
-description_extra_name: White
-description_extra_no_space_length_1: w
-description_extra_no_space_length_2: wh
-description_extra_no_space_length_3: whi
-description_extra_no_space_length_4: whit
-description_extra_no_space_length_5: white
-description_extra_no_space_length_6: white
-description_extra_no_space_upper_length_1: W
-description_extra_no_space_upper_length_2: WH
-description_extra_no_space_upper_length_3: WHI
-description_extra_no_space_upper_length_4: WHIT
-description_extra_no_space_upper_length_5: WHITE
-description_extra_no_space_upper_length_6: WHITE
 description_extra_upper: WHITE
-description_extra_upper_length_1: W
-description_extra_upper_length_2: WH
-description_extra_upper_length_3: WHI
-description_extra_upper_length_4: WHIT
-description_extra_upper_length_5: WHITE
-description_extra_upper_length_6: WHITE
 description_main: 300_mm_width_400_mm_height
 description_main_capital: 300 mm Width 400 mm Height
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '30'
-description_main_length_3: '300'
-description_main_length_4: '300_'
-description_main_length_5: 300_m
-description_main_length_6: 300_mm
-description_main_name: 300 mm Width 400 mm Height
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '30'
-description_main_no_space_length_3: '300'
-description_main_no_space_length_4: 300m
-description_main_no_space_length_5: 300mm
-description_main_no_space_length_6: 300mmw
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '30'
-description_main_no_space_upper_length_3: '300'
-description_main_no_space_upper_length_4: 300M
-description_main_no_space_upper_length_5: 300MM
-description_main_no_space_upper_length_6: 300MMW
 description_main_upper: 300_MM_WIDTH_400_MM_HEIGHT
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '30'
-description_main_upper_length_3: '300'
-description_main_upper_length_4: '300_'
-description_main_upper_length_5: 300_M
-description_main_upper_length_6: 300_MM
 description_only_numbers: '300400'
 description_only_numbers_short: 300k
 description_or_color: 300k
 description_or_color_upper: 300K
 directory: parts/decorating_picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/decorating_picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea
 id: decorating_picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea
 id_no_class: picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea
-id_no_color: 300mmwidth400mmheightwhiteikea
 id_no_size: 300_mm_width_400_mm_height_white_ikea
 id_no_type: ikea_ribba_300_mm_width_400_mm_height_white_ikea
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea
@@ -160,32 +35,7 @@ manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
-manufacturer_length_1: i
-manufacturer_length_2: ik
-manufacturer_length_3: ike
-manufacturer_length_4: ikea
-manufacturer_length_5: ikea
-manufacturer_length_6: ikea
-manufacturer_name: Ikea
-manufacturer_no_space_length_1: i
-manufacturer_no_space_length_2: ik
-manufacturer_no_space_length_3: ike
-manufacturer_no_space_length_4: ikea
-manufacturer_no_space_length_5: ikea
-manufacturer_no_space_length_6: ikea
-manufacturer_no_space_upper_length_1: I
-manufacturer_no_space_upper_length_2: IK
-manufacturer_no_space_upper_length_3: IKE
-manufacturer_no_space_upper_length_4: IKEA
-manufacturer_no_space_upper_length_5: IKEA
-manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
-manufacturer_upper_length_1: I
-manufacturer_upper_length_2: IK
-manufacturer_upper_length_3: IKE
-manufacturer_upper_length_4: IKEA
-manufacturer_upper_length_5: IKEA
-manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[decorating_picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea](none)<br>[](none)<br>[Decorating
   Picture Frame Ikea Ribba 300 Mm Width 400 Mm Height White Ikea](none)<br><br>'
@@ -199,12 +49,11 @@ md5_6: 296a63
 md5_6_alpha: 1m6ar
 md5_6_alpha_upper: 1M6AR
 md5_6_upper: 296A63
-name: Decorating Picture Frame Ikea Ribba 300 mm Width 400 mm Height White Ikea
-name_no_class: Picture Frame Ikea Ribba 300 mm Width 400 mm Height White Ikea
-name_no_color: 300mmwidth400mmheightwhiteikea
-name_no_size: 300 mm Width 400 mm Height White Ikea
+name: Decorating Picture Frame Ikea Ribba 300 Mm Width 400 Mm Height White Ikea
+name_no_class: Picture Frame Ikea Ribba 300 Mm Width 400 Mm Height White Ikea
+name_no_size: 300 Mm Width 400 Mm Height White Ikea
 name_no_size_short: 300 Mm Width 400 Mm Height White Ikea
-name_no_type: Ikea Ribba 300 mm Width 400 mm Height White Ikea
+name_no_type: Ikea Ribba 300 Mm Width 400 Mm Height White Ikea
 oomp_key: oomp_decorating_picture_frame_ikea_ribba_300_mm_width_400_mm_height_white_ikea
 oomp_word: sunny palm_tree rose
 oomp_word_emoji: ':sunny: :palm_tree: :rose:'
@@ -220,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -228,61 +76,11 @@ size: ikea_ribba
 size_capital: Ikea Ribba
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: ik
-size_length_3: ike
-size_length_4: ikea
-size_length_5: ikea_
-size_length_6: ikea_r
-size_name: Ikea Ribba
-size_no_space_length_1: i
-size_no_space_length_2: ik
-size_no_space_length_3: ike
-size_no_space_length_4: ikea
-size_no_space_length_5: ikear
-size_no_space_length_6: ikeari
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IK
-size_no_space_upper_length_3: IKE
-size_no_space_upper_length_4: IKEA
-size_no_space_upper_length_5: IKEAR
-size_no_space_upper_length_6: IKEARI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IKEA_RIBBA
-size_upper_length_1: I
-size_upper_length_2: IK
-size_upper_length_3: IKE
-size_upper_length_4: IKEA
-size_upper_length_5: IKEA_
-size_upper_length_6: IKEA_R
 type: picture_frame
 type_capital: Picture Frame
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pi
-type_length_3: pic
-type_length_4: pict
-type_length_5: pictu
-type_length_6: pictur
-type_name: Picture Frame
-type_no_space_length_1: p
-type_no_space_length_2: pi
-type_no_space_length_3: pic
-type_no_space_length_4: pict
-type_no_space_length_5: pictu
-type_no_space_length_6: pictur
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PI
-type_no_space_upper_length_3: PIC
-type_no_space_upper_length_4: PICT
-type_no_space_upper_length_5: PICTU
-type_no_space_upper_length_6: PICTUR
 type_upper: PICTURE_FRAME
-type_upper_length_1: P
-type_upper_length_2: PI
-type_upper_length_3: PIC
-type_upper_length_4: PICT
-type_upper_length_5: PICTU
-type_upper_length_6: PICTUR

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: peace-choice-eager-laundry-protect-abandon-session-reveal-profit-fall-nation-amount
-bip_39_word_dash_2: peace-choice
-bip_39_word_dash_3: peace-choice-eager
-bip_39_word_new_br_12: peace<br>choice<br>eager<br>laundry<br>protect<br>abandon<br>session<br>reveal<br>profit<br>fall<br>nation<br>amount
-bip_39_word_new_br_2: peace<br>choice
-bip_39_word_new_br_3: peace<br>choice<br>eager
-bip_39_word_new_line_12: 'peace
-
-  choice
-
-  eager
-
-  laundry
-
-  protect
-
-  abandon
-
-  session
-
-  reveal
-
-  profit
-
-  fall
-
-  nation
-
-  amount'
-bip_39_word_new_line_2: 'peace
-
-  choice'
-bip_39_word_new_line_3: 'peace
-
-  choice
-
-  eager'
-bip_39_word_no_space_12: peacechoiceeagerlaundryprotectabandonsessionrevealprofitfallnationamount
-bip_39_word_no_space_2: peacechoice
-bip_39_word_no_space_3: peacechoiceeager
-bip_39_word_space_12: peace choice eager laundry protect abandon session reveal profit
-  fall nation amount
-bip_39_word_space_2: peace choice
-bip_39_word_space_3: peace choice eager
-bip_39_word_underscore_12: peace_choice_eager_laundry_protect_abandon_session_reveal_profit_fall_nation_amount
-bip_39_word_underscore_2: peace_choice
-bip_39_word_underscore_3: peace_choice_eager
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_mechanical
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_mechanical_coupler_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_coupler_tote
 id: category_mechanical_coupler_tote
 id_no_class: mechanical_coupler_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: coupler_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_mechanical_coupler_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 51EVO
 md5_6_upper: '812694'
 name: Category Mechanical Coupler Tote
 name_no_class: Mechanical Coupler Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Coupler Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: coupler
 size_capital: Coupler
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: co
-size_length_3: cou
-size_length_4: coup
-size_length_5: coupl
-size_length_6: couple
-size_name: Coupler
-size_no_space_length_1: c
-size_no_space_length_2: co
-size_no_space_length_3: cou
-size_no_space_length_4: coup
-size_no_space_length_5: coupl
-size_no_space_length_6: couple
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CO
-size_no_space_upper_length_3: COU
-size_no_space_upper_length_4: COUP
-size_no_space_upper_length_5: COUPL
-size_no_space_upper_length_6: COUPLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: COUPLER
-size_upper_length_1: C
-size_upper_length_2: CO
-size_upper_length_3: COU
-size_upper_length_4: COUP
-size_upper_length_5: COUPL
-size_upper_length_6: COUPLE
 type: mechanical
 type_capital: Mechanical
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: me
-type_length_3: mec
-type_length_4: mech
-type_length_5: mecha
-type_length_6: mechan
-type_name: Mechanical
-type_no_space_length_1: m
-type_no_space_length_2: me
-type_no_space_length_3: mec
-type_no_space_length_4: mech
-type_no_space_length_5: mecha
-type_no_space_length_6: mechan
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: ME
-type_no_space_upper_length_3: MEC
-type_no_space_upper_length_4: MECH
-type_no_space_upper_length_5: MECHA
-type_no_space_upper_length_6: MECHAN
 type_upper: MECHANICAL
-type_upper_length_1: M
-type_upper_length_2: ME
-type_upper_length_3: MEC
-type_upper_length_4: MECH
-type_upper_length_5: MECHA
-type_upper_length_6: MECHAN

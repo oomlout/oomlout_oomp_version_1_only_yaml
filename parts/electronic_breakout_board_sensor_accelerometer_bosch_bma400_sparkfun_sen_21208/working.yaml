@@ -1,121 +1,22 @@
-bip_39_word_dash_12: fish-arena-possible-used-pattern-turn-lift-merit-rude-run-observe-artefact
-bip_39_word_dash_2: fish-arena
-bip_39_word_dash_3: fish-arena-possible
-bip_39_word_new_br_12: fish<br>arena<br>possible<br>used<br>pattern<br>turn<br>lift<br>merit<br>rude<br>run<br>observe<br>artefact
-bip_39_word_new_br_2: fish<br>arena
-bip_39_word_new_br_3: fish<br>arena<br>possible
-bip_39_word_new_line_12: 'fish
-
-  arena
-
-  possible
-
-  used
-
-  pattern
-
-  turn
-
-  lift
-
-  merit
-
-  rude
-
-  run
-
-  observe
-
-  artefact'
-bip_39_word_new_line_2: 'fish
-
-  arena'
-bip_39_word_new_line_3: 'fish
-
-  arena
-
-  possible'
-bip_39_word_no_space_12: fisharenapossibleusedpatternturnliftmeritruderunobserveartefact
-bip_39_word_no_space_2: fisharena
-bip_39_word_no_space_3: fisharenapossible
-bip_39_word_space_12: fish arena possible used pattern turn lift merit rude run observe
-  artefact
-bip_39_word_space_2: fish arena
-bip_39_word_space_3: fish arena possible
-bip_39_word_underscore_12: fish_arena_possible_used_pattern_turn_lift_merit_rude_run_observe_artefact
-bip_39_word_underscore_2: fish_arena
-bip_39_word_underscore_3: fish_arena_possible
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: bosch_bma400
 color_capital: Bosch Bma400
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bo
-color_length_3: bos
-color_length_4: bosc
-color_length_5: bosch
-color_length_6: bosch_
-color_name: Bosch Bma400
-color_no_space_length_1: b
-color_no_space_length_2: bo
-color_no_space_length_3: bos
-color_no_space_length_4: bosc
-color_no_space_length_5: bosch
-color_no_space_length_6: boschb
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BO
-color_no_space_upper_length_3: BOS
-color_no_space_upper_length_4: BOSC
-color_no_space_upper_length_5: BOSCH
-color_no_space_upper_length_6: BOSCHB
 color_upper: BOSCH_BMA400
-color_upper_length_1: B
-color_upper_length_2: BO
-color_upper_length_3: BOS
-color_upper_length_4: BOSC
-color_upper_length_5: BOSCH
-color_upper_length_6: BOSCH_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -123,10 +24,8 @@ description_or_color: 'B '
 description_or_color_upper: 'B '
 directory: parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 id: electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 id_no_class: breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
-id_no_color: sparkfun_sen_21208
 id_no_size: bosch_bma400_sparkfun_sen_21208
 id_no_type: accelerometer_bosch_bma400_sparkfun_sen_21208
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
@@ -136,32 +35,7 @@ manufacturer: sparkfun
 manufacturer_capital: Sparkfun
 manufacturer_first_letter: s
 manufacturer_first_letter_upper: S
-manufacturer_length_1: s
-manufacturer_length_2: sp
-manufacturer_length_3: spa
-manufacturer_length_4: spar
-manufacturer_length_5: spark
-manufacturer_length_6: sparkf
-manufacturer_name: Sparkfun
-manufacturer_no_space_length_1: s
-manufacturer_no_space_length_2: sp
-manufacturer_no_space_length_3: spa
-manufacturer_no_space_length_4: spar
-manufacturer_no_space_length_5: spark
-manufacturer_no_space_length_6: sparkf
-manufacturer_no_space_upper_length_1: S
-manufacturer_no_space_upper_length_2: SP
-manufacturer_no_space_upper_length_3: SPA
-manufacturer_no_space_upper_length_4: SPAR
-manufacturer_no_space_upper_length_5: SPARK
-manufacturer_no_space_upper_length_6: SPARKF
 manufacturer_upper: SPARKFUN
-manufacturer_upper_length_1: S
-manufacturer_upper_length_2: SP
-manufacturer_upper_length_3: SPA
-manufacturer_upper_length_4: SPAR
-manufacturer_upper_length_5: SPARK
-manufacturer_upper_length_6: SPARKF
 manufacturers: []
 markdown_full: '[electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208](none)<br>[](none)<br>[Electronic
   Breakout Board Sensor Accelerometer Bosch Bma400 Sparkfun Sen 21208](none)<br><br>'
@@ -177,7 +51,6 @@ md5_6_alpha_upper: 8317Z
 md5_6_upper: CF30EF
 name: Electronic Breakout Board Sensor Accelerometer Bosch Bma400 Sparkfun Sen 21208
 name_no_class: Breakout Board Sensor Accelerometer Bosch Bma400 Sparkfun Sen 21208
-name_no_color: Sparkfun Sen 21208
 name_no_size: Bosch Bma400 Sparkfun Sen 21208
 name_no_size_short: Bosch Bma400 Sparkfun Sen 21208
 name_no_type: Accelerometer Bosch Bma400 Sparkfun Sen 21208
@@ -197,93 +70,18 @@ part_number: sen_21208
 part_number_capital: Sen 21208
 part_number_first_letter: s
 part_number_first_letter_upper: S
-part_number_length_1: s
-part_number_length_2: se
-part_number_length_3: sen
-part_number_length_4: sen_
-part_number_length_5: sen_2
-part_number_length_6: sen_21
-part_number_name: Sen 21208
-part_number_no_space_length_1: s
-part_number_no_space_length_2: se
-part_number_no_space_length_3: sen
-part_number_no_space_length_4: sen2
-part_number_no_space_length_5: sen21
-part_number_no_space_length_6: sen212
-part_number_no_space_upper_length_1: S
-part_number_no_space_upper_length_2: SE
-part_number_no_space_upper_length_3: SEN
-part_number_no_space_upper_length_4: SEN2
-part_number_no_space_upper_length_5: SEN21
-part_number_no_space_upper_length_6: SEN212
 part_number_upper: SEN_21208
-part_number_upper_length_1: S
-part_number_upper_length_2: SE
-part_number_upper_length_3: SEN
-part_number_upper_length_4: SEN_
-part_number_upper_length_5: SEN_2
-part_number_upper_length_6: SEN_21
 short_code: ''
 short_code_upper: ''
 size: accelerometer
 size_capital: Accelerometer
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: ac
-size_length_3: acc
-size_length_4: acce
-size_length_5: accel
-size_length_6: accele
-size_name: Accelerometer
-size_no_space_length_1: a
-size_no_space_length_2: ac
-size_no_space_length_3: acc
-size_no_space_length_4: acce
-size_no_space_length_5: accel
-size_no_space_length_6: accele
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: AC
-size_no_space_upper_length_3: ACC
-size_no_space_upper_length_4: ACCE
-size_no_space_upper_length_5: ACCEL
-size_no_space_upper_length_6: ACCELE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ACCELEROMETER
-size_upper_length_1: A
-size_upper_length_2: AC
-size_upper_length_3: ACC
-size_upper_length_4: ACCE
-size_upper_length_5: ACCEL
-size_upper_length_6: ACCELE
 type: breakout_board_sensor
 type_capital: Breakout Board Sensor
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: br
-type_length_3: bre
-type_length_4: brea
-type_length_5: break
-type_length_6: breako
-type_name: Breakout Board Sensor
-type_no_space_length_1: b
-type_no_space_length_2: br
-type_no_space_length_3: bre
-type_no_space_length_4: brea
-type_no_space_length_5: break
-type_no_space_length_6: breako
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BR
-type_no_space_upper_length_3: BRE
-type_no_space_upper_length_4: BREA
-type_no_space_upper_length_5: BREAK
-type_no_space_upper_length_6: BREAKO
 type_upper: BREAKOUT_BOARD_SENSOR
-type_upper_length_1: B
-type_upper_length_2: BR
-type_upper_length_3: BRE
-type_upper_length_4: BREA
-type_upper_length_5: BREAK
-type_upper_length_6: BREAKO

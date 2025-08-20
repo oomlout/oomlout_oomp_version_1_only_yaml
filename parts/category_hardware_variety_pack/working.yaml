@@ -1,98 +1,23 @@
-bip_39_word_dash_12: pledge-evil-ability-stone-fatal-across-relief-welcome-column-snow-crop-area
-bip_39_word_dash_2: pledge-evil
-bip_39_word_dash_3: pledge-evil-ability
-bip_39_word_new_br_12: pledge<br>evil<br>ability<br>stone<br>fatal<br>across<br>relief<br>welcome<br>column<br>snow<br>crop<br>area
-bip_39_word_new_br_2: pledge<br>evil
-bip_39_word_new_br_3: pledge<br>evil<br>ability
-bip_39_word_new_line_12: 'pledge
-
-  evil
-
-  ability
-
-  stone
-
-  fatal
-
-  across
-
-  relief
-
-  welcome
-
-  column
-
-  snow
-
-  crop
-
-  area'
-bip_39_word_new_line_2: 'pledge
-
-  evil'
-bip_39_word_new_line_3: 'pledge
-
-  evil
-
-  ability'
-bip_39_word_no_space_12: pledgeevilabilitystonefatalacrossreliefwelcomecolumnsnowcroparea
-bip_39_word_no_space_2: pledgeevil
-bip_39_word_no_space_3: pledgeevilability
-bip_39_word_space_12: pledge evil ability stone fatal across relief welcome column
-  snow crop area
-bip_39_word_space_2: pledge evil
-bip_39_word_space_3: pledge evil ability
-bip_39_word_underscore_12: pledge_evil_ability_stone_fatal_across_relief_welcome_column_snow_crop_area
-bip_39_word_underscore_2: pledge_evil
-bip_39_word_underscore_3: pledge_evil_ability
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_hardware
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_hardware_variety_pack
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_variety_pack
 id: category_hardware_variety_pack
 id_no_class: hardware_variety_pack
-id_no_color: varietypack
 id_no_size: variety_pack
 id_no_type: variety_pack
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_variety_pack](none)<br>[](none)<br>[Category Hardware
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 71ER7
 md5_6_upper: B467F3
 name: Category Hardware Variety Pack
 name_no_class: Hardware Variety Pack
-name_no_color: Varietypack
 name_no_size: Variety Pack
 name_no_size_short: Variety Pack
 name_no_type: Variety Pack
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: variety_pack
 size_capital: Variety Pack
 size_first_letter: v
 size_first_letter_upper: V
-size_length_1: v
-size_length_2: va
-size_length_3: var
-size_length_4: vari
-size_length_5: varie
-size_length_6: variet
-size_name: Variety Pack
-size_no_space_length_1: v
-size_no_space_length_2: va
-size_no_space_length_3: var
-size_no_space_length_4: vari
-size_no_space_length_5: varie
-size_no_space_length_6: variet
-size_no_space_upper_length_1: V
-size_no_space_upper_length_2: VA
-size_no_space_upper_length_3: VAR
-size_no_space_upper_length_4: VARI
-size_no_space_upper_length_5: VARIE
-size_no_space_upper_length_6: VARIET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: VARIETY_PACK
-size_upper_length_1: V
-size_upper_length_2: VA
-size_upper_length_3: VAR
-size_upper_length_4: VARI
-size_upper_length_5: VARIE
-size_upper_length_6: VARIET
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

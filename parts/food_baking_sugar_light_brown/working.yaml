@@ -1,122 +1,23 @@
-bip_39_word_dash_12: fade-spread-regret-fish-camp-absorb-virus-vocal-cruel-always-advice-autumn
-bip_39_word_dash_2: fade-spread
-bip_39_word_dash_3: fade-spread-regret
-bip_39_word_new_br_12: fade<br>spread<br>regret<br>fish<br>camp<br>absorb<br>virus<br>vocal<br>cruel<br>always<br>advice<br>autumn
-bip_39_word_new_br_2: fade<br>spread
-bip_39_word_new_br_3: fade<br>spread<br>regret
-bip_39_word_new_line_12: 'fade
-
-  spread
-
-  regret
-
-  fish
-
-  camp
-
-  absorb
-
-  virus
-
-  vocal
-
-  cruel
-
-  always
-
-  advice
-
-  autumn'
-bip_39_word_new_line_2: 'fade
-
-  spread'
-bip_39_word_new_line_3: 'fade
-
-  spread
-
-  regret'
-bip_39_word_no_space_12: fadespreadregretfishcampabsorbvirusvocalcruelalwaysadviceautumn
-bip_39_word_no_space_2: fadespread
-bip_39_word_no_space_3: fadespreadregret
-bip_39_word_space_12: fade spread regret fish camp absorb virus vocal cruel always
-  advice autumn
-bip_39_word_space_2: fade spread
-bip_39_word_space_3: fade spread regret
-bip_39_word_underscore_12: fade_spread_regret_fish_camp_absorb_virus_vocal_cruel_always_advice_autumn
-bip_39_word_underscore_2: fade_spread
-bip_39_word_underscore_3: fade_spread_regret
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: light_brown
 color_capital: Light Brown
 color_first_letter: l
 color_first_letter_upper: L
-color_length_1: l
-color_length_2: li
-color_length_3: lig
-color_length_4: ligh
-color_length_5: light
-color_length_6: light_
-color_name: Light Brown
-color_no_space_length_1: l
-color_no_space_length_2: li
-color_no_space_length_3: lig
-color_no_space_length_4: ligh
-color_no_space_length_5: light
-color_no_space_length_6: lightb
-color_no_space_upper_length_1: L
-color_no_space_upper_length_2: LI
-color_no_space_upper_length_3: LIG
-color_no_space_upper_length_4: LIGH
-color_no_space_upper_length_5: LIGHT
-color_no_space_upper_length_6: LIGHTB
 color_upper: LIGHT_BROWN
-color_upper_length_1: L
-color_upper_length_2: LI
-color_upper_length_3: LIG
-color_upper_length_4: LIGH
-color_upper_length_5: LIGHT
-color_upper_length_6: LIGHT_
 description: sugar_light_brown
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/food_baking_sugar_light_brown
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_light_brown
 id: food_baking_sugar_light_brown
 id_no_class: baking_sugar_light_brown
-id_no_color: light_brown
 id_no_size: light_brown
 id_no_type: sugar_light_brown
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_light_brown
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_baking_sugar_light_brown](none)<br>[](none)<br>[Food Baking
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 9R7K1
 md5_6_upper: FA0801
 name: Food Baking Sugar Light Brown
 name_no_class: Baking Sugar Light Brown
-name_no_color: Light Brown
 name_no_size: Light Brown
 name_no_size_short: Light Brown
 name_no_type: Sugar Light Brown
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: sugar
 size_capital: Sugar
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: su
-size_length_3: sug
-size_length_4: suga
-size_length_5: sugar
-size_length_6: sugar
-size_name: Sugar
-size_no_space_length_1: s
-size_no_space_length_2: su
-size_no_space_length_3: sug
-size_no_space_length_4: suga
-size_no_space_length_5: sugar
-size_no_space_length_6: sugar
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SU
-size_no_space_upper_length_3: SUG
-size_no_space_upper_length_4: SUGA
-size_no_space_upper_length_5: SUGAR
-size_no_space_upper_length_6: SUGAR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SUGAR
-size_upper_length_1: S
-size_upper_length_2: SU
-size_upper_length_3: SUG
-size_upper_length_4: SUGA
-size_upper_length_5: SUGAR
-size_upper_length_6: SUGAR
 type: baking
 type_capital: Baking
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bak
-type_length_4: baki
-type_length_5: bakin
-type_length_6: baking
-type_name: Baking
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bak
-type_no_space_length_4: baki
-type_no_space_length_5: bakin
-type_no_space_length_6: baking
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAK
-type_no_space_upper_length_4: BAKI
-type_no_space_upper_length_5: BAKIN
-type_no_space_upper_length_6: BAKING
 type_upper: BAKING
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAK
-type_upper_length_4: BAKI
-type_upper_length_5: BAKIN
-type_upper_length_6: BAKING

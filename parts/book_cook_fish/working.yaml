@@ -1,97 +1,22 @@
-bip_39_word_dash_12: remind-cover-they-tunnel-security-old-north-champion-main-voyage-toss-athlete
-bip_39_word_dash_2: remind-cover
-bip_39_word_dash_3: remind-cover-they
-bip_39_word_new_br_12: remind<br>cover<br>they<br>tunnel<br>security<br>old<br>north<br>champion<br>main<br>voyage<br>toss<br>athlete
-bip_39_word_new_br_2: remind<br>cover
-bip_39_word_new_br_3: remind<br>cover<br>they
-bip_39_word_new_line_12: 'remind
-
-  cover
-
-  they
-
-  tunnel
-
-  security
-
-  old
-
-  north
-
-  champion
-
-  main
-
-  voyage
-
-  toss
-
-  athlete'
-bip_39_word_new_line_2: 'remind
-
-  cover'
-bip_39_word_new_line_3: 'remind
-
-  cover
-
-  they'
-bip_39_word_no_space_12: remindcovertheytunnelsecurityoldnorthchampionmainvoyagetossathlete
-bip_39_word_no_space_2: remindcover
-bip_39_word_no_space_3: remindcoverthey
-bip_39_word_space_12: remind cover they tunnel security old north champion main voyage
-  toss athlete
-bip_39_word_space_2: remind cover
-bip_39_word_space_3: remind cover they
-bip_39_word_underscore_12: remind_cover_they_tunnel_security_old_north_champion_main_voyage_toss_athlete
-bip_39_word_underscore_2: remind_cover
-bip_39_word_underscore_3: remind_cover_they
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_cook_fish
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_cook_fish
 id: book_cook_fish
 id_no_class: cook_fish
-id_no_color: fish
 id_no_size: fish
 id_no_type: fish
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_fish
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_cook_fish](none)<br>[](none)<br>[Book Cook Fish](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: 8VZ3X
 md5_6_upper: E3CB7D
 name: Book Cook Fish
 name_no_class: Cook Fish
-name_no_color: Fish
 name_no_size: Fish
 name_no_size_short: Fish
 name_no_type: Fish
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: fish
 size_capital: Fish
 size_first_letter: f
 size_first_letter_upper: F
-size_length_1: f
-size_length_2: fi
-size_length_3: fis
-size_length_4: fish
-size_length_5: fish
-size_length_6: fish
-size_name: Fish
-size_no_space_length_1: f
-size_no_space_length_2: fi
-size_no_space_length_3: fis
-size_no_space_length_4: fish
-size_no_space_length_5: fish
-size_no_space_length_6: fish
-size_no_space_upper_length_1: F
-size_no_space_upper_length_2: FI
-size_no_space_upper_length_3: FIS
-size_no_space_upper_length_4: FISH
-size_no_space_upper_length_5: FISH
-size_no_space_upper_length_6: FISH
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FISH
-size_upper_length_1: F
-size_upper_length_2: FI
-size_upper_length_3: FIS
-size_upper_length_4: FISH
-size_upper_length_5: FISH
-size_upper_length_6: FISH
 type: cook
 type_capital: Cook
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: coo
-type_length_4: cook
-type_length_5: cook
-type_length_6: cook
-type_name: Cook
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: coo
-type_no_space_length_4: cook
-type_no_space_length_5: cook
-type_no_space_length_6: cook
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COO
-type_no_space_upper_length_4: COOK
-type_no_space_upper_length_5: COOK
-type_no_space_upper_length_6: COOK
 type_upper: COOK
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COO
-type_upper_length_4: COOK
-type_upper_length_5: COOK
-type_upper_length_6: COOK

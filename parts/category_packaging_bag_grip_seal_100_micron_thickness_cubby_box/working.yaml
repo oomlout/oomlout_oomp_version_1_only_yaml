@@ -1,146 +1,23 @@
-bip_39_word_dash_12: answer-doctor-flee-best-ignore-kit-enlist-endorse-kit-knife-crumble-anchor
-bip_39_word_dash_2: answer-doctor
-bip_39_word_dash_3: answer-doctor-flee
-bip_39_word_new_br_12: answer<br>doctor<br>flee<br>best<br>ignore<br>kit<br>enlist<br>endorse<br>kit<br>knife<br>crumble<br>anchor
-bip_39_word_new_br_2: answer<br>doctor
-bip_39_word_new_br_3: answer<br>doctor<br>flee
-bip_39_word_new_line_12: 'answer
-
-  doctor
-
-  flee
-
-  best
-
-  ignore
-
-  kit
-
-  enlist
-
-  endorse
-
-  kit
-
-  knife
-
-  crumble
-
-  anchor'
-bip_39_word_new_line_2: 'answer
-
-  doctor'
-bip_39_word_new_line_3: 'answer
-
-  doctor
-
-  flee'
-bip_39_word_no_space_12: answerdoctorfleebestignorekitenlistendorsekitknifecrumbleanchor
-bip_39_word_no_space_2: answerdoctor
-bip_39_word_no_space_3: answerdoctorflee
-bip_39_word_space_12: answer doctor flee best ignore kit enlist endorse kit knife
-  crumble anchor
-bip_39_word_space_2: answer doctor
-bip_39_word_space_3: answer doctor flee
-bip_39_word_underscore_12: answer_doctor_flee_best_ignore_kit_enlist_endorse_kit_knife_crumble_anchor
-bip_39_word_underscore_2: answer_doctor
-bip_39_word_underscore_3: answer_doctor_flee
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 100_micron_thickness
 color_capital: 100 Micron Thickness
 color_first_letter: '1'
 color_first_letter_upper: '1'
-color_length_1: '1'
-color_length_2: '10'
-color_length_3: '100'
-color_length_4: '100_'
-color_length_5: 100_m
-color_length_6: 100_mi
-color_name: 100 Micron Thickness
-color_no_space_length_1: '1'
-color_no_space_length_2: '10'
-color_no_space_length_3: '100'
-color_no_space_length_4: 100m
-color_no_space_length_5: 100mi
-color_no_space_length_6: 100mic
-color_no_space_upper_length_1: '1'
-color_no_space_upper_length_2: '10'
-color_no_space_upper_length_3: '100'
-color_no_space_upper_length_4: 100M
-color_no_space_upper_length_5: 100MI
-color_no_space_upper_length_6: 100MIC
 color_upper: 100_MICRON_THICKNESS
-color_upper_length_1: '1'
-color_upper_length_2: '10'
-color_upper_length_3: '100'
-color_upper_length_4: '100_'
-color_upper_length_5: 100_M
-color_upper_length_6: 100_MI
 description: category_packaging
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_packaging_bag_grip_seal_100_micron_thickness_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_bag_grip_seal_100_micron_thickness_cubby_box
 id: category_packaging_bag_grip_seal_100_micron_thickness_cubby_box
 id_no_class: packaging_bag_grip_seal_100_micron_thickness_cubby_box
-id_no_color: cubby_box
 id_no_size: 100_micron_thickness_cubby_box
 id_no_type: bag_grip_seal_100_micron_thickness_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_100_micron_thickness_cubby_box
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_packaging_bag_grip_seal_100_micron_thickness_cubby_box](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 58SYM
 md5_6_upper: 86699E
 name: Category Packaging Bag Grip Seal 100 Micron Thickness Cubby Box
 name_no_class: Packaging Bag Grip Seal 100 Micron Thickness Cubby Box
-name_no_color: Cubby Box
 name_no_size: 100 Micron Thickness Cubby Box
 name_no_size_short: 100 Micron Thickness Cubby Box
 name_no_type: Bag Grip Seal 100 Micron Thickness Cubby Box
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: bag_grip_seal
 size_capital: Bag Grip Seal
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bag
-size_length_4: bag_
-size_length_5: bag_g
-size_length_6: bag_gr
-size_name: Bag Grip Seal
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bag
-size_no_space_length_4: bagg
-size_no_space_length_5: baggr
-size_no_space_length_6: baggri
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAG
-size_no_space_upper_length_4: BAGG
-size_no_space_upper_length_5: BAGGR
-size_no_space_upper_length_6: BAGGRI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BAG_GRIP_SEAL
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAG
-size_upper_length_4: BAG_
-size_upper_length_5: BAG_G
-size_upper_length_6: BAG_GR
 type: packaging
 type_capital: Packaging
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pac
-type_length_4: pack
-type_length_5: packa
-type_length_6: packag
-type_name: Packaging
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pac
-type_no_space_length_4: pack
-type_no_space_length_5: packa
-type_no_space_length_6: packag
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAC
-type_no_space_upper_length_4: PACK
-type_no_space_upper_length_5: PACKA
-type_no_space_upper_length_6: PACKAG
 type_upper: PACKAGING
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAC
-type_upper_length_4: PACK
-type_upper_length_5: PACKA
-type_upper_length_6: PACKAG

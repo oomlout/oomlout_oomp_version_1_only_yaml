@@ -1,98 +1,23 @@
-bip_39_word_dash_12: caught-board-cupboard-bone-bonus-elder-crowd-grass-tuna-print-genre-autumn
-bip_39_word_dash_2: caught-board
-bip_39_word_dash_3: caught-board-cupboard
-bip_39_word_new_br_12: caught<br>board<br>cupboard<br>bone<br>bonus<br>elder<br>crowd<br>grass<br>tuna<br>print<br>genre<br>autumn
-bip_39_word_new_br_2: caught<br>board
-bip_39_word_new_br_3: caught<br>board<br>cupboard
-bip_39_word_new_line_12: 'caught
-
-  board
-
-  cupboard
-
-  bone
-
-  bonus
-
-  elder
-
-  crowd
-
-  grass
-
-  tuna
-
-  print
-
-  genre
-
-  autumn'
-bip_39_word_new_line_2: 'caught
-
-  board'
-bip_39_word_new_line_3: 'caught
-
-  board
-
-  cupboard'
-bip_39_word_no_space_12: caughtboardcupboardbonebonuseldercrowdgrasstunaprintgenreautumn
-bip_39_word_no_space_2: caughtboard
-bip_39_word_no_space_3: caughtboardcupboard
-bip_39_word_space_12: caught board cupboard bone bonus elder crowd grass tuna print
-  genre autumn
-bip_39_word_space_2: caught board
-bip_39_word_space_3: caught board cupboard
-bip_39_word_underscore_12: caught_board_cupboard_bone_bonus_elder_crowd_grass_tuna_print_genre_autumn
-bip_39_word_underscore_2: caught_board
-bip_39_word_underscore_3: caught_board_cupboard
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_toy
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_toy_gem_rock_mineral
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_toy_gem_rock_mineral
 id: category_toy_gem_rock_mineral
 id_no_class: toy_gem_rock_mineral
-id_no_color: gemrockmineral
 id_no_size: gem_rock_mineral
 id_no_type: gem_rock_mineral
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_gem_rock_mineral
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_toy_gem_rock_mineral](none)<br>[](none)<br>[Category Toy
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 9S8BU
 md5_6_upper: FAC22A
 name: Category Toy Gem Rock Mineral
 name_no_class: Toy Gem Rock Mineral
-name_no_color: Gemrockmineral
 name_no_size: Gem Rock Mineral
 name_no_size_short: Gem Rock Mineral
 name_no_type: Gem Rock Mineral
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: gem_rock_mineral
 size_capital: Gem Rock Mineral
 size_first_letter: g
 size_first_letter_upper: G
-size_length_1: g
-size_length_2: ge
-size_length_3: gem
-size_length_4: gem_
-size_length_5: gem_r
-size_length_6: gem_ro
-size_name: Gem Rock Mineral
-size_no_space_length_1: g
-size_no_space_length_2: ge
-size_no_space_length_3: gem
-size_no_space_length_4: gemr
-size_no_space_length_5: gemro
-size_no_space_length_6: gemroc
-size_no_space_upper_length_1: G
-size_no_space_upper_length_2: GE
-size_no_space_upper_length_3: GEM
-size_no_space_upper_length_4: GEMR
-size_no_space_upper_length_5: GEMRO
-size_no_space_upper_length_6: GEMROC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GEM_ROCK_MINERAL
-size_upper_length_1: G
-size_upper_length_2: GE
-size_upper_length_3: GEM
-size_upper_length_4: GEM_
-size_upper_length_5: GEM_R
-size_upper_length_6: GEM_RO
 type: toy
 type_capital: Toy
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: toy
-type_length_4: toy
-type_length_5: toy
-type_length_6: toy
-type_name: Toy
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: toy
-type_no_space_length_4: toy
-type_no_space_length_5: toy
-type_no_space_length_6: toy
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOY
-type_no_space_upper_length_4: TOY
-type_no_space_upper_length_5: TOY
-type_no_space_upper_length_6: TOY
 type_upper: TOY
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOY
-type_upper_length_4: TOY
-type_upper_length_5: TOY
-type_upper_length_6: TOY

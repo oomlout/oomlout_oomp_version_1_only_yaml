@@ -1,98 +1,23 @@
-bip_39_word_dash_12: cinnamon-reform-market-above-priority-other-aerobic-acid-reject-perfect-riot-afford
-bip_39_word_dash_2: cinnamon-reform
-bip_39_word_dash_3: cinnamon-reform-market
-bip_39_word_new_br_12: cinnamon<br>reform<br>market<br>above<br>priority<br>other<br>aerobic<br>acid<br>reject<br>perfect<br>riot<br>afford
-bip_39_word_new_br_2: cinnamon<br>reform
-bip_39_word_new_br_3: cinnamon<br>reform<br>market
-bip_39_word_new_line_12: 'cinnamon
-
-  reform
-
-  market
-
-  above
-
-  priority
-
-  other
-
-  aerobic
-
-  acid
-
-  reject
-
-  perfect
-
-  riot
-
-  afford'
-bip_39_word_new_line_2: 'cinnamon
-
-  reform'
-bip_39_word_new_line_3: 'cinnamon
-
-  reform
-
-  market'
-bip_39_word_no_space_12: cinnamonreformmarketabovepriorityotheraerobicacidrejectperfectriotafford
-bip_39_word_no_space_2: cinnamonreform
-bip_39_word_no_space_3: cinnamonreformmarket
-bip_39_word_space_12: cinnamon reform market above priority other aerobic acid reject
-  perfect riot afford
-bip_39_word_space_2: cinnamon reform
-bip_39_word_space_3: cinnamon reform market
-bip_39_word_underscore_12: cinnamon_reform_market_above_priority_other_aerobic_acid_reject_perfect_riot_afford
-bip_39_word_underscore_2: cinnamon_reform
-bip_39_word_underscore_3: cinnamon_reform_market
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_exercise_equipment
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_exercise_equipment_bike_stationary
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_exercise_equipment_bike_stationary
 id: category_exercise_equipment_bike_stationary
 id_no_class: exercise_equipment_bike_stationary
-id_no_color: bikestationary
 id_no_size: bike_stationary
 id_no_type: bike_stationary
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_exercise_equipment_bike_stationary](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 2SDBC
 md5_6_upper: '477468'
 name: Category Exercise Equipment Bike Stationary
 name_no_class: Exercise Equipment Bike Stationary
-name_no_color: Bikestationary
 name_no_size: Bike Stationary
 name_no_size_short: Bike Stationary
 name_no_type: Bike Stationary
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: bike_stationary
 size_capital: Bike Stationary
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: bi
-size_length_3: bik
-size_length_4: bike
-size_length_5: bike_
-size_length_6: bike_s
-size_name: Bike Stationary
-size_no_space_length_1: b
-size_no_space_length_2: bi
-size_no_space_length_3: bik
-size_no_space_length_4: bike
-size_no_space_length_5: bikes
-size_no_space_length_6: bikest
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BI
-size_no_space_upper_length_3: BIK
-size_no_space_upper_length_4: BIKE
-size_no_space_upper_length_5: BIKES
-size_no_space_upper_length_6: BIKEST
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BIKE_STATIONARY
-size_upper_length_1: B
-size_upper_length_2: BI
-size_upper_length_3: BIK
-size_upper_length_4: BIKE
-size_upper_length_5: BIKE_
-size_upper_length_6: BIKE_S
 type: exercise_equipment
 type_capital: Exercise Equipment
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: ex
-type_length_3: exe
-type_length_4: exer
-type_length_5: exerc
-type_length_6: exerci
-type_name: Exercise Equipment
-type_no_space_length_1: e
-type_no_space_length_2: ex
-type_no_space_length_3: exe
-type_no_space_length_4: exer
-type_no_space_length_5: exerc
-type_no_space_length_6: exerci
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EX
-type_no_space_upper_length_3: EXE
-type_no_space_upper_length_4: EXER
-type_no_space_upper_length_5: EXERC
-type_no_space_upper_length_6: EXERCI
 type_upper: EXERCISE_EQUIPMENT
-type_upper_length_1: E
-type_upper_length_2: EX
-type_upper_length_3: EXE
-type_upper_length_4: EXER
-type_upper_length_5: EXERC
-type_upper_length_6: EXERCI

@@ -1,123 +1,24 @@
-bip_39_word_dash_12: paddle-tornado-control-loud-adapt-soft-intact-present-setup-token-length-able
-bip_39_word_dash_2: paddle-tornado
-bip_39_word_dash_3: paddle-tornado-control
-bip_39_word_new_br_12: paddle<br>tornado<br>control<br>loud<br>adapt<br>soft<br>intact<br>present<br>setup<br>token<br>length<br>able
-bip_39_word_new_br_2: paddle<br>tornado
-bip_39_word_new_br_3: paddle<br>tornado<br>control
-bip_39_word_new_line_12: 'paddle
-
-  tornado
-
-  control
-
-  loud
-
-  adapt
-
-  soft
-
-  intact
-
-  present
-
-  setup
-
-  token
-
-  length
-
-  able'
-bip_39_word_new_line_2: 'paddle
-
-  tornado'
-bip_39_word_new_line_3: 'paddle
-
-  tornado
-
-  control'
-bip_39_word_no_space_12: paddletornadocontrolloudadaptsoftintactpresentsetuptokenlengthable
-bip_39_word_no_space_2: paddletornado
-bip_39_word_no_space_3: paddletornadocontrol
-bip_39_word_space_12: paddle tornado control loud adapt soft intact present setup
-  token length able
-bip_39_word_space_2: paddle tornado
-bip_39_word_space_3: paddle tornado control
-bip_39_word_underscore_12: paddle_tornado_control_loud_adapt_soft_intact_present_setup_token_length_able
-bip_39_word_underscore_2: paddle_tornado
-bip_39_word_underscore_3: paddle_tornado_control
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: Ocado Bananas
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: banana
 description_main_capital: Banana
 description_main_first_letter: b
 description_main_first_letter_upper: B
-description_main_length_1: b
-description_main_length_2: ba
-description_main_length_3: ban
-description_main_length_4: bana
-description_main_length_5: banan
-description_main_length_6: banana
-description_main_name: Banana
-description_main_no_space_length_1: b
-description_main_no_space_length_2: ba
-description_main_no_space_length_3: ban
-description_main_no_space_length_4: bana
-description_main_no_space_length_5: banan
-description_main_no_space_length_6: banana
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BA
-description_main_no_space_upper_length_3: BAN
-description_main_no_space_upper_length_4: BANA
-description_main_no_space_upper_length_5: BANAN
-description_main_no_space_upper_length_6: BANANA
 description_main_upper: BANANA
-description_main_upper_length_1: B
-description_main_upper_length_2: BA
-description_main_upper_length_3: BAN
-description_main_upper_length_4: BANA
-description_main_upper_length_5: BANAN
-description_main_upper_length_6: BANANA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -126,10 +27,8 @@ directory: parts/food_fruit_bunch_banana
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_fruit_bunch_banana
 id: food_fruit_bunch_banana
 id_no_class: fruit_bunch_banana
-id_no_color: banana
 id_no_size: banana
 id_no_type: bunch_banana
 link_distributor_ocado: https://www.ocado.com/search?entry=44855011
@@ -140,7 +39,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_fruit_bunch_banana](none)<br>[](none)<br>[Food Fruit Bunch Banana](none)<br><br>'
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 70VS
 md5_6_upper: 050038
 name: Food Fruit Bunch Banana
 name_no_class: Fruit Bunch Banana
-name_no_color: Banana
 name_no_size: Banana
 name_no_size_short: Banana
 name_no_type: Bunch Banana
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_distributor_ocado: '44855011'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: bunch
 size_capital: Bunch
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: bu
-size_length_3: bun
-size_length_4: bunc
-size_length_5: bunch
-size_length_6: bunch
-size_name: Bunch
-size_no_space_length_1: b
-size_no_space_length_2: bu
-size_no_space_length_3: bun
-size_no_space_length_4: bunc
-size_no_space_length_5: bunch
-size_no_space_length_6: bunch
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BU
-size_no_space_upper_length_3: BUN
-size_no_space_upper_length_4: BUNC
-size_no_space_upper_length_5: BUNCH
-size_no_space_upper_length_6: BUNCH
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BUNCH
-size_upper_length_1: B
-size_upper_length_2: BU
-size_upper_length_3: BUN
-size_upper_length_4: BUNC
-size_upper_length_5: BUNCH
-size_upper_length_6: BUNCH
 type: fruit
 type_capital: Fruit
 type_first_letter: f
 type_first_letter_upper: F
-type_length_1: f
-type_length_2: fr
-type_length_3: fru
-type_length_4: frui
-type_length_5: fruit
-type_length_6: fruit
-type_name: Fruit
-type_no_space_length_1: f
-type_no_space_length_2: fr
-type_no_space_length_3: fru
-type_no_space_length_4: frui
-type_no_space_length_5: fruit
-type_no_space_length_6: fruit
-type_no_space_upper_length_1: F
-type_no_space_upper_length_2: FR
-type_no_space_upper_length_3: FRU
-type_no_space_upper_length_4: FRUI
-type_no_space_upper_length_5: FRUIT
-type_no_space_upper_length_6: FRUIT
 type_upper: FRUIT
-type_upper_length_1: F
-type_upper_length_2: FR
-type_upper_length_3: FRU
-type_upper_length_4: FRUI
-type_upper_length_5: FRUIT
-type_upper_length_6: FRUIT

@@ -1,120 +1,23 @@
-bip_39_word_dash_11: mule-ridge-sadness-later-outer-exact-three-divide-indicate-regular-ten
-bip_39_word_dash_2: mule-ridge
-bip_39_word_dash_3: mule-ridge-sadness
-bip_39_word_new_br_11: mule<br>ridge<br>sadness<br>later<br>outer<br>exact<br>three<br>divide<br>indicate<br>regular<br>ten
-bip_39_word_new_br_2: mule<br>ridge
-bip_39_word_new_br_3: mule<br>ridge<br>sadness
-bip_39_word_new_line_11: 'mule
-
-  ridge
-
-  sadness
-
-  later
-
-  outer
-
-  exact
-
-  three
-
-  divide
-
-  indicate
-
-  regular
-
-  ten'
-bip_39_word_new_line_2: 'mule
-
-  ridge'
-bip_39_word_new_line_3: 'mule
-
-  ridge
-
-  sadness'
-bip_39_word_no_space_11: muleridgesadnesslaterouterexactthreedivideindicateregularten
-bip_39_word_no_space_2: muleridge
-bip_39_word_no_space_3: muleridgesadness
-bip_39_word_space_11: mule ridge sadness later outer exact three divide indicate regular
-  ten
-bip_39_word_space_2: mule ridge
-bip_39_word_space_3: mule ridge sadness
-bip_39_word_underscore_11: mule_ridge_sadness_later_outer_exact_three_divide_indicate_regular_ten
-bip_39_word_underscore_2: mule_ridge
-bip_39_word_underscore_3: mule_ridge_sadness
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 7500000_ohm
 description_main_capital: 7500000 Ohm
 description_main_first_letter: '7'
 description_main_first_letter_upper: '7'
-description_main_length_1: '7'
-description_main_length_2: '75'
-description_main_length_3: '750'
-description_main_length_4: '7500'
-description_main_length_5: '75000'
-description_main_length_6: '750000'
-description_main_name: 7500000 Ohm
-description_main_no_space_length_1: '7'
-description_main_no_space_length_2: '75'
-description_main_no_space_length_3: '750'
-description_main_no_space_length_4: '7500'
-description_main_no_space_length_5: '75000'
-description_main_no_space_length_6: '750000'
-description_main_no_space_upper_length_1: '7'
-description_main_no_space_upper_length_2: '75'
-description_main_no_space_upper_length_3: '750'
-description_main_no_space_upper_length_4: '7500'
-description_main_no_space_upper_length_5: '75000'
-description_main_no_space_upper_length_6: '750000'
 description_main_upper: 7500000_OHM
-description_main_upper_length_1: '7'
-description_main_upper_length_2: '75'
-description_main_upper_length_3: '750'
-description_main_upper_length_4: '7500'
-description_main_upper_length_5: '75000'
-description_main_upper_length_6: '750000'
 description_only_numbers: '7500000'
 description_only_numbers_short: 7M5
 description_or_color: 7M5
@@ -123,10 +26,8 @@ directory: parts/electronic_resistor_0402_7500000_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_7500000_ohm
 id: electronic_resistor_0402_7500000_ohm
 id_no_class: resistor_0402_7500000_ohm
-id_no_color: 7500000ohm
 id_no_size: 7500000_ohm
 id_no_type: 0402_7500000_ohm
 kicad_reference: R
@@ -137,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_resistor_0402_7500000_ohm](none)<br>[r4o755](none)<br>[Electronic
@@ -154,7 +54,6 @@ md5_6_alpha_upper: 2G31
 md5_6_upper: 01BDED
 name: Electronic Resistor 0402 7500000 Ohm
 name_no_class: Resistor 0402 7500000 Ohm
-name_no_color: 7500000Ohm
 name_no_size: 7500000 Ohm
 name_no_size_short: 7M5 Ohm
 name_no_type: 0402 7500000 Ohm
@@ -174,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r4o755
 short_code_upper: R4O755
@@ -182,34 +80,9 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '04'
-size_length_3: '040'
-size_length_4: '0402'
-size_length_5: '0402'
-size_length_6: '0402'
-size_name: '0402'
-size_no_space_length_1: '0'
-size_no_space_length_2: '04'
-size_no_space_length_3: '040'
-size_no_space_length_4: '0402'
-size_no_space_length_5: '0402'
-size_no_space_length_6: '0402'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '04'
-size_no_space_upper_length_3: '040'
-size_no_space_upper_length_4: '0402'
-size_no_space_upper_length_5: '0402'
-size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
-size_upper_length_1: '0'
-size_upper_length_2: '04'
-size_upper_length_3: '040'
-size_upper_length_4: '0402'
-size_upper_length_5: '0402'
-size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -222,29 +95,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

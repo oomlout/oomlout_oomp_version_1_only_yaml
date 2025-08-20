@@ -1,122 +1,23 @@
-bip_39_word_dash_12: dwarf-pupil-family-inside-sleep-draft-minimum-save-release-destroy-pass-act
-bip_39_word_dash_2: dwarf-pupil
-bip_39_word_dash_3: dwarf-pupil-family
-bip_39_word_new_br_12: dwarf<br>pupil<br>family<br>inside<br>sleep<br>draft<br>minimum<br>save<br>release<br>destroy<br>pass<br>act
-bip_39_word_new_br_2: dwarf<br>pupil
-bip_39_word_new_br_3: dwarf<br>pupil<br>family
-bip_39_word_new_line_12: 'dwarf
-
-  pupil
-
-  family
-
-  inside
-
-  sleep
-
-  draft
-
-  minimum
-
-  save
-
-  release
-
-  destroy
-
-  pass
-
-  act'
-bip_39_word_new_line_2: 'dwarf
-
-  pupil'
-bip_39_word_new_line_3: 'dwarf
-
-  pupil
-
-  family'
-bip_39_word_no_space_12: dwarfpupilfamilyinsidesleepdraftminimumsavereleasedestroypassact
-bip_39_word_no_space_2: dwarfpupil
-bip_39_word_no_space_3: dwarfpupilfamily
-bip_39_word_space_12: dwarf pupil family inside sleep draft minimum save release destroy
-  pass act
-bip_39_word_space_2: dwarf pupil
-bip_39_word_space_3: dwarf pupil family
-bip_39_word_underscore_12: dwarf_pupil_family_inside_sleep_draft_minimum_save_release_destroy_pass_act
-bip_39_word_underscore_2: dwarf_pupil
-bip_39_word_underscore_3: dwarf_pupil_family
 classification: vinyl_cutter
 classification_capital: Vinyl Cutter
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl_
-classification_name: Vinyl Cutter
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinylc
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYLC
 classification_upper: VINYL_CUTTER
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: venture
 description_main_capital: Venture
 description_main_first_letter: v
 description_main_first_letter_upper: V
-description_main_length_1: v
-description_main_length_2: ve
-description_main_length_3: ven
-description_main_length_4: vent
-description_main_length_5: ventu
-description_main_length_6: ventur
-description_main_name: Venture
-description_main_no_space_length_1: v
-description_main_no_space_length_2: ve
-description_main_no_space_length_3: ven
-description_main_no_space_length_4: vent
-description_main_no_space_length_5: ventu
-description_main_no_space_length_6: ventur
-description_main_no_space_upper_length_1: V
-description_main_no_space_upper_length_2: VE
-description_main_no_space_upper_length_3: VEN
-description_main_no_space_upper_length_4: VENT
-description_main_no_space_upper_length_5: VENTU
-description_main_no_space_upper_length_6: VENTUR
 description_main_upper: VENTURE
-description_main_upper_length_1: V
-description_main_upper_length_2: VE
-description_main_upper_length_3: VEN
-description_main_upper_length_4: VENT
-description_main_upper_length_5: VENTU
-description_main_upper_length_6: VENTUR
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -125,10 +26,8 @@ directory: parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
 id: vinyl_cutter_vinyl_cutter_cricut_venture_cricut
 id_no_class: cricut_venture_cricut
-id_no_color: venturecricut
 id_no_size: venture_cricut
 id_no_type: cricut_venture_cricut
 link_distributor_cricut: ''
@@ -139,32 +38,7 @@ manufacturer: cricut
 manufacturer_capital: Cricut
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
-manufacturer_length_1: c
-manufacturer_length_2: cr
-manufacturer_length_3: cri
-manufacturer_length_4: cric
-manufacturer_length_5: cricu
-manufacturer_length_6: cricut
-manufacturer_name: Cricut
-manufacturer_no_space_length_1: c
-manufacturer_no_space_length_2: cr
-manufacturer_no_space_length_3: cri
-manufacturer_no_space_length_4: cric
-manufacturer_no_space_length_5: cricu
-manufacturer_no_space_length_6: cricut
-manufacturer_no_space_upper_length_1: C
-manufacturer_no_space_upper_length_2: CR
-manufacturer_no_space_upper_length_3: CRI
-manufacturer_no_space_upper_length_4: CRIC
-manufacturer_no_space_upper_length_5: CRICU
-manufacturer_no_space_upper_length_6: CRICUT
 manufacturer_upper: CRICUT
-manufacturer_upper_length_1: C
-manufacturer_upper_length_2: CR
-manufacturer_upper_length_3: CRI
-manufacturer_upper_length_4: CRIC
-manufacturer_upper_length_5: CRICU
-manufacturer_upper_length_6: CRICUT
 manufacturers: []
 markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_venture_cricut](none)<br>[](none)<br>[Vinyl
   Cutter Vinyl Cutter Cricut Venture Cricut](none)<br><br>'
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 1J51R
 md5_6_upper: 27414F
 name: Vinyl Cutter Vinyl Cutter Cricut Venture Cricut
 name_no_class: Cricut Venture Cricut
-name_no_color: Venturecricut
 name_no_size: Venture Cricut
 name_no_size_short: Venture Cricut
 name_no_type: Cricut Venture Cricut
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -208,61 +80,11 @@ size: cricut
 size_capital: Cricut
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: cr
-size_length_3: cri
-size_length_4: cric
-size_length_5: cricu
-size_length_6: cricut
-size_name: Cricut
-size_no_space_length_1: c
-size_no_space_length_2: cr
-size_no_space_length_3: cri
-size_no_space_length_4: cric
-size_no_space_length_5: cricu
-size_no_space_length_6: cricut
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CR
-size_no_space_upper_length_3: CRI
-size_no_space_upper_length_4: CRIC
-size_no_space_upper_length_5: CRICU
-size_no_space_upper_length_6: CRICUT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CRICUT
-size_upper_length_1: C
-size_upper_length_2: CR
-size_upper_length_3: CRI
-size_upper_length_4: CRIC
-size_upper_length_5: CRICU
-size_upper_length_6: CRICUT
 type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vin
-type_length_4: viny
-type_length_5: vinyl
-type_length_6: vinyl_
-type_name: Vinyl Cutter
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vin
-type_no_space_length_4: viny
-type_no_space_length_5: vinyl
-type_no_space_length_6: vinylc
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VIN
-type_no_space_upper_length_4: VINY
-type_no_space_upper_length_5: VINYL
-type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VIN
-type_upper_length_4: VINY
-type_upper_length_5: VINYL
-type_upper_length_6: VINYL_

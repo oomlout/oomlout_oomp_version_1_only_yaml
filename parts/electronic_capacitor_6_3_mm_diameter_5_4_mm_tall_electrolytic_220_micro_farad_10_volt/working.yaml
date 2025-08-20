@@ -1,170 +1,23 @@
-bip_39_word_dash_12: blouse-attract-cancel-term-stage-choose-doctor-find-awake-material-above-arrow
-bip_39_word_dash_2: blouse-attract
-bip_39_word_dash_3: blouse-attract-cancel
-bip_39_word_new_br_12: blouse<br>attract<br>cancel<br>term<br>stage<br>choose<br>doctor<br>find<br>awake<br>material<br>above<br>arrow
-bip_39_word_new_br_2: blouse<br>attract
-bip_39_word_new_br_3: blouse<br>attract<br>cancel
-bip_39_word_new_line_12: 'blouse
-
-  attract
-
-  cancel
-
-  term
-
-  stage
-
-  choose
-
-  doctor
-
-  find
-
-  awake
-
-  material
-
-  above
-
-  arrow'
-bip_39_word_new_line_2: 'blouse
-
-  attract'
-bip_39_word_new_line_3: 'blouse
-
-  attract
-
-  cancel'
-bip_39_word_no_space_12: blouseattractcanceltermstagechoosedoctorfindawakematerialabovearrow
-bip_39_word_no_space_2: blouseattract
-bip_39_word_no_space_3: blouseattractcancel
-bip_39_word_space_12: blouse attract cancel term stage choose doctor find awake material
-  above arrow
-bip_39_word_space_2: blouse attract
-bip_39_word_space_3: blouse attract cancel
-bip_39_word_underscore_12: blouse_attract_cancel_term_stage_choose_doctor_find_awake_material_above_arrow
-bip_39_word_underscore_2: blouse_attract
-bip_39_word_underscore_3: blouse_attract_cancel
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: electrolytic
 color_capital: Electrolytic
 color_first_letter: e
 color_first_letter_upper: E
-color_length_1: e
-color_length_2: el
-color_length_3: ele
-color_length_4: elec
-color_length_5: elect
-color_length_6: electr
-color_name: Electrolytic
-color_no_space_length_1: e
-color_no_space_length_2: el
-color_no_space_length_3: ele
-color_no_space_length_4: elec
-color_no_space_length_5: elect
-color_no_space_length_6: electr
-color_no_space_upper_length_1: E
-color_no_space_upper_length_2: EL
-color_no_space_upper_length_3: ELE
-color_no_space_upper_length_4: ELEC
-color_no_space_upper_length_5: ELECT
-color_no_space_upper_length_6: ELECTR
 color_upper: ELECTROLYTIC
-color_upper_length_1: E
-color_upper_length_2: EL
-color_upper_length_3: ELE
-color_upper_length_4: ELEC
-color_upper_length_5: ELECT
-color_upper_length_6: ELECTR
 description_extra: 10_volt
 description_extra_capital: 10 Volt
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
-description_extra_length_1: '1'
-description_extra_length_2: '10'
-description_extra_length_3: '10_'
-description_extra_length_4: 10_v
-description_extra_length_5: 10_vo
-description_extra_length_6: 10_vol
-description_extra_name: 10 Volt
-description_extra_no_space_length_1: '1'
-description_extra_no_space_length_2: '10'
-description_extra_no_space_length_3: 10v
-description_extra_no_space_length_4: 10vo
-description_extra_no_space_length_5: 10vol
-description_extra_no_space_length_6: 10volt
-description_extra_no_space_upper_length_1: '1'
-description_extra_no_space_upper_length_2: '10'
-description_extra_no_space_upper_length_3: 10V
-description_extra_no_space_upper_length_4: 10VO
-description_extra_no_space_upper_length_5: 10VOL
-description_extra_no_space_upper_length_6: 10VOLT
 description_extra_upper: 10_VOLT
-description_extra_upper_length_1: '1'
-description_extra_upper_length_2: '10'
-description_extra_upper_length_3: '10_'
-description_extra_upper_length_4: 10_V
-description_extra_upper_length_5: 10_VO
-description_extra_upper_length_6: 10_VOL
 description_main: 220_micro_farad
 description_main_capital: 220 Micro Farad
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '22'
-description_main_length_3: '220'
-description_main_length_4: '220_'
-description_main_length_5: 220_m
-description_main_length_6: 220_mi
-description_main_name: 220 Micro Farad
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '22'
-description_main_no_space_length_3: '220'
-description_main_no_space_length_4: 220m
-description_main_no_space_length_5: 220mi
-description_main_no_space_length_6: 220mic
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '22'
-description_main_no_space_upper_length_3: '220'
-description_main_no_space_upper_length_4: 220M
-description_main_no_space_upper_length_5: 220MI
-description_main_no_space_upper_length_6: 220MIC
 description_main_upper: 220_MICRO_FARAD
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '22'
-description_main_upper_length_3: '220'
-description_main_upper_length_4: '220_'
-description_main_upper_length_5: 220_M
-description_main_upper_length_6: 220_MI
 description_only_numbers: '220'
 description_only_numbers_short: 220uf
 description_or_color: E220uf
@@ -188,10 +41,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c63d54tuf220v10_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 id: electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 id_no_class: capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
-id_no_color: 220_micro_farad_10_volt
 id_no_size: electrolytic_220_micro_farad_10_volt
 id_no_type: 6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 kicad_reference: C
@@ -202,7 +53,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt](none)<br>[c63d54tuf220v10](none)<br>[Electronic
@@ -219,14 +69,13 @@ md5_6: ca0122
 md5_6_alpha: 7vqxu
 md5_6_alpha_upper: 7VQXU
 md5_6_upper: CA0122
-name: Electronic Capacitor 6 3 mm Diameter 5 4 mm Tall Electrolytic 220 Micro Farad
+name: Electronic Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad
   10 Volt
-name_no_class: Capacitor 6 3 mm Diameter 5 4 mm Tall Electrolytic 220 Micro Farad
+name_no_class: Capacitor 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad
   10 Volt
-name_no_color: 220 Micro Farad 10 Volt
 name_no_size: Electrolytic 220 Micro Farad 10 Volt
 name_no_size_short: Electrolytic 220uf Micro Farad 10 Volt
-name_no_type: 6 3 mm Diameter 5 4 mm Tall Electrolytic 220 Micro Farad 10 Volt
+name_no_type: 6 3 Mm Diameter 5 4 Mm Tall Electrolytic 220 Micro Farad 10 Volt
 oomp_key: oomp_electronic_capacitor_6_3_mm_diameter_5_4_mm_tall_electrolytic_220_micro_farad_10_volt
 oomp_word: cherries smile lips
 oomp_word_emoji: ':cherries: :smile: :lips:'
@@ -242,7 +91,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: c63d54tuf220v10
 short_code_upper: C63D54TUF220V10
@@ -250,34 +98,9 @@ size: 6_3_mm_diameter_5_4_mm_tall
 size_capital: 6.3 mm Diameter 5.4 mm Tall
 size_first_letter: '6'
 size_first_letter_upper: '6'
-size_length_1: '6'
-size_length_2: '6_'
-size_length_3: '6_3'
-size_length_4: '6_3_'
-size_length_5: 6_3_m
-size_length_6: 6_3_mm
-size_name: 6 3 mm Diameter 5 4 mm Tall
-size_no_space_length_1: '6'
-size_no_space_length_2: '63'
-size_no_space_length_3: 63m
-size_no_space_length_4: 63mm
-size_no_space_length_5: 63mmd
-size_no_space_length_6: 63mmdi
-size_no_space_upper_length_1: '6'
-size_no_space_upper_length_2: '63'
-size_no_space_upper_length_3: 63M
-size_no_space_upper_length_4: 63MM
-size_no_space_upper_length_5: 63MMD
-size_no_space_upper_length_6: 63MMDI
 size_only_numbers: '6354'
 size_only_numbers_no_zeros: '6354'
 size_upper: 6_3_MM_DIAMETER_5_4_MM_TALL
-size_upper_length_1: '6'
-size_upper_length_2: '6_'
-size_upper_length_3: '6_3'
-size_upper_length_4: '6_3_'
-size_upper_length_5: 6_3_M
-size_upper_length_6: 6_3_MM
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_c_polarized//working/working.kicad_sym
   index: 0
@@ -287,29 +110,4 @@ type: capacitor
 type_capital: Capacitor
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: ca
-type_length_3: cap
-type_length_4: capa
-type_length_5: capac
-type_length_6: capaci
-type_name: Capacitor
-type_no_space_length_1: c
-type_no_space_length_2: ca
-type_no_space_length_3: cap
-type_no_space_length_4: capa
-type_no_space_length_5: capac
-type_no_space_length_6: capaci
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CA
-type_no_space_upper_length_3: CAP
-type_no_space_upper_length_4: CAPA
-type_no_space_upper_length_5: CAPAC
-type_no_space_upper_length_6: CAPACI
 type_upper: CAPACITOR
-type_upper_length_1: C
-type_upper_length_2: CA
-type_upper_length_3: CAP
-type_upper_length_4: CAPA
-type_upper_length_5: CAPAC
-type_upper_length_6: CAPACI

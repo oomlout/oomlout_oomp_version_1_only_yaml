@@ -1,122 +1,23 @@
-bip_39_word_dash_12: oxygen-park-depend-parrot-hammer-crop-spot-prize-drip-chair-alert-autumn
-bip_39_word_dash_2: oxygen-park
-bip_39_word_dash_3: oxygen-park-depend
-bip_39_word_new_br_12: oxygen<br>park<br>depend<br>parrot<br>hammer<br>crop<br>spot<br>prize<br>drip<br>chair<br>alert<br>autumn
-bip_39_word_new_br_2: oxygen<br>park
-bip_39_word_new_br_3: oxygen<br>park<br>depend
-bip_39_word_new_line_12: 'oxygen
-
-  park
-
-  depend
-
-  parrot
-
-  hammer
-
-  crop
-
-  spot
-
-  prize
-
-  drip
-
-  chair
-
-  alert
-
-  autumn'
-bip_39_word_new_line_2: 'oxygen
-
-  park'
-bip_39_word_new_line_3: 'oxygen
-
-  park
-
-  depend'
-bip_39_word_no_space_12: oxygenparkdependparrothammercropspotprizedripchairalertautumn
-bip_39_word_no_space_2: oxygenpark
-bip_39_word_no_space_3: oxygenparkdepend
-bip_39_word_space_12: oxygen park depend parrot hammer crop spot prize drip chair
-  alert autumn
-bip_39_word_space_2: oxygen park
-bip_39_word_space_3: oxygen park depend
-bip_39_word_underscore_12: oxygen_park_depend_parrot_hammer_crop_spot_prize_drip_chair_alert_autumn
-bip_39_word_underscore_2: oxygen_park
-bip_39_word_underscore_3: oxygen_park_depend
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_tool
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_tool_stud_finder_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_stud_finder_tote
 id: category_tool_stud_finder_tote
 id_no_class: tool_stud_finder_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: stud_finder_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_stud_finder_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_stud_finder_tote](none)<br>[](none)<br>[Category Tool
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 9R8EH
 md5_6_upper: FA0C49
 name: Category Tool Stud Finder Tote
 name_no_class: Tool Stud Finder Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Stud Finder Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: stud_finder
 size_capital: Stud Finder
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: stu
-size_length_4: stud
-size_length_5: stud_
-size_length_6: stud_f
-size_name: Stud Finder
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: stu
-size_no_space_length_4: stud
-size_no_space_length_5: studf
-size_no_space_length_6: studfi
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STU
-size_no_space_upper_length_4: STUD
-size_no_space_upper_length_5: STUDF
-size_no_space_upper_length_6: STUDFI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STUD_FINDER
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STU
-size_upper_length_4: STUD
-size_upper_length_5: STUD_
-size_upper_length_6: STUD_F
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

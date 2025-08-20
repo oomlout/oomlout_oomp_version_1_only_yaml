@@ -1,146 +1,23 @@
-bip_39_word_dash_12: mercy-second-seat-team-start-attend-act-health-tomorrow-waste-aim-ahead
-bip_39_word_dash_2: mercy-second
-bip_39_word_dash_3: mercy-second-seat
-bip_39_word_new_br_12: mercy<br>second<br>seat<br>team<br>start<br>attend<br>act<br>health<br>tomorrow<br>waste<br>aim<br>ahead
-bip_39_word_new_br_2: mercy<br>second
-bip_39_word_new_br_3: mercy<br>second<br>seat
-bip_39_word_new_line_12: 'mercy
-
-  second
-
-  seat
-
-  team
-
-  start
-
-  attend
-
-  act
-
-  health
-
-  tomorrow
-
-  waste
-
-  aim
-
-  ahead'
-bip_39_word_new_line_2: 'mercy
-
-  second'
-bip_39_word_new_line_3: 'mercy
-
-  second
-
-  seat'
-bip_39_word_no_space_12: mercysecondseatteamstartattendacthealthtomorrowwasteaimahead
-bip_39_word_no_space_2: mercysecond
-bip_39_word_no_space_3: mercysecondseat
-bip_39_word_space_12: mercy second seat team start attend act health tomorrow waste
-  aim ahead
-bip_39_word_space_2: mercy second
-bip_39_word_space_3: mercy second seat
-bip_39_word_underscore_12: mercy_second_seat_team_start_attend_act_health_tomorrow_waste_aim_ahead
-bip_39_word_underscore_2: mercy_second
-bip_39_word_underscore_3: mercy_second_seat
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ikea_solfagel_style_24_color_set
 description_extra_capital: Ikea Solfagel Style 24 Color Set
 description_extra_first_letter: i
 description_extra_first_letter_upper: I
-description_extra_length_1: i
-description_extra_length_2: ik
-description_extra_length_3: ike
-description_extra_length_4: ikea
-description_extra_length_5: ikea_
-description_extra_length_6: ikea_s
-description_extra_name: Ikea Solfagel Style 24 Color Set
-description_extra_no_space_length_1: i
-description_extra_no_space_length_2: ik
-description_extra_no_space_length_3: ike
-description_extra_no_space_length_4: ikea
-description_extra_no_space_length_5: ikeas
-description_extra_no_space_length_6: ikeaso
-description_extra_no_space_upper_length_1: I
-description_extra_no_space_upper_length_2: IK
-description_extra_no_space_upper_length_3: IKE
-description_extra_no_space_upper_length_4: IKEA
-description_extra_no_space_upper_length_5: IKEAS
-description_extra_no_space_upper_length_6: IKEASO
 description_extra_upper: IKEA_SOLFAGEL_STYLE_24_COLOR_SET
-description_extra_upper_length_1: I
-description_extra_upper_length_2: IK
-description_extra_upper_length_3: IKE
-description_extra_upper_length_4: IKEA
-description_extra_upper_length_5: IKEA_
-description_extra_upper_length_6: IKEA_S
 description_main: 7_5_mm_diameter_175_mm_length
 description_main_capital: 7.5 mm Diameter 175 mm Length
 description_main_first_letter: '7'
 description_main_first_letter_upper: '7'
-description_main_length_1: '7'
-description_main_length_2: '7_'
-description_main_length_3: '7_5'
-description_main_length_4: '7_5_'
-description_main_length_5: 7_5_m
-description_main_length_6: 7_5_mm
-description_main_name: 7 5 mm Diameter 175 mm Length
-description_main_no_space_length_1: '7'
-description_main_no_space_length_2: '75'
-description_main_no_space_length_3: 75m
-description_main_no_space_length_4: 75mm
-description_main_no_space_length_5: 75mmd
-description_main_no_space_length_6: 75mmdi
-description_main_no_space_upper_length_1: '7'
-description_main_no_space_upper_length_2: '75'
-description_main_no_space_upper_length_3: 75M
-description_main_no_space_upper_length_4: 75MM
-description_main_no_space_upper_length_5: 75MMD
-description_main_no_space_upper_length_6: 75MMDI
 description_main_upper: 7_5_MM_DIAMETER_175_MM_LENGTH
-description_main_upper_length_1: '7'
-description_main_upper_length_2: '7_'
-description_main_upper_length_3: '7_5'
-description_main_upper_length_4: '7_5_'
-description_main_upper_length_5: 7_5_M
-description_main_upper_length_6: 7_5_MM
 description_only_numbers: '75175'
 description_only_numbers_short: 75k
 description_or_color: 75k
@@ -148,10 +25,8 @@ description_or_color_upper: 75K
 directory: parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32
 distributor_part_number_ikea: 205.442.32
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32
 id: stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32
 id_no_class: pencil_crayon_7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32
-id_no_color: 75mmdiameter175mmlengthikeasolfagelstyle24colorsetikea20544232
 id_no_size: 75mmdiameter175mmlengthikeasolfagelstyle24colorsetikea20544232
 id_no_type: 7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32
 link_distributor_ikea: https://www.ikea.com/gb/en/p/solfagel-coloured-pencil-mixed-colours-20544232/
@@ -162,32 +37,7 @@ manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
-manufacturer_length_1: i
-manufacturer_length_2: ik
-manufacturer_length_3: ike
-manufacturer_length_4: ikea
-manufacturer_length_5: ikea
-manufacturer_length_6: ikea
-manufacturer_name: Ikea
-manufacturer_no_space_length_1: i
-manufacturer_no_space_length_2: ik
-manufacturer_no_space_length_3: ike
-manufacturer_no_space_length_4: ikea
-manufacturer_no_space_length_5: ikea
-manufacturer_no_space_length_6: ikea
-manufacturer_no_space_upper_length_1: I
-manufacturer_no_space_upper_length_2: IK
-manufacturer_no_space_upper_length_3: IKE
-manufacturer_no_space_upper_length_4: IKEA
-manufacturer_no_space_upper_length_5: IKEA
-manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
-manufacturer_upper_length_1: I
-manufacturer_upper_length_2: IK
-manufacturer_upper_length_3: IKE
-manufacturer_upper_length_4: IKEA
-manufacturer_upper_length_5: IKEA
-manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32](none)<br>[](none)<br>[Stationery
   Pencil Crayon 7 5 Mm Diameter 175 Mm Length Ikea Solfagel Style 24 Color Set Ikea
@@ -202,14 +52,13 @@ md5_6: 520abd
 md5_6_alpha: 378ot
 md5_6_alpha_upper: 378OT
 md5_6_upper: 520ABD
-name: Stationery Pencil Crayon 7 5 mm Diameter 175 mm Length Ikea Solfagel Style 24
+name: Stationery Pencil Crayon 7 5 Mm Diameter 175 Mm Length Ikea Solfagel Style 24
   Color Set Ikea 205 442 32
-name_no_class: Pencil Crayon 7 5 mm Diameter 175 mm Length Ikea Solfagel Style 24
+name_no_class: Pencil Crayon 7 5 Mm Diameter 175 Mm Length Ikea Solfagel Style 24
   Color Set Ikea 205 442 32
-name_no_color: 75mmdiameter175mmlengthikeasolfagelstyle24Colorsetikea20544232
-name_no_size: 75mmdiameter175mmlengthikeasolfagelstyle24Colorsetikea20544232
+name_no_size: 75Mmdiameter175Mmlengthikeasolfagelstyle24Colorsetikea20544232
 name_no_size_short: 75Mmdiameter175Mmlengthikeasolfagelstyle24Colorsetikea20544232
-name_no_type: 7 5 mm Diameter 175 mm Length Ikea Solfagel Style 24 Color Set Ikea
+name_no_type: 7 5 Mm Diameter 175 Mm Length Ikea Solfagel Style 24 Color Set Ikea
   205 442 32
 oomp_key: oomp_stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_ikea_solfagel_style_24_color_set_ikea_205_442_32
 oomp_word: octopus sleepy rice
@@ -227,32 +76,7 @@ part_number_capital: 205.442.32
 part_number_exact: 205.442.32
 part_number_first_letter: '2'
 part_number_first_letter_upper: '2'
-part_number_length_1: '2'
-part_number_length_2: '20'
-part_number_length_3: '205'
-part_number_length_4: '205_'
-part_number_length_5: '205_4'
-part_number_length_6: '205_44'
-part_number_name: 205 442 32
-part_number_no_space_length_1: '2'
-part_number_no_space_length_2: '20'
-part_number_no_space_length_3: '205'
-part_number_no_space_length_4: '2054'
-part_number_no_space_length_5: '20544'
-part_number_no_space_length_6: '205442'
-part_number_no_space_upper_length_1: '2'
-part_number_no_space_upper_length_2: '20'
-part_number_no_space_upper_length_3: '205'
-part_number_no_space_upper_length_4: '2054'
-part_number_no_space_upper_length_5: '20544'
-part_number_no_space_upper_length_6: '205442'
 part_number_upper: '205_442_32'
-part_number_upper_length_1: '2'
-part_number_upper_length_2: '20'
-part_number_upper_length_3: '205'
-part_number_upper_length_4: '205_'
-part_number_upper_length_5: '205_4'
-part_number_upper_length_6: '205_44'
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -260,7 +84,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -268,29 +91,4 @@ type: pencil_crayon
 type_capital: Pencil Crayon
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pe
-type_length_3: pen
-type_length_4: penc
-type_length_5: penci
-type_length_6: pencil
-type_name: Pencil Crayon
-type_no_space_length_1: p
-type_no_space_length_2: pe
-type_no_space_length_3: pen
-type_no_space_length_4: penc
-type_no_space_length_5: penci
-type_no_space_length_6: pencil
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PE
-type_no_space_upper_length_3: PEN
-type_no_space_upper_length_4: PENC
-type_no_space_upper_length_5: PENCI
-type_no_space_upper_length_6: PENCIL
 type_upper: PENCIL_CRAYON
-type_upper_length_1: P
-type_upper_length_2: PE
-type_upper_length_3: PEN
-type_upper_length_4: PENC
-type_upper_length_5: PENCI
-type_upper_length_6: PENCIL

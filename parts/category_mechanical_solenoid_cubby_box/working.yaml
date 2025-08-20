@@ -1,122 +1,23 @@
-bip_39_word_dash_12: gather-insect-hurry-clump-spell-acid-cook-hybrid-tissue-hammer-modify-arrest
-bip_39_word_dash_2: gather-insect
-bip_39_word_dash_3: gather-insect-hurry
-bip_39_word_new_br_12: gather<br>insect<br>hurry<br>clump<br>spell<br>acid<br>cook<br>hybrid<br>tissue<br>hammer<br>modify<br>arrest
-bip_39_word_new_br_2: gather<br>insect
-bip_39_word_new_br_3: gather<br>insect<br>hurry
-bip_39_word_new_line_12: 'gather
-
-  insect
-
-  hurry
-
-  clump
-
-  spell
-
-  acid
-
-  cook
-
-  hybrid
-
-  tissue
-
-  hammer
-
-  modify
-
-  arrest'
-bip_39_word_new_line_2: 'gather
-
-  insect'
-bip_39_word_new_line_3: 'gather
-
-  insect
-
-  hurry'
-bip_39_word_no_space_12: gatherinsecthurryclumpspellacidcookhybridtissuehammermodifyarrest
-bip_39_word_no_space_2: gatherinsect
-bip_39_word_no_space_3: gatherinsecthurry
-bip_39_word_space_12: gather insect hurry clump spell acid cook hybrid tissue hammer
-  modify arrest
-bip_39_word_space_2: gather insect
-bip_39_word_space_3: gather insect hurry
-bip_39_word_underscore_12: gather_insect_hurry_clump_spell_acid_cook_hybrid_tissue_hammer_modify_arrest
-bip_39_word_underscore_2: gather_insect
-bip_39_word_underscore_3: gather_insect_hurry
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_mechanical
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_mechanical_solenoid_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_solenoid_cubby_box
 id: category_mechanical_solenoid_cubby_box
 id_no_class: mechanical_solenoid_cubby_box
-id_no_color: cubbybox
 id_no_size: cubby_box
 id_no_type: solenoid_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_cubby_box
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_mechanical_solenoid_cubby_box](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 7ROT6
 md5_6_upper: C71D5A
 name: Category Mechanical Solenoid Cubby Box
 name_no_class: Mechanical Solenoid Cubby Box
-name_no_color: Cubbybox
 name_no_size: Cubby Box
 name_no_size_short: Cubby Box
 name_no_type: Solenoid Cubby Box
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: solenoid
 size_capital: Solenoid
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: so
-size_length_3: sol
-size_length_4: sole
-size_length_5: solen
-size_length_6: soleno
-size_name: Solenoid
-size_no_space_length_1: s
-size_no_space_length_2: so
-size_no_space_length_3: sol
-size_no_space_length_4: sole
-size_no_space_length_5: solen
-size_no_space_length_6: soleno
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SO
-size_no_space_upper_length_3: SOL
-size_no_space_upper_length_4: SOLE
-size_no_space_upper_length_5: SOLEN
-size_no_space_upper_length_6: SOLENO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SOLENOID
-size_upper_length_1: S
-size_upper_length_2: SO
-size_upper_length_3: SOL
-size_upper_length_4: SOLE
-size_upper_length_5: SOLEN
-size_upper_length_6: SOLENO
 type: mechanical
 type_capital: Mechanical
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: me
-type_length_3: mec
-type_length_4: mech
-type_length_5: mecha
-type_length_6: mechan
-type_name: Mechanical
-type_no_space_length_1: m
-type_no_space_length_2: me
-type_no_space_length_3: mec
-type_no_space_length_4: mech
-type_no_space_length_5: mecha
-type_no_space_length_6: mechan
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: ME
-type_no_space_upper_length_3: MEC
-type_no_space_upper_length_4: MECH
-type_no_space_upper_length_5: MECHA
-type_no_space_upper_length_6: MECHAN
 type_upper: MECHANICAL
-type_upper_length_1: M
-type_upper_length_2: ME
-type_upper_length_3: MEC
-type_upper_length_4: MECH
-type_upper_length_5: MECHA
-type_upper_length_6: MECHAN

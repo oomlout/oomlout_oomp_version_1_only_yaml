@@ -1,180 +1,31 @@
-bip_39_word_dash_12: child-erase-click-soup-decade-task-cotton-jazz-border-humble-enough-avocado
-bip_39_word_dash_2: child-erase
-bip_39_word_dash_3: child-erase-click
-bip_39_word_new_br_12: child<br>erase<br>click<br>soup<br>decade<br>task<br>cotton<br>jazz<br>border<br>humble<br>enough<br>avocado
-bip_39_word_new_br_2: child<br>erase
-bip_39_word_new_br_3: child<br>erase<br>click
-bip_39_word_new_line_12: 'child
-
-  erase
-
-  click
-
-  soup
-
-  decade
-
-  task
-
-  cotton
-
-  jazz
-
-  border
-
-  humble
-
-  enough
-
-  avocado'
-bip_39_word_new_line_2: 'child
-
-  erase'
-bip_39_word_new_line_3: 'child
-
-  erase
-
-  click'
-bip_39_word_no_space_12: childeraseclicksoupdecadetaskcottonjazzborderhumbleenoughavocado
-bip_39_word_no_space_2: childerase
-bip_39_word_no_space_3: childeraseclick
-bip_39_word_space_12: child erase click soup decade task cotton jazz border humble
-  enough avocado
-bip_39_word_space_2: child erase
-bip_39_word_space_3: child erase click
-bip_39_word_underscore_12: child_erase_click_soup_decade_task_cotton_jazz_border_humble_enough_avocado
-bip_39_word_underscore_2: child_erase
-bip_39_word_underscore_3: child_erase_click
 classification: electrical
 classification_capital: Electrical
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electrical
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRICAL
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: uk_socket
 color_capital: Uk Socket
 color_first_letter: u
 color_first_letter_upper: U
-color_length_1: u
-color_length_2: uk
-color_length_3: uk_
-color_length_4: uk_s
-color_length_5: uk_so
-color_length_6: uk_soc
-color_name: Uk Socket
-color_no_space_length_1: u
-color_no_space_length_2: uk
-color_no_space_length_3: uks
-color_no_space_length_4: ukso
-color_no_space_length_5: uksoc
-color_no_space_length_6: uksock
-color_no_space_upper_length_1: U
-color_no_space_upper_length_2: UK
-color_no_space_upper_length_3: UKS
-color_no_space_upper_length_4: UKSO
-color_no_space_upper_length_5: UKSOC
-color_no_space_upper_length_6: UKSOCK
 color_upper: UK_SOCKET
-color_upper_length_1: U
-color_upper_length_2: UK
-color_upper_length_3: UK_
-color_upper_length_4: UK_S
-color_upper_length_5: UK_SO
-color_upper_length_6: UK_SOC
 description_extra: 2_1_mm_barrel_plug_center_positive
 description_extra_capital: 2.1 mm Barrel Plug Center Positive
 description_extra_first_letter: '2'
 description_extra_first_letter_upper: '2'
-description_extra_length_1: '2'
-description_extra_length_2: '2_'
-description_extra_length_3: '2_1'
-description_extra_length_4: '2_1_'
-description_extra_length_5: 2_1_m
-description_extra_length_6: 2_1_mm
-description_extra_name: 2 1 mm Barrel Plug Center Positive
-description_extra_no_space_length_1: '2'
-description_extra_no_space_length_2: '21'
-description_extra_no_space_length_3: 21m
-description_extra_no_space_length_4: 21mm
-description_extra_no_space_length_5: 21mmb
-description_extra_no_space_length_6: 21mmba
-description_extra_no_space_upper_length_1: '2'
-description_extra_no_space_upper_length_2: '21'
-description_extra_no_space_upper_length_3: 21M
-description_extra_no_space_upper_length_4: 21MM
-description_extra_no_space_upper_length_5: 21MMB
-description_extra_no_space_upper_length_6: 21MMBA
 description_extra_upper: 2_1_MM_BARREL_PLUG_CENTER_POSITIVE
-description_extra_upper_length_1: '2'
-description_extra_upper_length_2: '2_'
-description_extra_upper_length_3: '2_1'
-description_extra_upper_length_4: '2_1_'
-description_extra_upper_length_5: 2_1_M
-description_extra_upper_length_6: 2_1_MM
 description_main: 12_volt_2_amp_output
 description_main_capital: 12 Volt 2 Amp Output
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '12'
-description_main_length_3: '12_'
-description_main_length_4: 12_v
-description_main_length_5: 12_vo
-description_main_length_6: 12_vol
-description_main_name: 12 Volt 2 Amp Output
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '12'
-description_main_no_space_length_3: 12v
-description_main_no_space_length_4: 12vo
-description_main_no_space_length_5: 12vol
-description_main_no_space_length_6: 12volt
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '12'
-description_main_no_space_upper_length_3: 12V
-description_main_no_space_upper_length_4: 12VO
-description_main_no_space_upper_length_5: 12VOL
-description_main_no_space_upper_length_6: 12VOLT
 description_main_upper: 12_VOLT_2_AMP_OUTPUT
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '12'
-description_main_upper_length_3: '12_'
-description_main_upper_length_4: 12_V
-description_main_upper_length_5: 12_VO
-description_main_upper_length_6: 12_VOL
 description_only_numbers: '122'
 description_only_numbers_short: '122'
 description_or_color: U122
 description_or_color_upper: U122
 directory: parts/electrical_wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 id: electrical_wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 id_no_class: wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
-id_no_color: 12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 id_no_size: uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 id_no_type: 240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
@@ -184,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electrical_wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive](none)<br>[](none)<br>[Electrical
@@ -200,14 +50,13 @@ md5_6: fe95db
 md5_6_alpha: 9xluj
 md5_6_alpha_upper: 9XLUJ
 md5_6_upper: FE95DB
-name: Electrical Wall Wart 240 Volt Input Uk Socket 12 Volt 2 Amp Output 2 1 mm Barrel
+name: Electrical Wall Wart 240 Volt Input Uk Socket 12 Volt 2 Amp Output 2 1 Mm Barrel
   Plug Center Positive
-name_no_class: Wall Wart 240 Volt Input Uk Socket 12 Volt 2 Amp Output 2 1 mm Barrel
+name_no_class: Wall Wart 240 Volt Input Uk Socket 12 Volt 2 Amp Output 2 1 Mm Barrel
   Plug Center Positive
-name_no_color: 12 Volt 2 Amp Output 2 1 mm Barrel Plug Center Positive
-name_no_size: Uk Socket 12 Volt 2 Amp Output 2 1 mm Barrel Plug Center Positive
+name_no_size: Uk Socket 12 Volt 2 Amp Output 2 1 Mm Barrel Plug Center Positive
 name_no_size_short: Uk Socket 12 Volt 2 Amp Output 2 1 Mm Barrel Plug Center Positive
-name_no_type: 240 Volt Input Uk Socket 12 Volt 2 Amp Output 2 1 mm Barrel Plug Center
+name_no_type: 240 Volt Input Uk Socket 12 Volt 2 Amp Output 2 1 Mm Barrel Plug Center
   Positive
 oomp_key: oomp_electrical_wall_wart_240_volt_input_uk_socket_12_volt_2_amp_output_2_1_mm_barrel_plug_center_positive
 oomp_word: recycle telescope tent
@@ -224,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -233,61 +81,11 @@ size: 240_volt_input
 size_capital: 240 Volt Input
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '24'
-size_length_3: '240'
-size_length_4: '240_'
-size_length_5: 240_v
-size_length_6: 240_vo
-size_name: 240 Volt Input
-size_no_space_length_1: '2'
-size_no_space_length_2: '24'
-size_no_space_length_3: '240'
-size_no_space_length_4: 240v
-size_no_space_length_5: 240vo
-size_no_space_length_6: 240vol
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '24'
-size_no_space_upper_length_3: '240'
-size_no_space_upper_length_4: 240V
-size_no_space_upper_length_5: 240VO
-size_no_space_upper_length_6: 240VOL
 size_only_numbers: '240'
 size_only_numbers_no_zeros: '24'
 size_upper: 240_VOLT_INPUT
-size_upper_length_1: '2'
-size_upper_length_2: '24'
-size_upper_length_3: '240'
-size_upper_length_4: '240_'
-size_upper_length_5: 240_V
-size_upper_length_6: 240_VO
 type: wall_wart
 type_capital: Wall Wart
 type_first_letter: w
 type_first_letter_upper: W
-type_length_1: w
-type_length_2: wa
-type_length_3: wal
-type_length_4: wall
-type_length_5: wall_
-type_length_6: wall_w
-type_name: Wall Wart
-type_no_space_length_1: w
-type_no_space_length_2: wa
-type_no_space_length_3: wal
-type_no_space_length_4: wall
-type_no_space_length_5: wallw
-type_no_space_length_6: wallwa
-type_no_space_upper_length_1: W
-type_no_space_upper_length_2: WA
-type_no_space_upper_length_3: WAL
-type_no_space_upper_length_4: WALL
-type_no_space_upper_length_5: WALLW
-type_no_space_upper_length_6: WALLWA
 type_upper: WALL_WART
-type_upper_length_1: W
-type_upper_length_2: WA
-type_upper_length_3: WAL
-type_upper_length_4: WALL
-type_upper_length_5: WALL_
-type_upper_length_6: WALL_W

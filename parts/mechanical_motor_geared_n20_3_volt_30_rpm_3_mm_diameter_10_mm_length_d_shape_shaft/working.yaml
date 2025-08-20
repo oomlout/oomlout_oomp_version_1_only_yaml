@@ -1,180 +1,31 @@
-bip_39_word_dash_12: real-derive-today-very-result-shove-valve-moral-sentence-outdoor-ritual-amateur
-bip_39_word_dash_2: real-derive
-bip_39_word_dash_3: real-derive-today
-bip_39_word_new_br_12: real<br>derive<br>today<br>very<br>result<br>shove<br>valve<br>moral<br>sentence<br>outdoor<br>ritual<br>amateur
-bip_39_word_new_br_2: real<br>derive
-bip_39_word_new_br_3: real<br>derive<br>today
-bip_39_word_new_line_12: 'real
-
-  derive
-
-  today
-
-  very
-
-  result
-
-  shove
-
-  valve
-
-  moral
-
-  sentence
-
-  outdoor
-
-  ritual
-
-  amateur'
-bip_39_word_new_line_2: 'real
-
-  derive'
-bip_39_word_new_line_3: 'real
-
-  derive
-
-  today'
-bip_39_word_no_space_12: realderivetodayveryresultshovevalvemoralsentenceoutdoorritualamateur
-bip_39_word_no_space_2: realderive
-bip_39_word_no_space_3: realderivetoday
-bip_39_word_space_12: real derive today very result shove valve moral sentence outdoor
-  ritual amateur
-bip_39_word_space_2: real derive
-bip_39_word_space_3: real derive today
-bip_39_word_underscore_12: real_derive_today_very_result_shove_valve_moral_sentence_outdoor_ritual_amateur
-bip_39_word_underscore_2: real_derive
-bip_39_word_underscore_3: real_derive_today
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
-classification_length_1: m
-classification_length_2: me
-classification_length_3: mec
-classification_length_4: mech
-classification_length_5: mecha
-classification_length_6: mechan
-classification_name: Mechanical
-classification_no_space_length_1: m
-classification_no_space_length_2: me
-classification_no_space_length_3: mec
-classification_no_space_length_4: mech
-classification_no_space_length_5: mecha
-classification_no_space_length_6: mechan
-classification_no_space_upper_length_1: M
-classification_no_space_upper_length_2: ME
-classification_no_space_upper_length_3: MEC
-classification_no_space_upper_length_4: MECH
-classification_no_space_upper_length_5: MECHA
-classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
-classification_upper_length_1: M
-classification_upper_length_2: ME
-classification_upper_length_3: MEC
-classification_upper_length_4: MECH
-classification_upper_length_5: MECHA
-classification_upper_length_6: MECHAN
 color: 3_volt
 color_capital: 3 Volt
 color_first_letter: '3'
 color_first_letter_upper: '3'
-color_length_1: '3'
-color_length_2: '3_'
-color_length_3: 3_v
-color_length_4: 3_vo
-color_length_5: 3_vol
-color_length_6: 3_volt
-color_name: 3 Volt
-color_no_space_length_1: '3'
-color_no_space_length_2: 3v
-color_no_space_length_3: 3vo
-color_no_space_length_4: 3vol
-color_no_space_length_5: 3volt
-color_no_space_length_6: 3volt
-color_no_space_upper_length_1: '3'
-color_no_space_upper_length_2: 3V
-color_no_space_upper_length_3: 3VO
-color_no_space_upper_length_4: 3VOL
-color_no_space_upper_length_5: 3VOLT
-color_no_space_upper_length_6: 3VOLT
 color_upper: 3_VOLT
-color_upper_length_1: '3'
-color_upper_length_2: '3_'
-color_upper_length_3: 3_V
-color_upper_length_4: 3_VO
-color_upper_length_5: 3_VOL
-color_upper_length_6: 3_VOLT
 description_extra: 3_mm_diameter_10_mm_length_d_shape_shaft
 description_extra_capital: 3 mm Diameter 10 mm Length D Shape Shaft
 description_extra_first_letter: '3'
 description_extra_first_letter_upper: '3'
-description_extra_length_1: '3'
-description_extra_length_2: '3_'
-description_extra_length_3: 3_m
-description_extra_length_4: 3_mm
-description_extra_length_5: 3_mm_
-description_extra_length_6: 3_mm_d
-description_extra_name: 3 mm Diameter 10 mm Length D Shape Shaft
-description_extra_no_space_length_1: '3'
-description_extra_no_space_length_2: 3m
-description_extra_no_space_length_3: 3mm
-description_extra_no_space_length_4: 3mmd
-description_extra_no_space_length_5: 3mmdi
-description_extra_no_space_length_6: 3mmdia
-description_extra_no_space_upper_length_1: '3'
-description_extra_no_space_upper_length_2: 3M
-description_extra_no_space_upper_length_3: 3MM
-description_extra_no_space_upper_length_4: 3MMD
-description_extra_no_space_upper_length_5: 3MMDI
-description_extra_no_space_upper_length_6: 3MMDIA
 description_extra_upper: 3_MM_DIAMETER_10_MM_LENGTH_D_SHAPE_SHAFT
-description_extra_upper_length_1: '3'
-description_extra_upper_length_2: '3_'
-description_extra_upper_length_3: 3_M
-description_extra_upper_length_4: 3_MM
-description_extra_upper_length_5: 3_MM_
-description_extra_upper_length_6: 3_MM_D
 description_main: 30_rpm
 description_main_capital: 30 Rpm
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '30'
-description_main_length_3: '30_'
-description_main_length_4: 30_r
-description_main_length_5: 30_rp
-description_main_length_6: 30_rpm
-description_main_name: 30 Rpm
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '30'
-description_main_no_space_length_3: 30r
-description_main_no_space_length_4: 30rp
-description_main_no_space_length_5: 30rpm
-description_main_no_space_length_6: 30rpm
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '30'
-description_main_no_space_upper_length_3: 30R
-description_main_no_space_upper_length_4: 30RP
-description_main_no_space_upper_length_5: 30RPM
-description_main_no_space_upper_length_6: 30RPM
 description_main_upper: 30_RPM
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '30'
-description_main_upper_length_3: '30_'
-description_main_upper_length_4: 30_R
-description_main_upper_length_5: 30_RP
-description_main_upper_length_6: 30_RPM
 description_only_numbers: '30'
 description_only_numbers_short: '30'
 description_or_color: '330'
 description_or_color_upper: '330'
 directory: parts/mechanical_motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 id: mechanical_motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 id_no_class: motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
-id_no_color: 30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 id_no_size: 3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 id_no_type: n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
@@ -184,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](none)<br>[](none)<br>[Mechanical
@@ -199,13 +49,12 @@ md5_6: 7b7527
 md5_6_alpha: 4tezr
 md5_6_alpha_upper: 4TEZR
 md5_6_upper: 7B7527
-name: Mechanical Motor Geared N20 3 Volt 30 Rpm 3 mm Diameter 10 mm Length D Shape
+name: Mechanical Motor Geared N20 3 Volt 30 Rpm 3 Mm Diameter 10 Mm Length D Shape
   Shaft
-name_no_class: Motor Geared N20 3 Volt 30 Rpm 3 mm Diameter 10 mm Length D Shape Shaft
-name_no_color: 30 Rpm 3 mm Diameter 10 mm Length D Shape Shaft
-name_no_size: 3 Volt 30 Rpm 3 mm Diameter 10 mm Length D Shape Shaft
+name_no_class: Motor Geared N20 3 Volt 30 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
+name_no_size: 3 Volt 30 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
 name_no_size_short: 3 Volt 30 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
-name_no_type: N20 3 Volt 30 Rpm 3 mm Diameter 10 mm Length D Shape Shaft
+name_no_type: N20 3 Volt 30 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
 oomp_key: oomp_mechanical_motor_geared_n20_3_volt_30_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
 oomp_word: computer ghost nose
 oomp_word_emoji: ':computer: :ghost: :nose:'
@@ -221,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -230,61 +78,11 @@ size: n20
 size_capital: N20
 size_first_letter: n
 size_first_letter_upper: N
-size_length_1: n
-size_length_2: n2
-size_length_3: n20
-size_length_4: n20
-size_length_5: n20
-size_length_6: n20
-size_name: N20
-size_no_space_length_1: n
-size_no_space_length_2: n2
-size_no_space_length_3: n20
-size_no_space_length_4: n20
-size_no_space_length_5: n20
-size_no_space_length_6: n20
-size_no_space_upper_length_1: N
-size_no_space_upper_length_2: N2
-size_no_space_upper_length_3: N20
-size_no_space_upper_length_4: N20
-size_no_space_upper_length_5: N20
-size_no_space_upper_length_6: N20
 size_only_numbers: '20'
 size_only_numbers_no_zeros: '2'
 size_upper: N20
-size_upper_length_1: N
-size_upper_length_2: N2
-size_upper_length_3: N20
-size_upper_length_4: N20
-size_upper_length_5: N20
-size_upper_length_6: N20
 type: motor_geared
 type_capital: Motor Geared
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: mo
-type_length_3: mot
-type_length_4: moto
-type_length_5: motor
-type_length_6: motor_
-type_name: Motor Geared
-type_no_space_length_1: m
-type_no_space_length_2: mo
-type_no_space_length_3: mot
-type_no_space_length_4: moto
-type_no_space_length_5: motor
-type_no_space_length_6: motorg
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: MO
-type_no_space_upper_length_3: MOT
-type_no_space_upper_length_4: MOTO
-type_no_space_upper_length_5: MOTOR
-type_no_space_upper_length_6: MOTORG
 type_upper: MOTOR_GEARED
-type_upper_length_1: M
-type_upper_length_2: MO
-type_upper_length_3: MOT
-type_upper_length_4: MOTO
-type_upper_length_5: MOTOR
-type_upper_length_6: MOTOR_

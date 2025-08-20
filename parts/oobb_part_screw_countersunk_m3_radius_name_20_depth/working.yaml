@@ -1,121 +1,22 @@
-bip_39_word_dash_12: census-benefit-crowd-book-rigid-reject-tool-other-pull-north-silent-acquire
-bip_39_word_dash_2: census-benefit
-bip_39_word_dash_3: census-benefit-crowd
-bip_39_word_new_br_12: census<br>benefit<br>crowd<br>book<br>rigid<br>reject<br>tool<br>other<br>pull<br>north<br>silent<br>acquire
-bip_39_word_new_br_2: census<br>benefit
-bip_39_word_new_br_3: census<br>benefit<br>crowd
-bip_39_word_new_line_12: 'census
-
-  benefit
-
-  crowd
-
-  book
-
-  rigid
-
-  reject
-
-  tool
-
-  other
-
-  pull
-
-  north
-
-  silent
-
-  acquire'
-bip_39_word_new_line_2: 'census
-
-  benefit'
-bip_39_word_new_line_3: 'census
-
-  benefit
-
-  crowd'
-bip_39_word_no_space_12: censusbenefitcrowdbookrigidrejecttoolotherpullnorthsilentacquire
-bip_39_word_no_space_2: censusbenefit
-bip_39_word_no_space_3: censusbenefitcrowd
-bip_39_word_space_12: census benefit crowd book rigid reject tool other pull north
-  silent acquire
-bip_39_word_space_2: census benefit
-bip_39_word_space_3: census benefit crowd
-bip_39_word_underscore_12: census_benefit_crowd_book_rigid_reject_tool_other_pull_north_silent_acquire
-bip_39_word_underscore_2: census_benefit
-bip_39_word_underscore_3: census_benefit_crowd
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: m3_radius_name_20_depth
 description_extra_capital: M3 Radius Name 20 Depth
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: m3
-description_extra_length_3: m3_
-description_extra_length_4: m3_r
-description_extra_length_5: m3_ra
-description_extra_length_6: m3_rad
-description_extra_name: M3 Radius Name 20 Depth
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: m3
-description_extra_no_space_length_3: m3r
-description_extra_no_space_length_4: m3ra
-description_extra_no_space_length_5: m3rad
-description_extra_no_space_length_6: m3radi
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: M3
-description_extra_no_space_upper_length_3: M3R
-description_extra_no_space_upper_length_4: M3RA
-description_extra_no_space_upper_length_5: M3RAD
-description_extra_no_space_upper_length_6: M3RADI
 description_extra_upper: M3_RADIUS_NAME_20_DEPTH
-description_extra_upper_length_1: M
-description_extra_upper_length_2: M3
-description_extra_upper_length_3: M3_
-description_extra_upper_length_4: M3_R
-description_extra_upper_length_5: M3_RA
-description_extra_upper_length_6: M3_RAD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -123,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/oobb_part_screw_countersunk_m3_radius_name_20_depth
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_screw_countersunk_m3_radius_name_20_depth
 id: oobb_part_screw_countersunk_m3_radius_name_20_depth
 id_no_class: part_screw_countersunk_m3_radius_name_20_depth
-id_no_color: m3radiusname20depth
 id_no_size: m3_radius_name_20_depth
 id_no_type: screw_countersunk_m3_radius_name_20_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_screw_countersunk_m3_radius_name_20_depth
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_screw_countersunk_m3_radius_name_20_depth](none)<br>[](none)<br>[Oobb
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 1DYHX
 md5_6_upper: 2390E5
 name: Oobb Part Screw Countersunk M3 Radius Name 20 Depth
 name_no_class: Part Screw Countersunk M3 Radius Name 20 Depth
-name_no_color: M3Radiusname20Depth
 name_no_size: M3 Radius Name 20 Depth
 name_no_size_short: M3 Radius Name 20 Depth
 name_no_type: Screw Countersunk M3 Radius Name 20 Depth
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,61 +77,11 @@ size: screw_countersunk
 size_capital: Screw Countersunk
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sc
-size_length_3: scr
-size_length_4: scre
-size_length_5: screw
-size_length_6: screw_
-size_name: Screw Countersunk
-size_no_space_length_1: s
-size_no_space_length_2: sc
-size_no_space_length_3: scr
-size_no_space_length_4: scre
-size_no_space_length_5: screw
-size_no_space_length_6: screwc
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SC
-size_no_space_upper_length_3: SCR
-size_no_space_upper_length_4: SCRE
-size_no_space_upper_length_5: SCREW
-size_no_space_upper_length_6: SCREWC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREW_COUNTERSUNK
-size_upper_length_1: S
-size_upper_length_2: SC
-size_upper_length_3: SCR
-size_upper_length_4: SCRE
-size_upper_length_5: SCREW
-size_upper_length_6: SCREW_
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

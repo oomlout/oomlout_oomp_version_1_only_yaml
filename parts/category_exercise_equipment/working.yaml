@@ -1,98 +1,23 @@
-bip_39_word_dash_12: anger-wolf-brother-bubble-tongue-calm-body-remove-accident-humble-behave-annual
-bip_39_word_dash_2: anger-wolf
-bip_39_word_dash_3: anger-wolf-brother
-bip_39_word_new_br_12: anger<br>wolf<br>brother<br>bubble<br>tongue<br>calm<br>body<br>remove<br>accident<br>humble<br>behave<br>annual
-bip_39_word_new_br_2: anger<br>wolf
-bip_39_word_new_br_3: anger<br>wolf<br>brother
-bip_39_word_new_line_12: 'anger
-
-  wolf
-
-  brother
-
-  bubble
-
-  tongue
-
-  calm
-
-  body
-
-  remove
-
-  accident
-
-  humble
-
-  behave
-
-  annual'
-bip_39_word_new_line_2: 'anger
-
-  wolf'
-bip_39_word_new_line_3: 'anger
-
-  wolf
-
-  brother'
-bip_39_word_no_space_12: angerwolfbrotherbubbletonguecalmbodyremoveaccidenthumblebehaveannual
-bip_39_word_no_space_2: angerwolf
-bip_39_word_no_space_3: angerwolfbrother
-bip_39_word_space_12: anger wolf brother bubble tongue calm body remove accident humble
-  behave annual
-bip_39_word_space_2: anger wolf
-bip_39_word_space_3: anger wolf brother
-bip_39_word_underscore_12: anger_wolf_brother_bubble_tongue_calm_body_remove_accident_humble_behave_annual
-bip_39_word_underscore_2: anger_wolf
-bip_39_word_underscore_3: anger_wolf_brother
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_exercise_equipment
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_exercise_equipment
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_exercise_equipment
 id: category_exercise_equipment
 id_no_class: exercise_equipment
-id_no_color: exerciseequipment
 id_no_size: exerciseequipment
 id_no_type: exercise_equipment
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_exercise_equipment](none)<br>[](none)<br>[Category Exercise
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 5UX97
 md5_6_upper: 9628DB
 name: Category Exercise Equipment
 name_no_class: Exercise Equipment
-name_no_color: Exerciseequipment
 name_no_size: Exerciseequipment
 name_no_size_short: Exerciseequipment
 name_no_type: Exercise Equipment
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -169,29 +88,4 @@ type: exercise_equipment
 type_capital: Exercise Equipment
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: ex
-type_length_3: exe
-type_length_4: exer
-type_length_5: exerc
-type_length_6: exerci
-type_name: Exercise Equipment
-type_no_space_length_1: e
-type_no_space_length_2: ex
-type_no_space_length_3: exe
-type_no_space_length_4: exer
-type_no_space_length_5: exerc
-type_no_space_length_6: exerci
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EX
-type_no_space_upper_length_3: EXE
-type_no_space_upper_length_4: EXER
-type_no_space_upper_length_5: EXERC
-type_no_space_upper_length_6: EXERCI
 type_upper: EXERCISE_EQUIPMENT
-type_upper_length_1: E
-type_upper_length_2: EX
-type_upper_length_3: EXE
-type_upper_length_4: EXER
-type_upper_length_5: EXERC
-type_upper_length_6: EXERCI

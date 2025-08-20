@@ -1,98 +1,23 @@
-bip_39_word_dash_12: butter-oppose-rude-myth-require-daughter-kick-pepper-stool-window-remove-absent
-bip_39_word_dash_2: butter-oppose
-bip_39_word_dash_3: butter-oppose-rude
-bip_39_word_new_br_12: butter<br>oppose<br>rude<br>myth<br>require<br>daughter<br>kick<br>pepper<br>stool<br>window<br>remove<br>absent
-bip_39_word_new_br_2: butter<br>oppose
-bip_39_word_new_br_3: butter<br>oppose<br>rude
-bip_39_word_new_line_12: 'butter
-
-  oppose
-
-  rude
-
-  myth
-
-  require
-
-  daughter
-
-  kick
-
-  pepper
-
-  stool
-
-  window
-
-  remove
-
-  absent'
-bip_39_word_new_line_2: 'butter
-
-  oppose'
-bip_39_word_new_line_3: 'butter
-
-  oppose
-
-  rude'
-bip_39_word_no_space_12: butteropposerudemythrequiredaughterkickpepperstoolwindowremoveabsent
-bip_39_word_no_space_2: butteroppose
-bip_39_word_no_space_3: butteropposerude
-bip_39_word_space_12: butter oppose rude myth require daughter kick pepper stool window
-  remove absent
-bip_39_word_space_2: butter oppose
-bip_39_word_space_3: butter oppose rude
-bip_39_word_underscore_12: butter_oppose_rude_myth_require_daughter_kick_pepper_stool_window_remove_absent
-bip_39_word_underscore_2: butter_oppose
-bip_39_word_underscore_3: butter_oppose_rude
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_toy
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_toy_ball
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_toy_ball
 id: category_toy_ball
 id_no_class: toy_ball
-id_no_color: ball
 id_no_size: ball
 id_no_type: ball
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_ball
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_toy_ball](none)<br>[](none)<br>[Category Toy Ball](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: G1KU
 md5_6_upper: 0B6BFE
 name: Category Toy Ball
 name_no_class: Toy Ball
-name_no_color: Ball
 name_no_size: Ball
 name_no_size_short: Ball
 name_no_type: Ball
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,61 +80,11 @@ size: ball
 size_capital: Ball
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bal
-size_length_4: ball
-size_length_5: ball
-size_length_6: ball
-size_name: Ball
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bal
-size_no_space_length_4: ball
-size_no_space_length_5: ball
-size_no_space_length_6: ball
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAL
-size_no_space_upper_length_4: BALL
-size_no_space_upper_length_5: BALL
-size_no_space_upper_length_6: BALL
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BALL
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAL
-size_upper_length_4: BALL
-size_upper_length_5: BALL
-size_upper_length_6: BALL
 type: toy
 type_capital: Toy
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: toy
-type_length_4: toy
-type_length_5: toy
-type_length_6: toy
-type_name: Toy
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: toy
-type_no_space_length_4: toy
-type_no_space_length_5: toy
-type_no_space_length_6: toy
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOY
-type_no_space_upper_length_4: TOY
-type_no_space_upper_length_5: TOY
-type_no_space_upper_length_6: TOY
 type_upper: TOY
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOY
-type_upper_length_4: TOY
-type_upper_length_5: TOY
-type_upper_length_6: TOY

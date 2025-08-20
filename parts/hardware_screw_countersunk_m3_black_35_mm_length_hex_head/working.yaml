@@ -1,170 +1,23 @@
-bip_39_word_dash_12: abstract-physical-mean-short-gesture-fetch-shadow-know-slot-come-rigid-acquire
-bip_39_word_dash_2: abstract-physical
-bip_39_word_dash_3: abstract-physical-mean
-bip_39_word_new_br_12: abstract<br>physical<br>mean<br>short<br>gesture<br>fetch<br>shadow<br>know<br>slot<br>come<br>rigid<br>acquire
-bip_39_word_new_br_2: abstract<br>physical
-bip_39_word_new_br_3: abstract<br>physical<br>mean
-bip_39_word_new_line_12: 'abstract
-
-  physical
-
-  mean
-
-  short
-
-  gesture
-
-  fetch
-
-  shadow
-
-  know
-
-  slot
-
-  come
-
-  rigid
-
-  acquire'
-bip_39_word_new_line_2: 'abstract
-
-  physical'
-bip_39_word_new_line_3: 'abstract
-
-  physical
-
-  mean'
-bip_39_word_no_space_12: abstractphysicalmeanshortgesturefetchshadowknowslotcomerigidacquire
-bip_39_word_no_space_2: abstractphysical
-bip_39_word_no_space_3: abstractphysicalmean
-bip_39_word_space_12: abstract physical mean short gesture fetch shadow know slot
-  come rigid acquire
-bip_39_word_space_2: abstract physical
-bip_39_word_space_3: abstract physical mean
-bip_39_word_underscore_12: abstract_physical_mean_short_gesture_fetch_shadow_know_slot_come_rigid_acquire
-bip_39_word_underscore_2: abstract_physical
-bip_39_word_underscore_3: abstract_physical_mean
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: black
 color_capital: Black
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bl
-color_length_3: bla
-color_length_4: blac
-color_length_5: black
-color_length_6: black
-color_name: Black
-color_no_space_length_1: b
-color_no_space_length_2: bl
-color_no_space_length_3: bla
-color_no_space_length_4: blac
-color_no_space_length_5: black
-color_no_space_length_6: black
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BL
-color_no_space_upper_length_3: BLA
-color_no_space_upper_length_4: BLAC
-color_no_space_upper_length_5: BLACK
-color_no_space_upper_length_6: BLACK
 color_upper: BLACK
-color_upper_length_1: B
-color_upper_length_2: BL
-color_upper_length_3: BLA
-color_upper_length_4: BLAC
-color_upper_length_5: BLACK
-color_upper_length_6: BLACK
 description_extra: hex_head
 description_extra_capital: Hex Head
 description_extra_first_letter: h
 description_extra_first_letter_upper: H
-description_extra_length_1: h
-description_extra_length_2: he
-description_extra_length_3: hex
-description_extra_length_4: hex_
-description_extra_length_5: hex_h
-description_extra_length_6: hex_he
-description_extra_name: Hex Head
-description_extra_no_space_length_1: h
-description_extra_no_space_length_2: he
-description_extra_no_space_length_3: hex
-description_extra_no_space_length_4: hexh
-description_extra_no_space_length_5: hexhe
-description_extra_no_space_length_6: hexhea
-description_extra_no_space_upper_length_1: H
-description_extra_no_space_upper_length_2: HE
-description_extra_no_space_upper_length_3: HEX
-description_extra_no_space_upper_length_4: HEXH
-description_extra_no_space_upper_length_5: HEXHE
-description_extra_no_space_upper_length_6: HEXHEA
 description_extra_upper: HEX_HEAD
-description_extra_upper_length_1: H
-description_extra_upper_length_2: HE
-description_extra_upper_length_3: HEX
-description_extra_upper_length_4: HEX_
-description_extra_upper_length_5: HEX_H
-description_extra_upper_length_6: HEX_HE
 description_main: 35_mm_length
 description_main_capital: 35 mm Length
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '35'
-description_main_length_3: '35_'
-description_main_length_4: 35_m
-description_main_length_5: 35_mm
-description_main_length_6: 35_mm_
-description_main_name: 35 mm Length
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '35'
-description_main_no_space_length_3: 35m
-description_main_no_space_length_4: 35mm
-description_main_no_space_length_5: 35mml
-description_main_no_space_length_6: 35mmle
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '35'
-description_main_no_space_upper_length_3: 35M
-description_main_no_space_upper_length_4: 35MM
-description_main_no_space_upper_length_5: 35MML
-description_main_no_space_upper_length_6: 35MMLE
 description_main_upper: 35_MM_LENGTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '35'
-description_main_upper_length_3: '35_'
-description_main_upper_length_4: 35_M
-description_main_upper_length_5: 35_MM
-description_main_upper_length_6: 35_MM_
 description_only_numbers: '35'
 description_only_numbers_short: '35'
 description_or_color: B35
@@ -174,10 +27,8 @@ distributor_current: orbital_fasteners
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head
 id: hardware_screw_countersunk_m3_black_35_mm_length_hex_head
 id_no_class: screw_countersunk_m3_black_35_mm_length_hex_head
-id_no_color: 35_mm_length_hex_head
 id_no_size: black_35_mm_length_hex_head
 id_no_type: m3_black_35_mm_length_hex_head
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_countersunk_m3_black_35_mm_length_hex_head
@@ -187,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_screw_countersunk_m3_black_35_mm_length_hex_head](none)<br>[cs3b35h](none)<br>[Hardware
@@ -202,31 +52,11 @@ md5_6: 2373cb
 md5_6_alpha: 1dsqz
 md5_6_alpha_upper: 1DSQZ
 md5_6_upper: 2373CB
-name: Hardware Screw Countersunk M3 Black 35 mm Length Hex Head
-name_no_class: Screw Countersunk M3 Black 35 mm Length Hex Head
-name_no_color: 35 mm Length Hex Head
-name_no_size: Black 35 mm Length Hex Head
+name: Hardware Screw Countersunk M3 Black 35 Mm Length Hex Head
+name_no_class: Screw Countersunk M3 Black 35 Mm Length Hex Head
+name_no_size: Black 35 Mm Length Hex Head
 name_no_size_short: Black 35 Mm Length Hex Head
-name_no_type: M3 Black 35 mm Length Hex Head
-oomlout_bolt_color: Black
-oomlout_bolt_head_type: Hex Head
-oomlout_bolt_head_type_diagram: head_type_diagram.png
-oomlout_bolt_length: 35 mm
-oomlout_bolt_length_no_unit: '35'
-oomlout_bolt_md5_6_alpha_first_3: 1ds
-oomlout_bolt_md5_6_alpha_first_3_upper: 1DS
-oomlout_bolt_md5_6_alpha_last_3: qz
-oomlout_bolt_md5_6_alpha_last_3_upper: QZ
-oomlout_bolt_md5_6_first_3: '237'
-oomlout_bolt_md5_6_first_3_upper: '237'
-oomlout_bolt_md5_6_last_3: 3cb
-oomlout_bolt_md5_6_last_3_upper: 3CB
-oomlout_bolt_name: Countersunk M3X35 mm Black (Hex Head)
-oomlout_bolt_size: M3
-oomlout_bolt_type: Countersunk
-oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: cs3b35h
-oomlout_short_code_upper: CS3B35H
+name_no_type: M3 Black 35 Mm Length Hex Head
 oomp_id: hardware_screw_countersunk_m3_black_35_mm_length_hex_head
 oomp_key: oomp_hardware_screw_countersunk_m3_black_35_mm_length_hex_head
 oomp_word: kiss flags grapes
@@ -247,7 +77,6 @@ part_number_distributor_orbital_fasteners: '1901054'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_manufacturer_metalmate: 1151M390035
-part_number_name: ''
 part_number_upper: ''
 price_1: '0.1162'
 price_100: '0.1162'
@@ -272,63 +101,13 @@ size: m3
 size_capital: M3
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m3
-size_length_3: m3
-size_length_4: m3
-size_length_5: m3
-size_length_6: m3
-size_name: M3
-size_no_space_length_1: m
-size_no_space_length_2: m3
-size_no_space_length_3: m3
-size_no_space_length_4: m3
-size_no_space_length_5: m3
-size_no_space_length_6: m3
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M3
-size_no_space_upper_length_3: M3
-size_no_space_upper_length_4: M3
-size_no_space_upper_length_5: M3
-size_no_space_upper_length_6: M3
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: M3
-size_upper_length_1: M
-size_upper_length_2: M3
-size_upper_length_3: M3
-size_upper_length_4: M3
-size_upper_length_5: M3
-size_upper_length_6: M3
 type: screw_countersunk
 type_capital: Screw Countersunk
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sc
-type_length_3: scr
-type_length_4: scre
-type_length_5: screw
-type_length_6: screw_
-type_name: Screw Countersunk
-type_no_space_length_1: s
-type_no_space_length_2: sc
-type_no_space_length_3: scr
-type_no_space_length_4: scre
-type_no_space_length_5: screw
-type_no_space_length_6: screwc
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SC
-type_no_space_upper_length_3: SCR
-type_no_space_upper_length_4: SCRE
-type_no_space_upper_length_5: SCREW
-type_no_space_upper_length_6: SCREWC
 type_upper: SCREW_COUNTERSUNK
-type_upper_length_1: S
-type_upper_length_2: SC
-type_upper_length_3: SCR
-type_upper_length_4: SCRE
-type_upper_length_5: SCREW
-type_upper_length_6: SCREW_
 webpage_distributor_accu: https://www.accu.co.uk/countersunk-socket-head-screws/5432-SSK-M3-35-A2
 webpage_distributor_orbital_fasteners: https://www.orbitalfasteners.co.uk/products/m3-x-35-socket-screw-countersunk-high-tensile-grade-10-9-self-colour-din-7991

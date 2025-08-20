@@ -1,170 +1,23 @@
-bip_39_word_dash_12: enough-hello-market-curve-maximum-lake-logic-lawn-pear-prefer-miracle-across
-bip_39_word_dash_2: enough-hello
-bip_39_word_dash_3: enough-hello-market
-bip_39_word_new_br_12: enough<br>hello<br>market<br>curve<br>maximum<br>lake<br>logic<br>lawn<br>pear<br>prefer<br>miracle<br>across
-bip_39_word_new_br_2: enough<br>hello
-bip_39_word_new_br_3: enough<br>hello<br>market
-bip_39_word_new_line_12: 'enough
-
-  hello
-
-  market
-
-  curve
-
-  maximum
-
-  lake
-
-  logic
-
-  lawn
-
-  pear
-
-  prefer
-
-  miracle
-
-  across'
-bip_39_word_new_line_2: 'enough
-
-  hello'
-bip_39_word_new_line_3: 'enough
-
-  hello
-
-  market'
-bip_39_word_no_space_12: enoughhellomarketcurvemaximumlakelogiclawnpearprefermiracleacross
-bip_39_word_no_space_2: enoughhello
-bip_39_word_no_space_3: enoughhellomarket
-bip_39_word_space_12: enough hello market curve maximum lake logic lawn pear prefer
-  miracle across
-bip_39_word_space_2: enough hello
-bip_39_word_space_3: enough hello market
-bip_39_word_underscore_12: enough_hello_market_curve_maximum_lake_logic_lawn_pear_prefer_miracle_across
-bip_39_word_underscore_2: enough_hello
-bip_39_word_underscore_3: enough_hello_market
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: nylon_white
 color_capital: Nylon White
 color_first_letter: n
 color_first_letter_upper: N
-color_length_1: n
-color_length_2: ny
-color_length_3: nyl
-color_length_4: nylo
-color_length_5: nylon
-color_length_6: nylon_
-color_name: Nylon White
-color_no_space_length_1: n
-color_no_space_length_2: ny
-color_no_space_length_3: nyl
-color_no_space_length_4: nylo
-color_no_space_length_5: nylon
-color_no_space_length_6: nylonw
-color_no_space_upper_length_1: N
-color_no_space_upper_length_2: NY
-color_no_space_upper_length_3: NYL
-color_no_space_upper_length_4: NYLO
-color_no_space_upper_length_5: NYLON
-color_no_space_upper_length_6: NYLONW
 color_upper: NYLON_WHITE
-color_upper_length_1: N
-color_upper_length_2: NY
-color_upper_length_3: NYL
-color_upper_length_4: NYLO
-color_upper_length_5: NYLON
-color_upper_length_6: NYLON_
 description_extra: nut_and_nut
 description_extra_capital: Nut And Nut
 description_extra_first_letter: n
 description_extra_first_letter_upper: N
-description_extra_length_1: n
-description_extra_length_2: nu
-description_extra_length_3: nut
-description_extra_length_4: nut_
-description_extra_length_5: nut_a
-description_extra_length_6: nut_an
-description_extra_name: Nut And Nut
-description_extra_no_space_length_1: n
-description_extra_no_space_length_2: nu
-description_extra_no_space_length_3: nut
-description_extra_no_space_length_4: nuta
-description_extra_no_space_length_5: nutan
-description_extra_no_space_length_6: nutand
-description_extra_no_space_upper_length_1: N
-description_extra_no_space_upper_length_2: NU
-description_extra_no_space_upper_length_3: NUT
-description_extra_no_space_upper_length_4: NUTA
-description_extra_no_space_upper_length_5: NUTAN
-description_extra_no_space_upper_length_6: NUTAND
 description_extra_upper: NUT_AND_NUT
-description_extra_upper_length_1: N
-description_extra_upper_length_2: NU
-description_extra_upper_length_3: NUT
-description_extra_upper_length_4: NUT_
-description_extra_upper_length_5: NUT_A
-description_extra_upper_length_6: NUT_AN
 description_main: 20_mm_length
 description_main_capital: 20 mm Length
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '20'
-description_main_length_3: '20_'
-description_main_length_4: 20_m
-description_main_length_5: 20_mm
-description_main_length_6: 20_mm_
-description_main_name: 20 mm Length
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '20'
-description_main_no_space_length_3: 20m
-description_main_no_space_length_4: 20mm
-description_main_no_space_length_5: 20mml
-description_main_no_space_length_6: 20mmle
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '20'
-description_main_no_space_upper_length_3: 20M
-description_main_no_space_upper_length_4: 20MM
-description_main_no_space_upper_length_5: 20MML
-description_main_no_space_upper_length_6: 20MMLE
 description_main_upper: 20_MM_LENGTH
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '20'
-description_main_upper_length_3: '20_'
-description_main_upper_length_4: 20_M
-description_main_upper_length_5: 20_MM
-description_main_upper_length_6: 20_MM_
 description_only_numbers: '20'
 description_only_numbers_short: '20'
 description_or_color: N20
@@ -173,10 +26,8 @@ directory: parts/hardware_standoff_m3_nylon_white_20_mm_length_nut_and_nut
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_standoff_m3_nylon_white_20_mm_length_nut_and_nut
 id: hardware_standoff_m3_nylon_white_20_mm_length_nut_and_nut
 id_no_class: standoff_m3_nylon_white_20_mm_length_nut_and_nut
-id_no_color: 20_mm_length_nut_and_nut
 id_no_size: nylon_white_20_mm_length_nut_and_nut
 id_no_type: m3_nylon_white_20_mm_length_nut_and_nut
 kicad_reference: ''
@@ -187,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_standoff_m3_nylon_white_20_mm_length_nut_and_nut](none)<br>[st320nn](none)<br>[Hardware
@@ -202,30 +52,11 @@ md5_6: 251aea
 md5_6_alpha: 1g4bu
 md5_6_alpha_upper: 1G4BU
 md5_6_upper: 251AEA
-name: Hardware Standoff M3 Nylon White 20 mm Length Nut And Nut
-name_no_class: Standoff M3 Nylon White 20 mm Length Nut And Nut
-name_no_color: 20 mm Length Nut And Nut
-name_no_size: Nylon White 20 mm Length Nut And Nut
+name: Hardware Standoff M3 Nylon White 20 Mm Length Nut And Nut
+name_no_class: Standoff M3 Nylon White 20 Mm Length Nut And Nut
+name_no_size: Nylon White 20 Mm Length Nut And Nut
 name_no_size_short: Nylon White 20 Mm Length Nut And Nut
-name_no_type: M3 Nylon White 20 mm Length Nut And Nut
-oomlout_bolt_color: ''
-oomlout_bolt_head_type: Bolt
-oomlout_bolt_length: 20 mm
-oomlout_bolt_length_no_unit: '20'
-oomlout_bolt_md5_6_alpha_first_3: 1g4
-oomlout_bolt_md5_6_alpha_first_3_upper: 1G4
-oomlout_bolt_md5_6_alpha_last_3: bu
-oomlout_bolt_md5_6_alpha_last_3_upper: BU
-oomlout_bolt_md5_6_first_3: '251'
-oomlout_bolt_md5_6_first_3_upper: '251'
-oomlout_bolt_md5_6_last_3: aea
-oomlout_bolt_md5_6_last_3_upper: AEA
-oomlout_bolt_name: ' M3X20 mm  (Bolt)'
-oomlout_bolt_size: M3
-oomlout_bolt_type: ''
-oomlout_bolt_type_diagram_diagram: type_diagram.png
-oomlout_short_code: so3nw20nn
-oomlout_short_code_upper: SO3NW20NN
+name_no_type: M3 Nylon White 20 Mm Length Nut And Nut
 oomp_key: oomp_hardware_standoff_m3_nylon_white_20_mm_length_nut_and_nut
 oomp_word: ear clap tractor
 oomp_word_emoji: ':ear: :clap: :tractor:'
@@ -241,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: st320nn
 short_code_upper: ST320NN
@@ -249,61 +79,11 @@ size: m3
 size_capital: M3
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m3
-size_length_3: m3
-size_length_4: m3
-size_length_5: m3
-size_length_6: m3
-size_name: M3
-size_no_space_length_1: m
-size_no_space_length_2: m3
-size_no_space_length_3: m3
-size_no_space_length_4: m3
-size_no_space_length_5: m3
-size_no_space_length_6: m3
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M3
-size_no_space_upper_length_3: M3
-size_no_space_upper_length_4: M3
-size_no_space_upper_length_5: M3
-size_no_space_upper_length_6: M3
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: M3
-size_upper_length_1: M
-size_upper_length_2: M3
-size_upper_length_3: M3
-size_upper_length_4: M3
-size_upper_length_5: M3
-size_upper_length_6: M3
 type: standoff
 type_capital: Standoff
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: stan
-type_length_5: stand
-type_length_6: stando
-type_name: Standoff
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: stan
-type_no_space_length_5: stand
-type_no_space_length_6: stando
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAN
-type_no_space_upper_length_5: STAND
-type_no_space_upper_length_6: STANDO
 type_upper: STANDOFF
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAN
-type_upper_length_5: STAND
-type_upper_length_6: STANDO

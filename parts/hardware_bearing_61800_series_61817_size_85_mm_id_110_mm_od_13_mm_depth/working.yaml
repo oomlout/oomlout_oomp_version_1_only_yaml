@@ -1,146 +1,23 @@
-bip_39_word_dash_12: suggest-indoor-dog-dutch-divide-useful-dolphin-mind-carpet-raccoon-light-again
-bip_39_word_dash_2: suggest-indoor
-bip_39_word_dash_3: suggest-indoor-dog
-bip_39_word_new_br_12: suggest<br>indoor<br>dog<br>dutch<br>divide<br>useful<br>dolphin<br>mind<br>carpet<br>raccoon<br>light<br>again
-bip_39_word_new_br_2: suggest<br>indoor
-bip_39_word_new_br_3: suggest<br>indoor<br>dog
-bip_39_word_new_line_12: 'suggest
-
-  indoor
-
-  dog
-
-  dutch
-
-  divide
-
-  useful
-
-  dolphin
-
-  mind
-
-  carpet
-
-  raccoon
-
-  light
-
-  again'
-bip_39_word_new_line_2: 'suggest
-
-  indoor'
-bip_39_word_new_line_3: 'suggest
-
-  indoor
-
-  dog'
-bip_39_word_no_space_12: suggestindoordogdutchdivideusefuldolphinmindcarpetraccoonlightagain
-bip_39_word_no_space_2: suggestindoor
-bip_39_word_no_space_3: suggestindoordog
-bip_39_word_space_12: suggest indoor dog dutch divide useful dolphin mind carpet raccoon
-  light again
-bip_39_word_space_2: suggest indoor
-bip_39_word_space_3: suggest indoor dog
-bip_39_word_underscore_12: suggest_indoor_dog_dutch_divide_useful_dolphin_mind_carpet_raccoon_light_again
-bip_39_word_underscore_2: suggest_indoor
-bip_39_word_underscore_3: suggest_indoor_dog
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: 61817_size
 color_capital: 61817 Size
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '61'
-color_length_3: '618'
-color_length_4: '6181'
-color_length_5: '61817'
-color_length_6: '61817_'
-color_name: 61817 Size
-color_no_space_length_1: '6'
-color_no_space_length_2: '61'
-color_no_space_length_3: '618'
-color_no_space_length_4: '6181'
-color_no_space_length_5: '61817'
-color_no_space_length_6: 61817s
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: '61'
-color_no_space_upper_length_3: '618'
-color_no_space_upper_length_4: '6181'
-color_no_space_upper_length_5: '61817'
-color_no_space_upper_length_6: 61817S
 color_upper: 61817_SIZE
-color_upper_length_1: '6'
-color_upper_length_2: '61'
-color_upper_length_3: '618'
-color_upper_length_4: '6181'
-color_upper_length_5: '61817'
-color_upper_length_6: '61817_'
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 85_mm_id_110_mm_od_13_mm_depth
 description_main_capital: 85 mm Id 110 mm Od 13 mm Depth
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
-description_main_length_1: '8'
-description_main_length_2: '85'
-description_main_length_3: '85_'
-description_main_length_4: 85_m
-description_main_length_5: 85_mm
-description_main_length_6: 85_mm_
-description_main_name: 85 mm ID 110 mm OD 13 mm Depth
-description_main_no_space_length_1: '8'
-description_main_no_space_length_2: '85'
-description_main_no_space_length_3: 85m
-description_main_no_space_length_4: 85mm
-description_main_no_space_length_5: 85mmi
-description_main_no_space_length_6: 85mmid
-description_main_no_space_upper_length_1: '8'
-description_main_no_space_upper_length_2: '85'
-description_main_no_space_upper_length_3: 85M
-description_main_no_space_upper_length_4: 85MM
-description_main_no_space_upper_length_5: 85MMI
-description_main_no_space_upper_length_6: 85MMID
 description_main_upper: 85_MM_ID_110_MM_OD_13_MM_DEPTH
-description_main_upper_length_1: '8'
-description_main_upper_length_2: '85'
-description_main_upper_length_3: '85_'
-description_main_upper_length_4: 85_M
-description_main_upper_length_5: 85_MM
-description_main_upper_length_6: 85_MM_
 description_only_numbers: '8511013'
 description_only_numbers_short: 8M5
 description_or_color: 68M5
@@ -149,10 +26,8 @@ directory: parts/hardware_bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth
 id: hardware_bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth
 id_no_class: bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth
-id_no_color: 85_mm_id_110_mm_od_13_mm_depth
 id_no_size: 61817_size_85_mm_id_110_mm_od_13_mm_depth
 id_no_type: 61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth](none)<br>[](none)<br>[Hardware
@@ -177,14 +51,11 @@ md5_6: 4b032c
 md5_6_alpha: 2xd7w
 md5_6_alpha_upper: 2XD7W
 md5_6_upper: 4B032C
-name: Hardware Bearing 61800 Series 61817 Size 85 mm ID 110 mm OD 13 mm Depth
-name_no_class: Bearing 61800 Series 61817 Size 85 mm ID 110 mm OD 13 mm Depth
-name_no_color: 85 mm ID 110 mm OD 13 mm Depth
-name_no_size: 61817 Size 85 mm ID 110 mm OD 13 mm Depth
+name: Hardware Bearing 61800 Series 61817 Size 85 Mm Id 110 Mm Od 13 Mm Depth
+name_no_class: Bearing 61800 Series 61817 Size 85 Mm Id 110 Mm Od 13 Mm Depth
+name_no_size: 61817 Size 85 Mm Id 110 Mm Od 13 Mm Depth
 name_no_size_short: 61817 Size 85 Mm Id 110 Mm Od 13 Mm Depth
-name_no_type: 61800 Series 61817 Size 85 mm ID 110 mm OD 13 mm Depth
-oomlout_short_code: br61817
-oomlout_short_code_upper: BR61817
+name_no_type: 61800 Series 61817 Size 85 Mm Id 110 Mm Od 13 Mm Depth
 oomp_key: oomp_hardware_bearing_61800_series_61817_size_85_mm_id_110_mm_od_13_mm_depth
 oomp_word: penguin grin snowflake
 oomp_word_emoji: ':penguin: :grin: :snowflake:'
@@ -200,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -208,61 +78,11 @@ size: 61800_series
 size_capital: 61800 Series
 size_first_letter: '6'
 size_first_letter_upper: '6'
-size_length_1: '6'
-size_length_2: '61'
-size_length_3: '618'
-size_length_4: '6180'
-size_length_5: '61800'
-size_length_6: '61800_'
-size_name: 61800 Series
-size_no_space_length_1: '6'
-size_no_space_length_2: '61'
-size_no_space_length_3: '618'
-size_no_space_length_4: '6180'
-size_no_space_length_5: '61800'
-size_no_space_length_6: 61800s
-size_no_space_upper_length_1: '6'
-size_no_space_upper_length_2: '61'
-size_no_space_upper_length_3: '618'
-size_no_space_upper_length_4: '6180'
-size_no_space_upper_length_5: '61800'
-size_no_space_upper_length_6: 61800S
 size_only_numbers: '61800'
 size_only_numbers_no_zeros: '618'
 size_upper: 61800_SERIES
-size_upper_length_1: '6'
-size_upper_length_2: '61'
-size_upper_length_3: '618'
-size_upper_length_4: '6180'
-size_upper_length_5: '61800'
-size_upper_length_6: '61800_'
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: be
-type_length_3: bea
-type_length_4: bear
-type_length_5: beari
-type_length_6: bearin
-type_name: Bearing
-type_no_space_length_1: b
-type_no_space_length_2: be
-type_no_space_length_3: bea
-type_no_space_length_4: bear
-type_no_space_length_5: beari
-type_no_space_length_6: bearin
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BE
-type_no_space_upper_length_3: BEA
-type_no_space_upper_length_4: BEAR
-type_no_space_upper_length_5: BEARI
-type_no_space_upper_length_6: BEARIN
 type_upper: BEARING
-type_upper_length_1: B
-type_upper_length_2: BE
-type_upper_length_3: BEA
-type_upper_length_4: BEAR
-type_upper_length_5: BEARI
-type_upper_length_6: BEARIN

@@ -1,123 +1,24 @@
-bip_39_word_dash_12: doll-wool-tower-spring-chaos-danger-road-shoulder-robust-purse-mom-act
-bip_39_word_dash_2: doll-wool
-bip_39_word_dash_3: doll-wool-tower
-bip_39_word_new_br_12: doll<br>wool<br>tower<br>spring<br>chaos<br>danger<br>road<br>shoulder<br>robust<br>purse<br>mom<br>act
-bip_39_word_new_br_2: doll<br>wool
-bip_39_word_new_br_3: doll<br>wool<br>tower
-bip_39_word_new_line_12: 'doll
-
-  wool
-
-  tower
-
-  spring
-
-  chaos
-
-  danger
-
-  road
-
-  shoulder
-
-  robust
-
-  purse
-
-  mom
-
-  act'
-bip_39_word_new_line_2: 'doll
-
-  wool'
-bip_39_word_new_line_3: 'doll
-
-  wool
-
-  tower'
-bip_39_word_no_space_12: dollwooltowerspringchaosdangerroadshoulderrobustpursemomact
-bip_39_word_no_space_2: dollwool
-bip_39_word_no_space_3: dollwooltower
-bip_39_word_space_12: doll wool tower spring chaos danger road shoulder robust purse
-  mom act
-bip_39_word_space_2: doll wool
-bip_39_word_space_3: doll wool tower
-bip_39_word_underscore_12: doll_wool_tower_spring_chaos_danger_road_shoulder_robust_purse_mom_act
-bip_39_word_underscore_2: doll_wool
-bip_39_word_underscore_3: doll_wool_tower
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: bay leaves
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: bay_leaves
 description_main_capital: Bay Leaves
 description_main_first_letter: b
 description_main_first_letter_upper: B
-description_main_length_1: b
-description_main_length_2: ba
-description_main_length_3: bay
-description_main_length_4: bay_
-description_main_length_5: bay_l
-description_main_length_6: bay_le
-description_main_name: Bay Leaves
-description_main_no_space_length_1: b
-description_main_no_space_length_2: ba
-description_main_no_space_length_3: bay
-description_main_no_space_length_4: bayl
-description_main_no_space_length_5: bayle
-description_main_no_space_length_6: baylea
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BA
-description_main_no_space_upper_length_3: BAY
-description_main_no_space_upper_length_4: BAYL
-description_main_no_space_upper_length_5: BAYLE
-description_main_no_space_upper_length_6: BAYLEA
 description_main_upper: BAY_LEAVES
-description_main_upper_length_1: B
-description_main_upper_length_2: BA
-description_main_upper_length_3: BAY
-description_main_upper_length_4: BAY_
-description_main_upper_length_5: BAY_L
-description_main_upper_length_6: BAY_LE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -126,10 +27,8 @@ directory: parts/food_seasoning_herb_bay_leaves
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_herb_bay_leaves
 id: food_seasoning_herb_bay_leaves
 id_no_class: seasoning_herb_bay_leaves
-id_no_color: bayleaves
 id_no_size: bay_leaves
 id_no_type: herb_bay_leaves
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_bay_leaves
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_seasoning_herb_bay_leaves](none)<br>[](none)<br>[Food Seasoning
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 1IY0B
 md5_6_upper: 271DAB
 name: Food Seasoning Herb Bay Leaves
 name_no_class: Seasoning Herb Bay Leaves
-name_no_color: Bayleaves
 name_no_size: Bay Leaves
 name_no_size_short: Bay Leaves
 name_no_type: Herb Bay Leaves
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: herb
 size_capital: Herb
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: her
-size_length_4: herb
-size_length_5: herb
-size_length_6: herb
-size_name: Herb
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: her
-size_no_space_length_4: herb
-size_no_space_length_5: herb
-size_no_space_length_6: herb
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HER
-size_no_space_upper_length_4: HERB
-size_no_space_upper_length_5: HERB
-size_no_space_upper_length_6: HERB
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HERB
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HER
-size_upper_length_4: HERB
-size_upper_length_5: HERB
-size_upper_length_6: HERB
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: se
-type_length_3: sea
-type_length_4: seas
-type_length_5: seaso
-type_length_6: season
-type_name: Seasoning
-type_no_space_length_1: s
-type_no_space_length_2: se
-type_no_space_length_3: sea
-type_no_space_length_4: seas
-type_no_space_length_5: seaso
-type_no_space_length_6: season
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SE
-type_no_space_upper_length_3: SEA
-type_no_space_upper_length_4: SEAS
-type_no_space_upper_length_5: SEASO
-type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
-type_upper_length_1: S
-type_upper_length_2: SE
-type_upper_length_3: SEA
-type_upper_length_4: SEAS
-type_upper_length_5: SEASO
-type_upper_length_6: SEASON

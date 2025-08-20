@@ -1,146 +1,23 @@
-bip_39_word_dash_12: immune-quote-armor-seat-device-affair-card-risk-wolf-canal-smoke-apology
-bip_39_word_dash_2: immune-quote
-bip_39_word_dash_3: immune-quote-armor
-bip_39_word_new_br_12: immune<br>quote<br>armor<br>seat<br>device<br>affair<br>card<br>risk<br>wolf<br>canal<br>smoke<br>apology
-bip_39_word_new_br_2: immune<br>quote
-bip_39_word_new_br_3: immune<br>quote<br>armor
-bip_39_word_new_line_12: 'immune
-
-  quote
-
-  armor
-
-  seat
-
-  device
-
-  affair
-
-  card
-
-  risk
-
-  wolf
-
-  canal
-
-  smoke
-
-  apology'
-bip_39_word_new_line_2: 'immune
-
-  quote'
-bip_39_word_new_line_3: 'immune
-
-  quote
-
-  armor'
-bip_39_word_no_space_12: immunequotearmorseatdeviceaffaircardriskwolfcanalsmokeapology
-bip_39_word_no_space_2: immunequote
-bip_39_word_no_space_3: immunequotearmor
-bip_39_word_space_12: immune quote armor seat device affair card risk wolf canal smoke
-  apology
-bip_39_word_space_2: immune quote
-bip_39_word_space_3: immune quote armor
-bip_39_word_underscore_12: immune_quote_armor_seat_device_affair_card_risk_wolf_canal_smoke_apology
-bip_39_word_underscore_2: immune_quote
-bip_39_word_underscore_3: immune_quote_armor
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: loom
 color_capital: Loom
 color_first_letter: l
 color_first_letter_upper: L
-color_length_1: l
-color_length_2: lo
-color_length_3: loo
-color_length_4: loom
-color_length_5: loom
-color_length_6: loom
-color_name: Loom
-color_no_space_length_1: l
-color_no_space_length_2: lo
-color_no_space_length_3: loo
-color_no_space_length_4: loom
-color_no_space_length_5: loom
-color_no_space_length_6: loom
-color_no_space_upper_length_1: L
-color_no_space_upper_length_2: LO
-color_no_space_upper_length_3: LOO
-color_no_space_upper_length_4: LOOM
-color_no_space_upper_length_5: LOOM
-color_no_space_upper_length_6: LOOM
 color_upper: LOOM
-color_upper_length_1: L
-color_upper_length_2: LO
-color_upper_length_3: LOO
-color_upper_length_4: LOOM
-color_upper_length_5: LOOM
-color_upper_length_6: LOOM
 description: category_craft
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_craft_bead_loom_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_bead_loom_tote
 id: category_craft_bead_loom_tote
 id_no_class: craft_bead_loom_tote
-id_no_color: tote
 id_no_size: loom_tote
 id_no_type: bead_loom_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_bead_loom_tote](none)<br>[](none)<br>[Category Craft
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 6JF60
 md5_6_upper: A79988
 name: Category Craft Bead Loom Tote
 name_no_class: Craft Bead Loom Tote
-name_no_color: Tote
 name_no_size: Loom Tote
 name_no_size_short: Loom Tote
 name_no_type: Bead Loom Tote
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: bead
 size_capital: Bead
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: be
-size_length_3: bea
-size_length_4: bead
-size_length_5: bead
-size_length_6: bead
-size_name: Bead
-size_no_space_length_1: b
-size_no_space_length_2: be
-size_no_space_length_3: bea
-size_no_space_length_4: bead
-size_no_space_length_5: bead
-size_no_space_length_6: bead
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BE
-size_no_space_upper_length_3: BEA
-size_no_space_upper_length_4: BEAD
-size_no_space_upper_length_5: BEAD
-size_no_space_upper_length_6: BEAD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BEAD
-size_upper_length_1: B
-size_upper_length_2: BE
-size_upper_length_3: BEA
-size_upper_length_4: BEAD
-size_upper_length_5: BEAD
-size_upper_length_6: BEAD
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cr
-type_length_3: cra
-type_length_4: craf
-type_length_5: craft
-type_length_6: craft
-type_name: Craft
-type_no_space_length_1: c
-type_no_space_length_2: cr
-type_no_space_length_3: cra
-type_no_space_length_4: craf
-type_no_space_length_5: craft
-type_no_space_length_6: craft
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CR
-type_no_space_upper_length_3: CRA
-type_no_space_upper_length_4: CRAF
-type_no_space_upper_length_5: CRAFT
-type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
-type_upper_length_1: C
-type_upper_length_2: CR
-type_upper_length_3: CRA
-type_upper_length_4: CRAF
-type_upper_length_5: CRAFT
-type_upper_length_6: CRAFT

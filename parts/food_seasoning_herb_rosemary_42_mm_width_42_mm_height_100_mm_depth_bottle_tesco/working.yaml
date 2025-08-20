@@ -1,147 +1,24 @@
-bip_39_word_dash_12: march-rule-gravity-flock-assist-allow-husband-chair-minor-purchase-snack-assist
-bip_39_word_dash_2: march-rule
-bip_39_word_dash_3: march-rule-gravity
-bip_39_word_new_br_12: march<br>rule<br>gravity<br>flock<br>assist<br>allow<br>husband<br>chair<br>minor<br>purchase<br>snack<br>assist
-bip_39_word_new_br_2: march<br>rule
-bip_39_word_new_br_3: march<br>rule<br>gravity
-bip_39_word_new_line_12: 'march
-
-  rule
-
-  gravity
-
-  flock
-
-  assist
-
-  allow
-
-  husband
-
-  chair
-
-  minor
-
-  purchase
-
-  snack
-
-  assist'
-bip_39_word_new_line_2: 'march
-
-  rule'
-bip_39_word_new_line_3: 'march
-
-  rule
-
-  gravity'
-bip_39_word_no_space_12: marchrulegravityflockassistallowhusbandchairminorpurchasesnackassist
-bip_39_word_no_space_2: marchrule
-bip_39_word_no_space_3: marchrulegravity
-bip_39_word_space_12: march rule gravity flock assist allow husband chair minor purchase
-  snack assist
-bip_39_word_space_2: march rule
-bip_39_word_space_3: march rule gravity
-bip_39_word_underscore_12: march_rule_gravity_flock_assist_allow_husband_chair_minor_purchase_snack_assist
-bip_39_word_underscore_2: march_rule
-bip_39_word_underscore_3: march_rule_gravity
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: rosemary
 description_extra: 42_mm_width_42_mm_height_100_mm_depth_bottle
 description_extra_capital: 42 mm Width 42 mm Height 100 mm Depth Bottle
 description_extra_first_letter: '4'
 description_extra_first_letter_upper: '4'
-description_extra_length_1: '4'
-description_extra_length_2: '42'
-description_extra_length_3: '42_'
-description_extra_length_4: 42_m
-description_extra_length_5: 42_mm
-description_extra_length_6: 42_mm_
-description_extra_name: 42 mm Width 42 mm Height 100 mm Depth Bottle
-description_extra_no_space_length_1: '4'
-description_extra_no_space_length_2: '42'
-description_extra_no_space_length_3: 42m
-description_extra_no_space_length_4: 42mm
-description_extra_no_space_length_5: 42mmw
-description_extra_no_space_length_6: 42mmwi
-description_extra_no_space_upper_length_1: '4'
-description_extra_no_space_upper_length_2: '42'
-description_extra_no_space_upper_length_3: 42M
-description_extra_no_space_upper_length_4: 42MM
-description_extra_no_space_upper_length_5: 42MMW
-description_extra_no_space_upper_length_6: 42MMWI
 description_extra_upper: 42_MM_WIDTH_42_MM_HEIGHT_100_MM_DEPTH_BOTTLE
-description_extra_upper_length_1: '4'
-description_extra_upper_length_2: '42'
-description_extra_upper_length_3: '42_'
-description_extra_upper_length_4: 42_M
-description_extra_upper_length_5: 42_MM
-description_extra_upper_length_6: 42_MM_
 description_main: rosemary
 description_main_capital: Rosemary
 description_main_first_letter: r
 description_main_first_letter_upper: R
-description_main_length_1: r
-description_main_length_2: ro
-description_main_length_3: ros
-description_main_length_4: rose
-description_main_length_5: rosem
-description_main_length_6: rosema
-description_main_name: Rosemary
-description_main_no_space_length_1: r
-description_main_no_space_length_2: ro
-description_main_no_space_length_3: ros
-description_main_no_space_length_4: rose
-description_main_no_space_length_5: rosem
-description_main_no_space_length_6: rosema
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RO
-description_main_no_space_upper_length_3: ROS
-description_main_no_space_upper_length_4: ROSE
-description_main_no_space_upper_length_5: ROSEM
-description_main_no_space_upper_length_6: ROSEMA
 description_main_upper: ROSEMARY
-description_main_upper_length_1: R
-description_main_upper_length_2: RO
-description_main_upper_length_3: ROS
-description_main_upper_length_4: ROSE
-description_main_upper_length_5: ROSEM
-description_main_upper_length_6: ROSEMA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -150,10 +27,8 @@ directory: parts/food_seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_de
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
 id: food_seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
 id_no_class: seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
-id_no_color: rosemary42mmwidth42mmheight100mmdepthbottletesco
 id_no_size: rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
 id_no_type: herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
@@ -163,32 +38,7 @@ manufacturer: tesco
 manufacturer_capital: Tesco
 manufacturer_first_letter: t
 manufacturer_first_letter_upper: T
-manufacturer_length_1: t
-manufacturer_length_2: te
-manufacturer_length_3: tes
-manufacturer_length_4: tesc
-manufacturer_length_5: tesco
-manufacturer_length_6: tesco
-manufacturer_name: Tesco
-manufacturer_no_space_length_1: t
-manufacturer_no_space_length_2: te
-manufacturer_no_space_length_3: tes
-manufacturer_no_space_length_4: tesc
-manufacturer_no_space_length_5: tesco
-manufacturer_no_space_length_6: tesco
-manufacturer_no_space_upper_length_1: T
-manufacturer_no_space_upper_length_2: TE
-manufacturer_no_space_upper_length_3: TES
-manufacturer_no_space_upper_length_4: TESC
-manufacturer_no_space_upper_length_5: TESCO
-manufacturer_no_space_upper_length_6: TESCO
 manufacturer_upper: TESCO
-manufacturer_upper_length_1: T
-manufacturer_upper_length_2: TE
-manufacturer_upper_length_3: TES
-manufacturer_upper_length_4: TESC
-manufacturer_upper_length_5: TESCO
-manufacturer_upper_length_6: TESCO
 manufacturers: []
 markdown_full: '[food_seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br>[](none)<br>[Food
   Seasoning Herb Rosemary 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco](none)<br><br>'
@@ -202,13 +52,12 @@ md5_6: dd9a2b
 md5_6_alpha: 8n9yj
 md5_6_alpha_upper: 8N9YJ
 md5_6_upper: DD9A2B
-name: Food Seasoning Herb Rosemary 42 mm Width 42 mm Height 100 mm Depth Bottle Tesco
-name_no_class: Seasoning Herb Rosemary 42 mm Width 42 mm Height 100 mm Depth Bottle
+name: Food Seasoning Herb Rosemary 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_class: Seasoning Herb Rosemary 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
   Tesco
-name_no_color: Rosemary42mmwidth42mmheight100mmdepthbottletesco
-name_no_size: Rosemary 42 mm Width 42 mm Height 100 mm Depth Bottle Tesco
+name_no_size: Rosemary 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
 name_no_size_short: Rosemary 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
-name_no_type: Herb Rosemary 42 mm Width 42 mm Height 100 mm Depth Bottle Tesco
+name_no_type: Herb Rosemary 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
 name_short: Rosemary
 oomp_key: oomp_food_seasoning_herb_rosemary_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
 oomp_word: stars golf cloud
@@ -225,7 +74,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -233,61 +81,11 @@ size: herb
 size_capital: Herb
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: her
-size_length_4: herb
-size_length_5: herb
-size_length_6: herb
-size_name: Herb
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: her
-size_no_space_length_4: herb
-size_no_space_length_5: herb
-size_no_space_length_6: herb
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HER
-size_no_space_upper_length_4: HERB
-size_no_space_upper_length_5: HERB
-size_no_space_upper_length_6: HERB
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HERB
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HER
-size_upper_length_4: HERB
-size_upper_length_5: HERB
-size_upper_length_6: HERB
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: se
-type_length_3: sea
-type_length_4: seas
-type_length_5: seaso
-type_length_6: season
-type_name: Seasoning
-type_no_space_length_1: s
-type_no_space_length_2: se
-type_no_space_length_3: sea
-type_no_space_length_4: seas
-type_no_space_length_5: seaso
-type_no_space_length_6: season
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SE
-type_no_space_upper_length_3: SEA
-type_no_space_upper_length_4: SEAS
-type_no_space_upper_length_5: SEASO
-type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
-type_upper_length_1: S
-type_upper_length_2: SE
-type_upper_length_3: SEA
-type_upper_length_4: SEAS
-type_upper_length_5: SEASO
-type_upper_length_6: SEASON

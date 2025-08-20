@@ -1,156 +1,31 @@
-bip_39_word_dash_12: drink-rhythm-divert-habit-latin-labor-thumb-opera-unfair-trust-grief-admit
-bip_39_word_dash_2: drink-rhythm
-bip_39_word_dash_3: drink-rhythm-divert
-bip_39_word_new_br_12: drink<br>rhythm<br>divert<br>habit<br>latin<br>labor<br>thumb<br>opera<br>unfair<br>trust<br>grief<br>admit
-bip_39_word_new_br_2: drink<br>rhythm
-bip_39_word_new_br_3: drink<br>rhythm<br>divert
-bip_39_word_new_line_12: 'drink
-
-  rhythm
-
-  divert
-
-  habit
-
-  latin
-
-  labor
-
-  thumb
-
-  opera
-
-  unfair
-
-  trust
-
-  grief
-
-  admit'
-bip_39_word_new_line_2: 'drink
-
-  rhythm'
-bip_39_word_new_line_3: 'drink
-
-  rhythm
-
-  divert'
-bip_39_word_no_space_12: drinkrhythmdiverthabitlatinlaborthumboperaunfairtrustgriefadmit
-bip_39_word_no_space_2: drinkrhythm
-bip_39_word_no_space_3: drinkrhythmdivert
-bip_39_word_space_12: drink rhythm divert habit latin labor thumb opera unfair trust
-  grief admit
-bip_39_word_space_2: drink rhythm
-bip_39_word_space_3: drink rhythm divert
-bip_39_word_underscore_12: drink_rhythm_divert_habit_latin_labor_thumb_opera_unfair_trust_grief_admit
-bip_39_word_underscore_2: drink_rhythm
-bip_39_word_underscore_3: drink_rhythm_divert
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: o_extra
 description_extra_capital: O Extra
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: o_
-description_extra_length_3: o_e
-description_extra_length_4: o_ex
-description_extra_length_5: o_ext
-description_extra_length_6: o_extr
-description_extra_name: O Extra
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: oe
-description_extra_no_space_length_3: oex
-description_extra_no_space_length_4: oext
-description_extra_no_space_length_5: oextr
-description_extra_no_space_length_6: oextra
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OE
-description_extra_no_space_upper_length_3: OEX
-description_extra_no_space_upper_length_4: OEXT
-description_extra_no_space_upper_length_5: OEXTR
-description_extra_no_space_upper_length_6: OEXTRA
 description_extra_upper: O_EXTRA
-description_extra_upper_length_1: O
-description_extra_upper_length_2: O_
-description_extra_upper_length_3: O_E
-description_extra_upper_length_4: O_EX
-description_extra_upper_length_5: O_EXT
-description_extra_upper_length_6: O_EXTR
 description_main: 3_width_1_mm_depth
 description_main_capital: 3 Width 1 mm Depth
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '3_'
-description_main_length_3: 3_w
-description_main_length_4: 3_wi
-description_main_length_5: 3_wid
-description_main_length_6: 3_widt
-description_main_name: 3 Width 1 mm Depth
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: 3w
-description_main_no_space_length_3: 3wi
-description_main_no_space_length_4: 3wid
-description_main_no_space_length_5: 3widt
-description_main_no_space_length_6: 3width
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: 3W
-description_main_no_space_upper_length_3: 3WI
-description_main_no_space_upper_length_4: 3WID
-description_main_no_space_upper_length_5: 3WIDT
-description_main_no_space_upper_length_6: 3WIDTH
 description_main_upper: 3_WIDTH_1_MM_DEPTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '3_'
-description_main_upper_length_3: 3_W
-description_main_upper_length_4: 3_WI
-description_main_upper_length_5: 3_WID
-description_main_upper_length_6: 3_WIDT
 description_only_numbers: '31'
 description_only_numbers_short: '31'
 description_or_color: '31'
 description_or_color_upper: '31'
 directory: parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_o_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_o_extra
 id: oobb_part_bunting_alphabet_3_width_1_mm_depth_o_extra
 id_no_class: part_bunting_alphabet_3_width_1_mm_depth_o_extra
-id_no_color: 3width1mmdepthoextra
 id_no_size: 3_width_1_mm_depth_o_extra
 id_no_type: bunting_alphabet_3_width_1_mm_depth_o_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_3_width_1_mm_depth_o_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_bunting_alphabet_3_width_1_mm_depth_o_extra](none)<br>[](none)<br>[Oobb
@@ -175,12 +49,11 @@ md5_6: 3acd3a
 md5_6_alpha: 2alh6
 md5_6_alpha_upper: 2ALH6
 md5_6_upper: 3ACD3A
-name: Oobb Part Bunting Alphabet 3 Width 1 mm Depth O Extra
-name_no_class: Part Bunting Alphabet 3 Width 1 mm Depth O Extra
-name_no_color: 3Width1mmdepthoextra
-name_no_size: 3 Width 1 mm Depth O Extra
+name: Oobb Part Bunting Alphabet 3 Width 1 Mm Depth O Extra
+name_no_class: Part Bunting Alphabet 3 Width 1 Mm Depth O Extra
+name_no_size: 3 Width 1 Mm Depth O Extra
 name_no_size_short: 3 Width 1 Mm Depth O Extra
-name_no_type: Bunting Alphabet 3 Width 1 mm Depth O Extra
+name_no_type: Bunting Alphabet 3 Width 1 Mm Depth O Extra
 oomp_key: oomp_oobb_part_bunting_alphabet_3_width_1_mm_depth_o_extra
 oomp_word: koala strawberry koala
 oomp_word_emoji: ':koala: :strawberry: :koala:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: bunting_alphabet
 size_capital: Bunting Alphabet
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: bu
-size_length_3: bun
-size_length_4: bunt
-size_length_5: bunti
-size_length_6: buntin
-size_name: Bunting Alphabet
-size_no_space_length_1: b
-size_no_space_length_2: bu
-size_no_space_length_3: bun
-size_no_space_length_4: bunt
-size_no_space_length_5: bunti
-size_no_space_length_6: buntin
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BU
-size_no_space_upper_length_3: BUN
-size_no_space_upper_length_4: BUNT
-size_no_space_upper_length_5: BUNTI
-size_no_space_upper_length_6: BUNTIN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BUNTING_ALPHABET
-size_upper_length_1: B
-size_upper_length_2: BU
-size_upper_length_3: BUN
-size_upper_length_4: BUNT
-size_upper_length_5: BUNTI
-size_upper_length_6: BUNTIN
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

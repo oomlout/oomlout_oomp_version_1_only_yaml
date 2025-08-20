@@ -1,123 +1,24 @@
-bip_39_word_dash_12: gentle-defy-hat-senior-brick-inhale-error-call-decorate-enjoy-uniform-average
-bip_39_word_dash_2: gentle-defy
-bip_39_word_dash_3: gentle-defy-hat
-bip_39_word_new_br_12: gentle<br>defy<br>hat<br>senior<br>brick<br>inhale<br>error<br>call<br>decorate<br>enjoy<br>uniform<br>average
-bip_39_word_new_br_2: gentle<br>defy
-bip_39_word_new_br_3: gentle<br>defy<br>hat
-bip_39_word_new_line_12: 'gentle
-
-  defy
-
-  hat
-
-  senior
-
-  brick
-
-  inhale
-
-  error
-
-  call
-
-  decorate
-
-  enjoy
-
-  uniform
-
-  average'
-bip_39_word_new_line_2: 'gentle
-
-  defy'
-bip_39_word_new_line_3: 'gentle
-
-  defy
-
-  hat'
-bip_39_word_no_space_12: gentledefyhatseniorbrickinhaleerrorcalldecorateenjoyuniformaverage
-bip_39_word_no_space_2: gentledefy
-bip_39_word_no_space_3: gentledefyhat
-bip_39_word_space_12: gentle defy hat senior brick inhale error call decorate enjoy
-  uniform average
-bip_39_word_space_2: gentle defy
-bip_39_word_space_3: gentle defy hat
-bip_39_word_underscore_12: gentle_defy_hat_senior_brick_inhale_error_call_decorate_enjoy_uniform_average
-bip_39_word_underscore_2: gentle_defy
-bip_39_word_underscore_3: gentle_defy_hat
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: to
-classification_length_3: toy
-classification_length_4: toy
-classification_length_5: toy
-classification_length_6: toy
-classification_name: Toy
-classification_no_space_length_1: t
-classification_no_space_length_2: to
-classification_no_space_length_3: toy
-classification_no_space_length_4: toy
-classification_no_space_length_5: toy
-classification_no_space_length_6: toy
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TO
-classification_no_space_upper_length_3: TOY
-classification_no_space_upper_length_4: TOY
-classification_no_space_upper_length_5: TOY
-classification_no_space_upper_length_6: TOY
 classification_upper: TOY
-classification_upper_length_1: T
-classification_upper_length_2: TO
-classification_upper_length_3: TOY
-classification_upper_length_4: TOY
-classification_upper_length_5: TOY
-classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 description_main_capital: 4 Channel Battery Included 32 mm Width 64 mm Height 30 mm
   Depth
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
-description_main_length_1: '4'
-description_main_length_2: '4_'
-description_main_length_3: 4_c
-description_main_length_4: 4_ch
-description_main_length_5: 4_cha
-description_main_length_6: 4_chan
-description_main_name: 4 Channel Battery Included 32 mm Width 64 mm Height 30 mm Depth
-description_main_no_space_length_1: '4'
-description_main_no_space_length_2: 4c
-description_main_no_space_length_3: 4ch
-description_main_no_space_length_4: 4cha
-description_main_no_space_length_5: 4chan
-description_main_no_space_length_6: 4chann
-description_main_no_space_upper_length_1: '4'
-description_main_no_space_upper_length_2: 4C
-description_main_no_space_upper_length_3: 4CH
-description_main_no_space_upper_length_4: 4CHA
-description_main_no_space_upper_length_5: 4CHAN
-description_main_no_space_upper_length_6: 4CHANN
 description_main_upper: 4_CHANNEL_BATTERY_INCLUDED_32_MM_WIDTH_64_MM_HEIGHT_30_MM_DEPTH
-description_main_upper_length_1: '4'
-description_main_upper_length_2: '4_'
-description_main_upper_length_3: 4_C
-description_main_upper_length_4: 4_CH
-description_main_upper_length_5: 4_CHA
-description_main_upper_length_6: 4_CHAN
 description_only_numbers: '4326430'
 description_only_numbers_short: 4M3
 description_or_color: 4M3
@@ -125,10 +26,8 @@ description_or_color_upper: 4M3
 directory: parts/toy_remote_control_building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 distributor_aliexpress: '1005007006131635'
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_remote_control_building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 id: toy_remote_control_building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 id_no_class: remote_control_building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
-id_no_color: 4channelbatteryincluded32mmwidth64mmheight30mmdepth
 id_no_size: 4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 id_no_type: building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007006131635.html
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_remote_control_building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth](none)<br>[](none)<br>[Toy
@@ -155,15 +53,14 @@ md5_6: fddad2
 md5_6_alpha: 9wkwi
 md5_6_alpha_upper: 9WKWI
 md5_6_upper: FDDAD2
-name: Toy Remote Control Building Block Compatible 4 Channel Battery Included 32 mm
-  Width 64 mm Height 30 mm Depth
+name: Toy Remote Control Building Block Compatible 4 Channel Battery Included 32 Mm
+  Width 64 Mm Height 30 Mm Depth
 name_no_class: Remote Control Building Block Compatible 4 Channel Battery Included
-  32 mm Width 64 mm Height 30 mm Depth
-name_no_color: 4Channelbatteryincluded32mmwidth64mmheight30mmdepth
-name_no_size: 4 Channel Battery Included 32 mm Width 64 mm Height 30 mm Depth
+  32 Mm Width 64 Mm Height 30 Mm Depth
+name_no_size: 4 Channel Battery Included 32 Mm Width 64 Mm Height 30 Mm Depth
 name_no_size_short: 4 Channel Battery Included 32 Mm Width 64 Mm Height 30 Mm Depth
-name_no_type: Building Block Compatible 4 Channel Battery Included 32 mm Width 64
-  mm Height 30 mm Depth
+name_no_type: Building Block Compatible 4 Channel Battery Included 32 Mm Width 64
+  Mm Height 30 Mm Depth
 oomp_key: oomp_toy_remote_control_building_block_compatible_4_channel_battery_included_32_mm_width_64_mm_height_30_mm_depth
 oomp_word: parking hotel pineapple
 oomp_word_emoji: ':parking: :hotel: :pineapple:'
@@ -179,7 +76,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -187,61 +83,11 @@ size: building_block_compatible
 size_capital: Building Block Compatible
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: bu
-size_length_3: bui
-size_length_4: buil
-size_length_5: build
-size_length_6: buildi
-size_name: Building Block Compatible
-size_no_space_length_1: b
-size_no_space_length_2: bu
-size_no_space_length_3: bui
-size_no_space_length_4: buil
-size_no_space_length_5: build
-size_no_space_length_6: buildi
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BU
-size_no_space_upper_length_3: BUI
-size_no_space_upper_length_4: BUIL
-size_no_space_upper_length_5: BUILD
-size_no_space_upper_length_6: BUILDI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BUILDING_BLOCK_COMPATIBLE
-size_upper_length_1: B
-size_upper_length_2: BU
-size_upper_length_3: BUI
-size_upper_length_4: BUIL
-size_upper_length_5: BUILD
-size_upper_length_6: BUILDI
 type: remote_control
 type_capital: Remote Control
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: rem
-type_length_4: remo
-type_length_5: remot
-type_length_6: remote
-type_name: Remote Control
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: rem
-type_no_space_length_4: remo
-type_no_space_length_5: remot
-type_no_space_length_6: remote
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: REM
-type_no_space_upper_length_4: REMO
-type_no_space_upper_length_5: REMOT
-type_no_space_upper_length_6: REMOTE
 type_upper: REMOTE_CONTROL
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: REM
-type_upper_length_4: REMO
-type_upper_length_5: REMOT
-type_upper_length_6: REMOTE

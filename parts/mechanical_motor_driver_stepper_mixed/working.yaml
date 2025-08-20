@@ -1,132 +1,31 @@
-bip_39_word_dash_12: primary-elder-vital-grow-lava-crash-school-tell-unfold-time-buyer-actor
-bip_39_word_dash_2: primary-elder
-bip_39_word_dash_3: primary-elder-vital
-bip_39_word_new_br_12: primary<br>elder<br>vital<br>grow<br>lava<br>crash<br>school<br>tell<br>unfold<br>time<br>buyer<br>actor
-bip_39_word_new_br_2: primary<br>elder
-bip_39_word_new_br_3: primary<br>elder<br>vital
-bip_39_word_new_line_12: 'primary
-
-  elder
-
-  vital
-
-  grow
-
-  lava
-
-  crash
-
-  school
-
-  tell
-
-  unfold
-
-  time
-
-  buyer
-
-  actor'
-bip_39_word_new_line_2: 'primary
-
-  elder'
-bip_39_word_new_line_3: 'primary
-
-  elder
-
-  vital'
-bip_39_word_no_space_12: primaryeldervitalgrowlavacrashschooltellunfoldtimebuyeractor
-bip_39_word_no_space_2: primaryelder
-bip_39_word_no_space_3: primaryeldervital
-bip_39_word_space_12: primary elder vital grow lava crash school tell unfold time
-  buyer actor
-bip_39_word_space_2: primary elder
-bip_39_word_space_3: primary elder vital
-bip_39_word_underscore_12: primary_elder_vital_grow_lava_crash_school_tell_unfold_time_buyer_actor
-bip_39_word_underscore_2: primary_elder
-bip_39_word_underscore_3: primary_elder_vital
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
-classification_length_1: m
-classification_length_2: me
-classification_length_3: mec
-classification_length_4: mech
-classification_length_5: mecha
-classification_length_6: mechan
-classification_name: Mechanical
-classification_no_space_length_1: m
-classification_no_space_length_2: me
-classification_no_space_length_3: mec
-classification_no_space_length_4: mech
-classification_no_space_length_5: mecha
-classification_no_space_length_6: mechan
-classification_no_space_upper_length_1: M
-classification_no_space_upper_length_2: ME
-classification_no_space_upper_length_3: MEC
-classification_no_space_upper_length_4: MECH
-classification_no_space_upper_length_5: MECHA
-classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
-classification_upper_length_1: M
-classification_upper_length_2: ME
-classification_upper_length_3: MEC
-classification_upper_length_4: MECH
-classification_upper_length_5: MECHA
-classification_upper_length_6: MECHAN
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: mi
-description_main_length_3: mix
-description_main_length_4: mixe
-description_main_length_5: mixed
-description_main_length_6: mixed
-description_main_name: Mixed
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mi
-description_main_no_space_length_3: mix
-description_main_no_space_length_4: mixe
-description_main_no_space_length_5: mixed
-description_main_no_space_length_6: mixed
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MI
-description_main_no_space_upper_length_3: MIX
-description_main_no_space_upper_length_4: MIXE
-description_main_no_space_upper_length_5: MIXED
-description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
-description_main_upper_length_1: M
-description_main_upper_length_2: MI
-description_main_upper_length_3: MIX
-description_main_upper_length_4: MIXE
-description_main_upper_length_5: MIXED
-description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_motor_driver_stepper_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_driver_stepper_mixed
 id: mechanical_motor_driver_stepper_mixed
 id_no_class: motor_driver_stepper_mixed
-id_no_color: mixed
 id_no_size: mixed
 id_no_type: stepper_mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_driver_stepper_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_motor_driver_stepper_mixed](none)<br>[](none)<br>[Mechanical
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 1NCAG
 md5_6_upper: 2A3EF8
 name: Mechanical Motor Driver Stepper Mixed
 name_no_class: Motor Driver Stepper Mixed
-name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Stepper Mixed
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,61 +77,11 @@ size: stepper
 size_capital: Stepper
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: ste
-size_length_4: step
-size_length_5: stepp
-size_length_6: steppe
-size_name: Stepper
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: ste
-size_no_space_length_4: step
-size_no_space_length_5: stepp
-size_no_space_length_6: steppe
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STE
-size_no_space_upper_length_4: STEP
-size_no_space_upper_length_5: STEPP
-size_no_space_upper_length_6: STEPPE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STEPPER
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STE
-size_upper_length_4: STEP
-size_upper_length_5: STEPP
-size_upper_length_6: STEPPE
 type: motor_driver
 type_capital: Motor Driver
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: mo
-type_length_3: mot
-type_length_4: moto
-type_length_5: motor
-type_length_6: motor_
-type_name: Motor Driver
-type_no_space_length_1: m
-type_no_space_length_2: mo
-type_no_space_length_3: mot
-type_no_space_length_4: moto
-type_no_space_length_5: motor
-type_no_space_length_6: motord
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: MO
-type_no_space_upper_length_3: MOT
-type_no_space_upper_length_4: MOTO
-type_no_space_upper_length_5: MOTOR
-type_no_space_upper_length_6: MOTORD
 type_upper: MOTOR_DRIVER
-type_upper_length_1: M
-type_upper_length_2: MO
-type_upper_length_3: MOT
-type_upper_length_4: MOTO
-type_upper_length_5: MOTOR
-type_upper_length_6: MOTOR_

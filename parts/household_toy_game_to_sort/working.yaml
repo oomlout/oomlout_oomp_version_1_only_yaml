@@ -1,122 +1,23 @@
-bip_39_word_dash_12: total-shrimp-inside-slight-angry-cushion-task-frost-together-toddler-spoil-accident
-bip_39_word_dash_2: total-shrimp
-bip_39_word_dash_3: total-shrimp-inside
-bip_39_word_new_br_12: total<br>shrimp<br>inside<br>slight<br>angry<br>cushion<br>task<br>frost<br>together<br>toddler<br>spoil<br>accident
-bip_39_word_new_br_2: total<br>shrimp
-bip_39_word_new_br_3: total<br>shrimp<br>inside
-bip_39_word_new_line_12: 'total
-
-  shrimp
-
-  inside
-
-  slight
-
-  angry
-
-  cushion
-
-  task
-
-  frost
-
-  together
-
-  toddler
-
-  spoil
-
-  accident'
-bip_39_word_new_line_2: 'total
-
-  shrimp'
-bip_39_word_new_line_3: 'total
-
-  shrimp
-
-  inside'
-bip_39_word_no_space_12: totalshrimpinsideslightangrycushiontaskfrosttogethertoddlerspoilaccident
-bip_39_word_no_space_2: totalshrimp
-bip_39_word_no_space_3: totalshrimpinside
-bip_39_word_space_12: total shrimp inside slight angry cushion task frost together
-  toddler spoil accident
-bip_39_word_space_2: total shrimp
-bip_39_word_space_3: total shrimp inside
-bip_39_word_underscore_12: total_shrimp_inside_slight_angry_cushion_task_frost_together_toddler_spoil_accident
-bip_39_word_underscore_2: total_shrimp
-bip_39_word_underscore_3: total_shrimp_inside
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ho
-classification_length_3: hou
-classification_length_4: hous
-classification_length_5: house
-classification_length_6: househ
-classification_name: Household Toy
-classification_no_space_length_1: h
-classification_no_space_length_2: ho
-classification_no_space_length_3: hou
-classification_no_space_length_4: hous
-classification_no_space_length_5: house
-classification_no_space_length_6: househ
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HO
-classification_no_space_upper_length_3: HOU
-classification_no_space_upper_length_4: HOUS
-classification_no_space_upper_length_5: HOUSE
-classification_no_space_upper_length_6: HOUSEH
 classification_upper: HOUSEHOLD_TOY
-classification_upper_length_1: H
-classification_upper_length_2: HO
-classification_upper_length_3: HOU
-classification_upper_length_4: HOUS
-classification_upper_length_5: HOUSE
-classification_upper_length_6: HOUSEH
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: to_sort
 description_main_capital: To Sort
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: to
-description_main_length_3: to_
-description_main_length_4: to_s
-description_main_length_5: to_so
-description_main_length_6: to_sor
-description_main_name: To Sort
-description_main_no_space_length_1: t
-description_main_no_space_length_2: to
-description_main_no_space_length_3: tos
-description_main_no_space_length_4: toso
-description_main_no_space_length_5: tosor
-description_main_no_space_length_6: tosort
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TO
-description_main_no_space_upper_length_3: TOS
-description_main_no_space_upper_length_4: TOSO
-description_main_no_space_upper_length_5: TOSOR
-description_main_no_space_upper_length_6: TOSORT
 description_main_upper: TO_SORT
-description_main_upper_length_1: T
-description_main_upper_length_2: TO
-description_main_upper_length_3: TO_
-description_main_upper_length_4: TO_S
-description_main_upper_length_5: TO_SO
-description_main_upper_length_6: TO_SOR
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -125,10 +26,8 @@ directory: parts/household_toy_game_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_game_to_sort
 id: household_toy_game_to_sort
 id_no_class: game_to_sort
-id_no_color: tosort
 id_no_size: tosort
 id_no_type: to_sort
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_game_to_sort
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[household_toy_game_to_sort](none)<br>[](none)<br>[Household Toy Game
@@ -155,7 +53,6 @@ md5_6_alpha_upper: X7LK
 md5_6_upper: 17A4B8
 name: Household Toy Game To Sort
 name_no_class: Game To Sort
-name_no_color: Tosort
 name_no_size: Tosort
 name_no_size_short: Tosort
 name_no_type: To Sort
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,7 +78,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -190,29 +85,4 @@ type: game
 type_capital: Game
 type_first_letter: g
 type_first_letter_upper: G
-type_length_1: g
-type_length_2: ga
-type_length_3: gam
-type_length_4: game
-type_length_5: game
-type_length_6: game
-type_name: Game
-type_no_space_length_1: g
-type_no_space_length_2: ga
-type_no_space_length_3: gam
-type_no_space_length_4: game
-type_no_space_length_5: game
-type_no_space_length_6: game
-type_no_space_upper_length_1: G
-type_no_space_upper_length_2: GA
-type_no_space_upper_length_3: GAM
-type_no_space_upper_length_4: GAME
-type_no_space_upper_length_5: GAME
-type_no_space_upper_length_6: GAME
 type_upper: GAME
-type_upper_length_1: G
-type_upper_length_2: GA
-type_upper_length_3: GAM
-type_upper_length_4: GAME
-type_upper_length_5: GAME
-type_upper_length_6: GAME

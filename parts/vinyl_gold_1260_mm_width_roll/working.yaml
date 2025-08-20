@@ -1,145 +1,22 @@
-bip_39_word_dash_12: soup-own-stamp-yard-myth-wild-canyon-detail-virtual-thrive-turkey-amount
-bip_39_word_dash_2: soup-own
-bip_39_word_dash_3: soup-own-stamp
-bip_39_word_new_br_12: soup<br>own<br>stamp<br>yard<br>myth<br>wild<br>canyon<br>detail<br>virtual<br>thrive<br>turkey<br>amount
-bip_39_word_new_br_2: soup<br>own
-bip_39_word_new_br_3: soup<br>own<br>stamp
-bip_39_word_new_line_12: 'soup
-
-  own
-
-  stamp
-
-  yard
-
-  myth
-
-  wild
-
-  canyon
-
-  detail
-
-  virtual
-
-  thrive
-
-  turkey
-
-  amount'
-bip_39_word_new_line_2: 'soup
-
-  own'
-bip_39_word_new_line_3: 'soup
-
-  own
-
-  stamp'
-bip_39_word_no_space_12: soupownstampyardmythwildcanyondetailvirtualthriveturkeyamount
-bip_39_word_no_space_2: soupown
-bip_39_word_no_space_3: soupownstamp
-bip_39_word_space_12: soup own stamp yard myth wild canyon detail virtual thrive turkey
-  amount
-bip_39_word_space_2: soup own
-bip_39_word_space_3: soup own stamp
-bip_39_word_underscore_12: soup_own_stamp_yard_myth_wild_canyon_detail_virtual_thrive_turkey_amount
-bip_39_word_underscore_2: soup_own
-bip_39_word_underscore_3: soup_own_stamp
 classification: vinyl
 classification_capital: Vinyl
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl
-classification_name: Vinyl
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinyl
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYL
 classification_upper: VINYL
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL
 color: gold
 color_capital: Gold
 color_first_letter: g
 color_first_letter_upper: G
-color_length_1: g
-color_length_2: go
-color_length_3: gol
-color_length_4: gold
-color_length_5: gold
-color_length_6: gold
-color_name: Gold
-color_no_space_length_1: g
-color_no_space_length_2: go
-color_no_space_length_3: gol
-color_no_space_length_4: gold
-color_no_space_length_5: gold
-color_no_space_length_6: gold
-color_no_space_upper_length_1: G
-color_no_space_upper_length_2: GO
-color_no_space_upper_length_3: GOL
-color_no_space_upper_length_4: GOLD
-color_no_space_upper_length_5: GOLD
-color_no_space_upper_length_6: GOLD
 color_upper: GOLD
-color_upper_length_1: G
-color_upper_length_2: GO
-color_upper_length_3: GOL
-color_upper_length_4: GOLD
-color_upper_length_5: GOLD
-color_upper_length_6: GOLD
 description_extra: 1260_mm_width_roll
 description_extra_capital: 1260 mm Width Roll
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
-description_extra_length_1: '1'
-description_extra_length_2: '12'
-description_extra_length_3: '126'
-description_extra_length_4: '1260'
-description_extra_length_5: '1260_'
-description_extra_length_6: 1260_m
-description_extra_name: 1260 mm Width Roll
-description_extra_no_space_length_1: '1'
-description_extra_no_space_length_2: '12'
-description_extra_no_space_length_3: '126'
-description_extra_no_space_length_4: '1260'
-description_extra_no_space_length_5: 1260m
-description_extra_no_space_length_6: 1260mm
-description_extra_no_space_upper_length_1: '1'
-description_extra_no_space_upper_length_2: '12'
-description_extra_no_space_upper_length_3: '126'
-description_extra_no_space_upper_length_4: '1260'
-description_extra_no_space_upper_length_5: 1260M
-description_extra_no_space_upper_length_6: 1260MM
 description_extra_upper: 1260_MM_WIDTH_ROLL
-description_extra_upper_length_1: '1'
-description_extra_upper_length_2: '12'
-description_extra_upper_length_3: '126'
-description_extra_upper_length_4: '1260'
-description_extra_upper_length_5: '1260_'
-description_extra_upper_length_6: 1260_M
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -149,10 +26,8 @@ directory: parts/vinyl_gold_1260_mm_width_roll
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_gold_1260_mm_width_roll
 id: vinyl_gold_1260_mm_width_roll
 id_no_class: gold_1260_mm_width_roll
-id_no_color: gold1260mmwidthroll
 id_no_size: gold1260mmwidthroll
 id_no_type: gold1260mmwidthroll
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_gold_1260_mm_width_roll
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[vinyl_gold_1260_mm_width_roll](none)<br>[](none)<br>[Vinyl Gold 1260
@@ -177,12 +51,11 @@ md5_6: 81d578
 md5_6_alpha: 52dfc
 md5_6_alpha_upper: 52DFC
 md5_6_upper: 81D578
-name: Vinyl Gold 1260 mm Width Roll
-name_no_class: Gold 1260 mm Width Roll
-name_no_color: Gold1260mmwidthroll
-name_no_size: Gold1260mmwidthroll
+name: Vinyl Gold 1260 Mm Width Roll
+name_no_class: Gold 1260 Mm Width Roll
+name_no_size: Gold1260Mmwidthroll
 name_no_size_short: Gold1260Mmwidthroll
-name_no_type: Gold1260mmwidthroll
+name_no_type: Gold1260Mmwidthroll
 oomp_key: oomp_vinyl_gold_1260_mm_width_roll
 oomp_word: watch house bell
 oomp_word_emoji: ':watch: :house: :bell:'
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -206,7 +78,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -214,6 +85,5 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''
 width: 1260 mm

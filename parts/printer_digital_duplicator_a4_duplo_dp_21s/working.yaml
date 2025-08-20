@@ -1,97 +1,22 @@
-bip_39_word_dash_12: wheel-tilt-plug-film-false-glove-strategy-over-alone-trumpet-gaze-antique
-bip_39_word_dash_2: wheel-tilt
-bip_39_word_dash_3: wheel-tilt-plug
-bip_39_word_new_br_12: wheel<br>tilt<br>plug<br>film<br>false<br>glove<br>strategy<br>over<br>alone<br>trumpet<br>gaze<br>antique
-bip_39_word_new_br_2: wheel<br>tilt
-bip_39_word_new_br_3: wheel<br>tilt<br>plug
-bip_39_word_new_line_12: 'wheel
-
-  tilt
-
-  plug
-
-  film
-
-  false
-
-  glove
-
-  strategy
-
-  over
-
-  alone
-
-  trumpet
-
-  gaze
-
-  antique'
-bip_39_word_new_line_2: 'wheel
-
-  tilt'
-bip_39_word_new_line_3: 'wheel
-
-  tilt
-
-  plug'
-bip_39_word_no_space_12: wheeltiltplugfilmfalseglovestrategyoveralonetrumpetgazeantique
-bip_39_word_no_space_2: wheeltilt
-bip_39_word_no_space_3: wheeltiltplug
-bip_39_word_space_12: wheel tilt plug film false glove strategy over alone trumpet
-  gaze antique
-bip_39_word_space_2: wheel tilt
-bip_39_word_space_3: wheel tilt plug
-bip_39_word_underscore_12: wheel_tilt_plug_film_false_glove_strategy_over_alone_trumpet_gaze_antique
-bip_39_word_underscore_2: wheel_tilt
-bip_39_word_underscore_3: wheel_tilt_plug
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pr
-classification_length_3: pri
-classification_length_4: prin
-classification_length_5: print
-classification_length_6: printe
-classification_name: Printer
-classification_no_space_length_1: p
-classification_no_space_length_2: pr
-classification_no_space_length_3: pri
-classification_no_space_length_4: prin
-classification_no_space_length_5: print
-classification_no_space_length_6: printe
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PR
-classification_no_space_upper_length_3: PRI
-classification_no_space_upper_length_4: PRIN
-classification_no_space_upper_length_5: PRINT
-classification_no_space_upper_length_6: PRINTE
 classification_upper: PRINTER
-classification_upper_length_1: P
-classification_upper_length_2: PR
-classification_upper_length_3: PRI
-classification_upper_length_4: PRIN
-classification_upper_length_5: PRINT
-classification_upper_length_6: PRINTE
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/printer_digital_duplicator_a4_duplo_dp_21s
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
 id: printer_digital_duplicator_a4_duplo_dp_21s
 id_no_class: digital_duplicator_a4_duplo_dp_21s
-id_no_color: duplodp21s
 id_no_size: duplo_dp_21s
 id_no_type: a4_duplo_dp_21s
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
@@ -112,32 +35,7 @@ manufacturer: duplo
 manufacturer_capital: Duplo
 manufacturer_first_letter: d
 manufacturer_first_letter_upper: D
-manufacturer_length_1: d
-manufacturer_length_2: du
-manufacturer_length_3: dup
-manufacturer_length_4: dupl
-manufacturer_length_5: duplo
-manufacturer_length_6: duplo
-manufacturer_name: Duplo
-manufacturer_no_space_length_1: d
-manufacturer_no_space_length_2: du
-manufacturer_no_space_length_3: dup
-manufacturer_no_space_length_4: dupl
-manufacturer_no_space_length_5: duplo
-manufacturer_no_space_length_6: duplo
-manufacturer_no_space_upper_length_1: D
-manufacturer_no_space_upper_length_2: DU
-manufacturer_no_space_upper_length_3: DUP
-manufacturer_no_space_upper_length_4: DUPL
-manufacturer_no_space_upper_length_5: DUPLO
-manufacturer_no_space_upper_length_6: DUPLO
 manufacturer_upper: DUPLO
-manufacturer_upper_length_1: D
-manufacturer_upper_length_2: DU
-manufacturer_upper_length_3: DUP
-manufacturer_upper_length_4: DUPL
-manufacturer_upper_length_5: DUPLO
-manufacturer_upper_length_6: DUPLO
 manufacturers: []
 markdown_full: '[printer_digital_duplicator_a4_duplo_dp_21s](none)<br>[](none)<br>[Printer
   Digital Duplicator A4 Duplo Dp 21S](none)<br><br>'
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 66ZY2
 md5_6_upper: 9EC17A
 name: Printer Digital Duplicator A4 Duplo Dp 21S
 name_no_class: Digital Duplicator A4 Duplo Dp 21S
-name_no_color: Duplodp21S
 name_no_size: Duplo Dp 21S
 name_no_size_short: Duplo Dp 21S
 name_no_type: A4 Duplo Dp 21S
@@ -173,32 +70,7 @@ part_number_capital: Dp 21S
 part_number_exact: DP-21S
 part_number_first_letter: d
 part_number_first_letter_upper: D
-part_number_length_1: d
-part_number_length_2: dp
-part_number_length_3: dp_
-part_number_length_4: dp_2
-part_number_length_5: dp_21
-part_number_length_6: dp_21s
-part_number_name: Dp 21S
-part_number_no_space_length_1: d
-part_number_no_space_length_2: dp
-part_number_no_space_length_3: dp2
-part_number_no_space_length_4: dp21
-part_number_no_space_length_5: dp21s
-part_number_no_space_length_6: dp21s
-part_number_no_space_upper_length_1: D
-part_number_no_space_upper_length_2: DP
-part_number_no_space_upper_length_3: DP2
-part_number_no_space_upper_length_4: DP21
-part_number_no_space_upper_length_5: DP21S
-part_number_no_space_upper_length_6: DP21S
 part_number_upper: DP_21S
-part_number_upper_length_1: D
-part_number_upper_length_2: DP
-part_number_upper_length_3: DP_
-part_number_upper_length_4: DP_2
-part_number_upper_length_5: DP_21
-part_number_upper_length_6: DP_21S
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -206,61 +78,11 @@ size: a4
 size_capital: A4
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: a4
-size_length_3: a4
-size_length_4: a4
-size_length_5: a4
-size_length_6: a4
-size_name: A4
-size_no_space_length_1: a
-size_no_space_length_2: a4
-size_no_space_length_3: a4
-size_no_space_length_4: a4
-size_no_space_length_5: a4
-size_no_space_length_6: a4
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A4
-size_no_space_upper_length_3: A4
-size_no_space_upper_length_4: A4
-size_no_space_upper_length_5: A4
-size_no_space_upper_length_6: A4
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: A4
-size_upper_length_1: A
-size_upper_length_2: A4
-size_upper_length_3: A4
-size_upper_length_4: A4
-size_upper_length_5: A4
-size_upper_length_6: A4
 type: digital_duplicator
 type_capital: Digital Duplicator
 type_first_letter: d
 type_first_letter_upper: D
-type_length_1: d
-type_length_2: di
-type_length_3: dig
-type_length_4: digi
-type_length_5: digit
-type_length_6: digita
-type_name: Digital Duplicator
-type_no_space_length_1: d
-type_no_space_length_2: di
-type_no_space_length_3: dig
-type_no_space_length_4: digi
-type_no_space_length_5: digit
-type_no_space_length_6: digita
-type_no_space_upper_length_1: D
-type_no_space_upper_length_2: DI
-type_no_space_upper_length_3: DIG
-type_no_space_upper_length_4: DIGI
-type_no_space_upper_length_5: DIGIT
-type_no_space_upper_length_6: DIGITA
 type_upper: DIGITAL_DUPLICATOR
-type_upper_length_1: D
-type_upper_length_2: DI
-type_upper_length_3: DIG
-type_upper_length_4: DIGI
-type_upper_length_5: DIGIT
-type_upper_length_6: DIGITA

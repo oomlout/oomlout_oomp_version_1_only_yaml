@@ -1,146 +1,23 @@
-bip_39_word_dash_12: intact-salmon-glide-local-never-odor-protect-apart-finger-length-fragile-atom
-bip_39_word_dash_2: intact-salmon
-bip_39_word_dash_3: intact-salmon-glide
-bip_39_word_new_br_12: intact<br>salmon<br>glide<br>local<br>never<br>odor<br>protect<br>apart<br>finger<br>length<br>fragile<br>atom
-bip_39_word_new_br_2: intact<br>salmon
-bip_39_word_new_br_3: intact<br>salmon<br>glide
-bip_39_word_new_line_12: 'intact
-
-  salmon
-
-  glide
-
-  local
-
-  never
-
-  odor
-
-  protect
-
-  apart
-
-  finger
-
-  length
-
-  fragile
-
-  atom'
-bip_39_word_new_line_2: 'intact
-
-  salmon'
-bip_39_word_new_line_3: 'intact
-
-  salmon
-
-  glide'
-bip_39_word_no_space_12: intactsalmonglidelocalneverodorprotectapartfingerlengthfragileatom
-bip_39_word_no_space_2: intactsalmon
-bip_39_word_no_space_3: intactsalmonglide
-bip_39_word_space_12: intact salmon glide local never odor protect apart finger length
-  fragile atom
-bip_39_word_space_2: intact salmon
-bip_39_word_space_3: intact salmon glide
-bip_39_word_underscore_12: intact_salmon_glide_local_never_odor_protect_apart_finger_length_fragile_atom
-bip_39_word_underscore_2: intact_salmon
-bip_39_word_underscore_3: intact_salmon_glide
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 18_mm
 color_capital: 18 mm
 color_first_letter: '1'
 color_first_letter_upper: '1'
-color_length_1: '1'
-color_length_2: '18'
-color_length_3: '18_'
-color_length_4: 18_m
-color_length_5: 18_mm
-color_length_6: 18_mm
-color_name: 18 mm
-color_no_space_length_1: '1'
-color_no_space_length_2: '18'
-color_no_space_length_3: 18m
-color_no_space_length_4: 18mm
-color_no_space_length_5: 18mm
-color_no_space_length_6: 18mm
-color_no_space_upper_length_1: '1'
-color_no_space_upper_length_2: '18'
-color_no_space_upper_length_3: 18M
-color_no_space_upper_length_4: 18MM
-color_no_space_upper_length_5: 18MM
-color_no_space_upper_length_6: 18MM
 color_upper: 18_MM
-color_upper_length_1: '1'
-color_upper_length_2: '18'
-color_upper_length_3: '18_'
-color_upper_length_4: 18_M
-color_upper_length_5: 18_MM
-color_upper_length_6: 18_MM
 description: category_hardware
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_hardware_ball_bearing_18_mm_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_ball_bearing_18_mm_tote
 id: category_hardware_ball_bearing_18_mm_tote
 id_no_class: hardware_ball_bearing_18_mm_tote
-id_no_color: tote
 id_no_size: 18_mm_tote
 id_no_type: ball_bearing_18_mm_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_18_mm_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_ball_bearing_18_mm_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: e4b8e0
 md5_6_alpha: 8xa00
 md5_6_alpha_upper: 8XA00
 md5_6_upper: E4B8E0
-name: Category Hardware Ball Bearing 18 mm Tote
-name_no_class: Hardware Ball Bearing 18 mm Tote
-name_no_color: Tote
-name_no_size: 18 mm Tote
+name: Category Hardware Ball Bearing 18 Mm Tote
+name_no_class: Hardware Ball Bearing 18 Mm Tote
+name_no_size: 18 Mm Tote
 name_no_size_short: 18 Mm Tote
-name_no_type: Ball Bearing 18 mm Tote
+name_no_type: Ball Bearing 18 Mm Tote
 oomp_key: oomp_category_hardware_ball_bearing_18_mm_tote
 oomp_word: anchor hamburger ship
 oomp_word_emoji: ':anchor: :hamburger: :ship:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: ball_bearing
 size_capital: Ball Bearing
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bal
-size_length_4: ball
-size_length_5: ball_
-size_length_6: ball_b
-size_name: Ball Bearing
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bal
-size_no_space_length_4: ball
-size_no_space_length_5: ballb
-size_no_space_length_6: ballbe
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAL
-size_no_space_upper_length_4: BALL
-size_no_space_upper_length_5: BALLB
-size_no_space_upper_length_6: BALLBE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BALL_BEARING
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAL
-size_upper_length_4: BALL
-size_upper_length_5: BALL_
-size_upper_length_6: BALL_B
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

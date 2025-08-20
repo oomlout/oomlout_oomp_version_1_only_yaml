@@ -1,156 +1,31 @@
-bip_39_word_dash_12: such-desk-spider-daughter-prison-embrace-aerobic-donor-cruel-giant-together-august
-bip_39_word_dash_2: such-desk
-bip_39_word_dash_3: such-desk-spider
-bip_39_word_new_br_12: such<br>desk<br>spider<br>daughter<br>prison<br>embrace<br>aerobic<br>donor<br>cruel<br>giant<br>together<br>august
-bip_39_word_new_br_2: such<br>desk
-bip_39_word_new_br_3: such<br>desk<br>spider
-bip_39_word_new_line_12: 'such
-
-  desk
-
-  spider
-
-  daughter
-
-  prison
-
-  embrace
-
-  aerobic
-
-  donor
-
-  cruel
-
-  giant
-
-  together
-
-  august'
-bip_39_word_new_line_2: 'such
-
-  desk'
-bip_39_word_new_line_3: 'such
-
-  desk
-
-  spider'
-bip_39_word_no_space_12: suchdeskspiderdaughterprisonembraceaerobicdonorcruelgianttogetheraugust
-bip_39_word_no_space_2: suchdesk
-bip_39_word_no_space_3: suchdeskspider
-bip_39_word_space_12: such desk spider daughter prison embrace aerobic donor cruel
-  giant together august
-bip_39_word_space_2: such desk
-bip_39_word_space_3: such desk spider
-bip_39_word_underscore_12: such_desk_spider_daughter_prison_embrace_aerobic_donor_cruel_giant_together_august
-bip_39_word_underscore_2: such_desk
-bip_39_word_underscore_3: such_desk_spider
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: motor_tt_01_shaft_40_teeth_extra
 description_extra_capital: Motor Tt 01 Shaft 40 Teeth Extra
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: mo
-description_extra_length_3: mot
-description_extra_length_4: moto
-description_extra_length_5: motor
-description_extra_length_6: motor_
-description_extra_name: Motor Tt 01 Shaft 40 Teeth Extra
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: mo
-description_extra_no_space_length_3: mot
-description_extra_no_space_length_4: moto
-description_extra_no_space_length_5: motor
-description_extra_no_space_length_6: motort
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: MO
-description_extra_no_space_upper_length_3: MOT
-description_extra_no_space_upper_length_4: MOTO
-description_extra_no_space_upper_length_5: MOTOR
-description_extra_no_space_upper_length_6: MOTORT
 description_extra_upper: MOTOR_TT_01_SHAFT_40_TEETH_EXTRA
-description_extra_upper_length_1: M
-description_extra_upper_length_2: MO
-description_extra_upper_length_3: MOT
-description_extra_upper_length_4: MOTO
-description_extra_upper_length_5: MOTOR
-description_extra_upper_length_6: MOTOR_
 description_main: 2_diameter_9_mm_depth
 description_main_capital: 2 Diameter 9 mm Depth
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '2_'
-description_main_length_3: 2_d
-description_main_length_4: 2_di
-description_main_length_5: 2_dia
-description_main_length_6: 2_diam
-description_main_name: 2 Diameter 9 mm Depth
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: 2d
-description_main_no_space_length_3: 2di
-description_main_no_space_length_4: 2dia
-description_main_no_space_length_5: 2diam
-description_main_no_space_length_6: 2diame
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: 2D
-description_main_no_space_upper_length_3: 2DI
-description_main_no_space_upper_length_4: 2DIA
-description_main_no_space_upper_length_5: 2DIAM
-description_main_no_space_upper_length_6: 2DIAME
 description_main_upper: 2_DIAMETER_9_MM_DEPTH
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '2_'
-description_main_upper_length_3: 2_D
-description_main_upper_length_4: 2_DI
-description_main_upper_length_5: 2_DIA
-description_main_upper_length_6: 2_DIAM
 description_only_numbers: '29'
 description_only_numbers_short: '29'
 description_or_color: '29'
 description_or_color_upper: '29'
 directory: parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
 id: oobb_part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
 id_no_class: part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
-id_no_color: 2diameter9mmdepthmotortt01shaft40teethextra
 id_no_size: 2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
 id_no_type: pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra](none)<br>[](none)<br>[Oobb
@@ -175,12 +49,11 @@ md5_6: f3c758
 md5_6_alpha: 9ifdk
 md5_6_alpha_upper: 9IFDK
 md5_6_upper: F3C758
-name: Oobb Part Pulley Gt2 2 Diameter 9 mm Depth Motor Tt 01 Shaft 40 Teeth Extra
-name_no_class: Part Pulley Gt2 2 Diameter 9 mm Depth Motor Tt 01 Shaft 40 Teeth Extra
-name_no_color: 2Diameter9mmdepthmotortt01Shaft40Teethextra
-name_no_size: 2 Diameter 9 mm Depth Motor Tt 01 Shaft 40 Teeth Extra
+name: Oobb Part Pulley Gt2 2 Diameter 9 Mm Depth Motor Tt 01 Shaft 40 Teeth Extra
+name_no_class: Part Pulley Gt2 2 Diameter 9 Mm Depth Motor Tt 01 Shaft 40 Teeth Extra
+name_no_size: 2 Diameter 9 Mm Depth Motor Tt 01 Shaft 40 Teeth Extra
 name_no_size_short: 2 Diameter 9 Mm Depth Motor Tt 01 Shaft 40 Teeth Extra
-name_no_type: Pulley Gt2 2 Diameter 9 mm Depth Motor Tt 01 Shaft 40 Teeth Extra
+name_no_type: Pulley Gt2 2 Diameter 9 Mm Depth Motor Tt 01 Shaft 40 Teeth Extra
 oomp_key: oomp_oobb_part_pulley_gt2_2_diameter_9_mm_depth_motor_tt_01_shaft_40_teeth_extra
 oomp_word: two honey_pot water_buffalo
 oomp_word_emoji: ':two: :honey_pot: :water_buffalo:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: pulley_gt2
 size_capital: Pulley Gt2
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pu
-size_length_3: pul
-size_length_4: pull
-size_length_5: pulle
-size_length_6: pulley
-size_name: Pulley Gt2
-size_no_space_length_1: p
-size_no_space_length_2: pu
-size_no_space_length_3: pul
-size_no_space_length_4: pull
-size_no_space_length_5: pulle
-size_no_space_length_6: pulley
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PU
-size_no_space_upper_length_3: PUL
-size_no_space_upper_length_4: PULL
-size_no_space_upper_length_5: PULLE
-size_no_space_upper_length_6: PULLEY
 size_only_numbers: '2'
 size_only_numbers_no_zeros: '2'
 size_upper: PULLEY_GT2
-size_upper_length_1: P
-size_upper_length_2: PU
-size_upper_length_3: PUL
-size_upper_length_4: PULL
-size_upper_length_5: PULLE
-size_upper_length_6: PULLEY
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

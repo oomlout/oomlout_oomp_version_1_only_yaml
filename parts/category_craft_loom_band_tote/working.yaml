@@ -1,122 +1,23 @@
-bip_39_word_dash_12: jewel-wealth-argue-hood-spy-edit-scale-squirrel-will-one-taste-all
-bip_39_word_dash_2: jewel-wealth
-bip_39_word_dash_3: jewel-wealth-argue
-bip_39_word_new_br_12: jewel<br>wealth<br>argue<br>hood<br>spy<br>edit<br>scale<br>squirrel<br>will<br>one<br>taste<br>all
-bip_39_word_new_br_2: jewel<br>wealth
-bip_39_word_new_br_3: jewel<br>wealth<br>argue
-bip_39_word_new_line_12: 'jewel
-
-  wealth
-
-  argue
-
-  hood
-
-  spy
-
-  edit
-
-  scale
-
-  squirrel
-
-  will
-
-  one
-
-  taste
-
-  all'
-bip_39_word_new_line_2: 'jewel
-
-  wealth'
-bip_39_word_new_line_3: 'jewel
-
-  wealth
-
-  argue'
-bip_39_word_no_space_12: jewelwealtharguehoodspyeditscalesquirrelwillonetasteall
-bip_39_word_no_space_2: jewelwealth
-bip_39_word_no_space_3: jewelwealthargue
-bip_39_word_space_12: jewel wealth argue hood spy edit scale squirrel will one taste
-  all
-bip_39_word_space_2: jewel wealth
-bip_39_word_space_3: jewel wealth argue
-bip_39_word_underscore_12: jewel_wealth_argue_hood_spy_edit_scale_squirrel_will_one_taste_all
-bip_39_word_underscore_2: jewel_wealth
-bip_39_word_underscore_3: jewel_wealth_argue
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_craft
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_craft_loom_band_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_loom_band_tote
 id: category_craft_loom_band_tote
 id_no_class: craft_loom_band_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: loom_band_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_loom_band_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_loom_band_tote](none)<br>[](none)<br>[Category Craft
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 41PPI
 md5_6_upper: 67BC66
 name: Category Craft Loom Band Tote
 name_no_class: Craft Loom Band Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Loom Band Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: loom_band
 size_capital: Loom Band
 size_first_letter: l
 size_first_letter_upper: L
-size_length_1: l
-size_length_2: lo
-size_length_3: loo
-size_length_4: loom
-size_length_5: loom_
-size_length_6: loom_b
-size_name: Loom Band
-size_no_space_length_1: l
-size_no_space_length_2: lo
-size_no_space_length_3: loo
-size_no_space_length_4: loom
-size_no_space_length_5: loomb
-size_no_space_length_6: loomba
-size_no_space_upper_length_1: L
-size_no_space_upper_length_2: LO
-size_no_space_upper_length_3: LOO
-size_no_space_upper_length_4: LOOM
-size_no_space_upper_length_5: LOOMB
-size_no_space_upper_length_6: LOOMBA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: LOOM_BAND
-size_upper_length_1: L
-size_upper_length_2: LO
-size_upper_length_3: LOO
-size_upper_length_4: LOOM
-size_upper_length_5: LOOM_
-size_upper_length_6: LOOM_B
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cr
-type_length_3: cra
-type_length_4: craf
-type_length_5: craft
-type_length_6: craft
-type_name: Craft
-type_no_space_length_1: c
-type_no_space_length_2: cr
-type_no_space_length_3: cra
-type_no_space_length_4: craf
-type_no_space_length_5: craft
-type_no_space_length_6: craft
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CR
-type_no_space_upper_length_3: CRA
-type_no_space_upper_length_4: CRAF
-type_no_space_upper_length_5: CRAFT
-type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
-type_upper_length_1: C
-type_upper_length_2: CR
-type_upper_length_3: CRA
-type_upper_length_4: CRAF
-type_upper_length_5: CRAFT
-type_upper_length_6: CRAFT

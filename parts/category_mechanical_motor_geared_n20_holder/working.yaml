@@ -1,122 +1,23 @@
-bip_39_word_dash_12: neck-emotion-soccer-pumpkin-van-hotel-velvet-uniform-three-curious-world-admit
-bip_39_word_dash_2: neck-emotion
-bip_39_word_dash_3: neck-emotion-soccer
-bip_39_word_new_br_12: neck<br>emotion<br>soccer<br>pumpkin<br>van<br>hotel<br>velvet<br>uniform<br>three<br>curious<br>world<br>admit
-bip_39_word_new_br_2: neck<br>emotion
-bip_39_word_new_br_3: neck<br>emotion<br>soccer
-bip_39_word_new_line_12: 'neck
-
-  emotion
-
-  soccer
-
-  pumpkin
-
-  van
-
-  hotel
-
-  velvet
-
-  uniform
-
-  three
-
-  curious
-
-  world
-
-  admit'
-bip_39_word_new_line_2: 'neck
-
-  emotion'
-bip_39_word_new_line_3: 'neck
-
-  emotion
-
-  soccer'
-bip_39_word_no_space_12: neckemotionsoccerpumpkinvanhotelvelvetuniformthreecuriousworldadmit
-bip_39_word_no_space_2: neckemotion
-bip_39_word_no_space_3: neckemotionsoccer
-bip_39_word_space_12: neck emotion soccer pumpkin van hotel velvet uniform three curious
-  world admit
-bip_39_word_space_2: neck emotion
-bip_39_word_space_3: neck emotion soccer
-bip_39_word_underscore_12: neck_emotion_soccer_pumpkin_van_hotel_velvet_uniform_three_curious_world_admit
-bip_39_word_underscore_2: neck_emotion
-bip_39_word_underscore_3: neck_emotion_soccer
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: n20_holder
 color_capital: N20 Holder
 color_first_letter: n
 color_first_letter_upper: N
-color_length_1: n
-color_length_2: n2
-color_length_3: n20
-color_length_4: n20_
-color_length_5: n20_h
-color_length_6: n20_ho
-color_name: N20 Holder
-color_no_space_length_1: n
-color_no_space_length_2: n2
-color_no_space_length_3: n20
-color_no_space_length_4: n20h
-color_no_space_length_5: n20ho
-color_no_space_length_6: n20hol
-color_no_space_upper_length_1: N
-color_no_space_upper_length_2: N2
-color_no_space_upper_length_3: N20
-color_no_space_upper_length_4: N20H
-color_no_space_upper_length_5: N20HO
-color_no_space_upper_length_6: N20HOL
 color_upper: N20_HOLDER
-color_upper_length_1: N
-color_upper_length_2: N2
-color_upper_length_3: N20
-color_upper_length_4: N20_
-color_upper_length_5: N20_H
-color_upper_length_6: N20_HO
 description: category_mechanical
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_mechanical_motor_geared_n20_holder
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_motor_geared_n20_holder
 id: category_mechanical_motor_geared_n20_holder
 id_no_class: mechanical_motor_geared_n20_holder
-id_no_color: n20_holder
 id_no_size: n20_holder
 id_no_type: motor_geared_n20_holder
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20_holder
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_mechanical_motor_geared_n20_holder](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 2C959
 md5_6_upper: 3BFB4D
 name: Category Mechanical Motor Geared N20 Holder
 name_no_class: Mechanical Motor Geared N20 Holder
-name_no_color: N20 Holder
 name_no_size: N20 Holder
 name_no_size_short: N20 Holder
 name_no_type: Motor Geared N20 Holder
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: motor_geared
 size_capital: Motor Geared
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: mo
-size_length_3: mot
-size_length_4: moto
-size_length_5: motor
-size_length_6: motor_
-size_name: Motor Geared
-size_no_space_length_1: m
-size_no_space_length_2: mo
-size_no_space_length_3: mot
-size_no_space_length_4: moto
-size_no_space_length_5: motor
-size_no_space_length_6: motorg
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: MO
-size_no_space_upper_length_3: MOT
-size_no_space_upper_length_4: MOTO
-size_no_space_upper_length_5: MOTOR
-size_no_space_upper_length_6: MOTORG
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MOTOR_GEARED
-size_upper_length_1: M
-size_upper_length_2: MO
-size_upper_length_3: MOT
-size_upper_length_4: MOTO
-size_upper_length_5: MOTOR
-size_upper_length_6: MOTOR_
 type: mechanical
 type_capital: Mechanical
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: me
-type_length_3: mec
-type_length_4: mech
-type_length_5: mecha
-type_length_6: mechan
-type_name: Mechanical
-type_no_space_length_1: m
-type_no_space_length_2: me
-type_no_space_length_3: mec
-type_no_space_length_4: mech
-type_no_space_length_5: mecha
-type_no_space_length_6: mechan
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: ME
-type_no_space_upper_length_3: MEC
-type_no_space_upper_length_4: MECH
-type_no_space_upper_length_5: MECHA
-type_no_space_upper_length_6: MECHAN
 type_upper: MECHANICAL
-type_upper_length_1: M
-type_upper_length_2: ME
-type_upper_length_3: MEC
-type_upper_length_4: MECH
-type_upper_length_5: MECHA
-type_upper_length_6: MECHAN

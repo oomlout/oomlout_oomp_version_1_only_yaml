@@ -1,122 +1,23 @@
-bip_39_word_dash_12: digital-relax-catalog-shed-derive-device-rotate-toe-dwarf-void-proud-adapt
-bip_39_word_dash_2: digital-relax
-bip_39_word_dash_3: digital-relax-catalog
-bip_39_word_new_br_12: digital<br>relax<br>catalog<br>shed<br>derive<br>device<br>rotate<br>toe<br>dwarf<br>void<br>proud<br>adapt
-bip_39_word_new_br_2: digital<br>relax
-bip_39_word_new_br_3: digital<br>relax<br>catalog
-bip_39_word_new_line_12: 'digital
-
-  relax
-
-  catalog
-
-  shed
-
-  derive
-
-  device
-
-  rotate
-
-  toe
-
-  dwarf
-
-  void
-
-  proud
-
-  adapt'
-bip_39_word_new_line_2: 'digital
-
-  relax'
-bip_39_word_new_line_3: 'digital
-
-  relax
-
-  catalog'
-bip_39_word_no_space_12: digitalrelaxcatalogshedderivedevicerotatetoedwarfvoidproudadapt
-bip_39_word_no_space_2: digitalrelax
-bip_39_word_no_space_3: digitalrelaxcatalog
-bip_39_word_space_12: digital relax catalog shed derive device rotate toe dwarf void
-  proud adapt
-bip_39_word_space_2: digital relax
-bip_39_word_space_3: digital relax catalog
-bip_39_word_underscore_12: digital_relax_catalog_shed_derive_device_rotate_toe_dwarf_void_proud_adapt
-bip_39_word_underscore_2: digital_relax
-bip_39_word_underscore_3: digital_relax_catalog
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_electronic
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_electronic_battery_box_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_box_tote
 id: category_electronic_battery_box_tote
 id_no_class: electronic_battery_box_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: battery_box_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_battery_box_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 1XBJX
 md5_6_upper: 3159BD
 name: Category Electronic Battery Box Tote
 name_no_class: Electronic Battery Box Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Battery Box Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: battery_box
 size_capital: Battery Box
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bat
-size_length_4: batt
-size_length_5: batte
-size_length_6: batter
-size_name: Battery Box
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bat
-size_no_space_length_4: batt
-size_no_space_length_5: batte
-size_no_space_length_6: batter
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAT
-size_no_space_upper_length_4: BATT
-size_no_space_upper_length_5: BATTE
-size_no_space_upper_length_6: BATTER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BATTERY_BOX
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAT
-size_upper_length_4: BATT
-size_upper_length_5: BATTE
-size_upper_length_6: BATTER
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

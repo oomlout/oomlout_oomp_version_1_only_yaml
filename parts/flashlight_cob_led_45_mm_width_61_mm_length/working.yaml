@@ -1,122 +1,23 @@
-bip_39_word_dash_12: vibrant-cave-library-update-snap-answer-spray-escape-never-subject-grape-assault
-bip_39_word_dash_2: vibrant-cave
-bip_39_word_dash_3: vibrant-cave-library
-bip_39_word_new_br_12: vibrant<br>cave<br>library<br>update<br>snap<br>answer<br>spray<br>escape<br>never<br>subject<br>grape<br>assault
-bip_39_word_new_br_2: vibrant<br>cave
-bip_39_word_new_br_3: vibrant<br>cave<br>library
-bip_39_word_new_line_12: 'vibrant
-
-  cave
-
-  library
-
-  update
-
-  snap
-
-  answer
-
-  spray
-
-  escape
-
-  never
-
-  subject
-
-  grape
-
-  assault'
-bip_39_word_new_line_2: 'vibrant
-
-  cave'
-bip_39_word_new_line_3: 'vibrant
-
-  cave
-
-  library'
-bip_39_word_no_space_12: vibrantcavelibraryupdatesnapanswersprayescapeneversubjectgrapeassault
-bip_39_word_no_space_2: vibrantcave
-bip_39_word_no_space_3: vibrantcavelibrary
-bip_39_word_space_12: vibrant cave library update snap answer spray escape never subject
-  grape assault
-bip_39_word_space_2: vibrant cave
-bip_39_word_space_3: vibrant cave library
-bip_39_word_underscore_12: vibrant_cave_library_update_snap_answer_spray_escape_never_subject_grape_assault
-bip_39_word_underscore_2: vibrant_cave
-bip_39_word_underscore_3: vibrant_cave_library
 classification: flashlight
 classification_capital: Flashlight
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fl
-classification_length_3: fla
-classification_length_4: flas
-classification_length_5: flash
-classification_length_6: flashl
-classification_name: Flashlight
-classification_no_space_length_1: f
-classification_no_space_length_2: fl
-classification_no_space_length_3: fla
-classification_no_space_length_4: flas
-classification_no_space_length_5: flash
-classification_no_space_length_6: flashl
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FL
-classification_no_space_upper_length_3: FLA
-classification_no_space_upper_length_4: FLAS
-classification_no_space_upper_length_5: FLASH
-classification_no_space_upper_length_6: FLASHL
 classification_upper: FLASHLIGHT
-classification_upper_length_1: F
-classification_upper_length_2: FL
-classification_upper_length_3: FLA
-classification_upper_length_4: FLAS
-classification_upper_length_5: FLASH
-classification_upper_length_6: FLASHL
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 45_mm_width_61_mm_length
 description_main_capital: 45 mm Width 61 mm Length
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
-description_main_length_1: '4'
-description_main_length_2: '45'
-description_main_length_3: '45_'
-description_main_length_4: 45_m
-description_main_length_5: 45_mm
-description_main_length_6: 45_mm_
-description_main_name: 45 mm Width 61 mm Length
-description_main_no_space_length_1: '4'
-description_main_no_space_length_2: '45'
-description_main_no_space_length_3: 45m
-description_main_no_space_length_4: 45mm
-description_main_no_space_length_5: 45mmw
-description_main_no_space_length_6: 45mmwi
-description_main_no_space_upper_length_1: '4'
-description_main_no_space_upper_length_2: '45'
-description_main_no_space_upper_length_3: 45M
-description_main_no_space_upper_length_4: 45MM
-description_main_no_space_upper_length_5: 45MMW
-description_main_no_space_upper_length_6: 45MMWI
 description_main_upper: 45_MM_WIDTH_61_MM_LENGTH
-description_main_upper_length_1: '4'
-description_main_upper_length_2: '45'
-description_main_upper_length_3: '45_'
-description_main_upper_length_4: 45_M
-description_main_upper_length_5: 45_MM
-description_main_upper_length_6: 45_MM_
 description_only_numbers: '4561'
 description_only_numbers_short: 4k5
 description_or_color: 4k5
@@ -125,10 +26,8 @@ directory: parts/flashlight_cob_led_45_mm_width_61_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/flashlight_cob_led_45_mm_width_61_mm_length
 id: flashlight_cob_led_45_mm_width_61_mm_length
 id_no_class: cob_led_45_mm_width_61_mm_length
-id_no_color: cobled45mmwidth61mmlength
 id_no_size: cobled45mmwidth61mmlength
 id_no_type: cobled45mmwidth61mmlength
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/flashlight_cob_led_45_mm_width_61_mm_length
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[flashlight_cob_led_45_mm_width_61_mm_length](none)<br>[](none)<br>[Flashlight
@@ -153,12 +51,11 @@ md5_6: d8cbb5
 md5_6_alpha: 8giwl
 md5_6_alpha_upper: 8GIWL
 md5_6_upper: D8CBB5
-name: Flashlight Cob LED 45 mm Width 61 mm Length
-name_no_class: Cob LED 45 mm Width 61 mm Length
-name_no_color: Cobled45mmwidth61mmlength
-name_no_size: Cobled45mmwidth61mmlength
+name: Flashlight Cob Led 45 Mm Width 61 Mm Length
+name_no_class: Cob Led 45 Mm Width 61 Mm Length
+name_no_size: Cobled45Mmwidth61Mmlength
 name_no_size_short: Cobled45Mmwidth61Mmlength
-name_no_type: Cobled45mmwidth61mmlength
+name_no_type: Cobled45Mmwidth61Mmlength
 oomp_key: oomp_flashlight_cob_led_45_mm_width_61_mm_length
 oomp_word: hospital grapes tea
 oomp_word_emoji: ':hospital: :grapes: :tea:'
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,37 +78,11 @@ size: cob_led
 size_capital: Cob Led
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: co
-size_length_3: cob
-size_length_4: cob_
-size_length_5: cob_l
-size_length_6: cob_le
-size_name: Cob LED
-size_no_space_length_1: c
-size_no_space_length_2: co
-size_no_space_length_3: cob
-size_no_space_length_4: cobl
-size_no_space_length_5: coble
-size_no_space_length_6: cobled
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CO
-size_no_space_upper_length_3: COB
-size_no_space_upper_length_4: COBL
-size_no_space_upper_length_5: COBLE
-size_no_space_upper_length_6: COBLED
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: COB_LED
-size_upper_length_1: C
-size_upper_length_2: CO
-size_upper_length_3: COB
-size_upper_length_4: COB_
-size_upper_length_5: COB_L
-size_upper_length_6: COB_LE
 type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''

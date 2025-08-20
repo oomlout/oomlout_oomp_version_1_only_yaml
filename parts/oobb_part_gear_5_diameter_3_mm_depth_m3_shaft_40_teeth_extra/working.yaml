@@ -1,156 +1,31 @@
-bip_39_word_dash_12: awesome-door-claw-pact-virtual-moon-hunt-laugh-soccer-gym-fault-auction
-bip_39_word_dash_2: awesome-door
-bip_39_word_dash_3: awesome-door-claw
-bip_39_word_new_br_12: awesome<br>door<br>claw<br>pact<br>virtual<br>moon<br>hunt<br>laugh<br>soccer<br>gym<br>fault<br>auction
-bip_39_word_new_br_2: awesome<br>door
-bip_39_word_new_br_3: awesome<br>door<br>claw
-bip_39_word_new_line_12: 'awesome
-
-  door
-
-  claw
-
-  pact
-
-  virtual
-
-  moon
-
-  hunt
-
-  laugh
-
-  soccer
-
-  gym
-
-  fault
-
-  auction'
-bip_39_word_new_line_2: 'awesome
-
-  door'
-bip_39_word_new_line_3: 'awesome
-
-  door
-
-  claw'
-bip_39_word_no_space_12: awesomedoorclawpactvirtualmoonhuntlaughsoccergymfaultauction
-bip_39_word_no_space_2: awesomedoor
-bip_39_word_no_space_3: awesomedoorclaw
-bip_39_word_space_12: awesome door claw pact virtual moon hunt laugh soccer gym fault
-  auction
-bip_39_word_space_2: awesome door
-bip_39_word_space_3: awesome door claw
-bip_39_word_underscore_12: awesome_door_claw_pact_virtual_moon_hunt_laugh_soccer_gym_fault_auction
-bip_39_word_underscore_2: awesome_door
-bip_39_word_underscore_3: awesome_door_claw
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: m3_shaft_40_teeth_extra
 description_extra_capital: M3 Shaft 40 Teeth Extra
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: m3
-description_extra_length_3: m3_
-description_extra_length_4: m3_s
-description_extra_length_5: m3_sh
-description_extra_length_6: m3_sha
-description_extra_name: M3 Shaft 40 Teeth Extra
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: m3
-description_extra_no_space_length_3: m3s
-description_extra_no_space_length_4: m3sh
-description_extra_no_space_length_5: m3sha
-description_extra_no_space_length_6: m3shaf
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: M3
-description_extra_no_space_upper_length_3: M3S
-description_extra_no_space_upper_length_4: M3SH
-description_extra_no_space_upper_length_5: M3SHA
-description_extra_no_space_upper_length_6: M3SHAF
 description_extra_upper: M3_SHAFT_40_TEETH_EXTRA
-description_extra_upper_length_1: M
-description_extra_upper_length_2: M3
-description_extra_upper_length_3: M3_
-description_extra_upper_length_4: M3_S
-description_extra_upper_length_5: M3_SH
-description_extra_upper_length_6: M3_SHA
 description_main: 5_diameter_3_mm_depth
 description_main_capital: 5 Diameter 3 mm Depth
 description_main_first_letter: '5'
 description_main_first_letter_upper: '5'
-description_main_length_1: '5'
-description_main_length_2: '5_'
-description_main_length_3: 5_d
-description_main_length_4: 5_di
-description_main_length_5: 5_dia
-description_main_length_6: 5_diam
-description_main_name: 5 Diameter 3 mm Depth
-description_main_no_space_length_1: '5'
-description_main_no_space_length_2: 5d
-description_main_no_space_length_3: 5di
-description_main_no_space_length_4: 5dia
-description_main_no_space_length_5: 5diam
-description_main_no_space_length_6: 5diame
-description_main_no_space_upper_length_1: '5'
-description_main_no_space_upper_length_2: 5D
-description_main_no_space_upper_length_3: 5DI
-description_main_no_space_upper_length_4: 5DIA
-description_main_no_space_upper_length_5: 5DIAM
-description_main_no_space_upper_length_6: 5DIAME
 description_main_upper: 5_DIAMETER_3_MM_DEPTH
-description_main_upper_length_1: '5'
-description_main_upper_length_2: '5_'
-description_main_upper_length_3: 5_D
-description_main_upper_length_4: 5_DI
-description_main_upper_length_5: 5_DIA
-description_main_upper_length_6: 5_DIAM
 description_only_numbers: '53'
 description_only_numbers_short: '53'
 description_or_color: '53'
 description_or_color_upper: '53'
 directory: parts/oobb_part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
 id: oobb_part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
 id_no_class: part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
-id_no_color: 5diameter3mmdepthm3shaft40teethextra
 id_no_size: 5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
 id_no_type: gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra](none)<br>[](none)<br>[Oobb
@@ -175,12 +49,11 @@ md5_6: eea7da
 md5_6_alpha: 9b8be
 md5_6_alpha_upper: 9B8BE
 md5_6_upper: EEA7DA
-name: Oobb Part Gear 5 Diameter 3 mm Depth M3 Shaft 40 Teeth Extra
-name_no_class: Part Gear 5 Diameter 3 mm Depth M3 Shaft 40 Teeth Extra
-name_no_color: 5Diameter3mmdepthm3Shaft40Teethextra
-name_no_size: 5 Diameter 3 mm Depth M3 Shaft 40 Teeth Extra
+name: Oobb Part Gear 5 Diameter 3 Mm Depth M3 Shaft 40 Teeth Extra
+name_no_class: Part Gear 5 Diameter 3 Mm Depth M3 Shaft 40 Teeth Extra
+name_no_size: 5 Diameter 3 Mm Depth M3 Shaft 40 Teeth Extra
 name_no_size_short: 5 Diameter 3 Mm Depth M3 Shaft 40 Teeth Extra
-name_no_type: Gear 5 Diameter 3 mm Depth M3 Shaft 40 Teeth Extra
+name_no_type: Gear 5 Diameter 3 Mm Depth M3 Shaft 40 Teeth Extra
 oomp_key: oomp_oobb_part_gear_5_diameter_3_mm_depth_m3_shaft_40_teeth_extra
 oomp_word: ambulance guitar hotel
 oomp_word_emoji: ':ambulance: :guitar: :hotel:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: gear
 size_capital: Gear
 size_first_letter: g
 size_first_letter_upper: G
-size_length_1: g
-size_length_2: ge
-size_length_3: gea
-size_length_4: gear
-size_length_5: gear
-size_length_6: gear
-size_name: Gear
-size_no_space_length_1: g
-size_no_space_length_2: ge
-size_no_space_length_3: gea
-size_no_space_length_4: gear
-size_no_space_length_5: gear
-size_no_space_length_6: gear
-size_no_space_upper_length_1: G
-size_no_space_upper_length_2: GE
-size_no_space_upper_length_3: GEA
-size_no_space_upper_length_4: GEAR
-size_no_space_upper_length_5: GEAR
-size_no_space_upper_length_6: GEAR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GEAR
-size_upper_length_1: G
-size_upper_length_2: GE
-size_upper_length_3: GEA
-size_upper_length_4: GEAR
-size_upper_length_5: GEAR
-size_upper_length_6: GEAR
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

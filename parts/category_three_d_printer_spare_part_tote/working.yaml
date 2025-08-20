@@ -1,122 +1,23 @@
-bip_39_word_dash_12: surround-short-famous-voice-diet-globe-danger-shock-crash-receive-similar-another
-bip_39_word_dash_2: surround-short
-bip_39_word_dash_3: surround-short-famous
-bip_39_word_new_br_12: surround<br>short<br>famous<br>voice<br>diet<br>globe<br>danger<br>shock<br>crash<br>receive<br>similar<br>another
-bip_39_word_new_br_2: surround<br>short
-bip_39_word_new_br_3: surround<br>short<br>famous
-bip_39_word_new_line_12: 'surround
-
-  short
-
-  famous
-
-  voice
-
-  diet
-
-  globe
-
-  danger
-
-  shock
-
-  crash
-
-  receive
-
-  similar
-
-  another'
-bip_39_word_new_line_2: 'surround
-
-  short'
-bip_39_word_new_line_3: 'surround
-
-  short
-
-  famous'
-bip_39_word_no_space_12: surroundshortfamousvoicedietglobedangershockcrashreceivesimilaranother
-bip_39_word_no_space_2: surroundshort
-bip_39_word_no_space_3: surroundshortfamous
-bip_39_word_space_12: surround short famous voice diet globe danger shock crash receive
-  similar another
-bip_39_word_space_2: surround short
-bip_39_word_space_3: surround short famous
-bip_39_word_underscore_12: surround_short_famous_voice_diet_globe_danger_shock_crash_receive_similar_another
-bip_39_word_underscore_2: surround_short
-bip_39_word_underscore_3: surround_short_famous
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_three_d_printer
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_three_d_printer_spare_part_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_three_d_printer_spare_part_tote
 id: category_three_d_printer_spare_part_tote
 id_no_class: three_d_printer_spare_part_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: spare_part_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_three_d_printer_spare_part_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 5ZPPO
 md5_6_upper: 9991EC
 name: Category Three D Printer Spare Part Tote
 name_no_class: Three D Printer Spare Part Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Spare Part Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: spare_part
 size_capital: Spare Part
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sp
-size_length_3: spa
-size_length_4: spar
-size_length_5: spare
-size_length_6: spare_
-size_name: Spare Part
-size_no_space_length_1: s
-size_no_space_length_2: sp
-size_no_space_length_3: spa
-size_no_space_length_4: spar
-size_no_space_length_5: spare
-size_no_space_length_6: sparep
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SP
-size_no_space_upper_length_3: SPA
-size_no_space_upper_length_4: SPAR
-size_no_space_upper_length_5: SPARE
-size_no_space_upper_length_6: SPAREP
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SPARE_PART
-size_upper_length_1: S
-size_upper_length_2: SP
-size_upper_length_3: SPA
-size_upper_length_4: SPAR
-size_upper_length_5: SPARE
-size_upper_length_6: SPARE_
 type: three_d_printer
 type_capital: Three D Printer
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: th
-type_length_3: thr
-type_length_4: thre
-type_length_5: three
-type_length_6: three_
-type_name: Three D Printer
-type_no_space_length_1: t
-type_no_space_length_2: th
-type_no_space_length_3: thr
-type_no_space_length_4: thre
-type_no_space_length_5: three
-type_no_space_length_6: threed
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TH
-type_no_space_upper_length_3: THR
-type_no_space_upper_length_4: THRE
-type_no_space_upper_length_5: THREE
-type_no_space_upper_length_6: THREED
 type_upper: THREE_D_PRINTER
-type_upper_length_1: T
-type_upper_length_2: TH
-type_upper_length_3: THR
-type_upper_length_4: THRE
-type_upper_length_5: THREE
-type_upper_length_6: THREE_

@@ -1,121 +1,22 @@
-bip_39_word_dash_12: fade-chest-exclude-talent-hawk-soldier-august-peasant-video-truth-fashion-afford
-bip_39_word_dash_2: fade-chest
-bip_39_word_dash_3: fade-chest-exclude
-bip_39_word_new_br_12: fade<br>chest<br>exclude<br>talent<br>hawk<br>soldier<br>august<br>peasant<br>video<br>truth<br>fashion<br>afford
-bip_39_word_new_br_2: fade<br>chest
-bip_39_word_new_br_3: fade<br>chest<br>exclude
-bip_39_word_new_line_12: 'fade
-
-  chest
-
-  exclude
-
-  talent
-
-  hawk
-
-  soldier
-
-  august
-
-  peasant
-
-  video
-
-  truth
-
-  fashion
-
-  afford'
-bip_39_word_new_line_2: 'fade
-
-  chest'
-bip_39_word_new_line_3: 'fade
-
-  chest
-
-  exclude'
-bip_39_word_no_space_12: fadechestexcludetalenthawksoldieraugustpeasantvideotruthfashionafford
-bip_39_word_no_space_2: fadechest
-bip_39_word_no_space_3: fadechestexclude
-bip_39_word_space_12: fade chest exclude talent hawk soldier august peasant video
-  truth fashion afford
-bip_39_word_space_2: fade chest
-bip_39_word_space_3: fade chest exclude
-bip_39_word_underscore_12: fade_chest_exclude_talent_hawk_soldier_august_peasant_video_truth_fashion_afford
-bip_39_word_underscore_2: fade_chest
-bip_39_word_underscore_3: fade_chest_exclude
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: yellow
 color_capital: Yellow
 color_first_letter: y
 color_first_letter_upper: Y
-color_length_1: y
-color_length_2: ye
-color_length_3: yel
-color_length_4: yell
-color_length_5: yello
-color_length_6: yellow
-color_name: Yellow
-color_no_space_length_1: y
-color_no_space_length_2: ye
-color_no_space_length_3: yel
-color_no_space_length_4: yell
-color_no_space_length_5: yello
-color_no_space_length_6: yellow
-color_no_space_upper_length_1: Y
-color_no_space_upper_length_2: YE
-color_no_space_upper_length_3: YEL
-color_no_space_upper_length_4: YELL
-color_no_space_upper_length_5: YELLO
-color_no_space_upper_length_6: YELLOW
 color_upper: YELLOW
-color_upper_length_1: Y
-color_upper_length_2: YE
-color_upper_length_3: YEL
-color_upper_length_4: YELL
-color_upper_length_5: YELLO
-color_upper_length_6: YELLOW
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/electronic_led_3_mm_yellow
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_3_mm_yellow
 id: electronic_led_3_mm_yellow
 id_no_class: led_3_mm_yellow
-id_no_color: yellow
 id_no_size: yellow
 id_no_type: 3_mm_yellow
 kicad_reference: L
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_3_mm_yellow](none)<br>[l3y](none)<br>[Electronic Led
@@ -154,12 +52,11 @@ md5_6: 46a6ba
 md5_6_alpha: 2r8oq
 md5_6_alpha_upper: 2R8OQ
 md5_6_upper: 46A6BA
-name: Electronic LED 3 mm Yellow
-name_no_class: LED 3 mm Yellow
-name_no_color: Yellow
+name: Electronic Led 3 Mm Yellow
+name_no_class: Led 3 Mm Yellow
 name_no_size: Yellow
 name_no_size_short: Yellow
-name_no_type: 3 mm Yellow
+name_no_type: 3 Mm Yellow
 oomp_key: oomp_electronic_led_3_mm_yellow
 oomp_word: bird trumpet spaghetti
 oomp_word_emoji: ':bird: :trumpet: :spaghetti:'
@@ -175,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: l3y
 short_code_upper: L3Y
@@ -184,34 +80,9 @@ size: 3_mm
 size_capital: 3 mm
 size_first_letter: '3'
 size_first_letter_upper: '3'
-size_length_1: '3'
-size_length_2: '3_'
-size_length_3: 3_m
-size_length_4: 3_mm
-size_length_5: 3_mm
-size_length_6: 3_mm
-size_name: 3 mm
-size_no_space_length_1: '3'
-size_no_space_length_2: 3m
-size_no_space_length_3: 3mm
-size_no_space_length_4: 3mm
-size_no_space_length_5: 3mm
-size_no_space_length_6: 3mm
-size_no_space_upper_length_1: '3'
-size_no_space_upper_length_2: 3M
-size_no_space_upper_length_3: 3MM
-size_no_space_upper_length_4: 3MM
-size_no_space_upper_length_5: 3MM
-size_no_space_upper_length_6: 3MM
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: 3_MM
-size_upper_length_1: '3'
-size_upper_length_2: '3_'
-size_upper_length_3: 3_M
-size_upper_length_4: 3_MM
-size_upper_length_5: 3_MM
-size_upper_length_6: 3_MM
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
   index: 0
@@ -221,29 +92,4 @@ type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

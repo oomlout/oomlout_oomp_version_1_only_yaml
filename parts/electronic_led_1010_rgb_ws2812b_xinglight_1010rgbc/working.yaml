@@ -1,146 +1,23 @@
-bip_39_word_dash_12: galaxy-render-lunch-spend-hip-spike-arm-trophy-diet-leisure-mechanic-arrive
-bip_39_word_dash_2: galaxy-render
-bip_39_word_dash_3: galaxy-render-lunch
-bip_39_word_new_br_12: galaxy<br>render<br>lunch<br>spend<br>hip<br>spike<br>arm<br>trophy<br>diet<br>leisure<br>mechanic<br>arrive
-bip_39_word_new_br_2: galaxy<br>render
-bip_39_word_new_br_3: galaxy<br>render<br>lunch
-bip_39_word_new_line_12: 'galaxy
-
-  render
-
-  lunch
-
-  spend
-
-  hip
-
-  spike
-
-  arm
-
-  trophy
-
-  diet
-
-  leisure
-
-  mechanic
-
-  arrive'
-bip_39_word_new_line_2: 'galaxy
-
-  render'
-bip_39_word_new_line_3: 'galaxy
-
-  render
-
-  lunch'
-bip_39_word_no_space_12: galaxyrenderlunchspendhipspikearmtrophydietleisuremechanicarrive
-bip_39_word_no_space_2: galaxyrender
-bip_39_word_no_space_3: galaxyrenderlunch
-bip_39_word_space_12: galaxy render lunch spend hip spike arm trophy diet leisure
-  mechanic arrive
-bip_39_word_space_2: galaxy render
-bip_39_word_space_3: galaxy render lunch
-bip_39_word_underscore_12: galaxy_render_lunch_spend_hip_spike_arm_trophy_diet_leisure_mechanic_arrive
-bip_39_word_underscore_2: galaxy_render
-bip_39_word_underscore_3: galaxy_render_lunch
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: rgb
 color_capital: Rgb
 color_first_letter: r
 color_first_letter_upper: R
-color_length_1: r
-color_length_2: rg
-color_length_3: rgb
-color_length_4: rgb
-color_length_5: rgb
-color_length_6: rgb
-color_name: RGB
-color_no_space_length_1: r
-color_no_space_length_2: rg
-color_no_space_length_3: rgb
-color_no_space_length_4: rgb
-color_no_space_length_5: rgb
-color_no_space_length_6: rgb
-color_no_space_upper_length_1: R
-color_no_space_upper_length_2: RG
-color_no_space_upper_length_3: RGB
-color_no_space_upper_length_4: RGB
-color_no_space_upper_length_5: RGB
-color_no_space_upper_length_6: RGB
 color_upper: RGB
-color_upper_length_1: R
-color_upper_length_2: RG
-color_upper_length_3: RGB
-color_upper_length_4: RGB
-color_upper_length_5: RGB
-color_upper_length_6: RGB
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ws2812b
 description_main_capital: Ws2812B
 description_main_first_letter: w
 description_main_first_letter_upper: W
-description_main_length_1: w
-description_main_length_2: ws
-description_main_length_3: ws2
-description_main_length_4: ws28
-description_main_length_5: ws281
-description_main_length_6: ws2812
-description_main_name: Ws2812B
-description_main_no_space_length_1: w
-description_main_no_space_length_2: ws
-description_main_no_space_length_3: ws2
-description_main_no_space_length_4: ws28
-description_main_no_space_length_5: ws281
-description_main_no_space_length_6: ws2812
-description_main_no_space_upper_length_1: W
-description_main_no_space_upper_length_2: WS
-description_main_no_space_upper_length_3: WS2
-description_main_no_space_upper_length_4: WS28
-description_main_no_space_upper_length_5: WS281
-description_main_no_space_upper_length_6: WS2812
 description_main_upper: WS2812B
-description_main_upper_length_1: W
-description_main_upper_length_2: WS
-description_main_upper_length_3: WS2
-description_main_upper_length_4: WS28
-description_main_upper_length_5: WS281
-description_main_upper_length_6: WS2812
 description_only_numbers: '2812'
 description_only_numbers_short: 2k8
 description_or_color: R2k8
@@ -160,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_l101028121010rgbc_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 id: electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 id_no_class: led_1010_rgb_ws2812b_xinglight_1010rgbc
-id_no_color: ws2812b_xinglight_1010rgbc
 id_no_size: rgb_ws2812b_xinglight_1010rgbc
 id_no_type: 1010_rgb_ws2812b_xinglight_1010rgbc
 kicad_reference: L
@@ -174,32 +49,7 @@ manufacturer: xinglight
 manufacturer_capital: Xinglight
 manufacturer_first_letter: x
 manufacturer_first_letter_upper: X
-manufacturer_length_1: x
-manufacturer_length_2: xi
-manufacturer_length_3: xin
-manufacturer_length_4: xing
-manufacturer_length_5: xingl
-manufacturer_length_6: xingli
-manufacturer_name: Xinglight
-manufacturer_no_space_length_1: x
-manufacturer_no_space_length_2: xi
-manufacturer_no_space_length_3: xin
-manufacturer_no_space_length_4: xing
-manufacturer_no_space_length_5: xingl
-manufacturer_no_space_length_6: xingli
-manufacturer_no_space_upper_length_1: X
-manufacturer_no_space_upper_length_2: XI
-manufacturer_no_space_upper_length_3: XIN
-manufacturer_no_space_upper_length_4: XING
-manufacturer_no_space_upper_length_5: XINGL
-manufacturer_no_space_upper_length_6: XINGLI
 manufacturer_upper: XINGLIGHT
-manufacturer_upper_length_1: X
-manufacturer_upper_length_2: XI
-manufacturer_upper_length_3: XIN
-manufacturer_upper_length_4: XING
-manufacturer_upper_length_5: XINGL
-manufacturer_upper_length_6: XINGLI
 manufacturers: []
 markdown_full: '[electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc](none)<br>[l101028121010rgbc](none)<br>[Electronic
   Led 1010 Rgb Ws2812B Xinglight 1010Rgbc](none)<br><br>'
@@ -213,12 +63,11 @@ md5_6: c9145f
 md5_6_alpha: 7ug67
 md5_6_alpha_upper: 7UG67
 md5_6_upper: C9145F
-name: Electronic LED 1010 RGB Ws2812B Xinglight 1010RGBc
-name_no_class: LED 1010 RGB Ws2812B Xinglight 1010RGBc
-name_no_color: Ws2812B Xinglight 1010RGBc
-name_no_size: RGB Ws2812B Xinglight 1010RGBc
+name: Electronic Led 1010 Rgb Ws2812B Xinglight 1010Rgbc
+name_no_class: Led 1010 Rgb Ws2812B Xinglight 1010Rgbc
+name_no_size: Rgb Ws2812B Xinglight 1010Rgbc
 name_no_size_short: Rgb Ws2k8B Xinglight 1010Rgbc
-name_no_type: 1010 RGB Ws2812B Xinglight 1010RGBc
+name_no_type: 1010 Rgb Ws2812B Xinglight 1010Rgbc
 oomp_key: oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 oomp_word: lemon fire leopard
 oomp_word_emoji: ':lemon: :fire: :leopard:'
@@ -234,32 +83,7 @@ part_number: 1010rgbc
 part_number_capital: 1010Rgbc
 part_number_first_letter: '1'
 part_number_first_letter_upper: '1'
-part_number_length_1: '1'
-part_number_length_2: '10'
-part_number_length_3: '101'
-part_number_length_4: '1010'
-part_number_length_5: 1010r
-part_number_length_6: 1010rg
-part_number_name: 1010RGBc
-part_number_no_space_length_1: '1'
-part_number_no_space_length_2: '10'
-part_number_no_space_length_3: '101'
-part_number_no_space_length_4: '1010'
-part_number_no_space_length_5: 1010r
-part_number_no_space_length_6: 1010rg
-part_number_no_space_upper_length_1: '1'
-part_number_no_space_upper_length_2: '10'
-part_number_no_space_upper_length_3: '101'
-part_number_no_space_upper_length_4: '1010'
-part_number_no_space_upper_length_5: 1010R
-part_number_no_space_upper_length_6: 1010RG
 part_number_upper: 1010RGBC
-part_number_upper_length_1: '1'
-part_number_upper_length_2: '10'
-part_number_upper_length_3: '101'
-part_number_upper_length_4: '1010'
-part_number_upper_length_5: 1010R
-part_number_upper_length_6: 1010RG
 pins:
   pin_1:
     name: do
@@ -284,34 +108,9 @@ size: '1010'
 size_capital: '1010'
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '10'
-size_length_3: '101'
-size_length_4: '1010'
-size_length_5: '1010'
-size_length_6: '1010'
-size_name: '1010'
-size_no_space_length_1: '1'
-size_no_space_length_2: '10'
-size_no_space_length_3: '101'
-size_no_space_length_4: '1010'
-size_no_space_length_5: '1010'
-size_no_space_length_6: '1010'
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: '10'
-size_no_space_upper_length_3: '101'
-size_no_space_upper_length_4: '1010'
-size_no_space_upper_length_5: '1010'
-size_no_space_upper_length_6: '1010'
 size_only_numbers: '1010'
 size_only_numbers_no_zeros: '11'
 size_upper: '1010'
-size_upper_length_1: '1'
-size_upper_length_2: '10'
-size_upper_length_3: '101'
-size_upper_length_4: '1010'
-size_upper_length_5: '1010'
-size_upper_length_6: '1010'
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_led_ws2812b//working/working.kicad_sym
   index: 0
@@ -321,29 +120,4 @@ type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

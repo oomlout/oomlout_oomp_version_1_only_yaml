@@ -1,98 +1,23 @@
-bip_39_word_dash_12: juice-tumble-hazard-horror-guilt-upper-modify-volcano-innocent-attack-nose-arrow
-bip_39_word_dash_2: juice-tumble
-bip_39_word_dash_3: juice-tumble-hazard
-bip_39_word_new_br_12: juice<br>tumble<br>hazard<br>horror<br>guilt<br>upper<br>modify<br>volcano<br>innocent<br>attack<br>nose<br>arrow
-bip_39_word_new_br_2: juice<br>tumble
-bip_39_word_new_br_3: juice<br>tumble<br>hazard
-bip_39_word_new_line_12: 'juice
-
-  tumble
-
-  hazard
-
-  horror
-
-  guilt
-
-  upper
-
-  modify
-
-  volcano
-
-  innocent
-
-  attack
-
-  nose
-
-  arrow'
-bip_39_word_new_line_2: 'juice
-
-  tumble'
-bip_39_word_new_line_3: 'juice
-
-  tumble
-
-  hazard'
-bip_39_word_no_space_12: juicetumblehazardhorrorguiltuppermodifyvolcanoinnocentattacknosearrow
-bip_39_word_no_space_2: juicetumble
-bip_39_word_no_space_3: juicetumblehazard
-bip_39_word_space_12: juice tumble hazard horror guilt upper modify volcano innocent
-  attack nose arrow
-bip_39_word_space_2: juice tumble
-bip_39_word_space_3: juice tumble hazard
-bip_39_word_underscore_12: juice_tumble_hazard_horror_guilt_upper_modify_volcano_innocent_attack_nose_arrow
-bip_39_word_underscore_2: juice_tumble
-bip_39_word_underscore_3: juice_tumble_hazard
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_computer
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_computer_video_conferencing
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer_video_conferencing
 id: category_computer_video_conferencing
 id_no_class: computer_video_conferencing
-id_no_color: videoconferencing
 id_no_size: video_conferencing
 id_no_type: video_conferencing
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_computer_video_conferencing](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 7XE4J
 md5_6_upper: CB2CC3
 name: Category Computer Video Conferencing
 name_no_class: Computer Video Conferencing
-name_no_color: Videoconferencing
 name_no_size: Video Conferencing
 name_no_size_short: Video Conferencing
 name_no_type: Video Conferencing
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: video_conferencing
 size_capital: Video Conferencing
 size_first_letter: v
 size_first_letter_upper: V
-size_length_1: v
-size_length_2: vi
-size_length_3: vid
-size_length_4: vide
-size_length_5: video
-size_length_6: video_
-size_name: Video Conferencing
-size_no_space_length_1: v
-size_no_space_length_2: vi
-size_no_space_length_3: vid
-size_no_space_length_4: vide
-size_no_space_length_5: video
-size_no_space_length_6: videoc
-size_no_space_upper_length_1: V
-size_no_space_upper_length_2: VI
-size_no_space_upper_length_3: VID
-size_no_space_upper_length_4: VIDE
-size_no_space_upper_length_5: VIDEO
-size_no_space_upper_length_6: VIDEOC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: VIDEO_CONFERENCING
-size_upper_length_1: V
-size_upper_length_2: VI
-size_upper_length_3: VID
-size_upper_length_4: VIDE
-size_upper_length_5: VIDEO
-size_upper_length_6: VIDEO_
 type: computer
 type_capital: Computer
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: com
-type_length_4: comp
-type_length_5: compu
-type_length_6: comput
-type_name: Computer
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: com
-type_no_space_length_4: comp
-type_no_space_length_5: compu
-type_no_space_length_6: comput
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COM
-type_no_space_upper_length_4: COMP
-type_no_space_upper_length_5: COMPU
-type_no_space_upper_length_6: COMPUT
 type_upper: COMPUTER
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COM
-type_upper_length_4: COMP
-type_upper_length_5: COMPU
-type_upper_length_6: COMPUT

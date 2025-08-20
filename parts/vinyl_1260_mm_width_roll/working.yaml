@@ -1,121 +1,22 @@
-bip_39_word_dash_12: carbon-print-swarm-can-upper-crash-wealth-neither-margin-surround-ability-alter
-bip_39_word_dash_2: carbon-print
-bip_39_word_dash_3: carbon-print-swarm
-bip_39_word_new_br_12: carbon<br>print<br>swarm<br>can<br>upper<br>crash<br>wealth<br>neither<br>margin<br>surround<br>ability<br>alter
-bip_39_word_new_br_2: carbon<br>print
-bip_39_word_new_br_3: carbon<br>print<br>swarm
-bip_39_word_new_line_12: 'carbon
-
-  print
-
-  swarm
-
-  can
-
-  upper
-
-  crash
-
-  wealth
-
-  neither
-
-  margin
-
-  surround
-
-  ability
-
-  alter'
-bip_39_word_new_line_2: 'carbon
-
-  print'
-bip_39_word_new_line_3: 'carbon
-
-  print
-
-  swarm'
-bip_39_word_no_space_12: carbonprintswarmcanuppercrashwealthneithermarginsurroundabilityalter
-bip_39_word_no_space_2: carbonprint
-bip_39_word_no_space_3: carbonprintswarm
-bip_39_word_space_12: carbon print swarm can upper crash wealth neither margin surround
-  ability alter
-bip_39_word_space_2: carbon print
-bip_39_word_space_3: carbon print swarm
-bip_39_word_underscore_12: carbon_print_swarm_can_upper_crash_wealth_neither_margin_surround_ability_alter
-bip_39_word_underscore_2: carbon_print
-bip_39_word_underscore_3: carbon_print_swarm
 classification: vinyl
 classification_capital: Vinyl
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl
-classification_name: Vinyl
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinyl
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYL
 classification_upper: VINYL
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: 1260_mm_width_roll
 description_extra_capital: 1260 mm Width Roll
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
-description_extra_length_1: '1'
-description_extra_length_2: '12'
-description_extra_length_3: '126'
-description_extra_length_4: '1260'
-description_extra_length_5: '1260_'
-description_extra_length_6: 1260_m
-description_extra_name: 1260 mm Width Roll
-description_extra_no_space_length_1: '1'
-description_extra_no_space_length_2: '12'
-description_extra_no_space_length_3: '126'
-description_extra_no_space_length_4: '1260'
-description_extra_no_space_length_5: 1260m
-description_extra_no_space_length_6: 1260mm
-description_extra_no_space_upper_length_1: '1'
-description_extra_no_space_upper_length_2: '12'
-description_extra_no_space_upper_length_3: '126'
-description_extra_no_space_upper_length_4: '1260'
-description_extra_no_space_upper_length_5: 1260M
-description_extra_no_space_upper_length_6: 1260MM
 description_extra_upper: 1260_MM_WIDTH_ROLL
-description_extra_upper_length_1: '1'
-description_extra_upper_length_2: '12'
-description_extra_upper_length_3: '126'
-description_extra_upper_length_4: '1260'
-description_extra_upper_length_5: '1260_'
-description_extra_upper_length_6: 1260_M
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/vinyl_1260_mm_width_roll
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_1260_mm_width_roll
 id: vinyl_1260_mm_width_roll
 id_no_class: 1260_mm_width_roll
-id_no_color: 1260mmwidthroll
 id_no_size: 1260mmwidthroll
 id_no_type: 1260mmwidthroll
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_1260_mm_width_roll
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[vinyl_1260_mm_width_roll](none)<br>[](none)<br>[Vinyl 1260 Mm Width
@@ -153,12 +51,11 @@ md5_6: '760076'
 md5_6_alpha: 4lr3q
 md5_6_alpha_upper: 4LR3Q
 md5_6_upper: '760076'
-name: Vinyl 1260 mm Width Roll
-name_no_class: 1260 mm Width Roll
-name_no_color: 1260mmwidthroll
-name_no_size: 1260mmwidthroll
+name: Vinyl 1260 Mm Width Roll
+name_no_class: 1260 Mm Width Roll
+name_no_size: 1260Mmwidthroll
 name_no_size_short: 1260Mmwidthroll
-name_no_type: 1260mmwidthroll
+name_no_type: 1260Mmwidthroll
 oomp_key: oomp_vinyl_1260_mm_width_roll
 oomp_word: santa bowtie santa
 oomp_word_emoji: ':santa: :bowtie: :santa:'
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,7 +78,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -190,6 +85,5 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''
 width: 1260 mm

@@ -1,147 +1,24 @@
-bip_39_word_dash_12: model-rose-hawk-soap-check-unusual-vital-wealth-steak-quiz-witness-ability
-bip_39_word_dash_2: model-rose
-bip_39_word_dash_3: model-rose-hawk
-bip_39_word_new_br_12: model<br>rose<br>hawk<br>soap<br>check<br>unusual<br>vital<br>wealth<br>steak<br>quiz<br>witness<br>ability
-bip_39_word_new_br_2: model<br>rose
-bip_39_word_new_br_3: model<br>rose<br>hawk
-bip_39_word_new_line_12: 'model
-
-  rose
-
-  hawk
-
-  soap
-
-  check
-
-  unusual
-
-  vital
-
-  wealth
-
-  steak
-
-  quiz
-
-  witness
-
-  ability'
-bip_39_word_new_line_2: 'model
-
-  rose'
-bip_39_word_new_line_3: 'model
-
-  rose
-
-  hawk'
-bip_39_word_no_space_12: modelrosehawksoapcheckunusualvitalwealthsteakquizwitnessability
-bip_39_word_no_space_2: modelrose
-bip_39_word_no_space_3: modelrosehawk
-bip_39_word_space_12: model rose hawk soap check unusual vital wealth steak quiz witness
-  ability
-bip_39_word_space_2: model rose
-bip_39_word_space_3: model rose hawk
-bip_39_word_underscore_12: model_rose_hawk_soap_check_unusual_vital_wealth_steak_quiz_witness_ability
-bip_39_word_underscore_2: model_rose
-bip_39_word_underscore_3: model_rose_hawk
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: sage
 description_extra: 100_gram_bag
 description_extra_capital: 100 Gram Bag
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
-description_extra_length_1: '1'
-description_extra_length_2: '10'
-description_extra_length_3: '100'
-description_extra_length_4: '100_'
-description_extra_length_5: 100_g
-description_extra_length_6: 100_gr
-description_extra_name: 100 Gram Bag
-description_extra_no_space_length_1: '1'
-description_extra_no_space_length_2: '10'
-description_extra_no_space_length_3: '100'
-description_extra_no_space_length_4: 100g
-description_extra_no_space_length_5: 100gr
-description_extra_no_space_length_6: 100gra
-description_extra_no_space_upper_length_1: '1'
-description_extra_no_space_upper_length_2: '10'
-description_extra_no_space_upper_length_3: '100'
-description_extra_no_space_upper_length_4: 100G
-description_extra_no_space_upper_length_5: 100GR
-description_extra_no_space_upper_length_6: 100GRA
 description_extra_upper: 100_GRAM_BAG
-description_extra_upper_length_1: '1'
-description_extra_upper_length_2: '10'
-description_extra_upper_length_3: '100'
-description_extra_upper_length_4: '100_'
-description_extra_upper_length_5: 100_G
-description_extra_upper_length_6: 100_GR
 description_main: sage
 description_main_capital: Sage
 description_main_first_letter: s
 description_main_first_letter_upper: S
-description_main_length_1: s
-description_main_length_2: sa
-description_main_length_3: sag
-description_main_length_4: sage
-description_main_length_5: sage
-description_main_length_6: sage
-description_main_name: Sage
-description_main_no_space_length_1: s
-description_main_no_space_length_2: sa
-description_main_no_space_length_3: sag
-description_main_no_space_length_4: sage
-description_main_no_space_length_5: sage
-description_main_no_space_length_6: sage
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SA
-description_main_no_space_upper_length_3: SAG
-description_main_no_space_upper_length_4: SAGE
-description_main_no_space_upper_length_5: SAGE
-description_main_no_space_upper_length_6: SAGE
 description_main_upper: SAGE
-description_main_upper_length_1: S
-description_main_upper_length_2: SA
-description_main_upper_length_3: SAG
-description_main_upper_length_4: SAGE
-description_main_upper_length_5: SAGE
-description_main_upper_length_6: SAGE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -150,10 +27,8 @@ directory: parts/food_seasoning_herb_sage_100_gram_bag
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_herb_sage_100_gram_bag
 id: food_seasoning_herb_sage_100_gram_bag
 id_no_class: seasoning_herb_sage_100_gram_bag
-id_no_color: sage100grambag
 id_no_size: sage_100_gram_bag
 id_no_type: herb_sage_100_gram_bag
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_sage_100_gram_bag
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_seasoning_herb_sage_100_gram_bag](none)<br>[](none)<br>[Food
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 5KYZ
 md5_6_upper: 03F96B
 name: Food Seasoning Herb Sage 100 Gram Bag
 name_no_class: Seasoning Herb Sage 100 Gram Bag
-name_no_color: Sage100Grambag
 name_no_size: Sage 100 Gram Bag
 name_no_size_short: Sage 100 Gram Bag
 name_no_type: Herb Sage 100 Gram Bag
@@ -200,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -208,61 +80,11 @@ size: herb
 size_capital: Herb
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: her
-size_length_4: herb
-size_length_5: herb
-size_length_6: herb
-size_name: Herb
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: her
-size_no_space_length_4: herb
-size_no_space_length_5: herb
-size_no_space_length_6: herb
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HER
-size_no_space_upper_length_4: HERB
-size_no_space_upper_length_5: HERB
-size_no_space_upper_length_6: HERB
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HERB
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HER
-size_upper_length_4: HERB
-size_upper_length_5: HERB
-size_upper_length_6: HERB
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: se
-type_length_3: sea
-type_length_4: seas
-type_length_5: seaso
-type_length_6: season
-type_name: Seasoning
-type_no_space_length_1: s
-type_no_space_length_2: se
-type_no_space_length_3: sea
-type_no_space_length_4: seas
-type_no_space_length_5: seaso
-type_no_space_length_6: season
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SE
-type_no_space_upper_length_3: SEA
-type_no_space_upper_length_4: SEAS
-type_no_space_upper_length_5: SEASO
-type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
-type_upper_length_1: S
-type_upper_length_2: SE
-type_upper_length_3: SEA
-type_upper_length_4: SEAS
-type_upper_length_5: SEASO
-type_upper_length_6: SEASON

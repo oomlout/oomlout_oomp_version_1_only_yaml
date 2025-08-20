@@ -1,146 +1,23 @@
-bip_39_word_dash_12: ask-upper-car-peanut-wheat-seven-verb-buyer-blouse-burger-orchard-alone
-bip_39_word_dash_2: ask-upper
-bip_39_word_dash_3: ask-upper-car
-bip_39_word_new_br_12: ask<br>upper<br>car<br>peanut<br>wheat<br>seven<br>verb<br>buyer<br>blouse<br>burger<br>orchard<br>alone
-bip_39_word_new_br_2: ask<br>upper
-bip_39_word_new_br_3: ask<br>upper<br>car
-bip_39_word_new_line_12: 'ask
-
-  upper
-
-  car
-
-  peanut
-
-  wheat
-
-  seven
-
-  verb
-
-  buyer
-
-  blouse
-
-  burger
-
-  orchard
-
-  alone'
-bip_39_word_new_line_2: 'ask
-
-  upper'
-bip_39_word_new_line_3: 'ask
-
-  upper
-
-  car'
-bip_39_word_no_space_12: askuppercarpeanutwheatsevenverbbuyerblouseburgerorchardalone
-bip_39_word_no_space_2: askupper
-bip_39_word_no_space_3: askuppercar
-bip_39_word_space_12: ask upper car peanut wheat seven verb buyer blouse burger orchard
-  alone
-bip_39_word_space_2: ask upper
-bip_39_word_space_3: ask upper car
-bip_39_word_underscore_12: ask_upper_car_peanut_wheat_seven_verb_buyer_blouse_burger_orchard_alone
-bip_39_word_underscore_2: ask_upper
-bip_39_word_underscore_3: ask_upper_car
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 5000_mm_length
 color_capital: 5000 mm Length
 color_first_letter: '5'
 color_first_letter_upper: '5'
-color_length_1: '5'
-color_length_2: '50'
-color_length_3: '500'
-color_length_4: '5000'
-color_length_5: '5000_'
-color_length_6: 5000_m
-color_name: 5000 mm Length
-color_no_space_length_1: '5'
-color_no_space_length_2: '50'
-color_no_space_length_3: '500'
-color_no_space_length_4: '5000'
-color_no_space_length_5: 5000m
-color_no_space_length_6: 5000mm
-color_no_space_upper_length_1: '5'
-color_no_space_upper_length_2: '50'
-color_no_space_upper_length_3: '500'
-color_no_space_upper_length_4: '5000'
-color_no_space_upper_length_5: 5000M
-color_no_space_upper_length_6: 5000MM
 color_upper: 5000_MM_LENGTH
-color_upper_length_1: '5'
-color_upper_length_2: '50'
-color_upper_length_3: '500'
-color_upper_length_4: '5000'
-color_upper_length_5: '5000_'
-color_upper_length_6: 5000_M
 description: category_tool
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_tool_measure_tape_measure_5000_mm_length_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length_tote
 id: category_tool_measure_tape_measure_5000_mm_length_tote
 id_no_class: tool_measure_tape_measure_5000_mm_length_tote
-id_no_color: tote
 id_no_size: 5000_mm_length_tote
 id_no_type: measure_tape_measure_5000_mm_length_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure_5000_mm_length_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_measure_tape_measure_5000_mm_length_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: 6f3807
 md5_6_alpha: 4c83r
 md5_6_alpha_upper: 4C83R
 md5_6_upper: 6F3807
-name: Category Tool Measure Tape Measure 5000 mm Length Tote
-name_no_class: Tool Measure Tape Measure 5000 mm Length Tote
-name_no_color: Tote
-name_no_size: 5000 mm Length Tote
+name: Category Tool Measure Tape Measure 5000 Mm Length Tote
+name_no_class: Tool Measure Tape Measure 5000 Mm Length Tote
+name_no_size: 5000 Mm Length Tote
 name_no_size_short: 5000 Mm Length Tote
-name_no_type: Measure Tape Measure 5000 mm Length Tote
+name_no_type: Measure Tape Measure 5000 Mm Length Tote
 oomp_key: oomp_category_tool_measure_tape_measure_5000_mm_length_tote
 oomp_word: moon frog cry
 oomp_word_emoji: ':moon: :frog: :cry:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: measure_tape_measure
 size_capital: Measure Tape Measure
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: me
-size_length_3: mea
-size_length_4: meas
-size_length_5: measu
-size_length_6: measur
-size_name: Measure Tape Measure
-size_no_space_length_1: m
-size_no_space_length_2: me
-size_no_space_length_3: mea
-size_no_space_length_4: meas
-size_no_space_length_5: measu
-size_no_space_length_6: measur
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: ME
-size_no_space_upper_length_3: MEA
-size_no_space_upper_length_4: MEAS
-size_no_space_upper_length_5: MEASU
-size_no_space_upper_length_6: MEASUR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MEASURE_TAPE_MEASURE
-size_upper_length_1: M
-size_upper_length_2: ME
-size_upper_length_3: MEA
-size_upper_length_4: MEAS
-size_upper_length_5: MEASU
-size_upper_length_6: MEASUR
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

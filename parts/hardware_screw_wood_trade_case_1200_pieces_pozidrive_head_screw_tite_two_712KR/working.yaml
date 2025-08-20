@@ -1,146 +1,23 @@
-bip_39_word_dash_12: leave-tag-sibling-hill-defy-tide-bacon-sea-they-carpet-pear-account
-bip_39_word_dash_2: leave-tag
-bip_39_word_dash_3: leave-tag-sibling
-bip_39_word_new_br_12: leave<br>tag<br>sibling<br>hill<br>defy<br>tide<br>bacon<br>sea<br>they<br>carpet<br>pear<br>account
-bip_39_word_new_br_2: leave<br>tag
-bip_39_word_new_br_3: leave<br>tag<br>sibling
-bip_39_word_new_line_12: 'leave
-
-  tag
-
-  sibling
-
-  hill
-
-  defy
-
-  tide
-
-  bacon
-
-  sea
-
-  they
-
-  carpet
-
-  pear
-
-  account'
-bip_39_word_new_line_2: 'leave
-
-  tag'
-bip_39_word_new_line_3: 'leave
-
-  tag
-
-  sibling'
-bip_39_word_no_space_12: leavetagsiblinghilldefytidebaconseatheycarpetpearaccount
-bip_39_word_no_space_2: leavetag
-bip_39_word_no_space_3: leavetagsibling
-bip_39_word_space_12: leave tag sibling hill defy tide bacon sea they carpet pear
-  account
-bip_39_word_space_2: leave tag
-bip_39_word_space_3: leave tag sibling
-bip_39_word_underscore_12: leave_tag_sibling_hill_defy_tide_bacon_sea_they_carpet_pear_account
-bip_39_word_underscore_2: leave_tag
-bip_39_word_underscore_3: leave_tag_sibling
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: pozidrive_head
 description_extra_capital: Pozidrive Head
 description_extra_first_letter: p
 description_extra_first_letter_upper: P
-description_extra_length_1: p
-description_extra_length_2: po
-description_extra_length_3: poz
-description_extra_length_4: pozi
-description_extra_length_5: pozid
-description_extra_length_6: pozidr
-description_extra_name: Pozidrive Head
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: po
-description_extra_no_space_length_3: poz
-description_extra_no_space_length_4: pozi
-description_extra_no_space_length_5: pozid
-description_extra_no_space_length_6: pozidr
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PO
-description_extra_no_space_upper_length_3: POZ
-description_extra_no_space_upper_length_4: POZI
-description_extra_no_space_upper_length_5: POZID
-description_extra_no_space_upper_length_6: POZIDR
 description_extra_upper: POZIDRIVE_HEAD
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PO
-description_extra_upper_length_3: POZ
-description_extra_upper_length_4: POZI
-description_extra_upper_length_5: POZID
-description_extra_upper_length_6: POZIDR
 description_main: trade_case_1200_pieces
 description_main_capital: Trade Case 1200 Pieces
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: tr
-description_main_length_3: tra
-description_main_length_4: trad
-description_main_length_5: trade
-description_main_length_6: trade_
-description_main_name: Trade Case 1200 Pieces
-description_main_no_space_length_1: t
-description_main_no_space_length_2: tr
-description_main_no_space_length_3: tra
-description_main_no_space_length_4: trad
-description_main_no_space_length_5: trade
-description_main_no_space_length_6: tradec
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TR
-description_main_no_space_upper_length_3: TRA
-description_main_no_space_upper_length_4: TRAD
-description_main_no_space_upper_length_5: TRADE
-description_main_no_space_upper_length_6: TRADEC
 description_main_upper: TRADE_CASE_1200_PIECES
-description_main_upper_length_1: T
-description_main_upper_length_2: TR
-description_main_upper_length_3: TRA
-description_main_upper_length_4: TRAD
-description_main_upper_length_5: TRADE
-description_main_upper_length_6: TRADE_
 description_only_numbers: '1200'
 description_only_numbers_short: 1k2
 description_or_color: 1k2
@@ -149,10 +26,8 @@ directory: parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
 id: hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
 id_no_class: screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
-id_no_color: tradecase1200piecespozidriveheadscrewtitetwo712KR
 id_no_size: tradecase1200piecespozidriveheadscrewtitetwo712KR
 id_no_type: trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR
@@ -162,32 +37,7 @@ manufacturer: screw_tite_two
 manufacturer_capital: Screw Tite Two
 manufacturer_first_letter: s
 manufacturer_first_letter_upper: S
-manufacturer_length_1: s
-manufacturer_length_2: sc
-manufacturer_length_3: scr
-manufacturer_length_4: scre
-manufacturer_length_5: screw
-manufacturer_length_6: screw_
-manufacturer_name: Screw Tite Two
-manufacturer_no_space_length_1: s
-manufacturer_no_space_length_2: sc
-manufacturer_no_space_length_3: scr
-manufacturer_no_space_length_4: scre
-manufacturer_no_space_length_5: screw
-manufacturer_no_space_length_6: screwt
-manufacturer_no_space_upper_length_1: S
-manufacturer_no_space_upper_length_2: SC
-manufacturer_no_space_upper_length_3: SCR
-manufacturer_no_space_upper_length_4: SCRE
-manufacturer_no_space_upper_length_5: SCREW
-manufacturer_no_space_upper_length_6: SCREWT
 manufacturer_upper: SCREW_TITE_TWO
-manufacturer_upper_length_1: S
-manufacturer_upper_length_2: SC
-manufacturer_upper_length_3: SCR
-manufacturer_upper_length_4: SCRE
-manufacturer_upper_length_5: SCREW
-manufacturer_upper_length_6: SCREW_
 manufacturers: []
 markdown_full: '[hardware_screw_wood_trade_case_1200_pieces_pozidrive_head_screw_tite_two_712KR](none)<br>[pz](none)<br>[Hardware
   Screw Wood Trade Case 1200 Pieces Pozidrive Head Screw Tite Two 712Kr](none)<br><br>'
@@ -203,7 +53,6 @@ md5_6_alpha_upper: ZHMW
 md5_6_upper: '194408'
 name: Hardware Screw Wood Trade Case 1200 Pieces Pozidrive Head Screw Tite Two 712Kr
 name_no_class: Screw Wood Trade Case 1200 Pieces Pozidrive Head Screw Tite Two 712Kr
-name_no_color: Tradecase1200Piecespozidriveheadscrewtitetwo712Kr
 name_no_size: Tradecase1200Piecespozidriveheadscrewtitetwo712Kr
 name_no_size_short: Tradecase1k2Piecespozidriveheadscrewtitetwo712Kr
 name_no_type: Trade Case 1200 Pieces Pozidrive Head Screw Tite Two 712Kr
@@ -222,32 +71,7 @@ part_number: 712KR
 part_number_capital: 712Kr
 part_number_first_letter: '7'
 part_number_first_letter_upper: '7'
-part_number_length_1: '7'
-part_number_length_2: '71'
-part_number_length_3: '712'
-part_number_length_4: 712K
-part_number_length_5: 712KR
-part_number_length_6: 712KR
-part_number_name: 712Kr
-part_number_no_space_length_1: '7'
-part_number_no_space_length_2: '71'
-part_number_no_space_length_3: '712'
-part_number_no_space_length_4: 712K
-part_number_no_space_length_5: 712KR
-part_number_no_space_length_6: 712KR
-part_number_no_space_upper_length_1: '7'
-part_number_no_space_upper_length_2: '71'
-part_number_no_space_upper_length_3: '712'
-part_number_no_space_upper_length_4: 712K
-part_number_no_space_upper_length_5: 712KR
-part_number_no_space_upper_length_6: 712KR
 part_number_upper: 712KR
-part_number_upper_length_1: '7'
-part_number_upper_length_2: '71'
-part_number_upper_length_3: '712'
-part_number_upper_length_4: 712K
-part_number_upper_length_5: 712KR
-part_number_upper_length_6: 712KR
 short_code: pz
 short_code_upper: PZ
 short_name: ''
@@ -255,7 +79,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -263,29 +86,4 @@ type: screw_wood
 type_capital: Screw Wood
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sc
-type_length_3: scr
-type_length_4: scre
-type_length_5: screw
-type_length_6: screw_
-type_name: Screw Wood
-type_no_space_length_1: s
-type_no_space_length_2: sc
-type_no_space_length_3: scr
-type_no_space_length_4: scre
-type_no_space_length_5: screw
-type_no_space_length_6: screww
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SC
-type_no_space_upper_length_3: SCR
-type_no_space_upper_length_4: SCRE
-type_no_space_upper_length_5: SCREW
-type_no_space_upper_length_6: SCREWW
 type_upper: SCREW_WOOD
-type_upper_length_1: S
-type_upper_length_2: SC
-type_upper_length_3: SCR
-type_upper_length_4: SCRE
-type_upper_length_5: SCREW
-type_upper_length_6: SCREW_

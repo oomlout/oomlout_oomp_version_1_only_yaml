@@ -1,146 +1,23 @@
-bip_39_word_dash_12: good-antique-insane-travel-milk-involve-salmon-hope-tonight-chimney-square-affair
-bip_39_word_dash_2: good-antique
-bip_39_word_dash_3: good-antique-insane
-bip_39_word_new_br_12: good<br>antique<br>insane<br>travel<br>milk<br>involve<br>salmon<br>hope<br>tonight<br>chimney<br>square<br>affair
-bip_39_word_new_br_2: good<br>antique
-bip_39_word_new_br_3: good<br>antique<br>insane
-bip_39_word_new_line_12: 'good
-
-  antique
-
-  insane
-
-  travel
-
-  milk
-
-  involve
-
-  salmon
-
-  hope
-
-  tonight
-
-  chimney
-
-  square
-
-  affair'
-bip_39_word_new_line_2: 'good
-
-  antique'
-bip_39_word_new_line_3: 'good
-
-  antique
-
-  insane'
-bip_39_word_no_space_12: goodantiqueinsanetravelmilkinvolvesalmonhopetonightchimneysquareaffair
-bip_39_word_no_space_2: goodantique
-bip_39_word_no_space_3: goodantiqueinsane
-bip_39_word_space_12: good antique insane travel milk involve salmon hope tonight
-  chimney square affair
-bip_39_word_space_2: good antique
-bip_39_word_space_3: good antique insane
-bip_39_word_underscore_12: good_antique_insane_travel_milk_involve_salmon_hope_tonight_chimney_square_affair
-bip_39_word_underscore_2: good_antique
-bip_39_word_underscore_3: good_antique_insane
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 68_mm_width
 color_capital: 68 mm Width
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '68'
-color_length_3: '68_'
-color_length_4: 68_m
-color_length_5: 68_mm
-color_length_6: 68_mm_
-color_name: 68 mm Width
-color_no_space_length_1: '6'
-color_no_space_length_2: '68'
-color_no_space_length_3: 68m
-color_no_space_length_4: 68mm
-color_no_space_length_5: 68mmw
-color_no_space_length_6: 68mmwi
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: '68'
-color_no_space_upper_length_3: 68M
-color_no_space_upper_length_4: 68MM
-color_no_space_upper_length_5: 68MMW
-color_no_space_upper_length_6: 68MMWI
 color_upper: 68_MM_WIDTH
-color_upper_length_1: '6'
-color_upper_length_2: '68'
-color_upper_length_3: '68_'
-color_upper_length_4: 68_M
-color_upper_length_5: 68_MM
-color_upper_length_6: 68_MM_
 description: category_electrical
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_electrical_light_fixing_hardware_hook_68_mm_width_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_tote
 id: category_electrical_light_fixing_hardware_hook_68_mm_width_tote
 id_no_class: electrical_light_fixing_hardware_hook_68_mm_width_tote
-id_no_color: tote
 id_no_size: 68_mm_width_tote
 id_no_type: light_fixing_hardware_hook_68_mm_width_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electrical_light_fixing_hardware_hook_68_mm_width_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: 45a6ca
 md5_6_alpha: 2pu4q
 md5_6_alpha_upper: 2PU4Q
 md5_6_upper: 45A6CA
-name: Category Electrical Light Fixing Hardware Hook 68 mm Width Tote
-name_no_class: Electrical Light Fixing Hardware Hook 68 mm Width Tote
-name_no_color: Tote
-name_no_size: 68 mm Width Tote
+name: Category Electrical Light Fixing Hardware Hook 68 Mm Width Tote
+name_no_class: Electrical Light Fixing Hardware Hook 68 Mm Width Tote
+name_no_size: 68 Mm Width Tote
 name_no_size_short: 68 Mm Width Tote
-name_no_type: Light Fixing Hardware Hook 68 mm Width Tote
+name_no_type: Light Fixing Hardware Hook 68 Mm Width Tote
 oomp_key: oomp_category_electrical_light_fixing_hardware_hook_68_mm_width_tote
 oomp_word: snake trumpet cherries
 oomp_word_emoji: ':snake: :trumpet: :cherries:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: light_fixing_hardware_hook
 size_capital: Light Fixing Hardware Hook
 size_first_letter: l
 size_first_letter_upper: L
-size_length_1: l
-size_length_2: li
-size_length_3: lig
-size_length_4: ligh
-size_length_5: light
-size_length_6: light_
-size_name: Light Fixing Hardware Hook
-size_no_space_length_1: l
-size_no_space_length_2: li
-size_no_space_length_3: lig
-size_no_space_length_4: ligh
-size_no_space_length_5: light
-size_no_space_length_6: lightf
-size_no_space_upper_length_1: L
-size_no_space_upper_length_2: LI
-size_no_space_upper_length_3: LIG
-size_no_space_upper_length_4: LIGH
-size_no_space_upper_length_5: LIGHT
-size_no_space_upper_length_6: LIGHTF
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: LIGHT_FIXING_HARDWARE_HOOK
-size_upper_length_1: L
-size_upper_length_2: LI
-size_upper_length_3: LIG
-size_upper_length_4: LIGH
-size_upper_length_5: LIGHT
-size_upper_length_6: LIGHT_
 type: electrical
 type_capital: Electrical
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electrical
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRICAL
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

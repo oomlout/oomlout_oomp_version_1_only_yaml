@@ -1,132 +1,31 @@
-bip_39_word_dash_12: trophy-control-property-treat-window-slogan-know-machine-seed-task-dragon-autumn
-bip_39_word_dash_2: trophy-control
-bip_39_word_dash_3: trophy-control-property
-bip_39_word_new_br_12: trophy<br>control<br>property<br>treat<br>window<br>slogan<br>know<br>machine<br>seed<br>task<br>dragon<br>autumn
-bip_39_word_new_br_2: trophy<br>control
-bip_39_word_new_br_3: trophy<br>control<br>property
-bip_39_word_new_line_12: 'trophy
-
-  control
-
-  property
-
-  treat
-
-  window
-
-  slogan
-
-  know
-
-  machine
-
-  seed
-
-  task
-
-  dragon
-
-  autumn'
-bip_39_word_new_line_2: 'trophy
-
-  control'
-bip_39_word_new_line_3: 'trophy
-
-  control
-
-  property'
-bip_39_word_no_space_12: trophycontrolpropertytreatwindowsloganknowmachineseedtaskdragonautumn
-bip_39_word_no_space_2: trophycontrol
-bip_39_word_no_space_3: trophycontrolproperty
-bip_39_word_space_12: trophy control property treat window slogan know machine seed
-  task dragon autumn
-bip_39_word_space_2: trophy control
-bip_39_word_space_3: trophy control property
-bip_39_word_underscore_12: trophy_control_property_treat_window_slogan_know_machine_seed_task_dragon_autumn
-bip_39_word_underscore_2: trophy_control
-bip_39_word_underscore_3: trophy_control_property
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: to
-classification_length_3: toy
-classification_length_4: toy
-classification_length_5: toy
-classification_length_6: toy
-classification_name: Toy
-classification_no_space_length_1: t
-classification_no_space_length_2: to
-classification_no_space_length_3: toy
-classification_no_space_length_4: toy
-classification_no_space_length_5: toy
-classification_no_space_length_6: toy
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TO
-classification_no_space_upper_length_3: TOY
-classification_no_space_upper_length_4: TOY
-classification_no_space_upper_length_5: TOY
-classification_no_space_upper_length_6: TOY
 classification_upper: TOY
-classification_upper_length_1: T
-classification_upper_length_2: TO
-classification_upper_length_3: TOY
-classification_upper_length_4: TOY
-classification_upper_length_5: TOY
-classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: party_bag_toy_mixed
 description_main_capital: Party Bag Toy Mixed
 description_main_first_letter: p
 description_main_first_letter_upper: P
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: par
-description_main_length_4: part
-description_main_length_5: party
-description_main_length_6: party_
-description_main_name: Party Bag Toy Mixed
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: par
-description_main_no_space_length_4: part
-description_main_no_space_length_5: party
-description_main_no_space_length_6: partyb
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAR
-description_main_no_space_upper_length_4: PART
-description_main_no_space_upper_length_5: PARTY
-description_main_no_space_upper_length_6: PARTYB
 description_main_upper: PARTY_BAG_TOY_MIXED
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAR
-description_main_upper_length_4: PART
-description_main_upper_length_5: PARTY
-description_main_upper_length_6: PARTY_
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_mixed_party_bag_toy_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_mixed_party_bag_toy_mixed
 id: toy_mixed_party_bag_toy_mixed
 id_no_class: mixed_party_bag_mixed
-id_no_color: partybagmixed
 id_no_size: partybagmixed
 id_no_type: party_bag_mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mixed_party_bag_toy_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_mixed_party_bag_toy_mixed](none)<br>[](none)<br>[Toy Mixed Party
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 9RW3B
 md5_6_upper: FA8437
 name: Toy Mixed Party Bag Toy Mixed
 name_no_class: Mixed Party Bag Mixed
-name_no_color: Partybagmixed
 name_no_size: Partybagmixed
 name_no_size_short: Partybagmixed
 name_no_type: Party Bag Mixed
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,7 +77,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -189,29 +84,4 @@ type: mixed
 type_capital: Mixed
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: mi
-type_length_3: mix
-type_length_4: mixe
-type_length_5: mixed
-type_length_6: mixed
-type_name: Mixed
-type_no_space_length_1: m
-type_no_space_length_2: mi
-type_no_space_length_3: mix
-type_no_space_length_4: mixe
-type_no_space_length_5: mixed
-type_no_space_length_6: mixed
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: MI
-type_no_space_upper_length_3: MIX
-type_no_space_upper_length_4: MIXE
-type_no_space_upper_length_5: MIXED
-type_no_space_upper_length_6: MIXED
 type_upper: MIXED
-type_upper_length_1: M
-type_upper_length_2: MI
-type_upper_length_3: MIX
-type_upper_length_4: MIXE
-type_upper_length_5: MIXED
-type_upper_length_6: MIXED

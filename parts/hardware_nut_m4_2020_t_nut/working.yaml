@@ -1,146 +1,23 @@
-bip_39_word_dash_12: sugar-dove-picture-use-marble-human-tree-reopen-peasant-find-stereo-agree
-bip_39_word_dash_2: sugar-dove
-bip_39_word_dash_3: sugar-dove-picture
-bip_39_word_new_br_12: sugar<br>dove<br>picture<br>use<br>marble<br>human<br>tree<br>reopen<br>peasant<br>find<br>stereo<br>agree
-bip_39_word_new_br_2: sugar<br>dove
-bip_39_word_new_br_3: sugar<br>dove<br>picture
-bip_39_word_new_line_12: 'sugar
-
-  dove
-
-  picture
-
-  use
-
-  marble
-
-  human
-
-  tree
-
-  reopen
-
-  peasant
-
-  find
-
-  stereo
-
-  agree'
-bip_39_word_new_line_2: 'sugar
-
-  dove'
-bip_39_word_new_line_3: 'sugar
-
-  dove
-
-  picture'
-bip_39_word_no_space_12: sugardovepictureusemarblehumantreereopenpeasantfindstereoagree
-bip_39_word_no_space_2: sugardove
-bip_39_word_no_space_3: sugardovepicture
-bip_39_word_space_12: sugar dove picture use marble human tree reopen peasant find
-  stereo agree
-bip_39_word_space_2: sugar dove
-bip_39_word_space_3: sugar dove picture
-bip_39_word_underscore_12: sugar_dove_picture_use_marble_human_tree_reopen_peasant_find_stereo_agree
-bip_39_word_underscore_2: sugar_dove
-bip_39_word_underscore_3: sugar_dove_picture
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: t_nut
 description_extra_capital: T Nut
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: t_
-description_extra_length_3: t_n
-description_extra_length_4: t_nu
-description_extra_length_5: t_nut
-description_extra_length_6: t_nut
-description_extra_name: T Nut
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: tn
-description_extra_no_space_length_3: tnu
-description_extra_no_space_length_4: tnut
-description_extra_no_space_length_5: tnut
-description_extra_no_space_length_6: tnut
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TN
-description_extra_no_space_upper_length_3: TNU
-description_extra_no_space_upper_length_4: TNUT
-description_extra_no_space_upper_length_5: TNUT
-description_extra_no_space_upper_length_6: TNUT
 description_extra_upper: T_NUT
-description_extra_upper_length_1: T
-description_extra_upper_length_2: T_
-description_extra_upper_length_3: T_N
-description_extra_upper_length_4: T_NU
-description_extra_upper_length_5: T_NUT
-description_extra_upper_length_6: T_NUT
 description_main: '2020'
 description_main_capital: '2020'
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '20'
-description_main_length_3: '202'
-description_main_length_4: '2020'
-description_main_length_5: '2020'
-description_main_length_6: '2020'
-description_main_name: '2020'
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '20'
-description_main_no_space_length_3: '202'
-description_main_no_space_length_4: '2020'
-description_main_no_space_length_5: '2020'
-description_main_no_space_length_6: '2020'
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '20'
-description_main_no_space_upper_length_3: '202'
-description_main_no_space_upper_length_4: '2020'
-description_main_no_space_upper_length_5: '2020'
-description_main_no_space_upper_length_6: '2020'
 description_main_upper: '2020'
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '20'
-description_main_upper_length_3: '202'
-description_main_upper_length_4: '2020'
-description_main_upper_length_5: '2020'
-description_main_upper_length_6: '2020'
 description_only_numbers: '2020'
 description_only_numbers_short: 2k
 description_or_color: 2k
@@ -149,10 +26,8 @@ directory: parts/hardware_nut_m4_2020_t_nut
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_nut_m4_2020_t_nut
 id: hardware_nut_m4_2020_t_nut
 id_no_class: nut_m4_2020_t_nut
-id_no_color: 2020tnut
 id_no_size: 2020_t_nut
 id_no_type: m4_2020_t_nut
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_nut_m4_2020_t_nut
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_nut_m4_2020_t_nut](none)<br>[nu4](none)<br>[Hardware Nut
@@ -179,12 +53,9 @@ md5_6_alpha_upper: 36PSL
 md5_6_upper: 51AB15
 name: Hardware Nut M4 2020 T Nut
 name_no_class: Nut M4 2020 T Nut
-name_no_color: 2020Tnut
 name_no_size: 2020 T Nut
 name_no_size_short: 2k T Nut
 name_no_type: M4 2020 T Nut
-oomlout_short_code: n4m2t
-oomlout_short_code_upper: N4M2T
 oomp_key: oomp_hardware_nut_m4_2020_t_nut
 oomp_word: snail boot poop
 oomp_word_emoji: ':snail: :boot: :poop:'
@@ -200,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: nu4
 short_code_upper: NU4
@@ -208,61 +78,11 @@ size: m4
 size_capital: M4
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: m4
-size_length_3: m4
-size_length_4: m4
-size_length_5: m4
-size_length_6: m4
-size_name: M4
-size_no_space_length_1: m
-size_no_space_length_2: m4
-size_no_space_length_3: m4
-size_no_space_length_4: m4
-size_no_space_length_5: m4
-size_no_space_length_6: m4
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: M4
-size_no_space_upper_length_3: M4
-size_no_space_upper_length_4: M4
-size_no_space_upper_length_5: M4
-size_no_space_upper_length_6: M4
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: M4
-size_upper_length_1: M
-size_upper_length_2: M4
-size_upper_length_3: M4
-size_upper_length_4: M4
-size_upper_length_5: M4
-size_upper_length_6: M4
 type: nut
 type_capital: Nut
 type_first_letter: n
 type_first_letter_upper: N
-type_length_1: n
-type_length_2: nu
-type_length_3: nut
-type_length_4: nut
-type_length_5: nut
-type_length_6: nut
-type_name: Nut
-type_no_space_length_1: n
-type_no_space_length_2: nu
-type_no_space_length_3: nut
-type_no_space_length_4: nut
-type_no_space_length_5: nut
-type_no_space_length_6: nut
-type_no_space_upper_length_1: N
-type_no_space_upper_length_2: NU
-type_no_space_upper_length_3: NUT
-type_no_space_upper_length_4: NUT
-type_no_space_upper_length_5: NUT
-type_no_space_upper_length_6: NUT
 type_upper: NUT
-type_upper_length_1: N
-type_upper_length_2: NU
-type_upper_length_3: NUT
-type_upper_length_4: NUT
-type_upper_length_5: NUT
-type_upper_length_6: NUT

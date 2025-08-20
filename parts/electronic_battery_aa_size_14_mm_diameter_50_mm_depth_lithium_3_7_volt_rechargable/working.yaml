@@ -1,121 +1,22 @@
-bip_39_word_dash_12: major-window-carbon-stereo-hero-gauge-enlist-enemy-tobacco-sausage-make-agent
-bip_39_word_dash_2: major-window
-bip_39_word_dash_3: major-window-carbon
-bip_39_word_new_br_12: major<br>window<br>carbon<br>stereo<br>hero<br>gauge<br>enlist<br>enemy<br>tobacco<br>sausage<br>make<br>agent
-bip_39_word_new_br_2: major<br>window
-bip_39_word_new_br_3: major<br>window<br>carbon
-bip_39_word_new_line_12: 'major
-
-  window
-
-  carbon
-
-  stereo
-
-  hero
-
-  gauge
-
-  enlist
-
-  enemy
-
-  tobacco
-
-  sausage
-
-  make
-
-  agent'
-bip_39_word_new_line_2: 'major
-
-  window'
-bip_39_word_new_line_3: 'major
-
-  window
-
-  carbon'
-bip_39_word_no_space_12: majorwindowcarbonstereoherogaugeenlistenemytobaccosausagemakeagent
-bip_39_word_no_space_2: majorwindow
-bip_39_word_no_space_3: majorwindowcarbon
-bip_39_word_space_12: major window carbon stereo hero gauge enlist enemy tobacco sausage
-  make agent
-bip_39_word_space_2: major window
-bip_39_word_space_3: major window carbon
-bip_39_word_underscore_12: major_window_carbon_stereo_hero_gauge_enlist_enemy_tobacco_sausage_make_agent
-bip_39_word_underscore_2: major_window
-bip_39_word_underscore_3: major_window_carbon
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: lithium_3_7_volt_rechargable
 color_capital: Lithium 3.7 Volt Rechargable
 color_first_letter: l
 color_first_letter_upper: L
-color_length_1: l
-color_length_2: li
-color_length_3: lit
-color_length_4: lith
-color_length_5: lithi
-color_length_6: lithiu
-color_name: Lithium 3 7 Volt Rechargable
-color_no_space_length_1: l
-color_no_space_length_2: li
-color_no_space_length_3: lit
-color_no_space_length_4: lith
-color_no_space_length_5: lithi
-color_no_space_length_6: lithiu
-color_no_space_upper_length_1: L
-color_no_space_upper_length_2: LI
-color_no_space_upper_length_3: LIT
-color_no_space_upper_length_4: LITH
-color_no_space_upper_length_5: LITHI
-color_no_space_upper_length_6: LITHIU
 color_upper: LITHIUM_3_7_VOLT_RECHARGABLE
-color_upper_length_1: L
-color_upper_length_2: LI
-color_upper_length_3: LIT
-color_upper_length_4: LITH
-color_upper_length_5: LITHI
-color_upper_length_6: LITHIU
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -123,10 +24,8 @@ description_or_color: 'L '
 description_or_color_upper: 'L '
 directory: parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
 id: electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
 id_no_class: battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
-id_no_color: lithium_3_7_volt_rechargable
 id_no_size: lithium_3_7_volt_rechargable
 id_no_type: aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](none)<br>[](none)<br>[Electronic
@@ -151,12 +49,11 @@ md5_6: 4f0d2f
 md5_6_alpha: 331gv
 md5_6_alpha_upper: 331GV
 md5_6_upper: 4F0D2F
-name: Electronic Battery Aa Size 14 mm Diameter 50 mm Depth Lithium 3 7 Volt Rechargable
-name_no_class: Battery Aa Size 14 mm Diameter 50 mm Depth Lithium 3 7 Volt Rechargable
-name_no_color: Lithium 3 7 Volt Rechargable
+name: Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable
+name_no_class: Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable
 name_no_size: Lithium 3 7 Volt Rechargable
 name_no_size_short: Lithium 3 7 Volt Rechargable
-name_no_type: Aa Size 14 mm Diameter 50 mm Depth Lithium 3 7 Volt Rechargable
+name_no_type: Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable
 oomp_key: oomp_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
 oomp_word: ant heart cyclone
 oomp_word_emoji: ':ant: :heart: :cyclone:'
@@ -173,7 +70,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: aa_size_14_mm_diameter_50_mm_depth
 size_capital: Aa Size 14 mm Diameter 50 mm Depth
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: aa
-size_length_3: aa_
-size_length_4: aa_s
-size_length_5: aa_si
-size_length_6: aa_siz
-size_name: Aa Size 14 mm Diameter 50 mm Depth
-size_no_space_length_1: a
-size_no_space_length_2: aa
-size_no_space_length_3: aas
-size_no_space_length_4: aasi
-size_no_space_length_5: aasiz
-size_no_space_length_6: aasize
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: AA
-size_no_space_upper_length_3: AAS
-size_no_space_upper_length_4: AASI
-size_no_space_upper_length_5: AASIZ
-size_no_space_upper_length_6: AASIZE
 size_only_numbers: '1450'
 size_only_numbers_no_zeros: '145'
 size_upper: AA_SIZE_14_MM_DIAMETER_50_MM_DEPTH
-size_upper_length_1: A
-size_upper_length_2: AA
-size_upper_length_3: AA_
-size_upper_length_4: AA_S
-size_upper_length_5: AA_SI
-size_upper_length_6: AA_SIZ
 type: battery
 type_capital: Battery
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bat
-type_length_4: batt
-type_length_5: batte
-type_length_6: batter
-type_name: Battery
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bat
-type_no_space_length_4: batt
-type_no_space_length_5: batte
-type_no_space_length_6: batter
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAT
-type_no_space_upper_length_4: BATT
-type_no_space_upper_length_5: BATTE
-type_no_space_upper_length_6: BATTER
 type_upper: BATTERY
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAT
-type_upper_length_4: BATT
-type_upper_length_5: BATTE
-type_upper_length_6: BATTER

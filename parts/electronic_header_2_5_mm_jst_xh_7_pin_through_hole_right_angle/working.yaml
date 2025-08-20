@@ -1,156 +1,32 @@
-bip_39_word_dash_12: worth-possible-kid-scene-grass-loyal-column-airport-clock-wish-phrase-assist
-bip_39_word_dash_2: worth-possible
-bip_39_word_dash_3: worth-possible-kid
-bip_39_word_new_br_12: worth<br>possible<br>kid<br>scene<br>grass<br>loyal<br>column<br>airport<br>clock<br>wish<br>phrase<br>assist
-bip_39_word_new_br_2: worth<br>possible
-bip_39_word_new_br_3: worth<br>possible<br>kid
-bip_39_word_new_line_12: 'worth
-
-  possible
-
-  kid
-
-  scene
-
-  grass
-
-  loyal
-
-  column
-
-  airport
-
-  clock
-
-  wish
-
-  phrase
-
-  assist'
-bip_39_word_new_line_2: 'worth
-
-  possible'
-bip_39_word_new_line_3: 'worth
-
-  possible
-
-  kid'
-bip_39_word_no_space_12: worthpossiblekidscenegrassloyalcolumnairportclockwishphraseassist
-bip_39_word_no_space_2: worthpossible
-bip_39_word_no_space_3: worthpossiblekid
-bip_39_word_space_12: worth possible kid scene grass loyal column airport clock wish
-  phrase assist
-bip_39_word_space_2: worth possible
-bip_39_word_space_3: worth possible kid
-bip_39_word_underscore_12: worth_possible_kid_scene_grass_loyal_column_airport_clock_wish_phrase_assist
-bip_39_word_underscore_2: worth_possible
-bip_39_word_underscore_3: worth_possible_kid
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: through_hole_right_angle
 description_extra_capital: Through Hole Right Angle
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: th
-description_extra_length_3: thr
-description_extra_length_4: thro
-description_extra_length_5: throu
-description_extra_length_6: throug
-description_extra_name: Through Hole Right Angle
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: th
-description_extra_no_space_length_3: thr
-description_extra_no_space_length_4: thro
-description_extra_no_space_length_5: throu
-description_extra_no_space_length_6: throug
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TH
-description_extra_no_space_upper_length_3: THR
-description_extra_no_space_upper_length_4: THRO
-description_extra_no_space_upper_length_5: THROU
-description_extra_no_space_upper_length_6: THROUG
 description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TH
-description_extra_upper_length_3: THR
-description_extra_upper_length_4: THRO
-description_extra_upper_length_5: THROU
-description_extra_upper_length_6: THROUG
 description_main: 7_pin
 description_main_capital: 7 Pin
 description_main_first_letter: '7'
 description_main_first_letter_upper: '7'
-description_main_length_1: '7'
-description_main_length_2: '7_'
-description_main_length_3: 7_p
-description_main_length_4: 7_pi
-description_main_length_5: 7_pin
-description_main_length_6: 7_pin
-description_main_name: 7 Pin
-description_main_no_space_length_1: '7'
-description_main_no_space_length_2: 7p
-description_main_no_space_length_3: 7pi
-description_main_no_space_length_4: 7pin
-description_main_no_space_length_5: 7pin
-description_main_no_space_length_6: 7pin
-description_main_no_space_upper_length_1: '7'
-description_main_no_space_upper_length_2: 7P
-description_main_no_space_upper_length_3: 7PI
-description_main_no_space_upper_length_4: 7PIN
-description_main_no_space_upper_length_5: 7PIN
-description_main_no_space_upper_length_6: 7PIN
 description_main_upper: 7_PIN
-description_main_upper_length_1: '7'
-description_main_upper_length_2: '7_'
-description_main_upper_length_3: 7_P
-description_main_upper_length_4: 7_PI
-description_main_upper_length_5: 7_PIN
-description_main_upper_length_6: 7_PIN
 description_only_numbers: '7'
 description_only_numbers_short: '7'
 description_or_color: '7'
 description_or_color_upper: '7'
 directory: parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
+github_link: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
 id: electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
 id_no_class: header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
-id_no_color: 7pinthroughholerightangle
 id_no_size: 7_pin_through_hole_right_angle
 id_no_type: 2_5_mm_jst_xh_7_pin_through_hole_right_angle
 kicad_reference: CONN
@@ -159,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle)<br>[hjxh7pthra](https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle)<br>[Electronic
@@ -174,12 +49,11 @@ md5_6: dd47bf
 md5_6_alpha: 8mtof
 md5_6_alpha_upper: 8MTOF
 md5_6_upper: DD47BF
-name: Electronic Header 2 5 mm Jst Xh 7 Pin Through Hole Right Angle
-name_no_class: Header 2 5 mm Jst Xh 7 Pin Through Hole Right Angle
-name_no_color: 7Pinthroughholerightangle
+name: Electronic Header 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle
+name_no_class: Header 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle
 name_no_size: 7 Pin Through Hole Right Angle
 name_no_size_short: 7 Pin Through Hole Right Angle
-name_no_type: 2 5 mm Jst Xh 7 Pin Through Hole Right Angle
+name_no_type: 2 5 Mm Jst Xh 7 Pin Through Hole Right Angle
 oomp_key: oomp_electronic_header_2_5_mm_jst_xh_7_pin_through_hole_right_angle
 oomp_word: stars baby_chick egg
 oomp_word_emoji: ':stars: :baby_chick: :egg:'
@@ -195,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: hjxh7pthra
 short_code_upper: HJXH7PTHRA
@@ -203,34 +76,9 @@ size: 2_5_mm_jst_xh
 size_capital: 2.5 mm Jst Xh
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '2_'
-size_length_3: '2_5'
-size_length_4: '2_5_'
-size_length_5: 2_5_m
-size_length_6: 2_5_mm
-size_name: 2 5 mm Jst Xh
-size_no_space_length_1: '2'
-size_no_space_length_2: '25'
-size_no_space_length_3: 25m
-size_no_space_length_4: 25mm
-size_no_space_length_5: 25mmj
-size_no_space_length_6: 25mmjs
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '25'
-size_no_space_upper_length_3: 25M
-size_no_space_upper_length_4: 25MM
-size_no_space_upper_length_5: 25MMJ
-size_no_space_upper_length_6: 25MMJS
 size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
 size_upper: 2_5_MM_JST_XH
-size_upper_length_1: '2'
-size_upper_length_2: '2_'
-size_upper_length_3: '2_5'
-size_upper_length_4: '2_5_'
-size_upper_length_5: 2_5_M
-size_upper_length_6: 2_5_MM
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_conn_01x07_pin//working/working.kicad_sym
   index: 0
@@ -240,29 +88,4 @@ type: header
 type_capital: Header
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: he
-type_length_3: hea
-type_length_4: head
-type_length_5: heade
-type_length_6: header
-type_name: Header
-type_no_space_length_1: h
-type_no_space_length_2: he
-type_no_space_length_3: hea
-type_no_space_length_4: head
-type_no_space_length_5: heade
-type_no_space_length_6: header
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HE
-type_no_space_upper_length_3: HEA
-type_no_space_upper_length_4: HEAD
-type_no_space_upper_length_5: HEADE
-type_no_space_upper_length_6: HEADER
 type_upper: HEADER
-type_upper_length_1: H
-type_upper_length_2: HE
-type_upper_length_3: HEA
-type_upper_length_4: HEAD
-type_upper_length_5: HEADE
-type_upper_length_6: HEADER

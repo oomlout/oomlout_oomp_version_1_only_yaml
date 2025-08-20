@@ -1,122 +1,23 @@
-bip_39_word_dash_12: morning-genre-rice-copper-edit-child-neither-urban-plastic-host-seven-attract
-bip_39_word_dash_2: morning-genre
-bip_39_word_dash_3: morning-genre-rice
-bip_39_word_new_br_12: morning<br>genre<br>rice<br>copper<br>edit<br>child<br>neither<br>urban<br>plastic<br>host<br>seven<br>attract
-bip_39_word_new_br_2: morning<br>genre
-bip_39_word_new_br_3: morning<br>genre<br>rice
-bip_39_word_new_line_12: 'morning
-
-  genre
-
-  rice
-
-  copper
-
-  edit
-
-  child
-
-  neither
-
-  urban
-
-  plastic
-
-  host
-
-  seven
-
-  attract'
-bip_39_word_new_line_2: 'morning
-
-  genre'
-bip_39_word_new_line_3: 'morning
-
-  genre
-
-  rice'
-bip_39_word_no_space_12: morninggenrericecoppereditchildneitherurbanplastichostsevenattract
-bip_39_word_no_space_2: morninggenre
-bip_39_word_no_space_3: morninggenrerice
-bip_39_word_space_12: morning genre rice copper edit child neither urban plastic host
-  seven attract
-bip_39_word_space_2: morning genre
-bip_39_word_space_3: morning genre rice
-bip_39_word_underscore_12: morning_genre_rice_copper_edit_child_neither_urban_plastic_host_seven_attract
-bip_39_word_underscore_2: morning_genre
-bip_39_word_underscore_3: morning_genre_rice
 classification: household_toy
 classification_capital: Household Toy
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ho
-classification_length_3: hou
-classification_length_4: hous
-classification_length_5: house
-classification_length_6: househ
-classification_name: Household Toy
-classification_no_space_length_1: h
-classification_no_space_length_2: ho
-classification_no_space_length_3: hou
-classification_no_space_length_4: hous
-classification_no_space_length_5: house
-classification_no_space_length_6: househ
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HO
-classification_no_space_upper_length_3: HOU
-classification_no_space_upper_length_4: HOUS
-classification_no_space_upper_length_5: HOUSE
-classification_no_space_upper_length_6: HOUSEH
 classification_upper: HOUSEHOLD_TOY
-classification_upper_length_1: H
-classification_upper_length_2: HO
-classification_upper_length_3: HOU
-classification_upper_length_4: HOUS
-classification_upper_length_5: HOUSE
-classification_upper_length_6: HOUSEH
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: to_sort
 description_main_capital: To Sort
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: to
-description_main_length_3: to_
-description_main_length_4: to_s
-description_main_length_5: to_so
-description_main_length_6: to_sor
-description_main_name: To Sort
-description_main_no_space_length_1: t
-description_main_no_space_length_2: to
-description_main_no_space_length_3: tos
-description_main_no_space_length_4: toso
-description_main_no_space_length_5: tosor
-description_main_no_space_length_6: tosort
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TO
-description_main_no_space_upper_length_3: TOS
-description_main_no_space_upper_length_4: TOSO
-description_main_no_space_upper_length_5: TOSOR
-description_main_no_space_upper_length_6: TOSORT
 description_main_upper: TO_SORT
-description_main_upper_length_1: T
-description_main_upper_length_2: TO
-description_main_upper_length_3: TO_
-description_main_upper_length_4: TO_S
-description_main_upper_length_5: TO_SO
-description_main_upper_length_6: TO_SOR
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -125,10 +26,8 @@ directory: parts/household_toy_doll_baby_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/household_toy_doll_baby_to_sort
 id: household_toy_doll_baby_to_sort
 id_no_class: doll_baby_to_sort
-id_no_color: tosort
 id_no_size: tosort
 id_no_type: to_sort
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_toy_doll_baby_to_sort
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[household_toy_doll_baby_to_sort](none)<br>[](none)<br>[Household
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 99NQ3
 md5_6_upper: ED895B
 name: Household Toy Doll Baby To Sort
 name_no_class: Doll Baby To Sort
-name_no_color: Tosort
 name_no_size: Tosort
 name_no_size_short: Tosort
 name_no_type: To Sort
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,7 +78,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -190,29 +85,4 @@ type: doll_baby
 type_capital: Doll Baby
 type_first_letter: d
 type_first_letter_upper: D
-type_length_1: d
-type_length_2: do
-type_length_3: dol
-type_length_4: doll
-type_length_5: doll_
-type_length_6: doll_b
-type_name: Doll Baby
-type_no_space_length_1: d
-type_no_space_length_2: do
-type_no_space_length_3: dol
-type_no_space_length_4: doll
-type_no_space_length_5: dollb
-type_no_space_length_6: dollba
-type_no_space_upper_length_1: D
-type_no_space_upper_length_2: DO
-type_no_space_upper_length_3: DOL
-type_no_space_upper_length_4: DOLL
-type_no_space_upper_length_5: DOLLB
-type_no_space_upper_length_6: DOLLBA
 type_upper: DOLL_BABY
-type_upper_length_1: D
-type_upper_length_2: DO
-type_upper_length_3: DOL
-type_upper_length_4: DOLL
-type_upper_length_5: DOLL_
-type_upper_length_6: DOLL_B

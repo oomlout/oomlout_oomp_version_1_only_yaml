@@ -1,97 +1,22 @@
-bip_39_word_dash_12: laugh-eight-try-humor-shell-admit-post-hat-warfare-piano-flag-allow
-bip_39_word_dash_2: laugh-eight
-bip_39_word_dash_3: laugh-eight-try
-bip_39_word_new_br_12: laugh<br>eight<br>try<br>humor<br>shell<br>admit<br>post<br>hat<br>warfare<br>piano<br>flag<br>allow
-bip_39_word_new_br_2: laugh<br>eight
-bip_39_word_new_br_3: laugh<br>eight<br>try
-bip_39_word_new_line_12: 'laugh
-
-  eight
-
-  try
-
-  humor
-
-  shell
-
-  admit
-
-  post
-
-  hat
-
-  warfare
-
-  piano
-
-  flag
-
-  allow'
-bip_39_word_new_line_2: 'laugh
-
-  eight'
-bip_39_word_new_line_3: 'laugh
-
-  eight
-
-  try'
-bip_39_word_no_space_12: laugheighttryhumorshelladmitposthatwarfarepianoflagallow
-bip_39_word_no_space_2: laugheight
-bip_39_word_no_space_3: laugheighttry
-bip_39_word_space_12: laugh eight try humor shell admit post hat warfare piano flag
-  allow
-bip_39_word_space_2: laugh eight
-bip_39_word_space_3: laugh eight try
-bip_39_word_underscore_12: laugh_eight_try_humor_shell_admit_post_hat_warfare_piano_flag_allow
-bip_39_word_underscore_2: laugh_eight
-bip_39_word_underscore_3: laugh_eight_try
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/stationery_notebook_A6
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_notebook_A6
 id: stationery_notebook_A6
 id_no_class: notebook_A6
-id_no_color: A6
 id_no_size: A6
 id_no_type: A6
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A6
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[stationery_notebook_A6](none)<br>[](none)<br>[Stationery Notebook
@@ -129,7 +51,6 @@ md5_6_alpha_upper: 45V1L
 md5_6_upper: 6AB069
 name: Stationery Notebook A6
 name_no_class: Notebook A6
-name_no_color: A6
 name_no_size: A6
 name_no_size_short: A6
 name_no_type: A6
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: A6
 size_capital: A6
 size_first_letter: A
 size_first_letter_upper: A
-size_length_1: A
-size_length_2: A6
-size_length_3: A6
-size_length_4: A6
-size_length_5: A6
-size_length_6: A6
-size_name: A6
-size_no_space_length_1: A
-size_no_space_length_2: A6
-size_no_space_length_3: A6
-size_no_space_length_4: A6
-size_no_space_length_5: A6
-size_no_space_length_6: A6
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A6
-size_no_space_upper_length_3: A6
-size_no_space_upper_length_4: A6
-size_no_space_upper_length_5: A6
-size_no_space_upper_length_6: A6
 size_only_numbers: '6'
 size_only_numbers_no_zeros: '6'
 size_upper: A6
-size_upper_length_1: A
-size_upper_length_2: A6
-size_upper_length_3: A6
-size_upper_length_4: A6
-size_upper_length_5: A6
-size_upper_length_6: A6
 type: notebook
 type_capital: Notebook
 type_first_letter: n
 type_first_letter_upper: N
-type_length_1: n
-type_length_2: 'no'
-type_length_3: not
-type_length_4: note
-type_length_5: noteb
-type_length_6: notebo
-type_name: Notebook
-type_no_space_length_1: n
-type_no_space_length_2: 'no'
-type_no_space_length_3: not
-type_no_space_length_4: note
-type_no_space_length_5: noteb
-type_no_space_length_6: notebo
-type_no_space_upper_length_1: N
-type_no_space_upper_length_2: 'NO'
-type_no_space_upper_length_3: NOT
-type_no_space_upper_length_4: NOTE
-type_no_space_upper_length_5: NOTEB
-type_no_space_upper_length_6: NOTEBO
 type_upper: NOTEBOOK
-type_upper_length_1: N
-type_upper_length_2: 'NO'
-type_upper_length_3: NOT
-type_upper_length_4: NOTE
-type_upper_length_5: NOTEB
-type_upper_length_6: NOTEBO

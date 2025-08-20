@@ -1,122 +1,23 @@
-bip_39_word_dash_12: judge-card-lens-distance-artefact-office-now-pretty-minor-fetch-disagree-act
-bip_39_word_dash_2: judge-card
-bip_39_word_dash_3: judge-card-lens
-bip_39_word_new_br_12: judge<br>card<br>lens<br>distance<br>artefact<br>office<br>now<br>pretty<br>minor<br>fetch<br>disagree<br>act
-bip_39_word_new_br_2: judge<br>card
-bip_39_word_new_br_3: judge<br>card<br>lens
-bip_39_word_new_line_12: 'judge
-
-  card
-
-  lens
-
-  distance
-
-  artefact
-
-  office
-
-  now
-
-  pretty
-
-  minor
-
-  fetch
-
-  disagree
-
-  act'
-bip_39_word_new_line_2: 'judge
-
-  card'
-bip_39_word_new_line_3: 'judge
-
-  card
-
-  lens'
-bip_39_word_no_space_12: judgecardlensdistanceartefactofficenowprettyminorfetchdisagreeact
-bip_39_word_no_space_2: judgecard
-bip_39_word_no_space_3: judgecardlens
-bip_39_word_space_12: judge card lens distance artefact office now pretty minor fetch
-  disagree act
-bip_39_word_space_2: judge card
-bip_39_word_space_3: judge card lens
-bip_39_word_underscore_12: judge_card_lens_distance_artefact_office_now_pretty_minor_fetch_disagree_act
-bip_39_word_underscore_2: judge_card
-bip_39_word_underscore_3: judge_card_lens
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: breadcrumb
 color_capital: Breadcrumb
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: br
-color_length_3: bre
-color_length_4: brea
-color_length_5: bread
-color_length_6: breadc
-color_name: Breadcrumb
-color_no_space_length_1: b
-color_no_space_length_2: br
-color_no_space_length_3: bre
-color_no_space_length_4: brea
-color_no_space_length_5: bread
-color_no_space_length_6: breadc
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BR
-color_no_space_upper_length_3: BRE
-color_no_space_upper_length_4: BREA
-color_no_space_upper_length_5: BREAD
-color_no_space_upper_length_6: BREADC
 color_upper: BREADCRUMB
-color_upper_length_1: B
-color_upper_length_2: BR
-color_upper_length_3: BRE
-color_upper_length_4: BREA
-color_upper_length_5: BREAD
-color_upper_length_6: BREADC
 description: category_food
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_food_starch_breadcrumb
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_food_starch_breadcrumb
 id: category_food_starch_breadcrumb
 id_no_class: food_starch_breadcrumb
-id_no_color: breadcrumb
 id_no_size: breadcrumb
 id_no_type: starch_breadcrumb
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_food_starch_breadcrumb](none)<br>[](none)<br>[Category Food
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 1I2DX
 md5_6_upper: 267D95
 name: Category Food Starch Breadcrumb
 name_no_class: Food Starch Breadcrumb
-name_no_color: Breadcrumb
 name_no_size: Breadcrumb
 name_no_size_short: Breadcrumb
 name_no_type: Starch Breadcrumb
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: starch
 size_capital: Starch
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: sta
-size_length_4: star
-size_length_5: starc
-size_length_6: starch
-size_name: Starch
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: sta
-size_no_space_length_4: star
-size_no_space_length_5: starc
-size_no_space_length_6: starch
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STA
-size_no_space_upper_length_4: STAR
-size_no_space_upper_length_5: STARC
-size_no_space_upper_length_6: STARCH
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STARCH
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STA
-size_upper_length_4: STAR
-size_upper_length_5: STARC
-size_upper_length_6: STARCH
 type: food
 type_capital: Food
 type_first_letter: f
 type_first_letter_upper: F
-type_length_1: f
-type_length_2: fo
-type_length_3: foo
-type_length_4: food
-type_length_5: food
-type_length_6: food
-type_name: Food
-type_no_space_length_1: f
-type_no_space_length_2: fo
-type_no_space_length_3: foo
-type_no_space_length_4: food
-type_no_space_length_5: food
-type_no_space_length_6: food
-type_no_space_upper_length_1: F
-type_no_space_upper_length_2: FO
-type_no_space_upper_length_3: FOO
-type_no_space_upper_length_4: FOOD
-type_no_space_upper_length_5: FOOD
-type_no_space_upper_length_6: FOOD
 type_upper: FOOD
-type_upper_length_1: F
-type_upper_length_2: FO
-type_upper_length_3: FOO
-type_upper_length_4: FOOD
-type_upper_length_5: FOOD
-type_upper_length_6: FOOD

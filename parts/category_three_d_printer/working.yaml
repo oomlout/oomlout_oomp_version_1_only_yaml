@@ -1,98 +1,23 @@
-bip_39_word_dash_12: trim-script-joy-aspect-vanish-report-sick-hero-slot-space-simple-alarm
-bip_39_word_dash_2: trim-script
-bip_39_word_dash_3: trim-script-joy
-bip_39_word_new_br_12: trim<br>script<br>joy<br>aspect<br>vanish<br>report<br>sick<br>hero<br>slot<br>space<br>simple<br>alarm
-bip_39_word_new_br_2: trim<br>script
-bip_39_word_new_br_3: trim<br>script<br>joy
-bip_39_word_new_line_12: 'trim
-
-  script
-
-  joy
-
-  aspect
-
-  vanish
-
-  report
-
-  sick
-
-  hero
-
-  slot
-
-  space
-
-  simple
-
-  alarm'
-bip_39_word_new_line_2: 'trim
-
-  script'
-bip_39_word_new_line_3: 'trim
-
-  script
-
-  joy'
-bip_39_word_no_space_12: trimscriptjoyaspectvanishreportsickheroslotspacesimplealarm
-bip_39_word_no_space_2: trimscript
-bip_39_word_no_space_3: trimscriptjoy
-bip_39_word_space_12: trim script joy aspect vanish report sick hero slot space simple
-  alarm
-bip_39_word_space_2: trim script
-bip_39_word_space_3: trim script joy
-bip_39_word_underscore_12: trim_script_joy_aspect_vanish_report_sick_hero_slot_space_simple_alarm
-bip_39_word_underscore_2: trim_script
-bip_39_word_underscore_3: trim_script_joy
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_three_d_printer
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_three_d_printer
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_three_d_printer
 id: category_three_d_printer
 id_no_class: three_d_printer
-id_no_color: threedprinter
 id_no_size: threedprinter
 id_no_type: three_d_printer
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_three_d_printer](none)<br>[](none)<br>[Category Three D
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 3NFP0
 md5_6_upper: 5D9234
 name: Category Three D Printer
 name_no_class: Three D Printer
-name_no_color: Threedprinter
 name_no_size: Threedprinter
 name_no_size_short: Threedprinter
 name_no_type: Three D Printer
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -169,29 +88,4 @@ type: three_d_printer
 type_capital: Three D Printer
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: th
-type_length_3: thr
-type_length_4: thre
-type_length_5: three
-type_length_6: three_
-type_name: Three D Printer
-type_no_space_length_1: t
-type_no_space_length_2: th
-type_no_space_length_3: thr
-type_no_space_length_4: thre
-type_no_space_length_5: three
-type_no_space_length_6: threed
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TH
-type_no_space_upper_length_3: THR
-type_no_space_upper_length_4: THRE
-type_no_space_upper_length_5: THREE
-type_no_space_upper_length_6: THREED
 type_upper: THREE_D_PRINTER
-type_upper_length_1: T
-type_upper_length_2: TH
-type_upper_length_3: THR
-type_upper_length_4: THRE
-type_upper_length_5: THREE
-type_upper_length_6: THREE_

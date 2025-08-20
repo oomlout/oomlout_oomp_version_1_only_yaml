@@ -1,122 +1,23 @@
-bip_39_word_dash_12: verb-remember-pigeon-actor-sweet-ceiling-urban-hurry-tourist-north-velvet-alert
-bip_39_word_dash_2: verb-remember
-bip_39_word_dash_3: verb-remember-pigeon
-bip_39_word_new_br_12: verb<br>remember<br>pigeon<br>actor<br>sweet<br>ceiling<br>urban<br>hurry<br>tourist<br>north<br>velvet<br>alert
-bip_39_word_new_br_2: verb<br>remember
-bip_39_word_new_br_3: verb<br>remember<br>pigeon
-bip_39_word_new_line_12: 'verb
-
-  remember
-
-  pigeon
-
-  actor
-
-  sweet
-
-  ceiling
-
-  urban
-
-  hurry
-
-  tourist
-
-  north
-
-  velvet
-
-  alert'
-bip_39_word_new_line_2: 'verb
-
-  remember'
-bip_39_word_new_line_3: 'verb
-
-  remember
-
-  pigeon'
-bip_39_word_no_space_12: verbrememberpigeonactorsweetceilingurbanhurrytouristnorthvelvetalert
-bip_39_word_no_space_2: verbremember
-bip_39_word_no_space_3: verbrememberpigeon
-bip_39_word_space_12: verb remember pigeon actor sweet ceiling urban hurry tourist
-  north velvet alert
-bip_39_word_space_2: verb remember
-bip_39_word_space_3: verb remember pigeon
-bip_39_word_underscore_12: verb_remember_pigeon_actor_sweet_ceiling_urban_hurry_tourist_north_velvet_alert
-bip_39_word_underscore_2: verb_remember
-bip_39_word_underscore_3: verb_remember_pigeon
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_archive
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_archive_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_archive_tote
 id: category_archive_tote
 id_no_class: archive_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_archive_tote](none)<br>[](none)<br>[Category Archive Tote](none)<br><br>'
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 3WBAD
 md5_6_upper: 63E425
 name: Category Archive Tote
 name_no_class: Archive Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Tote
@@ -175,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,7 +80,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -192,29 +87,4 @@ type: archive
 type_capital: Archive
 type_first_letter: a
 type_first_letter_upper: A
-type_length_1: a
-type_length_2: ar
-type_length_3: arc
-type_length_4: arch
-type_length_5: archi
-type_length_6: archiv
-type_name: Archive
-type_no_space_length_1: a
-type_no_space_length_2: ar
-type_no_space_length_3: arc
-type_no_space_length_4: arch
-type_no_space_length_5: archi
-type_no_space_length_6: archiv
-type_no_space_upper_length_1: A
-type_no_space_upper_length_2: AR
-type_no_space_upper_length_3: ARC
-type_no_space_upper_length_4: ARCH
-type_no_space_upper_length_5: ARCHI
-type_no_space_upper_length_6: ARCHIV
 type_upper: ARCHIVE
-type_upper_length_1: A
-type_upper_length_2: AR
-type_upper_length_3: ARC
-type_upper_length_4: ARCH
-type_upper_length_5: ARCHI
-type_upper_length_6: ARCHIV

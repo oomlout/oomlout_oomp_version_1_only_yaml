@@ -1,146 +1,23 @@
-bip_39_word_dash_12: penalty-bomb-gossip-journey-symbol-invite-hurt-alert-arena-cargo-large-able
-bip_39_word_dash_2: penalty-bomb
-bip_39_word_dash_3: penalty-bomb-gossip
-bip_39_word_new_br_12: penalty<br>bomb<br>gossip<br>journey<br>symbol<br>invite<br>hurt<br>alert<br>arena<br>cargo<br>large<br>able
-bip_39_word_new_br_2: penalty<br>bomb
-bip_39_word_new_br_3: penalty<br>bomb<br>gossip
-bip_39_word_new_line_12: 'penalty
-
-  bomb
-
-  gossip
-
-  journey
-
-  symbol
-
-  invite
-
-  hurt
-
-  alert
-
-  arena
-
-  cargo
-
-  large
-
-  able'
-bip_39_word_new_line_2: 'penalty
-
-  bomb'
-bip_39_word_new_line_3: 'penalty
-
-  bomb
-
-  gossip'
-bip_39_word_no_space_12: penaltybombgossipjourneysymbolinvitehurtalertarenacargolargeable
-bip_39_word_no_space_2: penaltybomb
-bip_39_word_no_space_3: penaltybombgossip
-bip_39_word_space_12: penalty bomb gossip journey symbol invite hurt alert arena cargo
-  large able
-bip_39_word_space_2: penalty bomb
-bip_39_word_space_3: penalty bomb gossip
-bip_39_word_underscore_12: penalty_bomb_gossip_journey_symbol_invite_hurt_alert_arena_cargo_large_able
-bip_39_word_underscore_2: penalty_bomb
-bip_39_word_underscore_3: penalty_bomb_gossip
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pap
-classification_length_4: pape
-classification_length_5: paper
-classification_length_6: paper
-classification_name: Paper
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pap
-classification_no_space_length_4: pape
-classification_no_space_length_5: paper
-classification_no_space_length_6: paper
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAP
-classification_no_space_upper_length_4: PAPE
-classification_no_space_upper_length_5: PAPER
-classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAP
-classification_upper_length_4: PAPE
-classification_upper_length_5: PAPER
-classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: single_sided_glossy_style_inkjet_printer_paper_material
 description_extra_capital: Single Sided Glossy Style Inkjet Printer Paper Material
 description_extra_first_letter: s
 description_extra_first_letter_upper: S
-description_extra_length_1: s
-description_extra_length_2: si
-description_extra_length_3: sin
-description_extra_length_4: sing
-description_extra_length_5: singl
-description_extra_length_6: single
-description_extra_name: Single Sided Glossy Style Inkjet Printer Paper Material
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: si
-description_extra_no_space_length_3: sin
-description_extra_no_space_length_4: sing
-description_extra_no_space_length_5: singl
-description_extra_no_space_length_6: single
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SI
-description_extra_no_space_upper_length_3: SIN
-description_extra_no_space_upper_length_4: SING
-description_extra_no_space_upper_length_5: SINGL
-description_extra_no_space_upper_length_6: SINGLE
 description_extra_upper: SINGLE_SIDED_GLOSSY_STYLE_INKJET_PRINTER_PAPER_MATERIAL
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SI
-description_extra_upper_length_3: SIN
-description_extra_upper_length_4: SING
-description_extra_upper_length_5: SINGL
-description_extra_upper_length_6: SINGLE
 description_main: sticker_sheet
 description_main_capital: Sticker Sheet
 description_main_first_letter: s
 description_main_first_letter_upper: S
-description_main_length_1: s
-description_main_length_2: st
-description_main_length_3: sti
-description_main_length_4: stic
-description_main_length_5: stick
-description_main_length_6: sticke
-description_main_name: Sticker Sheet
-description_main_no_space_length_1: s
-description_main_no_space_length_2: st
-description_main_no_space_length_3: sti
-description_main_no_space_length_4: stic
-description_main_no_space_length_5: stick
-description_main_no_space_length_6: sticke
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: ST
-description_main_no_space_upper_length_3: STI
-description_main_no_space_upper_length_4: STIC
-description_main_no_space_upper_length_5: STICK
-description_main_no_space_upper_length_6: STICKE
 description_main_upper: STICKER_SHEET
-description_main_upper_length_1: S
-description_main_upper_length_2: ST
-description_main_upper_length_3: STI
-description_main_upper_length_4: STIC
-description_main_upper_length_5: STICK
-description_main_upper_length_6: STICKE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -150,11 +27,9 @@ distributor_amazon: B082XKGBF4
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
 id_no_class: sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_material_koala
-id_no_color: stickersinglesidedglossystyleinkjetprintermaterialkoala
 id_no_size: sticker_single_sided_glossy_style_inkjet_printer_material_koala
 id_no_type: a4_210_mm_width_297_mm_height_sticker_single_sided_glossy_style_inkjet_printer_material_koala
 link_distributor_amazon: https://www.amazon.co.uk/dp/B082XKGBF4
@@ -165,32 +40,7 @@ manufacturer: koala
 manufacturer_capital: Koala
 manufacturer_first_letter: k
 manufacturer_first_letter_upper: K
-manufacturer_length_1: k
-manufacturer_length_2: ko
-manufacturer_length_3: koa
-manufacturer_length_4: koal
-manufacturer_length_5: koala
-manufacturer_length_6: koala
-manufacturer_name: Koala
-manufacturer_no_space_length_1: k
-manufacturer_no_space_length_2: ko
-manufacturer_no_space_length_3: koa
-manufacturer_no_space_length_4: koal
-manufacturer_no_space_length_5: koala
-manufacturer_no_space_length_6: koala
-manufacturer_no_space_upper_length_1: K
-manufacturer_no_space_upper_length_2: KO
-manufacturer_no_space_upper_length_3: KOA
-manufacturer_no_space_upper_length_4: KOAL
-manufacturer_no_space_upper_length_5: KOALA
-manufacturer_no_space_upper_length_6: KOALA
 manufacturer_upper: KOALA
-manufacturer_upper_length_1: K
-manufacturer_upper_length_2: KO
-manufacturer_upper_length_3: KOA
-manufacturer_upper_length_4: KOAL
-manufacturer_upper_length_5: KOALA
-manufacturer_upper_length_6: KOALA
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala](none)<br>[](none)<br>[Paper
   Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Single Sided Glossy Style Inkjet
@@ -205,14 +55,13 @@ md5_6: 04fa48
 md5_6_alpha: 6zpk
 md5_6_alpha_upper: 6ZPK
 md5_6_upper: 04FA48
-name: Paper Sheet A4 210 mm Width 297 mm Height Sticker Sheet Single Sided Glossy
+name: Paper Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Single Sided Glossy
   Style Inkjet Printer Paper Material Koala
-name_no_class: Sheet A4 210 mm Width 297 mm Height Sticker Sheet Single Sided Glossy
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Single Sided Glossy
   Style Inkjet Printer Material Koala
-name_no_color: Stickersinglesidedglossystyleinkjetprintermaterialkoala
 name_no_size: Sticker Single Sided Glossy Style Inkjet Printer Material Koala
 name_no_size_short: Sticker Single Sided Glossy Style Inkjet Printer Material Koala
-name_no_type: A4 210 mm Width 297 mm Height Sticker Single Sided Glossy Style Inkjet
+name_no_type: A4 210 Mm Width 297 Mm Height Sticker Single Sided Glossy Style Inkjet
   Printer Material Koala
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
 oomp_word: wink nine hatched_chick
@@ -229,7 +78,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 price_1: 0.10825000000000001
 price_1_distributor_amazon: 0.10825000000000001
@@ -239,62 +87,12 @@ size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: a4
-size_length_3: a4_
-size_length_4: a4_2
-size_length_5: a4_21
-size_length_6: a4_210
-size_name: A4 210 mm Width 297 mm Height
-size_no_space_length_1: a
-size_no_space_length_2: a4
-size_no_space_length_3: a42
-size_no_space_length_4: a421
-size_no_space_length_5: a4210
-size_no_space_length_6: a4210m
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A4
-size_no_space_upper_length_3: A42
-size_no_space_upper_length_4: A421
-size_no_space_upper_length_5: A4210
-size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
-size_upper_length_1: A
-size_upper_length_2: A4
-size_upper_length_3: A4_
-size_upper_length_4: A4_2
-size_upper_length_5: A4_21
-size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sh
-type_length_3: she
-type_length_4: shee
-type_length_5: sheet
-type_length_6: sheet
-type_name: Sheet
-type_no_space_length_1: s
-type_no_space_length_2: sh
-type_no_space_length_3: she
-type_no_space_length_4: shee
-type_no_space_length_5: sheet
-type_no_space_length_6: sheet
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SH
-type_no_space_upper_length_3: SHE
-type_no_space_upper_length_4: SHEE
-type_no_space_upper_length_5: SHEET
-type_no_space_upper_length_6: SHEET
 type_upper: SHEET
-type_upper_length_1: S
-type_upper_length_2: SH
-type_upper_length_3: SHE
-type_upper_length_4: SHEE
-type_upper_length_5: SHEET
-type_upper_length_6: SHEET
 width: 210 mm

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: smoke-aunt-flee-huge-elephant-bread-tribe-either-universe-share-unusual-all
-bip_39_word_dash_2: smoke-aunt
-bip_39_word_dash_3: smoke-aunt-flee
-bip_39_word_new_br_12: smoke<br>aunt<br>flee<br>huge<br>elephant<br>bread<br>tribe<br>either<br>universe<br>share<br>unusual<br>all
-bip_39_word_new_br_2: smoke<br>aunt
-bip_39_word_new_br_3: smoke<br>aunt<br>flee
-bip_39_word_new_line_12: 'smoke
-
-  aunt
-
-  flee
-
-  huge
-
-  elephant
-
-  bread
-
-  tribe
-
-  either
-
-  universe
-
-  share
-
-  unusual
-
-  all'
-bip_39_word_new_line_2: 'smoke
-
-  aunt'
-bip_39_word_new_line_3: 'smoke
-
-  aunt
-
-  flee'
-bip_39_word_no_space_12: smokeauntfleehugeelephantbreadtribeeitheruniverseshareunusualall
-bip_39_word_no_space_2: smokeaunt
-bip_39_word_no_space_3: smokeauntflee
-bip_39_word_space_12: smoke aunt flee huge elephant bread tribe either universe share
-  unusual all
-bip_39_word_space_2: smoke aunt
-bip_39_word_space_3: smoke aunt flee
-bip_39_word_underscore_12: smoke_aunt_flee_huge_elephant_bread_tribe_either_universe_share_unusual_all
-bip_39_word_underscore_2: smoke_aunt
-bip_39_word_underscore_3: smoke_aunt_flee
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
-classification_length_1: g
-classification_length_2: ga
-classification_length_3: gar
-classification_length_4: gard
-classification_length_5: garde
-classification_length_6: garden
-classification_name: Garden
-classification_no_space_length_1: g
-classification_no_space_length_2: ga
-classification_no_space_length_3: gar
-classification_no_space_length_4: gard
-classification_no_space_length_5: garde
-classification_no_space_length_6: garden
-classification_no_space_upper_length_1: G
-classification_no_space_upper_length_2: GA
-classification_no_space_upper_length_3: GAR
-classification_no_space_upper_length_4: GARD
-classification_no_space_upper_length_5: GARDE
-classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
-classification_upper_length_1: G
-classification_upper_length_2: GA
-classification_upper_length_3: GAR
-classification_upper_length_4: GARD
-classification_upper_length_5: GARDE
-classification_upper_length_6: GARDEN
 color: mix
 color_capital: Mix
 color_first_letter: m
 color_first_letter_upper: M
-color_length_1: m
-color_length_2: mi
-color_length_3: mix
-color_length_4: mix
-color_length_5: mix
-color_length_6: mix
-color_name: Mix
-color_no_space_length_1: m
-color_no_space_length_2: mi
-color_no_space_length_3: mix
-color_no_space_length_4: mix
-color_no_space_length_5: mix
-color_no_space_length_6: mix
-color_no_space_upper_length_1: M
-color_no_space_upper_length_2: MI
-color_no_space_upper_length_3: MIX
-color_no_space_upper_length_4: MIX
-color_no_space_upper_length_5: MIX
-color_no_space_upper_length_6: MIX
 color_upper: MIX
-color_upper_length_1: M
-color_upper_length_2: MI
-color_upper_length_3: MIX
-color_upper_length_4: MIX
-color_upper_length_5: MIX
-color_upper_length_6: MIX
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: wildflower_honeybee_mix
 description_main_capital: Wildflower Honeybee Mix
 description_main_first_letter: w
 description_main_first_letter_upper: W
-description_main_length_1: w
-description_main_length_2: wi
-description_main_length_3: wil
-description_main_length_4: wild
-description_main_length_5: wildf
-description_main_length_6: wildfl
-description_main_name: Wildflower Honeybee Mix
-description_main_no_space_length_1: w
-description_main_no_space_length_2: wi
-description_main_no_space_length_3: wil
-description_main_no_space_length_4: wild
-description_main_no_space_length_5: wildf
-description_main_no_space_length_6: wildfl
-description_main_no_space_upper_length_1: W
-description_main_no_space_upper_length_2: WI
-description_main_no_space_upper_length_3: WIL
-description_main_no_space_upper_length_4: WILD
-description_main_no_space_upper_length_5: WILDF
-description_main_no_space_upper_length_6: WILDFL
 description_main_upper: WILDFLOWER_HONEYBEE_MIX
-description_main_upper_length_1: W
-description_main_upper_length_2: WI
-description_main_upper_length_3: WIL
-description_main_upper_length_4: WILD
-description_main_upper_length_5: WILDF
-description_main_upper_length_6: WILDFL
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'M '
@@ -148,10 +25,8 @@ description_or_color_upper: 'M '
 directory: parts/garden_plant_flower_mix_wildflower_honeybee_mix
 distributor_sutton_seeds: '140000'
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_flower_mix_wildflower_honeybee_mix
 id: garden_plant_flower_mix_wildflower_honeybee_mix
 id_no_class: plant_flower_mix_wildflower_honeybee_mix
-id_no_color: wildhoneybee_mix
 id_no_size: mix_wildhoneybee_mix
 id_no_type: flower_mix_wildflower_honeybee_mix
 link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE56/wildflower-honeybee-mix-seeds_mh-53182
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_flower_mix_wildflower_honeybee_mix](none)<br>[](none)<br>[Garden
@@ -179,7 +53,6 @@ md5_6_alpha_upper: 41W35
 md5_6_upper: 67DCB1
 name: Garden Plant Flower Mix Wildflower Honeybee Mix
 name_no_class: Plant Flower Mix Wildflower Honeybee Mix
-name_no_color: Wildhoneybee Mix
 name_no_size: Mix Wildhoneybee Mix
 name_no_size_short: Mix Wildhoneybee Mix
 name_no_type: Flower Mix Wildflower Honeybee Mix
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -207,61 +79,11 @@ size: flower
 size_capital: Flower
 size_first_letter: f
 size_first_letter_upper: F
-size_length_1: f
-size_length_2: fl
-size_length_3: flo
-size_length_4: flow
-size_length_5: flowe
-size_length_6: flower
-size_name: Flower
-size_no_space_length_1: f
-size_no_space_length_2: fl
-size_no_space_length_3: flo
-size_no_space_length_4: flow
-size_no_space_length_5: flowe
-size_no_space_length_6: flower
-size_no_space_upper_length_1: F
-size_no_space_upper_length_2: FL
-size_no_space_upper_length_3: FLO
-size_no_space_upper_length_4: FLOW
-size_no_space_upper_length_5: FLOWE
-size_no_space_upper_length_6: FLOWER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FLOWER
-size_upper_length_1: F
-size_upper_length_2: FL
-size_upper_length_3: FLO
-size_upper_length_4: FLOW
-size_upper_length_5: FLOWE
-size_upper_length_6: FLOWER
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pl
-type_length_3: pla
-type_length_4: plan
-type_length_5: plant
-type_length_6: plant
-type_name: Plant
-type_no_space_length_1: p
-type_no_space_length_2: pl
-type_no_space_length_3: pla
-type_no_space_length_4: plan
-type_no_space_length_5: plant
-type_no_space_length_6: plant
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PL
-type_no_space_upper_length_3: PLA
-type_no_space_upper_length_4: PLAN
-type_no_space_upper_length_5: PLANT
-type_no_space_upper_length_6: PLANT
 type_upper: PLANT
-type_upper_length_1: P
-type_upper_length_2: PL
-type_upper_length_3: PLA
-type_upper_length_4: PLAN
-type_upper_length_5: PLANT
-type_upper_length_6: PLANT

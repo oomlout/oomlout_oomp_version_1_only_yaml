@@ -1,98 +1,23 @@
-bip_39_word_dash_12: dog-casino-cousin-purse-index-style-win-swim-mandate-smooth-abuse-angle
-bip_39_word_dash_2: dog-casino
-bip_39_word_dash_3: dog-casino-cousin
-bip_39_word_new_br_12: dog<br>casino<br>cousin<br>purse<br>index<br>style<br>win<br>swim<br>mandate<br>smooth<br>abuse<br>angle
-bip_39_word_new_br_2: dog<br>casino
-bip_39_word_new_br_3: dog<br>casino<br>cousin
-bip_39_word_new_line_12: 'dog
-
-  casino
-
-  cousin
-
-  purse
-
-  index
-
-  style
-
-  win
-
-  swim
-
-  mandate
-
-  smooth
-
-  abuse
-
-  angle'
-bip_39_word_new_line_2: 'dog
-
-  casino'
-bip_39_word_new_line_3: 'dog
-
-  casino
-
-  cousin'
-bip_39_word_no_space_12: dogcasinocousinpurseindexstylewinswimmandatesmoothabuseangle
-bip_39_word_no_space_2: dogcasino
-bip_39_word_no_space_3: dogcasinocousin
-bip_39_word_space_12: dog casino cousin purse index style win swim mandate smooth
-  abuse angle
-bip_39_word_space_2: dog casino
-bip_39_word_space_3: dog casino cousin
-bip_39_word_underscore_12: dog_casino_cousin_purse_index_style_win_swim_mandate_smooth_abuse_angle
-bip_39_word_underscore_2: dog_casino
-bip_39_word_underscore_3: dog_casino_cousin
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_electronic_breakout_board_servo_tester
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_breakout_board_servo_tester
 id: category_electronic_breakout_board_servo_tester
 id_no_class: electronic_breakout_board_servo_tester
-id_no_color: breakoutboardservotester
 id_no_size: breakout_board_servo_tester
 id_no_type: breakout_board_servo_tester
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_breakout_board_servo_tester](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 5GNZN
 md5_6_upper: 8C0273
 name: Category Electronic Breakout Board Servo Tester
 name_no_class: Electronic Breakout Board Servo Tester
-name_no_color: Breakoutboardservotester
 name_no_size: Breakout Board Servo Tester
 name_no_size_short: Breakout Board Servo Tester
 name_no_type: Breakout Board Servo Tester
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: breakout_board_servo_tester
 size_capital: Breakout Board Servo Tester
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: br
-size_length_3: bre
-size_length_4: brea
-size_length_5: break
-size_length_6: breako
-size_name: Breakout Board Servo Tester
-size_no_space_length_1: b
-size_no_space_length_2: br
-size_no_space_length_3: bre
-size_no_space_length_4: brea
-size_no_space_length_5: break
-size_no_space_length_6: breako
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BR
-size_no_space_upper_length_3: BRE
-size_no_space_upper_length_4: BREA
-size_no_space_upper_length_5: BREAK
-size_no_space_upper_length_6: BREAKO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BREAKOUT_BOARD_SERVO_TESTER
-size_upper_length_1: B
-size_upper_length_2: BR
-size_upper_length_3: BRE
-size_upper_length_4: BREA
-size_upper_length_5: BREAK
-size_upper_length_6: BREAKO
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

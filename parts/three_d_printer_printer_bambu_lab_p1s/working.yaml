@@ -1,97 +1,22 @@
-bip_39_word_dash_12: poverty-snow-unknown-remember-wrong-shock-season-step-finger-velvet-obtain-arrow
-bip_39_word_dash_2: poverty-snow
-bip_39_word_dash_3: poverty-snow-unknown
-bip_39_word_new_br_12: poverty<br>snow<br>unknown<br>remember<br>wrong<br>shock<br>season<br>step<br>finger<br>velvet<br>obtain<br>arrow
-bip_39_word_new_br_2: poverty<br>snow
-bip_39_word_new_br_3: poverty<br>snow<br>unknown
-bip_39_word_new_line_12: 'poverty
-
-  snow
-
-  unknown
-
-  remember
-
-  wrong
-
-  shock
-
-  season
-
-  step
-
-  finger
-
-  velvet
-
-  obtain
-
-  arrow'
-bip_39_word_new_line_2: 'poverty
-
-  snow'
-bip_39_word_new_line_3: 'poverty
-
-  snow
-
-  unknown'
-bip_39_word_no_space_12: povertysnowunknownrememberwrongshockseasonstepfingervelvetobtainarrow
-bip_39_word_no_space_2: povertysnow
-bip_39_word_no_space_3: povertysnowunknown
-bip_39_word_space_12: poverty snow unknown remember wrong shock season step finger
-  velvet obtain arrow
-bip_39_word_space_2: poverty snow
-bip_39_word_space_3: poverty snow unknown
-bip_39_word_underscore_12: poverty_snow_unknown_remember_wrong_shock_season_step_finger_velvet_obtain_arrow
-bip_39_word_underscore_2: poverty_snow
-bip_39_word_underscore_3: poverty_snow_unknown
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: th
-classification_length_3: thr
-classification_length_4: thre
-classification_length_5: three
-classification_length_6: three_
-classification_name: Three D Printer
-classification_no_space_length_1: t
-classification_no_space_length_2: th
-classification_no_space_length_3: thr
-classification_no_space_length_4: thre
-classification_no_space_length_5: three
-classification_no_space_length_6: threed
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TH
-classification_no_space_upper_length_3: THR
-classification_no_space_upper_length_4: THRE
-classification_no_space_upper_length_5: THREE
-classification_no_space_upper_length_6: THREED
 classification_upper: THREE_D_PRINTER
-classification_upper_length_1: T
-classification_upper_length_2: TH
-classification_upper_length_3: THR
-classification_upper_length_4: THRE
-classification_upper_length_5: THREE
-classification_upper_length_6: THREE_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/three_d_printer_printer_bambu_lab_p1s
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
 id: three_d_printer_printer_bambu_lab_p1s
 id_no_class: printer_bambu_lab_p1s
-id_no_color: bambulabp1s
 id_no_size: bambu_lab_p1s
 id_no_type: bambu_lab_p1s
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_p1s
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[three_d_printer_printer_bambu_lab_p1s](none)<br>[](none)<br>[Three
@@ -129,7 +51,6 @@ md5_6_alpha_upper: 7XF0C
 md5_6_upper: CB313C
 name: Three D Printer Printer Bambu Lab P1S
 name_no_class: Printer Bambu Lab P1S
-name_no_color: Bambulabp1S
 name_no_size: Bambu Lab P1S
 name_no_size_short: Bambu Lab P1S
 name_no_type: Bambu Lab P1S
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: bambu_lab_p1s
 size_capital: Bambu Lab P1S
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bam
-size_length_4: bamb
-size_length_5: bambu
-size_length_6: bambu_
-size_name: Bambu Lab P1S
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bam
-size_no_space_length_4: bamb
-size_no_space_length_5: bambu
-size_no_space_length_6: bambul
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAM
-size_no_space_upper_length_4: BAMB
-size_no_space_upper_length_5: BAMBU
-size_no_space_upper_length_6: BAMBUL
 size_only_numbers: '1'
 size_only_numbers_no_zeros: '1'
 size_upper: BAMBU_LAB_P1S
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAM
-size_upper_length_4: BAMB
-size_upper_length_5: BAMBU
-size_upper_length_6: BAMBU_
 type: printer
 type_capital: Printer
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pr
-type_length_3: pri
-type_length_4: prin
-type_length_5: print
-type_length_6: printe
-type_name: Printer
-type_no_space_length_1: p
-type_no_space_length_2: pr
-type_no_space_length_3: pri
-type_no_space_length_4: prin
-type_no_space_length_5: print
-type_no_space_length_6: printe
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PR
-type_no_space_upper_length_3: PRI
-type_no_space_upper_length_4: PRIN
-type_no_space_upper_length_5: PRINT
-type_no_space_upper_length_6: PRINTE
 type_upper: PRINTER
-type_upper_length_1: P
-type_upper_length_2: PR
-type_upper_length_3: PRI
-type_upper_length_4: PRIN
-type_upper_length_5: PRINT
-type_upper_length_6: PRINTE

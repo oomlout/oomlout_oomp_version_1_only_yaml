@@ -1,156 +1,31 @@
-bip_39_word_dash_12: inch-sorry-beef-fancy-mountain-mandate-bright-wall-any-sadness-confirm-asthma
-bip_39_word_dash_2: inch-sorry
-bip_39_word_dash_3: inch-sorry-beef
-bip_39_word_new_br_12: inch<br>sorry<br>beef<br>fancy<br>mountain<br>mandate<br>bright<br>wall<br>any<br>sadness<br>confirm<br>asthma
-bip_39_word_new_br_2: inch<br>sorry
-bip_39_word_new_br_3: inch<br>sorry<br>beef
-bip_39_word_new_line_12: 'inch
-
-  sorry
-
-  beef
-
-  fancy
-
-  mountain
-
-  mandate
-
-  bright
-
-  wall
-
-  any
-
-  sadness
-
-  confirm
-
-  asthma'
-bip_39_word_new_line_2: 'inch
-
-  sorry'
-bip_39_word_new_line_3: 'inch
-
-  sorry
-
-  beef'
-bip_39_word_no_space_12: inchsorrybeeffancymountainmandatebrightwallanysadnessconfirmasthma
-bip_39_word_no_space_2: inchsorry
-bip_39_word_no_space_3: inchsorrybeef
-bip_39_word_space_12: inch sorry beef fancy mountain mandate bright wall any sadness
-  confirm asthma
-bip_39_word_space_2: inch sorry
-bip_39_word_space_3: inch sorry beef
-bip_39_word_underscore_12: inch_sorry_beef_fancy_mountain_mandate_bright_wall_any_sadness_confirm_asthma
-bip_39_word_underscore_2: inch_sorry
-bip_39_word_underscore_3: inch_sorry_beef
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
-classification_length_1: m
-classification_length_2: me
-classification_length_3: mec
-classification_length_4: mech
-classification_length_5: mecha
-classification_length_6: mechan
-classification_name: Mechanical
-classification_no_space_length_1: m
-classification_no_space_length_2: me
-classification_no_space_length_3: mec
-classification_no_space_length_4: mech
-classification_no_space_length_5: mecha
-classification_no_space_length_6: mechan
-classification_no_space_upper_length_1: M
-classification_no_space_upper_length_2: ME
-classification_no_space_upper_length_3: MEC
-classification_no_space_upper_length_4: MECH
-classification_no_space_upper_length_5: MECHA
-classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
-classification_upper_length_1: M
-classification_upper_length_2: ME
-classification_upper_length_3: MEC
-classification_upper_length_4: MECH
-classification_upper_length_5: MECHA
-classification_upper_length_6: MECHAN
 color: 6_mm_belt_width
 color_capital: 6 mm Belt Width
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '6_'
-color_length_3: 6_m
-color_length_4: 6_mm
-color_length_5: 6_mm_
-color_length_6: 6_mm_b
-color_name: 6 mm Belt Width
-color_no_space_length_1: '6'
-color_no_space_length_2: 6m
-color_no_space_length_3: 6mm
-color_no_space_length_4: 6mmb
-color_no_space_length_5: 6mmbe
-color_no_space_length_6: 6mmbel
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: 6M
-color_no_space_upper_length_3: 6MM
-color_no_space_upper_length_4: 6MMB
-color_no_space_upper_length_5: 6MMBE
-color_no_space_upper_length_6: 6MMBEL
 color_upper: 6_MM_BELT_WIDTH
-color_upper_length_1: '6'
-color_upper_length_2: '6_'
-color_upper_length_3: 6_M
-color_upper_length_4: 6_MM
-color_upper_length_5: 6_MM_
-color_upper_length_6: 6_MM_B
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 138_teeth_276_mm_circumference
 description_main_capital: 138 Teeth 276 mm Circumference
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '13'
-description_main_length_3: '138'
-description_main_length_4: '138_'
-description_main_length_5: 138_t
-description_main_length_6: 138_te
-description_main_name: 138 Teeth 276 mm Circumference
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '13'
-description_main_no_space_length_3: '138'
-description_main_no_space_length_4: 138t
-description_main_no_space_length_5: 138te
-description_main_no_space_length_6: 138tee
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '13'
-description_main_no_space_upper_length_3: '138'
-description_main_no_space_upper_length_4: 138T
-description_main_no_space_upper_length_5: 138TE
-description_main_no_space_upper_length_6: 138TEE
 description_main_upper: 138_TEETH_276_MM_CIRCUMFERENCE
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '13'
-description_main_upper_length_3: '138'
-description_main_upper_length_4: '138_'
-description_main_upper_length_5: 138_T
-description_main_upper_length_6: 138_TE
 description_only_numbers: '138276'
 description_only_numbers_short: 138k
 description_or_color: 6138k
 description_or_color_upper: 6138K
 directory: parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
 id: mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
 id_no_class: timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
-id_no_color: 138_teeth_276_mm_circumference
 id_no_size: 6_mm_belt_width_138_teeth_276_mm_circumference
 id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference](none)<br>[](none)<br>[Mechanical
@@ -175,12 +49,11 @@ md5_6: e05def
 md5_6_alpha: 8r5rj
 md5_6_alpha_upper: 8R5RJ
 md5_6_upper: E05DEF
-name: Mechanical Timing Belt 2Gt 2 mm Pitch 6 mm Belt Width 138 Teeth 276 mm Circumference
-name_no_class: Timing Belt 2Gt 2 mm Pitch 6 mm Belt Width 138 Teeth 276 mm Circumference
-name_no_color: 138 Teeth 276 mm Circumference
-name_no_size: 6 mm Belt Width 138 Teeth 276 mm Circumference
+name: Mechanical Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 138 Teeth 276 Mm Circumference
+name_no_class: Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 138 Teeth 276 Mm Circumference
+name_no_size: 6 Mm Belt Width 138 Teeth 276 Mm Circumference
 name_no_size_short: 6 Mm Belt Width 138 Teeth 276 Mm Circumference
-name_no_type: 2Gt 2 mm Pitch 6 mm Belt Width 138 Teeth 276 mm Circumference
+name_no_type: 2Gt 2 Mm Pitch 6 Mm Belt Width 138 Teeth 276 Mm Circumference
 oomp_key: oomp_mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_138_teeth_276_mm_circumference
 oomp_word: ship blowfish truck
 oomp_word_emoji: ':ship: :blowfish: :truck:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: 2gt_2_mm_pitch
 size_capital: 2Gt 2 mm Pitch
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: 2g
-size_length_3: 2gt
-size_length_4: 2gt_
-size_length_5: 2gt_2
-size_length_6: 2gt_2_
-size_name: 2Gt 2 mm Pitch
-size_no_space_length_1: '2'
-size_no_space_length_2: 2g
-size_no_space_length_3: 2gt
-size_no_space_length_4: 2gt2
-size_no_space_length_5: 2gt2m
-size_no_space_length_6: 2gt2mm
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: 2G
-size_no_space_upper_length_3: 2GT
-size_no_space_upper_length_4: 2GT2
-size_no_space_upper_length_5: 2GT2M
-size_no_space_upper_length_6: 2GT2MM
 size_only_numbers: '22'
 size_only_numbers_no_zeros: '22'
 size_upper: 2GT_2_MM_PITCH
-size_upper_length_1: '2'
-size_upper_length_2: 2G
-size_upper_length_3: 2GT
-size_upper_length_4: 2GT_
-size_upper_length_5: 2GT_2
-size_upper_length_6: 2GT_2_
 type: timing_belt
 type_capital: Timing Belt
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: ti
-type_length_3: tim
-type_length_4: timi
-type_length_5: timin
-type_length_6: timing
-type_name: Timing Belt
-type_no_space_length_1: t
-type_no_space_length_2: ti
-type_no_space_length_3: tim
-type_no_space_length_4: timi
-type_no_space_length_5: timin
-type_no_space_length_6: timing
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TI
-type_no_space_upper_length_3: TIM
-type_no_space_upper_length_4: TIMI
-type_no_space_upper_length_5: TIMIN
-type_no_space_upper_length_6: TIMING
 type_upper: TIMING_BELT
-type_upper_length_1: T
-type_upper_length_2: TI
-type_upper_length_3: TIM
-type_upper_length_4: TIMI
-type_upper_length_5: TIMIN
-type_upper_length_6: TIMING

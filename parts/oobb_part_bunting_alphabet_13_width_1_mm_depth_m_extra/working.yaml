@@ -1,156 +1,31 @@
-bip_39_word_dash_12: heavy-gold-cup-hawk-wide-afford-shrimp-bleak-answer-vault-yard-age
-bip_39_word_dash_2: heavy-gold
-bip_39_word_dash_3: heavy-gold-cup
-bip_39_word_new_br_12: heavy<br>gold<br>cup<br>hawk<br>wide<br>afford<br>shrimp<br>bleak<br>answer<br>vault<br>yard<br>age
-bip_39_word_new_br_2: heavy<br>gold
-bip_39_word_new_br_3: heavy<br>gold<br>cup
-bip_39_word_new_line_12: 'heavy
-
-  gold
-
-  cup
-
-  hawk
-
-  wide
-
-  afford
-
-  shrimp
-
-  bleak
-
-  answer
-
-  vault
-
-  yard
-
-  age'
-bip_39_word_new_line_2: 'heavy
-
-  gold'
-bip_39_word_new_line_3: 'heavy
-
-  gold
-
-  cup'
-bip_39_word_no_space_12: heavygoldcuphawkwideaffordshrimpbleakanswervaultyardage
-bip_39_word_no_space_2: heavygold
-bip_39_word_no_space_3: heavygoldcup
-bip_39_word_space_12: heavy gold cup hawk wide afford shrimp bleak answer vault yard
-  age
-bip_39_word_space_2: heavy gold
-bip_39_word_space_3: heavy gold cup
-bip_39_word_underscore_12: heavy_gold_cup_hawk_wide_afford_shrimp_bleak_answer_vault_yard_age
-bip_39_word_underscore_2: heavy_gold
-bip_39_word_underscore_3: heavy_gold_cup
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: m_extra
 description_extra_capital: M Extra
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: m_
-description_extra_length_3: m_e
-description_extra_length_4: m_ex
-description_extra_length_5: m_ext
-description_extra_length_6: m_extr
-description_extra_name: M Extra
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: me
-description_extra_no_space_length_3: mex
-description_extra_no_space_length_4: mext
-description_extra_no_space_length_5: mextr
-description_extra_no_space_length_6: mextra
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: ME
-description_extra_no_space_upper_length_3: MEX
-description_extra_no_space_upper_length_4: MEXT
-description_extra_no_space_upper_length_5: MEXTR
-description_extra_no_space_upper_length_6: MEXTRA
 description_extra_upper: M_EXTRA
-description_extra_upper_length_1: M
-description_extra_upper_length_2: M_
-description_extra_upper_length_3: M_E
-description_extra_upper_length_4: M_EX
-description_extra_upper_length_5: M_EXT
-description_extra_upper_length_6: M_EXTR
 description_main: 13_width_1_mm_depth
 description_main_capital: 13 Width 1 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '13'
-description_main_length_3: '13_'
-description_main_length_4: 13_w
-description_main_length_5: 13_wi
-description_main_length_6: 13_wid
-description_main_name: 13 Width 1 mm Depth
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '13'
-description_main_no_space_length_3: 13w
-description_main_no_space_length_4: 13wi
-description_main_no_space_length_5: 13wid
-description_main_no_space_length_6: 13widt
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '13'
-description_main_no_space_upper_length_3: 13W
-description_main_no_space_upper_length_4: 13WI
-description_main_no_space_upper_length_5: 13WID
-description_main_no_space_upper_length_6: 13WIDT
 description_main_upper: 13_WIDTH_1_MM_DEPTH
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '13'
-description_main_upper_length_3: '13_'
-description_main_upper_length_4: 13_W
-description_main_upper_length_5: 13_WI
-description_main_upper_length_6: 13_WID
 description_only_numbers: '131'
 description_only_numbers_short: '131'
 description_or_color: '131'
 description_or_color_upper: '131'
 directory: parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_m_extra
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_m_extra
 id: oobb_part_bunting_alphabet_13_width_1_mm_depth_m_extra
 id_no_class: part_bunting_alphabet_13_width_1_mm_depth_m_extra
-id_no_color: 13width1mmdepthmextra
 id_no_size: 13_width_1_mm_depth_m_extra
 id_no_type: bunting_alphabet_13_width_1_mm_depth_m_extra
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_bunting_alphabet_13_width_1_mm_depth_m_extra
@@ -160,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_bunting_alphabet_13_width_1_mm_depth_m_extra](none)<br>[](none)<br>[Oobb
@@ -175,12 +49,11 @@ md5_6: 4dfdbc
 md5_6_alpha: 31juk
 md5_6_alpha_upper: 31JUK
 md5_6_upper: 4DFDBC
-name: Oobb Part Bunting Alphabet 13 Width 1 mm Depth M Extra
-name_no_class: Part Bunting Alphabet 13 Width 1 mm Depth M Extra
-name_no_color: 13Width1mmdepthmextra
-name_no_size: 13 Width 1 mm Depth M Extra
+name: Oobb Part Bunting Alphabet 13 Width 1 Mm Depth M Extra
+name_no_class: Part Bunting Alphabet 13 Width 1 Mm Depth M Extra
+name_no_size: 13 Width 1 Mm Depth M Extra
 name_no_size_short: 13 Width 1 Mm Depth M Extra
-name_no_type: Bunting Alphabet 13 Width 1 mm Depth M Extra
+name_no_type: Bunting Alphabet 13 Width 1 Mm Depth M Extra
 oomp_key: oomp_oobb_part_bunting_alphabet_13_width_1_mm_depth_m_extra
 oomp_word: bug parking sushi
 oomp_word_emoji: ':bug: :parking: :sushi:'
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -205,61 +77,11 @@ size: bunting_alphabet
 size_capital: Bunting Alphabet
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: bu
-size_length_3: bun
-size_length_4: bunt
-size_length_5: bunti
-size_length_6: buntin
-size_name: Bunting Alphabet
-size_no_space_length_1: b
-size_no_space_length_2: bu
-size_no_space_length_3: bun
-size_no_space_length_4: bunt
-size_no_space_length_5: bunti
-size_no_space_length_6: buntin
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BU
-size_no_space_upper_length_3: BUN
-size_no_space_upper_length_4: BUNT
-size_no_space_upper_length_5: BUNTI
-size_no_space_upper_length_6: BUNTIN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BUNTING_ALPHABET
-size_upper_length_1: B
-size_upper_length_2: BU
-size_upper_length_3: BUN
-size_upper_length_4: BUNT
-size_upper_length_5: BUNTI
-size_upper_length_6: BUNTIN
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

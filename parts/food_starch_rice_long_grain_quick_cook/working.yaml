@@ -1,122 +1,23 @@
-bip_39_word_dash_12: admit-stick-smile-topple-sweet-select-maid-century-tip-require-weasel-arrange
-bip_39_word_dash_2: admit-stick
-bip_39_word_dash_3: admit-stick-smile
-bip_39_word_new_br_12: admit<br>stick<br>smile<br>topple<br>sweet<br>select<br>maid<br>century<br>tip<br>require<br>weasel<br>arrange
-bip_39_word_new_br_2: admit<br>stick
-bip_39_word_new_br_3: admit<br>stick<br>smile
-bip_39_word_new_line_12: 'admit
-
-  stick
-
-  smile
-
-  topple
-
-  sweet
-
-  select
-
-  maid
-
-  century
-
-  tip
-
-  require
-
-  weasel
-
-  arrange'
-bip_39_word_new_line_2: 'admit
-
-  stick'
-bip_39_word_new_line_3: 'admit
-
-  stick
-
-  smile'
-bip_39_word_no_space_12: admitsticksmiletopplesweetselectmaidcenturytiprequireweaselarrange
-bip_39_word_no_space_2: admitstick
-bip_39_word_no_space_3: admitsticksmile
-bip_39_word_space_12: admit stick smile topple sweet select maid century tip require
-  weasel arrange
-bip_39_word_space_2: admit stick
-bip_39_word_space_3: admit stick smile
-bip_39_word_underscore_12: admit_stick_smile_topple_sweet_select_maid_century_tip_require_weasel_arrange
-bip_39_word_underscore_2: admit_stick
-bip_39_word_underscore_3: admit_stick_smile
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: long_grain_quick_cook
 color_capital: Long Grain Quick Cook
 color_first_letter: l
 color_first_letter_upper: L
-color_length_1: l
-color_length_2: lo
-color_length_3: lon
-color_length_4: long
-color_length_5: long_
-color_length_6: long_g
-color_name: Long Grain Quick Cook
-color_no_space_length_1: l
-color_no_space_length_2: lo
-color_no_space_length_3: lon
-color_no_space_length_4: long
-color_no_space_length_5: longg
-color_no_space_length_6: longgr
-color_no_space_upper_length_1: L
-color_no_space_upper_length_2: LO
-color_no_space_upper_length_3: LON
-color_no_space_upper_length_4: LONG
-color_no_space_upper_length_5: LONGG
-color_no_space_upper_length_6: LONGGR
 color_upper: LONG_GRAIN_QUICK_COOK
-color_upper_length_1: L
-color_upper_length_2: LO
-color_upper_length_3: LON
-color_upper_length_4: LONG
-color_upper_length_5: LONG_
-color_upper_length_6: LONG_G
 description: rice_long_grain_quick_cook
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/food_starch_rice_long_grain_quick_cook
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_rice_long_grain_quick_cook
 id: food_starch_rice_long_grain_quick_cook
 id_no_class: starch_rice_long_grain_quick_cook
-id_no_color: long_grain_quick_cook
 id_no_size: long_grain_quick_cook
 id_no_type: rice_long_grain_quick_cook
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_starch_rice_long_grain_quick_cook](none)<br>[](none)<br>[Food
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 7Q1IL
 md5_6_upper: C5F12D
 name: Food Starch Rice Long Grain Quick Cook
 name_no_class: Starch Rice Long Grain Quick Cook
-name_no_color: Long Grain Quick Cook
 name_no_size: Long Grain Quick Cook
 name_no_size_short: Long Grain Quick Cook
 name_no_type: Rice Long Grain Quick Cook
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: rice
 size_capital: Rice
 size_first_letter: r
 size_first_letter_upper: R
-size_length_1: r
-size_length_2: ri
-size_length_3: ric
-size_length_4: rice
-size_length_5: rice
-size_length_6: rice
-size_name: Rice
-size_no_space_length_1: r
-size_no_space_length_2: ri
-size_no_space_length_3: ric
-size_no_space_length_4: rice
-size_no_space_length_5: rice
-size_no_space_length_6: rice
-size_no_space_upper_length_1: R
-size_no_space_upper_length_2: RI
-size_no_space_upper_length_3: RIC
-size_no_space_upper_length_4: RICE
-size_no_space_upper_length_5: RICE
-size_no_space_upper_length_6: RICE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: RICE
-size_upper_length_1: R
-size_upper_length_2: RI
-size_upper_length_3: RIC
-size_upper_length_4: RICE
-size_upper_length_5: RICE
-size_upper_length_6: RICE
 type: starch
 type_capital: Starch
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: star
-type_length_5: starc
-type_length_6: starch
-type_name: Starch
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: star
-type_no_space_length_5: starc
-type_no_space_length_6: starch
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAR
-type_no_space_upper_length_5: STARC
-type_no_space_upper_length_6: STARCH
 type_upper: STARCH
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAR
-type_upper_length_5: STARC
-type_upper_length_6: STARCH

@@ -1,145 +1,22 @@
-bip_39_word_dash_12: amused-estate-endless-edge-bounce-differ-moment-photo-transfer-actual-bone-alter
-bip_39_word_dash_2: amused-estate
-bip_39_word_dash_3: amused-estate-endless
-bip_39_word_new_br_12: amused<br>estate<br>endless<br>edge<br>bounce<br>differ<br>moment<br>photo<br>transfer<br>actual<br>bone<br>alter
-bip_39_word_new_br_2: amused<br>estate
-bip_39_word_new_br_3: amused<br>estate<br>endless
-bip_39_word_new_line_12: 'amused
-
-  estate
-
-  endless
-
-  edge
-
-  bounce
-
-  differ
-
-  moment
-
-  photo
-
-  transfer
-
-  actual
-
-  bone
-
-  alter'
-bip_39_word_new_line_2: 'amused
-
-  estate'
-bip_39_word_new_line_3: 'amused
-
-  estate
-
-  endless'
-bip_39_word_no_space_12: amusedestateendlessedgebouncediffermomentphototransferactualbonealter
-bip_39_word_no_space_2: amusedestate
-bip_39_word_no_space_3: amusedestateendless
-bip_39_word_space_12: amused estate endless edge bounce differ moment photo transfer
-  actual bone alter
-bip_39_word_space_2: amused estate
-bip_39_word_space_3: amused estate endless
-bip_39_word_underscore_12: amused_estate_endless_edge_bounce_differ_moment_photo_transfer_actual_bone_alter
-bip_39_word_underscore_2: amused_estate
-bip_39_word_underscore_3: amused_estate_endless
 classification: vinyl
 classification_capital: Vinyl
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl
-classification_name: Vinyl
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinyl
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYL
 classification_upper: VINYL
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL
 color: green
 color_capital: Green
 color_first_letter: g
 color_first_letter_upper: G
-color_length_1: g
-color_length_2: gr
-color_length_3: gre
-color_length_4: gree
-color_length_5: green
-color_length_6: green
-color_name: Green
-color_no_space_length_1: g
-color_no_space_length_2: gr
-color_no_space_length_3: gre
-color_no_space_length_4: gree
-color_no_space_length_5: green
-color_no_space_length_6: green
-color_no_space_upper_length_1: G
-color_no_space_upper_length_2: GR
-color_no_space_upper_length_3: GRE
-color_no_space_upper_length_4: GREE
-color_no_space_upper_length_5: GREEN
-color_no_space_upper_length_6: GREEN
 color_upper: GREEN
-color_upper_length_1: G
-color_upper_length_2: GR
-color_upper_length_3: GRE
-color_upper_length_4: GREE
-color_upper_length_5: GREEN
-color_upper_length_6: GREEN
 description_extra: 1260_mm_width_roll
 description_extra_capital: 1260 mm Width Roll
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
-description_extra_length_1: '1'
-description_extra_length_2: '12'
-description_extra_length_3: '126'
-description_extra_length_4: '1260'
-description_extra_length_5: '1260_'
-description_extra_length_6: 1260_m
-description_extra_name: 1260 mm Width Roll
-description_extra_no_space_length_1: '1'
-description_extra_no_space_length_2: '12'
-description_extra_no_space_length_3: '126'
-description_extra_no_space_length_4: '1260'
-description_extra_no_space_length_5: 1260m
-description_extra_no_space_length_6: 1260mm
-description_extra_no_space_upper_length_1: '1'
-description_extra_no_space_upper_length_2: '12'
-description_extra_no_space_upper_length_3: '126'
-description_extra_no_space_upper_length_4: '1260'
-description_extra_no_space_upper_length_5: 1260M
-description_extra_no_space_upper_length_6: 1260MM
 description_extra_upper: 1260_MM_WIDTH_ROLL
-description_extra_upper_length_1: '1'
-description_extra_upper_length_2: '12'
-description_extra_upper_length_3: '126'
-description_extra_upper_length_4: '1260'
-description_extra_upper_length_5: '1260_'
-description_extra_upper_length_6: 1260_M
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -149,10 +26,8 @@ directory: parts/vinyl_green_1260_mm_width_roll
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_green_1260_mm_width_roll
 id: vinyl_green_1260_mm_width_roll
 id_no_class: green_1260_mm_width_roll
-id_no_color: green1260mmwidthroll
 id_no_size: green1260mmwidthroll
 id_no_type: green1260mmwidthroll
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_1260_mm_width_roll
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[vinyl_green_1260_mm_width_roll](none)<br>[g](none)<br>[Vinyl Green
@@ -177,12 +51,11 @@ md5_6: '763280'
 md5_6_alpha: 4m0zk
 md5_6_alpha_upper: 4M0ZK
 md5_6_upper: '763280'
-name: Vinyl Green 1260 mm Width Roll
-name_no_class: Green 1260 mm Width Roll
-name_no_color: Green1260mmwidthroll
-name_no_size: Green1260mmwidthroll
+name: Vinyl Green 1260 Mm Width Roll
+name_no_class: Green 1260 Mm Width Roll
+name_no_size: Green1260Mmwidthroll
 name_no_size_short: Green1260Mmwidthroll
-name_no_type: Green1260mmwidthroll
+name_no_type: Green1260Mmwidthroll
 oomp_key: oomp_vinyl_green_1260_mm_width_roll
 oomp_word: santa cat hourglass
 oomp_word_emoji: ':santa: :cat: :hourglass:'
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: g
 short_code_upper: G
@@ -206,7 +78,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -214,6 +85,5 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''
 width: 1260 mm

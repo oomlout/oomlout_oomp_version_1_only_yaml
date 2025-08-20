@@ -1,120 +1,23 @@
-bip_39_word_dash_11: aerobic-pioneer-pottery-write-fever-connect-treat-sunny-shiver-equip-spy
-bip_39_word_dash_2: aerobic-pioneer
-bip_39_word_dash_3: aerobic-pioneer-pottery
-bip_39_word_new_br_11: aerobic<br>pioneer<br>pottery<br>write<br>fever<br>connect<br>treat<br>sunny<br>shiver<br>equip<br>spy
-bip_39_word_new_br_2: aerobic<br>pioneer
-bip_39_word_new_br_3: aerobic<br>pioneer<br>pottery
-bip_39_word_new_line_11: 'aerobic
-
-  pioneer
-
-  pottery
-
-  write
-
-  fever
-
-  connect
-
-  treat
-
-  sunny
-
-  shiver
-
-  equip
-
-  spy'
-bip_39_word_new_line_2: 'aerobic
-
-  pioneer'
-bip_39_word_new_line_3: 'aerobic
-
-  pioneer
-
-  pottery'
-bip_39_word_no_space_11: aerobicpioneerpotterywritefeverconnecttreatsunnyshiverequipspy
-bip_39_word_no_space_2: aerobicpioneer
-bip_39_word_no_space_3: aerobicpioneerpottery
-bip_39_word_space_11: aerobic pioneer pottery write fever connect treat sunny shiver
-  equip spy
-bip_39_word_space_2: aerobic pioneer
-bip_39_word_space_3: aerobic pioneer pottery
-bip_39_word_underscore_11: aerobic_pioneer_pottery_write_fever_connect_treat_sunny_shiver_equip_spy
-bip_39_word_underscore_2: aerobic_pioneer
-bip_39_word_underscore_3: aerobic_pioneer_pottery
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 10_micro_farad
 description_main_capital: 10 Micro Farad
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '10'
-description_main_length_3: '10_'
-description_main_length_4: 10_m
-description_main_length_5: 10_mi
-description_main_length_6: 10_mic
-description_main_name: 10 Micro Farad
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '10'
-description_main_no_space_length_3: 10m
-description_main_no_space_length_4: 10mi
-description_main_no_space_length_5: 10mic
-description_main_no_space_length_6: 10micr
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '10'
-description_main_no_space_upper_length_3: 10M
-description_main_no_space_upper_length_4: 10MI
-description_main_no_space_upper_length_5: 10MIC
-description_main_no_space_upper_length_6: 10MICR
 description_main_upper: 10_MICRO_FARAD
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '10'
-description_main_upper_length_3: '10_'
-description_main_upper_length_4: 10_M
-description_main_upper_length_5: 10_MI
-description_main_upper_length_6: 10_MIC
 description_only_numbers: '10'
 description_only_numbers_short: 10uf
 description_or_color: 10uf
@@ -134,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c6uf10_electronic_capacitor_0603_10_micro_farad
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0603_10_micro_farad
 id: electronic_capacitor_0603_10_micro_farad
 id_no_class: capacitor_0603_10_micro_farad
-id_no_color: 10microfarad
 id_no_size: 10_micro_farad
 id_no_type: 0603_10_micro_farad
 kicad_reference: C
@@ -148,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_capacitor_0603_10_micro_farad](none)<br>[c6uf10](none)<br>[Electronic
@@ -165,7 +65,6 @@ md5_6_alpha_upper: 2BGZ
 md5_6_upper: 01A693
 name: Electronic Capacitor 0603 10 Micro Farad
 name_no_class: Capacitor 0603 10 Micro Farad
-name_no_color: 10Microfarad
 name_no_size: 10 Micro Farad
 name_no_size_short: 10uf Micro Farad
 name_no_type: 0603 10 Micro Farad
@@ -185,7 +84,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: c6uf10
 short_code_upper: C6UF10
@@ -193,34 +91,9 @@ size: '0603'
 size_capital: '0603'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '06'
-size_length_3: '060'
-size_length_4: '0603'
-size_length_5: '0603'
-size_length_6: '0603'
-size_name: '0603'
-size_no_space_length_1: '0'
-size_no_space_length_2: '06'
-size_no_space_length_3: '060'
-size_no_space_length_4: '0603'
-size_no_space_length_5: '0603'
-size_no_space_length_6: '0603'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '06'
-size_no_space_upper_length_3: '060'
-size_no_space_upper_length_4: '0603'
-size_no_space_upper_length_5: '0603'
-size_no_space_upper_length_6: '0603'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
 size_upper: '0603'
-size_upper_length_1: '0'
-size_upper_length_2: '06'
-size_upper_length_3: '060'
-size_upper_length_4: '0603'
-size_upper_length_5: '0603'
-size_upper_length_6: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -233,29 +106,4 @@ type: capacitor
 type_capital: Capacitor
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: ca
-type_length_3: cap
-type_length_4: capa
-type_length_5: capac
-type_length_6: capaci
-type_name: Capacitor
-type_no_space_length_1: c
-type_no_space_length_2: ca
-type_no_space_length_3: cap
-type_no_space_length_4: capa
-type_no_space_length_5: capac
-type_no_space_length_6: capaci
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CA
-type_no_space_upper_length_3: CAP
-type_no_space_upper_length_4: CAPA
-type_no_space_upper_length_5: CAPAC
-type_no_space_upper_length_6: CAPACI
 type_upper: CAPACITOR
-type_upper_length_1: C
-type_upper_length_2: CA
-type_upper_length_3: CAP
-type_upper_length_4: CAPA
-type_upper_length_5: CAPAC
-type_upper_length_6: CAPACI

@@ -1,98 +1,23 @@
-bip_39_word_dash_12: patrol-mansion-valid-kiss-topple-civil-pitch-concert-fog-arctic-please-amused
-bip_39_word_dash_2: patrol-mansion
-bip_39_word_dash_3: patrol-mansion-valid
-bip_39_word_new_br_12: patrol<br>mansion<br>valid<br>kiss<br>topple<br>civil<br>pitch<br>concert<br>fog<br>arctic<br>please<br>amused
-bip_39_word_new_br_2: patrol<br>mansion
-bip_39_word_new_br_3: patrol<br>mansion<br>valid
-bip_39_word_new_line_12: 'patrol
-
-  mansion
-
-  valid
-
-  kiss
-
-  topple
-
-  civil
-
-  pitch
-
-  concert
-
-  fog
-
-  arctic
-
-  please
-
-  amused'
-bip_39_word_new_line_2: 'patrol
-
-  mansion'
-bip_39_word_new_line_3: 'patrol
-
-  mansion
-
-  valid'
-bip_39_word_no_space_12: patrolmansionvalidkisstopplecivilpitchconcertfogarcticpleaseamused
-bip_39_word_no_space_2: patrolmansion
-bip_39_word_no_space_3: patrolmansionvalid
-bip_39_word_space_12: patrol mansion valid kiss topple civil pitch concert fog arctic
-  please amused
-bip_39_word_space_2: patrol mansion
-bip_39_word_space_3: patrol mansion valid
-bip_39_word_underscore_12: patrol_mansion_valid_kiss_topple_civil_pitch_concert_fog_arctic_please_amused
-bip_39_word_underscore_2: patrol_mansion
-bip_39_word_underscore_3: patrol_mansion_valid
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_electrical
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_electrical
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical
 id: category_electrical
 id_no_class: electrical
-id_no_color: electrical
 id_no_size: electrical
 id_no_type: electrical
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electrical](none)<br>[](none)<br>[Category Electrical](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: 54FK2
 md5_6_upper: 834CC2
 name: Category Electrical
 name_no_class: Electrical
-name_no_color: Electrical
 name_no_size: Electrical
 name_no_size_short: Electrical
 name_no_type: Electrical
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,7 +80,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -168,29 +87,4 @@ type: electrical
 type_capital: Electrical
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electrical
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRICAL
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

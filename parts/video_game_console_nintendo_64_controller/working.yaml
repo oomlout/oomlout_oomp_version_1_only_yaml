@@ -1,132 +1,31 @@
-bip_39_word_dash_12: mention-cook-assume-grant-magnet-shed-elevator-roast-any-cram-engine-aunt
-bip_39_word_dash_2: mention-cook
-bip_39_word_dash_3: mention-cook-assume
-bip_39_word_new_br_12: mention<br>cook<br>assume<br>grant<br>magnet<br>shed<br>elevator<br>roast<br>any<br>cram<br>engine<br>aunt
-bip_39_word_new_br_2: mention<br>cook
-bip_39_word_new_br_3: mention<br>cook<br>assume
-bip_39_word_new_line_12: 'mention
-
-  cook
-
-  assume
-
-  grant
-
-  magnet
-
-  shed
-
-  elevator
-
-  roast
-
-  any
-
-  cram
-
-  engine
-
-  aunt'
-bip_39_word_new_line_2: 'mention
-
-  cook'
-bip_39_word_new_line_3: 'mention
-
-  cook
-
-  assume'
-bip_39_word_no_space_12: mentioncookassumegrantmagnetshedelevatorroastanycramengineaunt
-bip_39_word_no_space_2: mentioncook
-bip_39_word_no_space_3: mentioncookassume
-bip_39_word_space_12: mention cook assume grant magnet shed elevator roast any cram
-  engine aunt
-bip_39_word_space_2: mention cook
-bip_39_word_space_3: mention cook assume
-bip_39_word_underscore_12: mention_cook_assume_grant_magnet_shed_elevator_roast_any_cram_engine_aunt
-bip_39_word_underscore_2: mention_cook
-bip_39_word_underscore_3: mention_cook_assume
 classification: video_game_console
 classification_capital: Video Game Console
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vid
-classification_length_4: vide
-classification_length_5: video
-classification_length_6: video_
-classification_name: Video Game Console
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vid
-classification_no_space_length_4: vide
-classification_no_space_length_5: video
-classification_no_space_length_6: videog
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VID
-classification_no_space_upper_length_4: VIDE
-classification_no_space_upper_length_5: VIDEO
-classification_no_space_upper_length_6: VIDEOG
 classification_upper: VIDEO_GAME_CONSOLE
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VID
-classification_upper_length_4: VIDE
-classification_upper_length_5: VIDEO
-classification_upper_length_6: VIDEO_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: controller
 description_main_capital: Controller
 description_main_first_letter: c
 description_main_first_letter_upper: C
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: cont
-description_main_length_5: contr
-description_main_length_6: contro
-description_main_name: Controller
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: cont
-description_main_no_space_length_5: contr
-description_main_no_space_length_6: contro
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONT
-description_main_no_space_upper_length_5: CONTR
-description_main_no_space_upper_length_6: CONTRO
 description_main_upper: CONTROLLER
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONT
-description_main_upper_length_5: CONTR
-description_main_upper_length_6: CONTRO
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/video_game_console_nintendo_64_controller
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_nintendo_64_controller
 id: video_game_console_nintendo_64_controller
 id_no_class: nintendo_64_controller
-id_no_color: controller
 id_no_size: controller
 id_no_type: controller
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_64_controller
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[video_game_console_nintendo_64_controller](none)<br>[](none)<br>[Video
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 9JJYK
 md5_6_upper: F494CC
 name: Video Game Console Nintendo 64 Controller
 name_no_class: Nintendo 64 Controller
-name_no_color: Controller
 name_no_size: Controller
 name_no_size_short: Controller
 name_no_type: Controller
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -180,7 +76,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -188,29 +83,4 @@ type: nintendo_64
 type_capital: Nintendo 64
 type_first_letter: n
 type_first_letter_upper: N
-type_length_1: n
-type_length_2: ni
-type_length_3: nin
-type_length_4: nint
-type_length_5: ninte
-type_length_6: ninten
-type_name: Nintendo 64
-type_no_space_length_1: n
-type_no_space_length_2: ni
-type_no_space_length_3: nin
-type_no_space_length_4: nint
-type_no_space_length_5: ninte
-type_no_space_length_6: ninten
-type_no_space_upper_length_1: N
-type_no_space_upper_length_2: NI
-type_no_space_upper_length_3: NIN
-type_no_space_upper_length_4: NINT
-type_no_space_upper_length_5: NINTE
-type_no_space_upper_length_6: NINTEN
 type_upper: NINTENDO_64
-type_upper_length_1: N
-type_upper_length_2: NI
-type_upper_length_3: NIN
-type_upper_length_4: NINT
-type_upper_length_5: NINTE
-type_upper_length_6: NINTEN

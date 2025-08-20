@@ -1,145 +1,22 @@
-bip_39_word_dash_12: asthma-response-category-bachelor-lucky-pottery-yard-ripple-bargain-rack-enroll-admit
-bip_39_word_dash_2: asthma-response
-bip_39_word_dash_3: asthma-response-category
-bip_39_word_new_br_12: asthma<br>response<br>category<br>bachelor<br>lucky<br>pottery<br>yard<br>ripple<br>bargain<br>rack<br>enroll<br>admit
-bip_39_word_new_br_2: asthma<br>response
-bip_39_word_new_br_3: asthma<br>response<br>category
-bip_39_word_new_line_12: 'asthma
-
-  response
-
-  category
-
-  bachelor
-
-  lucky
-
-  pottery
-
-  yard
-
-  ripple
-
-  bargain
-
-  rack
-
-  enroll
-
-  admit'
-bip_39_word_new_line_2: 'asthma
-
-  response'
-bip_39_word_new_line_3: 'asthma
-
-  response
-
-  category'
-bip_39_word_no_space_12: asthmaresponsecategorybachelorluckypotteryyardripplebargainrackenrolladmit
-bip_39_word_no_space_2: asthmaresponse
-bip_39_word_no_space_3: asthmaresponsecategory
-bip_39_word_space_12: asthma response category bachelor lucky pottery yard ripple
-  bargain rack enroll admit
-bip_39_word_space_2: asthma response
-bip_39_word_space_3: asthma response category
-bip_39_word_underscore_12: asthma_response_category_bachelor_lucky_pottery_yard_ripple_bargain_rack_enroll_admit
-bip_39_word_underscore_2: asthma_response
-bip_39_word_underscore_3: asthma_response_category
 classification: vinyl
 classification_capital: Vinyl
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl
-classification_name: Vinyl
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinyl
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYL
 classification_upper: VINYL
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL
 color: gold
 color_capital: Gold
 color_first_letter: g
 color_first_letter_upper: G
-color_length_1: g
-color_length_2: go
-color_length_3: gol
-color_length_4: gold
-color_length_5: gold
-color_length_6: gold
-color_name: Gold
-color_no_space_length_1: g
-color_no_space_length_2: go
-color_no_space_length_3: gol
-color_no_space_length_4: gold
-color_no_space_length_5: gold
-color_no_space_length_6: gold
-color_no_space_upper_length_1: G
-color_no_space_upper_length_2: GO
-color_no_space_upper_length_3: GOL
-color_no_space_upper_length_4: GOLD
-color_no_space_upper_length_5: GOLD
-color_no_space_upper_length_6: GOLD
 color_upper: GOLD
-color_upper_length_1: G
-color_upper_length_2: GO
-color_upper_length_3: GOL
-color_upper_length_4: GOLD
-color_upper_length_5: GOLD
-color_upper_length_6: GOLD
 description_extra: a4_210_mm_width_297_mm_height
 description_extra_capital: A4.210 mm Width 297 mm Height
 description_extra_first_letter: a
 description_extra_first_letter_upper: A
-description_extra_length_1: a
-description_extra_length_2: a4
-description_extra_length_3: a4_
-description_extra_length_4: a4_2
-description_extra_length_5: a4_21
-description_extra_length_6: a4_210
-description_extra_name: A4 210 mm Width 297 mm Height
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: a4
-description_extra_no_space_length_3: a42
-description_extra_no_space_length_4: a421
-description_extra_no_space_length_5: a4210
-description_extra_no_space_length_6: a4210m
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: A4
-description_extra_no_space_upper_length_3: A42
-description_extra_no_space_upper_length_4: A421
-description_extra_no_space_upper_length_5: A4210
-description_extra_no_space_upper_length_6: A4210M
 description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
-description_extra_upper_length_1: A
-description_extra_upper_length_2: A4
-description_extra_upper_length_3: A4_
-description_extra_upper_length_4: A4_2
-description_extra_upper_length_5: A4_21
-description_extra_upper_length_6: A4_210
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -149,11 +26,9 @@ directory: parts/vinyl_gold_a4_210_mm_width_297_mm_height
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_gold_a4_210_mm_width_297_mm_height
 height: 297 mm
 id: vinyl_gold_a4_210_mm_width_297_mm_height
 id_no_class: gold_a4_210_mm_width_297_mm_height
-id_no_color: golda4210mmwidth297mmheight
 id_no_size: golda4210mmwidth297mmheight
 id_no_type: golda4210mmwidth297mmheight
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_gold_a4_210_mm_width_297_mm_height
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[vinyl_gold_a4_210_mm_width_297_mm_height](none)<br>[](none)<br>[Vinyl
@@ -178,12 +52,11 @@ md5_6: 3a966c
 md5_6_alpha: 2aang
 md5_6_alpha_upper: 2AANG
 md5_6_upper: 3A966C
-name: Vinyl Gold A4 210 mm Width 297 mm Height
-name_no_class: Gold A4 210 mm Width 297 mm Height
-name_no_color: Golda4210mmwidth297mmheight
-name_no_size: Golda4210mmwidth297mmheight
+name: Vinyl Gold A4 210 Mm Width 297 Mm Height
+name_no_class: Gold A4 210 Mm Width 297 Mm Height
+name_no_size: Golda4210Mmwidth297Mmheight
 name_no_size_short: Golda4210Mmwidth297Mmheight
-name_no_type: Golda4210mmwidth297mmheight
+name_no_type: Golda4210Mmwidth297Mmheight
 oomp_key: oomp_vinyl_gold_a4_210_mm_width_297_mm_height
 oomp_word: koala basketball blossom
 oomp_word_emoji: ':koala: :basketball: :blossom:'
@@ -199,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -207,7 +79,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -215,6 +86,5 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''
 width: 210 mm

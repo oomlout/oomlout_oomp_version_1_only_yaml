@@ -1,157 +1,32 @@
-bip_39_word_dash_12: solution-faint-liar-game-liar-bonus-feel-amused-syrup-orphan-peasant-asset
-bip_39_word_dash_2: solution-faint
-bip_39_word_dash_3: solution-faint-liar
-bip_39_word_new_br_12: solution<br>faint<br>liar<br>game<br>liar<br>bonus<br>feel<br>amused<br>syrup<br>orphan<br>peasant<br>asset
-bip_39_word_new_br_2: solution<br>faint
-bip_39_word_new_br_3: solution<br>faint<br>liar
-bip_39_word_new_line_12: 'solution
-
-  faint
-
-  liar
-
-  game
-
-  liar
-
-  bonus
-
-  feel
-
-  amused
-
-  syrup
-
-  orphan
-
-  peasant
-
-  asset'
-bip_39_word_new_line_2: 'solution
-
-  faint'
-bip_39_word_new_line_3: 'solution
-
-  faint
-
-  liar'
-bip_39_word_no_space_12: solutionfaintliargameliarbonusfeelamusedsyruporphanpeasantasset
-bip_39_word_no_space_2: solutionfaint
-bip_39_word_no_space_3: solutionfaintliar
-bip_39_word_space_12: solution faint liar game liar bonus feel amused syrup orphan
-  peasant asset
-bip_39_word_space_2: solution faint
-bip_39_word_space_3: solution faint liar
-bip_39_word_underscore_12: solution_faint_liar_game_liar_bonus_feel_amused_syrup_orphan_peasant_asset
-bip_39_word_underscore_2: solution_faint
-bip_39_word_underscore_3: solution_faint_liar
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: A popular arduino compatible atmega328 board from aliexpress
 description_extra: breakout_screw_terminal_3_5_mm_pitch
 description_extra_capital: Breakout Screw Terminal 3.5 mm Pitch
 description_extra_first_letter: b
 description_extra_first_letter_upper: B
-description_extra_length_1: b
-description_extra_length_2: br
-description_extra_length_3: bre
-description_extra_length_4: brea
-description_extra_length_5: break
-description_extra_length_6: breako
-description_extra_name: Breakout Screw Terminal 3 5 mm Pitch
-description_extra_no_space_length_1: b
-description_extra_no_space_length_2: br
-description_extra_no_space_length_3: bre
-description_extra_no_space_length_4: brea
-description_extra_no_space_length_5: break
-description_extra_no_space_length_6: breako
-description_extra_no_space_upper_length_1: B
-description_extra_no_space_upper_length_2: BR
-description_extra_no_space_upper_length_3: BRE
-description_extra_no_space_upper_length_4: BREA
-description_extra_no_space_upper_length_5: BREAK
-description_extra_no_space_upper_length_6: BREAKO
 description_extra_upper: BREAKOUT_SCREW_TERMINAL_3_5_MM_PITCH
-description_extra_upper_length_1: B
-description_extra_upper_length_2: BR
-description_extra_upper_length_3: BRE
-description_extra_upper_length_4: BREA
-description_extra_upper_length_5: BREAK
-description_extra_upper_length_6: BREAKO
 description_main: atmega328p_arduino_compatible
 description_main_capital: Atmega328P Arduino Compatible
 description_main_first_letter: a
 description_main_first_letter_upper: A
-description_main_length_1: a
-description_main_length_2: at
-description_main_length_3: atm
-description_main_length_4: atme
-description_main_length_5: atmeg
-description_main_length_6: atmega
-description_main_name: Atmega328P Arduino Compatible
-description_main_no_space_length_1: a
-description_main_no_space_length_2: at
-description_main_no_space_length_3: atm
-description_main_no_space_length_4: atme
-description_main_no_space_length_5: atmeg
-description_main_no_space_length_6: atmega
-description_main_no_space_upper_length_1: A
-description_main_no_space_upper_length_2: AT
-description_main_no_space_upper_length_3: ATM
-description_main_no_space_upper_length_4: ATME
-description_main_no_space_upper_length_5: ATMEG
-description_main_no_space_upper_length_6: ATMEGA
 description_main_upper: ATMEGA328P_ARDUINO_COMPATIBLE
-description_main_upper_length_1: A
-description_main_upper_length_2: AT
-description_main_upper_length_3: ATM
-description_main_upper_length_4: ATME
-description_main_upper_length_5: ATMEG
-description_main_upper_length_6: ATMEGA
 description_only_numbers: '328'
 description_only_numbers_short: '328'
 description_or_color: '328'
 description_or_color_upper: '328'
 directory: parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
 id: electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
 id_no_class: breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
-id_no_color: atmega328parduinocompatiblebreakoutscrewterminal35mmpitch
 id_no_size: atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
 id_no_type: shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
 kicad_reference: BB
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch](none)<br>[sh](none)<br>[Electronic
@@ -178,14 +52,13 @@ md5_6: db4467
 md5_6_alpha: 8jzvr
 md5_6_alpha_upper: 8JZVR
 md5_6_upper: DB4467
-name: Electronic Breakout Board MCU Shennie Atmega328P Arduino Compatible Breakout
-  Screw Terminal 3 5 mm Pitch
-name_no_class: Breakout Board MCU Shennie Atmega328P Arduino Compatible Breakout Screw
-  Terminal 3 5 mm Pitch
-name_no_color: Atmega328Parduinocompatiblebreakoutscrewterminal35mmpitch
-name_no_size: Atmega328P Arduino Compatible Breakout Screw Terminal 3 5 mm Pitch
+name: Electronic Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout
+  Screw Terminal 3 5 Mm Pitch
+name_no_class: Breakout Board Mcu Shennie Atmega328P Arduino Compatible Breakout Screw
+  Terminal 3 5 Mm Pitch
+name_no_size: Atmega328P Arduino Compatible Breakout Screw Terminal 3 5 Mm Pitch
 name_no_size_short: Atmega328P Arduino Compatible Breakout Screw Terminal 3 5 Mm Pitch
-name_no_type: Shennie Atmega328P Arduino Compatible Breakout Screw Terminal 3 5 mm
+name_no_type: Shennie Atmega328P Arduino Compatible Breakout Screw Terminal 3 5 Mm
   Pitch
 notes: []
 oomp_key: oomp_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_screw_terminal_3_5_mm_pitch
@@ -203,7 +76,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 pins:
   pin_1:
@@ -333,61 +205,11 @@ size: shennie
 size_capital: Shennie
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sh
-size_length_3: she
-size_length_4: shen
-size_length_5: shenn
-size_length_6: shenni
-size_name: Shennie
-size_no_space_length_1: s
-size_no_space_length_2: sh
-size_no_space_length_3: she
-size_no_space_length_4: shen
-size_no_space_length_5: shenn
-size_no_space_length_6: shenni
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SH
-size_no_space_upper_length_3: SHE
-size_no_space_upper_length_4: SHEN
-size_no_space_upper_length_5: SHENN
-size_no_space_upper_length_6: SHENNI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHENNIE
-size_upper_length_1: S
-size_upper_length_2: SH
-size_upper_length_3: SHE
-size_upper_length_4: SHEN
-size_upper_length_5: SHENN
-size_upper_length_6: SHENNI
 type: breakout_board_mcu
 type_capital: Breakout Board Mcu
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: br
-type_length_3: bre
-type_length_4: brea
-type_length_5: break
-type_length_6: breako
-type_name: Breakout Board MCU
-type_no_space_length_1: b
-type_no_space_length_2: br
-type_no_space_length_3: bre
-type_no_space_length_4: brea
-type_no_space_length_5: break
-type_no_space_length_6: breako
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BR
-type_no_space_upper_length_3: BRE
-type_no_space_upper_length_4: BREA
-type_no_space_upper_length_5: BREAK
-type_no_space_upper_length_6: BREAKO
 type_upper: BREAKOUT_BOARD_MCU
-type_upper_length_1: B
-type_upper_length_2: BR
-type_upper_length_3: BRE
-type_upper_length_4: BREA
-type_upper_length_5: BREAK
-type_upper_length_6: BREAKO

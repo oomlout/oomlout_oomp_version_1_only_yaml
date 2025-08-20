@@ -1,146 +1,23 @@
-bip_39_word_dash_12: crucial-scatter-liquid-ivory-express-joke-genre-trouble-enable-profit-input-amazing
-bip_39_word_dash_2: crucial-scatter
-bip_39_word_dash_3: crucial-scatter-liquid
-bip_39_word_new_br_12: crucial<br>scatter<br>liquid<br>ivory<br>express<br>joke<br>genre<br>trouble<br>enable<br>profit<br>input<br>amazing
-bip_39_word_new_br_2: crucial<br>scatter
-bip_39_word_new_br_3: crucial<br>scatter<br>liquid
-bip_39_word_new_line_12: 'crucial
-
-  scatter
-
-  liquid
-
-  ivory
-
-  express
-
-  joke
-
-  genre
-
-  trouble
-
-  enable
-
-  profit
-
-  input
-
-  amazing'
-bip_39_word_new_line_2: 'crucial
-
-  scatter'
-bip_39_word_new_line_3: 'crucial
-
-  scatter
-
-  liquid'
-bip_39_word_no_space_12: crucialscatterliquidivoryexpressjokegenretroubleenableprofitinputamazing
-bip_39_word_no_space_2: crucialscatter
-bip_39_word_no_space_3: crucialscatterliquid
-bip_39_word_space_12: crucial scatter liquid ivory express joke genre trouble enable
-  profit input amazing
-bip_39_word_space_2: crucial scatter
-bip_39_word_space_3: crucial scatter liquid
-bip_39_word_underscore_12: crucial_scatter_liquid_ivory_express_joke_genre_trouble_enable_profit_input_amazing
-bip_39_word_underscore_2: crucial_scatter
-bip_39_word_underscore_3: crucial_scatter_liquid
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: 696_size
 color_capital: 696 Size
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '69'
-color_length_3: '696'
-color_length_4: '696_'
-color_length_5: 696_s
-color_length_6: 696_si
-color_name: 696 Size
-color_no_space_length_1: '6'
-color_no_space_length_2: '69'
-color_no_space_length_3: '696'
-color_no_space_length_4: 696s
-color_no_space_length_5: 696si
-color_no_space_length_6: 696siz
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: '69'
-color_no_space_upper_length_3: '696'
-color_no_space_upper_length_4: 696S
-color_no_space_upper_length_5: 696SI
-color_no_space_upper_length_6: 696SIZ
 color_upper: 696_SIZE
-color_upper_length_1: '6'
-color_upper_length_2: '69'
-color_upper_length_3: '696'
-color_upper_length_4: '696_'
-color_upper_length_5: 696_S
-color_upper_length_6: 696_SI
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 6_mm_id_15_mm_od_5_mm_depth
 description_main_capital: 6 mm Id 15 mm Od 5 mm Depth
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
-description_main_length_1: '6'
-description_main_length_2: '6_'
-description_main_length_3: 6_m
-description_main_length_4: 6_mm
-description_main_length_5: 6_mm_
-description_main_length_6: 6_mm_i
-description_main_name: 6 mm ID 15 mm OD 5 mm Depth
-description_main_no_space_length_1: '6'
-description_main_no_space_length_2: 6m
-description_main_no_space_length_3: 6mm
-description_main_no_space_length_4: 6mmi
-description_main_no_space_length_5: 6mmid
-description_main_no_space_length_6: 6mmid1
-description_main_no_space_upper_length_1: '6'
-description_main_no_space_upper_length_2: 6M
-description_main_no_space_upper_length_3: 6MM
-description_main_no_space_upper_length_4: 6MMI
-description_main_no_space_upper_length_5: 6MMID
-description_main_no_space_upper_length_6: 6MMID1
 description_main_upper: 6_MM_ID_15_MM_OD_5_MM_DEPTH
-description_main_upper_length_1: '6'
-description_main_upper_length_2: '6_'
-description_main_upper_length_3: 6_M
-description_main_upper_length_4: 6_MM
-description_main_upper_length_5: 6_MM_
-description_main_upper_length_6: 6_MM_I
 description_only_numbers: '6155'
 description_only_numbers_short: 6k1
 description_or_color: 66k1
@@ -149,10 +26,8 @@ directory: parts/hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_dept
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
 id: hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
 id_no_class: bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
-id_no_color: 6_mm_id_15_mm_od_5_mm_depth
 id_no_size: 696_size_6_mm_id_15_mm_od_5_mm_depth
 id_no_type: 600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth](none)<br>[](none)<br>[Hardware
@@ -177,14 +51,11 @@ md5_6: 7ce96a
 md5_6_alpha: 4vgiy
 md5_6_alpha_upper: 4VGIY
 md5_6_upper: 7CE96A
-name: Hardware Bearing 600 Series 696 Size 6 mm ID 15 mm OD 5 mm Depth
-name_no_class: Bearing 600 Series 696 Size 6 mm ID 15 mm OD 5 mm Depth
-name_no_color: 6 mm ID 15 mm OD 5 mm Depth
-name_no_size: 696 Size 6 mm ID 15 mm OD 5 mm Depth
+name: Hardware Bearing 600 Series 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
+name_no_class: Bearing 600 Series 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
+name_no_size: 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
 name_no_size_short: 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
-name_no_type: 600 Series 696 Size 6 mm ID 15 mm OD 5 mm Depth
-oomlout_short_code: br696
-oomlout_short_code_upper: BR696
+name_no_type: 600 Series 696 Size 6 Mm Id 15 Mm Od 5 Mm Depth
 oomp_key: oomp_hardware_bearing_600_series_696_size_6_mm_id_15_mm_od_5_mm_depth
 oomp_word: tv bike palm_tree
 oomp_word_emoji: ':tv: :bike: :palm_tree:'
@@ -200,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -208,61 +78,11 @@ size: 600_series
 size_capital: 600 Series
 size_first_letter: '6'
 size_first_letter_upper: '6'
-size_length_1: '6'
-size_length_2: '60'
-size_length_3: '600'
-size_length_4: '600_'
-size_length_5: 600_s
-size_length_6: 600_se
-size_name: 600 Series
-size_no_space_length_1: '6'
-size_no_space_length_2: '60'
-size_no_space_length_3: '600'
-size_no_space_length_4: 600s
-size_no_space_length_5: 600se
-size_no_space_length_6: 600ser
-size_no_space_upper_length_1: '6'
-size_no_space_upper_length_2: '60'
-size_no_space_upper_length_3: '600'
-size_no_space_upper_length_4: 600S
-size_no_space_upper_length_5: 600SE
-size_no_space_upper_length_6: 600SER
 size_only_numbers: '600'
 size_only_numbers_no_zeros: '6'
 size_upper: 600_SERIES
-size_upper_length_1: '6'
-size_upper_length_2: '60'
-size_upper_length_3: '600'
-size_upper_length_4: '600_'
-size_upper_length_5: 600_S
-size_upper_length_6: 600_SE
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: be
-type_length_3: bea
-type_length_4: bear
-type_length_5: beari
-type_length_6: bearin
-type_name: Bearing
-type_no_space_length_1: b
-type_no_space_length_2: be
-type_no_space_length_3: bea
-type_no_space_length_4: bear
-type_no_space_length_5: beari
-type_no_space_length_6: bearin
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BE
-type_no_space_upper_length_3: BEA
-type_no_space_upper_length_4: BEAR
-type_no_space_upper_length_5: BEARI
-type_no_space_upper_length_6: BEARIN
 type_upper: BEARING
-type_upper_length_1: B
-type_upper_length_2: BE
-type_upper_length_3: BEA
-type_upper_length_4: BEAR
-type_upper_length_5: BEARI
-type_upper_length_6: BEARIN

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: castle-disagree-buzz-vocal-pen-notice-issue-local-draft-gun-access-abstract
-bip_39_word_dash_2: castle-disagree
-bip_39_word_dash_3: castle-disagree-buzz
-bip_39_word_new_br_12: castle<br>disagree<br>buzz<br>vocal<br>pen<br>notice<br>issue<br>local<br>draft<br>gun<br>access<br>abstract
-bip_39_word_new_br_2: castle<br>disagree
-bip_39_word_new_br_3: castle<br>disagree<br>buzz
-bip_39_word_new_line_12: 'castle
-
-  disagree
-
-  buzz
-
-  vocal
-
-  pen
-
-  notice
-
-  issue
-
-  local
-
-  draft
-
-  gun
-
-  access
-
-  abstract'
-bip_39_word_new_line_2: 'castle
-
-  disagree'
-bip_39_word_new_line_3: 'castle
-
-  disagree
-
-  buzz'
-bip_39_word_no_space_12: castledisagreebuzzvocalpennoticeissuelocaldraftgunaccessabstract
-bip_39_word_no_space_2: castledisagree
-bip_39_word_no_space_3: castledisagreebuzz
-bip_39_word_space_12: castle disagree buzz vocal pen notice issue local draft gun
-  access abstract
-bip_39_word_space_2: castle disagree
-bip_39_word_space_3: castle disagree buzz
-bip_39_word_underscore_12: castle_disagree_buzz_vocal_pen_notice_issue_local_draft_gun_access_abstract
-bip_39_word_underscore_2: castle_disagree
-bip_39_word_underscore_3: castle_disagree_buzz
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ikea_fiskbo
 color_capital: Ikea Fiskbo
 color_first_letter: i
 color_first_letter_upper: I
-color_length_1: i
-color_length_2: ik
-color_length_3: ike
-color_length_4: ikea
-color_length_5: ikea_
-color_length_6: ikea_f
-color_name: Ikea Fiskbo
-color_no_space_length_1: i
-color_no_space_length_2: ik
-color_no_space_length_3: ike
-color_no_space_length_4: ikea
-color_no_space_length_5: ikeaf
-color_no_space_length_6: ikeafi
-color_no_space_upper_length_1: I
-color_no_space_upper_length_2: IK
-color_no_space_upper_length_3: IKE
-color_no_space_upper_length_4: IKEA
-color_no_space_upper_length_5: IKEAF
-color_no_space_upper_length_6: IKEAFI
 color_upper: IKEA_FISKBO
-color_upper_length_1: I
-color_upper_length_2: IK
-color_upper_length_3: IKE
-color_upper_length_4: IKEA
-color_upper_length_5: IKEA_
-color_upper_length_6: IKEA_F
 description: category_decorating
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_decorating_picture_frame_ikea_fiskbo_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_decorating_picture_frame_ikea_fiskbo_cubby_box
 id: category_decorating_picture_frame_ikea_fiskbo_cubby_box
 id_no_class: decorating_picture_frame_ikea_fiskbo_cubby_box
-id_no_color: cubby_box
 id_no_size: ikea_fiskbo_cubby_box
 id_no_type: picture_frame_ikea_fiskbo_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_decorating_picture_frame_ikea_fiskbo_cubby_box
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_decorating_picture_frame_ikea_fiskbo_cubby_box](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: JOGP
 md5_6_upper: 0E0299
 name: Category Decorating Picture Frame Ikea Fiskbo Cubby Box
 name_no_class: Decorating Picture Frame Ikea Fiskbo Cubby Box
-name_no_color: Cubby Box
 name_no_size: Ikea Fiskbo Cubby Box
 name_no_size_short: Ikea Fiskbo Cubby Box
 name_no_type: Picture Frame Ikea Fiskbo Cubby Box
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: picture_frame
 size_capital: Picture Frame
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pi
-size_length_3: pic
-size_length_4: pict
-size_length_5: pictu
-size_length_6: pictur
-size_name: Picture Frame
-size_no_space_length_1: p
-size_no_space_length_2: pi
-size_no_space_length_3: pic
-size_no_space_length_4: pict
-size_no_space_length_5: pictu
-size_no_space_length_6: pictur
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PI
-size_no_space_upper_length_3: PIC
-size_no_space_upper_length_4: PICT
-size_no_space_upper_length_5: PICTU
-size_no_space_upper_length_6: PICTUR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PICTURE_FRAME
-size_upper_length_1: P
-size_upper_length_2: PI
-size_upper_length_3: PIC
-size_upper_length_4: PICT
-size_upper_length_5: PICTU
-size_upper_length_6: PICTUR
 type: decorating
 type_capital: Decorating
 type_first_letter: d
 type_first_letter_upper: D
-type_length_1: d
-type_length_2: de
-type_length_3: dec
-type_length_4: deco
-type_length_5: decor
-type_length_6: decora
-type_name: Decorating
-type_no_space_length_1: d
-type_no_space_length_2: de
-type_no_space_length_3: dec
-type_no_space_length_4: deco
-type_no_space_length_5: decor
-type_no_space_length_6: decora
-type_no_space_upper_length_1: D
-type_no_space_upper_length_2: DE
-type_no_space_upper_length_3: DEC
-type_no_space_upper_length_4: DECO
-type_no_space_upper_length_5: DECOR
-type_no_space_upper_length_6: DECORA
 type_upper: DECORATING
-type_upper_length_1: D
-type_upper_length_2: DE
-type_upper_length_3: DEC
-type_upper_length_4: DECO
-type_upper_length_5: DECOR
-type_upper_length_6: DECORA

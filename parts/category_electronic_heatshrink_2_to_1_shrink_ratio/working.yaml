@@ -1,98 +1,23 @@
-bip_39_word_dash_12: carry-huge-crouch-fog-sadness-endorse-shell-chef-stable-simple-wrestle-account
-bip_39_word_dash_2: carry-huge
-bip_39_word_dash_3: carry-huge-crouch
-bip_39_word_new_br_12: carry<br>huge<br>crouch<br>fog<br>sadness<br>endorse<br>shell<br>chef<br>stable<br>simple<br>wrestle<br>account
-bip_39_word_new_br_2: carry<br>huge
-bip_39_word_new_br_3: carry<br>huge<br>crouch
-bip_39_word_new_line_12: 'carry
-
-  huge
-
-  crouch
-
-  fog
-
-  sadness
-
-  endorse
-
-  shell
-
-  chef
-
-  stable
-
-  simple
-
-  wrestle
-
-  account'
-bip_39_word_new_line_2: 'carry
-
-  huge'
-bip_39_word_new_line_3: 'carry
-
-  huge
-
-  crouch'
-bip_39_word_no_space_12: carryhugecrouchfogsadnessendorseshellchefstablesimplewrestleaccount
-bip_39_word_no_space_2: carryhuge
-bip_39_word_no_space_3: carryhugecrouch
-bip_39_word_space_12: carry huge crouch fog sadness endorse shell chef stable simple
-  wrestle account
-bip_39_word_space_2: carry huge
-bip_39_word_space_3: carry huge crouch
-bip_39_word_underscore_12: carry_huge_crouch_fog_sadness_endorse_shell_chef_stable_simple_wrestle_account
-bip_39_word_underscore_2: carry_huge
-bip_39_word_underscore_3: carry_huge_crouch
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
 id: category_electronic_heatshrink_2_to_1_shrink_ratio
 id_no_class: electronic_heatshrink_2_to_1_shrink_ratio
-id_no_color: heatshrink2to1shrinkratio
 id_no_size: heatshrink_2_to_1_shrink_ratio
 id_no_type: heatshrink_2_to_1_shrink_ratio
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 10I42
 md5_6_upper: 19FCB2
 name: Category Electronic Heatshrink 2 To 1 Shrink Ratio
 name_no_class: Electronic Heatshrink 2 To 1 Shrink Ratio
-name_no_color: Heatshrink2To1Shrinkratio
 name_no_size: Heatshrink 2 To 1 Shrink Ratio
 name_no_size_short: Heatshrink 2 To 1 Shrink Ratio
 name_no_type: Heatshrink 2 To 1 Shrink Ratio
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: heatshrink_2_to_1_shrink_ratio
 size_capital: Heatshrink 2 To 1 Shrink Ratio
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: hea
-size_length_4: heat
-size_length_5: heats
-size_length_6: heatsh
-size_name: Heatshrink 2 To 1 Shrink Ratio
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: hea
-size_no_space_length_4: heat
-size_no_space_length_5: heats
-size_no_space_length_6: heatsh
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HEA
-size_no_space_upper_length_4: HEAT
-size_no_space_upper_length_5: HEATS
-size_no_space_upper_length_6: HEATSH
 size_only_numbers: '21'
 size_only_numbers_no_zeros: '21'
 size_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HEA
-size_upper_length_4: HEAT
-size_upper_length_5: HEATS
-size_upper_length_6: HEATSH
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

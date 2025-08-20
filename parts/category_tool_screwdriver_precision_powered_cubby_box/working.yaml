@@ -1,122 +1,23 @@
-bip_39_word_dash_12: tip-enlist-avocado-leopard-tongue-solid-crystal-virtual-fine-stadium-popular-aspect
-bip_39_word_dash_2: tip-enlist
-bip_39_word_dash_3: tip-enlist-avocado
-bip_39_word_new_br_12: tip<br>enlist<br>avocado<br>leopard<br>tongue<br>solid<br>crystal<br>virtual<br>fine<br>stadium<br>popular<br>aspect
-bip_39_word_new_br_2: tip<br>enlist
-bip_39_word_new_br_3: tip<br>enlist<br>avocado
-bip_39_word_new_line_12: 'tip
-
-  enlist
-
-  avocado
-
-  leopard
-
-  tongue
-
-  solid
-
-  crystal
-
-  virtual
-
-  fine
-
-  stadium
-
-  popular
-
-  aspect'
-bip_39_word_new_line_2: 'tip
-
-  enlist'
-bip_39_word_new_line_3: 'tip
-
-  enlist
-
-  avocado'
-bip_39_word_no_space_12: tipenlistavocadoleopardtonguesolidcrystalvirtualfinestadiumpopularaspect
-bip_39_word_no_space_2: tipenlist
-bip_39_word_no_space_3: tipenlistavocado
-bip_39_word_space_12: tip enlist avocado leopard tongue solid crystal virtual fine
-  stadium popular aspect
-bip_39_word_space_2: tip enlist
-bip_39_word_space_3: tip enlist avocado
-bip_39_word_underscore_12: tip_enlist_avocado_leopard_tongue_solid_crystal_virtual_fine_stadium_popular_aspect
-bip_39_word_underscore_2: tip_enlist
-bip_39_word_underscore_3: tip_enlist_avocado
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_tool
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_tool_screwdriver_precision_powered_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_screwdriver_precision_powered_cubby_box
 id: category_tool_screwdriver_precision_powered_cubby_box
 id_no_class: tool_screwdriver_precision_powered_cubby_box
-id_no_color: cubbybox
 id_no_size: cubby_box
 id_no_type: screwdriver_precision_powered_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_precision_powered_cubby_box
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_screwdriver_precision_powered_cubby_box](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 8EFZO
 md5_6_upper: D75074
 name: Category Tool Screwdriver Precision Powered Cubby Box
 name_no_class: Tool Screwdriver Precision Powered Cubby Box
-name_no_color: Cubbybox
 name_no_size: Cubby Box
 name_no_size_short: Cubby Box
 name_no_type: Screwdriver Precision Powered Cubby Box
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: screwdriver_precision_powered
 size_capital: Screwdriver Precision Powered
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sc
-size_length_3: scr
-size_length_4: scre
-size_length_5: screw
-size_length_6: screwd
-size_name: Screwdriver Precision Powered
-size_no_space_length_1: s
-size_no_space_length_2: sc
-size_no_space_length_3: scr
-size_no_space_length_4: scre
-size_no_space_length_5: screw
-size_no_space_length_6: screwd
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SC
-size_no_space_upper_length_3: SCR
-size_no_space_upper_length_4: SCRE
-size_no_space_upper_length_5: SCREW
-size_no_space_upper_length_6: SCREWD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREWDRIVER_PRECISION_POWERED
-size_upper_length_1: S
-size_upper_length_2: SC
-size_upper_length_3: SCR
-size_upper_length_4: SCRE
-size_upper_length_5: SCREW
-size_upper_length_6: SCREWD
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

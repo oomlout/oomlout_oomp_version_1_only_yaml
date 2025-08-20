@@ -1,146 +1,23 @@
-bip_39_word_dash_12: belt-size-doctor-glimpse-gas-kiss-remain-enrich-ensure-slogan-brick-account
-bip_39_word_dash_2: belt-size
-bip_39_word_dash_3: belt-size-doctor
-bip_39_word_new_br_12: belt<br>size<br>doctor<br>glimpse<br>gas<br>kiss<br>remain<br>enrich<br>ensure<br>slogan<br>brick<br>account
-bip_39_word_new_br_2: belt<br>size
-bip_39_word_new_br_3: belt<br>size<br>doctor
-bip_39_word_new_line_12: 'belt
-
-  size
-
-  doctor
-
-  glimpse
-
-  gas
-
-  kiss
-
-  remain
-
-  enrich
-
-  ensure
-
-  slogan
-
-  brick
-
-  account'
-bip_39_word_new_line_2: 'belt
-
-  size'
-bip_39_word_new_line_3: 'belt
-
-  size
-
-  doctor'
-bip_39_word_no_space_12: beltsizedoctorglimpsegaskissremainenrichensuresloganbrickaccount
-bip_39_word_no_space_2: beltsize
-bip_39_word_no_space_3: beltsizedoctor
-bip_39_word_space_12: belt size doctor glimpse gas kiss remain enrich ensure slogan
-  brick account
-bip_39_word_space_2: belt size
-bip_39_word_space_3: belt size doctor
-bip_39_word_underscore_12: belt_size_doctor_glimpse_gas_kiss_remain_enrich_ensure_slogan_brick_account
-bip_39_word_underscore_2: belt_size
-bip_39_word_underscore_3: belt_size_doctor
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: shennie
 color_capital: Shennie
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: sh
-color_length_3: she
-color_length_4: shen
-color_length_5: shenn
-color_length_6: shenni
-color_name: Shennie
-color_no_space_length_1: s
-color_no_space_length_2: sh
-color_no_space_length_3: she
-color_no_space_length_4: shen
-color_no_space_length_5: shenn
-color_no_space_length_6: shenni
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: SH
-color_no_space_upper_length_3: SHE
-color_no_space_upper_length_4: SHEN
-color_no_space_upper_length_5: SHENN
-color_no_space_upper_length_6: SHENNI
 color_upper: SHENNIE
-color_upper_length_1: S
-color_upper_length_2: SH
-color_upper_length_3: SHE
-color_upper_length_4: SHEN
-color_upper_length_5: SHENN
-color_upper_length_6: SHENNI
 description: category_electronic
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_electronic_breakout_board_mcu_shennie_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_breakout_board_mcu_shennie_tote
 id: category_electronic_breakout_board_mcu_shennie_tote
 id_no_class: electronic_breakout_board_mcu_shennie_tote
-id_no_color: tote
 id_no_size: shennie_tote
 id_no_type: breakout_board_mcu_shennie_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_shennie_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_breakout_board_mcu_shennie_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: '183772'
 md5_6_alpha: y0ky
 md5_6_alpha_upper: Y0KY
 md5_6_upper: '183772'
-name: Category Electronic Breakout Board MCU Shennie Tote
-name_no_class: Electronic Breakout Board MCU Shennie Tote
-name_no_color: Tote
+name: Category Electronic Breakout Board Mcu Shennie Tote
+name_no_class: Electronic Breakout Board Mcu Shennie Tote
 name_no_size: Shennie Tote
 name_no_size_short: Shennie Tote
-name_no_type: Breakout Board MCU Shennie Tote
+name_no_type: Breakout Board Mcu Shennie Tote
 oomp_key: oomp_category_electronic_breakout_board_mcu_shennie_tote
 oomp_word: hand wolf dolls
 oomp_word_emoji: ':hand: :wolf: :dolls:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: breakout_board_mcu
 size_capital: Breakout Board Mcu
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: br
-size_length_3: bre
-size_length_4: brea
-size_length_5: break
-size_length_6: breako
-size_name: Breakout Board MCU
-size_no_space_length_1: b
-size_no_space_length_2: br
-size_no_space_length_3: bre
-size_no_space_length_4: brea
-size_no_space_length_5: break
-size_no_space_length_6: breako
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BR
-size_no_space_upper_length_3: BRE
-size_no_space_upper_length_4: BREA
-size_no_space_upper_length_5: BREAK
-size_no_space_upper_length_6: BREAKO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BREAKOUT_BOARD_MCU
-size_upper_length_1: B
-size_upper_length_2: BR
-size_upper_length_3: BRE
-size_upper_length_4: BREA
-size_upper_length_5: BREAK
-size_upper_length_6: BREAKO
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

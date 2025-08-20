@@ -1,146 +1,23 @@
-bip_39_word_dash_12: truck-direct-cause-buffalo-audit-this-shoe-puppy-aerobic-uncover-prevent-asthma
-bip_39_word_dash_2: truck-direct
-bip_39_word_dash_3: truck-direct-cause
-bip_39_word_new_br_12: truck<br>direct<br>cause<br>buffalo<br>audit<br>this<br>shoe<br>puppy<br>aerobic<br>uncover<br>prevent<br>asthma
-bip_39_word_new_br_2: truck<br>direct
-bip_39_word_new_br_3: truck<br>direct<br>cause
-bip_39_word_new_line_12: 'truck
-
-  direct
-
-  cause
-
-  buffalo
-
-  audit
-
-  this
-
-  shoe
-
-  puppy
-
-  aerobic
-
-  uncover
-
-  prevent
-
-  asthma'
-bip_39_word_new_line_2: 'truck
-
-  direct'
-bip_39_word_new_line_3: 'truck
-
-  direct
-
-  cause'
-bip_39_word_no_space_12: truckdirectcausebuffaloauditthisshoepuppyaerobicuncoverpreventasthma
-bip_39_word_no_space_2: truckdirect
-bip_39_word_no_space_3: truckdirectcause
-bip_39_word_space_12: truck direct cause buffalo audit this shoe puppy aerobic uncover
-  prevent asthma
-bip_39_word_space_2: truck direct
-bip_39_word_space_3: truck direct cause
-bip_39_word_underscore_12: truck_direct_cause_buffalo_audit_this_shoe_puppy_aerobic_uncover_prevent_asthma
-bip_39_word_underscore_2: truck_direct
-bip_39_word_underscore_3: truck_direct_cause
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 56_size_26_gauge_6_mm_depth
 color_capital: 56 Size 26 Gauge 6 mm Depth
 color_first_letter: '5'
 color_first_letter_upper: '5'
-color_length_1: '5'
-color_length_2: '56'
-color_length_3: '56_'
-color_length_4: 56_s
-color_length_5: 56_si
-color_length_6: 56_siz
-color_name: 56 Size 26 Gauge 6 mm Depth
-color_no_space_length_1: '5'
-color_no_space_length_2: '56'
-color_no_space_length_3: 56s
-color_no_space_length_4: 56si
-color_no_space_length_5: 56siz
-color_no_space_length_6: 56size
-color_no_space_upper_length_1: '5'
-color_no_space_upper_length_2: '56'
-color_no_space_upper_length_3: 56S
-color_no_space_upper_length_4: 56SI
-color_no_space_upper_length_5: 56SIZ
-color_no_space_upper_length_6: 56SIZE
 color_upper: 56_SIZE_26_GAUGE_6_MM_DEPTH
-color_upper_length_1: '5'
-color_upper_length_2: '56'
-color_upper_length_3: '56_'
-color_upper_length_4: 56_S
-color_upper_length_5: 56_SI
-color_upper_length_6: 56_SIZ
 description: category_stationery
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
 id: category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
 id_no_class: stationery_staples_56_size_26_gauge_6_mm_depth_tote
-id_no_color: tote
 id_no_size: 56_size_26_gauge_6_mm_depth_tote
 id_no_type: staples_56_size_26_gauge_6_mm_depth_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_stationery_staples_56_size_26_gauge_6_mm_depth_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: e154bb
 md5_6_alpha: 8siij
 md5_6_alpha_upper: 8SIIJ
 md5_6_upper: E154BB
-name: Category Stationery Staples 56 Size 26 Gauge 6 mm Depth Tote
-name_no_class: Stationery Staples 56 Size 26 Gauge 6 mm Depth Tote
-name_no_color: Tote
-name_no_size: 56 Size 26 Gauge 6 mm Depth Tote
+name: Category Stationery Staples 56 Size 26 Gauge 6 Mm Depth Tote
+name_no_class: Stationery Staples 56 Size 26 Gauge 6 Mm Depth Tote
+name_no_size: 56 Size 26 Gauge 6 Mm Depth Tote
 name_no_size_short: 56 Size 26 Gauge 6 Mm Depth Tote
-name_no_type: Staples 56 Size 26 Gauge 6 mm Depth Tote
+name_no_type: Staples 56 Size 26 Gauge 6 Mm Depth Tote
 oomp_key: oomp_category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
 oomp_word: boat whale curry
 oomp_word_emoji: ':boat: :whale: :curry:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: staples
 size_capital: Staples
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: sta
-size_length_4: stap
-size_length_5: stapl
-size_length_6: staple
-size_name: Staples
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: sta
-size_no_space_length_4: stap
-size_no_space_length_5: stapl
-size_no_space_length_6: staple
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STA
-size_no_space_upper_length_4: STAP
-size_no_space_upper_length_5: STAPL
-size_no_space_upper_length_6: STAPLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STAPLES
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STA
-size_upper_length_4: STAP
-size_upper_length_5: STAPL
-size_upper_length_6: STAPLE
 type: stationery
 type_capital: Stationery
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: stat
-type_length_5: stati
-type_length_6: statio
-type_name: Stationery
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: stat
-type_no_space_length_5: stati
-type_no_space_length_6: statio
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAT
-type_no_space_upper_length_5: STATI
-type_no_space_upper_length_6: STATIO
 type_upper: STATIONERY
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAT
-type_upper_length_5: STATI
-type_upper_length_6: STATIO

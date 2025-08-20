@@ -1,97 +1,22 @@
-bip_39_word_dash_12: buyer-fiber-inquiry-cancel-uncover-shaft-girl-panel-donate-stamp-blossom-area
-bip_39_word_dash_2: buyer-fiber
-bip_39_word_dash_3: buyer-fiber-inquiry
-bip_39_word_new_br_12: buyer<br>fiber<br>inquiry<br>cancel<br>uncover<br>shaft<br>girl<br>panel<br>donate<br>stamp<br>blossom<br>area
-bip_39_word_new_br_2: buyer<br>fiber
-bip_39_word_new_br_3: buyer<br>fiber<br>inquiry
-bip_39_word_new_line_12: 'buyer
-
-  fiber
-
-  inquiry
-
-  cancel
-
-  uncover
-
-  shaft
-
-  girl
-
-  panel
-
-  donate
-
-  stamp
-
-  blossom
-
-  area'
-bip_39_word_new_line_2: 'buyer
-
-  fiber'
-bip_39_word_new_line_3: 'buyer
-
-  fiber
-
-  inquiry'
-bip_39_word_no_space_12: buyerfiberinquirycanceluncovershaftgirlpaneldonatestampblossomarea
-bip_39_word_no_space_2: buyerfiber
-bip_39_word_no_space_3: buyerfiberinquiry
-bip_39_word_space_12: buyer fiber inquiry cancel uncover shaft girl panel donate stamp
-  blossom area
-bip_39_word_space_2: buyer fiber
-bip_39_word_space_3: buyer fiber inquiry
-bip_39_word_underscore_12: buyer_fiber_inquiry_cancel_uncover_shaft_girl_panel_donate_stamp_blossom_area
-bip_39_word_underscore_2: buyer_fiber
-bip_39_word_underscore_3: buyer_fiber_inquiry
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_activity_colouring
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_activity_colouring
 id: book_activity_colouring
 id_no_class: activity_colouring
-id_no_color: colouring
 id_no_size: colouring
 id_no_type: colouring
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_activity_colouring](none)<br>[](none)<br>[Book Activity Colouring](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: 713QT
 md5_6_upper: B43035
 name: Book Activity Colouring
 name_no_class: Activity Colouring
-name_no_color: Colouring
 name_no_size: Colouring
 name_no_size_short: Colouring
 name_no_type: Colouring
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: colouring
 size_capital: Colouring
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: co
-size_length_3: col
-size_length_4: colo
-size_length_5: colou
-size_length_6: colour
-size_name: Colouring
-size_no_space_length_1: c
-size_no_space_length_2: co
-size_no_space_length_3: col
-size_no_space_length_4: colo
-size_no_space_length_5: colou
-size_no_space_length_6: colour
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CO
-size_no_space_upper_length_3: COL
-size_no_space_upper_length_4: COLO
-size_no_space_upper_length_5: COLOU
-size_no_space_upper_length_6: COLOUR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: COLOURING
-size_upper_length_1: C
-size_upper_length_2: CO
-size_upper_length_3: COL
-size_upper_length_4: COLO
-size_upper_length_5: COLOU
-size_upper_length_6: COLOUR
 type: activity
 type_capital: Activity
 type_first_letter: a
 type_first_letter_upper: A
-type_length_1: a
-type_length_2: ac
-type_length_3: act
-type_length_4: acti
-type_length_5: activ
-type_length_6: activi
-type_name: Activity
-type_no_space_length_1: a
-type_no_space_length_2: ac
-type_no_space_length_3: act
-type_no_space_length_4: acti
-type_no_space_length_5: activ
-type_no_space_length_6: activi
-type_no_space_upper_length_1: A
-type_no_space_upper_length_2: AC
-type_no_space_upper_length_3: ACT
-type_no_space_upper_length_4: ACTI
-type_no_space_upper_length_5: ACTIV
-type_no_space_upper_length_6: ACTIVI
 type_upper: ACTIVITY
-type_upper_length_1: A
-type_upper_length_2: AC
-type_upper_length_3: ACT
-type_upper_length_4: ACTI
-type_upper_length_5: ACTIV
-type_upper_length_6: ACTIVI

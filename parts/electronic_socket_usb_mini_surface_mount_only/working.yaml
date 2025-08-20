@@ -1,122 +1,23 @@
-bip_39_word_dash_12: school-inch-alcohol-wet-income-frequent-loud-cattle-shoe-actual-glass-addict
-bip_39_word_dash_2: school-inch
-bip_39_word_dash_3: school-inch-alcohol
-bip_39_word_new_br_12: school<br>inch<br>alcohol<br>wet<br>income<br>frequent<br>loud<br>cattle<br>shoe<br>actual<br>glass<br>addict
-bip_39_word_new_br_2: school<br>inch
-bip_39_word_new_br_3: school<br>inch<br>alcohol
-bip_39_word_new_line_12: 'school
-
-  inch
-
-  alcohol
-
-  wet
-
-  income
-
-  frequent
-
-  loud
-
-  cattle
-
-  shoe
-
-  actual
-
-  glass
-
-  addict'
-bip_39_word_new_line_2: 'school
-
-  inch'
-bip_39_word_new_line_3: 'school
-
-  inch
-
-  alcohol'
-bip_39_word_no_space_12: schoolinchalcoholwetincomefrequentloudcattleshoeactualglassaddict
-bip_39_word_no_space_2: schoolinch
-bip_39_word_no_space_3: schoolinchalcohol
-bip_39_word_space_12: school inch alcohol wet income frequent loud cattle shoe actual
-  glass addict
-bip_39_word_space_2: school inch
-bip_39_word_space_3: school inch alcohol
-bip_39_word_underscore_12: school_inch_alcohol_wet_income_frequent_loud_cattle_shoe_actual_glass_addict
-bip_39_word_underscore_2: school_inch
-bip_39_word_underscore_3: school_inch_alcohol
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: surface_mount_only
 description_main_capital: Surface Mount Only
 description_main_first_letter: s
 description_main_first_letter_upper: S
-description_main_length_1: s
-description_main_length_2: su
-description_main_length_3: sur
-description_main_length_4: surf
-description_main_length_5: surfa
-description_main_length_6: surfac
-description_main_name: Surface Mount Only
-description_main_no_space_length_1: s
-description_main_no_space_length_2: su
-description_main_no_space_length_3: sur
-description_main_no_space_length_4: surf
-description_main_no_space_length_5: surfa
-description_main_no_space_length_6: surfac
-description_main_no_space_upper_length_1: S
-description_main_no_space_upper_length_2: SU
-description_main_no_space_upper_length_3: SUR
-description_main_no_space_upper_length_4: SURF
-description_main_no_space_upper_length_5: SURFA
-description_main_no_space_upper_length_6: SURFAC
 description_main_upper: SURFACE_MOUNT_ONLY
-description_main_upper_length_1: S
-description_main_upper_length_2: SU
-description_main_upper_length_3: SUR
-description_main_upper_length_4: SURF
-description_main_upper_length_5: SURFA
-description_main_upper_length_6: SURFAC
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -138,10 +39,8 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_scumnsmo_electronic_socket_usb_mini_surface_mount_only
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_usb_mini_surface_mount_only
 id: electronic_socket_usb_mini_surface_mount_only
 id_no_class: socket_usb_mini_surface_mount_only
-id_no_color: surfacemountonly
 id_no_size: surface_mount_only
 id_no_type: usb_mini_surface_mount_only
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_mini_surface_mount_only
@@ -151,7 +50,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_korean_hroparts_elec
@@ -173,12 +71,11 @@ md5_6: 34c5c0
 md5_6_alpha: 224lc
 md5_6_alpha_upper: 224LC
 md5_6_upper: 34C5C0
-name: Electronic Socket USB Mini Surface Mount Only
-name_no_class: Socket USB Mini Surface Mount Only
-name_no_color: Surfacemountonly
+name: Electronic Socket Usb Mini Surface Mount Only
+name_no_class: Socket Usb Mini Surface Mount Only
 name_no_size: Surface Mount Only
 name_no_size_short: Surface Mount Only
-name_no_type: USB Mini Surface Mount Only
+name_no_type: Usb Mini Surface Mount Only
 oomp_key: oomp_electronic_socket_usb_mini_surface_mount_only
 oomp_word: mouse candy bread
 oomp_word_emoji: ':mouse: :candy: :bread:'
@@ -194,7 +91,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 pins:
   pin_1:
@@ -228,34 +124,9 @@ size: usb_mini
 size_capital: Usb Mini
 size_first_letter: u
 size_first_letter_upper: U
-size_length_1: u
-size_length_2: us
-size_length_3: usb
-size_length_4: usb_
-size_length_5: usb_m
-size_length_6: usb_mi
-size_name: USB Mini
-size_no_space_length_1: u
-size_no_space_length_2: us
-size_no_space_length_3: usb
-size_no_space_length_4: usbm
-size_no_space_length_5: usbmi
-size_no_space_length_6: usbmin
-size_no_space_upper_length_1: U
-size_no_space_upper_length_2: US
-size_no_space_upper_length_3: USB
-size_no_space_upper_length_4: USBM
-size_no_space_upper_length_5: USBMI
-size_no_space_upper_length_6: USBMIN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: USB_MINI
-size_upper_length_1: U
-size_upper_length_2: US
-size_upper_length_3: USB
-size_upper_length_4: USB_
-size_upper_length_5: USB_M
-size_upper_length_6: USB_MI
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_connector_usb_b_mini//working/working.kicad_sym
   index: 0
@@ -265,29 +136,4 @@ type: socket
 type_capital: Socket
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: so
-type_length_3: soc
-type_length_4: sock
-type_length_5: socke
-type_length_6: socket
-type_name: Socket
-type_no_space_length_1: s
-type_no_space_length_2: so
-type_no_space_length_3: soc
-type_no_space_length_4: sock
-type_no_space_length_5: socke
-type_no_space_length_6: socket
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SO
-type_no_space_upper_length_3: SOC
-type_no_space_upper_length_4: SOCK
-type_no_space_upper_length_5: SOCKE
-type_no_space_upper_length_6: SOCKET
 type_upper: SOCKET
-type_upper_length_1: S
-type_upper_length_2: SO
-type_upper_length_3: SOC
-type_upper_length_4: SOCK
-type_upper_length_5: SOCKE
-type_upper_length_6: SOCKET

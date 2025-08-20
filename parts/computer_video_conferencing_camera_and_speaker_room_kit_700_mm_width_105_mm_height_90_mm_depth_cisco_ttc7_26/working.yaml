@@ -1,146 +1,23 @@
-bip_39_word_dash_12: lake-fiscal-say-reward-crash-vicious-fortune-lemon-mercy-bronze-elbow-allow
-bip_39_word_dash_2: lake-fiscal
-bip_39_word_dash_3: lake-fiscal-say
-bip_39_word_new_br_12: lake<br>fiscal<br>say<br>reward<br>crash<br>vicious<br>fortune<br>lemon<br>mercy<br>bronze<br>elbow<br>allow
-bip_39_word_new_br_2: lake<br>fiscal
-bip_39_word_new_br_3: lake<br>fiscal<br>say
-bip_39_word_new_line_12: 'lake
-
-  fiscal
-
-  say
-
-  reward
-
-  crash
-
-  vicious
-
-  fortune
-
-  lemon
-
-  mercy
-
-  bronze
-
-  elbow
-
-  allow'
-bip_39_word_new_line_2: 'lake
-
-  fiscal'
-bip_39_word_new_line_3: 'lake
-
-  fiscal
-
-  say'
-bip_39_word_no_space_12: lakefiscalsayrewardcrashviciousfortunelemonmercybronzeelbowallow
-bip_39_word_no_space_2: lakefiscal
-bip_39_word_no_space_3: lakefiscalsay
-bip_39_word_space_12: lake fiscal say reward crash vicious fortune lemon mercy bronze
-  elbow allow
-bip_39_word_space_2: lake fiscal
-bip_39_word_space_3: lake fiscal say
-bip_39_word_underscore_12: lake_fiscal_say_reward_crash_vicious_fortune_lemon_mercy_bronze_elbow_allow
-bip_39_word_underscore_2: lake_fiscal
-bip_39_word_underscore_3: lake_fiscal_say
 classification: computer
 classification_capital: Computer
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: co
-classification_length_3: com
-classification_length_4: comp
-classification_length_5: compu
-classification_length_6: comput
-classification_name: Computer
-classification_no_space_length_1: c
-classification_no_space_length_2: co
-classification_no_space_length_3: com
-classification_no_space_length_4: comp
-classification_no_space_length_5: compu
-classification_no_space_length_6: comput
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CO
-classification_no_space_upper_length_3: COM
-classification_no_space_upper_length_4: COMP
-classification_no_space_upper_length_5: COMPU
-classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER
-classification_upper_length_1: C
-classification_upper_length_2: CO
-classification_upper_length_3: COM
-classification_upper_length_4: COMP
-classification_upper_length_5: COMPU
-classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: 700_mm_width_105_mm_height_90_mm_depth
 description_extra_capital: 700 mm Width 105 mm Height 90 mm Depth
 description_extra_first_letter: '7'
 description_extra_first_letter_upper: '7'
-description_extra_length_1: '7'
-description_extra_length_2: '70'
-description_extra_length_3: '700'
-description_extra_length_4: '700_'
-description_extra_length_5: 700_m
-description_extra_length_6: 700_mm
-description_extra_name: 700 mm Width 105 mm Height 90 mm Depth
-description_extra_no_space_length_1: '7'
-description_extra_no_space_length_2: '70'
-description_extra_no_space_length_3: '700'
-description_extra_no_space_length_4: 700m
-description_extra_no_space_length_5: 700mm
-description_extra_no_space_length_6: 700mmw
-description_extra_no_space_upper_length_1: '7'
-description_extra_no_space_upper_length_2: '70'
-description_extra_no_space_upper_length_3: '700'
-description_extra_no_space_upper_length_4: 700M
-description_extra_no_space_upper_length_5: 700MM
-description_extra_no_space_upper_length_6: 700MMW
 description_extra_upper: 700_MM_WIDTH_105_MM_HEIGHT_90_MM_DEPTH
-description_extra_upper_length_1: '7'
-description_extra_upper_length_2: '70'
-description_extra_upper_length_3: '700'
-description_extra_upper_length_4: '700_'
-description_extra_upper_length_5: 700_M
-description_extra_upper_length_6: 700_MM
 description_main: room_kit
 description_main_capital: Room Kit
 description_main_first_letter: r
 description_main_first_letter_upper: R
-description_main_length_1: r
-description_main_length_2: ro
-description_main_length_3: roo
-description_main_length_4: room
-description_main_length_5: room_
-description_main_length_6: room_k
-description_main_name: Room Kit
-description_main_no_space_length_1: r
-description_main_no_space_length_2: ro
-description_main_no_space_length_3: roo
-description_main_no_space_length_4: room
-description_main_no_space_length_5: roomk
-description_main_no_space_length_6: roomki
-description_main_no_space_upper_length_1: R
-description_main_no_space_upper_length_2: RO
-description_main_no_space_upper_length_3: ROO
-description_main_no_space_upper_length_4: ROOM
-description_main_no_space_upper_length_5: ROOMK
-description_main_no_space_upper_length_6: ROOMKI
 description_main_upper: ROOM_KIT
-description_main_upper_length_1: R
-description_main_upper_length_2: RO
-description_main_upper_length_3: ROO
-description_main_upper_length_4: ROOM
-description_main_upper_length_5: ROOM_
-description_main_upper_length_6: ROOM_K
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -149,10 +26,8 @@ directory: parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 id: computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 id_no_class: video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
-id_no_color: roomkit700mmwidth105mmheight90mmdepthciscottc726
 id_no_size: room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 id_no_type: camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-kit/model.html
@@ -163,32 +38,7 @@ manufacturer: cisco
 manufacturer_capital: Cisco
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
-manufacturer_length_1: c
-manufacturer_length_2: ci
-manufacturer_length_3: cis
-manufacturer_length_4: cisc
-manufacturer_length_5: cisco
-manufacturer_length_6: cisco
-manufacturer_name: Cisco
-manufacturer_no_space_length_1: c
-manufacturer_no_space_length_2: ci
-manufacturer_no_space_length_3: cis
-manufacturer_no_space_length_4: cisc
-manufacturer_no_space_length_5: cisco
-manufacturer_no_space_length_6: cisco
-manufacturer_no_space_upper_length_1: C
-manufacturer_no_space_upper_length_2: CI
-manufacturer_no_space_upper_length_3: CIS
-manufacturer_no_space_upper_length_4: CISC
-manufacturer_no_space_upper_length_5: CISCO
-manufacturer_no_space_upper_length_6: CISCO
 manufacturer_upper: CISCO
-manufacturer_upper_length_1: C
-manufacturer_upper_length_2: CI
-manufacturer_upper_length_3: CIS
-manufacturer_upper_length_4: CISC
-manufacturer_upper_length_5: CISCO
-manufacturer_upper_length_6: CISCO
 manufacturers: []
 markdown_full: '[computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26](none)<br>[](none)<br>[Computer
   Video Conferencing Camera And Speaker Room Kit 700 Mm Width 105 Mm Height 90 Mm
@@ -203,14 +53,13 @@ md5_6: 6a8e47
 md5_6_alpha: 45oav
 md5_6_alpha_upper: 45OAV
 md5_6_upper: 6A8E47
-name: Computer Video Conferencing Camera And Speaker Room Kit 700 mm Width 105 mm
-  Height 90 mm Depth Cisco Ttc7 26
-name_no_class: Video Conferencing Camera And Speaker Room Kit 700 mm Width 105 mm
-  Height 90 mm Depth Cisco Ttc7 26
-name_no_color: Roomkit700mmwidth105mmheight90mmdepthciscottc726
-name_no_size: Room Kit 700 mm Width 105 mm Height 90 mm Depth Cisco Ttc7 26
+name: Computer Video Conferencing Camera And Speaker Room Kit 700 Mm Width 105 Mm
+  Height 90 Mm Depth Cisco Ttc7 26
+name_no_class: Video Conferencing Camera And Speaker Room Kit 700 Mm Width 105 Mm
+  Height 90 Mm Depth Cisco Ttc7 26
+name_no_size: Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Ttc7 26
 name_no_size_short: Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Ttc7 26
-name_no_type: Camera And Speaker Room Kit 700 mm Width 105 mm Height 90 mm Depth Cisco
+name_no_type: Camera And Speaker Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco
   Ttc7 26
 oomp_key: oomp_computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 oomp_word: palm_tree clipboard baby_chick
@@ -228,93 +77,18 @@ part_number_capital: Ttc7.26
 part_number_exact: TTC7-26
 part_number_first_letter: t
 part_number_first_letter_upper: T
-part_number_length_1: t
-part_number_length_2: tt
-part_number_length_3: ttc
-part_number_length_4: ttc7
-part_number_length_5: ttc7_
-part_number_length_6: ttc7_2
-part_number_name: Ttc7 26
-part_number_no_space_length_1: t
-part_number_no_space_length_2: tt
-part_number_no_space_length_3: ttc
-part_number_no_space_length_4: ttc7
-part_number_no_space_length_5: ttc72
-part_number_no_space_length_6: ttc726
-part_number_no_space_upper_length_1: T
-part_number_no_space_upper_length_2: TT
-part_number_no_space_upper_length_3: TTC
-part_number_no_space_upper_length_4: TTC7
-part_number_no_space_upper_length_5: TTC72
-part_number_no_space_upper_length_6: TTC726
 part_number_upper: TTC7_26
-part_number_upper_length_1: T
-part_number_upper_length_2: TT
-part_number_upper_length_3: TTC
-part_number_upper_length_4: TTC7
-part_number_upper_length_5: TTC7_
-part_number_upper_length_6: TTC7_2
 short_code: ''
 short_code_upper: ''
 size: camera_and_speaker
 size_capital: Camera And Speaker
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: ca
-size_length_3: cam
-size_length_4: came
-size_length_5: camer
-size_length_6: camera
-size_name: Camera And Speaker
-size_no_space_length_1: c
-size_no_space_length_2: ca
-size_no_space_length_3: cam
-size_no_space_length_4: came
-size_no_space_length_5: camer
-size_no_space_length_6: camera
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CA
-size_no_space_upper_length_3: CAM
-size_no_space_upper_length_4: CAME
-size_no_space_upper_length_5: CAMER
-size_no_space_upper_length_6: CAMERA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CAMERA_AND_SPEAKER
-size_upper_length_1: C
-size_upper_length_2: CA
-size_upper_length_3: CAM
-size_upper_length_4: CAME
-size_upper_length_5: CAMER
-size_upper_length_6: CAMERA
 type: video_conferencing
 type_capital: Video Conferencing
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vid
-type_length_4: vide
-type_length_5: video
-type_length_6: video_
-type_name: Video Conferencing
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vid
-type_no_space_length_4: vide
-type_no_space_length_5: video
-type_no_space_length_6: videoc
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VID
-type_no_space_upper_length_4: VIDE
-type_no_space_upper_length_5: VIDEO
-type_no_space_upper_length_6: VIDEOC
 type_upper: VIDEO_CONFERENCING
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VID
-type_upper_length_4: VIDE
-type_upper_length_5: VIDEO
-type_upper_length_6: VIDEO_

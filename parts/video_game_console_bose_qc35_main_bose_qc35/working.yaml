@@ -1,132 +1,31 @@
-bip_39_word_dash_12: bring-dutch-emotion-clay-never-squeeze-dry-honey-rigid-ready-naive-afford
-bip_39_word_dash_2: bring-dutch
-bip_39_word_dash_3: bring-dutch-emotion
-bip_39_word_new_br_12: bring<br>dutch<br>emotion<br>clay<br>never<br>squeeze<br>dry<br>honey<br>rigid<br>ready<br>naive<br>afford
-bip_39_word_new_br_2: bring<br>dutch
-bip_39_word_new_br_3: bring<br>dutch<br>emotion
-bip_39_word_new_line_12: 'bring
-
-  dutch
-
-  emotion
-
-  clay
-
-  never
-
-  squeeze
-
-  dry
-
-  honey
-
-  rigid
-
-  ready
-
-  naive
-
-  afford'
-bip_39_word_new_line_2: 'bring
-
-  dutch'
-bip_39_word_new_line_3: 'bring
-
-  dutch
-
-  emotion'
-bip_39_word_no_space_12: bringdutchemotionclayneversqueezedryhoneyrigidreadynaiveafford
-bip_39_word_no_space_2: bringdutch
-bip_39_word_no_space_3: bringdutchemotion
-bip_39_word_space_12: bring dutch emotion clay never squeeze dry honey rigid ready
-  naive afford
-bip_39_word_space_2: bring dutch
-bip_39_word_space_3: bring dutch emotion
-bip_39_word_underscore_12: bring_dutch_emotion_clay_never_squeeze_dry_honey_rigid_ready_naive_afford
-bip_39_word_underscore_2: bring_dutch
-bip_39_word_underscore_3: bring_dutch_emotion
 classification: video_game_console
 classification_capital: Video Game Console
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vid
-classification_length_4: vide
-classification_length_5: video
-classification_length_6: video_
-classification_name: Video Game Console
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vid
-classification_no_space_length_4: vide
-classification_no_space_length_5: video
-classification_no_space_length_6: videog
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VID
-classification_no_space_upper_length_4: VIDE
-classification_no_space_upper_length_5: VIDEO
-classification_no_space_upper_length_6: VIDEOG
 classification_upper: VIDEO_GAME_CONSOLE
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VID
-classification_upper_length_4: VIDE
-classification_upper_length_5: VIDEO
-classification_upper_length_6: VIDEO_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: main
 description_main_capital: Main
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: ma
-description_main_length_3: mai
-description_main_length_4: main
-description_main_length_5: main
-description_main_length_6: main
-description_main_name: Main
-description_main_no_space_length_1: m
-description_main_no_space_length_2: ma
-description_main_no_space_length_3: mai
-description_main_no_space_length_4: main
-description_main_no_space_length_5: main
-description_main_no_space_length_6: main
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MA
-description_main_no_space_upper_length_3: MAI
-description_main_no_space_upper_length_4: MAIN
-description_main_no_space_upper_length_5: MAIN
-description_main_no_space_upper_length_6: MAIN
 description_main_upper: MAIN
-description_main_upper_length_1: M
-description_main_upper_length_2: MA
-description_main_upper_length_3: MAI
-description_main_upper_length_4: MAIN
-description_main_upper_length_5: MAIN
-description_main_upper_length_6: MAIN
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/video_game_console_bose_qc35_main_bose_qc35
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_bose_qc35_main_bose_qc35
 id: video_game_console_bose_qc35_main_bose_qc35
 id_no_class: bose_qc35_main_bose_qc35
-id_no_color: mainboseqc35
 id_no_size: mainboseqc35
 id_no_type: main_bose_qc35
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_bose_qc35_main_bose_qc35
@@ -136,32 +35,7 @@ manufacturer: bose
 manufacturer_capital: Bose
 manufacturer_first_letter: b
 manufacturer_first_letter_upper: B
-manufacturer_length_1: b
-manufacturer_length_2: bo
-manufacturer_length_3: bos
-manufacturer_length_4: bose
-manufacturer_length_5: bose
-manufacturer_length_6: bose
-manufacturer_name: Bose
-manufacturer_no_space_length_1: b
-manufacturer_no_space_length_2: bo
-manufacturer_no_space_length_3: bos
-manufacturer_no_space_length_4: bose
-manufacturer_no_space_length_5: bose
-manufacturer_no_space_length_6: bose
-manufacturer_no_space_upper_length_1: B
-manufacturer_no_space_upper_length_2: BO
-manufacturer_no_space_upper_length_3: BOS
-manufacturer_no_space_upper_length_4: BOSE
-manufacturer_no_space_upper_length_5: BOSE
-manufacturer_no_space_upper_length_6: BOSE
 manufacturer_upper: BOSE
-manufacturer_upper_length_1: B
-manufacturer_upper_length_2: BO
-manufacturer_upper_length_3: BOS
-manufacturer_upper_length_4: BOSE
-manufacturer_upper_length_5: BOSE
-manufacturer_upper_length_6: BOSE
 manufacturers: []
 markdown_full: '[video_game_console_bose_qc35_main_bose_qc35](none)<br>[](none)<br>[Video
   Game Console Bose Qc35 Main Bose Qc35](none)<br><br>'
@@ -177,7 +51,6 @@ md5_6_alpha_upper: 2RXPO
 md5_6_upper: 47256C
 name: Video Game Console Bose Qc35 Main Bose Qc35
 name_no_class: Bose Qc35 Main Bose Qc35
-name_no_color: Mainboseqc35
 name_no_size: Mainboseqc35
 name_no_size_short: Mainboseqc35
 name_no_type: Main Bose Qc35
@@ -196,39 +69,13 @@ part_number: qc35
 part_number_capital: Qc35
 part_number_first_letter: q
 part_number_first_letter_upper: Q
-part_number_length_1: q
-part_number_length_2: qc
-part_number_length_3: qc3
-part_number_length_4: qc35
-part_number_length_5: qc35
-part_number_length_6: qc35
-part_number_name: Qc35
-part_number_no_space_length_1: q
-part_number_no_space_length_2: qc
-part_number_no_space_length_3: qc3
-part_number_no_space_length_4: qc35
-part_number_no_space_length_5: qc35
-part_number_no_space_length_6: qc35
-part_number_no_space_upper_length_1: Q
-part_number_no_space_upper_length_2: QC
-part_number_no_space_upper_length_3: QC3
-part_number_no_space_upper_length_4: QC35
-part_number_no_space_upper_length_5: QC35
-part_number_no_space_upper_length_6: QC35
 part_number_upper: QC35
-part_number_upper_length_1: Q
-part_number_upper_length_2: QC
-part_number_upper_length_3: QC3
-part_number_upper_length_4: QC35
-part_number_upper_length_5: QC35
-part_number_upper_length_6: QC35
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -236,29 +83,4 @@ type: bose_qc35
 type_capital: Bose Qc35
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: bo
-type_length_3: bos
-type_length_4: bose
-type_length_5: bose_
-type_length_6: bose_q
-type_name: Bose Qc35
-type_no_space_length_1: b
-type_no_space_length_2: bo
-type_no_space_length_3: bos
-type_no_space_length_4: bose
-type_no_space_length_5: boseq
-type_no_space_length_6: boseqc
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BO
-type_no_space_upper_length_3: BOS
-type_no_space_upper_length_4: BOSE
-type_no_space_upper_length_5: BOSEQ
-type_no_space_upper_length_6: BOSEQC
 type_upper: BOSE_QC35
-type_upper_length_1: B
-type_upper_length_2: BO
-type_upper_length_3: BOS
-type_upper_length_4: BOSE
-type_upper_length_5: BOSE_
-type_upper_length_6: BOSE_Q

@@ -1,132 +1,31 @@
-bip_39_word_dash_12: wrist-fit-skill-focus-rate-fever-define-volume-room-detail-ritual-attend
-bip_39_word_dash_2: wrist-fit
-bip_39_word_dash_3: wrist-fit-skill
-bip_39_word_new_br_12: wrist<br>fit<br>skill<br>focus<br>rate<br>fever<br>define<br>volume<br>room<br>detail<br>ritual<br>attend
-bip_39_word_new_br_2: wrist<br>fit
-bip_39_word_new_br_3: wrist<br>fit<br>skill
-bip_39_word_new_line_12: 'wrist
-
-  fit
-
-  skill
-
-  focus
-
-  rate
-
-  fever
-
-  define
-
-  volume
-
-  room
-
-  detail
-
-  ritual
-
-  attend'
-bip_39_word_new_line_2: 'wrist
-
-  fit'
-bip_39_word_new_line_3: 'wrist
-
-  fit
-
-  skill'
-bip_39_word_no_space_12: wristfitskillfocusratefeverdefinevolumeroomdetailritualattend
-bip_39_word_no_space_2: wristfit
-bip_39_word_no_space_3: wristfitskill
-bip_39_word_space_12: wrist fit skill focus rate fever define volume room detail ritual
-  attend
-bip_39_word_space_2: wrist fit
-bip_39_word_space_3: wrist fit skill
-bip_39_word_underscore_12: wrist_fit_skill_focus_rate_fever_define_volume_room_detail_ritual_attend
-bip_39_word_underscore_2: wrist_fit
-bip_39_word_underscore_3: wrist_fit_skill
 classification: computer_tablet
 classification_capital: Computer Tablet
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: co
-classification_length_3: com
-classification_length_4: comp
-classification_length_5: compu
-classification_length_6: comput
-classification_name: Computer Tablet
-classification_no_space_length_1: c
-classification_no_space_length_2: co
-classification_no_space_length_3: com
-classification_no_space_length_4: comp
-classification_no_space_length_5: compu
-classification_no_space_length_6: comput
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CO
-classification_no_space_upper_length_3: COM
-classification_no_space_upper_length_4: COMP
-classification_no_space_upper_length_5: COMPU
-classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER_TABLET
-classification_upper_length_1: C
-classification_upper_length_2: CO
-classification_upper_length_3: COM
-classification_upper_length_4: COMP
-classification_upper_length_5: COMPU
-classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 2_generation
 description_main_capital: 2 Generation
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '2_'
-description_main_length_3: 2_g
-description_main_length_4: 2_ge
-description_main_length_5: 2_gen
-description_main_length_6: 2_gene
-description_main_name: 2 Generation
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: 2g
-description_main_no_space_length_3: 2ge
-description_main_no_space_length_4: 2gen
-description_main_no_space_length_5: 2gene
-description_main_no_space_length_6: 2gener
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: 2G
-description_main_no_space_upper_length_3: 2GE
-description_main_no_space_upper_length_4: 2GEN
-description_main_no_space_upper_length_5: 2GENE
-description_main_no_space_upper_length_6: 2GENER
 description_main_upper: 2_GENERATION
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '2_'
-description_main_upper_length_3: 2_G
-description_main_upper_length_4: 2_GE
-description_main_upper_length_5: 2_GEN
-description_main_upper_length_6: 2_GENE
 description_only_numbers: '2'
 description_only_numbers_short: '2'
 description_or_color: '2'
 description_or_color_upper: '2'
 directory: parts/computer_tablet_kindle_paperwhite_2_generation_amazon
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_kindle_paperwhite_2_generation_amazon
 id: computer_tablet_kindle_paperwhite_2_generation_amazon
 id_no_class: kindle_paperwhite_2_generation_amazon
-id_no_color: 2generationamazon
 id_no_size: 2generationamazon
 id_no_type: 2_generation_amazon
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_2_generation_amazon
@@ -136,32 +35,7 @@ manufacturer: amazon
 manufacturer_capital: Amazon
 manufacturer_first_letter: a
 manufacturer_first_letter_upper: A
-manufacturer_length_1: a
-manufacturer_length_2: am
-manufacturer_length_3: ama
-manufacturer_length_4: amaz
-manufacturer_length_5: amazo
-manufacturer_length_6: amazon
-manufacturer_name: Amazon
-manufacturer_no_space_length_1: a
-manufacturer_no_space_length_2: am
-manufacturer_no_space_length_3: ama
-manufacturer_no_space_length_4: amaz
-manufacturer_no_space_length_5: amazo
-manufacturer_no_space_length_6: amazon
-manufacturer_no_space_upper_length_1: A
-manufacturer_no_space_upper_length_2: AM
-manufacturer_no_space_upper_length_3: AMA
-manufacturer_no_space_upper_length_4: AMAZ
-manufacturer_no_space_upper_length_5: AMAZO
-manufacturer_no_space_upper_length_6: AMAZON
 manufacturer_upper: AMAZON
-manufacturer_upper_length_1: A
-manufacturer_upper_length_2: AM
-manufacturer_upper_length_3: AMA
-manufacturer_upper_length_4: AMAZ
-manufacturer_upper_length_5: AMAZO
-manufacturer_upper_length_6: AMAZON
 manufacturers: []
 markdown_full: '[computer_tablet_kindle_paperwhite_2_generation_amazon](none)<br>[](none)<br>[Computer
   Tablet Kindle Paperwhite 2 Generation Amazon](none)<br><br>'
@@ -177,7 +51,6 @@ md5_6_alpha_upper: 93XFZ
 md5_6_upper: E9750F
 name: Computer Tablet Kindle Paperwhite 2 Generation Amazon
 name_no_class: Kindle Paperwhite 2 Generation Amazon
-name_no_color: 2Generationamazon
 name_no_size: 2Generationamazon
 name_no_size_short: 2Generationamazon
 name_no_type: 2 Generation Amazon
@@ -196,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -204,7 +76,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -212,29 +83,4 @@ type: kindle_paperwhite
 type_capital: Kindle Paperwhite
 type_first_letter: k
 type_first_letter_upper: K
-type_length_1: k
-type_length_2: ki
-type_length_3: kin
-type_length_4: kind
-type_length_5: kindl
-type_length_6: kindle
-type_name: Kindle Paperwhite
-type_no_space_length_1: k
-type_no_space_length_2: ki
-type_no_space_length_3: kin
-type_no_space_length_4: kind
-type_no_space_length_5: kindl
-type_no_space_length_6: kindle
-type_no_space_upper_length_1: K
-type_no_space_upper_length_2: KI
-type_no_space_upper_length_3: KIN
-type_no_space_upper_length_4: KIND
-type_no_space_upper_length_5: KINDL
-type_no_space_upper_length_6: KINDLE
 type_upper: KINDLE_PAPERWHITE
-type_upper_length_1: K
-type_upper_length_2: KI
-type_upper_length_3: KIN
-type_upper_length_4: KIND
-type_upper_length_5: KINDL
-type_upper_length_6: KINDLE

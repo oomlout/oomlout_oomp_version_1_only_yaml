@@ -1,146 +1,23 @@
-bip_39_word_dash_12: venture-essay-mixture-lend-consider-quick-fluid-apple-tail-public-zero-acquire
-bip_39_word_dash_2: venture-essay
-bip_39_word_dash_3: venture-essay-mixture
-bip_39_word_new_br_12: venture<br>essay<br>mixture<br>lend<br>consider<br>quick<br>fluid<br>apple<br>tail<br>public<br>zero<br>acquire
-bip_39_word_new_br_2: venture<br>essay
-bip_39_word_new_br_3: venture<br>essay<br>mixture
-bip_39_word_new_line_12: 'venture
-
-  essay
-
-  mixture
-
-  lend
-
-  consider
-
-  quick
-
-  fluid
-
-  apple
-
-  tail
-
-  public
-
-  zero
-
-  acquire'
-bip_39_word_new_line_2: 'venture
-
-  essay'
-bip_39_word_new_line_3: 'venture
-
-  essay
-
-  mixture'
-bip_39_word_no_space_12: ventureessaymixturelendconsiderquickfluidappletailpubliczeroacquire
-bip_39_word_no_space_2: ventureessay
-bip_39_word_no_space_3: ventureessaymixture
-bip_39_word_space_12: venture essay mixture lend consider quick fluid apple tail public
-  zero acquire
-bip_39_word_space_2: venture essay
-bip_39_word_space_3: venture essay mixture
-bip_39_word_underscore_12: venture_essay_mixture_lend_consider_quick_fluid_apple_tail_public_zero_acquire
-bip_39_word_underscore_2: venture_essay
-bip_39_word_underscore_3: venture_essay_mixture
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 2_54_mm_dual_row
 color_capital: 2.54 mm Dual Row
 color_first_letter: '2'
 color_first_letter_upper: '2'
-color_length_1: '2'
-color_length_2: '2_'
-color_length_3: '2_5'
-color_length_4: '2_54'
-color_length_5: '2_54_'
-color_length_6: 2_54_m
-color_name: 2 54 mm Dual Row
-color_no_space_length_1: '2'
-color_no_space_length_2: '25'
-color_no_space_length_3: '254'
-color_no_space_length_4: 254m
-color_no_space_length_5: 254mm
-color_no_space_length_6: 254mmd
-color_no_space_upper_length_1: '2'
-color_no_space_upper_length_2: '25'
-color_no_space_upper_length_3: '254'
-color_no_space_upper_length_4: 254M
-color_no_space_upper_length_5: 254MM
-color_no_space_upper_length_6: 254MMD
 color_upper: 2_54_MM_DUAL_ROW
-color_upper_length_1: '2'
-color_upper_length_2: '2_'
-color_upper_length_3: '2_5'
-color_upper_length_4: '2_54'
-color_upper_length_5: '2_54_'
-color_upper_length_6: 2_54_M
 description: category_electronic
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_electronic_header_2_54_mm_dual_row_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_header_2_54_mm_dual_row_tote
 id: category_electronic_header_2_54_mm_dual_row_tote
 id_no_class: electronic_header_2_54_mm_dual_row_tote
-id_no_color: tote
 id_no_size: 2_54_mm_dual_row_tote
 id_no_type: header_2_54_mm_dual_row_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_dual_row_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_header_2_54_mm_dual_row_tote](none)<br>[](none)<br>[Category
@@ -178,12 +52,11 @@ md5_6: 23ff6b
 md5_6_alpha: 1ekbv
 md5_6_alpha_upper: 1EKBV
 md5_6_upper: 23FF6B
-name: Category Electronic Header 2 54 mm Dual Row Tote
-name_no_class: Electronic Header 2 54 mm Dual Row Tote
-name_no_color: Tote
-name_no_size: 2 54 mm Dual Row Tote
+name: Category Electronic Header 2 54 Mm Dual Row Tote
+name_no_class: Electronic Header 2 54 Mm Dual Row Tote
+name_no_size: 2 54 Mm Dual Row Tote
 name_no_size_short: 2 54 Mm Dual Row Tote
-name_no_type: Header 2 54 mm Dual Row Tote
+name_no_type: Header 2 54 Mm Dual Row Tote
 oomp_key: oomp_category_electronic_header_2_54_mm_dual_row_tote
 oomp_word: kiss trident chestnut
 oomp_word_emoji: ':kiss: :trident: :chestnut:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: header
 size_capital: Header
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: hea
-size_length_4: head
-size_length_5: heade
-size_length_6: header
-size_name: Header
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: hea
-size_no_space_length_4: head
-size_no_space_length_5: heade
-size_no_space_length_6: header
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HEA
-size_no_space_upper_length_4: HEAD
-size_no_space_upper_length_5: HEADE
-size_no_space_upper_length_6: HEADER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HEADER
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HEA
-size_upper_length_4: HEAD
-size_upper_length_5: HEADE
-size_upper_length_6: HEADER
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

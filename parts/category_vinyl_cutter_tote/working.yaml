@@ -1,122 +1,23 @@
-bip_39_word_dash_12: ranch-vote-carry-know-element-lend-ghost-unveil-glass-reject-cross-asset
-bip_39_word_dash_2: ranch-vote
-bip_39_word_dash_3: ranch-vote-carry
-bip_39_word_new_br_12: ranch<br>vote<br>carry<br>know<br>element<br>lend<br>ghost<br>unveil<br>glass<br>reject<br>cross<br>asset
-bip_39_word_new_br_2: ranch<br>vote
-bip_39_word_new_br_3: ranch<br>vote<br>carry
-bip_39_word_new_line_12: 'ranch
-
-  vote
-
-  carry
-
-  know
-
-  element
-
-  lend
-
-  ghost
-
-  unveil
-
-  glass
-
-  reject
-
-  cross
-
-  asset'
-bip_39_word_new_line_2: 'ranch
-
-  vote'
-bip_39_word_new_line_3: 'ranch
-
-  vote
-
-  carry'
-bip_39_word_no_space_12: ranchvotecarryknowelementlendghostunveilglassrejectcrossasset
-bip_39_word_no_space_2: ranchvote
-bip_39_word_no_space_3: ranchvotecarry
-bip_39_word_space_12: ranch vote carry know element lend ghost unveil glass reject
-  cross asset
-bip_39_word_space_2: ranch vote
-bip_39_word_space_3: ranch vote carry
-bip_39_word_underscore_12: ranch_vote_carry_know_element_lend_ghost_unveil_glass_reject_cross_asset
-bip_39_word_underscore_2: ranch_vote
-bip_39_word_underscore_3: ranch_vote_carry
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_vinyl_cutter
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_vinyl_cutter_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_vinyl_cutter_tote
 id: category_vinyl_cutter_tote
 id_no_class: vinyl_cutter_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_vinyl_cutter_tote](none)<br>[](none)<br>[Category Vinyl
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 8ISDP
 md5_6_upper: DA682D
 name: Category Vinyl Cutter Tote
 name_no_class: Vinyl Cutter Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -193,29 +88,4 @@ type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vin
-type_length_4: viny
-type_length_5: vinyl
-type_length_6: vinyl_
-type_name: Vinyl Cutter
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vin
-type_no_space_length_4: viny
-type_no_space_length_5: vinyl
-type_no_space_length_6: vinylc
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VIN
-type_no_space_upper_length_4: VINY
-type_no_space_upper_length_5: VINYL
-type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VIN
-type_upper_length_4: VINY
-type_upper_length_5: VINYL
-type_upper_length_6: VINYL_

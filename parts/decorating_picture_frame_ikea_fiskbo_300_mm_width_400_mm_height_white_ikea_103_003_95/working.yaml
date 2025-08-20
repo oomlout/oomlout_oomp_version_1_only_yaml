@@ -1,156 +1,31 @@
-bip_39_word_dash_12: album-finger-secret-dinner-all-sorry-outside-toast-proud-digital-uncle-average
-bip_39_word_dash_2: album-finger
-bip_39_word_dash_3: album-finger-secret
-bip_39_word_new_br_12: album<br>finger<br>secret<br>dinner<br>all<br>sorry<br>outside<br>toast<br>proud<br>digital<br>uncle<br>average
-bip_39_word_new_br_2: album<br>finger
-bip_39_word_new_br_3: album<br>finger<br>secret
-bip_39_word_new_line_12: 'album
-
-  finger
-
-  secret
-
-  dinner
-
-  all
-
-  sorry
-
-  outside
-
-  toast
-
-  proud
-
-  digital
-
-  uncle
-
-  average'
-bip_39_word_new_line_2: 'album
-
-  finger'
-bip_39_word_new_line_3: 'album
-
-  finger
-
-  secret'
-bip_39_word_no_space_12: albumfingersecretdinnerallsorryoutsidetoastprouddigitaluncleaverage
-bip_39_word_no_space_2: albumfinger
-bip_39_word_no_space_3: albumfingersecret
-bip_39_word_space_12: album finger secret dinner all sorry outside toast proud digital
-  uncle average
-bip_39_word_space_2: album finger
-bip_39_word_space_3: album finger secret
-bip_39_word_underscore_12: album_finger_secret_dinner_all_sorry_outside_toast_proud_digital_uncle_average
-bip_39_word_underscore_2: album_finger
-bip_39_word_underscore_3: album_finger_secret
 classification: decorating
 classification_capital: Decorating
 classification_first_letter: d
 classification_first_letter_upper: D
-classification_length_1: d
-classification_length_2: de
-classification_length_3: dec
-classification_length_4: deco
-classification_length_5: decor
-classification_length_6: decora
-classification_name: Decorating
-classification_no_space_length_1: d
-classification_no_space_length_2: de
-classification_no_space_length_3: dec
-classification_no_space_length_4: deco
-classification_no_space_length_5: decor
-classification_no_space_length_6: decora
-classification_no_space_upper_length_1: D
-classification_no_space_upper_length_2: DE
-classification_no_space_upper_length_3: DEC
-classification_no_space_upper_length_4: DECO
-classification_no_space_upper_length_5: DECOR
-classification_no_space_upper_length_6: DECORA
 classification_upper: DECORATING
-classification_upper_length_1: D
-classification_upper_length_2: DE
-classification_upper_length_3: DEC
-classification_upper_length_4: DECO
-classification_upper_length_5: DECOR
-classification_upper_length_6: DECORA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: white
 description_extra_capital: White
 description_extra_first_letter: w
 description_extra_first_letter_upper: W
-description_extra_length_1: w
-description_extra_length_2: wh
-description_extra_length_3: whi
-description_extra_length_4: whit
-description_extra_length_5: white
-description_extra_length_6: white
-description_extra_name: White
-description_extra_no_space_length_1: w
-description_extra_no_space_length_2: wh
-description_extra_no_space_length_3: whi
-description_extra_no_space_length_4: whit
-description_extra_no_space_length_5: white
-description_extra_no_space_length_6: white
-description_extra_no_space_upper_length_1: W
-description_extra_no_space_upper_length_2: WH
-description_extra_no_space_upper_length_3: WHI
-description_extra_no_space_upper_length_4: WHIT
-description_extra_no_space_upper_length_5: WHITE
-description_extra_no_space_upper_length_6: WHITE
 description_extra_upper: WHITE
-description_extra_upper_length_1: W
-description_extra_upper_length_2: WH
-description_extra_upper_length_3: WHI
-description_extra_upper_length_4: WHIT
-description_extra_upper_length_5: WHITE
-description_extra_upper_length_6: WHITE
 description_main: 300_mm_width_400_mm_height
 description_main_capital: 300 mm Width 400 mm Height
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '30'
-description_main_length_3: '300'
-description_main_length_4: '300_'
-description_main_length_5: 300_m
-description_main_length_6: 300_mm
-description_main_name: 300 mm Width 400 mm Height
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '30'
-description_main_no_space_length_3: '300'
-description_main_no_space_length_4: 300m
-description_main_no_space_length_5: 300mm
-description_main_no_space_length_6: 300mmw
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '30'
-description_main_no_space_upper_length_3: '300'
-description_main_no_space_upper_length_4: 300M
-description_main_no_space_upper_length_5: 300MM
-description_main_no_space_upper_length_6: 300MMW
 description_main_upper: 300_MM_WIDTH_400_MM_HEIGHT
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '30'
-description_main_upper_length_3: '300'
-description_main_upper_length_4: '300_'
-description_main_upper_length_5: 300_M
-description_main_upper_length_6: 300_MM
 description_only_numbers: '300400'
 description_only_numbers_short: 300k
 description_or_color: 300k
 description_or_color_upper: 300K
 directory: parts/decorating_picture_frame_ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/decorating_picture_frame_ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95
 id: decorating_picture_frame_ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95
 id_no_class: picture_frame_ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95
-id_no_color: 300mmwidth400mmheightwhiteikea10300395
 id_no_size: 300_mm_width_400_mm_height_white_ikea_103_003_95
 id_no_type: ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95
 link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=103.003.95
@@ -161,32 +36,7 @@ manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
-manufacturer_length_1: i
-manufacturer_length_2: ik
-manufacturer_length_3: ike
-manufacturer_length_4: ikea
-manufacturer_length_5: ikea
-manufacturer_length_6: ikea
-manufacturer_name: Ikea
-manufacturer_no_space_length_1: i
-manufacturer_no_space_length_2: ik
-manufacturer_no_space_length_3: ike
-manufacturer_no_space_length_4: ikea
-manufacturer_no_space_length_5: ikea
-manufacturer_no_space_length_6: ikea
-manufacturer_no_space_upper_length_1: I
-manufacturer_no_space_upper_length_2: IK
-manufacturer_no_space_upper_length_3: IKE
-manufacturer_no_space_upper_length_4: IKEA
-manufacturer_no_space_upper_length_5: IKEA
-manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
-manufacturer_upper_length_1: I
-manufacturer_upper_length_2: IK
-manufacturer_upper_length_3: IKE
-manufacturer_upper_length_4: IKEA
-manufacturer_upper_length_5: IKEA
-manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[decorating_picture_frame_ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95](none)<br>[](none)<br>[Decorating
   Picture Frame Ikea Fiskbo 300 Mm Width 400 Mm Height White Ikea 103 003 95](none)<br><br>'
@@ -200,14 +50,13 @@ md5_6: fdd90f
 md5_6_alpha: 9wkjz
 md5_6_alpha_upper: 9WKJZ
 md5_6_upper: FDD90F
-name: Decorating Picture Frame Ikea Fiskbo 300 mm Width 400 mm Height White Ikea 103
+name: Decorating Picture Frame Ikea Fiskbo 300 Mm Width 400 Mm Height White Ikea 103
   003 95
-name_no_class: Picture Frame Ikea Fiskbo 300 mm Width 400 mm Height White Ikea 103
+name_no_class: Picture Frame Ikea Fiskbo 300 Mm Width 400 Mm Height White Ikea 103
   003 95
-name_no_color: 300mmwidth400mmheightwhiteikea10300395
-name_no_size: 300 mm Width 400 mm Height White Ikea 103 003 95
+name_no_size: 300 Mm Width 400 Mm Height White Ikea 103 003 95
 name_no_size_short: 300 Mm Width 400 Mm Height White Ikea 103 003 95
-name_no_type: Ikea Fiskbo 300 mm Width 400 mm Height White Ikea 103 003 95
+name_no_type: Ikea Fiskbo 300 Mm Width 400 Mm Height White Ikea 103 003 95
 oomp_key: oomp_decorating_picture_frame_ikea_fiskbo_300_mm_width_400_mm_height_white_ikea_103_003_95
 oomp_word: parking bank sparkles
 oomp_word_emoji: ':parking: :bank: :sparkles:'
@@ -224,93 +73,18 @@ part_number_capital: 103 003.95
 part_number_exact: 103.003.95
 part_number_first_letter: '1'
 part_number_first_letter_upper: '1'
-part_number_length_1: '1'
-part_number_length_2: '10'
-part_number_length_3: '103'
-part_number_length_4: '103_'
-part_number_length_5: '103_0'
-part_number_length_6: '103_00'
-part_number_name: 103 003 95
-part_number_no_space_length_1: '1'
-part_number_no_space_length_2: '10'
-part_number_no_space_length_3: '103'
-part_number_no_space_length_4: '1030'
-part_number_no_space_length_5: '10300'
-part_number_no_space_length_6: '103003'
-part_number_no_space_upper_length_1: '1'
-part_number_no_space_upper_length_2: '10'
-part_number_no_space_upper_length_3: '103'
-part_number_no_space_upper_length_4: '1030'
-part_number_no_space_upper_length_5: '10300'
-part_number_no_space_upper_length_6: '103003'
 part_number_upper: '103_003_95'
-part_number_upper_length_1: '1'
-part_number_upper_length_2: '10'
-part_number_upper_length_3: '103'
-part_number_upper_length_4: '103_'
-part_number_upper_length_5: '103_0'
-part_number_upper_length_6: '103_00'
 short_code: ''
 short_code_upper: ''
 size: ikea_fiskbo
 size_capital: Ikea Fiskbo
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: ik
-size_length_3: ike
-size_length_4: ikea
-size_length_5: ikea_
-size_length_6: ikea_f
-size_name: Ikea Fiskbo
-size_no_space_length_1: i
-size_no_space_length_2: ik
-size_no_space_length_3: ike
-size_no_space_length_4: ikea
-size_no_space_length_5: ikeaf
-size_no_space_length_6: ikeafi
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IK
-size_no_space_upper_length_3: IKE
-size_no_space_upper_length_4: IKEA
-size_no_space_upper_length_5: IKEAF
-size_no_space_upper_length_6: IKEAFI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IKEA_FISKBO
-size_upper_length_1: I
-size_upper_length_2: IK
-size_upper_length_3: IKE
-size_upper_length_4: IKEA
-size_upper_length_5: IKEA_
-size_upper_length_6: IKEA_F
 type: picture_frame
 type_capital: Picture Frame
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pi
-type_length_3: pic
-type_length_4: pict
-type_length_5: pictu
-type_length_6: pictur
-type_name: Picture Frame
-type_no_space_length_1: p
-type_no_space_length_2: pi
-type_no_space_length_3: pic
-type_no_space_length_4: pict
-type_no_space_length_5: pictu
-type_no_space_length_6: pictur
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PI
-type_no_space_upper_length_3: PIC
-type_no_space_upper_length_4: PICT
-type_no_space_upper_length_5: PICTU
-type_no_space_upper_length_6: PICTUR
 type_upper: PICTURE_FRAME
-type_upper_length_1: P
-type_upper_length_2: PI
-type_upper_length_3: PIC
-type_upper_length_4: PICT
-type_upper_length_5: PICTU
-type_upper_length_6: PICTUR

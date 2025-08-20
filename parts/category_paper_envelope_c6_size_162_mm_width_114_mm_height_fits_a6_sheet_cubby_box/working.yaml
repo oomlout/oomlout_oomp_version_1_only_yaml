@@ -1,146 +1,23 @@
-bip_39_word_dash_12: digital-loyal-best-wall-close-act-wagon-sustain-rely-latin-under-apology
-bip_39_word_dash_2: digital-loyal
-bip_39_word_dash_3: digital-loyal-best
-bip_39_word_new_br_12: digital<br>loyal<br>best<br>wall<br>close<br>act<br>wagon<br>sustain<br>rely<br>latin<br>under<br>apology
-bip_39_word_new_br_2: digital<br>loyal
-bip_39_word_new_br_3: digital<br>loyal<br>best
-bip_39_word_new_line_12: 'digital
-
-  loyal
-
-  best
-
-  wall
-
-  close
-
-  act
-
-  wagon
-
-  sustain
-
-  rely
-
-  latin
-
-  under
-
-  apology'
-bip_39_word_new_line_2: 'digital
-
-  loyal'
-bip_39_word_new_line_3: 'digital
-
-  loyal
-
-  best'
-bip_39_word_no_space_12: digitalloyalbestwallcloseactwagonsustainrelylatinunderapology
-bip_39_word_no_space_2: digitalloyal
-bip_39_word_no_space_3: digitalloyalbest
-bip_39_word_space_12: digital loyal best wall close act wagon sustain rely latin under
-  apology
-bip_39_word_space_2: digital loyal
-bip_39_word_space_3: digital loyal best
-bip_39_word_underscore_12: digital_loyal_best_wall_close_act_wagon_sustain_rely_latin_under_apology
-bip_39_word_underscore_2: digital_loyal
-bip_39_word_underscore_3: digital_loyal_best
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: c6_size_162_mm_width_114_mm_height_fits_a6_sheet
 color_capital: C6 Size 162 mm Width 114 mm Height Fits A6 Sheet
 color_first_letter: c
 color_first_letter_upper: C
-color_length_1: c
-color_length_2: c6
-color_length_3: c6_
-color_length_4: c6_s
-color_length_5: c6_si
-color_length_6: c6_siz
-color_name: C6 Size 162 mm Width 114 mm Height Fits A6 Sheet
-color_no_space_length_1: c
-color_no_space_length_2: c6
-color_no_space_length_3: c6s
-color_no_space_length_4: c6si
-color_no_space_length_5: c6siz
-color_no_space_length_6: c6size
-color_no_space_upper_length_1: C
-color_no_space_upper_length_2: C6
-color_no_space_upper_length_3: C6S
-color_no_space_upper_length_4: C6SI
-color_no_space_upper_length_5: C6SIZ
-color_no_space_upper_length_6: C6SIZE
 color_upper: C6_SIZE_162_MM_WIDTH_114_MM_HEIGHT_FITS_A6_SHEET
-color_upper_length_1: C
-color_upper_length_2: C6
-color_upper_length_3: C6_
-color_upper_length_4: C6_S
-color_upper_length_5: C6_SI
-color_upper_length_6: C6_SIZ
 description: category_paper
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_paper_envelope_c6_size_162_mm_width_114_mm_height_fits
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
 id: category_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
 id_no_class: paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
-id_no_color: cubby_box
 id_no_size: c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
 id_no_type: envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box](none)<br>[](none)<br>[Category
@@ -178,14 +52,13 @@ md5_6: a7d99f
 md5_6_alpha: 6jrtr
 md5_6_alpha_upper: 6JRTR
 md5_6_upper: A7D99F
-name: Category Paper Envelope C6 Size 162 mm Width 114 mm Height Fits A6 Sheet Cubby
+name: Category Paper Envelope C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet Cubby
   Box
-name_no_class: Paper Envelope C6 Size 162 mm Width 114 mm Height Fits A6 Sheet Cubby
+name_no_class: Paper Envelope C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet Cubby
   Box
-name_no_color: Cubby Box
-name_no_size: C6 Size 162 mm Width 114 mm Height Fits A6 Sheet Cubby Box
+name_no_size: C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet Cubby Box
 name_no_size_short: C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet Cubby Box
-name_no_type: Envelope C6 Size 162 mm Width 114 mm Height Fits A6 Sheet Cubby Box
+name_no_type: Envelope C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet Cubby Box
 oomp_key: oomp_category_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet_cubby_box
 oomp_word: guitar bank diamonds
 oomp_word_emoji: ':guitar: :bank: :diamonds:'
@@ -202,7 +75,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -211,61 +83,11 @@ size: envelope
 size_capital: Envelope
 size_first_letter: e
 size_first_letter_upper: E
-size_length_1: e
-size_length_2: en
-size_length_3: env
-size_length_4: enve
-size_length_5: envel
-size_length_6: envelo
-size_name: Envelope
-size_no_space_length_1: e
-size_no_space_length_2: en
-size_no_space_length_3: env
-size_no_space_length_4: enve
-size_no_space_length_5: envel
-size_no_space_length_6: envelo
-size_no_space_upper_length_1: E
-size_no_space_upper_length_2: EN
-size_no_space_upper_length_3: ENV
-size_no_space_upper_length_4: ENVE
-size_no_space_upper_length_5: ENVEL
-size_no_space_upper_length_6: ENVELO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ENVELOPE
-size_upper_length_1: E
-size_upper_length_2: EN
-size_upper_length_3: ENV
-size_upper_length_4: ENVE
-size_upper_length_5: ENVEL
-size_upper_length_6: ENVELO
 type: paper
 type_capital: Paper
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pap
-type_length_4: pape
-type_length_5: paper
-type_length_6: paper
-type_name: Paper
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pap
-type_no_space_length_4: pape
-type_no_space_length_5: paper
-type_no_space_length_6: paper
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAP
-type_no_space_upper_length_4: PAPE
-type_no_space_upper_length_5: PAPER
-type_no_space_upper_length_6: PAPER
 type_upper: PAPER
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAP
-type_upper_length_4: PAPE
-type_upper_length_5: PAPER
-type_upper_length_6: PAPER

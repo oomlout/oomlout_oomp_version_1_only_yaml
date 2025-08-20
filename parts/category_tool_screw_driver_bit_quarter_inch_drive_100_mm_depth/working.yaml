@@ -1,122 +1,23 @@
-bip_39_word_dash_12: nasty-prosper-woman-report-energy-south-confirm-hunt-robust-pen-clump-address
-bip_39_word_dash_2: nasty-prosper
-bip_39_word_dash_3: nasty-prosper-woman
-bip_39_word_new_br_12: nasty<br>prosper<br>woman<br>report<br>energy<br>south<br>confirm<br>hunt<br>robust<br>pen<br>clump<br>address
-bip_39_word_new_br_2: nasty<br>prosper
-bip_39_word_new_br_3: nasty<br>prosper<br>woman
-bip_39_word_new_line_12: 'nasty
-
-  prosper
-
-  woman
-
-  report
-
-  energy
-
-  south
-
-  confirm
-
-  hunt
-
-  robust
-
-  pen
-
-  clump
-
-  address'
-bip_39_word_new_line_2: 'nasty
-
-  prosper'
-bip_39_word_new_line_3: 'nasty
-
-  prosper
-
-  woman'
-bip_39_word_no_space_12: nastyprosperwomanreportenergysouthconfirmhuntrobustpenclumpaddress
-bip_39_word_no_space_2: nastyprosper
-bip_39_word_no_space_3: nastyprosperwoman
-bip_39_word_space_12: nasty prosper woman report energy south confirm hunt robust
-  pen clump address
-bip_39_word_space_2: nasty prosper
-bip_39_word_space_3: nasty prosper woman
-bip_39_word_underscore_12: nasty_prosper_woman_report_energy_south_confirm_hunt_robust_pen_clump_address
-bip_39_word_underscore_2: nasty_prosper
-bip_39_word_underscore_3: nasty_prosper_woman
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: quarter_inch_drive_100_mm_depth
 color_capital: Quarter Inch Drive 100 mm Depth
 color_first_letter: q
 color_first_letter_upper: Q
-color_length_1: q
-color_length_2: qu
-color_length_3: qua
-color_length_4: quar
-color_length_5: quart
-color_length_6: quarte
-color_name: Quarter Inch Drive 100 mm Depth
-color_no_space_length_1: q
-color_no_space_length_2: qu
-color_no_space_length_3: qua
-color_no_space_length_4: quar
-color_no_space_length_5: quart
-color_no_space_length_6: quarte
-color_no_space_upper_length_1: Q
-color_no_space_upper_length_2: QU
-color_no_space_upper_length_3: QUA
-color_no_space_upper_length_4: QUAR
-color_no_space_upper_length_5: QUART
-color_no_space_upper_length_6: QUARTE
 color_upper: QUARTER_INCH_DRIVE_100_MM_DEPTH
-color_upper_length_1: Q
-color_upper_length_2: QU
-color_upper_length_3: QUA
-color_upper_length_4: QUAR
-color_upper_length_5: QUART
-color_upper_length_6: QUARTE
 description: category_tool
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth
 id: category_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth
 id_no_class: tool_screw_driver_bit_quarter_inch_drive_100_mm_depth
-id_no_color: quarter_inch_drive_100_mm_depth
 id_no_size: quarter_inch_drive_100_mm_depth
 id_no_type: screw_driver_bit_quarter_inch_drive_100_mm_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth](none)<br>[](none)<br>[Category
@@ -154,12 +52,11 @@ md5_6: 3658a8
 md5_6_alpha: 24c6g
 md5_6_alpha_upper: 24C6G
 md5_6_upper: 3658A8
-name: Category Tool Screw Driver Bit Quarter Inch Drive 100 mm Depth
-name_no_class: Tool Screw Driver Bit Quarter Inch Drive 100 mm Depth
-name_no_color: Quarter Inch Drive 100 mm Depth
-name_no_size: Quarter Inch Drive 100 mm Depth
+name: Category Tool Screw Driver Bit Quarter Inch Drive 100 Mm Depth
+name_no_class: Tool Screw Driver Bit Quarter Inch Drive 100 Mm Depth
+name_no_size: Quarter Inch Drive 100 Mm Depth
 name_no_size_short: Quarter Inch Drive 100 Mm Depth
-name_no_type: Screw Driver Bit Quarter Inch Drive 100 mm Depth
+name_no_type: Screw Driver Bit Quarter Inch Drive 100 Mm Depth
 oomp_key: oomp_category_tool_screw_driver_bit_quarter_inch_drive_100_mm_depth
 oomp_word: rabbit water_buffalo shoe
 oomp_word_emoji: ':rabbit: :water_buffalo: :shoe:'
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: screw_driver_bit
 size_capital: Screw Driver Bit
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sc
-size_length_3: scr
-size_length_4: scre
-size_length_5: screw
-size_length_6: screw_
-size_name: Screw Driver Bit
-size_no_space_length_1: s
-size_no_space_length_2: sc
-size_no_space_length_3: scr
-size_no_space_length_4: scre
-size_no_space_length_5: screw
-size_no_space_length_6: screwd
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SC
-size_no_space_upper_length_3: SCR
-size_no_space_upper_length_4: SCRE
-size_no_space_upper_length_5: SCREW
-size_no_space_upper_length_6: SCREWD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREW_DRIVER_BIT
-size_upper_length_1: S
-size_upper_length_2: SC
-size_upper_length_3: SCR
-size_upper_length_4: SCRE
-size_upper_length_5: SCREW
-size_upper_length_6: SCREW_
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

@@ -1,98 +1,23 @@
-bip_39_word_dash_12: powder-organ-text-plunge-render-airport-wisdom-apart-rough-size-warrior-amused
-bip_39_word_dash_2: powder-organ
-bip_39_word_dash_3: powder-organ-text
-bip_39_word_new_br_12: powder<br>organ<br>text<br>plunge<br>render<br>airport<br>wisdom<br>apart<br>rough<br>size<br>warrior<br>amused
-bip_39_word_new_br_2: powder<br>organ
-bip_39_word_new_br_3: powder<br>organ<br>text
-bip_39_word_new_line_12: 'powder
-
-  organ
-
-  text
-
-  plunge
-
-  render
-
-  airport
-
-  wisdom
-
-  apart
-
-  rough
-
-  size
-
-  warrior
-
-  amused'
-bip_39_word_new_line_2: 'powder
-
-  organ'
-bip_39_word_new_line_3: 'powder
-
-  organ
-
-  text'
-bip_39_word_no_space_12: powderorgantextplungerenderairportwisdomapartroughsizewarrioramused
-bip_39_word_no_space_2: powderorgan
-bip_39_word_no_space_3: powderorgantext
-bip_39_word_space_12: powder organ text plunge render airport wisdom apart rough size
-  warrior amused
-bip_39_word_space_2: powder organ
-bip_39_word_space_3: powder organ text
-bip_39_word_underscore_12: powder_organ_text_plunge_render_airport_wisdom_apart_rough_size_warrior_amused
-bip_39_word_underscore_2: powder_organ
-bip_39_word_underscore_3: powder_organ_text
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_hardware
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_hardware_screw_thread_forming
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_screw_thread_forming
 id: category_hardware_screw_thread_forming
 id_no_class: hardware_screw_thread_forming
-id_no_color: screwthreadforming
 id_no_size: screw_thread_forming
 id_no_type: screw_thread_forming
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_screw_thread_forming](none)<br>[](none)<br>[Category
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 55BJM
 md5_6_upper: 83EEB2
 name: Category Hardware Screw Thread Forming
 name_no_class: Hardware Screw Thread Forming
-name_no_color: Screwthreadforming
 name_no_size: Screw Thread Forming
 name_no_size_short: Screw Thread Forming
 name_no_type: Screw Thread Forming
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: screw_thread_forming
 size_capital: Screw Thread Forming
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sc
-size_length_3: scr
-size_length_4: scre
-size_length_5: screw
-size_length_6: screw_
-size_name: Screw Thread Forming
-size_no_space_length_1: s
-size_no_space_length_2: sc
-size_no_space_length_3: scr
-size_no_space_length_4: scre
-size_no_space_length_5: screw
-size_no_space_length_6: screwt
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SC
-size_no_space_upper_length_3: SCR
-size_no_space_upper_length_4: SCRE
-size_no_space_upper_length_5: SCREW
-size_no_space_upper_length_6: SCREWT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREW_THREAD_FORMING
-size_upper_length_1: S
-size_upper_length_2: SC
-size_upper_length_3: SCR
-size_upper_length_4: SCRE
-size_upper_length_5: SCREW
-size_upper_length_6: SCREW_
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA

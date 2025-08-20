@@ -1,146 +1,23 @@
-bip_39_word_dash_12: mean-exchange-promote-kingdom-truly-monkey-climb-unfair-clown-fence-credit-amateur
-bip_39_word_dash_2: mean-exchange
-bip_39_word_dash_3: mean-exchange-promote
-bip_39_word_new_br_12: mean<br>exchange<br>promote<br>kingdom<br>truly<br>monkey<br>climb<br>unfair<br>clown<br>fence<br>credit<br>amateur
-bip_39_word_new_br_2: mean<br>exchange
-bip_39_word_new_br_3: mean<br>exchange<br>promote
-bip_39_word_new_line_12: 'mean
-
-  exchange
-
-  promote
-
-  kingdom
-
-  truly
-
-  monkey
-
-  climb
-
-  unfair
-
-  clown
-
-  fence
-
-  credit
-
-  amateur'
-bip_39_word_new_line_2: 'mean
-
-  exchange'
-bip_39_word_new_line_3: 'mean
-
-  exchange
-
-  promote'
-bip_39_word_no_space_12: meanexchangepromotekingdomtrulymonkeyclimbunfairclownfencecreditamateur
-bip_39_word_no_space_2: meanexchange
-bip_39_word_no_space_3: meanexchangepromote
-bip_39_word_space_12: mean exchange promote kingdom truly monkey climb unfair clown
-  fence credit amateur
-bip_39_word_space_2: mean exchange
-bip_39_word_space_3: mean exchange promote
-bip_39_word_underscore_12: mean_exchange_promote_kingdom_truly_monkey_climb_unfair_clown_fence_credit_amateur
-bip_39_word_underscore_2: mean_exchange
-bip_39_word_underscore_3: mean_exchange_promote
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: 3_pin_ground_pin_2
 color_capital: 3 Pin Ground Pin 2
 color_first_letter: '3'
 color_first_letter_upper: '3'
-color_length_1: '3'
-color_length_2: '3_'
-color_length_3: 3_p
-color_length_4: 3_pi
-color_length_5: 3_pin
-color_length_6: 3_pin_
-color_name: 3 Pin Ground Pin 2
-color_no_space_length_1: '3'
-color_no_space_length_2: 3p
-color_no_space_length_3: 3pi
-color_no_space_length_4: 3pin
-color_no_space_length_5: 3ping
-color_no_space_length_6: 3pingr
-color_no_space_upper_length_1: '3'
-color_no_space_upper_length_2: 3P
-color_no_space_upper_length_3: 3PI
-color_no_space_upper_length_4: 3PIN
-color_no_space_upper_length_5: 3PING
-color_no_space_upper_length_6: 3PINGR
 color_upper: 3_PIN_GROUND_PIN_2
-color_upper_length_1: '3'
-color_upper_length_2: '3_'
-color_upper_length_3: 3_P
-color_upper_length_4: 3_PI
-color_upper_length_5: 3_PIN
-color_upper_length_6: 3_PIN_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 12_mega_hertz
 description_main_capital: 12 Mega Hertz
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '12'
-description_main_length_3: '12_'
-description_main_length_4: 12_m
-description_main_length_5: 12_me
-description_main_length_6: 12_meg
-description_main_name: 12 Mega Hertz
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '12'
-description_main_no_space_length_3: 12m
-description_main_no_space_length_4: 12me
-description_main_no_space_length_5: 12meg
-description_main_no_space_length_6: 12mega
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '12'
-description_main_no_space_upper_length_3: 12M
-description_main_no_space_upper_length_4: 12ME
-description_main_no_space_upper_length_5: 12MEG
-description_main_no_space_upper_length_6: 12MEGA
 description_main_upper: 12_MEGA_HERTZ
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '12'
-description_main_upper_length_3: '12_'
-description_main_upper_length_4: 12_M
-description_main_upper_length_5: 12_ME
-description_main_upper_length_6: 12_MEG
 description_only_numbers: '12'
 description_only_numbers_short: '12'
 description_or_color: '312'
@@ -164,10 +41,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_xcr3213mhz12_electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
 id: electronic_ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
 id_no_class: ceramic_resonator_3213_3_pin_ground_pin_2_12_mega_hertz
-id_no_color: 12_mega_hertz
 id_no_size: 3_pin_ground_pin_2_12_mega_hertz
 id_no_type: 3213_3_pin_ground_pin_2_12_mega_hertz
 kicad_reference: x
@@ -178,7 +53,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_murata
@@ -202,7 +76,6 @@ md5_6_alpha_upper: 4RXG5
 md5_6_upper: 7A6615
 name: Electronic Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz
 name_no_class: Ceramic Resonator 3213 3 Pin Ground Pin 2 12 Mega Hertz
-name_no_color: 12 Mega Hertz
 name_no_size: 3 Pin Ground Pin 2 12 Mega Hertz
 name_no_size_short: 3 Pin Ground Pin 2 12 Mega Hertz
 name_no_type: 3213 3 Pin Ground Pin 2 12 Mega Hertz
@@ -221,7 +94,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: xcr3213mhz12
 short_code_upper: XCR3213MHZ12
@@ -229,34 +101,9 @@ size: '3213'
 size_capital: '3213'
 size_first_letter: '3'
 size_first_letter_upper: '3'
-size_length_1: '3'
-size_length_2: '32'
-size_length_3: '321'
-size_length_4: '3213'
-size_length_5: '3213'
-size_length_6: '3213'
-size_name: '3213'
-size_no_space_length_1: '3'
-size_no_space_length_2: '32'
-size_no_space_length_3: '321'
-size_no_space_length_4: '3213'
-size_no_space_length_5: '3213'
-size_no_space_length_6: '3213'
-size_no_space_upper_length_1: '3'
-size_no_space_upper_length_2: '32'
-size_no_space_upper_length_3: '321'
-size_no_space_upper_length_4: '3213'
-size_no_space_upper_length_5: '3213'
-size_no_space_upper_length_6: '3213'
 size_only_numbers: '3213'
 size_only_numbers_no_zeros: '3213'
 size_upper: '3213'
-size_upper_length_1: '3'
-size_upper_length_2: '32'
-size_upper_length_3: '321'
-size_upper_length_4: '3213'
-size_upper_length_5: '3213'
-size_upper_length_6: '3213'
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_crystal_gnd2//working/working.kicad_sym
   index: 0
@@ -266,29 +113,4 @@ type: ceramic_resonator
 type_capital: Ceramic Resonator
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: ce
-type_length_3: cer
-type_length_4: cera
-type_length_5: ceram
-type_length_6: cerami
-type_name: Ceramic Resonator
-type_no_space_length_1: c
-type_no_space_length_2: ce
-type_no_space_length_3: cer
-type_no_space_length_4: cera
-type_no_space_length_5: ceram
-type_no_space_length_6: cerami
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CE
-type_no_space_upper_length_3: CER
-type_no_space_upper_length_4: CERA
-type_no_space_upper_length_5: CERAM
-type_no_space_upper_length_6: CERAMI
 type_upper: CERAMIC_RESONATOR
-type_upper_length_1: C
-type_upper_length_2: CE
-type_upper_length_3: CER
-type_upper_length_4: CERA
-type_upper_length_5: CERAM
-type_upper_length_6: CERAMI

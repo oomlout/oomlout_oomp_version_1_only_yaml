@@ -1,98 +1,23 @@
-bip_39_word_dash_12: stomach-gain-robust-practice-lake-sniff-cup-half-border-fiber-express-april
-bip_39_word_dash_2: stomach-gain
-bip_39_word_dash_3: stomach-gain-robust
-bip_39_word_new_br_12: stomach<br>gain<br>robust<br>practice<br>lake<br>sniff<br>cup<br>half<br>border<br>fiber<br>express<br>april
-bip_39_word_new_br_2: stomach<br>gain
-bip_39_word_new_br_3: stomach<br>gain<br>robust
-bip_39_word_new_line_12: 'stomach
-
-  gain
-
-  robust
-
-  practice
-
-  lake
-
-  sniff
-
-  cup
-
-  half
-
-  border
-
-  fiber
-
-  express
-
-  april'
-bip_39_word_new_line_2: 'stomach
-
-  gain'
-bip_39_word_new_line_3: 'stomach
-
-  gain
-
-  robust'
-bip_39_word_no_space_12: stomachgainrobustpracticelakesniffcuphalfborderfiberexpressapril
-bip_39_word_no_space_2: stomachgain
-bip_39_word_no_space_3: stomachgainrobust
-bip_39_word_space_12: stomach gain robust practice lake sniff cup half border fiber
-  express april
-bip_39_word_space_2: stomach gain
-bip_39_word_space_3: stomach gain robust
-bip_39_word_underscore_12: stomach_gain_robust_practice_lake_sniff_cup_half_border_fiber_express_april
-bip_39_word_underscore_2: stomach_gain
-bip_39_word_underscore_3: stomach_gain_robust
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_household_toy
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_household_toy_stuffie
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_toy_stuffie
 id: category_household_toy_stuffie
 id_no_class: household_toy_stuffie
-id_no_color: stuffie
 id_no_size: stuffie
 id_no_type: stuffie
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_stuffie
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_household_toy_stuffie](none)<br>[](none)<br>[Category Household
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 6TAQD
 md5_6_upper: AEA195
 name: Category Household Toy Stuffie
 name_no_class: Household Toy Stuffie
-name_no_color: Stuffie
 name_no_size: Stuffie
 name_no_size_short: Stuffie
 name_no_type: Stuffie
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: stuffie
 size_capital: Stuffie
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: stu
-size_length_4: stuf
-size_length_5: stuff
-size_length_6: stuffi
-size_name: Stuffie
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: stu
-size_no_space_length_4: stuf
-size_no_space_length_5: stuff
-size_no_space_length_6: stuffi
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STU
-size_no_space_upper_length_4: STUF
-size_no_space_upper_length_5: STUFF
-size_no_space_upper_length_6: STUFFI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STUFFIE
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STU
-size_upper_length_4: STUF
-size_upper_length_5: STUFF
-size_upper_length_6: STUFFI
 type: household_toy
 type_capital: Household Toy
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ho
-type_length_3: hou
-type_length_4: hous
-type_length_5: house
-type_length_6: househ
-type_name: Household Toy
-type_no_space_length_1: h
-type_no_space_length_2: ho
-type_no_space_length_3: hou
-type_no_space_length_4: hous
-type_no_space_length_5: house
-type_no_space_length_6: househ
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HO
-type_no_space_upper_length_3: HOU
-type_no_space_upper_length_4: HOUS
-type_no_space_upper_length_5: HOUSE
-type_no_space_upper_length_6: HOUSEH
 type_upper: HOUSEHOLD_TOY
-type_upper_length_1: H
-type_upper_length_2: HO
-type_upper_length_3: HOU
-type_upper_length_4: HOUS
-type_upper_length_5: HOUSE
-type_upper_length_6: HOUSEH

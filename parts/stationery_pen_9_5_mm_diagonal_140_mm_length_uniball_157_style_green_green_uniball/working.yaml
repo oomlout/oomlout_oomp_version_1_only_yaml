@@ -1,156 +1,31 @@
-bip_39_word_dash_12: error-melody-advance-when-actor-file-phone-lizard-punch-ball-absent-argue
-bip_39_word_dash_2: error-melody
-bip_39_word_dash_3: error-melody-advance
-bip_39_word_new_br_12: error<br>melody<br>advance<br>when<br>actor<br>file<br>phone<br>lizard<br>punch<br>ball<br>absent<br>argue
-bip_39_word_new_br_2: error<br>melody
-bip_39_word_new_br_3: error<br>melody<br>advance
-bip_39_word_new_line_12: 'error
-
-  melody
-
-  advance
-
-  when
-
-  actor
-
-  file
-
-  phone
-
-  lizard
-
-  punch
-
-  ball
-
-  absent
-
-  argue'
-bip_39_word_new_line_2: 'error
-
-  melody'
-bip_39_word_new_line_3: 'error
-
-  melody
-
-  advance'
-bip_39_word_no_space_12: errormelodyadvancewhenactorfilephonelizardpunchballabsentargue
-bip_39_word_no_space_2: errormelody
-bip_39_word_no_space_3: errormelodyadvance
-bip_39_word_space_12: error melody advance when actor file phone lizard punch ball
-  absent argue
-bip_39_word_space_2: error melody
-bip_39_word_space_3: error melody advance
-bip_39_word_underscore_12: error_melody_advance_when_actor_file_phone_lizard_punch_ball_absent_argue
-bip_39_word_underscore_2: error_melody
-bip_39_word_underscore_3: error_melody_advance
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: green
 color_capital: Green
 color_first_letter: g
 color_first_letter_upper: G
-color_length_1: g
-color_length_2: gr
-color_length_3: gre
-color_length_4: gree
-color_length_5: green
-color_length_6: green
-color_name: Green
-color_no_space_length_1: g
-color_no_space_length_2: gr
-color_no_space_length_3: gre
-color_no_space_length_4: gree
-color_no_space_length_5: green
-color_no_space_length_6: green
-color_no_space_upper_length_1: G
-color_no_space_upper_length_2: GR
-color_no_space_upper_length_3: GRE
-color_no_space_upper_length_4: GREE
-color_no_space_upper_length_5: GREEN
-color_no_space_upper_length_6: GREEN
 color_upper: GREEN
-color_upper_length_1: G
-color_upper_length_2: GR
-color_upper_length_3: GRE
-color_upper_length_4: GREE
-color_upper_length_5: GREEN
-color_upper_length_6: GREEN
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: green
 description_main_capital: Green
 description_main_first_letter: g
 description_main_first_letter_upper: G
-description_main_length_1: g
-description_main_length_2: gr
-description_main_length_3: gre
-description_main_length_4: gree
-description_main_length_5: green
-description_main_length_6: green
-description_main_name: Green
-description_main_no_space_length_1: g
-description_main_no_space_length_2: gr
-description_main_no_space_length_3: gre
-description_main_no_space_length_4: gree
-description_main_no_space_length_5: green
-description_main_no_space_length_6: green
-description_main_no_space_upper_length_1: G
-description_main_no_space_upper_length_2: GR
-description_main_no_space_upper_length_3: GRE
-description_main_no_space_upper_length_4: GREE
-description_main_no_space_upper_length_5: GREEN
-description_main_no_space_upper_length_6: GREEN
 description_main_upper: GREEN
-description_main_upper_length_1: G
-description_main_upper_length_2: GR
-description_main_upper_length_3: GRE
-description_main_upper_length_4: GREE
-description_main_upper_length_5: GREEN
-description_main_upper_length_6: GREEN
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'G '
 description_or_color_upper: 'G '
 directory: parts/stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
 id: stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
 id_no_class: pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
-id_no_color: uniball
 id_no_size: green_green_uniball
 id_no_type: 9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
@@ -160,32 +35,7 @@ manufacturer: uniball
 manufacturer_capital: Uniball
 manufacturer_first_letter: u
 manufacturer_first_letter_upper: U
-manufacturer_length_1: u
-manufacturer_length_2: un
-manufacturer_length_3: uni
-manufacturer_length_4: unib
-manufacturer_length_5: uniba
-manufacturer_length_6: unibal
-manufacturer_name: Uniball
-manufacturer_no_space_length_1: u
-manufacturer_no_space_length_2: un
-manufacturer_no_space_length_3: uni
-manufacturer_no_space_length_4: unib
-manufacturer_no_space_length_5: uniba
-manufacturer_no_space_length_6: unibal
-manufacturer_no_space_upper_length_1: U
-manufacturer_no_space_upper_length_2: UN
-manufacturer_no_space_upper_length_3: UNI
-manufacturer_no_space_upper_length_4: UNIB
-manufacturer_no_space_upper_length_5: UNIBA
-manufacturer_no_space_upper_length_6: UNIBAL
 manufacturer_upper: UNIBALL
-manufacturer_upper_length_1: U
-manufacturer_upper_length_2: UN
-manufacturer_upper_length_3: UNI
-manufacturer_upper_length_4: UNIB
-manufacturer_upper_length_5: UNIBA
-manufacturer_upper_length_6: UNIBAL
 manufacturers: []
 markdown_full: '[stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball](none)<br>[g](none)<br>[Stationery
   Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Green Green Uniball](none)<br><br>'
@@ -199,12 +49,11 @@ md5_6: b80144
 md5_6_alpha: 76gqs
 md5_6_alpha_upper: 76GQS
 md5_6_upper: B80144
-name: Stationery Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style Green Green Uniball
-name_no_class: Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style Green Green Uniball
-name_no_color: Uniball
+name: Stationery Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Green Green Uniball
+name_no_class: Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Green Green Uniball
 name_no_size: Green Green Uniball
 name_no_size_short: Green Green Uniball
-name_no_type: 9 5 mm Diagonal 140 mm Length Uniball 157 Style Green Green Uniball
+name_no_type: 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Green Green Uniball
 oomp_key: oomp_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_green_green_uniball
 oomp_word: hamburger smile panda_face
 oomp_word_emoji: ':hamburger: :smile: :panda_face:'
@@ -220,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: g
 short_code_upper: G
@@ -229,61 +77,11 @@ size: 9_5_mm_diagonal_140_mm_length_uniball_157_style
 size_capital: 9.5 mm Diagonal 140 mm Length Uniball 157 Style
 size_first_letter: '9'
 size_first_letter_upper: '9'
-size_length_1: '9'
-size_length_2: '9_'
-size_length_3: '9_5'
-size_length_4: '9_5_'
-size_length_5: 9_5_m
-size_length_6: 9_5_mm
-size_name: 9 5 mm Diagonal 140 mm Length Uniball 157 Style
-size_no_space_length_1: '9'
-size_no_space_length_2: '95'
-size_no_space_length_3: 95m
-size_no_space_length_4: 95mm
-size_no_space_length_5: 95mmd
-size_no_space_length_6: 95mmdi
-size_no_space_upper_length_1: '9'
-size_no_space_upper_length_2: '95'
-size_no_space_upper_length_3: 95M
-size_no_space_upper_length_4: 95MM
-size_no_space_upper_length_5: 95MMD
-size_no_space_upper_length_6: 95MMDI
 size_only_numbers: '95140157'
 size_only_numbers_no_zeros: '9514157'
 size_upper: 9_5_MM_DIAGONAL_140_MM_LENGTH_UNIBALL_157_STYLE
-size_upper_length_1: '9'
-size_upper_length_2: '9_'
-size_upper_length_3: '9_5'
-size_upper_length_4: '9_5_'
-size_upper_length_5: 9_5_M
-size_upper_length_6: 9_5_MM
 type: pen
 type_capital: Pen
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pe
-type_length_3: pen
-type_length_4: pen
-type_length_5: pen
-type_length_6: pen
-type_name: Pen
-type_no_space_length_1: p
-type_no_space_length_2: pe
-type_no_space_length_3: pen
-type_no_space_length_4: pen
-type_no_space_length_5: pen
-type_no_space_length_6: pen
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PE
-type_no_space_upper_length_3: PEN
-type_no_space_upper_length_4: PEN
-type_no_space_upper_length_5: PEN
-type_no_space_upper_length_6: PEN
 type_upper: PEN
-type_upper_length_1: P
-type_upper_length_2: PE
-type_upper_length_3: PEN
-type_upper_length_4: PEN
-type_upper_length_5: PEN
-type_upper_length_6: PEN

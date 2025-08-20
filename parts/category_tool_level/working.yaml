@@ -1,98 +1,23 @@
-bip_39_word_dash_12: either-language-hood-rough-heart-liar-dose-employ-hour-raw-wear-another
-bip_39_word_dash_2: either-language
-bip_39_word_dash_3: either-language-hood
-bip_39_word_new_br_12: either<br>language<br>hood<br>rough<br>heart<br>liar<br>dose<br>employ<br>hour<br>raw<br>wear<br>another
-bip_39_word_new_br_2: either<br>language
-bip_39_word_new_br_3: either<br>language<br>hood
-bip_39_word_new_line_12: 'either
-
-  language
-
-  hood
-
-  rough
-
-  heart
-
-  liar
-
-  dose
-
-  employ
-
-  hour
-
-  raw
-
-  wear
-
-  another'
-bip_39_word_new_line_2: 'either
-
-  language'
-bip_39_word_new_line_3: 'either
-
-  language
-
-  hood'
-bip_39_word_no_space_12: eitherlanguagehoodroughheartliardoseemployhourrawwearanother
-bip_39_word_no_space_2: eitherlanguage
-bip_39_word_no_space_3: eitherlanguagehood
-bip_39_word_space_12: either language hood rough heart liar dose employ hour raw wear
-  another
-bip_39_word_space_2: either language
-bip_39_word_space_3: either language hood
-bip_39_word_underscore_12: either_language_hood_rough_heart_liar_dose_employ_hour_raw_wear_another
-bip_39_word_underscore_2: either_language
-bip_39_word_underscore_3: either_language_hood
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_tool
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_tool_level
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_level
 id: category_tool_level
 id_no_class: tool_level
-id_no_color: level
 id_no_size: level
 id_no_type: level
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_level
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_level](none)<br>[](none)<br>[Category Tool Level](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: 608H8
 md5_6_upper: 99F0EC
 name: Category Tool Level
 name_no_class: Tool Level
-name_no_color: Level
 name_no_size: Level
 name_no_size_short: Level
 name_no_type: Level
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,61 +80,11 @@ size: level
 size_capital: Level
 size_first_letter: l
 size_first_letter_upper: L
-size_length_1: l
-size_length_2: le
-size_length_3: lev
-size_length_4: leve
-size_length_5: level
-size_length_6: level
-size_name: Level
-size_no_space_length_1: l
-size_no_space_length_2: le
-size_no_space_length_3: lev
-size_no_space_length_4: leve
-size_no_space_length_5: level
-size_no_space_length_6: level
-size_no_space_upper_length_1: L
-size_no_space_upper_length_2: LE
-size_no_space_upper_length_3: LEV
-size_no_space_upper_length_4: LEVE
-size_no_space_upper_length_5: LEVEL
-size_no_space_upper_length_6: LEVEL
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: LEVEL
-size_upper_length_1: L
-size_upper_length_2: LE
-size_upper_length_3: LEV
-size_upper_length_4: LEVE
-size_upper_length_5: LEVEL
-size_upper_length_6: LEVEL
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

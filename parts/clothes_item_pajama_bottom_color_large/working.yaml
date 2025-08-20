@@ -1,121 +1,22 @@
-bip_39_word_dash_12: exhibit-infant-latin-symptom-electric-leaf-cruel-there-muffin-piece-bird-argue
-bip_39_word_dash_2: exhibit-infant
-bip_39_word_dash_3: exhibit-infant-latin
-bip_39_word_new_br_12: exhibit<br>infant<br>latin<br>symptom<br>electric<br>leaf<br>cruel<br>there<br>muffin<br>piece<br>bird<br>argue
-bip_39_word_new_br_2: exhibit<br>infant
-bip_39_word_new_br_3: exhibit<br>infant<br>latin
-bip_39_word_new_line_12: 'exhibit
-
-  infant
-
-  latin
-
-  symptom
-
-  electric
-
-  leaf
-
-  cruel
-
-  there
-
-  muffin
-
-  piece
-
-  bird
-
-  argue'
-bip_39_word_new_line_2: 'exhibit
-
-  infant'
-bip_39_word_new_line_3: 'exhibit
-
-  infant
-
-  latin'
-bip_39_word_no_space_12: exhibitinfantlatinsymptomelectricleafcrueltheremuffinpiecebirdargue
-bip_39_word_no_space_2: exhibitinfant
-bip_39_word_no_space_3: exhibitinfantlatin
-bip_39_word_space_12: exhibit infant latin symptom electric leaf cruel there muffin
-  piece bird argue
-bip_39_word_space_2: exhibit infant
-bip_39_word_space_3: exhibit infant latin
-bip_39_word_underscore_12: exhibit_infant_latin_symptom_electric_leaf_cruel_there_muffin_piece_bird_argue
-bip_39_word_underscore_2: exhibit_infant
-bip_39_word_underscore_3: exhibit_infant_latin
 classification: clothes
 classification_capital: Clothes
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: cl
-classification_length_3: clo
-classification_length_4: clot
-classification_length_5: cloth
-classification_length_6: clothe
-classification_name: Clothes
-classification_no_space_length_1: c
-classification_no_space_length_2: cl
-classification_no_space_length_3: clo
-classification_no_space_length_4: clot
-classification_no_space_length_5: cloth
-classification_no_space_length_6: clothe
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CL
-classification_no_space_upper_length_3: CLO
-classification_no_space_upper_length_4: CLOT
-classification_no_space_upper_length_5: CLOTH
-classification_no_space_upper_length_6: CLOTHE
 classification_upper: CLOTHES
-classification_upper_length_1: C
-classification_upper_length_2: CL
-classification_upper_length_3: CLO
-classification_upper_length_4: CLOT
-classification_upper_length_5: CLOTH
-classification_upper_length_6: CLOTHE
 color: color_large
 color_capital: Color Large
 color_first_letter: c
 color_first_letter_upper: C
-color_length_1: c
-color_length_2: co
-color_length_3: col
-color_length_4: colo
-color_length_5: color
-color_length_6: color_
-color_name: Color Large
-color_no_space_length_1: c
-color_no_space_length_2: co
-color_no_space_length_3: col
-color_no_space_length_4: colo
-color_no_space_length_5: color
-color_no_space_length_6: colorl
-color_no_space_upper_length_1: C
-color_no_space_upper_length_2: CO
-color_no_space_upper_length_3: COL
-color_no_space_upper_length_4: COLO
-color_no_space_upper_length_5: COLOR
-color_no_space_upper_length_6: COLORL
 color_upper: COLOR_LARGE
-color_upper_length_1: C
-color_upper_length_2: CO
-color_upper_length_3: COL
-color_upper_length_4: COLO
-color_upper_length_5: COLOR
-color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/clothes_item_pajama_bottom_color_large
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_pajama_bottom_color_large
 id: clothes_item_pajama_bottom_color_large
 id_no_class: item_pajama_bottom_color_large
-id_no_color: color_large
 id_no_size: color_large
 id_no_type: pajama_bottom_color_large
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_color_large
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[clothes_item_pajama_bottom_color_large](none)<br>[](none)<br>[Clothes
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 76PEX
 md5_6_upper: B82D29
 name: Clothes Item Pajama Bottom Color Large
 name_no_class: Item Pajama Bottom Color Large
-name_no_color: Color Large
 name_no_size: Color Large
 name_no_size_short: Color Large
 name_no_type: Pajama Bottom Color Large
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: pajama_bottom
 size_capital: Pajama Bottom
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: paj
-size_length_4: paja
-size_length_5: pajam
-size_length_6: pajama
-size_name: Pajama Bottom
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: paj
-size_no_space_length_4: paja
-size_no_space_length_5: pajam
-size_no_space_length_6: pajama
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAJ
-size_no_space_upper_length_4: PAJA
-size_no_space_upper_length_5: PAJAM
-size_no_space_upper_length_6: PAJAMA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PAJAMA_BOTTOM
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAJ
-size_upper_length_4: PAJA
-size_upper_length_5: PAJAM
-size_upper_length_6: PAJAMA
 type: item
 type_capital: Item
 type_first_letter: i
 type_first_letter_upper: I
-type_length_1: i
-type_length_2: it
-type_length_3: ite
-type_length_4: item
-type_length_5: item
-type_length_6: item
-type_name: Item
-type_no_space_length_1: i
-type_no_space_length_2: it
-type_no_space_length_3: ite
-type_no_space_length_4: item
-type_no_space_length_5: item
-type_no_space_length_6: item
-type_no_space_upper_length_1: I
-type_no_space_upper_length_2: IT
-type_no_space_upper_length_3: ITE
-type_no_space_upper_length_4: ITEM
-type_no_space_upper_length_5: ITEM
-type_no_space_upper_length_6: ITEM
 type_upper: ITEM
-type_upper_length_1: I
-type_upper_length_2: IT
-type_upper_length_3: ITE
-type_upper_length_4: ITEM
-type_upper_length_5: ITEM
-type_upper_length_6: ITEM

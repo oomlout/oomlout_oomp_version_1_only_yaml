@@ -1,122 +1,23 @@
-bip_39_word_dash_12: march-staff-recall-pulp-egg-cloud-misery-owner-giggle-echo-system-alter
-bip_39_word_dash_2: march-staff
-bip_39_word_dash_3: march-staff-recall
-bip_39_word_new_br_12: march<br>staff<br>recall<br>pulp<br>egg<br>cloud<br>misery<br>owner<br>giggle<br>echo<br>system<br>alter
-bip_39_word_new_br_2: march<br>staff
-bip_39_word_new_br_3: march<br>staff<br>recall
-bip_39_word_new_line_12: 'march
-
-  staff
-
-  recall
-
-  pulp
-
-  egg
-
-  cloud
-
-  misery
-
-  owner
-
-  giggle
-
-  echo
-
-  system
-
-  alter'
-bip_39_word_new_line_2: 'march
-
-  staff'
-bip_39_word_new_line_3: 'march
-
-  staff
-
-  recall'
-bip_39_word_no_space_12: marchstaffrecallpulpeggcloudmiseryownergiggleechosystemalter
-bip_39_word_no_space_2: marchstaff
-bip_39_word_no_space_3: marchstaffrecall
-bip_39_word_space_12: march staff recall pulp egg cloud misery owner giggle echo system
-  alter
-bip_39_word_space_2: march staff
-bip_39_word_space_3: march staff recall
-bip_39_word_underscore_12: march_staff_recall_pulp_egg_cloud_misery_owner_giggle_echo_system_alter
-bip_39_word_underscore_2: march_staff
-bip_39_word_underscore_3: march_staff_recall
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 12_ohm
 description_main_capital: 12 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '12'
-description_main_length_3: '12_'
-description_main_length_4: 12_o
-description_main_length_5: 12_oh
-description_main_length_6: 12_ohm
-description_main_name: 12 Ohm
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '12'
-description_main_no_space_length_3: 12o
-description_main_no_space_length_4: 12oh
-description_main_no_space_length_5: 12ohm
-description_main_no_space_length_6: 12ohm
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '12'
-description_main_no_space_upper_length_3: 12O
-description_main_no_space_upper_length_4: 12OH
-description_main_no_space_upper_length_5: 12OHM
-description_main_no_space_upper_length_6: 12OHM
 description_main_upper: 12_OHM
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '12'
-description_main_upper_length_3: '12_'
-description_main_upper_length_4: 12_O
-description_main_upper_length_5: 12_OH
-description_main_upper_length_6: 12_OHM
 description_only_numbers: '12'
 description_only_numbers_short: '12'
 description_or_color: '12'
@@ -125,10 +26,8 @@ directory: parts/electronic_resistor_0402_12_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_12_ohm
 id: electronic_resistor_0402_12_ohm
 id_no_class: resistor_0402_12_ohm
-id_no_color: 12ohm
 id_no_size: 12_ohm
 id_no_type: 0402_12_ohm
 kicad_reference: R
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -184,7 +82,6 @@ md5_6_alpha_upper: 4O68H
 md5_6_upper: 77B991
 name: Electronic Resistor 0402 12 Ohm
 name_no_class: Resistor 0402 12 Ohm
-name_no_color: 12Ohm
 name_no_size: 12 Ohm
 name_no_size_short: 12 Ohm
 name_no_type: 0402 12 Ohm
@@ -204,7 +101,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r4o120
 short_code_upper: R4O120
@@ -212,34 +108,9 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '04'
-size_length_3: '040'
-size_length_4: '0402'
-size_length_5: '0402'
-size_length_6: '0402'
-size_name: '0402'
-size_no_space_length_1: '0'
-size_no_space_length_2: '04'
-size_no_space_length_3: '040'
-size_no_space_length_4: '0402'
-size_no_space_length_5: '0402'
-size_no_space_length_6: '0402'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '04'
-size_no_space_upper_length_3: '040'
-size_no_space_upper_length_4: '0402'
-size_no_space_upper_length_5: '0402'
-size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
-size_upper_length_1: '0'
-size_upper_length_2: '04'
-size_upper_length_3: '040'
-size_upper_length_4: '0402'
-size_upper_length_5: '0402'
-size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -252,29 +123,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

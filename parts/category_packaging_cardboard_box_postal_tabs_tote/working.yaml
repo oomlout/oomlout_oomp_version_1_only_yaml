@@ -1,122 +1,23 @@
-bip_39_word_dash_12: apology-gas-check-box-mammal-steel-wrist-mango-exotic-brick-shiver-amazing
-bip_39_word_dash_2: apology-gas
-bip_39_word_dash_3: apology-gas-check
-bip_39_word_new_br_12: apology<br>gas<br>check<br>box<br>mammal<br>steel<br>wrist<br>mango<br>exotic<br>brick<br>shiver<br>amazing
-bip_39_word_new_br_2: apology<br>gas
-bip_39_word_new_br_3: apology<br>gas<br>check
-bip_39_word_new_line_12: 'apology
-
-  gas
-
-  check
-
-  box
-
-  mammal
-
-  steel
-
-  wrist
-
-  mango
-
-  exotic
-
-  brick
-
-  shiver
-
-  amazing'
-bip_39_word_new_line_2: 'apology
-
-  gas'
-bip_39_word_new_line_3: 'apology
-
-  gas
-
-  check'
-bip_39_word_no_space_12: apologygascheckboxmammalsteelwristmangoexoticbrickshiveramazing
-bip_39_word_no_space_2: apologygas
-bip_39_word_no_space_3: apologygascheck
-bip_39_word_space_12: apology gas check box mammal steel wrist mango exotic brick
-  shiver amazing
-bip_39_word_space_2: apology gas
-bip_39_word_space_3: apology gas check
-bip_39_word_underscore_12: apology_gas_check_box_mammal_steel_wrist_mango_exotic_brick_shiver_amazing
-bip_39_word_underscore_2: apology_gas
-bip_39_word_underscore_3: apology_gas_check
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_packaging
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_packaging_cardboard_box_postal_tabs_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_cardboard_box_postal_tabs_tote
 id: category_packaging_cardboard_box_postal_tabs_tote
 id_no_class: packaging_cardboard_box_postal_tabs_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: cardboard_box_postal_tabs_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_packaging_cardboard_box_postal_tabs_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 4WCP2
 md5_6_upper: 7D8C46
 name: Category Packaging Cardboard Box Postal Tabs Tote
 name_no_class: Packaging Cardboard Box Postal Tabs Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Cardboard Box Postal Tabs Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: cardboard_box_postal_tabs
 size_capital: Cardboard Box Postal Tabs
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: ca
-size_length_3: car
-size_length_4: card
-size_length_5: cardb
-size_length_6: cardbo
-size_name: Cardboard Box Postal Tabs
-size_no_space_length_1: c
-size_no_space_length_2: ca
-size_no_space_length_3: car
-size_no_space_length_4: card
-size_no_space_length_5: cardb
-size_no_space_length_6: cardbo
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CA
-size_no_space_upper_length_3: CAR
-size_no_space_upper_length_4: CARD
-size_no_space_upper_length_5: CARDB
-size_no_space_upper_length_6: CARDBO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CARDBOARD_BOX_POSTAL_TABS
-size_upper_length_1: C
-size_upper_length_2: CA
-size_upper_length_3: CAR
-size_upper_length_4: CARD
-size_upper_length_5: CARDB
-size_upper_length_6: CARDBO
 type: packaging
 type_capital: Packaging
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pac
-type_length_4: pack
-type_length_5: packa
-type_length_6: packag
-type_name: Packaging
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pac
-type_no_space_length_4: pack
-type_no_space_length_5: packa
-type_no_space_length_6: packag
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAC
-type_no_space_upper_length_4: PACK
-type_no_space_upper_length_5: PACKA
-type_no_space_upper_length_6: PACKAG
 type_upper: PACKAGING
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAC
-type_upper_length_4: PACK
-type_upper_length_5: PACKA
-type_upper_length_6: PACKAG

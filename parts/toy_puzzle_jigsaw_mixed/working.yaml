@@ -1,132 +1,31 @@
-bip_39_word_dash_12: mistake-regular-practice-nut-license-rack-spring-gauge-acid-design-simple-admit
-bip_39_word_dash_2: mistake-regular
-bip_39_word_dash_3: mistake-regular-practice
-bip_39_word_new_br_12: mistake<br>regular<br>practice<br>nut<br>license<br>rack<br>spring<br>gauge<br>acid<br>design<br>simple<br>admit
-bip_39_word_new_br_2: mistake<br>regular
-bip_39_word_new_br_3: mistake<br>regular<br>practice
-bip_39_word_new_line_12: 'mistake
-
-  regular
-
-  practice
-
-  nut
-
-  license
-
-  rack
-
-  spring
-
-  gauge
-
-  acid
-
-  design
-
-  simple
-
-  admit'
-bip_39_word_new_line_2: 'mistake
-
-  regular'
-bip_39_word_new_line_3: 'mistake
-
-  regular
-
-  practice'
-bip_39_word_no_space_12: mistakeregularpracticenutlicenserackspringgaugeaciddesignsimpleadmit
-bip_39_word_no_space_2: mistakeregular
-bip_39_word_no_space_3: mistakeregularpractice
-bip_39_word_space_12: mistake regular practice nut license rack spring gauge acid
-  design simple admit
-bip_39_word_space_2: mistake regular
-bip_39_word_space_3: mistake regular practice
-bip_39_word_underscore_12: mistake_regular_practice_nut_license_rack_spring_gauge_acid_design_simple_admit
-bip_39_word_underscore_2: mistake_regular
-bip_39_word_underscore_3: mistake_regular_practice
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: to
-classification_length_3: toy
-classification_length_4: toy
-classification_length_5: toy
-classification_length_6: toy
-classification_name: Toy
-classification_no_space_length_1: t
-classification_no_space_length_2: to
-classification_no_space_length_3: toy
-classification_no_space_length_4: toy
-classification_no_space_length_5: toy
-classification_no_space_length_6: toy
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TO
-classification_no_space_upper_length_3: TOY
-classification_no_space_upper_length_4: TOY
-classification_no_space_upper_length_5: TOY
-classification_no_space_upper_length_6: TOY
 classification_upper: TOY
-classification_upper_length_1: T
-classification_upper_length_2: TO
-classification_upper_length_3: TOY
-classification_upper_length_4: TOY
-classification_upper_length_5: TOY
-classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: mi
-description_main_length_3: mix
-description_main_length_4: mixe
-description_main_length_5: mixed
-description_main_length_6: mixed
-description_main_name: Mixed
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mi
-description_main_no_space_length_3: mix
-description_main_no_space_length_4: mixe
-description_main_no_space_length_5: mixed
-description_main_no_space_length_6: mixed
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MI
-description_main_no_space_upper_length_3: MIX
-description_main_no_space_upper_length_4: MIXE
-description_main_no_space_upper_length_5: MIXED
-description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
-description_main_upper_length_1: M
-description_main_upper_length_2: MI
-description_main_upper_length_3: MIX
-description_main_upper_length_4: MIXE
-description_main_upper_length_5: MIXED
-description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_puzzle_jigsaw_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_puzzle_jigsaw_mixed
 id: toy_puzzle_jigsaw_mixed
 id_no_class: puzzle_jigsaw_mixed
-id_no_color: mixed
 id_no_size: mixed
 id_no_type: jigsaw_mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_puzzle_jigsaw_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_puzzle_jigsaw_mixed](none)<br>[](none)<br>[Toy Puzzle Jigsaw
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 2BOCU
 md5_6_upper: 3B920E
 name: Toy Puzzle Jigsaw Mixed
 name_no_class: Puzzle Jigsaw Mixed
-name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Jigsaw Mixed
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -180,61 +76,11 @@ size: jigsaw
 size_capital: Jigsaw
 size_first_letter: j
 size_first_letter_upper: J
-size_length_1: j
-size_length_2: ji
-size_length_3: jig
-size_length_4: jigs
-size_length_5: jigsa
-size_length_6: jigsaw
-size_name: Jigsaw
-size_no_space_length_1: j
-size_no_space_length_2: ji
-size_no_space_length_3: jig
-size_no_space_length_4: jigs
-size_no_space_length_5: jigsa
-size_no_space_length_6: jigsaw
-size_no_space_upper_length_1: J
-size_no_space_upper_length_2: JI
-size_no_space_upper_length_3: JIG
-size_no_space_upper_length_4: JIGS
-size_no_space_upper_length_5: JIGSA
-size_no_space_upper_length_6: JIGSAW
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: JIGSAW
-size_upper_length_1: J
-size_upper_length_2: JI
-size_upper_length_3: JIG
-size_upper_length_4: JIGS
-size_upper_length_5: JIGSA
-size_upper_length_6: JIGSAW
 type: puzzle
 type_capital: Puzzle
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pu
-type_length_3: puz
-type_length_4: puzz
-type_length_5: puzzl
-type_length_6: puzzle
-type_name: Puzzle
-type_no_space_length_1: p
-type_no_space_length_2: pu
-type_no_space_length_3: puz
-type_no_space_length_4: puzz
-type_no_space_length_5: puzzl
-type_no_space_length_6: puzzle
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PU
-type_no_space_upper_length_3: PUZ
-type_no_space_upper_length_4: PUZZ
-type_no_space_upper_length_5: PUZZL
-type_no_space_upper_length_6: PUZZLE
 type_upper: PUZZLE
-type_upper_length_1: P
-type_upper_length_2: PU
-type_upper_length_3: PUZ
-type_upper_length_4: PUZZ
-type_upper_length_5: PUZZL
-type_upper_length_6: PUZZLE

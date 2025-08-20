@@ -1,146 +1,23 @@
-bip_39_word_dash_12: silver-rhythm-jump-happy-quantum-much-impact-spring-entire-text-ancient-arrest
-bip_39_word_dash_2: silver-rhythm
-bip_39_word_dash_3: silver-rhythm-jump
-bip_39_word_new_br_12: silver<br>rhythm<br>jump<br>happy<br>quantum<br>much<br>impact<br>spring<br>entire<br>text<br>ancient<br>arrest
-bip_39_word_new_br_2: silver<br>rhythm
-bip_39_word_new_br_3: silver<br>rhythm<br>jump
-bip_39_word_new_line_12: 'silver
-
-  rhythm
-
-  jump
-
-  happy
-
-  quantum
-
-  much
-
-  impact
-
-  spring
-
-  entire
-
-  text
-
-  ancient
-
-  arrest'
-bip_39_word_new_line_2: 'silver
-
-  rhythm'
-bip_39_word_new_line_3: 'silver
-
-  rhythm
-
-  jump'
-bip_39_word_no_space_12: silverrhythmjumphappyquantummuchimpactspringentiretextancientarrest
-bip_39_word_no_space_2: silverrhythm
-bip_39_word_no_space_3: silverrhythmjump
-bip_39_word_space_12: silver rhythm jump happy quantum much impact spring entire text
-  ancient arrest
-bip_39_word_space_2: silver rhythm
-bip_39_word_space_3: silver rhythm jump
-bip_39_word_underscore_12: silver_rhythm_jump_happy_quantum_much_impact_spring_entire_text_ancient_arrest
-bip_39_word_underscore_2: silver_rhythm
-bip_39_word_underscore_3: silver_rhythm_jump
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pap
-classification_length_4: pape
-classification_length_5: paper
-classification_length_6: paper
-classification_name: Paper
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pap
-classification_no_space_length_4: pape
-classification_no_space_length_5: paper
-classification_no_space_length_6: paper
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAP
-classification_no_space_upper_length_4: PAPE
-classification_no_space_upper_length_5: PAPER
-classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAP
-classification_upper_length_4: PAPE
-classification_upper_length_5: PAPER
-classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: pink_light_color
 description_extra_capital: Pink Light Color
 description_extra_first_letter: p
 description_extra_first_letter_upper: P
-description_extra_length_1: p
-description_extra_length_2: pi
-description_extra_length_3: pin
-description_extra_length_4: pink
-description_extra_length_5: pink_
-description_extra_length_6: pink_l
-description_extra_name: Pink Light Color
-description_extra_no_space_length_1: p
-description_extra_no_space_length_2: pi
-description_extra_no_space_length_3: pin
-description_extra_no_space_length_4: pink
-description_extra_no_space_length_5: pinkl
-description_extra_no_space_length_6: pinkli
-description_extra_no_space_upper_length_1: P
-description_extra_no_space_upper_length_2: PI
-description_extra_no_space_upper_length_3: PIN
-description_extra_no_space_upper_length_4: PINK
-description_extra_no_space_upper_length_5: PINKL
-description_extra_no_space_upper_length_6: PINKLI
 description_extra_upper: PINK_LIGHT_COLOR
-description_extra_upper_length_1: P
-description_extra_upper_length_2: PI
-description_extra_upper_length_3: PIN
-description_extra_upper_length_4: PINK
-description_extra_upper_length_5: PINK_
-description_extra_upper_length_6: PINK_L
 description_main: 160_grams_per_meter_square
 description_main_capital: 160 Grams Per Meter Square
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '16'
-description_main_length_3: '160'
-description_main_length_4: '160_'
-description_main_length_5: 160_g
-description_main_length_6: 160_gr
-description_main_name: 160 Grams Per Meter Square
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '16'
-description_main_no_space_length_3: '160'
-description_main_no_space_length_4: 160g
-description_main_no_space_length_5: 160gr
-description_main_no_space_length_6: 160gra
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '16'
-description_main_no_space_upper_length_3: '160'
-description_main_no_space_upper_length_4: 160G
-description_main_no_space_upper_length_5: 160GR
-description_main_no_space_upper_length_6: 160GRA
 description_main_upper: 160_GRAMS_PER_METER_SQUARE
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '16'
-description_main_upper_length_3: '160'
-description_main_upper_length_4: '160_'
-description_main_upper_length_5: 160_G
-description_main_upper_length_6: 160_GR
 description_only_numbers: '160'
 description_only_numbers_short: '160'
 description_or_color: '160'
@@ -149,11 +26,9 @@ directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_s
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color
 id_no_class: sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color
-id_no_color: 160gramspermetersquarepinklightcolor
 id_no_size: 160_grams_per_meter_square_pink_light_color
 id_no_type: a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color](none)<br>[](none)<br>[Paper
@@ -178,14 +52,13 @@ md5_6: c61137
 md5_6_alpha: 7q7uf
 md5_6_alpha_upper: 7Q7UF
 md5_6_upper: C61137
-name: Paper Sheet A4 210 mm Width 297 mm Height 160 Grams Per Meter Square Pink Light
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 160 Grams Per Meter Square Pink Light
   Color
-name_no_class: Sheet A4 210 mm Width 297 mm Height 160 Grams Per Meter Square Pink
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 160 Grams Per Meter Square Pink
   Light Color
-name_no_color: 160Gramspermetersquarepinklightcolor
 name_no_size: 160 Grams Per Meter Square Pink Light Color
 name_no_size_short: 160 Grams Per Meter Square Pink Light Color
-name_no_type: A4 210 mm Width 297 mm Height 160 Grams Per Meter Square Pink Light
+name_no_type: A4 210 Mm Width 297 Mm Height 160 Grams Per Meter Square Pink Light
   Color
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_160_grams_per_meter_square_pink_light_color
 oomp_word: lollipop dizzy wolf
@@ -202,7 +75,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -210,62 +82,12 @@ size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: a4
-size_length_3: a4_
-size_length_4: a4_2
-size_length_5: a4_21
-size_length_6: a4_210
-size_name: A4 210 mm Width 297 mm Height
-size_no_space_length_1: a
-size_no_space_length_2: a4
-size_no_space_length_3: a42
-size_no_space_length_4: a421
-size_no_space_length_5: a4210
-size_no_space_length_6: a4210m
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A4
-size_no_space_upper_length_3: A42
-size_no_space_upper_length_4: A421
-size_no_space_upper_length_5: A4210
-size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
-size_upper_length_1: A
-size_upper_length_2: A4
-size_upper_length_3: A4_
-size_upper_length_4: A4_2
-size_upper_length_5: A4_21
-size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sh
-type_length_3: she
-type_length_4: shee
-type_length_5: sheet
-type_length_6: sheet
-type_name: Sheet
-type_no_space_length_1: s
-type_no_space_length_2: sh
-type_no_space_length_3: she
-type_no_space_length_4: shee
-type_no_space_length_5: sheet
-type_no_space_length_6: sheet
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SH
-type_no_space_upper_length_3: SHE
-type_no_space_upper_length_4: SHEE
-type_no_space_upper_length_5: SHEET
-type_no_space_upper_length_6: SHEET
 type_upper: SHEET
-type_upper_length_1: S
-type_upper_length_2: SH
-type_upper_length_3: SHE
-type_upper_length_4: SHEE
-type_upper_length_5: SHEET
-type_upper_length_6: SHEET
 width: 210 mm

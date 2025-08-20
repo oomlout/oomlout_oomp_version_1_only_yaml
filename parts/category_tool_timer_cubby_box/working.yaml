@@ -1,122 +1,23 @@
-bip_39_word_dash_12: dawn-fire-color-cigar-tourist-pride-viable-clutch-about-symbol-hold-again
-bip_39_word_dash_2: dawn-fire
-bip_39_word_dash_3: dawn-fire-color
-bip_39_word_new_br_12: dawn<br>fire<br>color<br>cigar<br>tourist<br>pride<br>viable<br>clutch<br>about<br>symbol<br>hold<br>again
-bip_39_word_new_br_2: dawn<br>fire
-bip_39_word_new_br_3: dawn<br>fire<br>color
-bip_39_word_new_line_12: 'dawn
-
-  fire
-
-  color
-
-  cigar
-
-  tourist
-
-  pride
-
-  viable
-
-  clutch
-
-  about
-
-  symbol
-
-  hold
-
-  again'
-bip_39_word_new_line_2: 'dawn
-
-  fire'
-bip_39_word_new_line_3: 'dawn
-
-  fire
-
-  color'
-bip_39_word_no_space_12: dawnfirecolorcigartouristprideviableclutchaboutsymbolholdagain
-bip_39_word_no_space_2: dawnfire
-bip_39_word_no_space_3: dawnfirecolor
-bip_39_word_space_12: dawn fire color cigar tourist pride viable clutch about symbol
-  hold again
-bip_39_word_space_2: dawn fire
-bip_39_word_space_3: dawn fire color
-bip_39_word_underscore_12: dawn_fire_color_cigar_tourist_pride_viable_clutch_about_symbol_hold_again
-bip_39_word_underscore_2: dawn_fire
-bip_39_word_underscore_3: dawn_fire_color
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_tool
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_tool_timer_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_timer_cubby_box
 id: category_tool_timer_cubby_box
 id_no_class: tool_timer_cubby_box
-id_no_color: cubbybox
 id_no_size: cubby_box
 id_no_type: timer_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_timer_cubby_box
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_timer_cubby_box](none)<br>[](none)<br>[Category Tool
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 2X4XJ
 md5_6_upper: 4AD937
 name: Category Tool Timer Cubby Box
 name_no_class: Tool Timer Cubby Box
-name_no_color: Cubbybox
 name_no_size: Cubby Box
 name_no_size_short: Cubby Box
 name_no_type: Timer Cubby Box
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: timer
 size_capital: Timer
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: ti
-size_length_3: tim
-size_length_4: time
-size_length_5: timer
-size_length_6: timer
-size_name: Timer
-size_no_space_length_1: t
-size_no_space_length_2: ti
-size_no_space_length_3: tim
-size_no_space_length_4: time
-size_no_space_length_5: timer
-size_no_space_length_6: timer
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TI
-size_no_space_upper_length_3: TIM
-size_no_space_upper_length_4: TIME
-size_no_space_upper_length_5: TIMER
-size_no_space_upper_length_6: TIMER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TIMER
-size_upper_length_1: T
-size_upper_length_2: TI
-size_upper_length_3: TIM
-size_upper_length_4: TIME
-size_upper_length_5: TIMER
-size_upper_length_6: TIMER
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

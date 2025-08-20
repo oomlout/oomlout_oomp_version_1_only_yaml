@@ -1,146 +1,23 @@
-bip_39_word_dash_12: hen-critic-valid-moment-bag-decade-mirror-clerk-fashion-enrich-chaos-argue
-bip_39_word_dash_2: hen-critic
-bip_39_word_dash_3: hen-critic-valid
-bip_39_word_new_br_12: hen<br>critic<br>valid<br>moment<br>bag<br>decade<br>mirror<br>clerk<br>fashion<br>enrich<br>chaos<br>argue
-bip_39_word_new_br_2: hen<br>critic
-bip_39_word_new_br_3: hen<br>critic<br>valid
-bip_39_word_new_line_12: 'hen
-
-  critic
-
-  valid
-
-  moment
-
-  bag
-
-  decade
-
-  mirror
-
-  clerk
-
-  fashion
-
-  enrich
-
-  chaos
-
-  argue'
-bip_39_word_new_line_2: 'hen
-
-  critic'
-bip_39_word_new_line_3: 'hen
-
-  critic
-
-  valid'
-bip_39_word_no_space_12: hencriticvalidmomentbagdecademirrorclerkfashionenrichchaosargue
-bip_39_word_no_space_2: hencritic
-bip_39_word_no_space_3: hencriticvalid
-bip_39_word_space_12: hen critic valid moment bag decade mirror clerk fashion enrich
-  chaos argue
-bip_39_word_space_2: hen critic
-bip_39_word_space_3: hen critic valid
-bip_39_word_underscore_12: hen_critic_valid_moment_bag_decade_mirror_clerk_fashion_enrich_chaos_argue
-bip_39_word_underscore_2: hen_critic
-bip_39_word_underscore_3: hen_critic_valid
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
-classification_length_1: g
-classification_length_2: ga
-classification_length_3: gar
-classification_length_4: gard
-classification_length_5: garde
-classification_length_6: garden
-classification_name: Garden
-classification_no_space_length_1: g
-classification_no_space_length_2: ga
-classification_no_space_length_3: gar
-classification_no_space_length_4: gard
-classification_no_space_length_5: garde
-classification_no_space_length_6: garden
-classification_no_space_upper_length_1: G
-classification_no_space_upper_length_2: GA
-classification_no_space_upper_length_3: GAR
-classification_no_space_upper_length_4: GARD
-classification_no_space_upper_length_5: GARDE
-classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
-classification_upper_length_1: G
-classification_upper_length_2: GA
-classification_upper_length_3: GAR
-classification_upper_length_4: GARD
-classification_upper_length_5: GARDE
-classification_upper_length_6: GARDEN
 color: basil
 color_capital: Basil
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: ba
-color_length_3: bas
-color_length_4: basi
-color_length_5: basil
-color_length_6: basil
-color_name: Basil
-color_no_space_length_1: b
-color_no_space_length_2: ba
-color_no_space_length_3: bas
-color_no_space_length_4: basi
-color_no_space_length_5: basil
-color_no_space_length_6: basil
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BA
-color_no_space_upper_length_3: BAS
-color_no_space_upper_length_4: BASI
-color_no_space_upper_length_5: BASIL
-color_no_space_upper_length_6: BASIL
 color_upper: BASIL
-color_upper_length_1: B
-color_upper_length_2: BA
-color_upper_length_3: BAS
-color_upper_length_4: BASI
-color_upper_length_5: BASIL
-color_upper_length_6: BASIL
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: lime_mrs_burns
 description_main_capital: Lime Mrs Burns
 description_main_first_letter: l
 description_main_first_letter_upper: L
-description_main_length_1: l
-description_main_length_2: li
-description_main_length_3: lim
-description_main_length_4: lime
-description_main_length_5: lime_
-description_main_length_6: lime_m
-description_main_name: Lime Mrs Burns
-description_main_no_space_length_1: l
-description_main_no_space_length_2: li
-description_main_no_space_length_3: lim
-description_main_no_space_length_4: lime
-description_main_no_space_length_5: limem
-description_main_no_space_length_6: limemr
-description_main_no_space_upper_length_1: L
-description_main_no_space_upper_length_2: LI
-description_main_no_space_upper_length_3: LIM
-description_main_no_space_upper_length_4: LIME
-description_main_no_space_upper_length_5: LIMEM
-description_main_no_space_upper_length_6: LIMEMR
 description_main_upper: LIME_MRS_BURNS
-description_main_upper_length_1: L
-description_main_upper_length_2: LI
-description_main_upper_length_3: LIM
-description_main_upper_length_4: LIME
-description_main_upper_length_5: LIME_
-description_main_upper_length_6: LIME_M
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'B '
@@ -148,10 +25,8 @@ description_or_color_upper: 'B '
 directory: parts/garden_plant_herb_basil_lime_mrs_burns
 distributor_sutton_seeds: '142005'
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns
 id: garden_plant_herb_basil_lime_mrs_burns
 id_no_class: plant_herb_basil_lime_mrs_burns
-id_no_color: lime_mrs_burns
 id_no_size: basil_lime_mrs_burns
 id_no_type: herb_basil_lime_mrs_burns
 link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE46/basil-lime-mrs-burns-seeds-for-pollinators_mh-52300
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_herb_basil_lime_mrs_burns](none)<br>[](none)<br>[Garden
@@ -179,7 +53,6 @@ md5_6_alpha_upper: 76VMA
 md5_6_upper: B84C92
 name: Garden Plant Herb Basil Lime Mrs Burns
 name_no_class: Plant Herb Basil Lime Mrs Burns
-name_no_color: Lime Mrs Burns
 name_no_size: Basil Lime Mrs Burns
 name_no_size_short: Basil Lime Mrs Burns
 name_no_type: Herb Basil Lime Mrs Burns
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -207,61 +79,11 @@ size: herb
 size_capital: Herb
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: her
-size_length_4: herb
-size_length_5: herb
-size_length_6: herb
-size_name: Herb
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: her
-size_no_space_length_4: herb
-size_no_space_length_5: herb
-size_no_space_length_6: herb
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HER
-size_no_space_upper_length_4: HERB
-size_no_space_upper_length_5: HERB
-size_no_space_upper_length_6: HERB
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HERB
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HER
-size_upper_length_4: HERB
-size_upper_length_5: HERB
-size_upper_length_6: HERB
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pl
-type_length_3: pla
-type_length_4: plan
-type_length_5: plant
-type_length_6: plant
-type_name: Plant
-type_no_space_length_1: p
-type_no_space_length_2: pl
-type_no_space_length_3: pla
-type_no_space_length_4: plan
-type_no_space_length_5: plant
-type_no_space_length_6: plant
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PL
-type_no_space_upper_length_3: PLA
-type_no_space_upper_length_4: PLAN
-type_no_space_upper_length_5: PLANT
-type_no_space_upper_length_6: PLANT
 type_upper: PLANT
-type_upper_length_1: P
-type_upper_length_2: PL
-type_upper_length_3: PLA
-type_upper_length_4: PLAN
-type_upper_length_5: PLANT
-type_upper_length_6: PLANT

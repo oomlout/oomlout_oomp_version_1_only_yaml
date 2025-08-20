@@ -1,97 +1,22 @@
-bip_39_word_dash_12: polar-donor-depth-air-timber-coffee-roast-firm-toy-one-stadium-attend
-bip_39_word_dash_2: polar-donor
-bip_39_word_dash_3: polar-donor-depth
-bip_39_word_new_br_12: polar<br>donor<br>depth<br>air<br>timber<br>coffee<br>roast<br>firm<br>toy<br>one<br>stadium<br>attend
-bip_39_word_new_br_2: polar<br>donor
-bip_39_word_new_br_3: polar<br>donor<br>depth
-bip_39_word_new_line_12: 'polar
-
-  donor
-
-  depth
-
-  air
-
-  timber
-
-  coffee
-
-  roast
-
-  firm
-
-  toy
-
-  one
-
-  stadium
-
-  attend'
-bip_39_word_new_line_2: 'polar
-
-  donor'
-bip_39_word_new_line_3: 'polar
-
-  donor
-
-  depth'
-bip_39_word_no_space_12: polardonordepthairtimbercoffeeroastfirmtoyonestadiumattend
-bip_39_word_no_space_2: polardonor
-bip_39_word_no_space_3: polardonordepth
-bip_39_word_space_12: polar donor depth air timber coffee roast firm toy one stadium
-  attend
-bip_39_word_space_2: polar donor
-bip_39_word_space_3: polar donor depth
-bip_39_word_underscore_12: polar_donor_depth_air_timber_coffee_roast_firm_toy_one_stadium_attend
-bip_39_word_underscore_2: polar_donor
-bip_39_word_underscore_3: polar_donor_depth
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pap
-classification_length_4: pape
-classification_length_5: paper
-classification_length_6: paper
-classification_name: Paper
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pap
-classification_no_space_length_4: pape
-classification_no_space_length_5: paper
-classification_no_space_length_6: paper
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAP
-classification_no_space_upper_length_4: PAPE
-classification_no_space_upper_length_5: PAPER
-classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAP
-classification_upper_length_4: PAPE
-classification_upper_length_5: PAPER
-classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,11 +26,9 @@ directory: parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 height: 110 mm
 id: paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 id_no_class: envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
-id_no_color: dlsize220mmwidth110mmheightfitsa4sheetfoldedinthirds
 id_no_size: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 id_no_type: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds](none)<br>[](none)<br>[Paper
@@ -130,13 +52,12 @@ md5_6: e9a7e6
 md5_6_alpha: 947hi
 md5_6_alpha_upper: 947HI
 md5_6_upper: E9A7E6
-name: Paper Envelope Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
-name_no_class: Envelope Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In
+name: Paper Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+name_no_class: Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In
   Thirds
-name_no_color: Dlsize220mmwidth110mmheightfitsa4Sheetfoldedinthirds
-name_no_size: Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
+name_no_size: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
 name_no_size_short: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
-name_no_type: Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
+name_no_type: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
 oomp_key: oomp_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 oomp_word: bike guitar airplane
 oomp_word_emoji: ':bike: :guitar: :airplane:'
@@ -152,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,62 +81,12 @@ size: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
 size_capital: Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
 size_first_letter: d
 size_first_letter_upper: D
-size_length_1: d
-size_length_2: dl
-size_length_3: dl_
-size_length_4: dl_s
-size_length_5: dl_si
-size_length_6: dl_siz
-size_name: Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
-size_no_space_length_1: d
-size_no_space_length_2: dl
-size_no_space_length_3: dls
-size_no_space_length_4: dlsi
-size_no_space_length_5: dlsiz
-size_no_space_length_6: dlsize
-size_no_space_upper_length_1: D
-size_no_space_upper_length_2: DL
-size_no_space_upper_length_3: DLS
-size_no_space_upper_length_4: DLSI
-size_no_space_upper_length_5: DLSIZ
-size_no_space_upper_length_6: DLSIZE
 size_only_numbers: '2201104'
 size_only_numbers_no_zeros: '22114'
 size_upper: DL_SIZE_220_MM_WIDTH_110_MM_HEIGHT_FITS_A4_SHEET_FOLDED_IN_THIRDS
-size_upper_length_1: D
-size_upper_length_2: DL
-size_upper_length_3: DL_
-size_upper_length_4: DL_S
-size_upper_length_5: DL_SI
-size_upper_length_6: DL_SIZ
 type: envelope
 type_capital: Envelope
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: en
-type_length_3: env
-type_length_4: enve
-type_length_5: envel
-type_length_6: envelo
-type_name: Envelope
-type_no_space_length_1: e
-type_no_space_length_2: en
-type_no_space_length_3: env
-type_no_space_length_4: enve
-type_no_space_length_5: envel
-type_no_space_length_6: envelo
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EN
-type_no_space_upper_length_3: ENV
-type_no_space_upper_length_4: ENVE
-type_no_space_upper_length_5: ENVEL
-type_no_space_upper_length_6: ENVELO
 type_upper: ENVELOPE
-type_upper_length_1: E
-type_upper_length_2: EN
-type_upper_length_3: ENV
-type_upper_length_4: ENVE
-type_upper_length_5: ENVEL
-type_upper_length_6: ENVELO
 width: 220 mm

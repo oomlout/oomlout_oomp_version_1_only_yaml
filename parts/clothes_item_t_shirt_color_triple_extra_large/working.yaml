@@ -1,121 +1,22 @@
-bip_39_word_dash_12: kiwi-master-relief-company-skull-humble-enforce-critic-deliver-believe-accident-april
-bip_39_word_dash_2: kiwi-master
-bip_39_word_dash_3: kiwi-master-relief
-bip_39_word_new_br_12: kiwi<br>master<br>relief<br>company<br>skull<br>humble<br>enforce<br>critic<br>deliver<br>believe<br>accident<br>april
-bip_39_word_new_br_2: kiwi<br>master
-bip_39_word_new_br_3: kiwi<br>master<br>relief
-bip_39_word_new_line_12: 'kiwi
-
-  master
-
-  relief
-
-  company
-
-  skull
-
-  humble
-
-  enforce
-
-  critic
-
-  deliver
-
-  believe
-
-  accident
-
-  april'
-bip_39_word_new_line_2: 'kiwi
-
-  master'
-bip_39_word_new_line_3: 'kiwi
-
-  master
-
-  relief'
-bip_39_word_no_space_12: kiwimasterreliefcompanyskullhumbleenforcecriticdeliverbelieveaccidentapril
-bip_39_word_no_space_2: kiwimaster
-bip_39_word_no_space_3: kiwimasterrelief
-bip_39_word_space_12: kiwi master relief company skull humble enforce critic deliver
-  believe accident april
-bip_39_word_space_2: kiwi master
-bip_39_word_space_3: kiwi master relief
-bip_39_word_underscore_12: kiwi_master_relief_company_skull_humble_enforce_critic_deliver_believe_accident_april
-bip_39_word_underscore_2: kiwi_master
-bip_39_word_underscore_3: kiwi_master_relief
 classification: clothes
 classification_capital: Clothes
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: cl
-classification_length_3: clo
-classification_length_4: clot
-classification_length_5: cloth
-classification_length_6: clothe
-classification_name: Clothes
-classification_no_space_length_1: c
-classification_no_space_length_2: cl
-classification_no_space_length_3: clo
-classification_no_space_length_4: clot
-classification_no_space_length_5: cloth
-classification_no_space_length_6: clothe
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CL
-classification_no_space_upper_length_3: CLO
-classification_no_space_upper_length_4: CLOT
-classification_no_space_upper_length_5: CLOTH
-classification_no_space_upper_length_6: CLOTHE
 classification_upper: CLOTHES
-classification_upper_length_1: C
-classification_upper_length_2: CL
-classification_upper_length_3: CLO
-classification_upper_length_4: CLOT
-classification_upper_length_5: CLOTH
-classification_upper_length_6: CLOTHE
 color: color_triple_extra_large
 color_capital: Color Triple Extra Large
 color_first_letter: c
 color_first_letter_upper: C
-color_length_1: c
-color_length_2: co
-color_length_3: col
-color_length_4: colo
-color_length_5: color
-color_length_6: color_
-color_name: Color Triple Extra Large
-color_no_space_length_1: c
-color_no_space_length_2: co
-color_no_space_length_3: col
-color_no_space_length_4: colo
-color_no_space_length_5: color
-color_no_space_length_6: colort
-color_no_space_upper_length_1: C
-color_no_space_upper_length_2: CO
-color_no_space_upper_length_3: COL
-color_no_space_upper_length_4: COLO
-color_no_space_upper_length_5: COLOR
-color_no_space_upper_length_6: COLORT
 color_upper: COLOR_TRIPLE_EXTRA_LARGE
-color_upper_length_1: C
-color_upper_length_2: CO
-color_upper_length_3: COL
-color_upper_length_4: COLO
-color_upper_length_5: COLOR
-color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,10 +26,8 @@ directory: parts/clothes_item_t_shirt_color_triple_extra_large
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_t_shirt_color_triple_extra_large
 id: clothes_item_t_shirt_color_triple_extra_large
 id_no_class: item_t_shirt_color_triple_extra_large
-id_no_color: color_triple_extra_large
 id_no_size: color_triple_extra_large
 id_no_type: t_shirt_color_triple_extra_large
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_color_triple_extra_large
@@ -138,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[clothes_item_t_shirt_color_triple_extra_large](none)<br>[](none)<br>[Clothes
@@ -155,7 +53,6 @@ md5_6_alpha_upper: 6SFD1
 md5_6_upper: AE02C5
 name: Clothes Item T Shirt Color Triple Extra Large
 name_no_class: Item T Shirt Color Triple Extra Large
-name_no_color: Color Triple Extra Large
 name_no_size: Color Triple Extra Large
 name_no_size_short: Color Triple Extra Large
 name_no_type: T Shirt Color Triple Extra Large
@@ -174,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: t_shirt
 size_capital: T Shirt
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: t_
-size_length_3: t_s
-size_length_4: t_sh
-size_length_5: t_shi
-size_length_6: t_shir
-size_name: T Shirt
-size_no_space_length_1: t
-size_no_space_length_2: ts
-size_no_space_length_3: tsh
-size_no_space_length_4: tshi
-size_no_space_length_5: tshir
-size_no_space_length_6: tshirt
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TS
-size_no_space_upper_length_3: TSH
-size_no_space_upper_length_4: TSHI
-size_no_space_upper_length_5: TSHIR
-size_no_space_upper_length_6: TSHIRT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: T_SHIRT
-size_upper_length_1: T
-size_upper_length_2: T_
-size_upper_length_3: T_S
-size_upper_length_4: T_SH
-size_upper_length_5: T_SHI
-size_upper_length_6: T_SHIR
 type: item
 type_capital: Item
 type_first_letter: i
 type_first_letter_upper: I
-type_length_1: i
-type_length_2: it
-type_length_3: ite
-type_length_4: item
-type_length_5: item
-type_length_6: item
-type_name: Item
-type_no_space_length_1: i
-type_no_space_length_2: it
-type_no_space_length_3: ite
-type_no_space_length_4: item
-type_no_space_length_5: item
-type_no_space_length_6: item
-type_no_space_upper_length_1: I
-type_no_space_upper_length_2: IT
-type_no_space_upper_length_3: ITE
-type_no_space_upper_length_4: ITEM
-type_no_space_upper_length_5: ITEM
-type_no_space_upper_length_6: ITEM
 type_upper: ITEM
-type_upper_length_1: I
-type_upper_length_2: IT
-type_upper_length_3: ITE
-type_upper_length_4: ITEM
-type_upper_length_5: ITEM
-type_upper_length_6: ITEM

@@ -1,98 +1,23 @@
-bip_39_word_dash_12: program-wink-happy-blade-morning-raw-defense-clarify-gun-april-feature-auto
-bip_39_word_dash_2: program-wink
-bip_39_word_dash_3: program-wink-happy
-bip_39_word_new_br_12: program<br>wink<br>happy<br>blade<br>morning<br>raw<br>defense<br>clarify<br>gun<br>april<br>feature<br>auto
-bip_39_word_new_br_2: program<br>wink
-bip_39_word_new_br_3: program<br>wink<br>happy
-bip_39_word_new_line_12: 'program
-
-  wink
-
-  happy
-
-  blade
-
-  morning
-
-  raw
-
-  defense
-
-  clarify
-
-  gun
-
-  april
-
-  feature
-
-  auto'
-bip_39_word_new_line_2: 'program
-
-  wink'
-bip_39_word_new_line_3: 'program
-
-  wink
-
-  happy'
-bip_39_word_no_space_12: programwinkhappyblademorningrawdefenseclarifygunaprilfeatureauto
-bip_39_word_no_space_2: programwink
-bip_39_word_no_space_3: programwinkhappy
-bip_39_word_space_12: program wink happy blade morning raw defense clarify gun april
-  feature auto
-bip_39_word_space_2: program wink
-bip_39_word_space_3: program wink happy
-bip_39_word_underscore_12: program_wink_happy_blade_morning_raw_defense_clarify_gun_april_feature_auto
-bip_39_word_underscore_2: program_wink
-bip_39_word_underscore_3: program_wink_happy
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_wood
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_wood
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_wood
 id: category_wood
 id_no_class: wood
-id_no_color: wood
 id_no_size: wood
 id_no_type: wood
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_wood](none)<br>[](none)<br>[Category Wood](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: 9PA2Q
 md5_6_upper: F8A842
 name: Category Wood
 name_no_class: Wood
-name_no_color: Wood
 name_no_size: Wood
 name_no_size_short: Wood
 name_no_type: Wood
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,7 +80,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -168,29 +87,4 @@ type: wood
 type_capital: Wood
 type_first_letter: w
 type_first_letter_upper: W
-type_length_1: w
-type_length_2: wo
-type_length_3: woo
-type_length_4: wood
-type_length_5: wood
-type_length_6: wood
-type_name: Wood
-type_no_space_length_1: w
-type_no_space_length_2: wo
-type_no_space_length_3: woo
-type_no_space_length_4: wood
-type_no_space_length_5: wood
-type_no_space_length_6: wood
-type_no_space_upper_length_1: W
-type_no_space_upper_length_2: WO
-type_no_space_upper_length_3: WOO
-type_no_space_upper_length_4: WOOD
-type_no_space_upper_length_5: WOOD
-type_no_space_upper_length_6: WOOD
 type_upper: WOOD
-type_upper_length_1: W
-type_upper_length_2: WO
-type_upper_length_3: WOO
-type_upper_length_4: WOOD
-type_upper_length_5: WOOD
-type_upper_length_6: WOOD

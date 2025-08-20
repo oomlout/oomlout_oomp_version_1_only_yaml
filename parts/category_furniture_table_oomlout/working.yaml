@@ -1,122 +1,23 @@
-bip_39_word_dash_12: actor-stock-crew-elder-mountain-chimney-cost-clip-person-tortoise-chef-already
-bip_39_word_dash_2: actor-stock
-bip_39_word_dash_3: actor-stock-crew
-bip_39_word_new_br_12: actor<br>stock<br>crew<br>elder<br>mountain<br>chimney<br>cost<br>clip<br>person<br>tortoise<br>chef<br>already
-bip_39_word_new_br_2: actor<br>stock
-bip_39_word_new_br_3: actor<br>stock<br>crew
-bip_39_word_new_line_12: 'actor
-
-  stock
-
-  crew
-
-  elder
-
-  mountain
-
-  chimney
-
-  cost
-
-  clip
-
-  person
-
-  tortoise
-
-  chef
-
-  already'
-bip_39_word_new_line_2: 'actor
-
-  stock'
-bip_39_word_new_line_3: 'actor
-
-  stock
-
-  crew'
-bip_39_word_no_space_12: actorstockcreweldermountainchimneycostclippersontortoisechefalready
-bip_39_word_no_space_2: actorstock
-bip_39_word_no_space_3: actorstockcrew
-bip_39_word_space_12: actor stock crew elder mountain chimney cost clip person tortoise
-  chef already
-bip_39_word_space_2: actor stock
-bip_39_word_space_3: actor stock crew
-bip_39_word_underscore_12: actor_stock_crew_elder_mountain_chimney_cost_clip_person_tortoise_chef_already
-bip_39_word_underscore_2: actor_stock
-bip_39_word_underscore_3: actor_stock_crew
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: oomlout
 color_capital: Oomlout
 color_first_letter: o
 color_first_letter_upper: O
-color_length_1: o
-color_length_2: oo
-color_length_3: oom
-color_length_4: ooml
-color_length_5: oomlo
-color_length_6: oomlou
-color_name: Oomlout
-color_no_space_length_1: o
-color_no_space_length_2: oo
-color_no_space_length_3: oom
-color_no_space_length_4: ooml
-color_no_space_length_5: oomlo
-color_no_space_length_6: oomlou
-color_no_space_upper_length_1: O
-color_no_space_upper_length_2: OO
-color_no_space_upper_length_3: OOM
-color_no_space_upper_length_4: OOML
-color_no_space_upper_length_5: OOMLO
-color_no_space_upper_length_6: OOMLOU
 color_upper: OOMLOUT
-color_upper_length_1: O
-color_upper_length_2: OO
-color_upper_length_3: OOM
-color_upper_length_4: OOML
-color_upper_length_5: OOMLO
-color_upper_length_6: OOMLOU
 description: category_furniture
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_furniture_table_oomlout
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_furniture_table_oomlout
 id: category_furniture_table_oomlout
 id_no_class: furniture_table_oomlout
-id_no_color: oomlout
 id_no_size: oomlout
 id_no_type: table_oomlout
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_table_oomlout
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_furniture_table_oomlout](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 4GKAH
 md5_6_upper: 724EB9
 name: Category Furniture Table Oomlout
 name_no_class: Furniture Table Oomlout
-name_no_color: Oomlout
 name_no_size: Oomlout
 name_no_size_short: Oomlout
 name_no_type: Table Oomlout
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: table
 size_capital: Table
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: ta
-size_length_3: tab
-size_length_4: tabl
-size_length_5: table
-size_length_6: table
-size_name: Table
-size_no_space_length_1: t
-size_no_space_length_2: ta
-size_no_space_length_3: tab
-size_no_space_length_4: tabl
-size_no_space_length_5: table
-size_no_space_length_6: table
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TA
-size_no_space_upper_length_3: TAB
-size_no_space_upper_length_4: TABL
-size_no_space_upper_length_5: TABLE
-size_no_space_upper_length_6: TABLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TABLE
-size_upper_length_1: T
-size_upper_length_2: TA
-size_upper_length_3: TAB
-size_upper_length_4: TABL
-size_upper_length_5: TABLE
-size_upper_length_6: TABLE
 type: furniture
 type_capital: Furniture
 type_first_letter: f
 type_first_letter_upper: F
-type_length_1: f
-type_length_2: fu
-type_length_3: fur
-type_length_4: furn
-type_length_5: furni
-type_length_6: furnit
-type_name: Furniture
-type_no_space_length_1: f
-type_no_space_length_2: fu
-type_no_space_length_3: fur
-type_no_space_length_4: furn
-type_no_space_length_5: furni
-type_no_space_length_6: furnit
-type_no_space_upper_length_1: F
-type_no_space_upper_length_2: FU
-type_no_space_upper_length_3: FUR
-type_no_space_upper_length_4: FURN
-type_no_space_upper_length_5: FURNI
-type_no_space_upper_length_6: FURNIT
 type_upper: FURNITURE
-type_upper_length_1: F
-type_upper_length_2: FU
-type_upper_length_3: FUR
-type_upper_length_4: FURN
-type_upper_length_5: FURNI
-type_upper_length_6: FURNIT

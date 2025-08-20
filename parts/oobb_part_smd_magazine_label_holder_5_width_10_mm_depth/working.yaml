@@ -1,132 +1,31 @@
-bip_39_word_dash_12: salute-galaxy-velvet-knife-also-feature-opinion-kind-wrestle-lab-decide-aspect
-bip_39_word_dash_2: salute-galaxy
-bip_39_word_dash_3: salute-galaxy-velvet
-bip_39_word_new_br_12: salute<br>galaxy<br>velvet<br>knife<br>also<br>feature<br>opinion<br>kind<br>wrestle<br>lab<br>decide<br>aspect
-bip_39_word_new_br_2: salute<br>galaxy
-bip_39_word_new_br_3: salute<br>galaxy<br>velvet
-bip_39_word_new_line_12: 'salute
-
-  galaxy
-
-  velvet
-
-  knife
-
-  also
-
-  feature
-
-  opinion
-
-  kind
-
-  wrestle
-
-  lab
-
-  decide
-
-  aspect'
-bip_39_word_new_line_2: 'salute
-
-  galaxy'
-bip_39_word_new_line_3: 'salute
-
-  galaxy
-
-  velvet'
-bip_39_word_no_space_12: salutegalaxyvelvetknifealsofeatureopinionkindwrestlelabdecideaspect
-bip_39_word_no_space_2: salutegalaxy
-bip_39_word_no_space_3: salutegalaxyvelvet
-bip_39_word_space_12: salute galaxy velvet knife also feature opinion kind wrestle
-  lab decide aspect
-bip_39_word_space_2: salute galaxy
-bip_39_word_space_3: salute galaxy velvet
-bip_39_word_underscore_12: salute_galaxy_velvet_knife_also_feature_opinion_kind_wrestle_lab_decide_aspect
-bip_39_word_underscore_2: salute_galaxy
-bip_39_word_underscore_3: salute_galaxy_velvet
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 5_width_10_mm_depth
 description_main_capital: 5 Width 10 mm Depth
 description_main_first_letter: '5'
 description_main_first_letter_upper: '5'
-description_main_length_1: '5'
-description_main_length_2: '5_'
-description_main_length_3: 5_w
-description_main_length_4: 5_wi
-description_main_length_5: 5_wid
-description_main_length_6: 5_widt
-description_main_name: 5 Width 10 mm Depth
-description_main_no_space_length_1: '5'
-description_main_no_space_length_2: 5w
-description_main_no_space_length_3: 5wi
-description_main_no_space_length_4: 5wid
-description_main_no_space_length_5: 5widt
-description_main_no_space_length_6: 5width
-description_main_no_space_upper_length_1: '5'
-description_main_no_space_upper_length_2: 5W
-description_main_no_space_upper_length_3: 5WI
-description_main_no_space_upper_length_4: 5WID
-description_main_no_space_upper_length_5: 5WIDT
-description_main_no_space_upper_length_6: 5WIDTH
 description_main_upper: 5_WIDTH_10_MM_DEPTH
-description_main_upper_length_1: '5'
-description_main_upper_length_2: '5_'
-description_main_upper_length_3: 5_W
-description_main_upper_length_4: 5_WI
-description_main_upper_length_5: 5_WID
-description_main_upper_length_6: 5_WIDT
 description_only_numbers: '510'
 description_only_numbers_short: '510'
 description_or_color: '510'
 description_or_color_upper: '510'
 directory: parts/oobb_part_smd_magazine_label_holder_5_width_10_mm_depth
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_smd_magazine_label_holder_5_width_10_mm_depth
 id: oobb_part_smd_magazine_label_holder_5_width_10_mm_depth
 id_no_class: part_smd_magazine_label_holder_5_width_10_mm_depth
-id_no_color: 5width10mmdepth
 id_no_size: 5_width_10_mm_depth
 id_no_type: smd_magazine_label_holder_5_width_10_mm_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_smd_magazine_label_holder_5_width_10_mm_depth
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_smd_magazine_label_holder_5_width_10_mm_depth](none)<br>[](none)<br>[Oobb
@@ -151,12 +49,11 @@ md5_6: d6719f
 md5_6_alpha: 8d7z3
 md5_6_alpha_upper: 8D7Z3
 md5_6_upper: D6719F
-name: Oobb Part SMD Magazine Label Holder 5 Width 10 mm Depth
-name_no_class: Part SMD Magazine Label Holder 5 Width 10 mm Depth
-name_no_color: 5Width10mmdepth
-name_no_size: 5 Width 10 mm Depth
+name: Oobb Part Smd Magazine Label Holder 5 Width 10 Mm Depth
+name_no_class: Part Smd Magazine Label Holder 5 Width 10 Mm Depth
+name_no_size: 5 Width 10 Mm Depth
 name_no_size_short: 5 Width 10 Mm Depth
-name_no_type: SMD Magazine Label Holder 5 Width 10 mm Depth
+name_no_type: Smd Magazine Label Holder 5 Width 10 Mm Depth
 oomp_key: oomp_oobb_part_smd_magazine_label_holder_5_width_10_mm_depth
 oomp_word: school bamboo diamonds
 oomp_word_emoji: ':school: :bamboo: :diamonds:'
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,61 +77,11 @@ size: smd_magazine_label_holder
 size_capital: Smd Magazine Label Holder
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sm
-size_length_3: smd
-size_length_4: smd_
-size_length_5: smd_m
-size_length_6: smd_ma
-size_name: SMD Magazine Label Holder
-size_no_space_length_1: s
-size_no_space_length_2: sm
-size_no_space_length_3: smd
-size_no_space_length_4: smdm
-size_no_space_length_5: smdma
-size_no_space_length_6: smdmag
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SM
-size_no_space_upper_length_3: SMD
-size_no_space_upper_length_4: SMDM
-size_no_space_upper_length_5: SMDMA
-size_no_space_upper_length_6: SMDMAG
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SMD_MAGAZINE_LABEL_HOLDER
-size_upper_length_1: S
-size_upper_length_2: SM
-size_upper_length_3: SMD
-size_upper_length_4: SMD_
-size_upper_length_5: SMD_M
-size_upper_length_6: SMD_MA
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

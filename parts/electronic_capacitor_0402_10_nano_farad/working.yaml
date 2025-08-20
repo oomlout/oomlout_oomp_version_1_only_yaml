@@ -1,122 +1,23 @@
-bip_39_word_dash_12: sort-veteran-indicate-play-behind-rice-keep-opinion-inject-oven-foster-allow
-bip_39_word_dash_2: sort-veteran
-bip_39_word_dash_3: sort-veteran-indicate
-bip_39_word_new_br_12: sort<br>veteran<br>indicate<br>play<br>behind<br>rice<br>keep<br>opinion<br>inject<br>oven<br>foster<br>allow
-bip_39_word_new_br_2: sort<br>veteran
-bip_39_word_new_br_3: sort<br>veteran<br>indicate
-bip_39_word_new_line_12: 'sort
-
-  veteran
-
-  indicate
-
-  play
-
-  behind
-
-  rice
-
-  keep
-
-  opinion
-
-  inject
-
-  oven
-
-  foster
-
-  allow'
-bip_39_word_new_line_2: 'sort
-
-  veteran'
-bip_39_word_new_line_3: 'sort
-
-  veteran
-
-  indicate'
-bip_39_word_no_space_12: sortveteranindicateplaybehindricekeepopinioninjectovenfosterallow
-bip_39_word_no_space_2: sortveteran
-bip_39_word_no_space_3: sortveteranindicate
-bip_39_word_space_12: sort veteran indicate play behind rice keep opinion inject oven
-  foster allow
-bip_39_word_space_2: sort veteran
-bip_39_word_space_3: sort veteran indicate
-bip_39_word_underscore_12: sort_veteran_indicate_play_behind_rice_keep_opinion_inject_oven_foster_allow
-bip_39_word_underscore_2: sort_veteran
-bip_39_word_underscore_3: sort_veteran_indicate
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 10_nano_farad
 description_main_capital: 10 Nano Farad
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '10'
-description_main_length_3: '10_'
-description_main_length_4: 10_n
-description_main_length_5: 10_na
-description_main_length_6: 10_nan
-description_main_name: 10 Nano Farad
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '10'
-description_main_no_space_length_3: 10n
-description_main_no_space_length_4: 10na
-description_main_no_space_length_5: 10nan
-description_main_no_space_length_6: 10nano
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '10'
-description_main_no_space_upper_length_3: 10N
-description_main_no_space_upper_length_4: 10NA
-description_main_no_space_upper_length_5: 10NAN
-description_main_no_space_upper_length_6: 10NANO
 description_main_upper: 10_NANO_FARAD
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '10'
-description_main_upper_length_3: '10_'
-description_main_upper_length_4: 10_N
-description_main_upper_length_5: 10_NA
-description_main_upper_length_6: 10_NAN
 description_only_numbers: '10'
 description_only_numbers_short: 10nf
 description_or_color: 10nf
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_c4nf10_electronic_capacitor_0402_10_nano_farad
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_capacitor_0402_10_nano_farad
 id: electronic_capacitor_0402_10_nano_farad
 id_no_class: capacitor_0402_10_nano_farad
-id_no_color: 10nanofarad
 id_no_size: 10_nano_farad
 id_no_type: 0402_10_nano_farad
 kicad_reference: C
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_capacitor_0402_10_nano_farad](none)<br>[c4nf10](none)<br>[Electronic
@@ -167,7 +65,6 @@ md5_6_alpha_upper: 45WKN
 md5_6_upper: 6AB827
 name: Electronic Capacitor 0402 10 Nano Farad
 name_no_class: Capacitor 0402 10 Nano Farad
-name_no_color: 10Nanofarad
 name_no_size: 10 Nano Farad
 name_no_size_short: 10nf Nano Farad
 name_no_type: 0402 10 Nano Farad
@@ -187,7 +84,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: c4nf10
 short_code_upper: C4NF10
@@ -195,34 +91,9 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '04'
-size_length_3: '040'
-size_length_4: '0402'
-size_length_5: '0402'
-size_length_6: '0402'
-size_name: '0402'
-size_no_space_length_1: '0'
-size_no_space_length_2: '04'
-size_no_space_length_3: '040'
-size_no_space_length_4: '0402'
-size_no_space_length_5: '0402'
-size_no_space_length_6: '0402'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '04'
-size_no_space_upper_length_3: '040'
-size_no_space_upper_length_4: '0402'
-size_no_space_upper_length_5: '0402'
-size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
-size_upper_length_1: '0'
-size_upper_length_2: '04'
-size_upper_length_3: '040'
-size_upper_length_4: '0402'
-size_upper_length_5: '0402'
-size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -235,29 +106,4 @@ type: capacitor
 type_capital: Capacitor
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: ca
-type_length_3: cap
-type_length_4: capa
-type_length_5: capac
-type_length_6: capaci
-type_name: Capacitor
-type_no_space_length_1: c
-type_no_space_length_2: ca
-type_no_space_length_3: cap
-type_no_space_length_4: capa
-type_no_space_length_5: capac
-type_no_space_length_6: capaci
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CA
-type_no_space_upper_length_3: CAP
-type_no_space_upper_length_4: CAPA
-type_no_space_upper_length_5: CAPAC
-type_no_space_upper_length_6: CAPACI
 type_upper: CAPACITOR
-type_upper_length_1: C
-type_upper_length_2: CA
-type_upper_length_3: CAP
-type_upper_length_4: CAPA
-type_upper_length_5: CAPAC
-type_upper_length_6: CAPACI

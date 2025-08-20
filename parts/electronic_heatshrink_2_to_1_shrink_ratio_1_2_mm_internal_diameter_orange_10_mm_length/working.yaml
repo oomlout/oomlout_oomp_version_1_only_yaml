@@ -1,156 +1,31 @@
-bip_39_word_dash_12: april-paddle-health-practice-grunt-glass-supreme-fun-blind-hero-opinion-alarm
-bip_39_word_dash_2: april-paddle
-bip_39_word_dash_3: april-paddle-health
-bip_39_word_new_br_12: april<br>paddle<br>health<br>practice<br>grunt<br>glass<br>supreme<br>fun<br>blind<br>hero<br>opinion<br>alarm
-bip_39_word_new_br_2: april<br>paddle
-bip_39_word_new_br_3: april<br>paddle<br>health
-bip_39_word_new_line_12: 'april
-
-  paddle
-
-  health
-
-  practice
-
-  grunt
-
-  glass
-
-  supreme
-
-  fun
-
-  blind
-
-  hero
-
-  opinion
-
-  alarm'
-bip_39_word_new_line_2: 'april
-
-  paddle'
-bip_39_word_new_line_3: 'april
-
-  paddle
-
-  health'
-bip_39_word_no_space_12: aprilpaddlehealthpracticegruntglasssupremefunblindheroopinionalarm
-bip_39_word_no_space_2: aprilpaddle
-bip_39_word_no_space_3: aprilpaddlehealth
-bip_39_word_space_12: april paddle health practice grunt glass supreme fun blind hero
-  opinion alarm
-bip_39_word_space_2: april paddle
-bip_39_word_space_3: april paddle health
-bip_39_word_underscore_12: april_paddle_health_practice_grunt_glass_supreme_fun_blind_hero_opinion_alarm
-bip_39_word_underscore_2: april_paddle
-bip_39_word_underscore_3: april_paddle_health
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: orange
 color_capital: Orange
 color_first_letter: o
 color_first_letter_upper: O
-color_length_1: o
-color_length_2: or
-color_length_3: ora
-color_length_4: oran
-color_length_5: orang
-color_length_6: orange
-color_name: Orange
-color_no_space_length_1: o
-color_no_space_length_2: or
-color_no_space_length_3: ora
-color_no_space_length_4: oran
-color_no_space_length_5: orang
-color_no_space_length_6: orange
-color_no_space_upper_length_1: O
-color_no_space_upper_length_2: OR
-color_no_space_upper_length_3: ORA
-color_no_space_upper_length_4: ORAN
-color_no_space_upper_length_5: ORANG
-color_no_space_upper_length_6: ORANGE
 color_upper: ORANGE
-color_upper_length_1: O
-color_upper_length_2: OR
-color_upper_length_3: ORA
-color_upper_length_4: ORAN
-color_upper_length_5: ORANG
-color_upper_length_6: ORANGE
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 10_mm_length
 description_main_capital: 10 mm Length
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '10'
-description_main_length_3: '10_'
-description_main_length_4: 10_m
-description_main_length_5: 10_mm
-description_main_length_6: 10_mm_
-description_main_name: 10 mm Length
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '10'
-description_main_no_space_length_3: 10m
-description_main_no_space_length_4: 10mm
-description_main_no_space_length_5: 10mml
-description_main_no_space_length_6: 10mmle
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '10'
-description_main_no_space_upper_length_3: 10M
-description_main_no_space_upper_length_4: 10MM
-description_main_no_space_upper_length_5: 10MML
-description_main_no_space_upper_length_6: 10MMLE
 description_main_upper: 10_MM_LENGTH
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '10'
-description_main_upper_length_3: '10_'
-description_main_upper_length_4: 10_M
-description_main_upper_length_5: 10_MM
-description_main_upper_length_6: 10_MM_
 description_only_numbers: '10'
 description_only_numbers_short: '10'
 description_or_color: O10
 description_or_color_upper: O10
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_orange_10_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_orange_10_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_orange_10_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_orange_10_mm_length
-id_no_color: 10_mm_length
 id_no_size: orange_10_mm_length
 id_no_type: 1_2_mm_internal_diameter_orange_10_mm_length
 kicad_reference: ''
@@ -161,7 +36,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_orange_10_mm_length](none)<br>[o10](none)<br>[Electronic
@@ -176,14 +50,13 @@ md5_6: 5d36da
 md5_6_alpha: 3mxne
 md5_6_alpha_upper: 3MXNE
 md5_6_upper: 5D36DA
-name: Electronic Heatshrink 2 To 1 Shrink Ratio 1 2 mm Internal Diameter Orange 10
-  mm Length
-name_no_class: Heatshrink 2 To 1 Shrink Ratio 1 2 mm Internal Diameter Orange 10 mm
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 1 2 Mm Internal Diameter Orange 10
+  Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 1 2 Mm Internal Diameter Orange 10 Mm
   Length
-name_no_color: 10 mm Length
-name_no_size: Orange 10 mm Length
+name_no_size: Orange 10 Mm Length
 name_no_size_short: Orange 10 Mm Length
-name_no_type: 1 2 mm Internal Diameter Orange 10 mm Length
+name_no_type: 1 2 Mm Internal Diameter Orange 10 Mm Length
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_1_2_mm_internal_diameter_orange_10_mm_length
 oomp_word: blowfish rabbit hotel
 oomp_word_emoji: ':blowfish: :rabbit: :hotel:'
@@ -199,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: o10
 short_code_upper: O10
@@ -207,61 +79,11 @@ size: 1_2_mm_internal_diameter
 size_capital: 1.2 mm Internal Diameter
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '1_'
-size_length_3: '1_2'
-size_length_4: '1_2_'
-size_length_5: 1_2_m
-size_length_6: 1_2_mm
-size_name: 1 2 mm Internal Diameter
-size_no_space_length_1: '1'
-size_no_space_length_2: '12'
-size_no_space_length_3: 12m
-size_no_space_length_4: 12mm
-size_no_space_length_5: 12mmi
-size_no_space_length_6: 12mmin
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: '12'
-size_no_space_upper_length_3: 12M
-size_no_space_upper_length_4: 12MM
-size_no_space_upper_length_5: 12MMI
-size_no_space_upper_length_6: 12MMIN
 size_only_numbers: '12'
 size_only_numbers_no_zeros: '12'
 size_upper: 1_2_MM_INTERNAL_DIAMETER
-size_upper_length_1: '1'
-size_upper_length_2: '1_'
-size_upper_length_3: '1_2'
-size_upper_length_4: '1_2_'
-size_upper_length_5: 1_2_M
-size_upper_length_6: 1_2_MM
 type: heatshrink_2_to_1_shrink_ratio
 type_capital: Heatshrink 2 To 1 Shrink Ratio
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: he
-type_length_3: hea
-type_length_4: heat
-type_length_5: heats
-type_length_6: heatsh
-type_name: Heatshrink 2 To 1 Shrink Ratio
-type_no_space_length_1: h
-type_no_space_length_2: he
-type_no_space_length_3: hea
-type_no_space_length_4: heat
-type_no_space_length_5: heats
-type_no_space_length_6: heatsh
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HE
-type_no_space_upper_length_3: HEA
-type_no_space_upper_length_4: HEAT
-type_no_space_upper_length_5: HEATS
-type_no_space_upper_length_6: HEATSH
 type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO
-type_upper_length_1: H
-type_upper_length_2: HE
-type_upper_length_3: HEA
-type_upper_length_4: HEAT
-type_upper_length_5: HEATS
-type_upper_length_6: HEATSH

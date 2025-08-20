@@ -1,156 +1,31 @@
-bip_39_word_dash_12: team-express-devote-symbol-attend-ball-april-device-cousin-panel-paper-assault
-bip_39_word_dash_2: team-express
-bip_39_word_dash_3: team-express-devote
-bip_39_word_new_br_12: team<br>express<br>devote<br>symbol<br>attend<br>ball<br>april<br>device<br>cousin<br>panel<br>paper<br>assault
-bip_39_word_new_br_2: team<br>express
-bip_39_word_new_br_3: team<br>express<br>devote
-bip_39_word_new_line_12: 'team
-
-  express
-
-  devote
-
-  symbol
-
-  attend
-
-  ball
-
-  april
-
-  device
-
-  cousin
-
-  panel
-
-  paper
-
-  assault'
-bip_39_word_new_line_2: 'team
-
-  express'
-bip_39_word_new_line_3: 'team
-
-  express
-
-  devote'
-bip_39_word_no_space_12: teamexpressdevotesymbolattendballaprildevicecousinpanelpaperassault
-bip_39_word_no_space_2: teamexpress
-bip_39_word_no_space_3: teamexpressdevote
-bip_39_word_space_12: team express devote symbol attend ball april device cousin panel
-  paper assault
-bip_39_word_space_2: team express
-bip_39_word_space_3: team express devote
-bip_39_word_underscore_12: team_express_devote_symbol_attend_ball_april_device_cousin_panel_paper_assault
-bip_39_word_underscore_2: team_express
-bip_39_word_underscore_3: team_express_devote
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: through_hole_long
 description_extra_capital: Through Hole Long
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: th
-description_extra_length_3: thr
-description_extra_length_4: thro
-description_extra_length_5: throu
-description_extra_length_6: throug
-description_extra_name: Through Hole Long
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: th
-description_extra_no_space_length_3: thr
-description_extra_no_space_length_4: thro
-description_extra_no_space_length_5: throu
-description_extra_no_space_length_6: throug
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TH
-description_extra_no_space_upper_length_3: THR
-description_extra_no_space_upper_length_4: THRO
-description_extra_no_space_upper_length_5: THROU
-description_extra_no_space_upper_length_6: THROUG
 description_extra_upper: THROUGH_HOLE_LONG
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TH
-description_extra_upper_length_3: THR
-description_extra_upper_length_4: THRO
-description_extra_upper_length_5: THROU
-description_extra_upper_length_6: THROUG
 description_main: 22_pin
 description_main_capital: 22 Pin
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '22'
-description_main_length_3: '22_'
-description_main_length_4: 22_p
-description_main_length_5: 22_pi
-description_main_length_6: 22_pin
-description_main_name: 22 Pin
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '22'
-description_main_no_space_length_3: 22p
-description_main_no_space_length_4: 22pi
-description_main_no_space_length_5: 22pin
-description_main_no_space_length_6: 22pin
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '22'
-description_main_no_space_upper_length_3: 22P
-description_main_no_space_upper_length_4: 22PI
-description_main_no_space_upper_length_5: 22PIN
-description_main_no_space_upper_length_6: 22PIN
 description_main_upper: 22_PIN
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '22'
-description_main_upper_length_3: '22_'
-description_main_upper_length_4: 22_P
-description_main_upper_length_5: 22_PI
-description_main_upper_length_6: 22_PIN
 description_only_numbers: '22'
 description_only_numbers_short: '22'
 description_or_color: '22'
 description_or_color_upper: '22'
 directory: parts/electronic_socket_2_54_mm_22_pin_through_hole_long
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_socket_2_54_mm_22_pin_through_hole_long
 id: electronic_socket_2_54_mm_22_pin_through_hole_long
 id_no_class: socket_2_54_mm_22_pin_through_hole_long
-id_no_color: 22pinthroughholelong
 id_no_size: 22_pin_through_hole_long
 id_no_type: 2_54_mm_22_pin_through_hole_long
 kicad_reference: CONN
@@ -161,7 +36,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_socket_2_54_mm_22_pin_through_hole_long](none)<br>[sci122pthl](none)<br>[Electronic
@@ -176,12 +50,11 @@ md5_6: d93fe7
 md5_6_alpha: 8h5uv
 md5_6_alpha_upper: 8H5UV
 md5_6_upper: D93FE7
-name: Electronic Socket 2 54 mm 22 Pin Through Hole Long
-name_no_class: Socket 2 54 mm 22 Pin Through Hole Long
-name_no_color: 22Pinthroughholelong
+name: Electronic Socket 2 54 Mm 22 Pin Through Hole Long
+name_no_class: Socket 2 54 Mm 22 Pin Through Hole Long
 name_no_size: 22 Pin Through Hole Long
 name_no_size_short: 22 Pin Through Hole Long
-name_no_type: 2 54 mm 22 Pin Through Hole Long
+name_no_type: 2 54 Mm 22 Pin Through Hole Long
 oomp_key: oomp_electronic_socket_2_54_mm_22_pin_through_hole_long
 oomp_word: bank horse helicopter
 oomp_word_emoji: ':bank: :horse: :helicopter:'
@@ -197,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: sci122pthl
 short_code_upper: SCI122PTHL
@@ -205,61 +77,11 @@ size: 2_54_mm
 size_capital: 2.54 mm
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '2_'
-size_length_3: '2_5'
-size_length_4: '2_54'
-size_length_5: '2_54_'
-size_length_6: 2_54_m
-size_name: 2 54 mm
-size_no_space_length_1: '2'
-size_no_space_length_2: '25'
-size_no_space_length_3: '254'
-size_no_space_length_4: 254m
-size_no_space_length_5: 254mm
-size_no_space_length_6: 254mm
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '25'
-size_no_space_upper_length_3: '254'
-size_no_space_upper_length_4: 254M
-size_no_space_upper_length_5: 254MM
-size_no_space_upper_length_6: 254MM
 size_only_numbers: '254'
 size_only_numbers_no_zeros: '254'
 size_upper: 2_54_MM
-size_upper_length_1: '2'
-size_upper_length_2: '2_'
-size_upper_length_3: '2_5'
-size_upper_length_4: '2_54'
-size_upper_length_5: '2_54_'
-size_upper_length_6: 2_54_M
 type: socket
 type_capital: Socket
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: so
-type_length_3: soc
-type_length_4: sock
-type_length_5: socke
-type_length_6: socket
-type_name: Socket
-type_no_space_length_1: s
-type_no_space_length_2: so
-type_no_space_length_3: soc
-type_no_space_length_4: sock
-type_no_space_length_5: socke
-type_no_space_length_6: socket
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SO
-type_no_space_upper_length_3: SOC
-type_no_space_upper_length_4: SOCK
-type_no_space_upper_length_5: SOCKE
-type_no_space_upper_length_6: SOCKET
 type_upper: SOCKET
-type_upper_length_1: S
-type_upper_length_2: SO
-type_upper_length_3: SOC
-type_upper_length_4: SOCK
-type_upper_length_5: SOCKE
-type_upper_length_6: SOCKET

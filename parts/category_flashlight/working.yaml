@@ -1,98 +1,23 @@
-bip_39_word_dash_12: usual-mail-drastic-anchor-giggle-maple-ostrich-choice-unlock-grab-vessel-april
-bip_39_word_dash_2: usual-mail
-bip_39_word_dash_3: usual-mail-drastic
-bip_39_word_new_br_12: usual<br>mail<br>drastic<br>anchor<br>giggle<br>maple<br>ostrich<br>choice<br>unlock<br>grab<br>vessel<br>april
-bip_39_word_new_br_2: usual<br>mail
-bip_39_word_new_br_3: usual<br>mail<br>drastic
-bip_39_word_new_line_12: 'usual
-
-  mail
-
-  drastic
-
-  anchor
-
-  giggle
-
-  maple
-
-  ostrich
-
-  choice
-
-  unlock
-
-  grab
-
-  vessel
-
-  april'
-bip_39_word_new_line_2: 'usual
-
-  mail'
-bip_39_word_new_line_3: 'usual
-
-  mail
-
-  drastic'
-bip_39_word_no_space_12: usualmaildrasticanchorgigglemapleostrichchoiceunlockgrabvesselapril
-bip_39_word_no_space_2: usualmail
-bip_39_word_no_space_3: usualmaildrastic
-bip_39_word_space_12: usual mail drastic anchor giggle maple ostrich choice unlock
-  grab vessel april
-bip_39_word_space_2: usual mail
-bip_39_word_space_3: usual mail drastic
-bip_39_word_underscore_12: usual_mail_drastic_anchor_giggle_maple_ostrich_choice_unlock_grab_vessel_april
-bip_39_word_underscore_2: usual_mail
-bip_39_word_underscore_3: usual_mail_drastic
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_flashlight
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_flashlight
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_flashlight
 id: category_flashlight
 id_no_class: flashlight
-id_no_color: flashlight
 id_no_size: flashlight
 id_no_type: flashlight
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_flashlight](none)<br>[](none)<br>[Category Flashlight](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: 6V2U1
 md5_6_upper: AFE619
 name: Category Flashlight
 name_no_class: Flashlight
-name_no_color: Flashlight
 name_no_size: Flashlight
 name_no_size_short: Flashlight
 name_no_type: Flashlight
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,7 +80,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -168,29 +87,4 @@ type: flashlight
 type_capital: Flashlight
 type_first_letter: f
 type_first_letter_upper: F
-type_length_1: f
-type_length_2: fl
-type_length_3: fla
-type_length_4: flas
-type_length_5: flash
-type_length_6: flashl
-type_name: Flashlight
-type_no_space_length_1: f
-type_no_space_length_2: fl
-type_no_space_length_3: fla
-type_no_space_length_4: flas
-type_no_space_length_5: flash
-type_no_space_length_6: flashl
-type_no_space_upper_length_1: F
-type_no_space_upper_length_2: FL
-type_no_space_upper_length_3: FLA
-type_no_space_upper_length_4: FLAS
-type_no_space_upper_length_5: FLASH
-type_no_space_upper_length_6: FLASHL
 type_upper: FLASHLIGHT
-type_upper_length_1: F
-type_upper_length_2: FL
-type_upper_length_3: FLA
-type_upper_length_4: FLAS
-type_upper_length_5: FLASH
-type_upper_length_6: FLASHL

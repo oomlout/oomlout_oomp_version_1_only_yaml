@@ -1,132 +1,31 @@
-bip_39_word_dash_12: solid-best-matrix-exit-capital-legend-network-viable-weekend-length-talk-action
-bip_39_word_dash_2: solid-best
-bip_39_word_dash_3: solid-best-matrix
-bip_39_word_new_br_12: solid<br>best<br>matrix<br>exit<br>capital<br>legend<br>network<br>viable<br>weekend<br>length<br>talk<br>action
-bip_39_word_new_br_2: solid<br>best
-bip_39_word_new_br_3: solid<br>best<br>matrix
-bip_39_word_new_line_12: 'solid
-
-  best
-
-  matrix
-
-  exit
-
-  capital
-
-  legend
-
-  network
-
-  viable
-
-  weekend
-
-  length
-
-  talk
-
-  action'
-bip_39_word_new_line_2: 'solid
-
-  best'
-bip_39_word_new_line_3: 'solid
-
-  best
-
-  matrix'
-bip_39_word_no_space_12: solidbestmatrixexitcapitallegendnetworkviableweekendlengthtalkaction
-bip_39_word_no_space_2: solidbest
-bip_39_word_no_space_3: solidbestmatrix
-bip_39_word_space_12: solid best matrix exit capital legend network viable weekend
-  length talk action
-bip_39_word_space_2: solid best
-bip_39_word_space_3: solid best matrix
-bip_39_word_underscore_12: solid_best_matrix_exit_capital_legend_network_viable_weekend_length_talk_action
-bip_39_word_underscore_2: solid_best
-bip_39_word_underscore_3: solid_best_matrix
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: mi
-description_main_length_3: mix
-description_main_length_4: mixe
-description_main_length_5: mixed
-description_main_length_6: mixed
-description_main_name: Mixed
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mi
-description_main_no_space_length_3: mix
-description_main_no_space_length_4: mixe
-description_main_no_space_length_5: mixed
-description_main_no_space_length_6: mixed
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MI
-description_main_no_space_upper_length_3: MIX
-description_main_no_space_upper_length_4: MIXE
-description_main_no_space_upper_length_5: MIXED
-description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
-description_main_upper_length_1: M
-description_main_upper_length_2: MI
-description_main_upper_length_3: MIX
-description_main_upper_length_4: MIXE
-description_main_upper_length_5: MIXED
-description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/stationery_tape_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_tape_mixed
 id: stationery_tape_mixed
 id_no_class: tape_mixed
-id_no_color: mixed
 id_no_size: mixed
 id_no_type: mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_tape_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[stationery_tape_mixed](none)<br>[](none)<br>[Stationery Tape Mixed](none)<br><br>'
@@ -152,7 +50,6 @@ md5_6_alpha_upper: 1MM8W
 md5_6_upper: 29BB20
 name: Stationery Tape Mixed
 name_no_class: Tape Mixed
-name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Mixed
@@ -171,7 +68,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -180,7 +76,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -188,29 +83,4 @@ type: tape
 type_capital: Tape
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: ta
-type_length_3: tap
-type_length_4: tape
-type_length_5: tape
-type_length_6: tape
-type_name: Tape
-type_no_space_length_1: t
-type_no_space_length_2: ta
-type_no_space_length_3: tap
-type_no_space_length_4: tape
-type_no_space_length_5: tape
-type_no_space_length_6: tape
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TA
-type_no_space_upper_length_3: TAP
-type_no_space_upper_length_4: TAPE
-type_no_space_upper_length_5: TAPE
-type_no_space_upper_length_6: TAPE
 type_upper: TAPE
-type_upper_length_1: T
-type_upper_length_2: TA
-type_upper_length_3: TAP
-type_upper_length_4: TAPE
-type_upper_length_5: TAPE
-type_upper_length_6: TAPE

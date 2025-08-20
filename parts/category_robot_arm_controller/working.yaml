@@ -1,98 +1,23 @@
-bip_39_word_dash_12: code-tragic-shiver-settle-ill-pet-leave-oval-uncover-hair-attack-any
-bip_39_word_dash_2: code-tragic
-bip_39_word_dash_3: code-tragic-shiver
-bip_39_word_new_br_12: code<br>tragic<br>shiver<br>settle<br>ill<br>pet<br>leave<br>oval<br>uncover<br>hair<br>attack<br>any
-bip_39_word_new_br_2: code<br>tragic
-bip_39_word_new_br_3: code<br>tragic<br>shiver
-bip_39_word_new_line_12: 'code
-
-  tragic
-
-  shiver
-
-  settle
-
-  ill
-
-  pet
-
-  leave
-
-  oval
-
-  uncover
-
-  hair
-
-  attack
-
-  any'
-bip_39_word_new_line_2: 'code
-
-  tragic'
-bip_39_word_new_line_3: 'code
-
-  tragic
-
-  shiver'
-bip_39_word_no_space_12: codetragicshiversettleillpetleaveovaluncoverhairattackany
-bip_39_word_no_space_2: codetragic
-bip_39_word_no_space_3: codetragicshiver
-bip_39_word_space_12: code tragic shiver settle ill pet leave oval uncover hair attack
-  any
-bip_39_word_space_2: code tragic
-bip_39_word_space_3: code tragic shiver
-bip_39_word_underscore_12: code_tragic_shiver_settle_ill_pet_leave_oval_uncover_hair_attack_any
-bip_39_word_underscore_2: code_tragic
-bip_39_word_underscore_3: code_tragic_shiver
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_robot_arm_controller
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_robot_arm_controller
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_robot_arm_controller
 id: category_robot_arm_controller
 id_no_class: robot_arm_controller
-id_no_color: robotarmcontroller
 id_no_size: robotarmcontroller
 id_no_type: robot_arm_controller
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_robot_arm_controller](none)<br>[](none)<br>[Category Robot
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 6BPP6
 md5_6_upper: A21CDA
 name: Category Robot Arm Controller
 name_no_class: Robot Arm Controller
-name_no_color: Robotarmcontroller
 name_no_size: Robotarmcontroller
 name_no_size_short: Robotarmcontroller
 name_no_type: Robot Arm Controller
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -169,29 +88,4 @@ type: robot_arm_controller
 type_capital: Robot Arm Controller
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: ro
-type_length_3: rob
-type_length_4: robo
-type_length_5: robot
-type_length_6: robot_
-type_name: Robot Arm Controller
-type_no_space_length_1: r
-type_no_space_length_2: ro
-type_no_space_length_3: rob
-type_no_space_length_4: robo
-type_no_space_length_5: robot
-type_no_space_length_6: robota
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RO
-type_no_space_upper_length_3: ROB
-type_no_space_upper_length_4: ROBO
-type_no_space_upper_length_5: ROBOT
-type_no_space_upper_length_6: ROBOTA
 type_upper: ROBOT_ARM_CONTROLLER
-type_upper_length_1: R
-type_upper_length_2: RO
-type_upper_length_3: ROB
-type_upper_length_4: ROBO
-type_upper_length_5: ROBOT
-type_upper_length_6: ROBOT_

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: provide-city-boring-image-harsh-draft-force-oblige-sweet-world-square-armor
-bip_39_word_dash_2: provide-city
-bip_39_word_dash_3: provide-city-boring
-bip_39_word_new_br_12: provide<br>city<br>boring<br>image<br>harsh<br>draft<br>force<br>oblige<br>sweet<br>world<br>square<br>armor
-bip_39_word_new_br_2: provide<br>city
-bip_39_word_new_br_3: provide<br>city<br>boring
-bip_39_word_new_line_12: 'provide
-
-  city
-
-  boring
-
-  image
-
-  harsh
-
-  draft
-
-  force
-
-  oblige
-
-  sweet
-
-  world
-
-  square
-
-  armor'
-bip_39_word_new_line_2: 'provide
-
-  city'
-bip_39_word_new_line_3: 'provide
-
-  city
-
-  boring'
-bip_39_word_no_space_12: providecityboringimageharshdraftforceobligesweetworldsquarearmor
-bip_39_word_no_space_2: providecity
-bip_39_word_no_space_3: providecityboring
-bip_39_word_space_12: provide city boring image harsh draft force oblige sweet world
-  square armor
-bip_39_word_space_2: provide city
-bip_39_word_space_3: provide city boring
-bip_39_word_underscore_12: provide_city_boring_image_harsh_draft_force_oblige_sweet_world_square_armor
-bip_39_word_underscore_2: provide_city
-bip_39_word_underscore_3: provide_city_boring
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: through_hole
 description_main_capital: Through Hole
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: th
-description_main_length_3: thr
-description_main_length_4: thro
-description_main_length_5: throu
-description_main_length_6: throug
-description_main_name: Through Hole
-description_main_no_space_length_1: t
-description_main_no_space_length_2: th
-description_main_no_space_length_3: thr
-description_main_no_space_length_4: thro
-description_main_no_space_length_5: throu
-description_main_no_space_length_6: throug
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TH
-description_main_no_space_upper_length_3: THR
-description_main_no_space_upper_length_4: THRO
-description_main_no_space_upper_length_5: THROU
-description_main_no_space_upper_length_6: THROUG
 description_main_upper: THROUGH_HOLE
-description_main_upper_length_1: T
-description_main_upper_length_2: TH
-description_main_upper_length_3: THR
-description_main_upper_length_4: THRO
-description_main_upper_length_5: THROU
-description_main_upper_length_6: THROUG
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_nt3th_electronic_nettie_3_nets_through_hole
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_nettie_3_nets_through_hole
 id: electronic_nettie_3_nets_through_hole
 id_no_class: nettie_3_nets_through_hole
-id_no_color: throughhole
 id_no_size: through_hole
 id_no_type: 3_nets_through_hole
 kicad_reference: ''
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_nettie_3_nets_through_hole](none)<br>[nt3th](none)<br>[Electronic
@@ -167,7 +65,6 @@ md5_6_alpha_upper: 7H7GF
 md5_6_upper: BFA6FF
 name: Electronic Nettie 3 Nets Through Hole
 name_no_class: Nettie 3 Nets Through Hole
-name_no_color: Throughhole
 name_no_size: Through Hole
 name_no_size_short: Through Hole
 name_no_type: 3 Nets Through Hole
@@ -186,7 +83,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: nt3th
 short_code_upper: NT3TH
@@ -194,34 +90,9 @@ size: 3_nets
 size_capital: 3 Nets
 size_first_letter: '3'
 size_first_letter_upper: '3'
-size_length_1: '3'
-size_length_2: '3_'
-size_length_3: 3_n
-size_length_4: 3_ne
-size_length_5: 3_net
-size_length_6: 3_nets
-size_name: 3 Nets
-size_no_space_length_1: '3'
-size_no_space_length_2: 3n
-size_no_space_length_3: 3ne
-size_no_space_length_4: 3net
-size_no_space_length_5: 3nets
-size_no_space_length_6: 3nets
-size_no_space_upper_length_1: '3'
-size_no_space_upper_length_2: 3N
-size_no_space_upper_length_3: 3NE
-size_no_space_upper_length_4: 3NET
-size_no_space_upper_length_5: 3NETS
-size_no_space_upper_length_6: 3NETS
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: 3_NETS
-size_upper_length_1: '3'
-size_upper_length_2: '3_'
-size_upper_length_3: 3_N
-size_upper_length_4: 3_NE
-size_upper_length_5: 3_NET
-size_upper_length_6: 3_NETS
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_nettie_3//working/working.kicad_sym
   index: 0
@@ -231,29 +102,4 @@ type: nettie
 type_capital: Nettie
 type_first_letter: n
 type_first_letter_upper: N
-type_length_1: n
-type_length_2: ne
-type_length_3: net
-type_length_4: nett
-type_length_5: netti
-type_length_6: nettie
-type_name: Nettie
-type_no_space_length_1: n
-type_no_space_length_2: ne
-type_no_space_length_3: net
-type_no_space_length_4: nett
-type_no_space_length_5: netti
-type_no_space_length_6: nettie
-type_no_space_upper_length_1: N
-type_no_space_upper_length_2: NE
-type_no_space_upper_length_3: NET
-type_no_space_upper_length_4: NETT
-type_no_space_upper_length_5: NETTI
-type_no_space_upper_length_6: NETTIE
 type_upper: NETTIE
-type_upper_length_1: N
-type_upper_length_2: NE
-type_upper_length_3: NET
-type_upper_length_4: NETT
-type_upper_length_5: NETTI
-type_upper_length_6: NETTIE

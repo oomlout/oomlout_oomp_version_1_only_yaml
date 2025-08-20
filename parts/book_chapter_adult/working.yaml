@@ -1,97 +1,22 @@
-bip_39_word_dash_12: ozone-amateur-already-act-ridge-apple-bamboo-check-dress-raccoon-catalog-amused
-bip_39_word_dash_2: ozone-amateur
-bip_39_word_dash_3: ozone-amateur-already
-bip_39_word_new_br_12: ozone<br>amateur<br>already<br>act<br>ridge<br>apple<br>bamboo<br>check<br>dress<br>raccoon<br>catalog<br>amused
-bip_39_word_new_br_2: ozone<br>amateur
-bip_39_word_new_br_3: ozone<br>amateur<br>already
-bip_39_word_new_line_12: 'ozone
-
-  amateur
-
-  already
-
-  act
-
-  ridge
-
-  apple
-
-  bamboo
-
-  check
-
-  dress
-
-  raccoon
-
-  catalog
-
-  amused'
-bip_39_word_new_line_2: 'ozone
-
-  amateur'
-bip_39_word_new_line_3: 'ozone
-
-  amateur
-
-  already'
-bip_39_word_no_space_12: ozoneamateuralreadyactridgeapplebamboocheckdressraccooncatalogamused
-bip_39_word_no_space_2: ozoneamateur
-bip_39_word_no_space_3: ozoneamateuralready
-bip_39_word_space_12: ozone amateur already act ridge apple bamboo check dress raccoon
-  catalog amused
-bip_39_word_space_2: ozone amateur
-bip_39_word_space_3: ozone amateur already
-bip_39_word_underscore_12: ozone_amateur_already_act_ridge_apple_bamboo_check_dress_raccoon_catalog_amused
-bip_39_word_underscore_2: ozone_amateur
-bip_39_word_underscore_3: ozone_amateur_already
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_chapter_adult
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_chapter_adult
 id: book_chapter_adult
 id_no_class: chapter_adult
-id_no_color: adult
 id_no_size: adult
 id_no_type: adult
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_adult
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_chapter_adult](none)<br>[](none)<br>[Book Chapter Adult](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: '53018'
 md5_6_upper: 8247EC
 name: Book Chapter Adult
 name_no_class: Chapter Adult
-name_no_color: Adult
 name_no_size: Adult
 name_no_size_short: Adult
 name_no_type: Adult
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: adult
 size_capital: Adult
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: ad
-size_length_3: adu
-size_length_4: adul
-size_length_5: adult
-size_length_6: adult
-size_name: Adult
-size_no_space_length_1: a
-size_no_space_length_2: ad
-size_no_space_length_3: adu
-size_no_space_length_4: adul
-size_no_space_length_5: adult
-size_no_space_length_6: adult
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: AD
-size_no_space_upper_length_3: ADU
-size_no_space_upper_length_4: ADUL
-size_no_space_upper_length_5: ADULT
-size_no_space_upper_length_6: ADULT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ADULT
-size_upper_length_1: A
-size_upper_length_2: AD
-size_upper_length_3: ADU
-size_upper_length_4: ADUL
-size_upper_length_5: ADULT
-size_upper_length_6: ADULT
 type: chapter
 type_capital: Chapter
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: ch
-type_length_3: cha
-type_length_4: chap
-type_length_5: chapt
-type_length_6: chapte
-type_name: Chapter
-type_no_space_length_1: c
-type_no_space_length_2: ch
-type_no_space_length_3: cha
-type_no_space_length_4: chap
-type_no_space_length_5: chapt
-type_no_space_length_6: chapte
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CH
-type_no_space_upper_length_3: CHA
-type_no_space_upper_length_4: CHAP
-type_no_space_upper_length_5: CHAPT
-type_no_space_upper_length_6: CHAPTE
 type_upper: CHAPTER
-type_upper_length_1: C
-type_upper_length_2: CH
-type_upper_length_3: CHA
-type_upper_length_4: CHAP
-type_upper_length_5: CHAPT
-type_upper_length_6: CHAPTE

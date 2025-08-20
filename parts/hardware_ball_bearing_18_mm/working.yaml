@@ -1,97 +1,22 @@
-bip_39_word_dash_12: portion-crush-pair-jaguar-rubber-aspect-middle-amazing-icon-ensure-gap-accuse
-bip_39_word_dash_2: portion-crush
-bip_39_word_dash_3: portion-crush-pair
-bip_39_word_new_br_12: portion<br>crush<br>pair<br>jaguar<br>rubber<br>aspect<br>middle<br>amazing<br>icon<br>ensure<br>gap<br>accuse
-bip_39_word_new_br_2: portion<br>crush
-bip_39_word_new_br_3: portion<br>crush<br>pair
-bip_39_word_new_line_12: 'portion
-
-  crush
-
-  pair
-
-  jaguar
-
-  rubber
-
-  aspect
-
-  middle
-
-  amazing
-
-  icon
-
-  ensure
-
-  gap
-
-  accuse'
-bip_39_word_new_line_2: 'portion
-
-  crush'
-bip_39_word_new_line_3: 'portion
-
-  crush
-
-  pair'
-bip_39_word_no_space_12: portioncrushpairjaguarrubberaspectmiddleamazingiconensuregapaccuse
-bip_39_word_no_space_2: portioncrush
-bip_39_word_no_space_3: portioncrushpair
-bip_39_word_space_12: portion crush pair jaguar rubber aspect middle amazing icon
-  ensure gap accuse
-bip_39_word_space_2: portion crush
-bip_39_word_space_3: portion crush pair
-bip_39_word_underscore_12: portion_crush_pair_jaguar_rubber_aspect_middle_amazing_icon_ensure_gap_accuse
-bip_39_word_underscore_2: portion_crush
-bip_39_word_underscore_3: portion_crush_pair
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_ball_bearing_18_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ball_bearing_18_mm
 id: hardware_ball_bearing_18_mm
 id_no_class: ball_bearing_18_mm
-id_no_color: 18mm
 id_no_size: 18_mm
 id_no_type: 18_mm
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_18_mm
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_ball_bearing_18_mm](none)<br>[18](none)<br>[Hardware Ball
@@ -127,12 +49,11 @@ md5_6: 1abe92
 md5_6_alpha: 11keq
 md5_6_alpha_upper: 11KEQ
 md5_6_upper: 1ABE92
-name: Hardware Ball Bearing 18 mm
-name_no_class: Ball Bearing 18 mm
-name_no_color: 18mm
-name_no_size: 18 mm
+name: Hardware Ball Bearing 18 Mm
+name_no_class: Ball Bearing 18 Mm
+name_no_size: 18 Mm
 name_no_size_short: 18 Mm
-name_no_type: 18 mm
+name_no_type: 18 Mm
 oomp_key: oomp_hardware_ball_bearing_18_mm
 oomp_word: clap ramen paperclip
 oomp_word_emoji: ':clap: :ramen: :paperclip:'
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: '18'
 short_code_upper: '18'
@@ -156,61 +76,11 @@ size: 18_mm
 size_capital: 18 mm
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '18'
-size_length_3: '18_'
-size_length_4: 18_m
-size_length_5: 18_mm
-size_length_6: 18_mm
-size_name: 18 mm
-size_no_space_length_1: '1'
-size_no_space_length_2: '18'
-size_no_space_length_3: 18m
-size_no_space_length_4: 18mm
-size_no_space_length_5: 18mm
-size_no_space_length_6: 18mm
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: '18'
-size_no_space_upper_length_3: 18M
-size_no_space_upper_length_4: 18MM
-size_no_space_upper_length_5: 18MM
-size_no_space_upper_length_6: 18MM
 size_only_numbers: '18'
 size_only_numbers_no_zeros: '18'
 size_upper: 18_MM
-size_upper_length_1: '1'
-size_upper_length_2: '18'
-size_upper_length_3: '18_'
-size_upper_length_4: 18_M
-size_upper_length_5: 18_MM
-size_upper_length_6: 18_MM
 type: ball_bearing
 type_capital: Ball Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bal
-type_length_4: ball
-type_length_5: ball_
-type_length_6: ball_b
-type_name: Ball Bearing
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bal
-type_no_space_length_4: ball
-type_no_space_length_5: ballb
-type_no_space_length_6: ballbe
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAL
-type_no_space_upper_length_4: BALL
-type_no_space_upper_length_5: BALLB
-type_no_space_upper_length_6: BALLBE
 type_upper: BALL_BEARING
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAL
-type_upper_length_4: BALL
-type_upper_length_5: BALL_
-type_upper_length_6: BALL_B

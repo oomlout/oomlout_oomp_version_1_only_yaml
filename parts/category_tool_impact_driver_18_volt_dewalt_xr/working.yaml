@@ -1,122 +1,23 @@
-bip_39_word_dash_12: guard-can-swear-catalog-speak-hunt-regular-rabbit-casino-gate-loyal-ancient
-bip_39_word_dash_2: guard-can
-bip_39_word_dash_3: guard-can-swear
-bip_39_word_new_br_12: guard<br>can<br>swear<br>catalog<br>speak<br>hunt<br>regular<br>rabbit<br>casino<br>gate<br>loyal<br>ancient
-bip_39_word_new_br_2: guard<br>can
-bip_39_word_new_br_3: guard<br>can<br>swear
-bip_39_word_new_line_12: 'guard
-
-  can
-
-  swear
-
-  catalog
-
-  speak
-
-  hunt
-
-  regular
-
-  rabbit
-
-  casino
-
-  gate
-
-  loyal
-
-  ancient'
-bip_39_word_new_line_2: 'guard
-
-  can'
-bip_39_word_new_line_3: 'guard
-
-  can
-
-  swear'
-bip_39_word_no_space_12: guardcanswearcatalogspeakhuntregularrabbitcasinogateloyalancient
-bip_39_word_no_space_2: guardcan
-bip_39_word_no_space_3: guardcanswear
-bip_39_word_space_12: guard can swear catalog speak hunt regular rabbit casino gate
-  loyal ancient
-bip_39_word_space_2: guard can
-bip_39_word_space_3: guard can swear
-bip_39_word_underscore_12: guard_can_swear_catalog_speak_hunt_regular_rabbit_casino_gate_loyal_ancient
-bip_39_word_underscore_2: guard_can
-bip_39_word_underscore_3: guard_can_swear
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 18_volt_dewalt_xr
 color_capital: 18 Volt Dewalt Xr
 color_first_letter: '1'
 color_first_letter_upper: '1'
-color_length_1: '1'
-color_length_2: '18'
-color_length_3: '18_'
-color_length_4: 18_v
-color_length_5: 18_vo
-color_length_6: 18_vol
-color_name: 18 Volt Dewalt Xr
-color_no_space_length_1: '1'
-color_no_space_length_2: '18'
-color_no_space_length_3: 18v
-color_no_space_length_4: 18vo
-color_no_space_length_5: 18vol
-color_no_space_length_6: 18volt
-color_no_space_upper_length_1: '1'
-color_no_space_upper_length_2: '18'
-color_no_space_upper_length_3: 18V
-color_no_space_upper_length_4: 18VO
-color_no_space_upper_length_5: 18VOL
-color_no_space_upper_length_6: 18VOLT
 color_upper: 18_VOLT_DEWALT_XR
-color_upper_length_1: '1'
-color_upper_length_2: '18'
-color_upper_length_3: '18_'
-color_upper_length_4: 18_V
-color_upper_length_5: 18_VO
-color_upper_length_6: 18_VOL
 description: category_tool
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_tool_impact_driver_18_volt_dewalt_xr
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_impact_driver_18_volt_dewalt_xr
 id: category_tool_impact_driver_18_volt_dewalt_xr
 id_no_class: tool_impact_driver_18_volt_dewalt_xr
-id_no_color: 18_volt_dewalt_xr
 id_no_size: 18_volt_dewalt_xr
 id_no_type: impact_driver_18_volt_dewalt_xr
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_impact_driver_18_volt_dewalt_xr
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_impact_driver_18_volt_dewalt_xr](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 5CHLK
 md5_6_upper: '890918'
 name: Category Tool Impact Driver 18 Volt Dewalt Xr
 name_no_class: Tool Impact Driver 18 Volt Dewalt Xr
-name_no_color: 18 Volt Dewalt Xr
 name_no_size: 18 Volt Dewalt Xr
 name_no_size_short: 18 Volt Dewalt Xr
 name_no_type: Impact Driver 18 Volt Dewalt Xr
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: impact_driver
 size_capital: Impact Driver
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: im
-size_length_3: imp
-size_length_4: impa
-size_length_5: impac
-size_length_6: impact
-size_name: Impact Driver
-size_no_space_length_1: i
-size_no_space_length_2: im
-size_no_space_length_3: imp
-size_no_space_length_4: impa
-size_no_space_length_5: impac
-size_no_space_length_6: impact
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IM
-size_no_space_upper_length_3: IMP
-size_no_space_upper_length_4: IMPA
-size_no_space_upper_length_5: IMPAC
-size_no_space_upper_length_6: IMPACT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IMPACT_DRIVER
-size_upper_length_1: I
-size_upper_length_2: IM
-size_upper_length_3: IMP
-size_upper_length_4: IMPA
-size_upper_length_5: IMPAC
-size_upper_length_6: IMPACT
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: to
-type_length_3: too
-type_length_4: tool
-type_length_5: tool
-type_length_6: tool
-type_name: Tool
-type_no_space_length_1: t
-type_no_space_length_2: to
-type_no_space_length_3: too
-type_no_space_length_4: tool
-type_no_space_length_5: tool
-type_no_space_length_6: tool
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TO
-type_no_space_upper_length_3: TOO
-type_no_space_upper_length_4: TOOL
-type_no_space_upper_length_5: TOOL
-type_no_space_upper_length_6: TOOL
 type_upper: TOOL
-type_upper_length_1: T
-type_upper_length_2: TO
-type_upper_length_3: TOO
-type_upper_length_4: TOOL
-type_upper_length_5: TOOL
-type_upper_length_6: TOOL

@@ -1,132 +1,31 @@
-bip_39_word_dash_12: audit-lion-style-chase-inject-bundle-peace-prize-armor-street-response-advance
-bip_39_word_dash_2: audit-lion
-bip_39_word_dash_3: audit-lion-style
-bip_39_word_new_br_12: audit<br>lion<br>style<br>chase<br>inject<br>bundle<br>peace<br>prize<br>armor<br>street<br>response<br>advance
-bip_39_word_new_br_2: audit<br>lion
-bip_39_word_new_br_3: audit<br>lion<br>style
-bip_39_word_new_line_12: 'audit
-
-  lion
-
-  style
-
-  chase
-
-  inject
-
-  bundle
-
-  peace
-
-  prize
-
-  armor
-
-  street
-
-  response
-
-  advance'
-bip_39_word_new_line_2: 'audit
-
-  lion'
-bip_39_word_new_line_3: 'audit
-
-  lion
-
-  style'
-bip_39_word_no_space_12: auditlionstylechaseinjectbundlepeaceprizearmorstreetresponseadvance
-bip_39_word_no_space_2: auditlion
-bip_39_word_no_space_3: auditlionstyle
-bip_39_word_space_12: audit lion style chase inject bundle peace prize armor street
-  response advance
-bip_39_word_space_2: audit lion
-bip_39_word_space_3: audit lion style
-bip_39_word_underscore_12: audit_lion_style_chase_inject_bundle_peace_prize_armor_street_response_advance
-bip_39_word_underscore_2: audit_lion
-bip_39_word_underscore_3: audit_lion_style
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: to
-classification_length_3: toy
-classification_length_4: toy
-classification_length_5: toy
-classification_length_6: toy
-classification_name: Toy
-classification_no_space_length_1: t
-classification_no_space_length_2: to
-classification_no_space_length_3: toy
-classification_no_space_length_4: toy
-classification_no_space_length_5: toy
-classification_no_space_length_6: toy
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TO
-classification_no_space_upper_length_3: TOY
-classification_no_space_upper_length_4: TOY
-classification_no_space_upper_length_5: TOY
-classification_no_space_upper_length_6: TOY
 classification_upper: TOY
-classification_upper_length_1: T
-classification_upper_length_2: TO
-classification_upper_length_3: TOY
-classification_upper_length_4: TOY
-classification_upper_length_5: TOY
-classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: board_game_mixed
 description_main_capital: Board Game Mixed
 description_main_first_letter: b
 description_main_first_letter_upper: B
-description_main_length_1: b
-description_main_length_2: bo
-description_main_length_3: boa
-description_main_length_4: boar
-description_main_length_5: board
-description_main_length_6: board_
-description_main_name: Board Game Mixed
-description_main_no_space_length_1: b
-description_main_no_space_length_2: bo
-description_main_no_space_length_3: boa
-description_main_no_space_length_4: boar
-description_main_no_space_length_5: board
-description_main_no_space_length_6: boardg
-description_main_no_space_upper_length_1: B
-description_main_no_space_upper_length_2: BO
-description_main_no_space_upper_length_3: BOA
-description_main_no_space_upper_length_4: BOAR
-description_main_no_space_upper_length_5: BOARD
-description_main_no_space_upper_length_6: BOARDG
 description_main_upper: BOARD_GAME_MIXED
-description_main_upper_length_1: B
-description_main_upper_length_2: BO
-description_main_upper_length_3: BOA
-description_main_upper_length_4: BOAR
-description_main_upper_length_5: BOARD
-description_main_upper_length_6: BOARD_
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_game_board_game_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_game_board_game_mixed
 id: toy_game_board_game_mixed
 id_no_class: game_board_game_mixed
-id_no_color: boardmixed
 id_no_size: boardmixed
 id_no_type: board_mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_board_game_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_game_board_game_mixed](none)<br>[](none)<br>[Toy Game Board Game
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 2H3SL
 md5_6_upper: 3F6F75
 name: Toy Game Board Game Mixed
 name_no_class: Game Board Game Mixed
-name_no_color: Boardmixed
 name_no_size: Boardmixed
 name_no_size_short: Boardmixed
 name_no_type: Board Mixed
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -180,7 +76,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -188,29 +83,4 @@ type: game
 type_capital: Game
 type_first_letter: g
 type_first_letter_upper: G
-type_length_1: g
-type_length_2: ga
-type_length_3: gam
-type_length_4: game
-type_length_5: game
-type_length_6: game
-type_name: Game
-type_no_space_length_1: g
-type_no_space_length_2: ga
-type_no_space_length_3: gam
-type_no_space_length_4: game
-type_no_space_length_5: game
-type_no_space_length_6: game
-type_no_space_upper_length_1: G
-type_no_space_upper_length_2: GA
-type_no_space_upper_length_3: GAM
-type_no_space_upper_length_4: GAME
-type_no_space_upper_length_5: GAME
-type_no_space_upper_length_6: GAME
 type_upper: GAME
-type_upper_length_1: G
-type_upper_length_2: GA
-type_upper_length_3: GAM
-type_upper_length_4: GAME
-type_upper_length_5: GAME
-type_upper_length_6: GAME

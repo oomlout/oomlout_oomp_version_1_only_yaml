@@ -1,146 +1,23 @@
-bip_39_word_dash_12: energy-wealth-quantum-bracket-anxiety-square-shoe-grow-tongue-oblige-rubber-avocado
-bip_39_word_dash_2: energy-wealth
-bip_39_word_dash_3: energy-wealth-quantum
-bip_39_word_new_br_12: energy<br>wealth<br>quantum<br>bracket<br>anxiety<br>square<br>shoe<br>grow<br>tongue<br>oblige<br>rubber<br>avocado
-bip_39_word_new_br_2: energy<br>wealth
-bip_39_word_new_br_3: energy<br>wealth<br>quantum
-bip_39_word_new_line_12: 'energy
-
-  wealth
-
-  quantum
-
-  bracket
-
-  anxiety
-
-  square
-
-  shoe
-
-  grow
-
-  tongue
-
-  oblige
-
-  rubber
-
-  avocado'
-bip_39_word_new_line_2: 'energy
-
-  wealth'
-bip_39_word_new_line_3: 'energy
-
-  wealth
-
-  quantum'
-bip_39_word_no_space_12: energywealthquantumbracketanxietysquareshoegrowtongueobligerubberavocado
-bip_39_word_no_space_2: energywealth
-bip_39_word_no_space_3: energywealthquantum
-bip_39_word_space_12: energy wealth quantum bracket anxiety square shoe grow tongue
-  oblige rubber avocado
-bip_39_word_space_2: energy wealth
-bip_39_word_space_3: energy wealth quantum
-bip_39_word_underscore_12: energy_wealth_quantum_bracket_anxiety_square_shoe_grow_tongue_oblige_rubber_avocado
-bip_39_word_underscore_2: energy_wealth
-bip_39_word_underscore_3: energy_wealth_quantum
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pap
-classification_length_4: pape
-classification_length_5: paper
-classification_length_6: paper
-classification_name: Paper
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pap
-classification_no_space_length_4: pape
-classification_no_space_length_5: paper
-classification_no_space_length_6: paper
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAP
-classification_no_space_upper_length_4: PAPE
-classification_no_space_upper_length_5: PAPER
-classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAP
-classification_upper_length_4: PAPE
-classification_upper_length_5: PAPER
-classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: double_sided_matte_style_laser_printer
 description_extra_capital: Double Sided Matte Style Laser Printer
 description_extra_first_letter: d
 description_extra_first_letter_upper: D
-description_extra_length_1: d
-description_extra_length_2: do
-description_extra_length_3: dou
-description_extra_length_4: doub
-description_extra_length_5: doubl
-description_extra_length_6: double
-description_extra_name: Double Sided Matte Style Laser Printer
-description_extra_no_space_length_1: d
-description_extra_no_space_length_2: do
-description_extra_no_space_length_3: dou
-description_extra_no_space_length_4: doub
-description_extra_no_space_length_5: doubl
-description_extra_no_space_length_6: double
-description_extra_no_space_upper_length_1: D
-description_extra_no_space_upper_length_2: DO
-description_extra_no_space_upper_length_3: DOU
-description_extra_no_space_upper_length_4: DOUB
-description_extra_no_space_upper_length_5: DOUBL
-description_extra_no_space_upper_length_6: DOUBLE
 description_extra_upper: DOUBLE_SIDED_MATTE_STYLE_LASER_PRINTER
-description_extra_upper_length_1: D
-description_extra_upper_length_2: DO
-description_extra_upper_length_3: DOU
-description_extra_upper_length_4: DOUB
-description_extra_upper_length_5: DOUBL
-description_extra_upper_length_6: DOUBLE
 description_main: 200_grams_per_meter_square
 description_main_capital: 200 Grams Per Meter Square
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '20'
-description_main_length_3: '200'
-description_main_length_4: '200_'
-description_main_length_5: 200_g
-description_main_length_6: 200_gr
-description_main_name: 200 Grams Per Meter Square
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '20'
-description_main_no_space_length_3: '200'
-description_main_no_space_length_4: 200g
-description_main_no_space_length_5: 200gr
-description_main_no_space_length_6: 200gra
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '20'
-description_main_no_space_upper_length_3: '200'
-description_main_no_space_upper_length_4: 200G
-description_main_no_space_upper_length_5: 200GR
-description_main_no_space_upper_length_6: 200GRA
 description_main_upper: 200_GRAMS_PER_METER_SQUARE
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '20'
-description_main_upper_length_3: '200'
-description_main_upper_length_4: '200_'
-description_main_upper_length_5: 200_G
-description_main_upper_length_6: 200_GR
 description_only_numbers: '200'
 description_only_numbers_short: '200'
 description_or_color: '200'
@@ -150,11 +27,9 @@ distributor_amazon: B07VYJKZ6F
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala
 id_no_class: sheet_a4_210_mm_width_297_mm_height_200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala
-id_no_color: 200gramspermetersquaredoublesidedmattestylelaserprinterkoala
 id_no_size: 200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala
 id_no_type: a4_210_mm_width_297_mm_height_200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala
 link_distributor_amazon: https://www.amazon.co.uk/dp/B07VYJKZ6F
@@ -165,32 +40,7 @@ manufacturer: koala
 manufacturer_capital: Koala
 manufacturer_first_letter: k
 manufacturer_first_letter_upper: K
-manufacturer_length_1: k
-manufacturer_length_2: ko
-manufacturer_length_3: koa
-manufacturer_length_4: koal
-manufacturer_length_5: koala
-manufacturer_length_6: koala
-manufacturer_name: Koala
-manufacturer_no_space_length_1: k
-manufacturer_no_space_length_2: ko
-manufacturer_no_space_length_3: koa
-manufacturer_no_space_length_4: koal
-manufacturer_no_space_length_5: koala
-manufacturer_no_space_length_6: koala
-manufacturer_no_space_upper_length_1: K
-manufacturer_no_space_upper_length_2: KO
-manufacturer_no_space_upper_length_3: KOA
-manufacturer_no_space_upper_length_4: KOAL
-manufacturer_no_space_upper_length_5: KOALA
-manufacturer_no_space_upper_length_6: KOALA
 manufacturer_upper: KOALA
-manufacturer_upper_length_1: K
-manufacturer_upper_length_2: KO
-manufacturer_upper_length_3: KOA
-manufacturer_upper_length_4: KOAL
-manufacturer_upper_length_5: KOALA
-manufacturer_upper_length_6: KOALA
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala](none)<br>[](none)<br>[Paper
   Sheet A4 210 Mm Width 297 Mm Height 200 Grams Per Meter Square Double Sided Matte
@@ -205,15 +55,14 @@ md5_6: ff79a6
 md5_6_alpha: 9yuue
 md5_6_alpha_upper: 9YUUE
 md5_6_upper: FF79A6
-name: Paper Sheet A4 210 mm Width 297 mm Height 200 Grams Per Meter Square Double
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 200 Grams Per Meter Square Double
   Sided Matte Style Laser Printer Koala
-name_no_class: Sheet A4 210 mm Width 297 mm Height 200 Grams Per Meter Square Double
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 200 Grams Per Meter Square Double
   Sided Matte Style Laser Printer Koala
-name_no_color: 200Gramspermetersquaredoublesidedmattestylelaserprinterkoala
 name_no_size: 200 Grams Per Meter Square Double Sided Matte Style Laser Printer Koala
 name_no_size_short: 200 Grams Per Meter Square Double Sided Matte Style Laser Printer
   Koala
-name_no_type: A4 210 mm Width 297 mm Height 200 Grams Per Meter Square Double Sided
+name_no_type: A4 210 Mm Width 297 Mm Height 200 Grams Per Meter Square Double Sided
   Matte Style Laser Printer Koala
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_200_grams_per_meter_square_double_sided_matte_style_laser_printer_koala
 oomp_word: trident balloon trumpet
@@ -230,7 +79,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 price_1: 0.08325
 price_1_distributor_amazon: 0.08325
@@ -240,62 +88,12 @@ size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: a4
-size_length_3: a4_
-size_length_4: a4_2
-size_length_5: a4_21
-size_length_6: a4_210
-size_name: A4 210 mm Width 297 mm Height
-size_no_space_length_1: a
-size_no_space_length_2: a4
-size_no_space_length_3: a42
-size_no_space_length_4: a421
-size_no_space_length_5: a4210
-size_no_space_length_6: a4210m
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A4
-size_no_space_upper_length_3: A42
-size_no_space_upper_length_4: A421
-size_no_space_upper_length_5: A4210
-size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
-size_upper_length_1: A
-size_upper_length_2: A4
-size_upper_length_3: A4_
-size_upper_length_4: A4_2
-size_upper_length_5: A4_21
-size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sh
-type_length_3: she
-type_length_4: shee
-type_length_5: sheet
-type_length_6: sheet
-type_name: Sheet
-type_no_space_length_1: s
-type_no_space_length_2: sh
-type_no_space_length_3: she
-type_no_space_length_4: shee
-type_no_space_length_5: sheet
-type_no_space_length_6: sheet
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SH
-type_no_space_upper_length_3: SHE
-type_no_space_upper_length_4: SHEE
-type_no_space_upper_length_5: SHEET
-type_no_space_upper_length_6: SHEET
 type_upper: SHEET
-type_upper_length_1: S
-type_upper_length_2: SH
-type_upper_length_3: SHE
-type_upper_length_4: SHEE
-type_upper_length_5: SHEET
-type_upper_length_6: SHEET
 width: 210 mm

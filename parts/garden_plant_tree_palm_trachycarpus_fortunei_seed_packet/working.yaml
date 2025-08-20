@@ -1,170 +1,23 @@
-bip_39_word_dash_12: program-unknown-feel-diagram-menu-guard-mention-grit-demise-fish-name-always
-bip_39_word_dash_2: program-unknown
-bip_39_word_dash_3: program-unknown-feel
-bip_39_word_new_br_12: program<br>unknown<br>feel<br>diagram<br>menu<br>guard<br>mention<br>grit<br>demise<br>fish<br>name<br>always
-bip_39_word_new_br_2: program<br>unknown
-bip_39_word_new_br_3: program<br>unknown<br>feel
-bip_39_word_new_line_12: 'program
-
-  unknown
-
-  feel
-
-  diagram
-
-  menu
-
-  guard
-
-  mention
-
-  grit
-
-  demise
-
-  fish
-
-  name
-
-  always'
-bip_39_word_new_line_2: 'program
-
-  unknown'
-bip_39_word_new_line_3: 'program
-
-  unknown
-
-  feel'
-bip_39_word_no_space_12: programunknownfeeldiagrammenuguardmentiongritdemisefishnamealways
-bip_39_word_no_space_2: programunknown
-bip_39_word_no_space_3: programunknownfeel
-bip_39_word_space_12: program unknown feel diagram menu guard mention grit demise
-  fish name always
-bip_39_word_space_2: program unknown
-bip_39_word_space_3: program unknown feel
-bip_39_word_underscore_12: program_unknown_feel_diagram_menu_guard_mention_grit_demise_fish_name_always
-bip_39_word_underscore_2: program_unknown
-bip_39_word_underscore_3: program_unknown_feel
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
-classification_length_1: g
-classification_length_2: ga
-classification_length_3: gar
-classification_length_4: gard
-classification_length_5: garde
-classification_length_6: garden
-classification_name: Garden
-classification_no_space_length_1: g
-classification_no_space_length_2: ga
-classification_no_space_length_3: gar
-classification_no_space_length_4: gard
-classification_no_space_length_5: garde
-classification_no_space_length_6: garden
-classification_no_space_upper_length_1: G
-classification_no_space_upper_length_2: GA
-classification_no_space_upper_length_3: GAR
-classification_no_space_upper_length_4: GARD
-classification_no_space_upper_length_5: GARDE
-classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
-classification_upper_length_1: G
-classification_upper_length_2: GA
-classification_upper_length_3: GAR
-classification_upper_length_4: GARD
-classification_upper_length_5: GARDE
-classification_upper_length_6: GARDEN
 color: palm
 color_capital: Palm
 color_first_letter: p
 color_first_letter_upper: P
-color_length_1: p
-color_length_2: pa
-color_length_3: pal
-color_length_4: palm
-color_length_5: palm
-color_length_6: palm
-color_name: Palm
-color_no_space_length_1: p
-color_no_space_length_2: pa
-color_no_space_length_3: pal
-color_no_space_length_4: palm
-color_no_space_length_5: palm
-color_no_space_length_6: palm
-color_no_space_upper_length_1: P
-color_no_space_upper_length_2: PA
-color_no_space_upper_length_3: PAL
-color_no_space_upper_length_4: PALM
-color_no_space_upper_length_5: PALM
-color_no_space_upper_length_6: PALM
 color_upper: PALM
-color_upper_length_1: P
-color_upper_length_2: PA
-color_upper_length_3: PAL
-color_upper_length_4: PALM
-color_upper_length_5: PALM
-color_upper_length_6: PALM
 description_extra: seed_packet
 description_extra_capital: Seed Packet
 description_extra_first_letter: s
 description_extra_first_letter_upper: S
-description_extra_length_1: s
-description_extra_length_2: se
-description_extra_length_3: see
-description_extra_length_4: seed
-description_extra_length_5: seed_
-description_extra_length_6: seed_p
-description_extra_name: Seed Packet
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: se
-description_extra_no_space_length_3: see
-description_extra_no_space_length_4: seed
-description_extra_no_space_length_5: seedp
-description_extra_no_space_length_6: seedpa
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SE
-description_extra_no_space_upper_length_3: SEE
-description_extra_no_space_upper_length_4: SEED
-description_extra_no_space_upper_length_5: SEEDP
-description_extra_no_space_upper_length_6: SEEDPA
 description_extra_upper: SEED_PACKET
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SE
-description_extra_upper_length_3: SEE
-description_extra_upper_length_4: SEED
-description_extra_upper_length_5: SEED_
-description_extra_upper_length_6: SEED_P
 description_main: trachycarpus_fortunei
 description_main_capital: Trachycarpus Fortunei
 description_main_first_letter: t
 description_main_first_letter_upper: T
-description_main_length_1: t
-description_main_length_2: tr
-description_main_length_3: tra
-description_main_length_4: trac
-description_main_length_5: trach
-description_main_length_6: trachy
-description_main_name: Trachycarpus Fortunei
-description_main_no_space_length_1: t
-description_main_no_space_length_2: tr
-description_main_no_space_length_3: tra
-description_main_no_space_length_4: trac
-description_main_no_space_length_5: trach
-description_main_no_space_length_6: trachy
-description_main_no_space_upper_length_1: T
-description_main_no_space_upper_length_2: TR
-description_main_no_space_upper_length_3: TRA
-description_main_no_space_upper_length_4: TRAC
-description_main_no_space_upper_length_5: TRACH
-description_main_no_space_upper_length_6: TRACHY
 description_main_upper: TRACHYCARPUS_FORTUNEI
-description_main_upper_length_1: T
-description_main_upper_length_2: TR
-description_main_upper_length_3: TRA
-description_main_upper_length_4: TRAC
-description_main_upper_length_5: TRACH
-description_main_upper_length_6: TRACHY
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'P '
@@ -172,10 +25,8 @@ description_or_color_upper: 'P '
 directory: parts/garden_plant_tree_palm_trachycarpus_fortunei_seed_packet
 distributor_sutton_seeds: '105005'
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei_seed_packet
 id: garden_plant_tree_palm_trachycarpus_fortunei_seed_packet
 id_no_class: plant_tree_palm_trachycarpus_fortunei_seed_packet
-id_no_color: trachycarpus_fortunei_seed_packet
 id_no_size: palm_trachycarpus_fortunei_seed_packet
 id_no_type: tree_palm_trachycarpus_fortunei_seed_packet
 link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/trachycarpus-fortunei-seeds_mh13516
@@ -186,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_tree_palm_trachycarpus_fortunei_seed_packet](none)<br>[](none)<br>[Garden
@@ -203,7 +53,6 @@ md5_6_alpha_upper: 4Q651
 md5_6_upper: '792595'
 name: Garden Plant Tree Palm Trachycarpus Fortunei Seed Packet
 name_no_class: Plant Tree Palm Trachycarpus Fortunei Seed Packet
-name_no_color: Trachycarpus Fortunei Seed Packet
 name_no_size: Palm Trachycarpus Fortunei Seed Packet
 name_no_size_short: Palm Trachycarpus Fortunei Seed Packet
 name_no_type: Tree Palm Trachycarpus Fortunei Seed Packet
@@ -222,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -231,61 +79,11 @@ size: tree
 size_capital: Tree
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: tr
-size_length_3: tre
-size_length_4: tree
-size_length_5: tree
-size_length_6: tree
-size_name: Tree
-size_no_space_length_1: t
-size_no_space_length_2: tr
-size_no_space_length_3: tre
-size_no_space_length_4: tree
-size_no_space_length_5: tree
-size_no_space_length_6: tree
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TR
-size_no_space_upper_length_3: TRE
-size_no_space_upper_length_4: TREE
-size_no_space_upper_length_5: TREE
-size_no_space_upper_length_6: TREE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TREE
-size_upper_length_1: T
-size_upper_length_2: TR
-size_upper_length_3: TRE
-size_upper_length_4: TREE
-size_upper_length_5: TREE
-size_upper_length_6: TREE
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pl
-type_length_3: pla
-type_length_4: plan
-type_length_5: plant
-type_length_6: plant
-type_name: Plant
-type_no_space_length_1: p
-type_no_space_length_2: pl
-type_no_space_length_3: pla
-type_no_space_length_4: plan
-type_no_space_length_5: plant
-type_no_space_length_6: plant
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PL
-type_no_space_upper_length_3: PLA
-type_no_space_upper_length_4: PLAN
-type_no_space_upper_length_5: PLANT
-type_no_space_upper_length_6: PLANT
 type_upper: PLANT
-type_upper_length_1: P
-type_upper_length_2: PL
-type_upper_length_3: PLA
-type_upper_length_4: PLAN
-type_upper_length_5: PLANT
-type_upper_length_6: PLANT

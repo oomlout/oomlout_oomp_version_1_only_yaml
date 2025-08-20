@@ -1,122 +1,23 @@
-bip_39_word_dash_12: girl-intact-range-lens-rotate-hover-recipe-april-choose-page-floor-account
-bip_39_word_dash_2: girl-intact
-bip_39_word_dash_3: girl-intact-range
-bip_39_word_new_br_12: girl<br>intact<br>range<br>lens<br>rotate<br>hover<br>recipe<br>april<br>choose<br>page<br>floor<br>account
-bip_39_word_new_br_2: girl<br>intact
-bip_39_word_new_br_3: girl<br>intact<br>range
-bip_39_word_new_line_12: 'girl
-
-  intact
-
-  range
-
-  lens
-
-  rotate
-
-  hover
-
-  recipe
-
-  april
-
-  choose
-
-  page
-
-  floor
-
-  account'
-bip_39_word_new_line_2: 'girl
-
-  intact'
-bip_39_word_new_line_3: 'girl
-
-  intact
-
-  range'
-bip_39_word_no_space_12: girlintactrangelensrotatehoverrecipeaprilchoosepageflooraccount
-bip_39_word_no_space_2: girlintact
-bip_39_word_no_space_3: girlintactrange
-bip_39_word_space_12: girl intact range lens rotate hover recipe april choose page
-  floor account
-bip_39_word_space_2: girl intact
-bip_39_word_space_3: girl intact range
-bip_39_word_underscore_12: girl_intact_range_lens_rotate_hover_recipe_april_choose_page_floor_account
-bip_39_word_underscore_2: girl_intact
-bip_39_word_underscore_3: girl_intact_range
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: spaghetti
 color_capital: Spaghetti
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: sp
-color_length_3: spa
-color_length_4: spag
-color_length_5: spagh
-color_length_6: spaghe
-color_name: Spaghetti
-color_no_space_length_1: s
-color_no_space_length_2: sp
-color_no_space_length_3: spa
-color_no_space_length_4: spag
-color_no_space_length_5: spagh
-color_no_space_length_6: spaghe
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: SP
-color_no_space_upper_length_3: SPA
-color_no_space_upper_length_4: SPAG
-color_no_space_upper_length_5: SPAGH
-color_no_space_upper_length_6: SPAGHE
 color_upper: SPAGHETTI
-color_upper_length_1: S
-color_upper_length_2: SP
-color_upper_length_3: SPA
-color_upper_length_4: SPAG
-color_upper_length_5: SPAGH
-color_upper_length_6: SPAGHE
 description: pasta_spaghetti
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/food_starch_pasta_spaghetti
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_spaghetti
 id: food_starch_pasta_spaghetti
 id_no_class: starch_pasta_spaghetti
-id_no_color: spaghetti
 id_no_size: spaghetti
 id_no_type: pasta_spaghetti
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_starch_pasta_spaghetti](none)<br>[](none)<br>[Food Starch Pasta
@@ -156,7 +54,6 @@ md5_6_alpha_upper: YOYV
 md5_6_upper: 18B2E7
 name: Food Starch Pasta Spaghetti
 name_no_class: Starch Pasta Spaghetti
-name_no_color: Spaghetti
 name_no_size: Spaghetti
 name_no_size_short: Spaghetti
 name_no_type: Pasta Spaghetti
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: pasta
 size_capital: Pasta
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: pas
-size_length_4: past
-size_length_5: pasta
-size_length_6: pasta
-size_name: Pasta
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: pas
-size_no_space_length_4: past
-size_no_space_length_5: pasta
-size_no_space_length_6: pasta
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAS
-size_no_space_upper_length_4: PAST
-size_no_space_upper_length_5: PASTA
-size_no_space_upper_length_6: PASTA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PASTA
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAS
-size_upper_length_4: PAST
-size_upper_length_5: PASTA
-size_upper_length_6: PASTA
 type: starch
 type_capital: Starch
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: star
-type_length_5: starc
-type_length_6: starch
-type_name: Starch
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: star
-type_no_space_length_5: starc
-type_no_space_length_6: starch
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAR
-type_no_space_upper_length_5: STARC
-type_no_space_upper_length_6: STARCH
 type_upper: STARCH
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAR
-type_upper_length_5: STARC
-type_upper_length_6: STARCH

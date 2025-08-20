@@ -1,97 +1,22 @@
-bip_39_word_dash_12: rebel-raccoon-hole-rain-barely-bottom-reject-rough-share-eight-glove-annual
-bip_39_word_dash_2: rebel-raccoon
-bip_39_word_dash_3: rebel-raccoon-hole
-bip_39_word_new_br_12: rebel<br>raccoon<br>hole<br>rain<br>barely<br>bottom<br>reject<br>rough<br>share<br>eight<br>glove<br>annual
-bip_39_word_new_br_2: rebel<br>raccoon
-bip_39_word_new_br_3: rebel<br>raccoon<br>hole
-bip_39_word_new_line_12: 'rebel
-
-  raccoon
-
-  hole
-
-  rain
-
-  barely
-
-  bottom
-
-  reject
-
-  rough
-
-  share
-
-  eight
-
-  glove
-
-  annual'
-bip_39_word_new_line_2: 'rebel
-
-  raccoon'
-bip_39_word_new_line_3: 'rebel
-
-  raccoon
-
-  hole'
-bip_39_word_no_space_12: rebelraccoonholerainbarelybottomrejectroughshareeightgloveannual
-bip_39_word_no_space_2: rebelraccoon
-bip_39_word_no_space_3: rebelraccoonhole
-bip_39_word_space_12: rebel raccoon hole rain barely bottom reject rough share eight
-  glove annual
-bip_39_word_space_2: rebel raccoon
-bip_39_word_space_3: rebel raccoon hole
-bip_39_word_underscore_12: rebel_raccoon_hole_rain_barely_bottom_reject_rough_share_eight_glove_annual
-bip_39_word_underscore_2: rebel_raccoon
-bip_39_word_underscore_3: rebel_raccoon_hole
 classification: craft
 classification_capital: Craft
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: cr
-classification_length_3: cra
-classification_length_4: craf
-classification_length_5: craft
-classification_length_6: craft
-classification_name: Craft
-classification_no_space_length_1: c
-classification_no_space_length_2: cr
-classification_no_space_length_3: cra
-classification_no_space_length_4: craf
-classification_no_space_length_5: craft
-classification_no_space_length_6: craft
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CR
-classification_no_space_upper_length_3: CRA
-classification_no_space_upper_length_4: CRAF
-classification_no_space_upper_length_5: CRAFT
-classification_no_space_upper_length_6: CRAFT
 classification_upper: CRAFT
-classification_upper_length_1: C
-classification_upper_length_2: CR
-classification_upper_length_3: CRA
-classification_upper_length_4: CRAF
-classification_upper_length_5: CRAFT
-classification_upper_length_6: CRAFT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/craft_bead_loom
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/craft_bead_loom
 id: craft_bead_loom
 id_no_class: bead_loom
-id_no_color: loom
 id_no_size: loom
 id_no_type: loom
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_bead_loom
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[craft_bead_loom](none)<br>[](none)<br>[Craft Bead Loom](none)<br><br>'
@@ -128,7 +50,6 @@ md5_6_alpha_upper: 5VSK1
 md5_6_upper: 96C751
 name: Craft Bead Loom
 name_no_class: Bead Loom
-name_no_color: Loom
 name_no_size: Loom
 name_no_size_short: Loom
 name_no_type: Loom
@@ -147,7 +68,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -156,61 +76,11 @@ size: loom
 size_capital: Loom
 size_first_letter: l
 size_first_letter_upper: L
-size_length_1: l
-size_length_2: lo
-size_length_3: loo
-size_length_4: loom
-size_length_5: loom
-size_length_6: loom
-size_name: Loom
-size_no_space_length_1: l
-size_no_space_length_2: lo
-size_no_space_length_3: loo
-size_no_space_length_4: loom
-size_no_space_length_5: loom
-size_no_space_length_6: loom
-size_no_space_upper_length_1: L
-size_no_space_upper_length_2: LO
-size_no_space_upper_length_3: LOO
-size_no_space_upper_length_4: LOOM
-size_no_space_upper_length_5: LOOM
-size_no_space_upper_length_6: LOOM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: LOOM
-size_upper_length_1: L
-size_upper_length_2: LO
-size_upper_length_3: LOO
-size_upper_length_4: LOOM
-size_upper_length_5: LOOM
-size_upper_length_6: LOOM
 type: bead
 type_capital: Bead
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: be
-type_length_3: bea
-type_length_4: bead
-type_length_5: bead
-type_length_6: bead
-type_name: Bead
-type_no_space_length_1: b
-type_no_space_length_2: be
-type_no_space_length_3: bea
-type_no_space_length_4: bead
-type_no_space_length_5: bead
-type_no_space_length_6: bead
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BE
-type_no_space_upper_length_3: BEA
-type_no_space_upper_length_4: BEAD
-type_no_space_upper_length_5: BEAD
-type_no_space_upper_length_6: BEAD
 type_upper: BEAD
-type_upper_length_1: B
-type_upper_length_2: BE
-type_upper_length_3: BEA
-type_upper_length_4: BEAD
-type_upper_length_5: BEAD
-type_upper_length_6: BEAD

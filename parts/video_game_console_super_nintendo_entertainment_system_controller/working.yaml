@@ -1,132 +1,31 @@
-bip_39_word_dash_12: fit-give-monitor-inject-light-food-base-story-salad-other-damage-average
-bip_39_word_dash_2: fit-give
-bip_39_word_dash_3: fit-give-monitor
-bip_39_word_new_br_12: fit<br>give<br>monitor<br>inject<br>light<br>food<br>base<br>story<br>salad<br>other<br>damage<br>average
-bip_39_word_new_br_2: fit<br>give
-bip_39_word_new_br_3: fit<br>give<br>monitor
-bip_39_word_new_line_12: 'fit
-
-  give
-
-  monitor
-
-  inject
-
-  light
-
-  food
-
-  base
-
-  story
-
-  salad
-
-  other
-
-  damage
-
-  average'
-bip_39_word_new_line_2: 'fit
-
-  give'
-bip_39_word_new_line_3: 'fit
-
-  give
-
-  monitor'
-bip_39_word_no_space_12: fitgivemonitorinjectlightfoodbasestorysaladotherdamageaverage
-bip_39_word_no_space_2: fitgive
-bip_39_word_no_space_3: fitgivemonitor
-bip_39_word_space_12: fit give monitor inject light food base story salad other damage
-  average
-bip_39_word_space_2: fit give
-bip_39_word_space_3: fit give monitor
-bip_39_word_underscore_12: fit_give_monitor_inject_light_food_base_story_salad_other_damage_average
-bip_39_word_underscore_2: fit_give
-bip_39_word_underscore_3: fit_give_monitor
 classification: video_game_console
 classification_capital: Video Game Console
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vid
-classification_length_4: vide
-classification_length_5: video
-classification_length_6: video_
-classification_name: Video Game Console
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vid
-classification_no_space_length_4: vide
-classification_no_space_length_5: video
-classification_no_space_length_6: videog
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VID
-classification_no_space_upper_length_4: VIDE
-classification_no_space_upper_length_5: VIDEO
-classification_no_space_upper_length_6: VIDEOG
 classification_upper: VIDEO_GAME_CONSOLE
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VID
-classification_upper_length_4: VIDE
-classification_upper_length_5: VIDEO
-classification_upper_length_6: VIDEO_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: controller
 description_main_capital: Controller
 description_main_first_letter: c
 description_main_first_letter_upper: C
-description_main_length_1: c
-description_main_length_2: co
-description_main_length_3: con
-description_main_length_4: cont
-description_main_length_5: contr
-description_main_length_6: contro
-description_main_name: Controller
-description_main_no_space_length_1: c
-description_main_no_space_length_2: co
-description_main_no_space_length_3: con
-description_main_no_space_length_4: cont
-description_main_no_space_length_5: contr
-description_main_no_space_length_6: contro
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CO
-description_main_no_space_upper_length_3: CON
-description_main_no_space_upper_length_4: CONT
-description_main_no_space_upper_length_5: CONTR
-description_main_no_space_upper_length_6: CONTRO
 description_main_upper: CONTROLLER
-description_main_upper_length_1: C
-description_main_upper_length_2: CO
-description_main_upper_length_3: CON
-description_main_upper_length_4: CONT
-description_main_upper_length_5: CONTR
-description_main_upper_length_6: CONTRO
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/video_game_console_super_nintendo_entertainment_system_controller
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_super_nintendo_entertainment_system_controller
 id: video_game_console_super_nintendo_entertainment_system_controller
 id_no_class: super_nintendo_entertainment_system_controller
-id_no_color: controller
 id_no_size: controller
 id_no_type: controller
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_super_nintendo_entertainment_system_controller
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[video_game_console_super_nintendo_entertainment_system_controller](none)<br>[](none)<br>[Video
@@ -153,7 +51,6 @@ md5_6_alpha_upper: 9UKVB
 md5_6_upper: FC6E27
 name: Video Game Console Super Nintendo Entertainment System Controller
 name_no_class: Super Nintendo Entertainment System Controller
-name_no_color: Controller
 name_no_size: Controller
 name_no_size_short: Controller
 name_no_type: Controller
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -180,7 +76,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -188,29 +83,4 @@ type: super_nintendo_entertainment_system
 type_capital: Super Nintendo Entertainment System
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: su
-type_length_3: sup
-type_length_4: supe
-type_length_5: super
-type_length_6: super_
-type_name: Super Nintendo Entertainment System
-type_no_space_length_1: s
-type_no_space_length_2: su
-type_no_space_length_3: sup
-type_no_space_length_4: supe
-type_no_space_length_5: super
-type_no_space_length_6: supern
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SU
-type_no_space_upper_length_3: SUP
-type_no_space_upper_length_4: SUPE
-type_no_space_upper_length_5: SUPER
-type_no_space_upper_length_6: SUPERN
 type_upper: SUPER_NINTENDO_ENTERTAINMENT_SYSTEM
-type_upper_length_1: S
-type_upper_length_2: SU
-type_upper_length_3: SUP
-type_upper_length_4: SUPE
-type_upper_length_5: SUPER
-type_upper_length_6: SUPER_

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: option-protect-tunnel-still-useful-artwork-keen-normal-visual-work-jealous-adapt
-bip_39_word_dash_2: option-protect
-bip_39_word_dash_3: option-protect-tunnel
-bip_39_word_new_br_12: option<br>protect<br>tunnel<br>still<br>useful<br>artwork<br>keen<br>normal<br>visual<br>work<br>jealous<br>adapt
-bip_39_word_new_br_2: option<br>protect
-bip_39_word_new_br_3: option<br>protect<br>tunnel
-bip_39_word_new_line_12: 'option
-
-  protect
-
-  tunnel
-
-  still
-
-  useful
-
-  artwork
-
-  keen
-
-  normal
-
-  visual
-
-  work
-
-  jealous
-
-  adapt'
-bip_39_word_new_line_2: 'option
-
-  protect'
-bip_39_word_new_line_3: 'option
-
-  protect
-
-  tunnel'
-bip_39_word_no_space_12: optionprotecttunnelstillusefulartworkkeennormalvisualworkjealousadapt
-bip_39_word_no_space_2: optionprotect
-bip_39_word_no_space_3: optionprotecttunnel
-bip_39_word_space_12: option protect tunnel still useful artwork keen normal visual
-  work jealous adapt
-bip_39_word_space_2: option protect
-bip_39_word_space_3: option protect tunnel
-bip_39_word_underscore_12: option_protect_tunnel_still_useful_artwork_keen_normal_visual_work_jealous_adapt
-bip_39_word_underscore_2: option_protect
-bip_39_word_underscore_3: option_protect_tunnel
 classification: task
 classification_capital: Task
 classification_first_letter: t
 classification_first_letter_upper: T
-classification_length_1: t
-classification_length_2: ta
-classification_length_3: tas
-classification_length_4: task
-classification_length_5: task
-classification_length_6: task
-classification_name: Task
-classification_no_space_length_1: t
-classification_no_space_length_2: ta
-classification_no_space_length_3: tas
-classification_no_space_length_4: task
-classification_no_space_length_5: task
-classification_no_space_length_6: task
-classification_no_space_upper_length_1: T
-classification_no_space_upper_length_2: TA
-classification_no_space_upper_length_3: TAS
-classification_no_space_upper_length_4: TASK
-classification_no_space_upper_length_5: TASK
-classification_no_space_upper_length_6: TASK
 classification_upper: TASK
-classification_upper_length_1: T
-classification_upper_length_2: TA
-classification_upper_length_3: TAS
-classification_upper_length_4: TASK
-classification_upper_length_5: TASK
-classification_upper_length_6: TASK
 color: ink_filling
 color_capital: Ink Filling
 color_first_letter: i
 color_first_letter_upper: I
-color_length_1: i
-color_length_2: in
-color_length_3: ink
-color_length_4: ink_
-color_length_5: ink_f
-color_length_6: ink_fi
-color_name: Ink Filling
-color_no_space_length_1: i
-color_no_space_length_2: in
-color_no_space_length_3: ink
-color_no_space_length_4: inkf
-color_no_space_length_5: inkfi
-color_no_space_length_6: inkfil
-color_no_space_upper_length_1: I
-color_no_space_upper_length_2: IN
-color_no_space_upper_length_3: INK
-color_no_space_upper_length_4: INKF
-color_no_space_upper_length_5: INKFI
-color_no_space_upper_length_6: INKFIL
 color_upper: INK_FILLING
-color_upper_length_1: I
-color_upper_length_2: IN
-color_upper_length_3: INK
-color_upper_length_4: INK_
-color_upper_length_5: INK_F
-color_upper_length_6: INK_FI
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: dtf_epson_stylus_pro_4800
 description_main_capital: Dtf Epson Stylus Pro 4800
 description_main_first_letter: d
 description_main_first_letter_upper: D
-description_main_length_1: d
-description_main_length_2: dt
-description_main_length_3: dtf
-description_main_length_4: dtf_
-description_main_length_5: dtf_e
-description_main_length_6: dtf_ep
-description_main_name: Dtf Epson Stylus Pro 4800
-description_main_no_space_length_1: d
-description_main_no_space_length_2: dt
-description_main_no_space_length_3: dtf
-description_main_no_space_length_4: dtfe
-description_main_no_space_length_5: dtfep
-description_main_no_space_length_6: dtfeps
-description_main_no_space_upper_length_1: D
-description_main_no_space_upper_length_2: DT
-description_main_no_space_upper_length_3: DTF
-description_main_no_space_upper_length_4: DTFE
-description_main_no_space_upper_length_5: DTFEP
-description_main_no_space_upper_length_6: DTFEPS
 description_main_upper: DTF_EPSON_STYLUS_PRO_4800
-description_main_upper_length_1: D
-description_main_upper_length_2: DT
-description_main_upper_length_3: DTF
-description_main_upper_length_4: DTF_
-description_main_upper_length_5: DTF_E
-description_main_upper_length_6: DTF_EP
 description_only_numbers: '4800'
 description_only_numbers_short: 4k8
 description_or_color: I4k8
@@ -149,10 +26,8 @@ directory: parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
 id: task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
 id_no_class: printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
-id_no_color: dtf_epson_stylus_pro_4800
 id_no_size: ink_filling_dtf_epson_stylus_pro_4800
 id_no_type: inkjet_ink_filling_dtf_epson_stylus_pro_4800
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800](none)<br>[](none)<br>[Task
@@ -179,7 +53,6 @@ md5_6_alpha_upper: 1WQIN
 md5_6_upper: 30EF3F
 name: Task Printer Inkjet Ink Filling Dtf Epson Stylus Pro 4800
 name_no_class: Printer Inkjet Ink Filling Dtf Epson Stylus Pro 4800
-name_no_color: Dtf Epson Stylus Pro 4800
 name_no_size: Ink Filling Dtf Epson Stylus Pro 4800
 name_no_size_short: Ink Filling Dtf Epson Stylus Pro 4k8
 name_no_type: Inkjet Ink Filling Dtf Epson Stylus Pro 4800
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -206,61 +78,11 @@ size: inkjet
 size_capital: Inkjet
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: in
-size_length_3: ink
-size_length_4: inkj
-size_length_5: inkje
-size_length_6: inkjet
-size_name: Inkjet
-size_no_space_length_1: i
-size_no_space_length_2: in
-size_no_space_length_3: ink
-size_no_space_length_4: inkj
-size_no_space_length_5: inkje
-size_no_space_length_6: inkjet
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IN
-size_no_space_upper_length_3: INK
-size_no_space_upper_length_4: INKJ
-size_no_space_upper_length_5: INKJE
-size_no_space_upper_length_6: INKJET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: INKJET
-size_upper_length_1: I
-size_upper_length_2: IN
-size_upper_length_3: INK
-size_upper_length_4: INKJ
-size_upper_length_5: INKJE
-size_upper_length_6: INKJET
 type: printer
 type_capital: Printer
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pr
-type_length_3: pri
-type_length_4: prin
-type_length_5: print
-type_length_6: printe
-type_name: Printer
-type_no_space_length_1: p
-type_no_space_length_2: pr
-type_no_space_length_3: pri
-type_no_space_length_4: prin
-type_no_space_length_5: print
-type_no_space_length_6: printe
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PR
-type_no_space_upper_length_3: PRI
-type_no_space_upper_length_4: PRIN
-type_no_space_upper_length_5: PRINT
-type_no_space_upper_length_6: PRINTE
 type_upper: PRINTER
-type_upper_length_1: P
-type_upper_length_2: PR
-type_upper_length_3: PRI
-type_upper_length_4: PRIN
-type_upper_length_5: PRINT
-type_upper_length_6: PRINTE

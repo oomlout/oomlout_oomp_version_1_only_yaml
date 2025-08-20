@@ -1,180 +1,31 @@
-bip_39_word_dash_12: feel-body-peace-humble-school-letter-essay-oyster-pudding-joke-lottery-anchor
-bip_39_word_dash_2: feel-body
-bip_39_word_dash_3: feel-body-peace
-bip_39_word_new_br_12: feel<br>body<br>peace<br>humble<br>school<br>letter<br>essay<br>oyster<br>pudding<br>joke<br>lottery<br>anchor
-bip_39_word_new_br_2: feel<br>body
-bip_39_word_new_br_3: feel<br>body<br>peace
-bip_39_word_new_line_12: 'feel
-
-  body
-
-  peace
-
-  humble
-
-  school
-
-  letter
-
-  essay
-
-  oyster
-
-  pudding
-
-  joke
-
-  lottery
-
-  anchor'
-bip_39_word_new_line_2: 'feel
-
-  body'
-bip_39_word_new_line_3: 'feel
-
-  body
-
-  peace'
-bip_39_word_no_space_12: feelbodypeacehumbleschoolletteressayoysterpuddingjokelotteryanchor
-bip_39_word_no_space_2: feelbody
-bip_39_word_no_space_3: feelbodypeace
-bip_39_word_space_12: feel body peace humble school letter essay oyster pudding joke
-  lottery anchor
-bip_39_word_space_2: feel body
-bip_39_word_space_3: feel body peace
-bip_39_word_underscore_12: feel_body_peace_humble_school_letter_essay_oyster_pudding_joke_lottery_anchor
-bip_39_word_underscore_2: feel_body
-bip_39_word_underscore_3: feel_body_peace
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
-classification_length_1: m
-classification_length_2: me
-classification_length_3: mec
-classification_length_4: mech
-classification_length_5: mecha
-classification_length_6: mechan
-classification_name: Mechanical
-classification_no_space_length_1: m
-classification_no_space_length_2: me
-classification_no_space_length_3: mec
-classification_no_space_length_4: mech
-classification_no_space_length_5: mecha
-classification_no_space_length_6: mechan
-classification_no_space_upper_length_1: M
-classification_no_space_upper_length_2: ME
-classification_no_space_upper_length_3: MEC
-classification_no_space_upper_length_4: MECH
-classification_no_space_upper_length_5: MECHA
-classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
-classification_upper_length_1: M
-classification_upper_length_2: ME
-classification_upper_length_3: MEC
-classification_upper_length_4: MECH
-classification_upper_length_5: MECHA
-classification_upper_length_6: MECHAN
 color: 6_mm_belt_width
 color_capital: 6 mm Belt Width
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '6_'
-color_length_3: 6_m
-color_length_4: 6_mm
-color_length_5: 6_mm_
-color_length_6: 6_mm_b
-color_name: 6 mm Belt Width
-color_no_space_length_1: '6'
-color_no_space_length_2: 6m
-color_no_space_length_3: 6mm
-color_no_space_length_4: 6mmb
-color_no_space_length_5: 6mmbe
-color_no_space_length_6: 6mmbel
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: 6M
-color_no_space_upper_length_3: 6MM
-color_no_space_upper_length_4: 6MMB
-color_no_space_upper_length_5: 6MMBE
-color_no_space_upper_length_6: 6MMBEL
 color_upper: 6_MM_BELT_WIDTH
-color_upper_length_1: '6'
-color_upper_length_2: '6_'
-color_upper_length_3: 6_M
-color_upper_length_4: 6_MM
-color_upper_length_5: 6_MM_
-color_upper_length_6: 6_MM_B
 description_extra: 3_mm_bore
 description_extra_capital: 3 mm Bore
 description_extra_first_letter: '3'
 description_extra_first_letter_upper: '3'
-description_extra_length_1: '3'
-description_extra_length_2: '3_'
-description_extra_length_3: 3_m
-description_extra_length_4: 3_mm
-description_extra_length_5: 3_mm_
-description_extra_length_6: 3_mm_b
-description_extra_name: 3 mm Bore
-description_extra_no_space_length_1: '3'
-description_extra_no_space_length_2: 3m
-description_extra_no_space_length_3: 3mm
-description_extra_no_space_length_4: 3mmb
-description_extra_no_space_length_5: 3mmbo
-description_extra_no_space_length_6: 3mmbor
-description_extra_no_space_upper_length_1: '3'
-description_extra_no_space_upper_length_2: 3M
-description_extra_no_space_upper_length_3: 3MM
-description_extra_no_space_upper_length_4: 3MMB
-description_extra_no_space_upper_length_5: 3MMBO
-description_extra_no_space_upper_length_6: 3MMBOR
 description_extra_upper: 3_MM_BORE
-description_extra_upper_length_1: '3'
-description_extra_upper_length_2: '3_'
-description_extra_upper_length_3: 3_M
-description_extra_upper_length_4: 3_MM
-description_extra_upper_length_5: 3_MM_
-description_extra_upper_length_6: 3_MM_B
 description_main: 25_teeth
 description_main_capital: 25 Teeth
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '25'
-description_main_length_3: '25_'
-description_main_length_4: 25_t
-description_main_length_5: 25_te
-description_main_length_6: 25_tee
-description_main_name: 25 Teeth
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '25'
-description_main_no_space_length_3: 25t
-description_main_no_space_length_4: 25te
-description_main_no_space_length_5: 25tee
-description_main_no_space_length_6: 25teet
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '25'
-description_main_no_space_upper_length_3: 25T
-description_main_no_space_upper_length_4: 25TE
-description_main_no_space_upper_length_5: 25TEE
-description_main_no_space_upper_length_6: 25TEET
 description_main_upper: 25_TEETH
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '25'
-description_main_upper_length_3: '25_'
-description_main_upper_length_4: 25_T
-description_main_upper_length_5: 25_TE
-description_main_upper_length_6: 25_TEE
 description_only_numbers: '25'
 description_only_numbers_short: '25'
 description_or_color: '625'
 description_or_color_upper: '625'
 directory: parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 id: mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 id_no_class: timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
-id_no_color: 25_teeth_3_mm_bore
 id_no_size: 6_mm_belt_width_25_teeth_3_mm_bore
 id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
@@ -184,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore](none)<br>[](none)<br>[Mechanical
@@ -199,12 +49,11 @@ md5_6: 87081e
 md5_6_alpha: 59o9q
 md5_6_alpha_upper: 59O9Q
 md5_6_upper: 87081E
-name: Mechanical Timing Pulley 2Gt 2 mm Pitch 6 mm Belt Width 25 Teeth 3 mm Bore
-name_no_class: Timing Pulley 2Gt 2 mm Pitch 6 mm Belt Width 25 Teeth 3 mm Bore
-name_no_color: 25 Teeth 3 mm Bore
-name_no_size: 6 mm Belt Width 25 Teeth 3 mm Bore
+name: Mechanical Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 25 Teeth 3 Mm Bore
+name_no_class: Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 25 Teeth 3 Mm Bore
+name_no_size: 6 Mm Belt Width 25 Teeth 3 Mm Bore
 name_no_size_short: 6 Mm Belt Width 25 Teeth 3 Mm Bore
-name_no_type: 2Gt 2 mm Pitch 6 mm Belt Width 25 Teeth 3 mm Bore
+name_no_type: 2Gt 2 Mm Pitch 6 Mm Belt Width 25 Teeth 3 Mm Bore
 oomp_key: oomp_mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_25_teeth_3_mm_bore
 oomp_word: toilet scream angel
 oomp_word_emoji: ':toilet: :scream: :angel:'
@@ -220,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -229,61 +77,11 @@ size: 2gt_2_mm_pitch
 size_capital: 2Gt 2 mm Pitch
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: 2g
-size_length_3: 2gt
-size_length_4: 2gt_
-size_length_5: 2gt_2
-size_length_6: 2gt_2_
-size_name: 2Gt 2 mm Pitch
-size_no_space_length_1: '2'
-size_no_space_length_2: 2g
-size_no_space_length_3: 2gt
-size_no_space_length_4: 2gt2
-size_no_space_length_5: 2gt2m
-size_no_space_length_6: 2gt2mm
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: 2G
-size_no_space_upper_length_3: 2GT
-size_no_space_upper_length_4: 2GT2
-size_no_space_upper_length_5: 2GT2M
-size_no_space_upper_length_6: 2GT2MM
 size_only_numbers: '22'
 size_only_numbers_no_zeros: '22'
 size_upper: 2GT_2_MM_PITCH
-size_upper_length_1: '2'
-size_upper_length_2: 2G
-size_upper_length_3: 2GT
-size_upper_length_4: 2GT_
-size_upper_length_5: 2GT_2
-size_upper_length_6: 2GT_2_
 type: timing_pulley
 type_capital: Timing Pulley
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: ti
-type_length_3: tim
-type_length_4: timi
-type_length_5: timin
-type_length_6: timing
-type_name: Timing Pulley
-type_no_space_length_1: t
-type_no_space_length_2: ti
-type_no_space_length_3: tim
-type_no_space_length_4: timi
-type_no_space_length_5: timin
-type_no_space_length_6: timing
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TI
-type_no_space_upper_length_3: TIM
-type_no_space_upper_length_4: TIMI
-type_no_space_upper_length_5: TIMIN
-type_no_space_upper_length_6: TIMING
 type_upper: TIMING_PULLEY
-type_upper_length_1: T
-type_upper_length_2: TI
-type_upper_length_3: TIM
-type_upper_length_4: TIMI
-type_upper_length_5: TIMIN
-type_upper_length_6: TIMING

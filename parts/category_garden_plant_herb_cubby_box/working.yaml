@@ -1,146 +1,23 @@
-bip_39_word_dash_12: tooth-faith-have-tray-rice-outdoor-mother-fat-margin-limit-merry-access
-bip_39_word_dash_2: tooth-faith
-bip_39_word_dash_3: tooth-faith-have
-bip_39_word_new_br_12: tooth<br>faith<br>have<br>tray<br>rice<br>outdoor<br>mother<br>fat<br>margin<br>limit<br>merry<br>access
-bip_39_word_new_br_2: tooth<br>faith
-bip_39_word_new_br_3: tooth<br>faith<br>have
-bip_39_word_new_line_12: 'tooth
-
-  faith
-
-  have
-
-  tray
-
-  rice
-
-  outdoor
-
-  mother
-
-  fat
-
-  margin
-
-  limit
-
-  merry
-
-  access'
-bip_39_word_new_line_2: 'tooth
-
-  faith'
-bip_39_word_new_line_3: 'tooth
-
-  faith
-
-  have'
-bip_39_word_no_space_12: toothfaithhavetrayriceoutdoormotherfatmarginlimitmerryaccess
-bip_39_word_no_space_2: toothfaith
-bip_39_word_no_space_3: toothfaithhave
-bip_39_word_space_12: tooth faith have tray rice outdoor mother fat margin limit merry
-  access
-bip_39_word_space_2: tooth faith
-bip_39_word_space_3: tooth faith have
-bip_39_word_underscore_12: tooth_faith_have_tray_rice_outdoor_mother_fat_margin_limit_merry_access
-bip_39_word_underscore_2: tooth_faith
-bip_39_word_underscore_3: tooth_faith_have
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: herb
 color_capital: Herb
 color_first_letter: h
 color_first_letter_upper: H
-color_length_1: h
-color_length_2: he
-color_length_3: her
-color_length_4: herb
-color_length_5: herb
-color_length_6: herb
-color_name: Herb
-color_no_space_length_1: h
-color_no_space_length_2: he
-color_no_space_length_3: her
-color_no_space_length_4: herb
-color_no_space_length_5: herb
-color_no_space_length_6: herb
-color_no_space_upper_length_1: H
-color_no_space_upper_length_2: HE
-color_no_space_upper_length_3: HER
-color_no_space_upper_length_4: HERB
-color_no_space_upper_length_5: HERB
-color_no_space_upper_length_6: HERB
 color_upper: HERB
-color_upper_length_1: H
-color_upper_length_2: HE
-color_upper_length_3: HER
-color_upper_length_4: HERB
-color_upper_length_5: HERB
-color_upper_length_6: HERB
 description: category_garden
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_garden_plant_herb_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_garden_plant_herb_cubby_box
 id: category_garden_plant_herb_cubby_box
 id_no_class: garden_plant_herb_cubby_box
-id_no_color: cubby_box
 id_no_size: herb_cubby_box
 id_no_type: plant_herb_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_herb_cubby_box
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_garden_plant_herb_cubby_box](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: TMJK
 md5_6_upper: '151760'
 name: Category Garden Plant Herb Cubby Box
 name_no_class: Garden Plant Herb Cubby Box
-name_no_color: Cubby Box
 name_no_size: Herb Cubby Box
 name_no_size_short: Herb Cubby Box
 name_no_type: Plant Herb Cubby Box
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: plant
 size_capital: Plant
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pl
-size_length_3: pla
-size_length_4: plan
-size_length_5: plant
-size_length_6: plant
-size_name: Plant
-size_no_space_length_1: p
-size_no_space_length_2: pl
-size_no_space_length_3: pla
-size_no_space_length_4: plan
-size_no_space_length_5: plant
-size_no_space_length_6: plant
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PL
-size_no_space_upper_length_3: PLA
-size_no_space_upper_length_4: PLAN
-size_no_space_upper_length_5: PLANT
-size_no_space_upper_length_6: PLANT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PLANT
-size_upper_length_1: P
-size_upper_length_2: PL
-size_upper_length_3: PLA
-size_upper_length_4: PLAN
-size_upper_length_5: PLANT
-size_upper_length_6: PLANT
 type: garden
 type_capital: Garden
 type_first_letter: g
 type_first_letter_upper: G
-type_length_1: g
-type_length_2: ga
-type_length_3: gar
-type_length_4: gard
-type_length_5: garde
-type_length_6: garden
-type_name: Garden
-type_no_space_length_1: g
-type_no_space_length_2: ga
-type_no_space_length_3: gar
-type_no_space_length_4: gard
-type_no_space_length_5: garde
-type_no_space_length_6: garden
-type_no_space_upper_length_1: G
-type_no_space_upper_length_2: GA
-type_no_space_upper_length_3: GAR
-type_no_space_upper_length_4: GARD
-type_no_space_upper_length_5: GARDE
-type_no_space_upper_length_6: GARDEN
 type_upper: GARDEN
-type_upper_length_1: G
-type_upper_length_2: GA
-type_upper_length_3: GAR
-type_upper_length_4: GARD
-type_upper_length_5: GARDE
-type_upper_length_6: GARDEN

@@ -1,98 +1,23 @@
-bip_39_word_dash_12: join-into-praise-toe-inside-segment-polar-law-odor-cargo-hybrid-absorb
-bip_39_word_dash_2: join-into
-bip_39_word_dash_3: join-into-praise
-bip_39_word_new_br_12: join<br>into<br>praise<br>toe<br>inside<br>segment<br>polar<br>law<br>odor<br>cargo<br>hybrid<br>absorb
-bip_39_word_new_br_2: join<br>into
-bip_39_word_new_br_3: join<br>into<br>praise
-bip_39_word_new_line_12: 'join
-
-  into
-
-  praise
-
-  toe
-
-  inside
-
-  segment
-
-  polar
-
-  law
-
-  odor
-
-  cargo
-
-  hybrid
-
-  absorb'
-bip_39_word_new_line_2: 'join
-
-  into'
-bip_39_word_new_line_3: 'join
-
-  into
-
-  praise'
-bip_39_word_no_space_12: joinintopraisetoeinsidesegmentpolarlawodorcargohybridabsorb
-bip_39_word_no_space_2: joininto
-bip_39_word_no_space_3: joinintopraise
-bip_39_word_space_12: join into praise toe inside segment polar law odor cargo hybrid
-  absorb
-bip_39_word_space_2: join into
-bip_39_word_space_3: join into praise
-bip_39_word_underscore_12: join_into_praise_toe_inside_segment_polar_law_odor_cargo_hybrid_absorb
-bip_39_word_underscore_2: join_into
-bip_39_word_underscore_3: join_into_praise
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_craft
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_craft
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft
 id: category_craft
 id_no_class: craft
-id_no_color: craft
 id_no_size: craft
 id_no_type: craft
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft](none)<br>[](none)<br>[Category Craft](none)<br><br>'
@@ -131,7 +53,6 @@ md5_6_alpha_upper: I32G
 md5_6_upper: 0CE008
 name: Category Craft
 name_no_class: Craft
-name_no_color: Craft
 name_no_size: Craft
 name_no_size_short: Craft
 name_no_type: Craft
@@ -151,7 +72,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -160,7 +80,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -168,29 +87,4 @@ type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cr
-type_length_3: cra
-type_length_4: craf
-type_length_5: craft
-type_length_6: craft
-type_name: Craft
-type_no_space_length_1: c
-type_no_space_length_2: cr
-type_no_space_length_3: cra
-type_no_space_length_4: craf
-type_no_space_length_5: craft
-type_no_space_length_6: craft
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CR
-type_no_space_upper_length_3: CRA
-type_no_space_upper_length_4: CRAF
-type_no_space_upper_length_5: CRAFT
-type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
-type_upper_length_1: C
-type_upper_length_2: CR
-type_upper_length_3: CRA
-type_upper_length_4: CRAF
-type_upper_length_5: CRAFT
-type_upper_length_6: CRAFT

@@ -1,144 +1,23 @@
-bip_39_word_dash_11: gown-dream-label-tenant-swing-crop-enforce-lake-zebra-decide-chicken
-bip_39_word_dash_2: gown-dream
-bip_39_word_dash_3: gown-dream-label
-bip_39_word_new_br_11: gown<br>dream<br>label<br>tenant<br>swing<br>crop<br>enforce<br>lake<br>zebra<br>decide<br>chicken
-bip_39_word_new_br_2: gown<br>dream
-bip_39_word_new_br_3: gown<br>dream<br>label
-bip_39_word_new_line_11: 'gown
-
-  dream
-
-  label
-
-  tenant
-
-  swing
-
-  crop
-
-  enforce
-
-  lake
-
-  zebra
-
-  decide
-
-  chicken'
-bip_39_word_new_line_2: 'gown
-
-  dream'
-bip_39_word_new_line_3: 'gown
-
-  dream
-
-  label'
-bip_39_word_no_space_11: gowndreamlabeltenantswingcropenforcelakezebradecidechicken
-bip_39_word_no_space_2: gowndream
-bip_39_word_no_space_3: gowndreamlabel
-bip_39_word_space_11: gown dream label tenant swing crop enforce lake zebra decide
-  chicken
-bip_39_word_space_2: gown dream
-bip_39_word_space_3: gown dream label
-bip_39_word_underscore_11: gown_dream_label_tenant_swing_crop_enforce_lake_zebra_decide_chicken
-bip_39_word_underscore_2: gown_dream
-bip_39_word_underscore_3: gown_dream_label
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: l298n
 color_capital: L298N
 color_first_letter: l
 color_first_letter_upper: L
-color_length_1: l
-color_length_2: l2
-color_length_3: l29
-color_length_4: l298
-color_length_5: l298n
-color_length_6: l298n
-color_name: L298N
-color_no_space_length_1: l
-color_no_space_length_2: l2
-color_no_space_length_3: l29
-color_no_space_length_4: l298
-color_no_space_length_5: l298n
-color_no_space_length_6: l298n
-color_no_space_upper_length_1: L
-color_no_space_upper_length_2: L2
-color_no_space_upper_length_3: L29
-color_no_space_upper_length_4: L298
-color_no_space_upper_length_5: L298N
-color_no_space_upper_length_6: L298N
 color_upper: L298N
-color_upper_length_1: L
-color_upper_length_2: L2
-color_upper_length_3: L29
-color_upper_length_4: L298
-color_upper_length_5: L298N
-color_upper_length_6: L298N
 description: category_electronic
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -148,10 +27,8 @@ directory: parts/category_electronic_breakout_board_motor_driver_l298n_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote
 id: category_electronic_breakout_board_motor_driver_l298n_tote
 id_no_class: electronic_breakout_board_motor_driver_l298n_tote
-id_no_color: tote
 id_no_size: l298n_tote
 id_no_type: breakout_board_motor_driver_l298n_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n_tote
@@ -161,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_breakout_board_motor_driver_l298n_tote](none)<br>[](none)<br>[Category
@@ -178,7 +54,6 @@ md5_6_alpha_upper: FNY
 md5_6_upper: 004F4E
 name: Category Electronic Breakout Board Motor Driver L298N Tote
 name_no_class: Electronic Breakout Board Motor Driver L298N Tote
-name_no_color: Tote
 name_no_size: L298N Tote
 name_no_size_short: L298N Tote
 name_no_type: Breakout Board Motor Driver L298N Tote
@@ -198,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -207,61 +81,11 @@ size: breakout_board_motor_driver
 size_capital: Breakout Board Motor Driver
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: br
-size_length_3: bre
-size_length_4: brea
-size_length_5: break
-size_length_6: breako
-size_name: Breakout Board Motor Driver
-size_no_space_length_1: b
-size_no_space_length_2: br
-size_no_space_length_3: bre
-size_no_space_length_4: brea
-size_no_space_length_5: break
-size_no_space_length_6: breako
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BR
-size_no_space_upper_length_3: BRE
-size_no_space_upper_length_4: BREA
-size_no_space_upper_length_5: BREAK
-size_no_space_upper_length_6: BREAKO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BREAKOUT_BOARD_MOTOR_DRIVER
-size_upper_length_1: B
-size_upper_length_2: BR
-size_upper_length_3: BRE
-size_upper_length_4: BREA
-size_upper_length_5: BREAK
-size_upper_length_6: BREAKO
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

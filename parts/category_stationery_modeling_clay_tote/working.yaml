@@ -1,122 +1,23 @@
-bip_39_word_dash_12: screen-prison-manual-twelve-surface-tank-outer-knee-sibling-riot-supply-annual
-bip_39_word_dash_2: screen-prison
-bip_39_word_dash_3: screen-prison-manual
-bip_39_word_new_br_12: screen<br>prison<br>manual<br>twelve<br>surface<br>tank<br>outer<br>knee<br>sibling<br>riot<br>supply<br>annual
-bip_39_word_new_br_2: screen<br>prison
-bip_39_word_new_br_3: screen<br>prison<br>manual
-bip_39_word_new_line_12: 'screen
-
-  prison
-
-  manual
-
-  twelve
-
-  surface
-
-  tank
-
-  outer
-
-  knee
-
-  sibling
-
-  riot
-
-  supply
-
-  annual'
-bip_39_word_new_line_2: 'screen
-
-  prison'
-bip_39_word_new_line_3: 'screen
-
-  prison
-
-  manual'
-bip_39_word_no_space_12: screenprisonmanualtwelvesurfacetankouterkneesiblingriotsupplyannual
-bip_39_word_no_space_2: screenprison
-bip_39_word_no_space_3: screenprisonmanual
-bip_39_word_space_12: screen prison manual twelve surface tank outer knee sibling
-  riot supply annual
-bip_39_word_space_2: screen prison
-bip_39_word_space_3: screen prison manual
-bip_39_word_underscore_12: screen_prison_manual_twelve_surface_tank_outer_knee_sibling_riot_supply_annual
-bip_39_word_underscore_2: screen_prison
-bip_39_word_underscore_3: screen_prison_manual
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_stationery
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_stationery_modeling_clay_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_modeling_clay_tote
 id: category_stationery_modeling_clay_tote
 id_no_class: stationery_modeling_clay_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: modeling_clay_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_stationery_modeling_clay_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 5X38U
 md5_6_upper: 97B3AE
 name: Category Stationery Modeling Clay Tote
 name_no_class: Stationery Modeling Clay Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Modeling Clay Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: modeling_clay
 size_capital: Modeling Clay
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: mo
-size_length_3: mod
-size_length_4: mode
-size_length_5: model
-size_length_6: modeli
-size_name: Modeling Clay
-size_no_space_length_1: m
-size_no_space_length_2: mo
-size_no_space_length_3: mod
-size_no_space_length_4: mode
-size_no_space_length_5: model
-size_no_space_length_6: modeli
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: MO
-size_no_space_upper_length_3: MOD
-size_no_space_upper_length_4: MODE
-size_no_space_upper_length_5: MODEL
-size_no_space_upper_length_6: MODELI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MODELING_CLAY
-size_upper_length_1: M
-size_upper_length_2: MO
-size_upper_length_3: MOD
-size_upper_length_4: MODE
-size_upper_length_5: MODEL
-size_upper_length_6: MODELI
 type: stationery
 type_capital: Stationery
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: stat
-type_length_5: stati
-type_length_6: statio
-type_name: Stationery
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: stat
-type_no_space_length_5: stati
-type_no_space_length_6: statio
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAT
-type_no_space_upper_length_5: STATI
-type_no_space_upper_length_6: STATIO
 type_upper: STATIONERY
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAT
-type_upper_length_5: STATI
-type_upper_length_6: STATIO

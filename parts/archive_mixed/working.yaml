@@ -1,132 +1,31 @@
-bip_39_word_dash_12: purity-magnet-neck-unfair-rural-shiver-raw-hire-deputy-that-beyond-asthma
-bip_39_word_dash_2: purity-magnet
-bip_39_word_dash_3: purity-magnet-neck
-bip_39_word_new_br_12: purity<br>magnet<br>neck<br>unfair<br>rural<br>shiver<br>raw<br>hire<br>deputy<br>that<br>beyond<br>asthma
-bip_39_word_new_br_2: purity<br>magnet
-bip_39_word_new_br_3: purity<br>magnet<br>neck
-bip_39_word_new_line_12: 'purity
-
-  magnet
-
-  neck
-
-  unfair
-
-  rural
-
-  shiver
-
-  raw
-
-  hire
-
-  deputy
-
-  that
-
-  beyond
-
-  asthma'
-bip_39_word_new_line_2: 'purity
-
-  magnet'
-bip_39_word_new_line_3: 'purity
-
-  magnet
-
-  neck'
-bip_39_word_no_space_12: puritymagnetneckunfairruralshiverrawhiredeputythatbeyondasthma
-bip_39_word_no_space_2: puritymagnet
-bip_39_word_no_space_3: puritymagnetneck
-bip_39_word_space_12: purity magnet neck unfair rural shiver raw hire deputy that
-  beyond asthma
-bip_39_word_space_2: purity magnet
-bip_39_word_space_3: purity magnet neck
-bip_39_word_underscore_12: purity_magnet_neck_unfair_rural_shiver_raw_hire_deputy_that_beyond_asthma
-bip_39_word_underscore_2: purity_magnet
-bip_39_word_underscore_3: purity_magnet_neck
 classification: archive
 classification_capital: Archive
 classification_first_letter: a
 classification_first_letter_upper: A
-classification_length_1: a
-classification_length_2: ar
-classification_length_3: arc
-classification_length_4: arch
-classification_length_5: archi
-classification_length_6: archiv
-classification_name: Archive
-classification_no_space_length_1: a
-classification_no_space_length_2: ar
-classification_no_space_length_3: arc
-classification_no_space_length_4: arch
-classification_no_space_length_5: archi
-classification_no_space_length_6: archiv
-classification_no_space_upper_length_1: A
-classification_no_space_upper_length_2: AR
-classification_no_space_upper_length_3: ARC
-classification_no_space_upper_length_4: ARCH
-classification_no_space_upper_length_5: ARCHI
-classification_no_space_upper_length_6: ARCHIV
 classification_upper: ARCHIVE
-classification_upper_length_1: A
-classification_upper_length_2: AR
-classification_upper_length_3: ARC
-classification_upper_length_4: ARCH
-classification_upper_length_5: ARCHI
-classification_upper_length_6: ARCHIV
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: mi
-description_main_length_3: mix
-description_main_length_4: mixe
-description_main_length_5: mixed
-description_main_length_6: mixed
-description_main_name: Mixed
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mi
-description_main_no_space_length_3: mix
-description_main_no_space_length_4: mixe
-description_main_no_space_length_5: mixed
-description_main_no_space_length_6: mixed
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MI
-description_main_no_space_upper_length_3: MIX
-description_main_no_space_upper_length_4: MIXE
-description_main_no_space_upper_length_5: MIXED
-description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
-description_main_upper_length_1: M
-description_main_upper_length_2: MI
-description_main_upper_length_3: MIX
-description_main_upper_length_4: MIXE
-description_main_upper_length_5: MIXED
-description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/archive_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/archive_mixed
 id: archive_mixed
 id_no_class: mixed
-id_no_color: mixed
 id_no_size: mixed
 id_no_type: mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[archive_mixed](none)<br>[](none)<br>[Archive Mixed](none)<br><br>'
@@ -152,7 +50,6 @@ md5_6_alpha_upper: 8QVUF
 md5_6_upper: E02BB7
 name: Archive Mixed
 name_no_class: Mixed
-name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Mixed
@@ -171,7 +68,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -179,7 +75,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -187,5 +82,4 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''

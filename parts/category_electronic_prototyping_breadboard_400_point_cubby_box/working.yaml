@@ -1,146 +1,23 @@
-bip_39_word_dash_12: oven-tobacco-trial-firm-favorite-naive-weasel-useless-monster-short-pet-acquire
-bip_39_word_dash_2: oven-tobacco
-bip_39_word_dash_3: oven-tobacco-trial
-bip_39_word_new_br_12: oven<br>tobacco<br>trial<br>firm<br>favorite<br>naive<br>weasel<br>useless<br>monster<br>short<br>pet<br>acquire
-bip_39_word_new_br_2: oven<br>tobacco
-bip_39_word_new_br_3: oven<br>tobacco<br>trial
-bip_39_word_new_line_12: 'oven
-
-  tobacco
-
-  trial
-
-  firm
-
-  favorite
-
-  naive
-
-  weasel
-
-  useless
-
-  monster
-
-  short
-
-  pet
-
-  acquire'
-bip_39_word_new_line_2: 'oven
-
-  tobacco'
-bip_39_word_new_line_3: 'oven
-
-  tobacco
-
-  trial'
-bip_39_word_no_space_12: oventobaccotrialfirmfavoritenaiveweaseluselessmonstershortpetacquire
-bip_39_word_no_space_2: oventobacco
-bip_39_word_no_space_3: oventobaccotrial
-bip_39_word_space_12: oven tobacco trial firm favorite naive weasel useless monster
-  short pet acquire
-bip_39_word_space_2: oven tobacco
-bip_39_word_space_3: oven tobacco trial
-bip_39_word_underscore_12: oven_tobacco_trial_firm_favorite_naive_weasel_useless_monster_short_pet_acquire
-bip_39_word_underscore_2: oven_tobacco
-bip_39_word_underscore_3: oven_tobacco_trial
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 400_point
 color_capital: 400 Point
 color_first_letter: '4'
 color_first_letter_upper: '4'
-color_length_1: '4'
-color_length_2: '40'
-color_length_3: '400'
-color_length_4: '400_'
-color_length_5: 400_p
-color_length_6: 400_po
-color_name: 400 Point
-color_no_space_length_1: '4'
-color_no_space_length_2: '40'
-color_no_space_length_3: '400'
-color_no_space_length_4: 400p
-color_no_space_length_5: 400po
-color_no_space_length_6: 400poi
-color_no_space_upper_length_1: '4'
-color_no_space_upper_length_2: '40'
-color_no_space_upper_length_3: '400'
-color_no_space_upper_length_4: 400P
-color_no_space_upper_length_5: 400PO
-color_no_space_upper_length_6: 400POI
 color_upper: 400_POINT
-color_upper_length_1: '4'
-color_upper_length_2: '40'
-color_upper_length_3: '400'
-color_upper_length_4: '400_'
-color_upper_length_5: 400_P
-color_upper_length_6: 400_PO
 description: category_electronic
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_electronic_prototyping_breadboard_400_point_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_prototyping_breadboard_400_point_cubby_box
 id: category_electronic_prototyping_breadboard_400_point_cubby_box
 id_no_class: electronic_prototyping_breadboard_400_point_cubby_box
-id_no_color: cubby_box
 id_no_size: 400_point_cubby_box
 id_no_type: prototyping_breadboard_400_point_cubby_box
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard_400_point_cubby_box
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_prototyping_breadboard_400_point_cubby_box](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 1DJW1
 md5_6_upper: 2346F1
 name: Category Electronic Prototyping Breadboard 400 Point Cubby Box
 name_no_class: Electronic Prototyping Breadboard 400 Point Cubby Box
-name_no_color: Cubby Box
 name_no_size: 400 Point Cubby Box
 name_no_size_short: 400 Point Cubby Box
 name_no_type: Prototyping Breadboard 400 Point Cubby Box
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: prototyping_breadboard
 size_capital: Prototyping Breadboard
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pr
-size_length_3: pro
-size_length_4: prot
-size_length_5: proto
-size_length_6: protot
-size_name: Prototyping Breadboard
-size_no_space_length_1: p
-size_no_space_length_2: pr
-size_no_space_length_3: pro
-size_no_space_length_4: prot
-size_no_space_length_5: proto
-size_no_space_length_6: protot
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PR
-size_no_space_upper_length_3: PRO
-size_no_space_upper_length_4: PROT
-size_no_space_upper_length_5: PROTO
-size_no_space_upper_length_6: PROTOT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PROTOTYPING_BREADBOARD
-size_upper_length_1: P
-size_upper_length_2: PR
-size_upper_length_3: PRO
-size_upper_length_4: PROT
-size_upper_length_5: PROTO
-size_upper_length_6: PROTOT
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

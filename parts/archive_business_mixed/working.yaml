@@ -1,132 +1,31 @@
-bip_39_word_dash_12: bulk-civil-energy-festival-father-illness-please-hungry-amount-deal-service-analyst
-bip_39_word_dash_2: bulk-civil
-bip_39_word_dash_3: bulk-civil-energy
-bip_39_word_new_br_12: bulk<br>civil<br>energy<br>festival<br>father<br>illness<br>please<br>hungry<br>amount<br>deal<br>service<br>analyst
-bip_39_word_new_br_2: bulk<br>civil
-bip_39_word_new_br_3: bulk<br>civil<br>energy
-bip_39_word_new_line_12: 'bulk
-
-  civil
-
-  energy
-
-  festival
-
-  father
-
-  illness
-
-  please
-
-  hungry
-
-  amount
-
-  deal
-
-  service
-
-  analyst'
-bip_39_word_new_line_2: 'bulk
-
-  civil'
-bip_39_word_new_line_3: 'bulk
-
-  civil
-
-  energy'
-bip_39_word_no_space_12: bulkcivilenergyfestivalfatherillnesspleasehungryamountdealserviceanalyst
-bip_39_word_no_space_2: bulkcivil
-bip_39_word_no_space_3: bulkcivilenergy
-bip_39_word_space_12: bulk civil energy festival father illness please hungry amount
-  deal service analyst
-bip_39_word_space_2: bulk civil
-bip_39_word_space_3: bulk civil energy
-bip_39_word_underscore_12: bulk_civil_energy_festival_father_illness_please_hungry_amount_deal_service_analyst
-bip_39_word_underscore_2: bulk_civil
-bip_39_word_underscore_3: bulk_civil_energy
 classification: archive
 classification_capital: Archive
 classification_first_letter: a
 classification_first_letter_upper: A
-classification_length_1: a
-classification_length_2: ar
-classification_length_3: arc
-classification_length_4: arch
-classification_length_5: archi
-classification_length_6: archiv
-classification_name: Archive
-classification_no_space_length_1: a
-classification_no_space_length_2: ar
-classification_no_space_length_3: arc
-classification_no_space_length_4: arch
-classification_no_space_length_5: archi
-classification_no_space_length_6: archiv
-classification_no_space_upper_length_1: A
-classification_no_space_upper_length_2: AR
-classification_no_space_upper_length_3: ARC
-classification_no_space_upper_length_4: ARCH
-classification_no_space_upper_length_5: ARCHI
-classification_no_space_upper_length_6: ARCHIV
 classification_upper: ARCHIVE
-classification_upper_length_1: A
-classification_upper_length_2: AR
-classification_upper_length_3: ARC
-classification_upper_length_4: ARCH
-classification_upper_length_5: ARCHI
-classification_upper_length_6: ARCHIV
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
-description_main_length_1: m
-description_main_length_2: mi
-description_main_length_3: mix
-description_main_length_4: mixe
-description_main_length_5: mixed
-description_main_length_6: mixed
-description_main_name: Mixed
-description_main_no_space_length_1: m
-description_main_no_space_length_2: mi
-description_main_no_space_length_3: mix
-description_main_no_space_length_4: mixe
-description_main_no_space_length_5: mixed
-description_main_no_space_length_6: mixed
-description_main_no_space_upper_length_1: M
-description_main_no_space_upper_length_2: MI
-description_main_no_space_upper_length_3: MIX
-description_main_no_space_upper_length_4: MIXE
-description_main_no_space_upper_length_5: MIXED
-description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
-description_main_upper_length_1: M
-description_main_upper_length_2: MI
-description_main_upper_length_3: MIX
-description_main_upper_length_4: MIXE
-description_main_upper_length_5: MIXED
-description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/archive_business_mixed
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/archive_business_mixed
 id: archive_business_mixed
 id_no_class: business_mixed
-id_no_color: mixed
 id_no_size: mixed
 id_no_type: mixed
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_business_mixed
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[archive_business_mixed](none)<br>[](none)<br>[Archive Business Mixed](none)<br><br>'
@@ -152,7 +50,6 @@ md5_6_alpha_upper: 57KGE
 md5_6_upper: 85884E
 name: Archive Business Mixed
 name_no_class: Business Mixed
-name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Mixed
@@ -171,7 +68,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -179,7 +75,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -187,29 +82,4 @@ type: business
 type_capital: Business
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: bu
-type_length_3: bus
-type_length_4: busi
-type_length_5: busin
-type_length_6: busine
-type_name: Business
-type_no_space_length_1: b
-type_no_space_length_2: bu
-type_no_space_length_3: bus
-type_no_space_length_4: busi
-type_no_space_length_5: busin
-type_no_space_length_6: busine
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BU
-type_no_space_upper_length_3: BUS
-type_no_space_upper_length_4: BUSI
-type_no_space_upper_length_5: BUSIN
-type_no_space_upper_length_6: BUSINE
 type_upper: BUSINESS
-type_upper_length_1: B
-type_upper_length_2: BU
-type_upper_length_3: BUS
-type_upper_length_4: BUSI
-type_upper_length_5: BUSIN
-type_upper_length_6: BUSINE

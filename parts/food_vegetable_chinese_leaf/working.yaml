@@ -1,123 +1,24 @@
-bip_39_word_dash_12: nose-soft-onion-focus-velvet-stage-faculty-muscle-assault-edit-prefer-art
-bip_39_word_dash_2: nose-soft
-bip_39_word_dash_3: nose-soft-onion
-bip_39_word_new_br_12: nose<br>soft<br>onion<br>focus<br>velvet<br>stage<br>faculty<br>muscle<br>assault<br>edit<br>prefer<br>art
-bip_39_word_new_br_2: nose<br>soft
-bip_39_word_new_br_3: nose<br>soft<br>onion
-bip_39_word_new_line_12: 'nose
-
-  soft
-
-  onion
-
-  focus
-
-  velvet
-
-  stage
-
-  faculty
-
-  muscle
-
-  assault
-
-  edit
-
-  prefer
-
-  art'
-bip_39_word_new_line_2: 'nose
-
-  soft'
-bip_39_word_new_line_3: 'nose
-
-  soft
-
-  onion'
-bip_39_word_no_space_12: nosesoftonionfocusvelvetstagefacultymuscleassaulteditpreferart
-bip_39_word_no_space_2: nosesoft
-bip_39_word_no_space_3: nosesoftonion
-bip_39_word_space_12: nose soft onion focus velvet stage faculty muscle assault edit
-  prefer art
-bip_39_word_space_2: nose soft
-bip_39_word_space_3: nose soft onion
-bip_39_word_underscore_12: nose_soft_onion_focus_velvet_stage_faculty_muscle_assault_edit_prefer_art
-bip_39_word_underscore_2: nose_soft
-bip_39_word_underscore_3: nose_soft_onion
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: M&S Chinese Leaf
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: chinese_leaf
 description_main_capital: Chinese Leaf
 description_main_first_letter: c
 description_main_first_letter_upper: C
-description_main_length_1: c
-description_main_length_2: ch
-description_main_length_3: chi
-description_main_length_4: chin
-description_main_length_5: chine
-description_main_length_6: chines
-description_main_name: Chinese Leaf
-description_main_no_space_length_1: c
-description_main_no_space_length_2: ch
-description_main_no_space_length_3: chi
-description_main_no_space_length_4: chin
-description_main_no_space_length_5: chine
-description_main_no_space_length_6: chines
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CH
-description_main_no_space_upper_length_3: CHI
-description_main_no_space_upper_length_4: CHIN
-description_main_no_space_upper_length_5: CHINE
-description_main_no_space_upper_length_6: CHINES
 description_main_upper: CHINESE_LEAF
-description_main_upper_length_1: C
-description_main_upper_length_2: CH
-description_main_upper_length_3: CHI
-description_main_upper_length_4: CHIN
-description_main_upper_length_5: CHINE
-description_main_upper_length_6: CHINES
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -126,10 +27,8 @@ directory: parts/food_vegetable_chinese_leaf
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_vegetable_chinese_leaf
 id: food_vegetable_chinese_leaf
 id_no_class: vegetable_chinese_leaf
-id_no_color: chineseleaf
 id_no_size: chineseleaf
 id_no_type: chinese_leaf
 link_distributor_ocado: https://www.ocado.com/search?entry=527614011
@@ -140,7 +39,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_vegetable_chinese_leaf](none)<br>[](none)<br>[Food Vegetable
@@ -157,7 +55,6 @@ md5_6_alpha_upper: 80EXD
 md5_6_upper: CD5391
 name: Food Vegetable Chinese Leaf
 name_no_class: Vegetable Chinese Leaf
-name_no_color: Chineseleaf
 name_no_size: Chineseleaf
 name_no_size_short: Chineseleaf
 name_no_type: Chinese Leaf
@@ -177,7 +74,6 @@ part_number_capital: ''
 part_number_distributor_ocado: '527614011'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -193,29 +88,4 @@ type: vegetable
 type_capital: Vegetable
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: ve
-type_length_3: veg
-type_length_4: vege
-type_length_5: veget
-type_length_6: vegeta
-type_name: Vegetable
-type_no_space_length_1: v
-type_no_space_length_2: ve
-type_no_space_length_3: veg
-type_no_space_length_4: vege
-type_no_space_length_5: veget
-type_no_space_length_6: vegeta
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VE
-type_no_space_upper_length_3: VEG
-type_no_space_upper_length_4: VEGE
-type_no_space_upper_length_5: VEGET
-type_no_space_upper_length_6: VEGETA
 type_upper: VEGETABLE
-type_upper_length_1: V
-type_upper_length_2: VE
-type_upper_length_3: VEG
-type_upper_length_4: VEGE
-type_upper_length_5: VEGET
-type_upper_length_6: VEGETA

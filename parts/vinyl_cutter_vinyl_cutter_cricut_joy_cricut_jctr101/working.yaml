@@ -1,122 +1,23 @@
-bip_39_word_dash_12: domain-fox-weekend-nose-almost-father-tennis-sheriff-survey-vapor-device-again
-bip_39_word_dash_2: domain-fox
-bip_39_word_dash_3: domain-fox-weekend
-bip_39_word_new_br_12: domain<br>fox<br>weekend<br>nose<br>almost<br>father<br>tennis<br>sheriff<br>survey<br>vapor<br>device<br>again
-bip_39_word_new_br_2: domain<br>fox
-bip_39_word_new_br_3: domain<br>fox<br>weekend
-bip_39_word_new_line_12: 'domain
-
-  fox
-
-  weekend
-
-  nose
-
-  almost
-
-  father
-
-  tennis
-
-  sheriff
-
-  survey
-
-  vapor
-
-  device
-
-  again'
-bip_39_word_new_line_2: 'domain
-
-  fox'
-bip_39_word_new_line_3: 'domain
-
-  fox
-
-  weekend'
-bip_39_word_no_space_12: domainfoxweekendnosealmostfathertennissheriffsurveyvapordeviceagain
-bip_39_word_no_space_2: domainfox
-bip_39_word_no_space_3: domainfoxweekend
-bip_39_word_space_12: domain fox weekend nose almost father tennis sheriff survey
-  vapor device again
-bip_39_word_space_2: domain fox
-bip_39_word_space_3: domain fox weekend
-bip_39_word_underscore_12: domain_fox_weekend_nose_almost_father_tennis_sheriff_survey_vapor_device_again
-bip_39_word_underscore_2: domain_fox
-bip_39_word_underscore_3: domain_fox_weekend
 classification: vinyl_cutter
 classification_capital: Vinyl Cutter
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl_
-classification_name: Vinyl Cutter
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinylc
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYLC
 classification_upper: VINYL_CUTTER
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: joy
 description_main_capital: Joy
 description_main_first_letter: j
 description_main_first_letter_upper: J
-description_main_length_1: j
-description_main_length_2: jo
-description_main_length_3: joy
-description_main_length_4: joy
-description_main_length_5: joy
-description_main_length_6: joy
-description_main_name: Joy
-description_main_no_space_length_1: j
-description_main_no_space_length_2: jo
-description_main_no_space_length_3: joy
-description_main_no_space_length_4: joy
-description_main_no_space_length_5: joy
-description_main_no_space_length_6: joy
-description_main_no_space_upper_length_1: J
-description_main_no_space_upper_length_2: JO
-description_main_no_space_upper_length_3: JOY
-description_main_no_space_upper_length_4: JOY
-description_main_no_space_upper_length_5: JOY
-description_main_no_space_upper_length_6: JOY
 description_main_upper: JOY
-description_main_upper_length_1: J
-description_main_upper_length_2: JO
-description_main_upper_length_3: JOY
-description_main_upper_length_4: JOY
-description_main_upper_length_5: JOY
-description_main_upper_length_6: JOY
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -125,10 +26,8 @@ directory: parts/vinyl_cutter_vinyl_cutter_cricut_joy_cricut_jctr101
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_joy_cricut_jctr101
 id: vinyl_cutter_vinyl_cutter_cricut_joy_cricut_jctr101
 id_no_class: cricut_joy_cricut_jctr101
-id_no_color: joyjctr101
 id_no_size: joy_jctr101
 id_no_type: cricut_joy_cricut_jctr101
 link_distributor_cricut: ''
@@ -139,32 +38,7 @@ manufacturer: cricut
 manufacturer_capital: Cricut
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
-manufacturer_length_1: c
-manufacturer_length_2: cr
-manufacturer_length_3: cri
-manufacturer_length_4: cric
-manufacturer_length_5: cricu
-manufacturer_length_6: cricut
-manufacturer_name: Cricut
-manufacturer_no_space_length_1: c
-manufacturer_no_space_length_2: cr
-manufacturer_no_space_length_3: cri
-manufacturer_no_space_length_4: cric
-manufacturer_no_space_length_5: cricu
-manufacturer_no_space_length_6: cricut
-manufacturer_no_space_upper_length_1: C
-manufacturer_no_space_upper_length_2: CR
-manufacturer_no_space_upper_length_3: CRI
-manufacturer_no_space_upper_length_4: CRIC
-manufacturer_no_space_upper_length_5: CRICU
-manufacturer_no_space_upper_length_6: CRICUT
 manufacturer_upper: CRICUT
-manufacturer_upper_length_1: C
-manufacturer_upper_length_2: CR
-manufacturer_upper_length_3: CRI
-manufacturer_upper_length_4: CRIC
-manufacturer_upper_length_5: CRICU
-manufacturer_upper_length_6: CRICUT
 manufacturers: []
 markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_joy_cricut_jctr101](none)<br>[](none)<br>[Vinyl
   Cutter Vinyl Cutter Cricut Joy Cricut Jctr101](none)<br><br>'
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 2WM0S
 md5_6_upper: 4A797C
 name: Vinyl Cutter Vinyl Cutter Cricut Joy Cricut Jctr101
 name_no_class: Cricut Joy Cricut Jctr101
-name_no_color: Joyjctr101
 name_no_size: Joy Jctr101
 name_no_size_short: Joy Jctr101
 name_no_type: Cricut Joy Cricut Jctr101
@@ -200,93 +73,18 @@ part_number_capital: Jctr101
 part_number_exact: JCTR101
 part_number_first_letter: j
 part_number_first_letter_upper: J
-part_number_length_1: j
-part_number_length_2: jc
-part_number_length_3: jct
-part_number_length_4: jctr
-part_number_length_5: jctr1
-part_number_length_6: jctr10
-part_number_name: Jctr101
-part_number_no_space_length_1: j
-part_number_no_space_length_2: jc
-part_number_no_space_length_3: jct
-part_number_no_space_length_4: jctr
-part_number_no_space_length_5: jctr1
-part_number_no_space_length_6: jctr10
-part_number_no_space_upper_length_1: J
-part_number_no_space_upper_length_2: JC
-part_number_no_space_upper_length_3: JCT
-part_number_no_space_upper_length_4: JCTR
-part_number_no_space_upper_length_5: JCTR1
-part_number_no_space_upper_length_6: JCTR10
 part_number_upper: JCTR101
-part_number_upper_length_1: J
-part_number_upper_length_2: JC
-part_number_upper_length_3: JCT
-part_number_upper_length_4: JCTR
-part_number_upper_length_5: JCTR1
-part_number_upper_length_6: JCTR10
 short_code: ''
 short_code_upper: ''
 size: cricut
 size_capital: Cricut
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: cr
-size_length_3: cri
-size_length_4: cric
-size_length_5: cricu
-size_length_6: cricut
-size_name: Cricut
-size_no_space_length_1: c
-size_no_space_length_2: cr
-size_no_space_length_3: cri
-size_no_space_length_4: cric
-size_no_space_length_5: cricu
-size_no_space_length_6: cricut
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CR
-size_no_space_upper_length_3: CRI
-size_no_space_upper_length_4: CRIC
-size_no_space_upper_length_5: CRICU
-size_no_space_upper_length_6: CRICUT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CRICUT
-size_upper_length_1: C
-size_upper_length_2: CR
-size_upper_length_3: CRI
-size_upper_length_4: CRIC
-size_upper_length_5: CRICU
-size_upper_length_6: CRICUT
 type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
-type_length_1: v
-type_length_2: vi
-type_length_3: vin
-type_length_4: viny
-type_length_5: vinyl
-type_length_6: vinyl_
-type_name: Vinyl Cutter
-type_no_space_length_1: v
-type_no_space_length_2: vi
-type_no_space_length_3: vin
-type_no_space_length_4: viny
-type_no_space_length_5: vinyl
-type_no_space_length_6: vinylc
-type_no_space_upper_length_1: V
-type_no_space_upper_length_2: VI
-type_no_space_upper_length_3: VIN
-type_no_space_upper_length_4: VINY
-type_no_space_upper_length_5: VINYL
-type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
-type_upper_length_1: V
-type_upper_length_2: VI
-type_upper_length_3: VIN
-type_upper_length_4: VINY
-type_upper_length_5: VINYL
-type_upper_length_6: VINYL_

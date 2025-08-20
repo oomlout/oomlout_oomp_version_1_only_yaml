@@ -1,156 +1,31 @@
-bip_39_word_dash_12: lounge-clog-air-access-blast-burst-worth-kangaroo-hungry-release-circle-absorb
-bip_39_word_dash_2: lounge-clog
-bip_39_word_dash_3: lounge-clog-air
-bip_39_word_new_br_12: lounge<br>clog<br>air<br>access<br>blast<br>burst<br>worth<br>kangaroo<br>hungry<br>release<br>circle<br>absorb
-bip_39_word_new_br_2: lounge<br>clog
-bip_39_word_new_br_3: lounge<br>clog<br>air
-bip_39_word_new_line_12: 'lounge
-
-  clog
-
-  air
-
-  access
-
-  blast
-
-  burst
-
-  worth
-
-  kangaroo
-
-  hungry
-
-  release
-
-  circle
-
-  absorb'
-bip_39_word_new_line_2: 'lounge
-
-  clog'
-bip_39_word_new_line_3: 'lounge
-
-  clog
-
-  air'
-bip_39_word_no_space_12: loungeclogairaccessblastburstworthkangaroohungryreleasecircleabsorb
-bip_39_word_no_space_2: loungeclog
-bip_39_word_no_space_3: loungeclogair
-bip_39_word_space_12: lounge clog air access blast burst worth kangaroo hungry release
-  circle absorb
-bip_39_word_space_2: lounge clog
-bip_39_word_space_3: lounge clog air
-bip_39_word_underscore_12: lounge_clog_air_access_blast_burst_worth_kangaroo_hungry_release_circle_absorb
-bip_39_word_underscore_2: lounge_clog
-bip_39_word_underscore_3: lounge_clog_air
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
-classification_length_1: s
-classification_length_2: st
-classification_length_3: sta
-classification_length_4: stat
-classification_length_5: stati
-classification_length_6: statio
-classification_name: Stationery
-classification_no_space_length_1: s
-classification_no_space_length_2: st
-classification_no_space_length_3: sta
-classification_no_space_length_4: stat
-classification_no_space_length_5: stati
-classification_no_space_length_6: statio
-classification_no_space_upper_length_1: S
-classification_no_space_upper_length_2: ST
-classification_no_space_upper_length_3: STA
-classification_no_space_upper_length_4: STAT
-classification_no_space_upper_length_5: STATI
-classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
-classification_upper_length_1: S
-classification_upper_length_2: ST
-classification_upper_length_3: STA
-classification_upper_length_4: STAT
-classification_upper_length_5: STATI
-classification_upper_length_6: STATIO
 color: light_green
 color_capital: Light Green
 color_first_letter: l
 color_first_letter_upper: L
-color_length_1: l
-color_length_2: li
-color_length_3: lig
-color_length_4: ligh
-color_length_5: light
-color_length_6: light_
-color_name: Light Green
-color_no_space_length_1: l
-color_no_space_length_2: li
-color_no_space_length_3: lig
-color_no_space_length_4: ligh
-color_no_space_length_5: light
-color_no_space_length_6: lightg
-color_no_space_upper_length_1: L
-color_no_space_upper_length_2: LI
-color_no_space_upper_length_3: LIG
-color_no_space_upper_length_4: LIGH
-color_no_space_upper_length_5: LIGHT
-color_no_space_upper_length_6: LIGHTG
 color_upper: LIGHT_GREEN
-color_upper_length_1: L
-color_upper_length_2: LI
-color_upper_length_3: LIG
-color_upper_length_4: LIGH
-color_upper_length_5: LIGHT
-color_upper_length_6: LIGHT_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: light_green
 description_main_capital: Light Green
 description_main_first_letter: l
 description_main_first_letter_upper: L
-description_main_length_1: l
-description_main_length_2: li
-description_main_length_3: lig
-description_main_length_4: ligh
-description_main_length_5: light
-description_main_length_6: light_
-description_main_name: Light Green
-description_main_no_space_length_1: l
-description_main_no_space_length_2: li
-description_main_no_space_length_3: lig
-description_main_no_space_length_4: ligh
-description_main_no_space_length_5: light
-description_main_no_space_length_6: lightg
-description_main_no_space_upper_length_1: L
-description_main_no_space_upper_length_2: LI
-description_main_no_space_upper_length_3: LIG
-description_main_no_space_upper_length_4: LIGH
-description_main_no_space_upper_length_5: LIGHT
-description_main_no_space_upper_length_6: LIGHTG
 description_main_upper: LIGHT_GREEN
-description_main_upper_length_1: L
-description_main_upper_length_2: LI
-description_main_upper_length_3: LIG
-description_main_upper_length_4: LIGH
-description_main_upper_length_5: LIGHT
-description_main_upper_length_6: LIGHT_
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'L '
 description_or_color_upper: 'L '
 directory: parts/stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
 id: stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
 id_no_class: pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
-id_no_color: uniball
 id_no_size: light_green_light_green_uniball
 id_no_type: 9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
@@ -160,32 +35,7 @@ manufacturer: uniball
 manufacturer_capital: Uniball
 manufacturer_first_letter: u
 manufacturer_first_letter_upper: U
-manufacturer_length_1: u
-manufacturer_length_2: un
-manufacturer_length_3: uni
-manufacturer_length_4: unib
-manufacturer_length_5: uniba
-manufacturer_length_6: unibal
-manufacturer_name: Uniball
-manufacturer_no_space_length_1: u
-manufacturer_no_space_length_2: un
-manufacturer_no_space_length_3: uni
-manufacturer_no_space_length_4: unib
-manufacturer_no_space_length_5: uniba
-manufacturer_no_space_length_6: unibal
-manufacturer_no_space_upper_length_1: U
-manufacturer_no_space_upper_length_2: UN
-manufacturer_no_space_upper_length_3: UNI
-manufacturer_no_space_upper_length_4: UNIB
-manufacturer_no_space_upper_length_5: UNIBA
-manufacturer_no_space_upper_length_6: UNIBAL
 manufacturer_upper: UNIBALL
-manufacturer_upper_length_1: U
-manufacturer_upper_length_2: UN
-manufacturer_upper_length_3: UNI
-manufacturer_upper_length_4: UNIB
-manufacturer_upper_length_5: UNIBA
-manufacturer_upper_length_6: UNIBAL
 manufacturers: []
 markdown_full: '[stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball](none)<br>[](none)<br>[Stationery
   Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Light Green Light Green Uniball](none)<br><br>'
@@ -199,14 +49,13 @@ md5_6: 0c526d
 md5_6_alpha: hb3h
 md5_6_alpha_upper: HB3H
 md5_6_upper: 0C526D
-name: Stationery Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style Light Green Light
+name: Stationery Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Light Green Light
   Green Uniball
-name_no_class: Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style Light Green Light
+name_no_class: Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Light Green Light
   Green Uniball
-name_no_color: Uniball
 name_no_size: Light Green Light Green Uniball
 name_no_size_short: Light Green Light Green Uniball
-name_no_type: 9 5 mm Diagonal 140 mm Length Uniball 157 Style Light Green Light Green
+name_no_type: 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style Light Green Light Green
   Uniball
 oomp_key: oomp_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_light_green_light_green_uniball
 oomp_word: alien octopus shell
@@ -223,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -232,61 +80,11 @@ size: 9_5_mm_diagonal_140_mm_length_uniball_157_style
 size_capital: 9.5 mm Diagonal 140 mm Length Uniball 157 Style
 size_first_letter: '9'
 size_first_letter_upper: '9'
-size_length_1: '9'
-size_length_2: '9_'
-size_length_3: '9_5'
-size_length_4: '9_5_'
-size_length_5: 9_5_m
-size_length_6: 9_5_mm
-size_name: 9 5 mm Diagonal 140 mm Length Uniball 157 Style
-size_no_space_length_1: '9'
-size_no_space_length_2: '95'
-size_no_space_length_3: 95m
-size_no_space_length_4: 95mm
-size_no_space_length_5: 95mmd
-size_no_space_length_6: 95mmdi
-size_no_space_upper_length_1: '9'
-size_no_space_upper_length_2: '95'
-size_no_space_upper_length_3: 95M
-size_no_space_upper_length_4: 95MM
-size_no_space_upper_length_5: 95MMD
-size_no_space_upper_length_6: 95MMDI
 size_only_numbers: '95140157'
 size_only_numbers_no_zeros: '9514157'
 size_upper: 9_5_MM_DIAGONAL_140_MM_LENGTH_UNIBALL_157_STYLE
-size_upper_length_1: '9'
-size_upper_length_2: '9_'
-size_upper_length_3: '9_5'
-size_upper_length_4: '9_5_'
-size_upper_length_5: 9_5_M
-size_upper_length_6: 9_5_MM
 type: pen
 type_capital: Pen
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pe
-type_length_3: pen
-type_length_4: pen
-type_length_5: pen
-type_length_6: pen
-type_name: Pen
-type_no_space_length_1: p
-type_no_space_length_2: pe
-type_no_space_length_3: pen
-type_no_space_length_4: pen
-type_no_space_length_5: pen
-type_no_space_length_6: pen
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PE
-type_no_space_upper_length_3: PEN
-type_no_space_upper_length_4: PEN
-type_no_space_upper_length_5: PEN
-type_no_space_upper_length_6: PEN
 type_upper: PEN
-type_upper_length_1: P
-type_upper_length_2: PE
-type_upper_length_3: PEN
-type_upper_length_4: PEN
-type_upper_length_5: PEN
-type_upper_length_6: PEN

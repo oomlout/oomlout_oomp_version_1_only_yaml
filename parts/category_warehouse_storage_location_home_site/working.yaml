@@ -1,122 +1,23 @@
-bip_39_word_dash_12: final-spawn-unique-pink-movie-bomb-equal-hurt-chat-over-bar-answer
-bip_39_word_dash_2: final-spawn
-bip_39_word_dash_3: final-spawn-unique
-bip_39_word_new_br_12: final<br>spawn<br>unique<br>pink<br>movie<br>bomb<br>equal<br>hurt<br>chat<br>over<br>bar<br>answer
-bip_39_word_new_br_2: final<br>spawn
-bip_39_word_new_br_3: final<br>spawn<br>unique
-bip_39_word_new_line_12: 'final
-
-  spawn
-
-  unique
-
-  pink
-
-  movie
-
-  bomb
-
-  equal
-
-  hurt
-
-  chat
-
-  over
-
-  bar
-
-  answer'
-bip_39_word_new_line_2: 'final
-
-  spawn'
-bip_39_word_new_line_3: 'final
-
-  spawn
-
-  unique'
-bip_39_word_no_space_12: finalspawnuniquepinkmoviebombequalhurtchatoverbaranswer
-bip_39_word_no_space_2: finalspawn
-bip_39_word_no_space_3: finalspawnunique
-bip_39_word_space_12: final spawn unique pink movie bomb equal hurt chat over bar
-  answer
-bip_39_word_space_2: final spawn
-bip_39_word_space_3: final spawn unique
-bip_39_word_underscore_12: final_spawn_unique_pink_movie_bomb_equal_hurt_chat_over_bar_answer
-bip_39_word_underscore_2: final_spawn
-bip_39_word_underscore_3: final_spawn_unique
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: home_site
 color_capital: Home Site
 color_first_letter: h
 color_first_letter_upper: H
-color_length_1: h
-color_length_2: ho
-color_length_3: hom
-color_length_4: home
-color_length_5: home_
-color_length_6: home_s
-color_name: Home Site
-color_no_space_length_1: h
-color_no_space_length_2: ho
-color_no_space_length_3: hom
-color_no_space_length_4: home
-color_no_space_length_5: homes
-color_no_space_length_6: homesi
-color_no_space_upper_length_1: H
-color_no_space_upper_length_2: HO
-color_no_space_upper_length_3: HOM
-color_no_space_upper_length_4: HOME
-color_no_space_upper_length_5: HOMES
-color_no_space_upper_length_6: HOMESI
 color_upper: HOME_SITE
-color_upper_length_1: H
-color_upper_length_2: HO
-color_upper_length_3: HOM
-color_upper_length_4: HOME
-color_upper_length_5: HOME_
-color_upper_length_6: HOME_S
 description: category_warehouse
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_warehouse_storage_location_home_site
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_warehouse_storage_location_home_site
 id: category_warehouse_storage_location_home_site
 id_no_class: warehouse_storage_location_home_site
-id_no_color: home_site
 id_no_size: home_site
 id_no_type: storage_location_home_site
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_warehouse_storage_location_home_site](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 60IQV
 md5_6_upper: 9A24E7
 name: Category Warehouse Storage Location Home Site
 name_no_class: Warehouse Storage Location Home Site
-name_no_color: Home Site
 name_no_size: Home Site
 name_no_size_short: Home Site
 name_no_type: Storage Location Home Site
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: storage_location
 size_capital: Storage Location
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: sto
-size_length_4: stor
-size_length_5: stora
-size_length_6: storag
-size_name: Storage Location
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: sto
-size_no_space_length_4: stor
-size_no_space_length_5: stora
-size_no_space_length_6: storag
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STO
-size_no_space_upper_length_4: STOR
-size_no_space_upper_length_5: STORA
-size_no_space_upper_length_6: STORAG
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STORAGE_LOCATION
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STO
-size_upper_length_4: STOR
-size_upper_length_5: STORA
-size_upper_length_6: STORAG
 type: warehouse
 type_capital: Warehouse
 type_first_letter: w
 type_first_letter_upper: W
-type_length_1: w
-type_length_2: wa
-type_length_3: war
-type_length_4: ware
-type_length_5: wareh
-type_length_6: wareho
-type_name: Warehouse
-type_no_space_length_1: w
-type_no_space_length_2: wa
-type_no_space_length_3: war
-type_no_space_length_4: ware
-type_no_space_length_5: wareh
-type_no_space_length_6: wareho
-type_no_space_upper_length_1: W
-type_no_space_upper_length_2: WA
-type_no_space_upper_length_3: WAR
-type_no_space_upper_length_4: WARE
-type_no_space_upper_length_5: WAREH
-type_no_space_upper_length_6: WAREHO
 type_upper: WAREHOUSE
-type_upper_length_1: W
-type_upper_length_2: WA
-type_upper_length_3: WAR
-type_upper_length_4: WARE
-type_upper_length_5: WAREH
-type_upper_length_6: WAREHO

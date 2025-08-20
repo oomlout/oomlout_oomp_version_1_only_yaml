@@ -1,146 +1,23 @@
-bip_39_word_dash_12: lecture-critic-ship-tilt-square-result-sort-modify-voice-enact-they-also
-bip_39_word_dash_2: lecture-critic
-bip_39_word_dash_3: lecture-critic-ship
-bip_39_word_new_br_12: lecture<br>critic<br>ship<br>tilt<br>square<br>result<br>sort<br>modify<br>voice<br>enact<br>they<br>also
-bip_39_word_new_br_2: lecture<br>critic
-bip_39_word_new_br_3: lecture<br>critic<br>ship
-bip_39_word_new_line_12: 'lecture
-
-  critic
-
-  ship
-
-  tilt
-
-  square
-
-  result
-
-  sort
-
-  modify
-
-  voice
-
-  enact
-
-  they
-
-  also'
-bip_39_word_new_line_2: 'lecture
-
-  critic'
-bip_39_word_new_line_3: 'lecture
-
-  critic
-
-  ship'
-bip_39_word_no_space_12: lecturecriticshiptiltsquareresultsortmodifyvoiceenacttheyalso
-bip_39_word_no_space_2: lecturecritic
-bip_39_word_no_space_3: lecturecriticship
-bip_39_word_space_12: lecture critic ship tilt square result sort modify voice enact
-  they also
-bip_39_word_space_2: lecture critic
-bip_39_word_space_3: lecture critic ship
-bip_39_word_underscore_12: lecture_critic_ship_tilt_square_result_sort_modify_voice_enact_they_also
-bip_39_word_underscore_2: lecture_critic
-bip_39_word_underscore_3: lecture_critic_ship
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 3216_avx_a
 color_capital: 3216 Avx A
 color_first_letter: '3'
 color_first_letter_upper: '3'
-color_length_1: '3'
-color_length_2: '32'
-color_length_3: '321'
-color_length_4: '3216'
-color_length_5: '3216_'
-color_length_6: 3216_a
-color_name: 3216 Avx A
-color_no_space_length_1: '3'
-color_no_space_length_2: '32'
-color_no_space_length_3: '321'
-color_no_space_length_4: '3216'
-color_no_space_length_5: 3216a
-color_no_space_length_6: 3216av
-color_no_space_upper_length_1: '3'
-color_no_space_upper_length_2: '32'
-color_no_space_upper_length_3: '321'
-color_no_space_upper_length_4: '3216'
-color_no_space_upper_length_5: 3216A
-color_no_space_upper_length_6: 3216AV
 color_upper: 3216_AVX_A
-color_upper_length_1: '3'
-color_upper_length_2: '32'
-color_upper_length_3: '321'
-color_upper_length_4: '3216'
-color_upper_length_5: '3216_'
-color_upper_length_6: 3216_A
 description: category_electronic
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_electronic_capacitor_3216_avx_a_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_capacitor_3216_avx_a_tote
 id: category_electronic_capacitor_3216_avx_a_tote
 id_no_class: electronic_capacitor_3216_avx_a_tote
-id_no_color: tote
 id_no_size: 3216_avx_a_tote
 id_no_type: capacitor_3216_avx_a_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_capacitor_3216_avx_a_tote](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 4LEKY
 md5_6_upper: 75C112
 name: Category Electronic Capacitor 3216 Avx A Tote
 name_no_class: Electronic Capacitor 3216 Avx A Tote
-name_no_color: Tote
 name_no_size: 3216 Avx A Tote
 name_no_size_short: 3216 Avx A Tote
 name_no_type: Capacitor 3216 Avx A Tote
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: capacitor
 size_capital: Capacitor
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: ca
-size_length_3: cap
-size_length_4: capa
-size_length_5: capac
-size_length_6: capaci
-size_name: Capacitor
-size_no_space_length_1: c
-size_no_space_length_2: ca
-size_no_space_length_3: cap
-size_no_space_length_4: capa
-size_no_space_length_5: capac
-size_no_space_length_6: capaci
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CA
-size_no_space_upper_length_3: CAP
-size_no_space_upper_length_4: CAPA
-size_no_space_upper_length_5: CAPAC
-size_no_space_upper_length_6: CAPACI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CAPACITOR
-size_upper_length_1: C
-size_upper_length_2: CA
-size_upper_length_3: CAP
-size_upper_length_4: CAPA
-size_upper_length_5: CAPAC
-size_upper_length_6: CAPACI
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

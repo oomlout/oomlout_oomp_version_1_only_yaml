@@ -1,97 +1,22 @@
-bip_39_word_dash_12: quantum-move-soldier-furnace-pitch-truly-oven-vehicle-bean-gown-clap-agree
-bip_39_word_dash_2: quantum-move
-bip_39_word_dash_3: quantum-move-soldier
-bip_39_word_new_br_12: quantum<br>move<br>soldier<br>furnace<br>pitch<br>truly<br>oven<br>vehicle<br>bean<br>gown<br>clap<br>agree
-bip_39_word_new_br_2: quantum<br>move
-bip_39_word_new_br_3: quantum<br>move<br>soldier
-bip_39_word_new_line_12: 'quantum
-
-  move
-
-  soldier
-
-  furnace
-
-  pitch
-
-  truly
-
-  oven
-
-  vehicle
-
-  bean
-
-  gown
-
-  clap
-
-  agree'
-bip_39_word_new_line_2: 'quantum
-
-  move'
-bip_39_word_new_line_3: 'quantum
-
-  move
-
-  soldier'
-bip_39_word_no_space_12: quantummovesoldierfurnacepitchtrulyovenvehiclebeangownclapagree
-bip_39_word_no_space_2: quantummove
-bip_39_word_no_space_3: quantummovesoldier
-bip_39_word_space_12: quantum move soldier furnace pitch truly oven vehicle bean gown
-  clap agree
-bip_39_word_space_2: quantum move
-bip_39_word_space_3: quantum move soldier
-bip_39_word_underscore_12: quantum_move_soldier_furnace_pitch_truly_oven_vehicle_bean_gown_clap_agree
-bip_39_word_underscore_2: quantum_move
-bip_39_word_underscore_3: quantum_move_soldier
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_looking_animals
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_looking_animals
 id: book_looking_animals
 id_no_class: looking_animals
-id_no_color: animals
 id_no_size: animals
 id_no_type: animals
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_animals
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_looking_animals](none)<br>[](none)<br>[Book Looking Animals](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: 34TY1
 md5_6_upper: '505399'
 name: Book Looking Animals
 name_no_class: Looking Animals
-name_no_color: Animals
 name_no_size: Animals
 name_no_size_short: Animals
 name_no_type: Animals
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,61 +77,11 @@ size: animals
 size_capital: Animals
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: an
-size_length_3: ani
-size_length_4: anim
-size_length_5: anima
-size_length_6: animal
-size_name: Animals
-size_no_space_length_1: a
-size_no_space_length_2: an
-size_no_space_length_3: ani
-size_no_space_length_4: anim
-size_no_space_length_5: anima
-size_no_space_length_6: animal
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: AN
-size_no_space_upper_length_3: ANI
-size_no_space_upper_length_4: ANIM
-size_no_space_upper_length_5: ANIMA
-size_no_space_upper_length_6: ANIMAL
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ANIMALS
-size_upper_length_1: A
-size_upper_length_2: AN
-size_upper_length_3: ANI
-size_upper_length_4: ANIM
-size_upper_length_5: ANIMA
-size_upper_length_6: ANIMAL
 type: looking
 type_capital: Looking
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: lo
-type_length_3: loo
-type_length_4: look
-type_length_5: looki
-type_length_6: lookin
-type_name: Looking
-type_no_space_length_1: l
-type_no_space_length_2: lo
-type_no_space_length_3: loo
-type_no_space_length_4: look
-type_no_space_length_5: looki
-type_no_space_length_6: lookin
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LO
-type_no_space_upper_length_3: LOO
-type_no_space_upper_length_4: LOOK
-type_no_space_upper_length_5: LOOKI
-type_no_space_upper_length_6: LOOKIN
 type_upper: LOOKING
-type_upper_length_1: L
-type_upper_length_2: LO
-type_upper_length_3: LOO
-type_upper_length_4: LOOK
-type_upper_length_5: LOOKI
-type_upper_length_6: LOOKIN

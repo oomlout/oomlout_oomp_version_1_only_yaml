@@ -1,146 +1,23 @@
-bip_39_word_dash_12: fury-embrace-once-supply-assist-globe-cluster-boring-denial-afraid-inner-advice
-bip_39_word_dash_2: fury-embrace
-bip_39_word_dash_3: fury-embrace-once
-bip_39_word_new_br_12: fury<br>embrace<br>once<br>supply<br>assist<br>globe<br>cluster<br>boring<br>denial<br>afraid<br>inner<br>advice
-bip_39_word_new_br_2: fury<br>embrace
-bip_39_word_new_br_3: fury<br>embrace<br>once
-bip_39_word_new_line_12: 'fury
-
-  embrace
-
-  once
-
-  supply
-
-  assist
-
-  globe
-
-  cluster
-
-  boring
-
-  denial
-
-  afraid
-
-  inner
-
-  advice'
-bip_39_word_new_line_2: 'fury
-
-  embrace'
-bip_39_word_new_line_3: 'fury
-
-  embrace
-
-  once'
-bip_39_word_no_space_12: furyembraceoncesupplyassistglobeclusterboringdenialafraidinneradvice
-bip_39_word_no_space_2: furyembrace
-bip_39_word_no_space_3: furyembraceonce
-bip_39_word_space_12: fury embrace once supply assist globe cluster boring denial
-  afraid inner advice
-bip_39_word_space_2: fury embrace
-bip_39_word_space_3: fury embrace once
-bip_39_word_underscore_12: fury_embrace_once_supply_assist_globe_cluster_boring_denial_afraid_inner_advice
-bip_39_word_underscore_2: fury_embrace
-bip_39_word_underscore_3: fury_embrace_once
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: pink
 color_capital: Pink
 color_first_letter: p
 color_first_letter_upper: P
-color_length_1: p
-color_length_2: pi
-color_length_3: pin
-color_length_4: pink
-color_length_5: pink
-color_length_6: pink
-color_name: Pink
-color_no_space_length_1: p
-color_no_space_length_2: pi
-color_no_space_length_3: pin
-color_no_space_length_4: pink
-color_no_space_length_5: pink
-color_no_space_length_6: pink
-color_no_space_upper_length_1: P
-color_no_space_upper_length_2: PI
-color_no_space_upper_length_3: PIN
-color_no_space_upper_length_4: PINK
-color_no_space_upper_length_5: PINK
-color_no_space_upper_length_6: PINK
 color_upper: PINK
-color_upper_length_1: P
-color_upper_length_2: PI
-color_upper_length_3: PIN
-color_upper_length_4: PINK
-color_upper_length_5: PINK
-color_upper_length_6: PINK
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 3000_mm_length
 description_main_capital: 3000 mm Length
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '30'
-description_main_length_3: '300'
-description_main_length_4: '3000'
-description_main_length_5: '3000_'
-description_main_length_6: 3000_m
-description_main_name: 3000 mm Length
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '30'
-description_main_no_space_length_3: '300'
-description_main_no_space_length_4: '3000'
-description_main_no_space_length_5: 3000m
-description_main_no_space_length_6: 3000mm
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '30'
-description_main_no_space_upper_length_3: '300'
-description_main_no_space_upper_length_4: '3000'
-description_main_no_space_upper_length_5: 3000M
-description_main_no_space_upper_length_6: 3000MM
 description_main_upper: 3000_MM_LENGTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '30'
-description_main_upper_length_3: '300'
-description_main_upper_length_4: '3000'
-description_main_upper_length_5: '3000_'
-description_main_upper_length_6: 3000_M
 description_only_numbers: '3000'
 description_only_numbers_short: 3k
 description_or_color: P3k
@@ -149,10 +26,8 @@ directory: parts/electronic_led_strip_12_volt_3_mm_width_pink_3000_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_pink_3000_mm_length
 id: electronic_led_strip_12_volt_3_mm_width_pink_3000_mm_length
 id_no_class: led_strip_12_volt_3_mm_width_pink_3000_mm_length
-id_no_color: 3000_mm_length
 id_no_size: pink_3000_mm_length
 id_no_type: strip_12_volt_3_mm_width_pink_3000_mm_length
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_strip_12_volt_3_mm_width_pink_3000_mm_length](none)<br>[lp](none)<br>[Electronic
@@ -178,12 +52,11 @@ md5_6: 40e8c1
 md5_6_alpha: 2j6bl
 md5_6_alpha_upper: 2J6BL
 md5_6_upper: 40E8C1
-name: Electronic LED Strip 12 Volt 3 mm Width Pink 3000 mm Length
-name_no_class: LED Strip 12 Volt 3 mm Width Pink 3000 mm Length
-name_no_color: 3000 mm Length
-name_no_size: Pink 3000 mm Length
+name: Electronic Led Strip 12 Volt 3 Mm Width Pink 3000 Mm Length
+name_no_class: Led Strip 12 Volt 3 Mm Width Pink 3000 Mm Length
+name_no_size: Pink 3000 Mm Length
 name_no_size_short: Pink 3k Mm Length
-name_no_type: Strip 12 Volt 3 mm Width Pink 3000 mm Length
+name_no_type: Strip 12 Volt 3 Mm Width Pink 3000 Mm Length
 oomp_key: oomp_electronic_led_strip_12_volt_3_mm_width_pink_3000_mm_length
 oomp_word: racehorse tram doughnut
 oomp_word_emoji: ':racehorse: :tram: :doughnut:'
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_distriubutor_aliexpress: '1005007532172895'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: lp
 short_code_upper: LP
@@ -209,61 +81,11 @@ size: strip_12_volt_3_mm_width
 size_capital: Strip 12 Volt 3 mm Width
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: str
-size_length_4: stri
-size_length_5: strip
-size_length_6: strip_
-size_name: Strip 12 Volt 3 mm Width
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: str
-size_no_space_length_4: stri
-size_no_space_length_5: strip
-size_no_space_length_6: strip1
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STR
-size_no_space_upper_length_4: STRI
-size_no_space_upper_length_5: STRIP
-size_no_space_upper_length_6: STRIP1
 size_only_numbers: '123'
 size_only_numbers_no_zeros: '123'
 size_upper: STRIP_12_VOLT_3_MM_WIDTH
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STR
-size_upper_length_4: STRI
-size_upper_length_5: STRIP
-size_upper_length_6: STRIP_
 type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

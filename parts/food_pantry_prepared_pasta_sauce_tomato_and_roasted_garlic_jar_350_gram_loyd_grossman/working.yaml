@@ -1,170 +1,23 @@
-bip_39_word_dash_12: sport-tube-abstract-paddle-tower-vague-blush-flip-engage-avocado-kitten-assault
-bip_39_word_dash_2: sport-tube
-bip_39_word_dash_3: sport-tube-abstract
-bip_39_word_new_br_12: sport<br>tube<br>abstract<br>paddle<br>tower<br>vague<br>blush<br>flip<br>engage<br>avocado<br>kitten<br>assault
-bip_39_word_new_br_2: sport<br>tube
-bip_39_word_new_br_3: sport<br>tube<br>abstract
-bip_39_word_new_line_12: 'sport
-
-  tube
-
-  abstract
-
-  paddle
-
-  tower
-
-  vague
-
-  blush
-
-  flip
-
-  engage
-
-  avocado
-
-  kitten
-
-  assault'
-bip_39_word_new_line_2: 'sport
-
-  tube'
-bip_39_word_new_line_3: 'sport
-
-  tube
-
-  abstract'
-bip_39_word_no_space_12: sporttubeabstractpaddletowervagueblushflipengageavocadokittenassault
-bip_39_word_no_space_2: sporttube
-bip_39_word_no_space_3: sporttubeabstract
-bip_39_word_space_12: sport tube abstract paddle tower vague blush flip engage avocado
-  kitten assault
-bip_39_word_space_2: sport tube
-bip_39_word_space_3: sport tube abstract
-bip_39_word_underscore_12: sport_tube_abstract_paddle_tower_vague_blush_flip_engage_avocado_kitten_assault
-bip_39_word_underscore_2: sport_tube
-bip_39_word_underscore_3: sport_tube_abstract
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: prepared
 color_capital: Prepared
 color_first_letter: p
 color_first_letter_upper: P
-color_length_1: p
-color_length_2: pr
-color_length_3: pre
-color_length_4: prep
-color_length_5: prepa
-color_length_6: prepar
-color_name: Prepared
-color_no_space_length_1: p
-color_no_space_length_2: pr
-color_no_space_length_3: pre
-color_no_space_length_4: prep
-color_no_space_length_5: prepa
-color_no_space_length_6: prepar
-color_no_space_upper_length_1: P
-color_no_space_upper_length_2: PR
-color_no_space_upper_length_3: PRE
-color_no_space_upper_length_4: PREP
-color_no_space_upper_length_5: PREPA
-color_no_space_upper_length_6: PREPAR
 color_upper: PREPARED
-color_upper_length_1: P
-color_upper_length_2: PR
-color_upper_length_3: PRE
-color_upper_length_4: PREP
-color_upper_length_5: PREPA
-color_upper_length_6: PREPAR
 description_extra: jar_350_gram
 description_extra_capital: Jar 350 Gram
 description_extra_first_letter: j
 description_extra_first_letter_upper: J
-description_extra_length_1: j
-description_extra_length_2: ja
-description_extra_length_3: jar
-description_extra_length_4: jar_
-description_extra_length_5: jar_3
-description_extra_length_6: jar_35
-description_extra_name: Jar 350 Gram
-description_extra_no_space_length_1: j
-description_extra_no_space_length_2: ja
-description_extra_no_space_length_3: jar
-description_extra_no_space_length_4: jar3
-description_extra_no_space_length_5: jar35
-description_extra_no_space_length_6: jar350
-description_extra_no_space_upper_length_1: J
-description_extra_no_space_upper_length_2: JA
-description_extra_no_space_upper_length_3: JAR
-description_extra_no_space_upper_length_4: JAR3
-description_extra_no_space_upper_length_5: JAR35
-description_extra_no_space_upper_length_6: JAR350
 description_extra_upper: JAR_350_GRAM
-description_extra_upper_length_1: J
-description_extra_upper_length_2: JA
-description_extra_upper_length_3: JAR
-description_extra_upper_length_4: JAR_
-description_extra_upper_length_5: JAR_3
-description_extra_upper_length_6: JAR_35
 description_main: pasta_sauce_tomato_and_roasted_garlic
 description_main_capital: Pasta Sauce Tomato And Roasted Garlic
 description_main_first_letter: p
 description_main_first_letter_upper: P
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pas
-description_main_length_4: past
-description_main_length_5: pasta
-description_main_length_6: pasta_
-description_main_name: Pasta Sauce Tomato And Roasted Garlic
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pas
-description_main_no_space_length_4: past
-description_main_no_space_length_5: pasta
-description_main_no_space_length_6: pastas
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAS
-description_main_no_space_upper_length_4: PAST
-description_main_no_space_upper_length_5: PASTA
-description_main_no_space_upper_length_6: PASTAS
 description_main_upper: PASTA_SAUCE_TOMATO_AND_ROASTED_GARLIC
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAS
-description_main_upper_length_4: PAST
-description_main_upper_length_5: PASTA
-description_main_upper_length_6: PASTA_
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'P '
@@ -173,10 +26,8 @@ directory: parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 id: food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 id_no_class: pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
-id_no_color: preparedpastasaucetomatoandroastedgarlicjar350gramloydgrossman
 id_no_size: preparedpastasaucetomatoandroastedgarlicjar350gramloydgrossman
 id_no_type: prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
@@ -186,32 +37,7 @@ manufacturer: loyd_grossman
 manufacturer_capital: Loyd Grossman
 manufacturer_first_letter: l
 manufacturer_first_letter_upper: L
-manufacturer_length_1: l
-manufacturer_length_2: lo
-manufacturer_length_3: loy
-manufacturer_length_4: loyd
-manufacturer_length_5: loyd_
-manufacturer_length_6: loyd_g
-manufacturer_name: Loyd Grossman
-manufacturer_no_space_length_1: l
-manufacturer_no_space_length_2: lo
-manufacturer_no_space_length_3: loy
-manufacturer_no_space_length_4: loyd
-manufacturer_no_space_length_5: loydg
-manufacturer_no_space_length_6: loydgr
-manufacturer_no_space_upper_length_1: L
-manufacturer_no_space_upper_length_2: LO
-manufacturer_no_space_upper_length_3: LOY
-manufacturer_no_space_upper_length_4: LOYD
-manufacturer_no_space_upper_length_5: LOYDG
-manufacturer_no_space_upper_length_6: LOYDGR
 manufacturer_upper: LOYD_GROSSMAN
-manufacturer_upper_length_1: L
-manufacturer_upper_length_2: LO
-manufacturer_upper_length_3: LOY
-manufacturer_upper_length_4: LOYD
-manufacturer_upper_length_5: LOYD_
-manufacturer_upper_length_6: LOYD_G
 manufacturers: []
 markdown_full: '[food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman](none)<br>[](none)<br>[Food
   Pantry Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd Grossman](none)<br><br>'
@@ -229,7 +55,6 @@ name: Food Pantry Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Lo
   Grossman
 name_no_class: Pantry Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram
   Loyd Grossman
-name_no_color: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
 name_no_size: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
 name_no_size_short: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
 name_no_type: Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd Grossman
@@ -249,7 +74,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -257,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -265,29 +88,4 @@ type: pantry
 type_capital: Pantry
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pan
-type_length_4: pant
-type_length_5: pantr
-type_length_6: pantry
-type_name: Pantry
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pan
-type_no_space_length_4: pant
-type_no_space_length_5: pantr
-type_no_space_length_6: pantry
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAN
-type_no_space_upper_length_4: PANT
-type_no_space_upper_length_5: PANTR
-type_no_space_upper_length_6: PANTRY
 type_upper: PANTRY
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAN
-type_upper_length_4: PANT
-type_upper_length_5: PANTR
-type_upper_length_6: PANTRY

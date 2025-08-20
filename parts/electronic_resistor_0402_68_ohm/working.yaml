@@ -1,122 +1,23 @@
-bip_39_word_dash_12: cluster-surprise-balance-consider-census-share-mountain-plastic-bottom-strong-fabric-arrive
-bip_39_word_dash_2: cluster-surprise
-bip_39_word_dash_3: cluster-surprise-balance
-bip_39_word_new_br_12: cluster<br>surprise<br>balance<br>consider<br>census<br>share<br>mountain<br>plastic<br>bottom<br>strong<br>fabric<br>arrive
-bip_39_word_new_br_2: cluster<br>surprise
-bip_39_word_new_br_3: cluster<br>surprise<br>balance
-bip_39_word_new_line_12: 'cluster
-
-  surprise
-
-  balance
-
-  consider
-
-  census
-
-  share
-
-  mountain
-
-  plastic
-
-  bottom
-
-  strong
-
-  fabric
-
-  arrive'
-bip_39_word_new_line_2: 'cluster
-
-  surprise'
-bip_39_word_new_line_3: 'cluster
-
-  surprise
-
-  balance'
-bip_39_word_no_space_12: clustersurprisebalanceconsidercensussharemountainplasticbottomstrongfabricarrive
-bip_39_word_no_space_2: clustersurprise
-bip_39_word_no_space_3: clustersurprisebalance
-bip_39_word_space_12: cluster surprise balance consider census share mountain plastic
-  bottom strong fabric arrive
-bip_39_word_space_2: cluster surprise
-bip_39_word_space_3: cluster surprise balance
-bip_39_word_underscore_12: cluster_surprise_balance_consider_census_share_mountain_plastic_bottom_strong_fabric_arrive
-bip_39_word_underscore_2: cluster_surprise
-bip_39_word_underscore_3: cluster_surprise_balance
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 68_ohm
 description_main_capital: 68 Ohm
 description_main_first_letter: '6'
 description_main_first_letter_upper: '6'
-description_main_length_1: '6'
-description_main_length_2: '68'
-description_main_length_3: '68_'
-description_main_length_4: 68_o
-description_main_length_5: 68_oh
-description_main_length_6: 68_ohm
-description_main_name: 68 Ohm
-description_main_no_space_length_1: '6'
-description_main_no_space_length_2: '68'
-description_main_no_space_length_3: 68o
-description_main_no_space_length_4: 68oh
-description_main_no_space_length_5: 68ohm
-description_main_no_space_length_6: 68ohm
-description_main_no_space_upper_length_1: '6'
-description_main_no_space_upper_length_2: '68'
-description_main_no_space_upper_length_3: 68O
-description_main_no_space_upper_length_4: 68OH
-description_main_no_space_upper_length_5: 68OHM
-description_main_no_space_upper_length_6: 68OHM
 description_main_upper: 68_OHM
-description_main_upper_length_1: '6'
-description_main_upper_length_2: '68'
-description_main_upper_length_3: '68_'
-description_main_upper_length_4: 68_O
-description_main_upper_length_5: 68_OH
-description_main_upper_length_6: 68_OHM
 description_only_numbers: '68'
 description_only_numbers_short: '68'
 description_or_color: '68'
@@ -125,10 +26,8 @@ directory: parts/electronic_resistor_0402_68_ohm
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_68_ohm
 id: electronic_resistor_0402_68_ohm
 id_no_class: resistor_0402_68_ohm
-id_no_color: 68ohm
 id_no_size: 68_ohm
 id_no_type: 0402_68_ohm
 kicad_reference: R
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -184,7 +82,6 @@ md5_6_alpha_upper: 7TTRP
 md5_6_upper: C8A2F5
 name: Electronic Resistor 0402 68 Ohm
 name_no_class: Resistor 0402 68 Ohm
-name_no_color: 68Ohm
 name_no_size: 68 Ohm
 name_no_size_short: 68 Ohm
 name_no_type: 0402 68 Ohm
@@ -204,7 +101,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r4o680
 short_code_upper: R4O680
@@ -212,34 +108,9 @@ size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '04'
-size_length_3: '040'
-size_length_4: '0402'
-size_length_5: '0402'
-size_length_6: '0402'
-size_name: '0402'
-size_no_space_length_1: '0'
-size_no_space_length_2: '04'
-size_no_space_length_3: '040'
-size_no_space_length_4: '0402'
-size_no_space_length_5: '0402'
-size_no_space_length_6: '0402'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '04'
-size_no_space_upper_length_3: '040'
-size_no_space_upper_length_4: '0402'
-size_no_space_upper_length_5: '0402'
-size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
-size_upper_length_1: '0'
-size_upper_length_2: '04'
-size_upper_length_3: '040'
-size_upper_length_4: '0402'
-size_upper_length_5: '0402'
-size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -252,29 +123,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

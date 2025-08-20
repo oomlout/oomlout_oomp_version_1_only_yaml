@@ -1,97 +1,22 @@
-bip_39_word_dash_12: shop-repair-major-another-swallow-devote-ill-term-actor-vocal-arrange-achieve
-bip_39_word_dash_2: shop-repair
-bip_39_word_dash_3: shop-repair-major
-bip_39_word_new_br_12: shop<br>repair<br>major<br>another<br>swallow<br>devote<br>ill<br>term<br>actor<br>vocal<br>arrange<br>achieve
-bip_39_word_new_br_2: shop<br>repair
-bip_39_word_new_br_3: shop<br>repair<br>major
-bip_39_word_new_line_12: 'shop
-
-  repair
-
-  major
-
-  another
-
-  swallow
-
-  devote
-
-  ill
-
-  term
-
-  actor
-
-  vocal
-
-  arrange
-
-  achieve'
-bip_39_word_new_line_2: 'shop
-
-  repair'
-bip_39_word_new_line_3: 'shop
-
-  repair
-
-  major'
-bip_39_word_no_space_12: shoprepairmajoranotherswallowdevoteilltermactorvocalarrangeachieve
-bip_39_word_no_space_2: shoprepair
-bip_39_word_no_space_3: shoprepairmajor
-bip_39_word_space_12: shop repair major another swallow devote ill term actor vocal
-  arrange achieve
-bip_39_word_space_2: shop repair
-bip_39_word_space_3: shop repair major
-bip_39_word_underscore_12: shop_repair_major_another_swallow_devote_ill_term_actor_vocal_arrange_achieve
-bip_39_word_underscore_2: shop_repair
-bip_39_word_underscore_3: shop_repair_major
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,10 +26,8 @@ directory: parts/book_cook
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_cook
 id: book_cook
 id_no_class: cook
-id_no_color: cook
 id_no_size: cook
 id_no_type: cook
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook
@@ -114,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_cook](none)<br>[](none)<br>[Book Cook](none)<br><br>'
@@ -130,7 +52,6 @@ md5_6_alpha_upper: 13GSD
 md5_6_upper: 1C18BD
 name: Book Cook
 name_no_class: Cook
-name_no_color: Cook
 name_no_size: Cook
 name_no_size_short: Cook
 name_no_type: Cook
@@ -149,7 +70,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -157,7 +77,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -165,29 +84,4 @@ type: cook
 type_capital: Cook
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: coo
-type_length_4: cook
-type_length_5: cook
-type_length_6: cook
-type_name: Cook
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: coo
-type_no_space_length_4: cook
-type_no_space_length_5: cook
-type_no_space_length_6: cook
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COO
-type_no_space_upper_length_4: COOK
-type_no_space_upper_length_5: COOK
-type_no_space_upper_length_6: COOK
 type_upper: COOK
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COO
-type_upper_length_4: COOK
-type_upper_length_5: COOK
-type_upper_length_6: COOK

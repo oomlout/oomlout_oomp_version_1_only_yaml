@@ -1,146 +1,23 @@
-bip_39_word_dash_12: novel-deer-eagle-remove-jungle-dish-final-loud-damage-move-design-area
-bip_39_word_dash_2: novel-deer
-bip_39_word_dash_3: novel-deer-eagle
-bip_39_word_new_br_12: novel<br>deer<br>eagle<br>remove<br>jungle<br>dish<br>final<br>loud<br>damage<br>move<br>design<br>area
-bip_39_word_new_br_2: novel<br>deer
-bip_39_word_new_br_3: novel<br>deer<br>eagle
-bip_39_word_new_line_12: 'novel
-
-  deer
-
-  eagle
-
-  remove
-
-  jungle
-
-  dish
-
-  final
-
-  loud
-
-  damage
-
-  move
-
-  design
-
-  area'
-bip_39_word_new_line_2: 'novel
-
-  deer'
-bip_39_word_new_line_3: 'novel
-
-  deer
-
-  eagle'
-bip_39_word_no_space_12: noveldeereagleremovejungledishfinallouddamagemovedesignarea
-bip_39_word_no_space_2: noveldeer
-bip_39_word_no_space_3: noveldeereagle
-bip_39_word_space_12: novel deer eagle remove jungle dish final loud damage move design
-  area
-bip_39_word_space_2: novel deer
-bip_39_word_space_3: novel deer eagle
-bip_39_word_underscore_12: novel_deer_eagle_remove_jungle_dish_final_loud_damage_move_design_area
-bip_39_word_underscore_2: novel_deer
-bip_39_word_underscore_3: novel_deer_eagle
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: flower
 color_capital: Flower
 color_first_letter: f
 color_first_letter_upper: F
-color_length_1: f
-color_length_2: fl
-color_length_3: flo
-color_length_4: flow
-color_length_5: flowe
-color_length_6: flower
-color_name: Flower
-color_no_space_length_1: f
-color_no_space_length_2: fl
-color_no_space_length_3: flo
-color_no_space_length_4: flow
-color_no_space_length_5: flowe
-color_no_space_length_6: flower
-color_no_space_upper_length_1: F
-color_no_space_upper_length_2: FL
-color_no_space_upper_length_3: FLO
-color_no_space_upper_length_4: FLOW
-color_no_space_upper_length_5: FLOWE
-color_no_space_upper_length_6: FLOWER
 color_upper: FLOWER
-color_upper_length_1: F
-color_upper_length_2: FL
-color_upper_length_3: FLO
-color_upper_length_4: FLOW
-color_upper_length_5: FLOWE
-color_upper_length_6: FLOWER
 description: category_garden
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_garden_plant_flower_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_garden_plant_flower_tote
 id: category_garden_plant_flower_tote
 id_no_class: garden_plant_flower_tote
-id_no_color: tote
 id_no_size: flower_tote
 id_no_type: plant_flower_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_flower_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_garden_plant_flower_tote](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 71HUS
 md5_6_upper: B477A4
 name: Category Garden Plant Flower Tote
 name_no_class: Garden Plant Flower Tote
-name_no_color: Tote
 name_no_size: Flower Tote
 name_no_size_short: Flower Tote
 name_no_type: Plant Flower Tote
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: plant
 size_capital: Plant
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pl
-size_length_3: pla
-size_length_4: plan
-size_length_5: plant
-size_length_6: plant
-size_name: Plant
-size_no_space_length_1: p
-size_no_space_length_2: pl
-size_no_space_length_3: pla
-size_no_space_length_4: plan
-size_no_space_length_5: plant
-size_no_space_length_6: plant
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PL
-size_no_space_upper_length_3: PLA
-size_no_space_upper_length_4: PLAN
-size_no_space_upper_length_5: PLANT
-size_no_space_upper_length_6: PLANT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PLANT
-size_upper_length_1: P
-size_upper_length_2: PL
-size_upper_length_3: PLA
-size_upper_length_4: PLAN
-size_upper_length_5: PLANT
-size_upper_length_6: PLANT
 type: garden
 type_capital: Garden
 type_first_letter: g
 type_first_letter_upper: G
-type_length_1: g
-type_length_2: ga
-type_length_3: gar
-type_length_4: gard
-type_length_5: garde
-type_length_6: garden
-type_name: Garden
-type_no_space_length_1: g
-type_no_space_length_2: ga
-type_no_space_length_3: gar
-type_no_space_length_4: gard
-type_no_space_length_5: garde
-type_no_space_length_6: garden
-type_no_space_upper_length_1: G
-type_no_space_upper_length_2: GA
-type_no_space_upper_length_3: GAR
-type_no_space_upper_length_4: GARD
-type_no_space_upper_length_5: GARDE
-type_no_space_upper_length_6: GARDEN
 type_upper: GARDEN
-type_upper_length_1: G
-type_upper_length_2: GA
-type_upper_length_3: GAR
-type_upper_length_4: GARD
-type_upper_length_5: GARDE
-type_upper_length_6: GARDEN

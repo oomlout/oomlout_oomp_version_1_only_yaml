@@ -1,122 +1,23 @@
-bip_39_word_dash_12: flip-coil-target-host-country-rival-strike-syrup-clock-siren-shadow-abstract
-bip_39_word_dash_2: flip-coil
-bip_39_word_dash_3: flip-coil-target
-bip_39_word_new_br_12: flip<br>coil<br>target<br>host<br>country<br>rival<br>strike<br>syrup<br>clock<br>siren<br>shadow<br>abstract
-bip_39_word_new_br_2: flip<br>coil
-bip_39_word_new_br_3: flip<br>coil<br>target
-bip_39_word_new_line_12: 'flip
-
-  coil
-
-  target
-
-  host
-
-  country
-
-  rival
-
-  strike
-
-  syrup
-
-  clock
-
-  siren
-
-  shadow
-
-  abstract'
-bip_39_word_new_line_2: 'flip
-
-  coil'
-bip_39_word_new_line_3: 'flip
-
-  coil
-
-  target'
-bip_39_word_no_space_12: flipcoiltargethostcountryrivalstrikesyrupclocksirenshadowabstract
-bip_39_word_no_space_2: flipcoil
-bip_39_word_no_space_3: flipcoiltarget
-bip_39_word_space_12: flip coil target host country rival strike syrup clock siren
-  shadow abstract
-bip_39_word_space_2: flip coil
-bip_39_word_space_3: flip coil target
-bip_39_word_underscore_12: flip_coil_target_host_country_rival_strike_syrup_clock_siren_shadow_abstract
-bip_39_word_underscore_2: flip_coil
-bip_39_word_underscore_3: flip_coil_target
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_household_cleaning
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_household_cleaning_cleaner_spray_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_cleaning_cleaner_spray_tote
 id: category_household_cleaning_cleaner_spray_tote
 id_no_class: household_cleaning_cleaner_spray_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: cleaner_spray_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray_tote
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_household_cleaning_cleaner_spray_tote](none)<br>[](none)<br>[Category
@@ -156,7 +54,6 @@ md5_6_alpha_upper: LTPU
 md5_6_upper: 0F89B2
 name: Category Household Cleaning Cleaner Spray Tote
 name_no_class: Household Cleaning Cleaner Spray Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Cleaner Spray Tote
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: cleaner_spray
 size_capital: Cleaner Spray
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: cl
-size_length_3: cle
-size_length_4: clea
-size_length_5: clean
-size_length_6: cleane
-size_name: Cleaner Spray
-size_no_space_length_1: c
-size_no_space_length_2: cl
-size_no_space_length_3: cle
-size_no_space_length_4: clea
-size_no_space_length_5: clean
-size_no_space_length_6: cleane
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CL
-size_no_space_upper_length_3: CLE
-size_no_space_upper_length_4: CLEA
-size_no_space_upper_length_5: CLEAN
-size_no_space_upper_length_6: CLEANE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CLEANER_SPRAY
-size_upper_length_1: C
-size_upper_length_2: CL
-size_upper_length_3: CLE
-size_upper_length_4: CLEA
-size_upper_length_5: CLEAN
-size_upper_length_6: CLEANE
 type: household_cleaning
 type_capital: Household Cleaning
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ho
-type_length_3: hou
-type_length_4: hous
-type_length_5: house
-type_length_6: househ
-type_name: Household Cleaning
-type_no_space_length_1: h
-type_no_space_length_2: ho
-type_no_space_length_3: hou
-type_no_space_length_4: hous
-type_no_space_length_5: house
-type_no_space_length_6: househ
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HO
-type_no_space_upper_length_3: HOU
-type_no_space_upper_length_4: HOUS
-type_no_space_upper_length_5: HOUSE
-type_no_space_upper_length_6: HOUSEH
 type_upper: HOUSEHOLD_CLEANING
-type_upper_length_1: H
-type_upper_length_2: HO
-type_upper_length_3: HOU
-type_upper_length_4: HOUS
-type_upper_length_5: HOUSE
-type_upper_length_6: HOUSEH

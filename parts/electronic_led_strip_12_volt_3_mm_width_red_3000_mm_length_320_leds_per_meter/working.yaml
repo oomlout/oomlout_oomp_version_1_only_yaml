@@ -1,170 +1,23 @@
-bip_39_word_dash_12: trap-trim-hidden-stuff-theory-side-cradle-matrix-arrow-rib-soap-author
-bip_39_word_dash_2: trap-trim
-bip_39_word_dash_3: trap-trim-hidden
-bip_39_word_new_br_12: trap<br>trim<br>hidden<br>stuff<br>theory<br>side<br>cradle<br>matrix<br>arrow<br>rib<br>soap<br>author
-bip_39_word_new_br_2: trap<br>trim
-bip_39_word_new_br_3: trap<br>trim<br>hidden
-bip_39_word_new_line_12: 'trap
-
-  trim
-
-  hidden
-
-  stuff
-
-  theory
-
-  side
-
-  cradle
-
-  matrix
-
-  arrow
-
-  rib
-
-  soap
-
-  author'
-bip_39_word_new_line_2: 'trap
-
-  trim'
-bip_39_word_new_line_3: 'trap
-
-  trim
-
-  hidden'
-bip_39_word_no_space_12: traptrimhiddenstufftheorysidecradlematrixarrowribsoapauthor
-bip_39_word_no_space_2: traptrim
-bip_39_word_no_space_3: traptrimhidden
-bip_39_word_space_12: trap trim hidden stuff theory side cradle matrix arrow rib soap
-  author
-bip_39_word_space_2: trap trim
-bip_39_word_space_3: trap trim hidden
-bip_39_word_underscore_12: trap_trim_hidden_stuff_theory_side_cradle_matrix_arrow_rib_soap_author
-bip_39_word_underscore_2: trap_trim
-bip_39_word_underscore_3: trap_trim_hidden
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: red
 color_capital: Red
 color_first_letter: r
 color_first_letter_upper: R
-color_length_1: r
-color_length_2: re
-color_length_3: red
-color_length_4: red
-color_length_5: red
-color_length_6: red
-color_name: Red
-color_no_space_length_1: r
-color_no_space_length_2: re
-color_no_space_length_3: red
-color_no_space_length_4: red
-color_no_space_length_5: red
-color_no_space_length_6: red
-color_no_space_upper_length_1: R
-color_no_space_upper_length_2: RE
-color_no_space_upper_length_3: RED
-color_no_space_upper_length_4: RED
-color_no_space_upper_length_5: RED
-color_no_space_upper_length_6: RED
 color_upper: RED
-color_upper_length_1: R
-color_upper_length_2: RE
-color_upper_length_3: RED
-color_upper_length_4: RED
-color_upper_length_5: RED
-color_upper_length_6: RED
 description_extra: 320_leds_per_meter
 description_extra_capital: 320 Leds Per Meter
 description_extra_first_letter: '3'
 description_extra_first_letter_upper: '3'
-description_extra_length_1: '3'
-description_extra_length_2: '32'
-description_extra_length_3: '320'
-description_extra_length_4: '320_'
-description_extra_length_5: 320_l
-description_extra_length_6: 320_le
-description_extra_name: 320 LEDs Per Meter
-description_extra_no_space_length_1: '3'
-description_extra_no_space_length_2: '32'
-description_extra_no_space_length_3: '320'
-description_extra_no_space_length_4: 320l
-description_extra_no_space_length_5: 320le
-description_extra_no_space_length_6: 320led
-description_extra_no_space_upper_length_1: '3'
-description_extra_no_space_upper_length_2: '32'
-description_extra_no_space_upper_length_3: '320'
-description_extra_no_space_upper_length_4: 320L
-description_extra_no_space_upper_length_5: 320LE
-description_extra_no_space_upper_length_6: 320LED
 description_extra_upper: 320_LEDS_PER_METER
-description_extra_upper_length_1: '3'
-description_extra_upper_length_2: '32'
-description_extra_upper_length_3: '320'
-description_extra_upper_length_4: '320_'
-description_extra_upper_length_5: 320_L
-description_extra_upper_length_6: 320_LE
 description_main: 3000_mm_length
 description_main_capital: 3000 mm Length
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
-description_main_length_1: '3'
-description_main_length_2: '30'
-description_main_length_3: '300'
-description_main_length_4: '3000'
-description_main_length_5: '3000_'
-description_main_length_6: 3000_m
-description_main_name: 3000 mm Length
-description_main_no_space_length_1: '3'
-description_main_no_space_length_2: '30'
-description_main_no_space_length_3: '300'
-description_main_no_space_length_4: '3000'
-description_main_no_space_length_5: 3000m
-description_main_no_space_length_6: 3000mm
-description_main_no_space_upper_length_1: '3'
-description_main_no_space_upper_length_2: '30'
-description_main_no_space_upper_length_3: '300'
-description_main_no_space_upper_length_4: '3000'
-description_main_no_space_upper_length_5: 3000M
-description_main_no_space_upper_length_6: 3000MM
 description_main_upper: 3000_MM_LENGTH
-description_main_upper_length_1: '3'
-description_main_upper_length_2: '30'
-description_main_upper_length_3: '300'
-description_main_upper_length_4: '3000'
-description_main_upper_length_5: '3000_'
-description_main_upper_length_6: 3000_M
 description_only_numbers: '3000'
 description_only_numbers_short: 3k
 description_or_color: R3k
@@ -173,10 +26,8 @@ directory: parts/electronic_led_strip_12_volt_3_mm_width_red_3000_mm_length_320_
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_red_3000_mm_length_320_leds_per_meter
 id: electronic_led_strip_12_volt_3_mm_width_red_3000_mm_length_320_leds_per_meter
 id_no_class: led_strip_12_volt_3_mm_width_red_3000_mm_length_320_leds_per_meter
-id_no_color: 3000_mm_length_320_leds_per_meter
 id_no_size: red_3000_mm_length_320_leds_per_meter
 id_no_type: strip_12_volt_3_mm_width_red_3000_mm_length_320_leds_per_meter
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
@@ -187,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_strip_12_volt_3_mm_width_red_3000_mm_length_320_leds_per_meter](none)<br>[lr](none)<br>[Electronic
@@ -202,12 +52,11 @@ md5_6: f79b6e
 md5_6_alpha: 9nsz2
 md5_6_alpha_upper: 9NSZ2
 md5_6_upper: F79B6E
-name: Electronic LED Strip 12 Volt 3 mm Width Red 3000 mm Length 320 LEDs Per Meter
-name_no_class: LED Strip 12 Volt 3 mm Width Red 3000 mm Length 320 LEDs Per Meter
-name_no_color: 3000 mm Length 320 LEDs Per Meter
-name_no_size: Red 3000 mm Length 320 LEDs Per Meter
+name: Electronic Led Strip 12 Volt 3 Mm Width Red 3000 Mm Length 320 Leds Per Meter
+name_no_class: Led Strip 12 Volt 3 Mm Width Red 3000 Mm Length 320 Leds Per Meter
+name_no_size: Red 3000 Mm Length 320 Leds Per Meter
 name_no_size_short: Red 3k Mm Length 320 Leds Per Meter
-name_no_type: Strip 12 Volt 3 mm Width Red 3000 mm Length 320 LEDs Per Meter
+name_no_type: Strip 12 Volt 3 Mm Width Red 3000 Mm Length 320 Leds Per Meter
 oomp_key: oomp_electronic_led_strip_12_volt_3_mm_width_red_3000_mm_length_320_leds_per_meter
 oomp_word: six ski new_moon
 oomp_word_emoji: ':six: :ski: :new_moon:'
@@ -224,7 +73,6 @@ part_number_capital: ''
 part_number_distriubutor_aliexpress: '1005007532172895'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: lr
 short_code_upper: LR
@@ -233,61 +81,11 @@ size: strip_12_volt_3_mm_width
 size_capital: Strip 12 Volt 3 mm Width
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: st
-size_length_3: str
-size_length_4: stri
-size_length_5: strip
-size_length_6: strip_
-size_name: Strip 12 Volt 3 mm Width
-size_no_space_length_1: s
-size_no_space_length_2: st
-size_no_space_length_3: str
-size_no_space_length_4: stri
-size_no_space_length_5: strip
-size_no_space_length_6: strip1
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: ST
-size_no_space_upper_length_3: STR
-size_no_space_upper_length_4: STRI
-size_no_space_upper_length_5: STRIP
-size_no_space_upper_length_6: STRIP1
 size_only_numbers: '123'
 size_only_numbers_no_zeros: '123'
 size_upper: STRIP_12_VOLT_3_MM_WIDTH
-size_upper_length_1: S
-size_upper_length_2: ST
-size_upper_length_3: STR
-size_upper_length_4: STRI
-size_upper_length_5: STRIP
-size_upper_length_6: STRIP_
 type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

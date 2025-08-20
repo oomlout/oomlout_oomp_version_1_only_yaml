@@ -1,122 +1,23 @@
-bip_39_word_dash_12: eternal-include-spirit-wreck-primary-pepper-adult-swim-wheat-ill-possible-able
-bip_39_word_dash_2: eternal-include
-bip_39_word_dash_3: eternal-include-spirit
-bip_39_word_new_br_12: eternal<br>include<br>spirit<br>wreck<br>primary<br>pepper<br>adult<br>swim<br>wheat<br>ill<br>possible<br>able
-bip_39_word_new_br_2: eternal<br>include
-bip_39_word_new_br_3: eternal<br>include<br>spirit
-bip_39_word_new_line_12: 'eternal
-
-  include
-
-  spirit
-
-  wreck
-
-  primary
-
-  pepper
-
-  adult
-
-  swim
-
-  wheat
-
-  ill
-
-  possible
-
-  able'
-bip_39_word_new_line_2: 'eternal
-
-  include'
-bip_39_word_new_line_3: 'eternal
-
-  include
-
-  spirit'
-bip_39_word_no_space_12: eternalincludespiritwreckprimarypepperadultswimwheatillpossibleable
-bip_39_word_no_space_2: eternalinclude
-bip_39_word_no_space_3: eternalincludespirit
-bip_39_word_space_12: eternal include spirit wreck primary pepper adult swim wheat
-  ill possible able
-bip_39_word_space_2: eternal include
-bip_39_word_space_3: eternal include spirit
-bip_39_word_underscore_12: eternal_include_spirit_wreck_primary_pepper_adult_swim_wheat_ill_possible_able
-bip_39_word_underscore_2: eternal_include
-bip_39_word_underscore_3: eternal_include_spirit
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 15_ohm
 description_main_capital: 15 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '15'
-description_main_length_3: '15_'
-description_main_length_4: 15_o
-description_main_length_5: 15_oh
-description_main_length_6: 15_ohm
-description_main_name: 15 Ohm
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '15'
-description_main_no_space_length_3: 15o
-description_main_no_space_length_4: 15oh
-description_main_no_space_length_5: 15ohm
-description_main_no_space_length_6: 15ohm
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '15'
-description_main_no_space_upper_length_3: 15O
-description_main_no_space_upper_length_4: 15OH
-description_main_no_space_upper_length_5: 15OHM
-description_main_no_space_upper_length_6: 15OHM
 description_main_upper: 15_OHM
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '15'
-description_main_upper_length_3: '15_'
-description_main_upper_length_4: 15_O
-description_main_upper_length_5: 15_OH
-description_main_upper_length_6: 15_OHM
 description_only_numbers: '15'
 description_only_numbers_short: '15'
 description_or_color: '15'
@@ -136,10 +37,8 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r6o150_electronic_resistor_0603_15_ohm
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0603_15_ohm
 id: electronic_resistor_0603_15_ohm
 id_no_class: resistor_0603_15_ohm
-id_no_color: 15ohm
 id_no_size: 15_ohm
 id_no_type: 0603_15_ohm
 kicad_reference: R
@@ -150,7 +49,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -195,7 +93,6 @@ md5_6_alpha_upper: 7GV0
 md5_6_upper: 05511C
 name: Electronic Resistor 0603 15 Ohm
 name_no_class: Resistor 0603 15 Ohm
-name_no_color: 15Ohm
 name_no_size: 15 Ohm
 name_no_size_short: 15 Ohm
 name_no_type: 0603 15 Ohm
@@ -215,7 +112,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: r6o150
 short_code_upper: R6O150
@@ -223,34 +119,9 @@ size: '0603'
 size_capital: '0603'
 size_first_letter: '0'
 size_first_letter_upper: '0'
-size_length_1: '0'
-size_length_2: '06'
-size_length_3: '060'
-size_length_4: '0603'
-size_length_5: '0603'
-size_length_6: '0603'
-size_name: '0603'
-size_no_space_length_1: '0'
-size_no_space_length_2: '06'
-size_no_space_length_3: '060'
-size_no_space_length_4: '0603'
-size_no_space_length_5: '0603'
-size_no_space_length_6: '0603'
-size_no_space_upper_length_1: '0'
-size_no_space_upper_length_2: '06'
-size_no_space_upper_length_3: '060'
-size_no_space_upper_length_4: '0603'
-size_no_space_upper_length_5: '0603'
-size_no_space_upper_length_6: '0603'
 size_only_numbers: '0603'
 size_only_numbers_no_zeros: '63'
 size_upper: '0603'
-size_upper_length_1: '0'
-size_upper_length_2: '06'
-size_upper_length_3: '060'
-size_upper_length_4: '0603'
-size_upper_length_5: '0603'
-size_upper_length_6: '0603'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -263,29 +134,4 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: re
-type_length_3: res
-type_length_4: resi
-type_length_5: resis
-type_length_6: resist
-type_name: Resistor
-type_no_space_length_1: r
-type_no_space_length_2: re
-type_no_space_length_3: res
-type_no_space_length_4: resi
-type_no_space_length_5: resis
-type_no_space_length_6: resist
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RE
-type_no_space_upper_length_3: RES
-type_no_space_upper_length_4: RESI
-type_no_space_upper_length_5: RESIS
-type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
-type_upper_length_1: R
-type_upper_length_2: RE
-type_upper_length_3: RES
-type_upper_length_4: RESI
-type_upper_length_5: RESIS
-type_upper_length_6: RESIST

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: people-clock-mountain-digital-love-cube-alcohol-sibling-crack-tube-blade-angry
-bip_39_word_dash_2: people-clock
-bip_39_word_dash_3: people-clock-mountain
-bip_39_word_new_br_12: people<br>clock<br>mountain<br>digital<br>love<br>cube<br>alcohol<br>sibling<br>crack<br>tube<br>blade<br>angry
-bip_39_word_new_br_2: people<br>clock
-bip_39_word_new_br_3: people<br>clock<br>mountain
-bip_39_word_new_line_12: 'people
-
-  clock
-
-  mountain
-
-  digital
-
-  love
-
-  cube
-
-  alcohol
-
-  sibling
-
-  crack
-
-  tube
-
-  blade
-
-  angry'
-bip_39_word_new_line_2: 'people
-
-  clock'
-bip_39_word_new_line_3: 'people
-
-  clock
-
-  mountain'
-bip_39_word_no_space_12: peopleclockmountaindigitallovecubealcoholsiblingcracktubebladeangry
-bip_39_word_no_space_2: peopleclock
-bip_39_word_no_space_3: peopleclockmountain
-bip_39_word_space_12: people clock mountain digital love cube alcohol sibling crack
-  tube blade angry
-bip_39_word_space_2: people clock
-bip_39_word_space_3: people clock mountain
-bip_39_word_underscore_12: people_clock_mountain_digital_love_cube_alcohol_sibling_crack_tube_blade_angry
-bip_39_word_underscore_2: people_clock
-bip_39_word_underscore_3: people_clock_mountain
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: MR128_size
 color_capital: Mr128 Size
 color_first_letter: M
 color_first_letter_upper: M
-color_length_1: M
-color_length_2: MR
-color_length_3: MR1
-color_length_4: MR12
-color_length_5: MR128
-color_length_6: MR128_
-color_name: Mr128 Size
-color_no_space_length_1: M
-color_no_space_length_2: MR
-color_no_space_length_3: MR1
-color_no_space_length_4: MR12
-color_no_space_length_5: MR128
-color_no_space_length_6: MR128s
-color_no_space_upper_length_1: M
-color_no_space_upper_length_2: MR
-color_no_space_upper_length_3: MR1
-color_no_space_upper_length_4: MR12
-color_no_space_upper_length_5: MR128
-color_no_space_upper_length_6: MR128S
 color_upper: MR128_SIZE
-color_upper_length_1: M
-color_upper_length_2: MR
-color_upper_length_3: MR1
-color_upper_length_4: MR12
-color_upper_length_5: MR128
-color_upper_length_6: MR128_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 8_mm_id_12_mm_od_3_5_mm_depth
 description_main_capital: 8 mm Id 12 mm Od 3.5 mm Depth
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
-description_main_length_1: '8'
-description_main_length_2: '8_'
-description_main_length_3: 8_m
-description_main_length_4: 8_mm
-description_main_length_5: 8_mm_
-description_main_length_6: 8_mm_i
-description_main_name: 8 mm ID 12 mm OD 3 5 mm Depth
-description_main_no_space_length_1: '8'
-description_main_no_space_length_2: 8m
-description_main_no_space_length_3: 8mm
-description_main_no_space_length_4: 8mmi
-description_main_no_space_length_5: 8mmid
-description_main_no_space_length_6: 8mmid1
-description_main_no_space_upper_length_1: '8'
-description_main_no_space_upper_length_2: 8M
-description_main_no_space_upper_length_3: 8MM
-description_main_no_space_upper_length_4: 8MMI
-description_main_no_space_upper_length_5: 8MMID
-description_main_no_space_upper_length_6: 8MMID1
 description_main_upper: 8_MM_ID_12_MM_OD_3_5_MM_DEPTH
-description_main_upper_length_1: '8'
-description_main_upper_length_2: '8_'
-description_main_upper_length_3: 8_M
-description_main_upper_length_4: 8_MM
-description_main_upper_length_5: 8_MM_
-description_main_upper_length_6: 8_MM_I
 description_only_numbers: '81235'
 description_only_numbers_short: 81k
 description_or_color: M81k
@@ -149,10 +26,8 @@ directory: parts/hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_d
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
 id: hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
 id_no_class: bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
-id_no_color: 8_mm_id_12_mm_od_3_5_mm_depth
 id_no_size: MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
 id_no_type: MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth](none)<br>[](none)<br>[Hardware
@@ -177,14 +51,11 @@ md5_6: 8e2e3a
 md5_6_alpha: 5jpru
 md5_6_alpha_upper: 5JPRU
 md5_6_upper: 8E2E3A
-name: Hardware Bearing Mr Series Mr128 Size 8 mm ID 12 mm OD 3 5 mm Depth
-name_no_class: Bearing Mr Series Mr128 Size 8 mm ID 12 mm OD 3 5 mm Depth
-name_no_color: 8 mm ID 12 mm OD 3 5 mm Depth
-name_no_size: Mr128 Size 8 mm ID 12 mm OD 3 5 mm Depth
+name: Hardware Bearing Mr Series Mr128 Size 8 Mm Id 12 Mm Od 3 5 Mm Depth
+name_no_class: Bearing Mr Series Mr128 Size 8 Mm Id 12 Mm Od 3 5 Mm Depth
+name_no_size: Mr128 Size 8 Mm Id 12 Mm Od 3 5 Mm Depth
 name_no_size_short: Mr128 Size 8 Mm Id 12 Mm Od 3 5 Mm Depth
-name_no_type: Mr Series Mr128 Size 8 mm ID 12 mm OD 3 5 mm Depth
-oomlout_short_code: brMR128
-oomlout_short_code_upper: BRMR128
+name_no_type: Mr Series Mr128 Size 8 Mm Id 12 Mm Od 3 5 Mm Depth
 oomp_key: oomp_hardware_bearing_MR_series_MR128_size_8_mm_id_12_mm_od_3_5_mm_depth
 oomp_word: clipboard zap koala
 oomp_word_emoji: ':clipboard: :zap: :koala:'
@@ -200,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -208,61 +78,11 @@ size: MR_series
 size_capital: Mr Series
 size_first_letter: M
 size_first_letter_upper: M
-size_length_1: M
-size_length_2: MR
-size_length_3: MR_
-size_length_4: MR_s
-size_length_5: MR_se
-size_length_6: MR_ser
-size_name: Mr Series
-size_no_space_length_1: M
-size_no_space_length_2: MR
-size_no_space_length_3: MRs
-size_no_space_length_4: MRse
-size_no_space_length_5: MRser
-size_no_space_length_6: MRseri
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: MR
-size_no_space_upper_length_3: MRS
-size_no_space_upper_length_4: MRSE
-size_no_space_upper_length_5: MRSER
-size_no_space_upper_length_6: MRSERI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MR_SERIES
-size_upper_length_1: M
-size_upper_length_2: MR
-size_upper_length_3: MR_
-size_upper_length_4: MR_S
-size_upper_length_5: MR_SE
-size_upper_length_6: MR_SER
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: be
-type_length_3: bea
-type_length_4: bear
-type_length_5: beari
-type_length_6: bearin
-type_name: Bearing
-type_no_space_length_1: b
-type_no_space_length_2: be
-type_no_space_length_3: bea
-type_no_space_length_4: bear
-type_no_space_length_5: beari
-type_no_space_length_6: bearin
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BE
-type_no_space_upper_length_3: BEA
-type_no_space_upper_length_4: BEAR
-type_no_space_upper_length_5: BEARI
-type_no_space_upper_length_6: BEARIN
 type_upper: BEARING
-type_upper_length_1: B
-type_upper_length_2: BE
-type_upper_length_3: BEA
-type_upper_length_4: BEAR
-type_upper_length_5: BEARI
-type_upper_length_6: BEARIN

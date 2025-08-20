@@ -1,121 +1,22 @@
-bip_39_word_dash_12: velvet-artist-found-wage-science-ring-snow-maple-grain-mistake-six-account
-bip_39_word_dash_2: velvet-artist
-bip_39_word_dash_3: velvet-artist-found
-bip_39_word_new_br_12: velvet<br>artist<br>found<br>wage<br>science<br>ring<br>snow<br>maple<br>grain<br>mistake<br>six<br>account
-bip_39_word_new_br_2: velvet<br>artist
-bip_39_word_new_br_3: velvet<br>artist<br>found
-bip_39_word_new_line_12: 'velvet
-
-  artist
-
-  found
-
-  wage
-
-  science
-
-  ring
-
-  snow
-
-  maple
-
-  grain
-
-  mistake
-
-  six
-
-  account'
-bip_39_word_new_line_2: 'velvet
-
-  artist'
-bip_39_word_new_line_3: 'velvet
-
-  artist
-
-  found'
-bip_39_word_no_space_12: velvetartistfoundwagescienceringsnowmaplegrainmistakesixaccount
-bip_39_word_no_space_2: velvetartist
-bip_39_word_no_space_3: velvetartistfound
-bip_39_word_space_12: velvet artist found wage science ring snow maple grain mistake
-  six account
-bip_39_word_space_2: velvet artist
-bip_39_word_space_3: velvet artist found
-bip_39_word_underscore_12: velvet_artist_found_wage_science_ring_snow_maple_grain_mistake_six_account
-bip_39_word_underscore_2: velvet_artist
-bip_39_word_underscore_3: velvet_artist_found
 classification: oobb
 classification_capital: Oobb
 classification_first_letter: o
 classification_first_letter_upper: O
-classification_length_1: o
-classification_length_2: oo
-classification_length_3: oob
-classification_length_4: oobb
-classification_length_5: oobb
-classification_length_6: oobb
-classification_name: Oobb
-classification_no_space_length_1: o
-classification_no_space_length_2: oo
-classification_no_space_length_3: oob
-classification_no_space_length_4: oobb
-classification_no_space_length_5: oobb
-classification_no_space_length_6: oobb
-classification_no_space_upper_length_1: O
-classification_no_space_upper_length_2: OO
-classification_no_space_upper_length_3: OOB
-classification_no_space_upper_length_4: OOBB
-classification_no_space_upper_length_5: OOBB
-classification_no_space_upper_length_6: OOBB
 classification_upper: OOBB
-classification_upper_length_1: O
-classification_upper_length_2: OO
-classification_upper_length_3: OOB
-classification_upper_length_4: OOBB
-classification_upper_length_5: OOBB
-classification_upper_length_6: OOBB
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: m5_radius_name
 description_extra_capital: M5 Radius Name
 description_extra_first_letter: m
 description_extra_first_letter_upper: M
-description_extra_length_1: m
-description_extra_length_2: m5
-description_extra_length_3: m5_
-description_extra_length_4: m5_r
-description_extra_length_5: m5_ra
-description_extra_length_6: m5_rad
-description_extra_name: M5 Radius Name
-description_extra_no_space_length_1: m
-description_extra_no_space_length_2: m5
-description_extra_no_space_length_3: m5r
-description_extra_no_space_length_4: m5ra
-description_extra_no_space_length_5: m5rad
-description_extra_no_space_length_6: m5radi
-description_extra_no_space_upper_length_1: M
-description_extra_no_space_upper_length_2: M5
-description_extra_no_space_upper_length_3: M5R
-description_extra_no_space_upper_length_4: M5RA
-description_extra_no_space_upper_length_5: M5RAD
-description_extra_no_space_upper_length_6: M5RADI
 description_extra_upper: M5_RADIUS_NAME
-description_extra_upper_length_1: M
-description_extra_upper_length_2: M5
-description_extra_upper_length_3: M5_
-description_extra_upper_length_4: M5_R
-description_extra_upper_length_5: M5_RA
-description_extra_upper_length_6: M5_RAD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -123,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/oobb_part_nut_m5_radius_name
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_nut_m5_radius_name
 id: oobb_part_nut_m5_radius_name
 id_no_class: part_nut_m5_radius_name
-id_no_color: m5radiusname
 id_no_size: m5_radius_name
 id_no_type: nut_m5_radius_name
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_nut_m5_radius_name
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[oobb_part_nut_m5_radius_name](none)<br>[](none)<br>[Oobb Part Nut
@@ -153,7 +51,6 @@ md5_6_alpha_upper: ZXCZ
 md5_6_upper: 1993A3
 name: Oobb Part Nut M5 Radius Name
 name_no_class: Part Nut M5 Radius Name
-name_no_color: M5Radiusname
 name_no_size: M5 Radius Name
 name_no_size_short: M5 Radius Name
 name_no_type: Nut M5 Radius Name
@@ -172,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -181,61 +77,11 @@ size: nut
 size_capital: Nut
 size_first_letter: n
 size_first_letter_upper: N
-size_length_1: n
-size_length_2: nu
-size_length_3: nut
-size_length_4: nut
-size_length_5: nut
-size_length_6: nut
-size_name: Nut
-size_no_space_length_1: n
-size_no_space_length_2: nu
-size_no_space_length_3: nut
-size_no_space_length_4: nut
-size_no_space_length_5: nut
-size_no_space_length_6: nut
-size_no_space_upper_length_1: N
-size_no_space_upper_length_2: NU
-size_no_space_upper_length_3: NUT
-size_no_space_upper_length_4: NUT
-size_no_space_upper_length_5: NUT
-size_no_space_upper_length_6: NUT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: NUT
-size_upper_length_1: N
-size_upper_length_2: NU
-size_upper_length_3: NUT
-size_upper_length_4: NUT
-size_upper_length_5: NUT
-size_upper_length_6: NUT
 type: part
 type_capital: Part
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: par
-type_length_4: part
-type_length_5: part
-type_length_6: part
-type_name: Part
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: par
-type_no_space_length_4: part
-type_no_space_length_5: part
-type_no_space_length_6: part
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAR
-type_no_space_upper_length_4: PART
-type_no_space_upper_length_5: PART
-type_no_space_upper_length_6: PART
 type_upper: PART
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAR
-type_upper_length_4: PART
-type_upper_length_5: PART
-type_upper_length_6: PART

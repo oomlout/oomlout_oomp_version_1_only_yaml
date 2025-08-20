@@ -1,121 +1,22 @@
-bip_39_word_dash_12: style-domain-voice-twist-weekend-burst-plastic-fruit-team-find-add-asset
-bip_39_word_dash_2: style-domain
-bip_39_word_dash_3: style-domain-voice
-bip_39_word_new_br_12: style<br>domain<br>voice<br>twist<br>weekend<br>burst<br>plastic<br>fruit<br>team<br>find<br>add<br>asset
-bip_39_word_new_br_2: style<br>domain
-bip_39_word_new_br_3: style<br>domain<br>voice
-bip_39_word_new_line_12: 'style
-
-  domain
-
-  voice
-
-  twist
-
-  weekend
-
-  burst
-
-  plastic
-
-  fruit
-
-  team
-
-  find
-
-  add
-
-  asset'
-bip_39_word_new_line_2: 'style
-
-  domain'
-bip_39_word_new_line_3: 'style
-
-  domain
-
-  voice'
-bip_39_word_no_space_12: styledomainvoicetwistweekendburstplasticfruitteamfindaddasset
-bip_39_word_no_space_2: styledomain
-bip_39_word_no_space_3: styledomainvoice
-bip_39_word_space_12: style domain voice twist weekend burst plastic fruit team find
-  add asset
-bip_39_word_space_2: style domain
-bip_39_word_space_3: style domain voice
-bip_39_word_underscore_12: style_domain_voice_twist_weekend_burst_plastic_fruit_team_find_add_asset
-bip_39_word_underscore_2: style_domain
-bip_39_word_underscore_3: style_domain_voice
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: alkaline_1_5_volt_non_rechargable
 color_capital: Alkaline 1.5 Volt Non Rechargable
 color_first_letter: a
 color_first_letter_upper: A
-color_length_1: a
-color_length_2: al
-color_length_3: alk
-color_length_4: alka
-color_length_5: alkal
-color_length_6: alkali
-color_name: Alkaline 1 5 Volt Non Rechargable
-color_no_space_length_1: a
-color_no_space_length_2: al
-color_no_space_length_3: alk
-color_no_space_length_4: alka
-color_no_space_length_5: alkal
-color_no_space_length_6: alkali
-color_no_space_upper_length_1: A
-color_no_space_upper_length_2: AL
-color_no_space_upper_length_3: ALK
-color_no_space_upper_length_4: ALKA
-color_no_space_upper_length_5: ALKAL
-color_no_space_upper_length_6: ALKALI
 color_upper: ALKALINE_1_5_VOLT_NON_RECHARGABLE
-color_upper_length_1: A
-color_upper_length_2: AL
-color_upper_length_3: ALK
-color_upper_length_4: ALKA
-color_upper_length_5: ALKAL
-color_upper_length_6: ALKALI
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -123,10 +24,8 @@ description_or_color: 'A '
 description_or_color_upper: 'A '
 directory: parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
 id: electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
 id_no_class: battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
-id_no_color: alkaline_1_5_volt_non_rechargable
 id_no_size: alkaline_1_5_volt_non_rechargable
 id_no_type: d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
@@ -136,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br>[](none)<br>[Electronic
@@ -151,12 +49,11 @@ md5_6: da0655
 md5_6_alpha: 8i91x
 md5_6_alpha_upper: 8I91X
 md5_6_upper: DA0655
-name: Electronic Battery D Size 34 mm Diameter 61 mm Depth Alkaline 1 5 Volt Non Rechargable
-name_no_class: Battery D Size 34 mm Diameter 61 mm Depth Alkaline 1 5 Volt Non Rechargable
-name_no_color: Alkaline 1 5 Volt Non Rechargable
+name: Electronic Battery D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable
+name_no_class: Battery D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable
 name_no_size: Alkaline 1 5 Volt Non Rechargable
 name_no_size_short: Alkaline 1 5 Volt Non Rechargable
-name_no_type: D Size 34 mm Diameter 61 mm Depth Alkaline 1 5 Volt Non Rechargable
+name_no_type: D Size 34 Mm Diameter 61 Mm Depth Alkaline 1 5 Volt Non Rechargable
 oomp_key: oomp_electronic_battery_d_size_34_mm_diameter_61_mm_depth_alkaline_1_5_volt_non_rechargable
 oomp_word: hotel sleeping dolphin
 oomp_word_emoji: ':hotel: :sleeping: :dolphin:'
@@ -173,7 +70,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -182,61 +78,11 @@ size: d_size_34_mm_diameter_61_mm_depth
 size_capital: D Size 34 mm Diameter 61 mm Depth
 size_first_letter: d
 size_first_letter_upper: D
-size_length_1: d
-size_length_2: d_
-size_length_3: d_s
-size_length_4: d_si
-size_length_5: d_siz
-size_length_6: d_size
-size_name: D Size 34 mm Diameter 61 mm Depth
-size_no_space_length_1: d
-size_no_space_length_2: ds
-size_no_space_length_3: dsi
-size_no_space_length_4: dsiz
-size_no_space_length_5: dsize
-size_no_space_length_6: dsize3
-size_no_space_upper_length_1: D
-size_no_space_upper_length_2: DS
-size_no_space_upper_length_3: DSI
-size_no_space_upper_length_4: DSIZ
-size_no_space_upper_length_5: DSIZE
-size_no_space_upper_length_6: DSIZE3
 size_only_numbers: '3461'
 size_only_numbers_no_zeros: '3461'
 size_upper: D_SIZE_34_MM_DIAMETER_61_MM_DEPTH
-size_upper_length_1: D
-size_upper_length_2: D_
-size_upper_length_3: D_S
-size_upper_length_4: D_SI
-size_upper_length_5: D_SIZ
-size_upper_length_6: D_SIZE
 type: battery
 type_capital: Battery
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bat
-type_length_4: batt
-type_length_5: batte
-type_length_6: batter
-type_name: Battery
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bat
-type_no_space_length_4: batt
-type_no_space_length_5: batte
-type_no_space_length_6: batter
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAT
-type_no_space_upper_length_4: BATT
-type_no_space_upper_length_5: BATTE
-type_no_space_upper_length_6: BATTER
 type_upper: BATTERY
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAT
-type_upper_length_4: BATT
-type_upper_length_5: BATTE
-type_upper_length_6: BATTER

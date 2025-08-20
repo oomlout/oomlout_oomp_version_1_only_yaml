@@ -1,146 +1,23 @@
-bip_39_word_dash_12: much-clinic-film-armed-dinosaur-syrup-forget-rail-tomorrow-seek-regret-answer
-bip_39_word_dash_2: much-clinic
-bip_39_word_dash_3: much-clinic-film
-bip_39_word_new_br_12: much<br>clinic<br>film<br>armed<br>dinosaur<br>syrup<br>forget<br>rail<br>tomorrow<br>seek<br>regret<br>answer
-bip_39_word_new_br_2: much<br>clinic
-bip_39_word_new_br_3: much<br>clinic<br>film
-bip_39_word_new_line_12: 'much
-
-  clinic
-
-  film
-
-  armed
-
-  dinosaur
-
-  syrup
-
-  forget
-
-  rail
-
-  tomorrow
-
-  seek
-
-  regret
-
-  answer'
-bip_39_word_new_line_2: 'much
-
-  clinic'
-bip_39_word_new_line_3: 'much
-
-  clinic
-
-  film'
-bip_39_word_no_space_12: muchclinicfilmarmeddinosaursyrupforgetrailtomorrowseekregretanswer
-bip_39_word_no_space_2: muchclinic
-bip_39_word_no_space_3: muchclinicfilm
-bip_39_word_space_12: much clinic film armed dinosaur syrup forget rail tomorrow seek
-  regret answer
-bip_39_word_space_2: much clinic
-bip_39_word_space_3: much clinic film
-bip_39_word_underscore_12: much_clinic_film_armed_dinosaur_syrup_forget_rail_tomorrow_seek_regret_answer
-bip_39_word_underscore_2: much_clinic
-bip_39_word_underscore_3: much_clinic_film
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: blue
 color_capital: Blue
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bl
-color_length_3: blu
-color_length_4: blue
-color_length_5: blue
-color_length_6: blue
-color_name: Blue
-color_no_space_length_1: b
-color_no_space_length_2: bl
-color_no_space_length_3: blu
-color_no_space_length_4: blue
-color_no_space_length_5: blue
-color_no_space_length_6: blue
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BL
-color_no_space_upper_length_3: BLU
-color_no_space_upper_length_4: BLUE
-color_no_space_upper_length_5: BLUE
-color_no_space_upper_length_6: BLUE
 color_upper: BLUE
-color_upper_length_1: B
-color_upper_length_2: BL
-color_upper_length_3: BLU
-color_upper_length_4: BLUE
-color_upper_length_5: BLUE
-color_upper_length_6: BLUE
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 80_mm_length
 description_main_capital: 80 mm Length
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
-description_main_length_1: '8'
-description_main_length_2: '80'
-description_main_length_3: '80_'
-description_main_length_4: 80_m
-description_main_length_5: 80_mm
-description_main_length_6: 80_mm_
-description_main_name: 80 mm Length
-description_main_no_space_length_1: '8'
-description_main_no_space_length_2: '80'
-description_main_no_space_length_3: 80m
-description_main_no_space_length_4: 80mm
-description_main_no_space_length_5: 80mml
-description_main_no_space_length_6: 80mmle
-description_main_no_space_upper_length_1: '8'
-description_main_no_space_upper_length_2: '80'
-description_main_no_space_upper_length_3: 80M
-description_main_no_space_upper_length_4: 80MM
-description_main_no_space_upper_length_5: 80MML
-description_main_no_space_upper_length_6: 80MMLE
 description_main_upper: 80_MM_LENGTH
-description_main_upper_length_1: '8'
-description_main_upper_length_2: '80'
-description_main_upper_length_3: '80_'
-description_main_upper_length_4: 80_M
-description_main_upper_length_5: 80_MM
-description_main_upper_length_6: 80_MM_
 description_only_numbers: '80'
 description_only_numbers_short: '80'
 description_or_color: B80
@@ -149,10 +26,8 @@ directory: parts/electronic_led_filament_3_volt_blue_80_mm_length
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_filament_3_volt_blue_80_mm_length
 id: electronic_led_filament_3_volt_blue_80_mm_length
 id_no_class: led_filament_3_volt_blue_80_mm_length
-id_no_color: 80_mm_length
 id_no_size: blue_80_mm_length
 id_no_type: filament_3_volt_blue_80_mm_length
 link_distributor_adafruit: https://www.adafruit.com/product/5509
@@ -164,7 +39,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_filament_3_volt_blue_80_mm_length](none)<br>[ll80](none)<br>[Electronic
@@ -179,12 +53,11 @@ md5_6: 9b6970
 md5_6_alpha: 62auo
 md5_6_alpha_upper: 62AUO
 md5_6_upper: 9B6970
-name: Electronic LED Filament 3 Volt Blue 80 mm Length
-name_no_class: LED Filament 3 Volt Blue 80 mm Length
-name_no_color: 80 mm Length
-name_no_size: Blue 80 mm Length
+name: Electronic Led Filament 3 Volt Blue 80 Mm Length
+name_no_class: Led Filament 3 Volt Blue 80 Mm Length
+name_no_size: Blue 80 Mm Length
 name_no_size_short: Blue 80 Mm Length
-name_no_type: Filament 3 Volt Blue 80 mm Length
+name_no_type: Filament 3 Volt Blue 80 Mm Length
 oomp_key: oomp_electronic_led_filament_3_volt_blue_80_mm_length
 oomp_word: ski cactus squirrel
 oomp_word_emoji: ':ski: :cactus: :squirrel:'
@@ -202,7 +75,6 @@ part_number_distriubutor_adafruit: '5509'
 part_number_distriubutor_aliexpress: '1005006222719149'
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ll80
 short_code_upper: LL80
@@ -211,61 +83,11 @@ size: filament_3_volt
 size_capital: Filament 3 Volt
 size_first_letter: f
 size_first_letter_upper: F
-size_length_1: f
-size_length_2: fi
-size_length_3: fil
-size_length_4: fila
-size_length_5: filam
-size_length_6: filame
-size_name: Filament 3 Volt
-size_no_space_length_1: f
-size_no_space_length_2: fi
-size_no_space_length_3: fil
-size_no_space_length_4: fila
-size_no_space_length_5: filam
-size_no_space_length_6: filame
-size_no_space_upper_length_1: F
-size_no_space_upper_length_2: FI
-size_no_space_upper_length_3: FIL
-size_no_space_upper_length_4: FILA
-size_no_space_upper_length_5: FILAM
-size_no_space_upper_length_6: FILAME
 size_only_numbers: '3'
 size_only_numbers_no_zeros: '3'
 size_upper: FILAMENT_3_VOLT
-size_upper_length_1: F
-size_upper_length_2: FI
-size_upper_length_3: FIL
-size_upper_length_4: FILA
-size_upper_length_5: FILAM
-size_upper_length_6: FILAME
 type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: le
-type_length_3: led
-type_length_4: led
-type_length_5: led
-type_length_6: led
-type_name: LED
-type_no_space_length_1: l
-type_no_space_length_2: le
-type_no_space_length_3: led
-type_no_space_length_4: led
-type_no_space_length_5: led
-type_no_space_length_6: led
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LE
-type_no_space_upper_length_3: LED
-type_no_space_upper_length_4: LED
-type_no_space_upper_length_5: LED
-type_no_space_upper_length_6: LED
 type_upper: LED
-type_upper_length_1: L
-type_upper_length_2: LE
-type_upper_length_3: LED
-type_upper_length_4: LED
-type_upper_length_5: LED
-type_upper_length_6: LED

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: side-place-beef-write-hospital-expand-proof-dish-design-table-you-approve
-bip_39_word_dash_2: side-place
-bip_39_word_dash_3: side-place-beef
-bip_39_word_new_br_12: side<br>place<br>beef<br>write<br>hospital<br>expand<br>proof<br>dish<br>design<br>table<br>you<br>approve
-bip_39_word_new_br_2: side<br>place
-bip_39_word_new_br_3: side<br>place<br>beef
-bip_39_word_new_line_12: 'side
-
-  place
-
-  beef
-
-  write
-
-  hospital
-
-  expand
-
-  proof
-
-  dish
-
-  design
-
-  table
-
-  you
-
-  approve'
-bip_39_word_new_line_2: 'side
-
-  place'
-bip_39_word_new_line_3: 'side
-
-  place
-
-  beef'
-bip_39_word_no_space_12: sideplacebeefwritehospitalexpandproofdishdesigntableyouapprove
-bip_39_word_no_space_2: sideplace
-bip_39_word_no_space_3: sideplacebeef
-bip_39_word_space_12: side place beef write hospital expand proof dish design table
-  you approve
-bip_39_word_space_2: side place
-bip_39_word_space_3: side place beef
-bip_39_word_underscore_12: side_place_beef_write_hospital_expand_proof_dish_design_table_you_approve
-bip_39_word_underscore_2: side_place
-bip_39_word_underscore_3: side_place_beef
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: surface_mount_right_angle
 description_extra_capital: Surface Mount Right Angle
 description_extra_first_letter: s
 description_extra_first_letter_upper: S
-description_extra_length_1: s
-description_extra_length_2: su
-description_extra_length_3: sur
-description_extra_length_4: surf
-description_extra_length_5: surfa
-description_extra_length_6: surfac
-description_extra_name: Surface Mount Right Angle
-description_extra_no_space_length_1: s
-description_extra_no_space_length_2: su
-description_extra_no_space_length_3: sur
-description_extra_no_space_length_4: surf
-description_extra_no_space_length_5: surfa
-description_extra_no_space_length_6: surfac
-description_extra_no_space_upper_length_1: S
-description_extra_no_space_upper_length_2: SU
-description_extra_no_space_upper_length_3: SUR
-description_extra_no_space_upper_length_4: SURF
-description_extra_no_space_upper_length_5: SURFA
-description_extra_no_space_upper_length_6: SURFAC
 description_extra_upper: SURFACE_MOUNT_RIGHT_ANGLE
-description_extra_upper_length_1: S
-description_extra_upper_length_2: SU
-description_extra_upper_length_3: SUR
-description_extra_upper_length_4: SURF
-description_extra_upper_length_5: SURFA
-description_extra_upper_length_6: SURFAC
 description_main: 4_pin
 description_main_capital: 4 Pin
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
-description_main_length_1: '4'
-description_main_length_2: '4_'
-description_main_length_3: 4_p
-description_main_length_4: 4_pi
-description_main_length_5: 4_pin
-description_main_length_6: 4_pin
-description_main_name: 4 Pin
-description_main_no_space_length_1: '4'
-description_main_no_space_length_2: 4p
-description_main_no_space_length_3: 4pi
-description_main_no_space_length_4: 4pin
-description_main_no_space_length_5: 4pin
-description_main_no_space_length_6: 4pin
-description_main_no_space_upper_length_1: '4'
-description_main_no_space_upper_length_2: 4P
-description_main_no_space_upper_length_3: 4PI
-description_main_no_space_upper_length_4: 4PIN
-description_main_no_space_upper_length_5: 4PIN
-description_main_no_space_upper_length_6: 4PIN
 description_main_upper: 4_PIN
-description_main_upper_length_1: '4'
-description_main_upper_length_2: '4_'
-description_main_upper_length_3: 4_P
-description_main_upper_length_4: 4_PI
-description_main_upper_length_5: 4_PIN
-description_main_upper_length_6: 4_PIN
 description_only_numbers: '4'
 description_only_numbers_short: '4'
 description_or_color: '4'
@@ -166,10 +43,8 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_hjsh4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_hjsh4psmra_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 id: electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 id_no_class: header_1_mm_jst_sh_4_pin_surface_mount_right_angle
-id_no_color: 4pinsurfacemountrightangle
 id_no_size: 4_pin_surface_mount_right_angle
 id_no_type: 1_mm_jst_sh_4_pin_surface_mount_right_angle
 kicad_reference: CONN
@@ -180,7 +55,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_jst
@@ -203,12 +77,11 @@ md5_6: adfe77
 md5_6_alpha: 6seif
 md5_6_alpha_upper: 6SEIF
 md5_6_upper: ADFE77
-name: Electronic Header 1 mm Jst Sh 4 Pin Surface Mount Right Angle
-name_no_class: Header 1 mm Jst Sh 4 Pin Surface Mount Right Angle
-name_no_color: 4Pinsurfacemountrightangle
+name: Electronic Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
+name_no_class: Header 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
 name_no_size: 4 Pin Surface Mount Right Angle
 name_no_size_short: 4 Pin Surface Mount Right Angle
-name_no_type: 1 mm Jst Sh 4 Pin Surface Mount Right Angle
+name_no_type: 1 Mm Jst Sh 4 Pin Surface Mount Right Angle
 oomp_key: oomp_electronic_header_1_mm_jst_sh_4_pin_surface_mount_right_angle
 oomp_word: dress recycle gift
 oomp_word_emoji: ':dress: :recycle: :gift:'
@@ -225,7 +98,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: hjsh4psmra
 short_code_upper: HJSH4PSMRA
@@ -234,34 +106,9 @@ size: 1_mm_jst_sh
 size_capital: 1 mm Jst Sh
 size_first_letter: '1'
 size_first_letter_upper: '1'
-size_length_1: '1'
-size_length_2: '1_'
-size_length_3: 1_m
-size_length_4: 1_mm
-size_length_5: 1_mm_
-size_length_6: 1_mm_j
-size_name: 1 mm Jst Sh
-size_no_space_length_1: '1'
-size_no_space_length_2: 1m
-size_no_space_length_3: 1mm
-size_no_space_length_4: 1mmj
-size_no_space_length_5: 1mmjs
-size_no_space_length_6: 1mmjst
-size_no_space_upper_length_1: '1'
-size_no_space_upper_length_2: 1M
-size_no_space_upper_length_3: 1MM
-size_no_space_upper_length_4: 1MMJ
-size_no_space_upper_length_5: 1MMJS
-size_no_space_upper_length_6: 1MMJST
 size_only_numbers: '1'
 size_only_numbers_no_zeros: '1'
 size_upper: 1_MM_JST_SH
-size_upper_length_1: '1'
-size_upper_length_2: '1_'
-size_upper_length_3: 1_M
-size_upper_length_4: 1_MM
-size_upper_length_5: 1_MM_
-size_upper_length_6: 1_MM_J
 smd_tape_depth: 4_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 16_mm
@@ -274,29 +121,4 @@ type: header
 type_capital: Header
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: he
-type_length_3: hea
-type_length_4: head
-type_length_5: heade
-type_length_6: header
-type_name: Header
-type_no_space_length_1: h
-type_no_space_length_2: he
-type_no_space_length_3: hea
-type_no_space_length_4: head
-type_no_space_length_5: heade
-type_no_space_length_6: header
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HE
-type_no_space_upper_length_3: HEA
-type_no_space_upper_length_4: HEAD
-type_no_space_upper_length_5: HEADE
-type_no_space_upper_length_6: HEADER
 type_upper: HEADER
-type_upper_length_1: H
-type_upper_length_2: HE
-type_upper_length_3: HEA
-type_upper_length_4: HEAD
-type_upper_length_5: HEADE
-type_upper_length_6: HEADER

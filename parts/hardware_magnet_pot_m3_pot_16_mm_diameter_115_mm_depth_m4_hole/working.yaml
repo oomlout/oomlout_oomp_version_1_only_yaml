@@ -1,146 +1,23 @@
-bip_39_word_dash_12: label-few-garage-book-you-barrel-best-dial-great-panda-camp-arm
-bip_39_word_dash_2: label-few
-bip_39_word_dash_3: label-few-garage
-bip_39_word_new_br_12: label<br>few<br>garage<br>book<br>you<br>barrel<br>best<br>dial<br>great<br>panda<br>camp<br>arm
-bip_39_word_new_br_2: label<br>few
-bip_39_word_new_br_3: label<br>few<br>garage
-bip_39_word_new_line_12: 'label
-
-  few
-
-  garage
-
-  book
-
-  you
-
-  barrel
-
-  best
-
-  dial
-
-  great
-
-  panda
-
-  camp
-
-  arm'
-bip_39_word_new_line_2: 'label
-
-  few'
-bip_39_word_new_line_3: 'label
-
-  few
-
-  garage'
-bip_39_word_no_space_12: labelfewgaragebookyoubarrelbestdialgreatpandacamparm
-bip_39_word_no_space_2: labelfew
-bip_39_word_no_space_3: labelfewgarage
-bip_39_word_space_12: label few garage book you barrel best dial great panda camp
-  arm
-bip_39_word_space_2: label few
-bip_39_word_space_3: label few garage
-bip_39_word_underscore_12: label_few_garage_book_you_barrel_best_dial_great_panda_camp_arm
-bip_39_word_underscore_2: label_few
-bip_39_word_underscore_3: label_few_garage
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: m3_pot
 color_capital: M3 Pot
 color_first_letter: m
 color_first_letter_upper: M
-color_length_1: m
-color_length_2: m3
-color_length_3: m3_
-color_length_4: m3_p
-color_length_5: m3_po
-color_length_6: m3_pot
-color_name: M3 Pot
-color_no_space_length_1: m
-color_no_space_length_2: m3
-color_no_space_length_3: m3p
-color_no_space_length_4: m3po
-color_no_space_length_5: m3pot
-color_no_space_length_6: m3pot
-color_no_space_upper_length_1: M
-color_no_space_upper_length_2: M3
-color_no_space_upper_length_3: M3P
-color_no_space_upper_length_4: M3PO
-color_no_space_upper_length_5: M3POT
-color_no_space_upper_length_6: M3POT
 color_upper: M3_POT
-color_upper_length_1: M
-color_upper_length_2: M3
-color_upper_length_3: M3_
-color_upper_length_4: M3_P
-color_upper_length_5: M3_PO
-color_upper_length_6: M3_POT
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 16_mm_diameter_115_mm_depth_m4_hole
 description_main_capital: 16 mm Diameter 115 mm Depth M4 Hole
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '16'
-description_main_length_3: '16_'
-description_main_length_4: 16_m
-description_main_length_5: 16_mm
-description_main_length_6: 16_mm_
-description_main_name: 16 mm Diameter 115 mm Depth M4 Hole
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '16'
-description_main_no_space_length_3: 16m
-description_main_no_space_length_4: 16mm
-description_main_no_space_length_5: 16mmd
-description_main_no_space_length_6: 16mmdi
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '16'
-description_main_no_space_upper_length_3: 16M
-description_main_no_space_upper_length_4: 16MM
-description_main_no_space_upper_length_5: 16MMD
-description_main_no_space_upper_length_6: 16MMDI
 description_main_upper: 16_MM_DIAMETER_115_MM_DEPTH_M4_HOLE
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '16'
-description_main_upper_length_3: '16_'
-description_main_upper_length_4: 16_M
-description_main_upper_length_5: 16_MM
-description_main_upper_length_6: 16_MM_
 description_only_numbers: '161154'
 description_only_numbers_short: 161k
 description_or_color: M161k
@@ -149,10 +26,8 @@ directory: parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
 id: hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
 id_no_class: magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
-id_no_color: m3_16_mm_diameter_115_mm_depth_m4_hole
 id_no_size: m3_16_mm_diameter_115_mm_depth_m4_hole
 id_no_type: pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
@@ -162,7 +37,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole](none)<br>[](none)<br>[Hardware
@@ -177,12 +51,11 @@ md5_6: ba41a7
 md5_6_alpha: 79mlj
 md5_6_alpha_upper: 79MLJ
 md5_6_upper: BA41A7
-name: Hardware Magnet Pot M3 Pot 16 mm Diameter 115 mm Depth M4 Hole
-name_no_class: Magnet Pot M3 Pot 16 mm Diameter 115 mm Depth M4 Hole
-name_no_color: M3 16 mm Diameter 115 mm Depth M4 Hole
-name_no_size: M3 16 mm Diameter 115 mm Depth M4 Hole
+name: Hardware Magnet Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole
+name_no_class: Magnet Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole
+name_no_size: M3 16 Mm Diameter 115 Mm Depth M4 Hole
 name_no_size_short: M3 16 Mm Diameter 115 Mm Depth M4 Hole
-name_no_type: Pot M3 Pot 16 mm Diameter 115 mm Depth M4 Hole
+name_no_type: Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole
 oomp_key: oomp_hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
 oomp_word: spaghetti camel guitar
 oomp_word_emoji: ':spaghetti: :camel: :guitar:'
@@ -198,7 +71,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -206,61 +78,11 @@ size: pot
 size_capital: Pot
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: po
-size_length_3: pot
-size_length_4: pot
-size_length_5: pot
-size_length_6: pot
-size_name: Pot
-size_no_space_length_1: p
-size_no_space_length_2: po
-size_no_space_length_3: pot
-size_no_space_length_4: pot
-size_no_space_length_5: pot
-size_no_space_length_6: pot
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PO
-size_no_space_upper_length_3: POT
-size_no_space_upper_length_4: POT
-size_no_space_upper_length_5: POT
-size_no_space_upper_length_6: POT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: POT
-size_upper_length_1: P
-size_upper_length_2: PO
-size_upper_length_3: POT
-size_upper_length_4: POT
-size_upper_length_5: POT
-size_upper_length_6: POT
 type: magnet
 type_capital: Magnet
 type_first_letter: m
 type_first_letter_upper: M
-type_length_1: m
-type_length_2: ma
-type_length_3: mag
-type_length_4: magn
-type_length_5: magne
-type_length_6: magnet
-type_name: Magnet
-type_no_space_length_1: m
-type_no_space_length_2: ma
-type_no_space_length_3: mag
-type_no_space_length_4: magn
-type_no_space_length_5: magne
-type_no_space_length_6: magnet
-type_no_space_upper_length_1: M
-type_no_space_upper_length_2: MA
-type_no_space_upper_length_3: MAG
-type_no_space_upper_length_4: MAGN
-type_no_space_upper_length_5: MAGNE
-type_no_space_upper_length_6: MAGNET
 type_upper: MAGNET
-type_upper_length_1: M
-type_upper_length_2: MA
-type_upper_length_3: MAG
-type_upper_length_4: MAGN
-type_upper_length_5: MAGNE
-type_upper_length_6: MAGNET

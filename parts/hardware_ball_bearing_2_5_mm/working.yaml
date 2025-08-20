@@ -1,97 +1,22 @@
-bip_39_word_dash_12: oyster-hair-above-robust-warm-limb-thumb-obey-drift-better-lunar-add
-bip_39_word_dash_2: oyster-hair
-bip_39_word_dash_3: oyster-hair-above
-bip_39_word_new_br_12: oyster<br>hair<br>above<br>robust<br>warm<br>limb<br>thumb<br>obey<br>drift<br>better<br>lunar<br>add
-bip_39_word_new_br_2: oyster<br>hair
-bip_39_word_new_br_3: oyster<br>hair<br>above
-bip_39_word_new_line_12: 'oyster
-
-  hair
-
-  above
-
-  robust
-
-  warm
-
-  limb
-
-  thumb
-
-  obey
-
-  drift
-
-  better
-
-  lunar
-
-  add'
-bip_39_word_new_line_2: 'oyster
-
-  hair'
-bip_39_word_new_line_3: 'oyster
-
-  hair
-
-  above'
-bip_39_word_no_space_12: oysterhairaboverobustwarmlimbthumbobeydriftbetterlunaradd
-bip_39_word_no_space_2: oysterhair
-bip_39_word_no_space_3: oysterhairabove
-bip_39_word_space_12: oyster hair above robust warm limb thumb obey drift better lunar
-  add
-bip_39_word_space_2: oyster hair
-bip_39_word_space_3: oyster hair above
-bip_39_word_underscore_12: oyster_hair_above_robust_warm_limb_thumb_obey_drift_better_lunar_add
-bip_39_word_underscore_2: oyster_hair
-bip_39_word_underscore_3: oyster_hair_above
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_ball_bearing_2_5_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ball_bearing_2_5_mm
 id: hardware_ball_bearing_2_5_mm
 id_no_class: ball_bearing_2_5_mm
-id_no_color: 25mm
 id_no_size: 2_5_mm
 id_no_type: 2_5_mm
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_2_5_mm
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_ball_bearing_2_5_mm](none)<br>[2d5](none)<br>[Hardware Ball
@@ -127,12 +49,11 @@ md5_6: 330a05
 md5_6_alpha: 1zoxx
 md5_6_alpha_upper: 1ZOXX
 md5_6_upper: 330A05
-name: Hardware Ball Bearing 2 5 mm
-name_no_class: Ball Bearing 2 5 mm
-name_no_color: 25mm
-name_no_size: 2 5 mm
+name: Hardware Ball Bearing 2 5 Mm
+name_no_class: Ball Bearing 2 5 Mm
+name_no_size: 2 5 Mm
 name_no_size_short: 2 5 Mm
-name_no_type: 2 5 mm
+name_no_type: 2 5 Mm
 oomp_key: oomp_hardware_ball_bearing_2_5_mm
 oomp_word: dog sleepy kissing
 oomp_word_emoji: ':dog: :sleepy: :kissing:'
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: 2d5
 short_code_upper: 2D5
@@ -156,61 +76,11 @@ size: 2_5_mm
 size_capital: 2.5 mm
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '2_'
-size_length_3: '2_5'
-size_length_4: '2_5_'
-size_length_5: 2_5_m
-size_length_6: 2_5_mm
-size_name: 2 5 mm
-size_no_space_length_1: '2'
-size_no_space_length_2: '25'
-size_no_space_length_3: 25m
-size_no_space_length_4: 25mm
-size_no_space_length_5: 25mm
-size_no_space_length_6: 25mm
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: '25'
-size_no_space_upper_length_3: 25M
-size_no_space_upper_length_4: 25MM
-size_no_space_upper_length_5: 25MM
-size_no_space_upper_length_6: 25MM
 size_only_numbers: '25'
 size_only_numbers_no_zeros: '25'
 size_upper: 2_5_MM
-size_upper_length_1: '2'
-size_upper_length_2: '2_'
-size_upper_length_3: '2_5'
-size_upper_length_4: '2_5_'
-size_upper_length_5: 2_5_M
-size_upper_length_6: 2_5_MM
 type: ball_bearing
 type_capital: Ball Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bal
-type_length_4: ball
-type_length_5: ball_
-type_length_6: ball_b
-type_name: Ball Bearing
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bal
-type_no_space_length_4: ball
-type_no_space_length_5: ballb
-type_no_space_length_6: ballbe
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAL
-type_no_space_upper_length_4: BALL
-type_no_space_upper_length_5: BALLB
-type_no_space_upper_length_6: BALLBE
 type_upper: BALL_BEARING
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAL
-type_upper_length_4: BALL
-type_upper_length_5: BALL_
-type_upper_length_6: BALL_B

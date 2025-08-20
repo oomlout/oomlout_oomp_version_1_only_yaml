@@ -1,121 +1,22 @@
-bip_39_word_dash_12: topic-ahead-maze-mesh-champion-calm-daughter-laptop-soon-actor-voice-area
-bip_39_word_dash_2: topic-ahead
-bip_39_word_dash_3: topic-ahead-maze
-bip_39_word_new_br_12: topic<br>ahead<br>maze<br>mesh<br>champion<br>calm<br>daughter<br>laptop<br>soon<br>actor<br>voice<br>area
-bip_39_word_new_br_2: topic<br>ahead
-bip_39_word_new_br_3: topic<br>ahead<br>maze
-bip_39_word_new_line_12: 'topic
-
-  ahead
-
-  maze
-
-  mesh
-
-  champion
-
-  calm
-
-  daughter
-
-  laptop
-
-  soon
-
-  actor
-
-  voice
-
-  area'
-bip_39_word_new_line_2: 'topic
-
-  ahead'
-bip_39_word_new_line_3: 'topic
-
-  ahead
-
-  maze'
-bip_39_word_no_space_12: topicaheadmazemeshchampioncalmdaughterlaptopsoonactorvoicearea
-bip_39_word_no_space_2: topicahead
-bip_39_word_no_space_3: topicaheadmaze
-bip_39_word_space_12: topic ahead maze mesh champion calm daughter laptop soon actor
-  voice area
-bip_39_word_space_2: topic ahead
-bip_39_word_space_3: topic ahead maze
-bip_39_word_underscore_12: topic_ahead_maze_mesh_champion_calm_daughter_laptop_soon_actor_voice_area
-bip_39_word_underscore_2: topic_ahead
-bip_39_word_underscore_3: topic_ahead_maze
 classification: vinyl
 classification_capital: Vinyl
 classification_first_letter: v
 classification_first_letter_upper: V
-classification_length_1: v
-classification_length_2: vi
-classification_length_3: vin
-classification_length_4: viny
-classification_length_5: vinyl
-classification_length_6: vinyl
-classification_name: Vinyl
-classification_no_space_length_1: v
-classification_no_space_length_2: vi
-classification_no_space_length_3: vin
-classification_no_space_length_4: viny
-classification_no_space_length_5: vinyl
-classification_no_space_length_6: vinyl
-classification_no_space_upper_length_1: V
-classification_no_space_upper_length_2: VI
-classification_no_space_upper_length_3: VIN
-classification_no_space_upper_length_4: VINY
-classification_no_space_upper_length_5: VINYL
-classification_no_space_upper_length_6: VINYL
 classification_upper: VINYL
-classification_upper_length_1: V
-classification_upper_length_2: VI
-classification_upper_length_3: VIN
-classification_upper_length_4: VINY
-classification_upper_length_5: VINYL
-classification_upper_length_6: VINYL
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: a1_594_mm_width_841_mm_height
 description_extra_capital: A1.594 mm Width 841 mm Height
 description_extra_first_letter: a
 description_extra_first_letter_upper: A
-description_extra_length_1: a
-description_extra_length_2: a1
-description_extra_length_3: a1_
-description_extra_length_4: a1_5
-description_extra_length_5: a1_59
-description_extra_length_6: a1_594
-description_extra_name: A1 594 mm Width 841 mm Height
-description_extra_no_space_length_1: a
-description_extra_no_space_length_2: a1
-description_extra_no_space_length_3: a15
-description_extra_no_space_length_4: a159
-description_extra_no_space_length_5: a1594
-description_extra_no_space_length_6: a1594m
-description_extra_no_space_upper_length_1: A
-description_extra_no_space_upper_length_2: A1
-description_extra_no_space_upper_length_3: A15
-description_extra_no_space_upper_length_4: A159
-description_extra_no_space_upper_length_5: A1594
-description_extra_no_space_upper_length_6: A1594M
 description_extra_upper: A1_594_MM_WIDTH_841_MM_HEIGHT
-description_extra_upper_length_1: A
-description_extra_upper_length_2: A1
-description_extra_upper_length_3: A1_
-description_extra_upper_length_4: A1_5
-description_extra_upper_length_5: A1_59
-description_extra_upper_length_6: A1_594
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -125,11 +26,9 @@ directory: parts/vinyl_a1_594_mm_width_841_mm_height
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_a1_594_mm_width_841_mm_height
 height: 841 mm
 id: vinyl_a1_594_mm_width_841_mm_height
 id_no_class: a1_594_mm_width_841_mm_height
-id_no_color: a1594mmwidth841mmheight
 id_no_size: a1594mmwidth841mmheight
 id_no_type: a1594mmwidth841mmheight
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_a1_594_mm_width_841_mm_height
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[vinyl_a1_594_mm_width_841_mm_height](none)<br>[](none)<br>[Vinyl
@@ -154,12 +52,11 @@ md5_6: b5eac0
 md5_6_alpha: 73j5s
 md5_6_alpha_upper: 73J5S
 md5_6_upper: B5EAC0
-name: Vinyl A1 594 mm Width 841 mm Height
-name_no_class: A1 594 mm Width 841 mm Height
-name_no_color: A1594mmwidth841mmheight
-name_no_size: A1594mmwidth841mmheight
+name: Vinyl A1 594 Mm Width 841 Mm Height
+name_no_class: A1 594 Mm Width 841 Mm Height
+name_no_size: A1594Mmwidth841Mmheight
 name_no_size_short: A1594Mmwidth841Mmheight
-name_no_type: A1594mmwidth841mmheight
+name_no_type: A1594Mmwidth841Mmheight
 oomp_key: oomp_vinyl_a1_594_mm_width_841_mm_height
 oomp_word: tea tractor bread
 oomp_word_emoji: ':tea: :tractor: :bread:'
@@ -175,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -183,7 +79,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -191,6 +86,5 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
-type_name: ''
 type_upper: ''
 width: 594 mm

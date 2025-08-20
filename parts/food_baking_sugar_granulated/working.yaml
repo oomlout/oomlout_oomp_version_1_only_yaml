@@ -1,122 +1,23 @@
-bip_39_word_dash_12: wall-custom-typical-approve-champion-survey-tag-update-swing-announce-corn-air
-bip_39_word_dash_2: wall-custom
-bip_39_word_dash_3: wall-custom-typical
-bip_39_word_new_br_12: wall<br>custom<br>typical<br>approve<br>champion<br>survey<br>tag<br>update<br>swing<br>announce<br>corn<br>air
-bip_39_word_new_br_2: wall<br>custom
-bip_39_word_new_br_3: wall<br>custom<br>typical
-bip_39_word_new_line_12: 'wall
-
-  custom
-
-  typical
-
-  approve
-
-  champion
-
-  survey
-
-  tag
-
-  update
-
-  swing
-
-  announce
-
-  corn
-
-  air'
-bip_39_word_new_line_2: 'wall
-
-  custom'
-bip_39_word_new_line_3: 'wall
-
-  custom
-
-  typical'
-bip_39_word_no_space_12: wallcustomtypicalapprovechampionsurveytagupdateswingannouncecornair
-bip_39_word_no_space_2: wallcustom
-bip_39_word_no_space_3: wallcustomtypical
-bip_39_word_space_12: wall custom typical approve champion survey tag update swing
-  announce corn air
-bip_39_word_space_2: wall custom
-bip_39_word_space_3: wall custom typical
-bip_39_word_underscore_12: wall_custom_typical_approve_champion_survey_tag_update_swing_announce_corn_air
-bip_39_word_underscore_2: wall_custom
-bip_39_word_underscore_3: wall_custom_typical
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
-classification_length_1: f
-classification_length_2: fo
-classification_length_3: foo
-classification_length_4: food
-classification_length_5: food
-classification_length_6: food
-classification_name: Food
-classification_no_space_length_1: f
-classification_no_space_length_2: fo
-classification_no_space_length_3: foo
-classification_no_space_length_4: food
-classification_no_space_length_5: food
-classification_no_space_length_6: food
-classification_no_space_upper_length_1: F
-classification_no_space_upper_length_2: FO
-classification_no_space_upper_length_3: FOO
-classification_no_space_upper_length_4: FOOD
-classification_no_space_upper_length_5: FOOD
-classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
-classification_upper_length_1: F
-classification_upper_length_2: FO
-classification_upper_length_3: FOO
-classification_upper_length_4: FOOD
-classification_upper_length_5: FOOD
-classification_upper_length_6: FOOD
 color: granulated
 color_capital: Granulated
 color_first_letter: g
 color_first_letter_upper: G
-color_length_1: g
-color_length_2: gr
-color_length_3: gra
-color_length_4: gran
-color_length_5: granu
-color_length_6: granul
-color_name: Granulated
-color_no_space_length_1: g
-color_no_space_length_2: gr
-color_no_space_length_3: gra
-color_no_space_length_4: gran
-color_no_space_length_5: granu
-color_no_space_length_6: granul
-color_no_space_upper_length_1: G
-color_no_space_upper_length_2: GR
-color_no_space_upper_length_3: GRA
-color_no_space_upper_length_4: GRAN
-color_no_space_upper_length_5: GRANU
-color_no_space_upper_length_6: GRANUL
 color_upper: GRANULATED
-color_upper_length_1: G
-color_upper_length_2: GR
-color_upper_length_3: GRA
-color_upper_length_4: GRAN
-color_upper_length_5: GRANU
-color_upper_length_6: GRANUL
 description: sugar_granulated
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/food_baking_sugar_granulated
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_sugar_granulated
 id: food_baking_sugar_granulated
 id_no_class: baking_sugar_granulated
-id_no_color: granulated
 id_no_size: granulated
 id_no_type: sugar_granulated
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_granulated
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_baking_sugar_granulated](none)<br>[](none)<br>[Food Baking Sugar
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 3DBYA
 md5_6_upper: 5660C2
 name: Food Baking Sugar Granulated
 name_no_class: Baking Sugar Granulated
-name_no_color: Granulated
 name_no_size: Granulated
 name_no_size_short: Granulated
 name_no_type: Sugar Granulated
@@ -176,7 +73,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -184,61 +80,11 @@ size: sugar
 size_capital: Sugar
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: su
-size_length_3: sug
-size_length_4: suga
-size_length_5: sugar
-size_length_6: sugar
-size_name: Sugar
-size_no_space_length_1: s
-size_no_space_length_2: su
-size_no_space_length_3: sug
-size_no_space_length_4: suga
-size_no_space_length_5: sugar
-size_no_space_length_6: sugar
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SU
-size_no_space_upper_length_3: SUG
-size_no_space_upper_length_4: SUGA
-size_no_space_upper_length_5: SUGAR
-size_no_space_upper_length_6: SUGAR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SUGAR
-size_upper_length_1: S
-size_upper_length_2: SU
-size_upper_length_3: SUG
-size_upper_length_4: SUGA
-size_upper_length_5: SUGAR
-size_upper_length_6: SUGAR
 type: baking
 type_capital: Baking
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bak
-type_length_4: baki
-type_length_5: bakin
-type_length_6: baking
-type_name: Baking
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bak
-type_no_space_length_4: baki
-type_no_space_length_5: bakin
-type_no_space_length_6: baking
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAK
-type_no_space_upper_length_4: BAKI
-type_no_space_upper_length_5: BAKIN
-type_no_space_upper_length_6: BAKING
 type_upper: BAKING
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAK
-type_upper_length_4: BAKI
-type_upper_length_5: BAKIN
-type_upper_length_6: BAKING

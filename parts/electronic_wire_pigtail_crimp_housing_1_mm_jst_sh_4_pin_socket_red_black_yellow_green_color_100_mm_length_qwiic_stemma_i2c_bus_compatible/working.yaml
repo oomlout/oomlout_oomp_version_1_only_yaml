@@ -1,180 +1,31 @@
-bip_39_word_dash_12: world-detect-damp-guard-child-wait-mule-raise-bamboo-sock-frozen-ankle
-bip_39_word_dash_2: world-detect
-bip_39_word_dash_3: world-detect-damp
-bip_39_word_new_br_12: world<br>detect<br>damp<br>guard<br>child<br>wait<br>mule<br>raise<br>bamboo<br>sock<br>frozen<br>ankle
-bip_39_word_new_br_2: world<br>detect
-bip_39_word_new_br_3: world<br>detect<br>damp
-bip_39_word_new_line_12: 'world
-
-  detect
-
-  damp
-
-  guard
-
-  child
-
-  wait
-
-  mule
-
-  raise
-
-  bamboo
-
-  sock
-
-  frozen
-
-  ankle'
-bip_39_word_new_line_2: 'world
-
-  detect'
-bip_39_word_new_line_3: 'world
-
-  detect
-
-  damp'
-bip_39_word_no_space_12: worlddetectdampguardchildwaitmuleraisebamboosockfrozenankle
-bip_39_word_no_space_2: worlddetect
-bip_39_word_no_space_3: worlddetectdamp
-bip_39_word_space_12: world detect damp guard child wait mule raise bamboo sock frozen
-  ankle
-bip_39_word_space_2: world detect
-bip_39_word_space_3: world detect damp
-bip_39_word_underscore_12: world_detect_damp_guard_child_wait_mule_raise_bamboo_sock_frozen_ankle
-bip_39_word_underscore_2: world_detect
-bip_39_word_underscore_3: world_detect_damp
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: red_black_yellow_green_color
 color_capital: Red Black Yellow Green Color
 color_first_letter: r
 color_first_letter_upper: R
-color_length_1: r
-color_length_2: re
-color_length_3: red
-color_length_4: red_
-color_length_5: red_b
-color_length_6: red_bl
-color_name: Red Black Yellow Green Color
-color_no_space_length_1: r
-color_no_space_length_2: re
-color_no_space_length_3: red
-color_no_space_length_4: redb
-color_no_space_length_5: redbl
-color_no_space_length_6: redbla
-color_no_space_upper_length_1: R
-color_no_space_upper_length_2: RE
-color_no_space_upper_length_3: RED
-color_no_space_upper_length_4: REDB
-color_no_space_upper_length_5: REDBL
-color_no_space_upper_length_6: REDBLA
 color_upper: RED_BLACK_YELLOW_GREEN_COLOR
-color_upper_length_1: R
-color_upper_length_2: RE
-color_upper_length_3: RED
-color_upper_length_4: RED_
-color_upper_length_5: RED_B
-color_upper_length_6: RED_BL
 description_extra: qwiic_stemma_i2c_bus_compatible
 description_extra_capital: Qwiic Stemma I2C Bus Compatible
 description_extra_first_letter: q
 description_extra_first_letter_upper: Q
-description_extra_length_1: q
-description_extra_length_2: qw
-description_extra_length_3: qwi
-description_extra_length_4: qwii
-description_extra_length_5: qwiic
-description_extra_length_6: qwiic_
-description_extra_name: Qwiic Stemma I2C Bus Compatible
-description_extra_no_space_length_1: q
-description_extra_no_space_length_2: qw
-description_extra_no_space_length_3: qwi
-description_extra_no_space_length_4: qwii
-description_extra_no_space_length_5: qwiic
-description_extra_no_space_length_6: qwiics
-description_extra_no_space_upper_length_1: Q
-description_extra_no_space_upper_length_2: QW
-description_extra_no_space_upper_length_3: QWI
-description_extra_no_space_upper_length_4: QWII
-description_extra_no_space_upper_length_5: QWIIC
-description_extra_no_space_upper_length_6: QWIICS
 description_extra_upper: QWIIC_STEMMA_I2C_BUS_COMPATIBLE
-description_extra_upper_length_1: Q
-description_extra_upper_length_2: QW
-description_extra_upper_length_3: QWI
-description_extra_upper_length_4: QWII
-description_extra_upper_length_5: QWIIC
-description_extra_upper_length_6: QWIIC_
 description_main: 100_mm_length
 description_main_capital: 100 mm Length
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
-description_main_length_1: '1'
-description_main_length_2: '10'
-description_main_length_3: '100'
-description_main_length_4: '100_'
-description_main_length_5: 100_m
-description_main_length_6: 100_mm
-description_main_name: 100 mm Length
-description_main_no_space_length_1: '1'
-description_main_no_space_length_2: '10'
-description_main_no_space_length_3: '100'
-description_main_no_space_length_4: 100m
-description_main_no_space_length_5: 100mm
-description_main_no_space_length_6: 100mml
-description_main_no_space_upper_length_1: '1'
-description_main_no_space_upper_length_2: '10'
-description_main_no_space_upper_length_3: '100'
-description_main_no_space_upper_length_4: 100M
-description_main_no_space_upper_length_5: 100MM
-description_main_no_space_upper_length_6: 100MML
 description_main_upper: 100_MM_LENGTH
-description_main_upper_length_1: '1'
-description_main_upper_length_2: '10'
-description_main_upper_length_3: '100'
-description_main_upper_length_4: '100_'
-description_main_upper_length_5: 100_M
-description_main_upper_length_6: 100_MM
 description_only_numbers: '100'
 description_only_numbers_short: '100'
 description_or_color: R100
 description_or_color_upper: R100
 directory: parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
 id: electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
 id_no_class: wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
-id_no_color: 100_mm_length_qwiic_stemma_i2c_bus_compatible
 id_no_size: red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
 id_no_type: crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
@@ -184,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible](none)<br>[](none)<br>[Electronic
@@ -200,16 +50,15 @@ md5_6: 92bb73
 md5_6_alpha: 5q3xv
 md5_6_alpha_upper: 5Q3XV
 md5_6_upper: 92BB73
-name: Electronic Wire Pigtail Crimp Housing 1 mm Jst Sh 4 Pin Socket Red Black Yellow
-  Green Color 100 mm Length Qwiic Stemma I2C Bus Compatible
-name_no_class: Wire Pigtail Crimp Housing 1 mm Jst Sh 4 Pin Socket Red Black Yellow
-  Green Color 100 mm Length Qwiic Stemma I2C Bus Compatible
-name_no_color: 100 mm Length Qwiic Stemma I2C Bus Compatible
-name_no_size: Red Black Yellow Green Color 100 mm Length Qwiic Stemma I2C Bus Compatible
+name: Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow
+  Green Color 100 Mm Length Qwiic Stemma I2C Bus Compatible
+name_no_class: Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow
+  Green Color 100 Mm Length Qwiic Stemma I2C Bus Compatible
+name_no_size: Red Black Yellow Green Color 100 Mm Length Qwiic Stemma I2C Bus Compatible
 name_no_size_short: Red Black Yellow Green Color 100 Mm Length Qwiic Stemma I2C Bus
   Compatible
-name_no_type: Crimp Housing 1 mm Jst Sh 4 Pin Socket Red Black Yellow Green Color
-  100 mm Length Qwiic Stemma I2C Bus Compatible
+name_no_type: Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow Green Color
+  100 Mm Length Qwiic Stemma I2C Bus Compatible
 oomp_key: oomp_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
 oomp_word: paperclip curry flags
 oomp_word_emoji: ':paperclip: :curry: :flags:'
@@ -226,7 +75,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -235,61 +83,11 @@ size: crimp_housing_1_mm_jst_sh_4_pin_socket
 size_capital: Crimp Housing 1 mm Jst Sh 4 Pin Socket
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: cr
-size_length_3: cri
-size_length_4: crim
-size_length_5: crimp
-size_length_6: crimp_
-size_name: Crimp Housing 1 mm Jst Sh 4 Pin Socket
-size_no_space_length_1: c
-size_no_space_length_2: cr
-size_no_space_length_3: cri
-size_no_space_length_4: crim
-size_no_space_length_5: crimp
-size_no_space_length_6: crimph
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CR
-size_no_space_upper_length_3: CRI
-size_no_space_upper_length_4: CRIM
-size_no_space_upper_length_5: CRIMP
-size_no_space_upper_length_6: CRIMPH
 size_only_numbers: '14'
 size_only_numbers_no_zeros: '14'
 size_upper: CRIMP_HOUSING_1_MM_JST_SH_4_PIN_SOCKET
-size_upper_length_1: C
-size_upper_length_2: CR
-size_upper_length_3: CRI
-size_upper_length_4: CRIM
-size_upper_length_5: CRIMP
-size_upper_length_6: CRIMP_
 type: wire_pigtail
 type_capital: Wire Pigtail
 type_first_letter: w
 type_first_letter_upper: W
-type_length_1: w
-type_length_2: wi
-type_length_3: wir
-type_length_4: wire
-type_length_5: wire_
-type_length_6: wire_p
-type_name: Wire Pigtail
-type_no_space_length_1: w
-type_no_space_length_2: wi
-type_no_space_length_3: wir
-type_no_space_length_4: wire
-type_no_space_length_5: wirep
-type_no_space_length_6: wirepi
-type_no_space_upper_length_1: W
-type_no_space_upper_length_2: WI
-type_no_space_upper_length_3: WIR
-type_no_space_upper_length_4: WIRE
-type_no_space_upper_length_5: WIREP
-type_no_space_upper_length_6: WIREPI
 type_upper: WIRE_PIGTAIL
-type_upper_length_1: W
-type_upper_length_2: WI
-type_upper_length_3: WIR
-type_upper_length_4: WIRE
-type_upper_length_5: WIRE_
-type_upper_length_6: WIRE_P

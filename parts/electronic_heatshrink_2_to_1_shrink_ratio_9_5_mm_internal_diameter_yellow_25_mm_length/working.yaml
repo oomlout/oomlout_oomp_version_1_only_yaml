@@ -1,156 +1,31 @@
-bip_39_word_dash_12: coach-art-update-echo-dance-half-shoot-shrimp-half-term-glove-actress
-bip_39_word_dash_2: coach-art
-bip_39_word_dash_3: coach-art-update
-bip_39_word_new_br_12: coach<br>art<br>update<br>echo<br>dance<br>half<br>shoot<br>shrimp<br>half<br>term<br>glove<br>actress
-bip_39_word_new_br_2: coach<br>art
-bip_39_word_new_br_3: coach<br>art<br>update
-bip_39_word_new_line_12: 'coach
-
-  art
-
-  update
-
-  echo
-
-  dance
-
-  half
-
-  shoot
-
-  shrimp
-
-  half
-
-  term
-
-  glove
-
-  actress'
-bip_39_word_new_line_2: 'coach
-
-  art'
-bip_39_word_new_line_3: 'coach
-
-  art
-
-  update'
-bip_39_word_no_space_12: coachartupdateechodancehalfshootshrimphalftermgloveactress
-bip_39_word_no_space_2: coachart
-bip_39_word_no_space_3: coachartupdate
-bip_39_word_space_12: coach art update echo dance half shoot shrimp half term glove
-  actress
-bip_39_word_space_2: coach art
-bip_39_word_space_3: coach art update
-bip_39_word_underscore_12: coach_art_update_echo_dance_half_shoot_shrimp_half_term_glove_actress
-bip_39_word_underscore_2: coach_art
-bip_39_word_underscore_3: coach_art_update
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
-classification_length_1: e
-classification_length_2: el
-classification_length_3: ele
-classification_length_4: elec
-classification_length_5: elect
-classification_length_6: electr
-classification_name: Electronic
-classification_no_space_length_1: e
-classification_no_space_length_2: el
-classification_no_space_length_3: ele
-classification_no_space_length_4: elec
-classification_no_space_length_5: elect
-classification_no_space_length_6: electr
-classification_no_space_upper_length_1: E
-classification_no_space_upper_length_2: EL
-classification_no_space_upper_length_3: ELE
-classification_no_space_upper_length_4: ELEC
-classification_no_space_upper_length_5: ELECT
-classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
-classification_upper_length_1: E
-classification_upper_length_2: EL
-classification_upper_length_3: ELE
-classification_upper_length_4: ELEC
-classification_upper_length_5: ELECT
-classification_upper_length_6: ELECTR
 color: yellow
 color_capital: Yellow
 color_first_letter: y
 color_first_letter_upper: Y
-color_length_1: y
-color_length_2: ye
-color_length_3: yel
-color_length_4: yell
-color_length_5: yello
-color_length_6: yellow
-color_name: Yellow
-color_no_space_length_1: y
-color_no_space_length_2: ye
-color_no_space_length_3: yel
-color_no_space_length_4: yell
-color_no_space_length_5: yello
-color_no_space_length_6: yellow
-color_no_space_upper_length_1: Y
-color_no_space_upper_length_2: YE
-color_no_space_upper_length_3: YEL
-color_no_space_upper_length_4: YELL
-color_no_space_upper_length_5: YELLO
-color_no_space_upper_length_6: YELLOW
 color_upper: YELLOW
-color_upper_length_1: Y
-color_upper_length_2: YE
-color_upper_length_3: YEL
-color_upper_length_4: YELL
-color_upper_length_5: YELLO
-color_upper_length_6: YELLOW
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: 25_mm_length
 description_main_capital: 25 mm Length
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
-description_main_length_1: '2'
-description_main_length_2: '25'
-description_main_length_3: '25_'
-description_main_length_4: 25_m
-description_main_length_5: 25_mm
-description_main_length_6: 25_mm_
-description_main_name: 25 mm Length
-description_main_no_space_length_1: '2'
-description_main_no_space_length_2: '25'
-description_main_no_space_length_3: 25m
-description_main_no_space_length_4: 25mm
-description_main_no_space_length_5: 25mml
-description_main_no_space_length_6: 25mmle
-description_main_no_space_upper_length_1: '2'
-description_main_no_space_upper_length_2: '25'
-description_main_no_space_upper_length_3: 25M
-description_main_no_space_upper_length_4: 25MM
-description_main_no_space_upper_length_5: 25MML
-description_main_no_space_upper_length_6: 25MMLE
 description_main_upper: 25_MM_LENGTH
-description_main_upper_length_1: '2'
-description_main_upper_length_2: '25'
-description_main_upper_length_3: '25_'
-description_main_upper_length_4: 25_M
-description_main_upper_length_5: 25_MM
-description_main_upper_length_6: 25_MM_
 description_only_numbers: '25'
 description_only_numbers_short: '25'
 description_or_color: Y25
 description_or_color_upper: Y25
 directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_25_mm_length
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_25_mm_length
 id: electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_25_mm_length
 id_no_class: heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_25_mm_length
-id_no_color: 25_mm_length
 id_no_size: yellow_25_mm_length
 id_no_type: 9_5_mm_internal_diameter_yellow_25_mm_length
 kicad_reference: ''
@@ -161,7 +36,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_25_mm_length](none)<br>[y25](none)<br>[Electronic
@@ -176,14 +50,13 @@ md5_6: 2cc777
 md5_6_alpha: 1qwdz
 md5_6_alpha_upper: 1QWDZ
 md5_6_upper: 2CC777
-name: Electronic Heatshrink 2 To 1 Shrink Ratio 9 5 mm Internal Diameter Yellow 25
-  mm Length
-name_no_class: Heatshrink 2 To 1 Shrink Ratio 9 5 mm Internal Diameter Yellow 25 mm
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 9 5 Mm Internal Diameter Yellow 25
+  Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 9 5 Mm Internal Diameter Yellow 25 Mm
   Length
-name_no_color: 25 mm Length
-name_no_size: Yellow 25 mm Length
+name_no_size: Yellow 25 Mm Length
 name_no_size_short: Yellow 25 Mm Length
-name_no_type: 9 5 mm Internal Diameter Yellow 25 mm Length
+name_no_type: 9 5 Mm Internal Diameter Yellow 25 Mm Length
 oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_yellow_25_mm_length
 oomp_word: snowflake honey_pot gift
 oomp_word_emoji: ':snowflake: :honey_pot: :gift:'
@@ -199,7 +72,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: y25
 short_code_upper: Y25
@@ -207,61 +79,11 @@ size: 9_5_mm_internal_diameter
 size_capital: 9.5 mm Internal Diameter
 size_first_letter: '9'
 size_first_letter_upper: '9'
-size_length_1: '9'
-size_length_2: '9_'
-size_length_3: '9_5'
-size_length_4: '9_5_'
-size_length_5: 9_5_m
-size_length_6: 9_5_mm
-size_name: 9 5 mm Internal Diameter
-size_no_space_length_1: '9'
-size_no_space_length_2: '95'
-size_no_space_length_3: 95m
-size_no_space_length_4: 95mm
-size_no_space_length_5: 95mmi
-size_no_space_length_6: 95mmin
-size_no_space_upper_length_1: '9'
-size_no_space_upper_length_2: '95'
-size_no_space_upper_length_3: 95M
-size_no_space_upper_length_4: 95MM
-size_no_space_upper_length_5: 95MMI
-size_no_space_upper_length_6: 95MMIN
 size_only_numbers: '95'
 size_only_numbers_no_zeros: '95'
 size_upper: 9_5_MM_INTERNAL_DIAMETER
-size_upper_length_1: '9'
-size_upper_length_2: '9_'
-size_upper_length_3: '9_5'
-size_upper_length_4: '9_5_'
-size_upper_length_5: 9_5_M
-size_upper_length_6: 9_5_MM
 type: heatshrink_2_to_1_shrink_ratio
 type_capital: Heatshrink 2 To 1 Shrink Ratio
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: he
-type_length_3: hea
-type_length_4: heat
-type_length_5: heats
-type_length_6: heatsh
-type_name: Heatshrink 2 To 1 Shrink Ratio
-type_no_space_length_1: h
-type_no_space_length_2: he
-type_no_space_length_3: hea
-type_no_space_length_4: heat
-type_no_space_length_5: heats
-type_no_space_length_6: heatsh
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HE
-type_no_space_upper_length_3: HEA
-type_no_space_upper_length_4: HEAT
-type_no_space_upper_length_5: HEATS
-type_no_space_upper_length_6: HEATSH
 type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO
-type_upper_length_1: H
-type_upper_length_2: HE
-type_upper_length_3: HEA
-type_upper_length_4: HEAT
-type_upper_length_5: HEATS
-type_upper_length_6: HEATSH

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: crash-auction-simple-proof-blossom-swim-fence-age-rookie-afford-length-all
-bip_39_word_dash_2: crash-auction
-bip_39_word_dash_3: crash-auction-simple
-bip_39_word_new_br_12: crash<br>auction<br>simple<br>proof<br>blossom<br>swim<br>fence<br>age<br>rookie<br>afford<br>length<br>all
-bip_39_word_new_br_2: crash<br>auction
-bip_39_word_new_br_3: crash<br>auction<br>simple
-bip_39_word_new_line_12: 'crash
-
-  auction
-
-  simple
-
-  proof
-
-  blossom
-
-  swim
-
-  fence
-
-  age
-
-  rookie
-
-  afford
-
-  length
-
-  all'
-bip_39_word_new_line_2: 'crash
-
-  auction'
-bip_39_word_new_line_3: 'crash
-
-  auction
-
-  simple'
-bip_39_word_no_space_12: crashauctionsimpleproofblossomswimfenceagerookieaffordlengthall
-bip_39_word_no_space_2: crashauction
-bip_39_word_no_space_3: crashauctionsimple
-bip_39_word_space_12: crash auction simple proof blossom swim fence age rookie afford
-  length all
-bip_39_word_space_2: crash auction
-bip_39_word_space_3: crash auction simple
-bip_39_word_underscore_12: crash_auction_simple_proof_blossom_swim_fence_age_rookie_afford_length_all
-bip_39_word_underscore_2: crash_auction
-bip_39_word_underscore_3: crash_auction_simple
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pap
-classification_length_4: pape
-classification_length_5: paper
-classification_length_6: paper
-classification_name: Paper
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pap
-classification_no_space_length_4: pape
-classification_no_space_length_5: paper
-classification_no_space_length_6: paper
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAP
-classification_no_space_upper_length_4: PAPE
-classification_no_space_upper_length_5: PAPER
-classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAP
-classification_upper_length_4: PAPE
-classification_upper_length_5: PAPER
-classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: blue_light_color
 description_extra_capital: Blue Light Color
 description_extra_first_letter: b
 description_extra_first_letter_upper: B
-description_extra_length_1: b
-description_extra_length_2: bl
-description_extra_length_3: blu
-description_extra_length_4: blue
-description_extra_length_5: blue_
-description_extra_length_6: blue_l
-description_extra_name: Blue Light Color
-description_extra_no_space_length_1: b
-description_extra_no_space_length_2: bl
-description_extra_no_space_length_3: blu
-description_extra_no_space_length_4: blue
-description_extra_no_space_length_5: bluel
-description_extra_no_space_length_6: blueli
-description_extra_no_space_upper_length_1: B
-description_extra_no_space_upper_length_2: BL
-description_extra_no_space_upper_length_3: BLU
-description_extra_no_space_upper_length_4: BLUE
-description_extra_no_space_upper_length_5: BLUEL
-description_extra_no_space_upper_length_6: BLUELI
 description_extra_upper: BLUE_LIGHT_COLOR
-description_extra_upper_length_1: B
-description_extra_upper_length_2: BL
-description_extra_upper_length_3: BLU
-description_extra_upper_length_4: BLUE
-description_extra_upper_length_5: BLUE_
-description_extra_upper_length_6: BLUE_L
 description_main: 90_grams_per_meter_square
 description_main_capital: 90 Grams Per Meter Square
 description_main_first_letter: '9'
 description_main_first_letter_upper: '9'
-description_main_length_1: '9'
-description_main_length_2: '90'
-description_main_length_3: '90_'
-description_main_length_4: 90_g
-description_main_length_5: 90_gr
-description_main_length_6: 90_gra
-description_main_name: 90 Grams Per Meter Square
-description_main_no_space_length_1: '9'
-description_main_no_space_length_2: '90'
-description_main_no_space_length_3: 90g
-description_main_no_space_length_4: 90gr
-description_main_no_space_length_5: 90gra
-description_main_no_space_length_6: 90gram
-description_main_no_space_upper_length_1: '9'
-description_main_no_space_upper_length_2: '90'
-description_main_no_space_upper_length_3: 90G
-description_main_no_space_upper_length_4: 90GR
-description_main_no_space_upper_length_5: 90GRA
-description_main_no_space_upper_length_6: 90GRAM
 description_main_upper: 90_GRAMS_PER_METER_SQUARE
-description_main_upper_length_1: '9'
-description_main_upper_length_2: '90'
-description_main_upper_length_3: '90_'
-description_main_upper_length_4: 90_G
-description_main_upper_length_5: 90_GR
-description_main_upper_length_6: 90_GRA
 description_only_numbers: '90'
 description_only_numbers_short: '90'
 description_or_color: '90'
@@ -149,11 +26,9 @@ directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_sq
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
 height: 420 mm
 id: paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
 id_no_class: sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
-id_no_color: 90gramspermetersquarebluelightcolor
 id_no_size: 90_grams_per_meter_square_blue_light_color
 id_no_type: a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color](none)<br>[](none)<br>[Paper
@@ -178,14 +52,13 @@ md5_6: '670001'
 md5_6_alpha: 40oht
 md5_6_alpha_upper: 40OHT
 md5_6_upper: '670001'
-name: Paper Sheet A3 297 mm Width 420 mm Height 90 Grams Per Meter Square Blue Light
+name: Paper Sheet A3 297 Mm Width 420 Mm Height 90 Grams Per Meter Square Blue Light
   Color
-name_no_class: Sheet A3 297 mm Width 420 mm Height 90 Grams Per Meter Square Blue
+name_no_class: Sheet A3 297 Mm Width 420 Mm Height 90 Grams Per Meter Square Blue
   Light Color
-name_no_color: 90Gramspermetersquarebluelightcolor
 name_no_size: 90 Grams Per Meter Square Blue Light Color
 name_no_size_short: 90 Grams Per Meter Square Blue Light Color
-name_no_type: A3 297 mm Width 420 mm Height 90 Grams Per Meter Square Blue Light Color
+name_no_type: A3 297 Mm Width 420 Mm Height 90 Grams Per Meter Square Blue Light Color
 oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_90_grams_per_meter_square_blue_light_color
 oomp_word: herb bowtie smile
 oomp_word_emoji: ':herb: :bowtie: :smile:'
@@ -201,7 +74,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,62 +81,12 @@ size: a3_297_mm_width_420_mm_height
 size_capital: A3.297 mm Width 420 mm Height
 size_first_letter: a
 size_first_letter_upper: A
-size_length_1: a
-size_length_2: a3
-size_length_3: a3_
-size_length_4: a3_2
-size_length_5: a3_29
-size_length_6: a3_297
-size_name: A3 297 mm Width 420 mm Height
-size_no_space_length_1: a
-size_no_space_length_2: a3
-size_no_space_length_3: a32
-size_no_space_length_4: a329
-size_no_space_length_5: a3297
-size_no_space_length_6: a3297m
-size_no_space_upper_length_1: A
-size_no_space_upper_length_2: A3
-size_no_space_upper_length_3: A32
-size_no_space_upper_length_4: A329
-size_no_space_upper_length_5: A3297
-size_no_space_upper_length_6: A3297M
 size_only_numbers: '3297420'
 size_only_numbers_no_zeros: '329742'
 size_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
-size_upper_length_1: A
-size_upper_length_2: A3
-size_upper_length_3: A3_
-size_upper_length_4: A3_2
-size_upper_length_5: A3_29
-size_upper_length_6: A3_297
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: sh
-type_length_3: she
-type_length_4: shee
-type_length_5: sheet
-type_length_6: sheet
-type_name: Sheet
-type_no_space_length_1: s
-type_no_space_length_2: sh
-type_no_space_length_3: she
-type_no_space_length_4: shee
-type_no_space_length_5: sheet
-type_no_space_length_6: sheet
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: SH
-type_no_space_upper_length_3: SHE
-type_no_space_upper_length_4: SHEE
-type_no_space_upper_length_5: SHEET
-type_no_space_upper_length_6: SHEET
 type_upper: SHEET
-type_upper_length_1: S
-type_upper_length_2: SH
-type_upper_length_3: SHE
-type_upper_length_4: SHEE
-type_upper_length_5: SHEET
-type_upper_length_6: SHEET
 width: 297 mm

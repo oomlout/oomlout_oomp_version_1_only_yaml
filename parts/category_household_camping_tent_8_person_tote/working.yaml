@@ -1,146 +1,23 @@
-bip_39_word_dash_12: lab-bleak-increase-hover-liquid-toss-scene-among-shoot-pattern-tell-apart
-bip_39_word_dash_2: lab-bleak
-bip_39_word_dash_3: lab-bleak-increase
-bip_39_word_new_br_12: lab<br>bleak<br>increase<br>hover<br>liquid<br>toss<br>scene<br>among<br>shoot<br>pattern<br>tell<br>apart
-bip_39_word_new_br_2: lab<br>bleak
-bip_39_word_new_br_3: lab<br>bleak<br>increase
-bip_39_word_new_line_12: 'lab
-
-  bleak
-
-  increase
-
-  hover
-
-  liquid
-
-  toss
-
-  scene
-
-  among
-
-  shoot
-
-  pattern
-
-  tell
-
-  apart'
-bip_39_word_new_line_2: 'lab
-
-  bleak'
-bip_39_word_new_line_3: 'lab
-
-  bleak
-
-  increase'
-bip_39_word_no_space_12: labbleakincreasehoverliquidtosssceneamongshootpatterntellapart
-bip_39_word_no_space_2: labbleak
-bip_39_word_no_space_3: labbleakincrease
-bip_39_word_space_12: lab bleak increase hover liquid toss scene among shoot pattern
-  tell apart
-bip_39_word_space_2: lab bleak
-bip_39_word_space_3: lab bleak increase
-bip_39_word_underscore_12: lab_bleak_increase_hover_liquid_toss_scene_among_shoot_pattern_tell_apart
-bip_39_word_underscore_2: lab_bleak
-bip_39_word_underscore_3: lab_bleak_increase
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 8_person
 color_capital: 8 Person
 color_first_letter: '8'
 color_first_letter_upper: '8'
-color_length_1: '8'
-color_length_2: '8_'
-color_length_3: 8_p
-color_length_4: 8_pe
-color_length_5: 8_per
-color_length_6: 8_pers
-color_name: 8 Person
-color_no_space_length_1: '8'
-color_no_space_length_2: 8p
-color_no_space_length_3: 8pe
-color_no_space_length_4: 8per
-color_no_space_length_5: 8pers
-color_no_space_length_6: 8perso
-color_no_space_upper_length_1: '8'
-color_no_space_upper_length_2: 8P
-color_no_space_upper_length_3: 8PE
-color_no_space_upper_length_4: 8PER
-color_no_space_upper_length_5: 8PERS
-color_no_space_upper_length_6: 8PERSO
 color_upper: 8_PERSON
-color_upper_length_1: '8'
-color_upper_length_2: '8_'
-color_upper_length_3: 8_P
-color_upper_length_4: 8_PE
-color_upper_length_5: 8_PER
-color_upper_length_6: 8_PERS
 description: category_household_camping
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,10 +27,8 @@ directory: parts/category_household_camping_tent_8_person_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_camping_tent_8_person_tote
 id: category_household_camping_tent_8_person_tote
 id_no_class: household_camping_tent_8_person_tote
-id_no_color: tote
 id_no_size: 8_person_tote
 id_no_type: tent_8_person_tote
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tent_8_person_tote
@@ -163,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_household_camping_tent_8_person_tote](none)<br>[](none)<br>[Category
@@ -180,7 +54,6 @@ md5_6_alpha_upper: 6GT60
 md5_6_upper: A5BDA8
 name: Category Household Camping Tent 8 Person Tote
 name_no_class: Household Camping Tent 8 Person Tote
-name_no_color: Tote
 name_no_size: 8 Person Tote
 name_no_size_short: 8 Person Tote
 name_no_type: Tent 8 Person Tote
@@ -200,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -209,61 +81,11 @@ size: tent
 size_capital: Tent
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: te
-size_length_3: ten
-size_length_4: tent
-size_length_5: tent
-size_length_6: tent
-size_name: Tent
-size_no_space_length_1: t
-size_no_space_length_2: te
-size_no_space_length_3: ten
-size_no_space_length_4: tent
-size_no_space_length_5: tent
-size_no_space_length_6: tent
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TE
-size_no_space_upper_length_3: TEN
-size_no_space_upper_length_4: TENT
-size_no_space_upper_length_5: TENT
-size_no_space_upper_length_6: TENT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TENT
-size_upper_length_1: T
-size_upper_length_2: TE
-size_upper_length_3: TEN
-size_upper_length_4: TENT
-size_upper_length_5: TENT
-size_upper_length_6: TENT
 type: household_camping
 type_capital: Household Camping
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ho
-type_length_3: hou
-type_length_4: hous
-type_length_5: house
-type_length_6: househ
-type_name: Household Camping
-type_no_space_length_1: h
-type_no_space_length_2: ho
-type_no_space_length_3: hou
-type_no_space_length_4: hous
-type_no_space_length_5: house
-type_no_space_length_6: househ
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HO
-type_no_space_upper_length_3: HOU
-type_no_space_upper_length_4: HOUS
-type_no_space_upper_length_5: HOUSE
-type_no_space_upper_length_6: HOUSEH
 type_upper: HOUSEHOLD_CAMPING
-type_upper_length_1: H
-type_upper_length_2: HO
-type_upper_length_3: HOU
-type_upper_length_4: HOUS
-type_upper_length_5: HOUSE
-type_upper_length_6: HOUSEH

@@ -1,97 +1,22 @@
-bip_39_word_dash_12: decline-way-pink-flip-ramp-blue-fame-purse-feel-three-elbow-ancient
-bip_39_word_dash_2: decline-way
-bip_39_word_dash_3: decline-way-pink
-bip_39_word_new_br_12: decline<br>way<br>pink<br>flip<br>ramp<br>blue<br>fame<br>purse<br>feel<br>three<br>elbow<br>ancient
-bip_39_word_new_br_2: decline<br>way
-bip_39_word_new_br_3: decline<br>way<br>pink
-bip_39_word_new_line_12: 'decline
-
-  way
-
-  pink
-
-  flip
-
-  ramp
-
-  blue
-
-  fame
-
-  purse
-
-  feel
-
-  three
-
-  elbow
-
-  ancient'
-bip_39_word_new_line_2: 'decline
-
-  way'
-bip_39_word_new_line_3: 'decline
-
-  way
-
-  pink'
-bip_39_word_no_space_12: declinewaypinkfliprampbluefamepursefeelthreeelbowancient
-bip_39_word_no_space_2: declineway
-bip_39_word_no_space_3: declinewaypink
-bip_39_word_space_12: decline way pink flip ramp blue fame purse feel three elbow
-  ancient
-bip_39_word_space_2: decline way
-bip_39_word_space_3: decline way pink
-bip_39_word_underscore_12: decline_way_pink_flip_ramp_blue_fame_purse_feel_three_elbow_ancient
-bip_39_word_underscore_2: decline_way
-bip_39_word_underscore_3: decline_way_pink
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
-classification_length_1: h
-classification_length_2: ha
-classification_length_3: har
-classification_length_4: hard
-classification_length_5: hardw
-classification_length_6: hardwa
-classification_name: Hardware
-classification_no_space_length_1: h
-classification_no_space_length_2: ha
-classification_no_space_length_3: har
-classification_no_space_length_4: hard
-classification_no_space_length_5: hardw
-classification_no_space_length_6: hardwa
-classification_no_space_upper_length_1: H
-classification_no_space_upper_length_2: HA
-classification_no_space_upper_length_3: HAR
-classification_no_space_upper_length_4: HARD
-classification_no_space_upper_length_5: HARDW
-classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
-classification_upper_length_1: H
-classification_upper_length_2: HA
-classification_upper_length_3: HAR
-classification_upper_length_4: HARD
-classification_upper_length_5: HARDW
-classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -99,10 +24,8 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_ball_bearing_2_mm
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ball_bearing_2_mm
 id: hardware_ball_bearing_2_mm
 id_no_class: ball_bearing_2_mm
-id_no_color: 2mm
 id_no_size: 2_mm
 id_no_type: 2_mm
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_2_mm
@@ -112,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_ball_bearing_2_mm](none)<br>[2](none)<br>[Hardware Ball
@@ -127,12 +49,11 @@ md5_6: 888e78
 md5_6_alpha: 5btdk
 md5_6_alpha_upper: 5BTDK
 md5_6_upper: 888E78
-name: Hardware Ball Bearing 2 mm
-name_no_class: Ball Bearing 2 mm
-name_no_color: 2mm
-name_no_size: 2 mm
+name: Hardware Ball Bearing 2 Mm
+name_no_class: Ball Bearing 2 Mm
+name_no_size: 2 Mm
 name_no_size_short: 2 Mm
-name_no_type: 2 mm
+name_no_type: 2 Mm
 oomp_key: oomp_hardware_ball_bearing_2_mm
 oomp_word: wrench clipboard bell
 oomp_word_emoji: ':wrench: :clipboard: :bell:'
@@ -148,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: '2'
 short_code_upper: '2'
@@ -156,61 +76,11 @@ size: 2_mm
 size_capital: 2 mm
 size_first_letter: '2'
 size_first_letter_upper: '2'
-size_length_1: '2'
-size_length_2: '2_'
-size_length_3: 2_m
-size_length_4: 2_mm
-size_length_5: 2_mm
-size_length_6: 2_mm
-size_name: 2 mm
-size_no_space_length_1: '2'
-size_no_space_length_2: 2m
-size_no_space_length_3: 2mm
-size_no_space_length_4: 2mm
-size_no_space_length_5: 2mm
-size_no_space_length_6: 2mm
-size_no_space_upper_length_1: '2'
-size_no_space_upper_length_2: 2M
-size_no_space_upper_length_3: 2MM
-size_no_space_upper_length_4: 2MM
-size_no_space_upper_length_5: 2MM
-size_no_space_upper_length_6: 2MM
 size_only_numbers: '2'
 size_only_numbers_no_zeros: '2'
 size_upper: 2_MM
-size_upper_length_1: '2'
-size_upper_length_2: '2_'
-size_upper_length_3: 2_M
-size_upper_length_4: 2_MM
-size_upper_length_5: 2_MM
-size_upper_length_6: 2_MM
 type: ball_bearing
 type_capital: Ball Bearing
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: ba
-type_length_3: bal
-type_length_4: ball
-type_length_5: ball_
-type_length_6: ball_b
-type_name: Ball Bearing
-type_no_space_length_1: b
-type_no_space_length_2: ba
-type_no_space_length_3: bal
-type_no_space_length_4: ball
-type_no_space_length_5: ballb
-type_no_space_length_6: ballbe
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BA
-type_no_space_upper_length_3: BAL
-type_no_space_upper_length_4: BALL
-type_no_space_upper_length_5: BALLB
-type_no_space_upper_length_6: BALLBE
 type_upper: BALL_BEARING
-type_upper_length_1: B
-type_upper_length_2: BA
-type_upper_length_3: BAL
-type_upper_length_4: BALL
-type_upper_length_5: BALL_
-type_upper_length_6: BALL_B

@@ -1,98 +1,23 @@
-bip_39_word_dash_12: silly-topic-grief-gospel-hammer-quantum-erode-submit-grass-envelope-carpet-anchor
-bip_39_word_dash_2: silly-topic
-bip_39_word_dash_3: silly-topic-grief
-bip_39_word_new_br_12: silly<br>topic<br>grief<br>gospel<br>hammer<br>quantum<br>erode<br>submit<br>grass<br>envelope<br>carpet<br>anchor
-bip_39_word_new_br_2: silly<br>topic
-bip_39_word_new_br_3: silly<br>topic<br>grief
-bip_39_word_new_line_12: 'silly
-
-  topic
-
-  grief
-
-  gospel
-
-  hammer
-
-  quantum
-
-  erode
-
-  submit
-
-  grass
-
-  envelope
-
-  carpet
-
-  anchor'
-bip_39_word_new_line_2: 'silly
-
-  topic'
-bip_39_word_new_line_3: 'silly
-
-  topic
-
-  grief'
-bip_39_word_no_space_12: sillytopicgriefgospelhammerquantumerodesubmitgrassenvelopecarpetanchor
-bip_39_word_no_space_2: sillytopic
-bip_39_word_no_space_3: sillytopicgrief
-bip_39_word_space_12: silly topic grief gospel hammer quantum erode submit grass envelope
-  carpet anchor
-bip_39_word_space_2: silly topic
-bip_39_word_space_3: silly topic grief
-bip_39_word_underscore_12: silly_topic_grief_gospel_hammer_quantum_erode_submit_grass_envelope_carpet_anchor
-bip_39_word_underscore_2: silly_topic
-bip_39_word_underscore_3: silly_topic_grief
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,10 +27,8 @@ directory: parts/category_electronic_diode
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_diode
 id: category_electronic_diode
 id_no_class: electronic_diode
-id_no_color: diode
 id_no_size: diode
 id_no_type: diode
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode
@@ -115,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_diode](none)<br>[](none)<br>[Category Electronic
@@ -132,7 +54,6 @@ md5_6_alpha_upper: 58LUA
 md5_6_upper: '864592'
 name: Category Electronic Diode
 name_no_class: Electronic Diode
-name_no_color: Diode
 name_no_size: Diode
 name_no_size_short: Diode
 name_no_type: Diode
@@ -152,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -161,61 +81,11 @@ size: diode
 size_capital: Diode
 size_first_letter: d
 size_first_letter_upper: D
-size_length_1: d
-size_length_2: di
-size_length_3: dio
-size_length_4: diod
-size_length_5: diode
-size_length_6: diode
-size_name: Diode
-size_no_space_length_1: d
-size_no_space_length_2: di
-size_no_space_length_3: dio
-size_no_space_length_4: diod
-size_no_space_length_5: diode
-size_no_space_length_6: diode
-size_no_space_upper_length_1: D
-size_no_space_upper_length_2: DI
-size_no_space_upper_length_3: DIO
-size_no_space_upper_length_4: DIOD
-size_no_space_upper_length_5: DIODE
-size_no_space_upper_length_6: DIODE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: DIODE
-size_upper_length_1: D
-size_upper_length_2: DI
-size_upper_length_3: DIO
-size_upper_length_4: DIOD
-size_upper_length_5: DIODE
-size_upper_length_6: DIODE
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

@@ -1,122 +1,23 @@
-bip_39_word_dash_12: dizzy-detect-boy-another-speed-base-grant-fresh-depart-indoor-orphan-achieve
-bip_39_word_dash_2: dizzy-detect
-bip_39_word_dash_3: dizzy-detect-boy
-bip_39_word_new_br_12: dizzy<br>detect<br>boy<br>another<br>speed<br>base<br>grant<br>fresh<br>depart<br>indoor<br>orphan<br>achieve
-bip_39_word_new_br_2: dizzy<br>detect
-bip_39_word_new_br_3: dizzy<br>detect<br>boy
-bip_39_word_new_line_12: 'dizzy
-
-  detect
-
-  boy
-
-  another
-
-  speed
-
-  base
-
-  grant
-
-  fresh
-
-  depart
-
-  indoor
-
-  orphan
-
-  achieve'
-bip_39_word_new_line_2: 'dizzy
-
-  detect'
-bip_39_word_new_line_3: 'dizzy
-
-  detect
-
-  boy'
-bip_39_word_no_space_12: dizzydetectboyanotherspeedbasegrantfreshdepartindoororphanachieve
-bip_39_word_no_space_2: dizzydetect
-bip_39_word_no_space_3: dizzydetectboy
-bip_39_word_space_12: dizzy detect boy another speed base grant fresh depart indoor
-  orphan achieve
-bip_39_word_space_2: dizzy detect
-bip_39_word_space_3: dizzy detect boy
-bip_39_word_underscore_12: dizzy_detect_boy_another_speed_base_grant_fresh_depart_indoor_orphan_achieve
-bip_39_word_underscore_2: dizzy_detect
-bip_39_word_underscore_3: dizzy_detect_boy
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: swimwear
 color_capital: Swimwear
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: sw
-color_length_3: swi
-color_length_4: swim
-color_length_5: swimw
-color_length_6: swimwe
-color_name: Swimwear
-color_no_space_length_1: s
-color_no_space_length_2: sw
-color_no_space_length_3: swi
-color_no_space_length_4: swim
-color_no_space_length_5: swimw
-color_no_space_length_6: swimwe
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: SW
-color_no_space_upper_length_3: SWI
-color_no_space_upper_length_4: SWIM
-color_no_space_upper_length_5: SWIMW
-color_no_space_upper_length_6: SWIMWE
 color_upper: SWIMWEAR
-color_upper_length_1: S
-color_upper_length_2: SW
-color_upper_length_3: SWI
-color_upper_length_4: SWIM
-color_upper_length_5: SWIMW
-color_upper_length_6: SWIMWE
 description: category_clothes
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,10 +27,8 @@ directory: parts/category_clothes_item_swimwear
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_clothes_item_swimwear
 id: category_clothes_item_swimwear
 id_no_class: clothes_item_swimwear
-id_no_color: swimwear
 id_no_size: swimwear
 id_no_type: item_swimwear
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_swimwear
@@ -139,7 +38,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_clothes_item_swimwear](none)<br>[](none)<br>[Category Clothes
@@ -156,7 +54,6 @@ md5_6_alpha_upper: 151UK
 md5_6_upper: 1D399C
 name: Category Clothes Item Swimwear
 name_no_class: Clothes Item Swimwear
-name_no_color: Swimwear
 name_no_size: Swimwear
 name_no_size_short: Swimwear
 name_no_type: Item Swimwear
@@ -176,7 +73,6 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: ''
 short_code_upper: ''
@@ -185,61 +81,11 @@ size: item
 size_capital: Item
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: it
-size_length_3: ite
-size_length_4: item
-size_length_5: item
-size_length_6: item
-size_name: Item
-size_no_space_length_1: i
-size_no_space_length_2: it
-size_no_space_length_3: ite
-size_no_space_length_4: item
-size_no_space_length_5: item
-size_no_space_length_6: item
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IT
-size_no_space_upper_length_3: ITE
-size_no_space_upper_length_4: ITEM
-size_no_space_upper_length_5: ITEM
-size_no_space_upper_length_6: ITEM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ITEM
-size_upper_length_1: I
-size_upper_length_2: IT
-size_upper_length_3: ITE
-size_upper_length_4: ITEM
-size_upper_length_5: ITEM
-size_upper_length_6: ITEM
 type: clothes
 type_capital: Clothes
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cl
-type_length_3: clo
-type_length_4: clot
-type_length_5: cloth
-type_length_6: clothe
-type_name: Clothes
-type_no_space_length_1: c
-type_no_space_length_2: cl
-type_no_space_length_3: clo
-type_no_space_length_4: clot
-type_no_space_length_5: cloth
-type_no_space_length_6: clothe
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CL
-type_no_space_upper_length_3: CLO
-type_no_space_upper_length_4: CLOT
-type_no_space_upper_length_5: CLOTH
-type_no_space_upper_length_6: CLOTHE
 type_upper: CLOTHES
-type_upper_length_1: C
-type_upper_length_2: CL
-type_upper_length_3: CLO
-type_upper_length_4: CLOT
-type_upper_length_5: CLOTH
-type_upper_length_6: CLOTHE

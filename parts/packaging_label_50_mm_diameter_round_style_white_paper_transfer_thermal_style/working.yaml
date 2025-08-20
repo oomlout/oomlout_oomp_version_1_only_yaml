@@ -1,180 +1,31 @@
-bip_39_word_dash_12: minute-immune-power-alter-veteran-squirrel-sphere-admit-vague-runway-choose-aim
-bip_39_word_dash_2: minute-immune
-bip_39_word_dash_3: minute-immune-power
-bip_39_word_new_br_12: minute<br>immune<br>power<br>alter<br>veteran<br>squirrel<br>sphere<br>admit<br>vague<br>runway<br>choose<br>aim
-bip_39_word_new_br_2: minute<br>immune
-bip_39_word_new_br_3: minute<br>immune<br>power
-bip_39_word_new_line_12: 'minute
-
-  immune
-
-  power
-
-  alter
-
-  veteran
-
-  squirrel
-
-  sphere
-
-  admit
-
-  vague
-
-  runway
-
-  choose
-
-  aim'
-bip_39_word_new_line_2: 'minute
-
-  immune'
-bip_39_word_new_line_3: 'minute
-
-  immune
-
-  power'
-bip_39_word_no_space_12: minuteimmunepoweralterveteransquirrelsphereadmitvaguerunwaychooseaim
-bip_39_word_no_space_2: minuteimmune
-bip_39_word_no_space_3: minuteimmunepower
-bip_39_word_space_12: minute immune power alter veteran squirrel sphere admit vague
-  runway choose aim
-bip_39_word_space_2: minute immune
-bip_39_word_space_3: minute immune power
-bip_39_word_underscore_12: minute_immune_power_alter_veteran_squirrel_sphere_admit_vague_runway_choose_aim
-bip_39_word_underscore_2: minute_immune
-bip_39_word_underscore_3: minute_immune_power
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p
 classification_first_letter_upper: P
-classification_length_1: p
-classification_length_2: pa
-classification_length_3: pac
-classification_length_4: pack
-classification_length_5: packa
-classification_length_6: packag
-classification_name: Packaging
-classification_no_space_length_1: p
-classification_no_space_length_2: pa
-classification_no_space_length_3: pac
-classification_no_space_length_4: pack
-classification_no_space_length_5: packa
-classification_no_space_length_6: packag
-classification_no_space_upper_length_1: P
-classification_no_space_upper_length_2: PA
-classification_no_space_upper_length_3: PAC
-classification_no_space_upper_length_4: PACK
-classification_no_space_upper_length_5: PACKA
-classification_no_space_upper_length_6: PACKAG
 classification_upper: PACKAGING
-classification_upper_length_1: P
-classification_upper_length_2: PA
-classification_upper_length_3: PAC
-classification_upper_length_4: PACK
-classification_upper_length_5: PACKA
-classification_upper_length_6: PACKAG
 color: white
 color_capital: White
 color_first_letter: w
 color_first_letter_upper: W
-color_length_1: w
-color_length_2: wh
-color_length_3: whi
-color_length_4: whit
-color_length_5: white
-color_length_6: white
-color_name: White
-color_no_space_length_1: w
-color_no_space_length_2: wh
-color_no_space_length_3: whi
-color_no_space_length_4: whit
-color_no_space_length_5: white
-color_no_space_length_6: white
-color_no_space_upper_length_1: W
-color_no_space_upper_length_2: WH
-color_no_space_upper_length_3: WHI
-color_no_space_upper_length_4: WHIT
-color_no_space_upper_length_5: WHITE
-color_no_space_upper_length_6: WHITE
 color_upper: WHITE
-color_upper_length_1: W
-color_upper_length_2: WH
-color_upper_length_3: WHI
-color_upper_length_4: WHIT
-color_upper_length_5: WHITE
-color_upper_length_6: WHITE
 description_extra: transfer_thermal_style
 description_extra_capital: Transfer Thermal Style
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: tr
-description_extra_length_3: tra
-description_extra_length_4: tran
-description_extra_length_5: trans
-description_extra_length_6: transf
-description_extra_name: Transfer Thermal Style
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: tr
-description_extra_no_space_length_3: tra
-description_extra_no_space_length_4: tran
-description_extra_no_space_length_5: trans
-description_extra_no_space_length_6: transf
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TR
-description_extra_no_space_upper_length_3: TRA
-description_extra_no_space_upper_length_4: TRAN
-description_extra_no_space_upper_length_5: TRANS
-description_extra_no_space_upper_length_6: TRANSF
 description_extra_upper: TRANSFER_THERMAL_STYLE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TR
-description_extra_upper_length_3: TRA
-description_extra_upper_length_4: TRAN
-description_extra_upper_length_5: TRANS
-description_extra_upper_length_6: TRANSF
 description_main: paper
 description_main_capital: Paper
 description_main_first_letter: p
 description_main_first_letter_upper: P
-description_main_length_1: p
-description_main_length_2: pa
-description_main_length_3: pap
-description_main_length_4: pape
-description_main_length_5: paper
-description_main_length_6: paper
-description_main_name: Paper
-description_main_no_space_length_1: p
-description_main_no_space_length_2: pa
-description_main_no_space_length_3: pap
-description_main_no_space_length_4: pape
-description_main_no_space_length_5: paper
-description_main_no_space_length_6: paper
-description_main_no_space_upper_length_1: P
-description_main_no_space_upper_length_2: PA
-description_main_no_space_upper_length_3: PAP
-description_main_no_space_upper_length_4: PAPE
-description_main_no_space_upper_length_5: PAPER
-description_main_no_space_upper_length_6: PAPER
 description_main_upper: PAPER
-description_main_upper_length_1: P
-description_main_upper_length_2: PA
-description_main_upper_length_3: PAP
-description_main_upper_length_4: PAPE
-description_main_upper_length_5: PAPER
-description_main_upper_length_6: PAPER
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'W '
 description_or_color_upper: 'W '
 directory: parts/packaging_label_50_mm_diameter_round_style_white_paper_transfer_thermal_style
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_label_50_mm_diameter_round_style_white_paper_transfer_thermal_style
 id: packaging_label_50_mm_diameter_round_style_white_paper_transfer_thermal_style
 id_no_class: label_50_mm_diameter_round_style_white_paper_transfer_thermal_style
-id_no_color: paper_transfer_thermal_style
 id_no_size: white_paper_transfer_thermal_style
 id_no_type: 50_mm_diameter_round_style_white_paper_transfer_thermal_style
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_50_mm_diameter_round_style_white_paper_transfer_thermal_style
@@ -184,7 +35,6 @@ manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[packaging_label_50_mm_diameter_round_style_white_paper_transfer_thermal_style](none)<br>[w](none)<br>[Packaging
@@ -199,12 +49,11 @@ md5_6: 5450af
 md5_6_alpha: 3afn3
 md5_6_alpha_upper: 3AFN3
 md5_6_upper: 5450AF
-name: Packaging Label 50 mm Diameter Round Style White Paper Transfer Thermal Style
-name_no_class: Label 50 mm Diameter Round Style White Paper Transfer Thermal Style
-name_no_color: Paper Transfer Thermal Style
+name: Packaging Label 50 Mm Diameter Round Style White Paper Transfer Thermal Style
+name_no_class: Label 50 Mm Diameter Round Style White Paper Transfer Thermal Style
 name_no_size: White Paper Transfer Thermal Style
 name_no_size_short: White Paper Transfer Thermal Style
-name_no_type: 50 mm Diameter Round Style White Paper Transfer Thermal Style
+name_no_type: 50 Mm Diameter Round Style White Paper Transfer Thermal Style
 oomp_key: oomp_packaging_label_50_mm_diameter_round_style_white_paper_transfer_thermal_style
 oomp_word: whale beetle tophat
 oomp_word_emoji: ':whale: :beetle: :tophat:'
@@ -220,7 +69,6 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
 short_code: w
 short_code_upper: W
@@ -229,61 +77,11 @@ size: 50_mm_diameter_round_style
 size_capital: 50 mm Diameter Round Style
 size_first_letter: '5'
 size_first_letter_upper: '5'
-size_length_1: '5'
-size_length_2: '50'
-size_length_3: '50_'
-size_length_4: 50_m
-size_length_5: 50_mm
-size_length_6: 50_mm_
-size_name: 50 mm Diameter Round Style
-size_no_space_length_1: '5'
-size_no_space_length_2: '50'
-size_no_space_length_3: 50m
-size_no_space_length_4: 50mm
-size_no_space_length_5: 50mmd
-size_no_space_length_6: 50mmdi
-size_no_space_upper_length_1: '5'
-size_no_space_upper_length_2: '50'
-size_no_space_upper_length_3: 50M
-size_no_space_upper_length_4: 50MM
-size_no_space_upper_length_5: 50MMD
-size_no_space_upper_length_6: 50MMDI
 size_only_numbers: '50'
 size_only_numbers_no_zeros: '5'
 size_upper: 50_MM_DIAMETER_ROUND_STYLE
-size_upper_length_1: '5'
-size_upper_length_2: '50'
-size_upper_length_3: '50_'
-size_upper_length_4: 50_M
-size_upper_length_5: 50_MM
-size_upper_length_6: 50_MM_
 type: label
 type_capital: Label
 type_first_letter: l
 type_first_letter_upper: L
-type_length_1: l
-type_length_2: la
-type_length_3: lab
-type_length_4: labe
-type_length_5: label
-type_length_6: label
-type_name: Label
-type_no_space_length_1: l
-type_no_space_length_2: la
-type_no_space_length_3: lab
-type_no_space_length_4: labe
-type_no_space_length_5: label
-type_no_space_length_6: label
-type_no_space_upper_length_1: L
-type_no_space_upper_length_2: LA
-type_no_space_upper_length_3: LAB
-type_no_space_upper_length_4: LABE
-type_no_space_upper_length_5: LABEL
-type_no_space_upper_length_6: LABEL
 type_upper: LABEL
-type_upper_length_1: L
-type_upper_length_2: LA
-type_upper_length_3: LAB
-type_upper_length_4: LABE
-type_upper_length_5: LABEL
-type_upper_length_6: LABEL
