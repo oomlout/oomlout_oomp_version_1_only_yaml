@@ -155,16 +155,8 @@ id_no_class: video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_dep
 id_no_color: dx80512mmwidth565mmheight89mmdepthcisco
 id_no_size: dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 id_no_type: screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201jb3i
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201jb3i
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201jb3i
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201jb3i
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 manufacturer: cisco
 manufacturer_capital: Cisco
@@ -217,31 +209,6 @@ name_no_color: Dx80512mmwidth565mmheight89mmdepthcisco
 name_no_size: Dx80 512 mm Width 565 mm Height 89 mm Depth Cisco
 name_no_size_short: Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
 name_no_type: Screen Dx80 512 mm Width 565 mm Height 89 mm Depth Cisco
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: video_conferencing
-oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
-oomlout_detail_hierarchy_2_upper_length_4: VIDE
-oomlout_detail_hierarchy_3: screen
-oomlout_detail_hierarchy_3_upper: SCREEN
-oomlout_detail_hierarchy_3_upper_length_4: SCRE
-oomlout_detail_hierarchy_4: dx80
-oomlout_detail_hierarchy_4_upper: DX80
-oomlout_detail_hierarchy_4_upper_length_4: DX80
-oomlout_detail_hierarchy_5: 512_mm_width
-oomlout_detail_hierarchy_5_upper: 512_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 512W
-oomlout_detail_hierarchy_6: 565_mm_height
-oomlout_detail_hierarchy_6_upper: 565_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 565H
-oomlout_detail_hierarchy_7: 89_mm_depth
-oomlout_detail_hierarchy_7_upper: 89_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 89DE
-oomlout_detail_hierarchy_8: cisco
-oomlout_detail_hierarchy_8_upper: CISCO
-oomlout_detail_hierarchy_8_upper_length_4: CISC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 oomp_word: nose leopard ambulance
 oomp_word_emoji: ':nose: :leopard: :ambulance:'
@@ -259,10 +226,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: screen

@@ -167,16 +167,8 @@ id_no_color: i2clanding
 id_no_size: i2c_landing
 id_no_type: soic_14_wide_i2c_landing
 kicad_reference: U
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202dmqm
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202dmqm
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202dmqm
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202dmqm
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_landing
 manufacturer: ''
 manufacturer_capital: ''
@@ -204,22 +196,6 @@ name_no_size: I2C Landing
 name_no_size_short: I2C Landing
 name_no_type: Soic 14 Wide I2C Landing
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: interposer
-oomlout_detail_hierarchy_2_upper: INTERPOSER
-oomlout_detail_hierarchy_2_upper_length_4: INTE
-oomlout_detail_hierarchy_3: soic_14_wide
-oomlout_detail_hierarchy_3_upper: SOIC_14_WIDE
-oomlout_detail_hierarchy_3_upper_length_4: SOIC
-oomlout_detail_hierarchy_4: i2c
-oomlout_detail_hierarchy_4_upper: I2C
-oomlout_detail_hierarchy_4_upper_length_4: I2C
-oomlout_detail_hierarchy_5: landing
-oomlout_detail_hierarchy_5_upper: LANDING
-oomlout_detail_hierarchy_5_upper_length_4: LAND
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_interposer_soic_14_wide_i2c_landing
 oomp_word: pig five crocodile
 oomp_word_emoji: ':pig: :five: :crocodile:'
@@ -294,10 +270,6 @@ pins:
     name: pin_9
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: insoic14wi2cland
 short_code_upper: INSOIC14WI2CLAND
 short_name: ''

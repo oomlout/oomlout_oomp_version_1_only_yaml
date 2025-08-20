@@ -132,16 +132,8 @@ id_no_class: paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
 id_no_color: c4_size_324_mm_width_229_mm_height_fits_a4_sheet
 id_no_size: c4_size_324_mm_width_229_mm_height_fits_a4_sheet
 id_no_type: envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20gwvf
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20gwvf
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20gwvf
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20gwvf
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,22 +160,6 @@ name_no_color: C4 Size 324 mm Width 229 mm Height Fits A4 Sheet
 name_no_size: C4 Size 324 mm Width 229 mm Height Fits A4 Sheet
 name_no_size_short: C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet
 name_no_type: Envelope C4 Size 324 mm Width 229 mm Height Fits A4 Sheet
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: paper
-oomlout_detail_hierarchy_2_upper: PAPER
-oomlout_detail_hierarchy_2_upper_length_4: PAPE
-oomlout_detail_hierarchy_3: envelope
-oomlout_detail_hierarchy_3_upper: ENVELOPE
-oomlout_detail_hierarchy_3_upper_length_4: ENVE
-oomlout_detail_hierarchy_4: 324_mm_width
-oomlout_detail_hierarchy_4_upper: 324_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 324W
-oomlout_detail_hierarchy_5: 229_mm_height
-oomlout_detail_hierarchy_5_upper: 229_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 229H
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
 oomp_word: alien sleepy chestnut
 oomp_word_emoji: ':alien: :sleepy: :chestnut:'
@@ -202,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypaper

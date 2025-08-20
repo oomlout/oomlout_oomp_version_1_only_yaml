@@ -171,16 +171,8 @@ id_no_color: ws2812b_worldsemi_ws2812b_b_w
 id_no_size: rgb_ws2812b_worldsemi_ws2812b_b_w
 id_no_type: 5050_rgb_ws2812b_worldsemi_ws2812b_b_w
 kicad_reference: L
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ebb2
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ebb2
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209ebb2
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ebb2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
 manufacturer: worldsemi
 manufacturer_capital: Worldsemi
@@ -238,28 +230,6 @@ name_no_color: Ws2812B Worldsemi Ws2812B B W
 name_no_size: RGB Ws2812B Worldsemi Ws2812B B W
 name_no_size_short: Rgb Ws2k8B Worldsemi Ws2k8B B W
 name_no_type: 5050 RGB Ws2812B Worldsemi Ws2812B B W
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: led
-oomlout_detail_hierarchy_2_upper: LED
-oomlout_detail_hierarchy_2_upper_length_4: LED
-oomlout_detail_hierarchy_3: '5050'
-oomlout_detail_hierarchy_3_upper: '5050'
-oomlout_detail_hierarchy_3_upper_length_4: '5050'
-oomlout_detail_hierarchy_4: rgb
-oomlout_detail_hierarchy_4_upper: RGB
-oomlout_detail_hierarchy_4_upper_length_4: RGB
-oomlout_detail_hierarchy_5: ws2812b
-oomlout_detail_hierarchy_5_upper: WS2812B
-oomlout_detail_hierarchy_5_upper_length_4: WS28
-oomlout_detail_hierarchy_6: worldsemi
-oomlout_detail_hierarchy_6_upper: WORLDSEMI
-oomlout_detail_hierarchy_6_upper_length_4: WORL
-oomlout_detail_hierarchy_7: ws2812b_b_w
-oomlout_detail_hierarchy_7_upper: WS2812B_B_W
-oomlout_detail_hierarchy_7_upper_length_4: WS28
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_5050_rgb_ws2812b_worldsemi_ws2812b_b_w
 oomp_word: train bank ramen
 oomp_word_emoji: ':train: :bank: :ramen:'
@@ -318,10 +288,6 @@ pins:
     name: din
     number: '4'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: l50502812ws2812bbw
 short_code_upper: L50502812WS2812BBW
 short_name: 5050 Rgbws2812B Led

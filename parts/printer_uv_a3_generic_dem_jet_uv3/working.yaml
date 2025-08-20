@@ -105,16 +105,8 @@ id_no_class: uv_a3_generic_dem_jet_uv3
 id_no_color: genericdemjetuv3
 id_no_size: generic_dem_jet_uv3
 id_no_type: a3_generic_dem_jet_uv3
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205u2j
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205u2j
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205u2j
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205u2j
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
 manufacturer: generic
 manufacturer_capital: Generic
@@ -165,22 +157,6 @@ name_no_color: Genericdemjetuv3
 name_no_size: Generic Dem Jet Uv3
 name_no_size_short: Generic Dem Jet Uv3
 name_no_type: A3 Generic Dem Jet Uv3
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: uv
-oomlout_detail_hierarchy_2_upper: UV
-oomlout_detail_hierarchy_2_upper_length_4: UV
-oomlout_detail_hierarchy_3: a3
-oomlout_detail_hierarchy_3_upper: A3
-oomlout_detail_hierarchy_3_upper_length_4: A3
-oomlout_detail_hierarchy_4: generic
-oomlout_detail_hierarchy_4_upper: GENERIC
-oomlout_detail_hierarchy_4_upper_length_4: GENE
-oomlout_detail_hierarchy_5: dem_jet_uv3
-oomlout_detail_hierarchy_5_upper: DEM_JET_UV3
-oomlout_detail_hierarchy_5_upper_length_4: DEM_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_uv_a3_generic_dem_jet_uv3
 oomp_word: wink nose computer
 oomp_word_emoji: ':wink: :nose: :computer:'
@@ -223,10 +199,6 @@ part_number_upper_length_3: DEM
 part_number_upper_length_4: DEM_
 part_number_upper_length_5: DEM_J
 part_number_upper_length_6: DEM_JE
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Anycubic UV Printer

@@ -154,16 +154,8 @@ id_no_color: 25_mm_width_21_mm_length_red_pcb_aliexpress
 id_no_size: dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
 id_no_type: l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2080xi7
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2080xi7
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2080xi7
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2080xi7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
 manufacturer: aliexpress
 manufacturer_capital: Aliexpress
@@ -218,28 +210,6 @@ name_no_size: Dual H Bridge 25 mm Width 21 mm Length Red PCB Aliexpress
 name_no_size_short: Dual H Bridge 25 Mm Width 21 Mm Length Red Pcb Aliexpress
 name_no_type: L298N Dual H Bridge 25 mm Width 21 mm Length Red PCB Aliexpress
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_motor_driver
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MOTOR_DRIVER
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: l298n
-oomlout_detail_hierarchy_3_upper: L298N
-oomlout_detail_hierarchy_3_upper_length_4: L298
-oomlout_detail_hierarchy_4: dual_h_bridge
-oomlout_detail_hierarchy_4_upper: DUAL_H_BRIDGE
-oomlout_detail_hierarchy_4_upper_length_4: DUAL
-oomlout_detail_hierarchy_5: 25_mm_width
-oomlout_detail_hierarchy_5_upper: 25_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 25WI
-oomlout_detail_hierarchy_6: 21_mm_length
-oomlout_detail_hierarchy_6_upper: 21_MM_LENGTH
-oomlout_detail_hierarchy_6_upper_length_4: 21LE
-oomlout_detail_hierarchy_7: aliexpress
-oomlout_detail_hierarchy_7_upper: ALIEXPRESS
-oomlout_detail_hierarchy_7_upper_length_4: ALIE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
 oomp_word: strawberry briefcase diamonds
 oomp_word_emoji: ':strawberry: :briefcase: :diamonds:'
@@ -257,10 +227,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

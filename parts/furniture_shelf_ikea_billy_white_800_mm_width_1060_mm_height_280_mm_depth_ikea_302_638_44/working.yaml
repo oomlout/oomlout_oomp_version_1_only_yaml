@@ -157,16 +157,8 @@ id_no_class: shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ike
 id_no_color: 800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
 id_no_size: white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
 id_no_type: ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208tx7v
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208tx7v
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208tx7v
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208tx7v
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -220,34 +212,6 @@ name_no_size: White 800 mm Width 1060 mm Height 280 mm Depth Ikea 302 638 44
 name_no_size_short: White 800 Mm Width 1060 Mm Height 280 Mm Depth Ikea 302 638 44
 name_no_type: Ikea Billy White 800 mm Width 1060 mm Height 280 mm Depth Ikea 302 638
   44
-oomlout_detail_hierarchy_1: furniture
-oomlout_detail_hierarchy_1_upper: FURNITURE
-oomlout_detail_hierarchy_1_upper_length_4: FURN
-oomlout_detail_hierarchy_2: shelf
-oomlout_detail_hierarchy_2_upper: SHELF
-oomlout_detail_hierarchy_2_upper_length_4: SHEL
-oomlout_detail_hierarchy_3: ikea_billy
-oomlout_detail_hierarchy_3_upper: IKEA_BILLY
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: white
-oomlout_detail_hierarchy_4_upper: WHITE
-oomlout_detail_hierarchy_4_upper_length_4: WHIT
-oomlout_detail_hierarchy_5: 800_mm_width
-oomlout_detail_hierarchy_5_upper: 800_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 800W
-oomlout_detail_hierarchy_6: 1060_mm_height
-oomlout_detail_hierarchy_6_upper: 1060_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: '1060'
-oomlout_detail_hierarchy_7: 280_mm_depth
-oomlout_detail_hierarchy_7_upper: 280_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 280D
-oomlout_detail_hierarchy_8: ikea
-oomlout_detail_hierarchy_8_upper: IKEA
-oomlout_detail_hierarchy_8_upper_length_4: IKEA
-oomlout_detail_hierarchy_9: '302_638_44'
-oomlout_detail_hierarchy_9_upper: '302_638_44'
-oomlout_detail_hierarchy_9_upper_length_4: '302_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shelf_ikea_billy_white_800_mm_width_1060_mm_height_280_mm_depth_ikea_302_638_44
 oomp_word: sailboat dolphin chestnut
 oomp_word_emoji: ':sailboat: :dolphin: :chestnut:'
@@ -289,10 +253,6 @@ part_number_upper_length_3: '302'
 part_number_upper_length_4: '302_'
 part_number_upper_length_5: '302_6'
 part_number_upper_length_6: '302_63'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 size: ikea_billy

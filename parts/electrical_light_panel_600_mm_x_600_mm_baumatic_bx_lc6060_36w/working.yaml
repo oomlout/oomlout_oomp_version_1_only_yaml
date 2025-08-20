@@ -105,16 +105,8 @@ id_no_class: light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
 id_no_color: baumaticbxlc606036w
 id_no_size: baumatic_bx_lc6060_36w
 id_no_type: 600_mm_x_600_mm_baumatic_bx_lc6060_36w
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20m2ql
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20m2ql
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20m2ql
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20m2ql
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
 manufacturer: baumatic
 manufacturer_capital: Baumatic
@@ -165,22 +157,6 @@ name_no_color: Baumaticbxlc606036W
 name_no_size: Baumatic Bx Lc6060 36W
 name_no_size_short: Baumatic Bx Lc6060 36W
 name_no_type: 600 mm X 600 mm Baumatic Bx Lc6060 36W
-oomlout_detail_hierarchy_1: electrical
-oomlout_detail_hierarchy_1_upper: ELECTRICAL
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: light_panel
-oomlout_detail_hierarchy_2_upper: LIGHT_PANEL
-oomlout_detail_hierarchy_2_upper_length_4: LIGH
-oomlout_detail_hierarchy_3: 600_mm_x_600_mm
-oomlout_detail_hierarchy_3_upper: 600_MM_X_600_MM
-oomlout_detail_hierarchy_3_upper_length_4: 600X
-oomlout_detail_hierarchy_4: baumatic
-oomlout_detail_hierarchy_4_upper: BAUMATIC
-oomlout_detail_hierarchy_4_upper_length_4: BAUM
-oomlout_detail_hierarchy_5: bx_lc6060_36w
-oomlout_detail_hierarchy_5_upper: BX_LC6060_36W
-oomlout_detail_hierarchy_5_upper_length_4: BX_L
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electrical_light_panel_600_mm_x_600_mm_baumatic_bx_lc6060_36w
 oomp_word: sparkles pizza blowfish
 oomp_word_emoji: ':sparkles: :pizza: :blowfish:'
@@ -222,10 +198,6 @@ part_number_upper_length_3: BX_
 part_number_upper_length_4: BX_L
 part_number_upper_length_5: BX_LC
 part_number_upper_length_6: BX_LC6
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

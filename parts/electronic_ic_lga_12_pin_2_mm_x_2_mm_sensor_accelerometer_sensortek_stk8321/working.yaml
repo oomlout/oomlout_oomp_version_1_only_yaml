@@ -168,16 +168,8 @@ id_no_class: ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 id_no_color: accelerometer_sensortek_stk8321
 id_no_size: sensor_accelerometer_sensortek_stk8321
 id_no_type: lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2039hqe
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2039hqe
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2039hqe
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2039hqe
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 manufacturer: sensortek
 manufacturer_capital: Sensortek
@@ -230,31 +222,6 @@ name_no_color: Accelerometer Sensortek Stk8321
 name_no_size: Sensor Accelerometer Sensortek Stk8321
 name_no_size_short: Sensor Accelerometer Sensortek Stk8321
 name_no_type: Lga 12 Pin 2 mm X 2 mm Sensor Accelerometer Sensortek Stk8321
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: lga_12_pin_2
-oomlout_detail_hierarchy_3_upper: LGA_12_PIN_2
-oomlout_detail_hierarchy_3_upper_length_4: LGA_
-oomlout_detail_hierarchy_4: mm_x_2_mm
-oomlout_detail_hierarchy_4_upper: MM_X_2_MM
-oomlout_detail_hierarchy_4_upper_length_4: MM_X
-oomlout_detail_hierarchy_5: sensor
-oomlout_detail_hierarchy_5_upper: SENSOR
-oomlout_detail_hierarchy_5_upper_length_4: SENS
-oomlout_detail_hierarchy_6: accelerometer
-oomlout_detail_hierarchy_6_upper: ACCELEROMETER
-oomlout_detail_hierarchy_6_upper_length_4: ACCE
-oomlout_detail_hierarchy_7: sensortek
-oomlout_detail_hierarchy_7_upper: SENSORTEK
-oomlout_detail_hierarchy_7_upper_length_4: SENS
-oomlout_detail_hierarchy_8: stk8321
-oomlout_detail_hierarchy_8_upper: STK8321
-oomlout_detail_hierarchy_8_upper_length_4: STK8
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_lga_12_pin_2_mm_x_2_mm_sensor_accelerometer_sensortek_stk8321
 oomp_word: fish headphones sleeping
 oomp_word_emoji: ':fish: :headphones: :sleeping:'
@@ -345,10 +312,6 @@ pins:
     name: gnd
     number: '9'
     type: power
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: isnastk8321
 short_code_upper: ISNASTK8321
 short_name: bosch sensortec bme280 pressure and temperature sensor

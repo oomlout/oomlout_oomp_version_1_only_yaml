@@ -132,16 +132,8 @@ id_no_class: electronic_nettie_3_nets
 id_no_color: 3_nets
 id_no_size: 3_nets
 id_no_type: nettie_3_nets
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202jg47
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202jg47
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202jg47
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202jg47
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: 3 Nets
 name_no_size: 3 Nets
 name_no_size_short: 3 Nets
 name_no_type: Nettie 3 Nets
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: nettie
-oomlout_detail_hierarchy_3_upper: NETTIE
-oomlout_detail_hierarchy_3_upper_length_4: NETT
-oomlout_detail_hierarchy_4: 3_nets
-oomlout_detail_hierarchy_4_upper: 3_NETS
-oomlout_detail_hierarchy_4_upper_length_4: 3_NE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_nettie_3_nets
 oomp_word: camel clap rat
 oomp_word_emoji: ':camel: :clap: :rat:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic

@@ -106,16 +106,8 @@ id_no_class: breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
 id_no_color: hw141
 id_no_size: hw_141
 id_no_type: 32_mm_width_28_mm_height_hw_141
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206rtxl
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206rtxl
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206rtxl
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206rtxl
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
 manufacturer: ''
 manufacturer_capital: ''
@@ -143,22 +135,6 @@ name_no_size: Hw 141
 name_no_size_short: Hw 141
 name_no_type: 32 mm Width 28 mm Height Hw 141
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_servo_tester
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_SERVO_TESTER
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: 32_mm_width
-oomlout_detail_hierarchy_3_upper: 32_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 32WI
-oomlout_detail_hierarchy_4: 28_mm_height
-oomlout_detail_hierarchy_4_upper: 28_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 28HE
-oomlout_detail_hierarchy_5: hw_141
-oomlout_detail_hierarchy_5_upper: HW_141
-oomlout_detail_hierarchy_5_upper_length_4: HW_1
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height_hw_141
 oomp_word: dress basketball hatching_chick
 oomp_word_emoji: ':dress: :basketball: :hatching_chick:'
@@ -200,10 +176,6 @@ part_number_upper_length_3: HW_
 part_number_upper_length_4: HW_1
 part_number_upper_length_5: HW_14
 part_number_upper_length_6: HW_141
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

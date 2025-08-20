@@ -151,16 +151,8 @@ id_no_color: packagemarkingb2mbr0520
 id_no_size: package_marking_b2_mbr0520
 id_no_type: sod_123_package_marking_b2_mbr0520
 kicad_reference: D
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209vj7f
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209vj7f
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209vj7f
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209vj7f
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 manufacturer: ''
 manufacturer_capital: ''
@@ -206,22 +198,6 @@ name_no_color: Packagemarkingb2Mbr0520
 name_no_size: Package Marking B2 Mbr0520
 name_no_size_short: Package Marking B2 Mbr0520
 name_no_type: Sod 123 Package Marking B2 Mbr0520
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: diode_schottky
-oomlout_detail_hierarchy_2_upper: DIODE_SCHOTTKY
-oomlout_detail_hierarchy_2_upper_length_4: DIOD
-oomlout_detail_hierarchy_3: sod_123
-oomlout_detail_hierarchy_3_upper: SOD_123
-oomlout_detail_hierarchy_3_upper_length_4: SOD_
-oomlout_detail_hierarchy_4: package_marking_b2
-oomlout_detail_hierarchy_4_upper: PACKAGE_MARKING_B2
-oomlout_detail_hierarchy_4_upper_length_4: PACK
-oomlout_detail_hierarchy_5: mbr0520
-oomlout_detail_hierarchy_5_upper: MBR0520
-oomlout_detail_hierarchy_5_upper_length_4: MBR0
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
 oomp_word: parking muscle ok
 oomp_word_emoji: ':parking: :muscle: :ok:'
@@ -263,10 +239,6 @@ part_number_upper_length_3: MBR
 part_number_upper_length_4: MBR0
 part_number_upper_length_5: MBR05
 part_number_upper_length_6: MBR052
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: dssod123pmb2mbr0520
 short_code_upper: DSSOD123PMB2MBR0520
 size: sod_123

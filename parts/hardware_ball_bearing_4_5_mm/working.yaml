@@ -105,16 +105,8 @@ id_no_class: ball_bearing_4_5_mm
 id_no_color: 45mm
 id_no_size: 4_5_mm
 id_no_type: 4_5_mm
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_4_5_mm
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_4_5_mm
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_4_5_mm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_4_5_mm
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2027630
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2027630
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2027630
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2027630
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_4_5_mm
 manufacturer: ''
 manufacturer_capital: ''
@@ -141,16 +133,6 @@ name_no_color: 45mm
 name_no_size: 4 5 mm
 name_no_size_short: 4 5 Mm
 name_no_type: 4 5 mm
-oomlout_detail_hierarchy_1: hardware
-oomlout_detail_hierarchy_1_upper: HARDWARE
-oomlout_detail_hierarchy_1_upper_length_4: HARD
-oomlout_detail_hierarchy_2: ball_bearing
-oomlout_detail_hierarchy_2_upper: BALL_BEARING
-oomlout_detail_hierarchy_2_upper_length_4: BALL
-oomlout_detail_hierarchy_3: 4_5_mm
-oomlout_detail_hierarchy_3_upper: 4_5_MM
-oomlout_detail_hierarchy_3_upper_length_4: '4_5_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_ball_bearing_4_5_mm
 oomp_word: frog ox pill
 oomp_word_emoji: ':frog: :ox: :pill:'
@@ -168,10 +150,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 4_5_mm

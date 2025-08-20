@@ -108,16 +108,8 @@ id_no_class: envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
 id_no_color: c5size229mmwidth162mmheightfitsa5sheet
 id_no_size: c5_size_229_mm_width_162_mm_height_fits_a5_sheet
 id_no_type: c5_size_229_mm_width_162_mm_height_fits_a5_sheet
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207p24z
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207p24z
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207p24z
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207p24z
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
 manufacturer: ''
 manufacturer_capital: ''
@@ -144,19 +136,6 @@ name_no_color: C5Size229mmwidth162mmheightfitsa5Sheet
 name_no_size: C5 Size 229 mm Width 162 mm Height Fits A5 Sheet
 name_no_size_short: C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet
 name_no_type: C5 Size 229 mm Width 162 mm Height Fits A5 Sheet
-oomlout_detail_hierarchy_1: paper
-oomlout_detail_hierarchy_1_upper: PAPER
-oomlout_detail_hierarchy_1_upper_length_4: PAPE
-oomlout_detail_hierarchy_2: envelope
-oomlout_detail_hierarchy_2_upper: ENVELOPE
-oomlout_detail_hierarchy_2_upper_length_4: ENVE
-oomlout_detail_hierarchy_3: 229_mm_width
-oomlout_detail_hierarchy_3_upper: 229_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 229W
-oomlout_detail_hierarchy_4: 162_mm_height
-oomlout_detail_hierarchy_4_upper: 162_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 162H
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
 oomp_word: candy monkey question
 oomp_word_emoji: ':candy: :monkey: :question:'
@@ -174,10 +153,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: C5 Envelope

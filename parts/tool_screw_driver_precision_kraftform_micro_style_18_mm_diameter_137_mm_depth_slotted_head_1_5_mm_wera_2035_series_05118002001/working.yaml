@@ -131,16 +131,8 @@ id_no_class: screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_
 id_no_color: slottedhead15mmwera2035series05118002001
 id_no_size: slotted_head_1_5_mm_wera_2035_series_05118002001
 id_no_type: kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ruod
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ruod
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205ruod
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ruod
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
 manufacturer: wera
 manufacturer_capital: Wera
@@ -195,25 +187,6 @@ name_no_size: Slotted Head 1 5 mm Wera 2035 Series 05118002001
 name_no_size_short: Slotted Head 1 5 Mm Wera 2035 Series 05118002001
 name_no_type: Kraftform Micro Style 18 mm Diameter 137 mm Depth Slotted Head 1 5 mm
   Wera 2035 Series 05118002001
-oomlout_detail_hierarchy_1: tool
-oomlout_detail_hierarchy_1_upper: TOOL
-oomlout_detail_hierarchy_1_upper_length_4: TOOL
-oomlout_detail_hierarchy_2: sdriver_precision
-oomlout_detail_hierarchy_2_upper: SDRIVER_PRECISION
-oomlout_detail_hierarchy_2_upper_length_4: SDRI
-oomlout_detail_hierarchy_3: 137_mm_depth
-oomlout_detail_hierarchy_3_upper: 137_MM_DEPTH
-oomlout_detail_hierarchy_3_upper_length_4: 137D
-oomlout_detail_hierarchy_4: slotted_head_1_5_mm
-oomlout_detail_hierarchy_4_upper: SLOTTED_HEAD_1_5_MM
-oomlout_detail_hierarchy_4_upper_length_4: SLOT
-oomlout_detail_hierarchy_5: wera
-oomlout_detail_hierarchy_5_upper: WERA
-oomlout_detail_hierarchy_5_upper_length_4: WERA
-oomlout_detail_hierarchy_6: 2035_series_05118002001
-oomlout_detail_hierarchy_6_upper: 2035_SERIES_05118002001
-oomlout_detail_hierarchy_6_upper_length_4: '2035'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_slotted_head_1_5_mm_wera_2035_series_05118002001
 oomp_word: books eight heart
 oomp_word_emoji: ':books: :eight: :heart:'
@@ -255,10 +228,6 @@ part_number_upper_length_3: '203'
 part_number_upper_length_4: '2035'
 part_number_upper_length_5: '2035_'
 part_number_upper_length_6: 2035_S
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: kraftform_micro_style_18_mm_diameter_137_mm_depth

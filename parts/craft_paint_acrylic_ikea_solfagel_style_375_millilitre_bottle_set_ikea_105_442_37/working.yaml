@@ -154,17 +154,9 @@ id_no_class: paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_10
 id_no_color: ikeasolfagelstyle375millilitrebottlesetikea10544237
 id_no_size: ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
 id_no_type: acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
-link_2_name: link_github
 link_distributor_ikea: https://www.ikea.com/gb/en/p/solfagel-acrylic-paint-mixed-colours-10544237/
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206dyio
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206dyio
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206dyio
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206dyio
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -217,28 +209,6 @@ name_no_color: Ikeasolfagelstyle375Millilitrebottlesetikea10544237
 name_no_size: Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37
 name_no_size_short: Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37
 name_no_type: Acrylic Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37
-oomlout_detail_hierarchy_1: craft
-oomlout_detail_hierarchy_1_upper: CRAFT
-oomlout_detail_hierarchy_1_upper_length_4: CRAF
-oomlout_detail_hierarchy_2: paint
-oomlout_detail_hierarchy_2_upper: PAINT
-oomlout_detail_hierarchy_2_upper_length_4: PAIN
-oomlout_detail_hierarchy_3: acrylic
-oomlout_detail_hierarchy_3_upper: ACRYLIC
-oomlout_detail_hierarchy_3_upper_length_4: ACRY
-oomlout_detail_hierarchy_4: ikea_solfagel_style
-oomlout_detail_hierarchy_4_upper: IKEA_SOLFAGEL_STYLE
-oomlout_detail_hierarchy_4_upper_length_4: IKEA
-oomlout_detail_hierarchy_5: 375_millilitre_bottle_set
-oomlout_detail_hierarchy_5_upper: 375_MILLILITRE_BOTTLE_SET
-oomlout_detail_hierarchy_5_upper_length_4: '375_'
-oomlout_detail_hierarchy_6: ikea
-oomlout_detail_hierarchy_6_upper: IKEA
-oomlout_detail_hierarchy_6_upper_length_4: IKEA
-oomlout_detail_hierarchy_7: '105_442_37'
-oomlout_detail_hierarchy_7_upper: '105_442_37'
-oomlout_detail_hierarchy_7_upper_length_4: '105_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
 oomp_word: pencil beer bowtie
 oomp_word_emoji: ':pencil: :beer: :bowtie:'
@@ -281,10 +251,6 @@ part_number_upper_length_3: '105'
 part_number_upper_length_4: '105_'
 part_number_upper_length_5: '105_4'
 part_number_upper_length_6: '105_44'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

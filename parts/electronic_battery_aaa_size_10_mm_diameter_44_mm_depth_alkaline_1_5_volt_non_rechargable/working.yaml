@@ -129,16 +129,8 @@ id_no_class: battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_r
 id_no_color: alkaline_1_5_volt_non_rechargable
 id_no_size: alkaline_1_5_volt_non_rechargable
 id_no_type: aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206pwuv
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206pwuv
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206pwuv
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206pwuv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
 manufacturer: ''
 manufacturer_capital: ''
@@ -166,22 +158,6 @@ name_no_color: Alkaline 1 5 Volt Non Rechargable
 name_no_size: Alkaline 1 5 Volt Non Rechargable
 name_no_size_short: Alkaline 1 5 Volt Non Rechargable
 name_no_type: Aaa Size 10 mm Diameter 44 mm Depth Alkaline 1 5 Volt Non Rechargable
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: battery
-oomlout_detail_hierarchy_2_upper: BATTERY
-oomlout_detail_hierarchy_2_upper_length_4: BATT
-oomlout_detail_hierarchy_3: 44_mm_depth
-oomlout_detail_hierarchy_3_upper: 44_MM_DEPTH
-oomlout_detail_hierarchy_3_upper_length_4: 44DE
-oomlout_detail_hierarchy_4: alkaline_1_5_volt
-oomlout_detail_hierarchy_4_upper: ALKALINE_1_5_VOLT
-oomlout_detail_hierarchy_4_upper_length_4: ALKA
-oomlout_detail_hierarchy_5: non_rechargable
-oomlout_detail_hierarchy_5_upper: NON_RECHARGABLE
-oomlout_detail_hierarchy_5_upper_length_4: NON_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_alkaline_1_5_volt_non_rechargable
 oomp_word: shirt frog baseball
 oomp_word_emoji: ':shirt: :frog: :baseball:'
@@ -200,10 +176,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

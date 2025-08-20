@@ -131,16 +131,8 @@ id_no_color: atmega328parduinocompatible
 id_no_size: atmega328p_arduino_compatible
 id_no_type: uno_rev_3_atmega328p_arduino_compatible
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206nwfm
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206nwfm
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206nwfm
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206nwfm
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_size: Atmega328P Arduino Compatible
 name_no_size_short: Atmega328P Arduino Compatible
 name_no_type: Uno Rev 3 Atmega328P Arduino Compatible
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_mcu
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: uno_rev_3
-oomlout_detail_hierarchy_3_upper: UNO_REV_3
-oomlout_detail_hierarchy_3_upper_length_4: UNO_
-oomlout_detail_hierarchy_4: atmega328p_arduino_compatible
-oomlout_detail_hierarchy_4_upper: ATMEGA328P_ARDUINO_COMPATIBLE
-oomlout_detail_hierarchy_4_upper_length_4: ATME
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_uno_rev_3_atmega328p_arduino_compatible
 oomp_word: lipstick lemon one
 oomp_word_emoji: ':lipstick: :lemon: :one:'
@@ -327,10 +306,6 @@ pins:
     name: a0
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

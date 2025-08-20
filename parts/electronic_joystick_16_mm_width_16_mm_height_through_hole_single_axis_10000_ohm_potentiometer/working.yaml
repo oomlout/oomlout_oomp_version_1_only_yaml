@@ -153,16 +153,8 @@ id_no_class: joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_oh
 id_no_color: single_axis_10000_ohm_potentiometer
 id_no_size: through_hole_single_axis_10000_ohm_potentiometer
 id_no_type: 16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20jp2f
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20jp2f
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20jp2f
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20jp2f
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
 manufacturer: ''
 manufacturer_capital: ''
@@ -191,25 +183,6 @@ name_no_color: Single Axis 10000 Ohm Potentiometer
 name_no_size: Through Hole Single Axis 10000 Ohm Potentiometer
 name_no_size_short: Through Hole Single Axis 10k Ohm Potentiometer
 name_no_type: 16 mm Width 16 mm Height Through Hole Single Axis 10000 Ohm Potentiometer
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: joystick
-oomlout_detail_hierarchy_2_upper: JOYSTICK
-oomlout_detail_hierarchy_2_upper_length_4: JOYS
-oomlout_detail_hierarchy_3: 16_mm_width
-oomlout_detail_hierarchy_3_upper: 16_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 16WI
-oomlout_detail_hierarchy_4: 16_mm_height
-oomlout_detail_hierarchy_4_upper: 16_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 16HE
-oomlout_detail_hierarchy_5: through_hole
-oomlout_detail_hierarchy_5_upper: THROUGH_HOLE
-oomlout_detail_hierarchy_5_upper_length_4: THRO
-oomlout_detail_hierarchy_6: single_axis_10000_ohm_potentiometer
-oomlout_detail_hierarchy_6_upper: SINGLE_AXIS_10000_OHM_POTENTIOMETER
-oomlout_detail_hierarchy_6_upper_length_4: SING
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
 oomp_word: cupid kissing guitar
 oomp_word_emoji: ':cupid: :kissing: :guitar:'
@@ -227,10 +200,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

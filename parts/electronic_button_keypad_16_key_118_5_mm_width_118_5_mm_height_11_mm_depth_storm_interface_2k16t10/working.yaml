@@ -130,16 +130,8 @@ id_no_color: 16key1185mmwidth1185mmheight11mmdepthstorminterface2k16t10
 id_no_size: 16key1185mmwidth1185mmheight11mmdepthstorminterface2k16t10
 id_no_type: 16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
 link: https://www.storm-interface.com/ixp/keypads/2000-series/2000-series-16-key-telephone.html
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2017wta
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2017wta
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2017wta
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2017wta
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
 manufacturer: storm_interface
 manufacturer_capital: Storm Interface
@@ -193,28 +185,6 @@ name_no_color: 16Key1185mmwidth1185mmheight11mmdepthstorminterface2K16T10
 name_no_size: 16Key1185mmwidth1185mmheight11mmdepthstorminterface2K16T10
 name_no_size_short: 16Key1185Mmwidth1185Mmheight11Mmdepthstorminterface2K16T10
 name_no_type: 16 Key 118 5 mm Width 118 5 mm Height 11 mm Depth Storm Interface 2K16T10
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: button_keypad
-oomlout_detail_hierarchy_2_upper: BUTTON_KEYPAD
-oomlout_detail_hierarchy_2_upper_length_4: BUTT
-oomlout_detail_hierarchy_3: 5_mm_width
-oomlout_detail_hierarchy_3_upper: 5_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 5WID
-oomlout_detail_hierarchy_4: 5_mm_height
-oomlout_detail_hierarchy_4_upper: 5_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 5HEI
-oomlout_detail_hierarchy_5: 11_mm_depth
-oomlout_detail_hierarchy_5_upper: 11_MM_DEPTH
-oomlout_detail_hierarchy_5_upper_length_4: 11DE
-oomlout_detail_hierarchy_6: storm_interface
-oomlout_detail_hierarchy_6_upper: STORM_INTERFACE
-oomlout_detail_hierarchy_6_upper_length_4: STOR
-oomlout_detail_hierarchy_7: 2k16t10
-oomlout_detail_hierarchy_7_upper: 2K16T10
-oomlout_detail_hierarchy_7_upper_length_4: 2K16
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
 oomp_word: princess sheep rainbow
 oomp_word_emoji: ':princess: :sheep: :rainbow:'
@@ -256,10 +226,6 @@ part_number_upper_length_3: 2K1
 part_number_upper_length_4: 2K16
 part_number_upper_length_5: 2K16T
 part_number_upper_length_6: 2K16T1
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

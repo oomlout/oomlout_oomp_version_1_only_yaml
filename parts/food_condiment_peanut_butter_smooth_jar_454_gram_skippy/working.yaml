@@ -179,16 +179,8 @@ id_no_class: condiment_peanut_butter_smooth_jar_454_gram_skippy
 id_no_color: peanutbuttersmoothjar454gramskippy
 id_no_size: peanutbuttersmoothjar454gramskippy
 id_no_type: peanut_butter_smooth_jar_454_gram_skippy
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_peanut_butter_smooth_jar_454_gram_skippy
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_peanut_butter_smooth_jar_454_gram_skippy
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_peanut_butter_smooth_jar_454_gram_skippy
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_peanut_butter_smooth_jar_454_gram_skippy
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204mtaz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204mtaz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204mtaz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204mtaz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_peanut_butter_smooth_jar_454_gram_skippy
 manufacturer: skippy
 manufacturer_capital: Skippy
@@ -240,25 +232,6 @@ name_no_size: Peanutbuttersmoothjar454Gramskippy
 name_no_size_short: Peanutbuttersmoothjar454Gramskippy
 name_no_type: Peanut Butter Smooth Jar 454 Gram Skippy
 name_short: Peanut Butter Smooth
-oomlout_detail_hierarchy_1: food
-oomlout_detail_hierarchy_1_upper: FOOD
-oomlout_detail_hierarchy_1_upper_length_4: FOOD
-oomlout_detail_hierarchy_2: condiment
-oomlout_detail_hierarchy_2_upper: CONDIMENT
-oomlout_detail_hierarchy_2_upper_length_4: COND
-oomlout_detail_hierarchy_3: peanut_butter
-oomlout_detail_hierarchy_3_upper: PEANUT_BUTTER
-oomlout_detail_hierarchy_3_upper_length_4: PEAN
-oomlout_detail_hierarchy_4: smooth
-oomlout_detail_hierarchy_4_upper: SMOOTH
-oomlout_detail_hierarchy_4_upper_length_4: SMOO
-oomlout_detail_hierarchy_5: 454_gram
-oomlout_detail_hierarchy_5_upper: 454_GRAM
-oomlout_detail_hierarchy_5_upper_length_4: '454_'
-oomlout_detail_hierarchy_6: skippy
-oomlout_detail_hierarchy_6_upper: SKIPPY
-oomlout_detail_hierarchy_6_upper_length_4: SKIP
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_condiment_peanut_butter_smooth_jar_454_gram_skippy
 oomp_word: santa doughnut tent
 oomp_word_emoji: ':santa: :doughnut: :tent:'
@@ -276,10 +249,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

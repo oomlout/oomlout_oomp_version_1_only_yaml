@@ -131,16 +131,8 @@ id_no_class: github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemne
 id_no_color: organizing_furniture_shoe_cabinet_ikea_hemnes_divider
 id_no_size: organizing_furniture_shoe_cabinet_ikea_hemnes_divider
 id_no_type: oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2026m7j
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2026m7j
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2026m7j
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2026m7j
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
 manufacturer: ''
 manufacturer_capital: ''
@@ -169,22 +161,6 @@ name_no_color: Organizing Furniture Shoe Cabinet Ikea Hemnes Divider
 name_no_size: Organizing Furniture Shoe Cabinet Ikea Hemnes Divider
 name_no_size_short: Organizing Furniture Shoe Cabinet Ikea Hemnes Divider
 name_no_type: Oomlout Oomlout Organizing Furniture Shoe Cabinet Ikea Hemnes Divider
-oomlout_detail_hierarchy_1: project
-oomlout_detail_hierarchy_1_upper: PROJECT
-oomlout_detail_hierarchy_1_upper_length_4: PROJ
-oomlout_detail_hierarchy_2: github
-oomlout_detail_hierarchy_2_upper: GITHUB
-oomlout_detail_hierarchy_2_upper_length_4: GITH
-oomlout_detail_hierarchy_3: oomlout
-oomlout_detail_hierarchy_3_upper: OOMLOUT
-oomlout_detail_hierarchy_3_upper_length_4: OOML
-oomlout_detail_hierarchy_4: organizing_furniture_shoe
-oomlout_detail_hierarchy_4_upper: ORGANIZING_FURNITURE_SHOE
-oomlout_detail_hierarchy_4_upper_length_4: ORGA
-oomlout_detail_hierarchy_5: cabinet_ikea_hemnes_divider
-oomlout_detail_hierarchy_5_upper: CABINET_IKEA_HEMNES_DIVIDER
-oomlout_detail_hierarchy_5_upper_length_4: CABI
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_organizing_furniture_shoe_cabinet_ikea_hemnes_divider
 oomp_word: wolf six truck
 oomp_word_emoji: ':wolf: :six: :truck:'
@@ -202,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

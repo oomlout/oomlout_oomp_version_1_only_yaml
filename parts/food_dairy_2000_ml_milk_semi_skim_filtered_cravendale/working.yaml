@@ -155,17 +155,9 @@ id_no_class: dairy_2000_ml_milk_semi_skim_filtered_cravendale
 id_no_color: milksemiskimfilteredcravendale
 id_no_size: milk_semi_skim_filtered_cravendale
 id_no_type: 2000_ml_milk_semi_skim_filtered_cravendale
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
-link_2_name: link_github
 link_distributor_ocado: https://www.ocado.com/search?entry=24581011
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dcx2
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dcx2
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201dcx2
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dcx2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 manufacturer: cravendale
 manufacturer_capital: Cravendale
@@ -216,25 +208,6 @@ name_no_color: Milksemiskimfilteredcravendale
 name_no_size: Milk Semi Skim Filtered Cravendale
 name_no_size_short: Milk Semi Skim Filtered Cravendale
 name_no_type: 2000 Ml Milk Semi Skim Filtered Cravendale
-oomlout_detail_hierarchy_1: food
-oomlout_detail_hierarchy_1_upper: FOOD
-oomlout_detail_hierarchy_1_upper_length_4: FOOD
-oomlout_detail_hierarchy_2: dairy
-oomlout_detail_hierarchy_2_upper: DAIRY
-oomlout_detail_hierarchy_2_upper_length_4: DAIR
-oomlout_detail_hierarchy_3: 2000_ml
-oomlout_detail_hierarchy_3_upper: 2000_ML
-oomlout_detail_hierarchy_3_upper_length_4: '2000'
-oomlout_detail_hierarchy_4: milk_semi_skim
-oomlout_detail_hierarchy_4_upper: MILK_SEMI_SKIM
-oomlout_detail_hierarchy_4_upper_length_4: MILK
-oomlout_detail_hierarchy_5: filtered
-oomlout_detail_hierarchy_5_upper: FILTERED
-oomlout_detail_hierarchy_5_upper_length_4: FILT
-oomlout_detail_hierarchy_6: cravendale
-oomlout_detail_hierarchy_6_upper: CRAVENDALE
-oomlout_detail_hierarchy_6_upper_length_4: CRAV
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
 oomp_word: kiss kiss trumpet
 oomp_word_emoji: ':kiss: :kiss: :trumpet:'
@@ -253,10 +226,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 2000_ml

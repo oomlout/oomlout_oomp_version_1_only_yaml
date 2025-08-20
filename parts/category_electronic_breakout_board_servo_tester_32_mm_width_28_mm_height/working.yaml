@@ -132,16 +132,8 @@ id_no_class: electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 id_no_color: 32_mm_width_28_mm_height
 id_no_size: 32_mm_width_28_mm_height
 id_no_type: breakout_board_servo_tester_32_mm_width_28_mm_height
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202i18q
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202i18q
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202i18q
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202i18q
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,22 +160,6 @@ name_no_color: 32 mm Width 28 mm Height
 name_no_size: 32 mm Width 28 mm Height
 name_no_size_short: 32 Mm Width 28 Mm Height
 name_no_type: Breakout Board Servo Tester 32 mm Width 28 mm Height
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: breakout_board_servo_tester
-oomlout_detail_hierarchy_3_upper: BREAKOUT_BOARD_SERVO_TESTER
-oomlout_detail_hierarchy_3_upper_length_4: BREA
-oomlout_detail_hierarchy_4: 32_mm_width
-oomlout_detail_hierarchy_4_upper: 32_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 32WI
-oomlout_detail_hierarchy_5: 28_mm_height
-oomlout_detail_hierarchy_5_upper: 28_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 28HE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_breakout_board_servo_tester_32_mm_width_28_mm_height
 oomp_word: racehorse hand cherries
 oomp_word_emoji: ':racehorse: :hand: :cherries:'
@@ -202,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic

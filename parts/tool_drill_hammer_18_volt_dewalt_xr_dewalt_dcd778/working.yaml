@@ -107,22 +107,10 @@ id_no_class: drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
 id_no_color: dewaltdcd778
 id_no_size: dewalt_dcd778
 id_no_type: 18_volt_dewalt_xr_dewalt_dcd778
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/gp/product/B07YSH4N1H
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/gp/product/B07YSH4N1H
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/gp/product/B07YSH4N1H
 link_distributor_dewalt: https://www.dewalt.co.uk/product/dcd778l2t-qw/18v-xr-brushless-hammer-drill-driver-2-x-4-ah?tid=
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2082sp4
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2082sp4
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2082sp4
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2082sp4
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
 manufacturer: dewalt
 manufacturer_capital: Dewalt
@@ -173,22 +161,6 @@ name_no_color: Dewaltdcd778
 name_no_size: Dewalt Dcd778
 name_no_size_short: Dewalt Dcd778
 name_no_type: 18 Volt Dewalt Xr Dewalt Dcd778
-oomlout_detail_hierarchy_1: tool
-oomlout_detail_hierarchy_1_upper: TOOL
-oomlout_detail_hierarchy_1_upper_length_4: TOOL
-oomlout_detail_hierarchy_2: drill_hammer
-oomlout_detail_hierarchy_2_upper: DRILL_HAMMER
-oomlout_detail_hierarchy_2_upper_length_4: DRIL
-oomlout_detail_hierarchy_3: 18_volt_dewalt_xr
-oomlout_detail_hierarchy_3_upper: 18_VOLT_DEWALT_XR
-oomlout_detail_hierarchy_3_upper_length_4: 18_V
-oomlout_detail_hierarchy_4: dewalt
-oomlout_detail_hierarchy_4_upper: DEWALT
-oomlout_detail_hierarchy_4_upper_length_4: DEWA
-oomlout_detail_hierarchy_5: dcd778
-oomlout_detail_hierarchy_5_upper: DCD778
-oomlout_detail_hierarchy_5_upper_length_4: DCD7
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_drill_hammer_18_volt_dewalt_xr_dewalt_dcd778
 oomp_word: melon kissing apple
 oomp_word_emoji: ':melon: :kissing: :apple:'
@@ -231,10 +203,6 @@ part_number_upper_length_3: DCD
 part_number_upper_length_4: DCD7
 part_number_upper_length_5: DCD77
 part_number_upper_length_6: DCD778
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 18_volt_dewalt_xr

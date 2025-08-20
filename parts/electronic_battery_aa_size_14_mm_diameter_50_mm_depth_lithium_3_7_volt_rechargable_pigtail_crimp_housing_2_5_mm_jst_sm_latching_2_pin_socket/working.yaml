@@ -153,16 +153,8 @@ id_no_class: battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_recharg
 id_no_color: pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 id_no_size: lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 id_no_type: aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203wfkc
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203wfkc
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203wfkc
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203wfkc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 manufacturer: ''
 manufacturer_capital: ''
@@ -195,28 +187,6 @@ name_no_size_short: Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 Mm Js
   Sm Latching 2 Pin Socket
 name_no_type: Aa Size 14 mm Diameter 50 mm Depth Lithium 3 7 Volt Rechargable Pigtail
   Crimp Housing 2 5 mm Jst Sm Latching 2 Pin Socket
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: battery
-oomlout_detail_hierarchy_2_upper: BATTERY
-oomlout_detail_hierarchy_2_upper_length_4: BATT
-oomlout_detail_hierarchy_3: 50_mm_depth
-oomlout_detail_hierarchy_3_upper: 50_MM_DEPTH
-oomlout_detail_hierarchy_3_upper_length_4: 50DE
-oomlout_detail_hierarchy_4: lithium_3_7_volt_rechargable
-oomlout_detail_hierarchy_4_upper: LITHIUM_3_7_VOLT_RECHARGABLE
-oomlout_detail_hierarchy_4_upper_length_4: LITH
-oomlout_detail_hierarchy_5: pigtail_crimp_housing_2
-oomlout_detail_hierarchy_5_upper: PIGTAIL_CRIMP_HOUSING_2
-oomlout_detail_hierarchy_5_upper_length_4: PIGT
-oomlout_detail_hierarchy_6: 5_mm_jst_sm
-oomlout_detail_hierarchy_6_upper: 5_MM_JST_SM
-oomlout_detail_hierarchy_6_upper_length_4: 5JST
-oomlout_detail_hierarchy_7: latching_2_pin_socket
-oomlout_detail_hierarchy_7_upper: LATCHING_2_PIN_SOCKET
-oomlout_detail_hierarchy_7_upper_length_4: LATC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
 oomp_word: rose eight watermelon
 oomp_word_emoji: ':rose: :eight: :watermelon:'
@@ -235,10 +205,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

@@ -154,21 +154,9 @@ id_no_class: ink_epson_ecotank_cyan_bottle_70_ml_epson_102
 id_no_color: cyan_bottle_70_ml_102
 id_no_size: ecotank_cyan_bottle_70_ml_102
 id_no_type: epson_ecotank_cyan_bottle_70_ml_epson_102
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B08BXSR45Z
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B08BXSR45Z
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B08BXSR45Z
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2021i7i
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2021i7i
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2021i7i
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2021i7i
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
 manufacturer: epson
 manufacturer_capital: Epson
@@ -219,28 +207,6 @@ name_no_color: Cyan Bottle 70 Ml 102
 name_no_size: Ecotank Cyan Bottle 70 Ml 102
 name_no_size_short: Ecotank Cyan Bottle 70 Ml 102
 name_no_type: Epson Ecotank Cyan Bottle 70 Ml Epson 102
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: ink
-oomlout_detail_hierarchy_2_upper: INK
-oomlout_detail_hierarchy_2_upper_length_4: INK
-oomlout_detail_hierarchy_3: epson
-oomlout_detail_hierarchy_3_upper: EPSON
-oomlout_detail_hierarchy_3_upper_length_4: EPSO
-oomlout_detail_hierarchy_4: ecotank
-oomlout_detail_hierarchy_4_upper: ECOTANK
-oomlout_detail_hierarchy_4_upper_length_4: ECOT
-oomlout_detail_hierarchy_5: cyan_bottle_70_ml
-oomlout_detail_hierarchy_5_upper: CYAN_BOTTLE_70_ML
-oomlout_detail_hierarchy_5_upper_length_4: CYAN
-oomlout_detail_hierarchy_6: epson
-oomlout_detail_hierarchy_6_upper: EPSON
-oomlout_detail_hierarchy_6_upper_length_4: EPSO
-oomlout_detail_hierarchy_7: '102'
-oomlout_detail_hierarchy_7_upper: '102'
-oomlout_detail_hierarchy_7_upper_length_4: '102'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
 oomp_word: mouse whale new_moon
 oomp_word_emoji: ':mouse: :whale: :new_moon:'
@@ -283,10 +249,6 @@ part_number_upper_length_3: '102'
 part_number_upper_length_4: '102'
 part_number_upper_length_5: '102'
 part_number_upper_length_6: '102'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: epson

@@ -131,16 +131,8 @@ id_no_class: network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 id_no_color: 94mmwidth101mmlength29mmdepthnetgeargs105
 id_no_size: 94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 id_no_type: switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206r14k
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206r14k
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206r14k
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206r14k
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 manufacturer: netgear
 manufacturer_capital: Netgear
@@ -191,31 +183,6 @@ name_no_color: 94mmwidth101mmlength29mmdepthnetgeargs105
 name_no_size: 94 mm Width 101 mm Length 29 mm Depth Netgear Gs105
 name_no_size_short: 94 Mm Width 101 Mm Length 29 Mm Depth Netgear Gs105
 name_no_type: Switch 94 mm Width 101 mm Length 29 mm Depth Netgear Gs105
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: network
-oomlout_detail_hierarchy_2_upper: NETWORK
-oomlout_detail_hierarchy_2_upper_length_4: NETW
-oomlout_detail_hierarchy_3: switch
-oomlout_detail_hierarchy_3_upper: SWITCH
-oomlout_detail_hierarchy_3_upper_length_4: SWIT
-oomlout_detail_hierarchy_4: 94_mm_width
-oomlout_detail_hierarchy_4_upper: 94_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 94WI
-oomlout_detail_hierarchy_5: 101_mm_length
-oomlout_detail_hierarchy_5_upper: 101_MM_LENGTH
-oomlout_detail_hierarchy_5_upper_length_4: 101L
-oomlout_detail_hierarchy_6: 29_mm_depth
-oomlout_detail_hierarchy_6_upper: 29_MM_DEPTH
-oomlout_detail_hierarchy_6_upper_length_4: 29DE
-oomlout_detail_hierarchy_7: netgear
-oomlout_detail_hierarchy_7_upper: NETGEAR
-oomlout_detail_hierarchy_7_upper_length_4: NETG
-oomlout_detail_hierarchy_8: gs105
-oomlout_detail_hierarchy_8_upper: GS105
-oomlout_detail_hierarchy_8_upper_length_4: GS10
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_network_switch_94_mm_width_101_mm_length_29_mm_depth_netgear_gs105
 oomp_word: dress wink fireworks
 oomp_word_emoji: ':dress: :wink: :fireworks:'
@@ -258,10 +225,6 @@ part_number_upper_length_3: GS1
 part_number_upper_length_4: GS10
 part_number_upper_length_5: GS105
 part_number_upper_length_6: GS105
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: switch

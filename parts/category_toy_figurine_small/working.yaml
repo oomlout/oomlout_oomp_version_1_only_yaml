@@ -132,16 +132,8 @@ id_no_class: toy_figurine_small
 id_no_color: small
 id_no_size: small
 id_no_type: figurine_small
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208thao
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208thao
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208thao
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208thao
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: Small
 name_no_size: Small
 name_no_size_short: Small
 name_no_type: Figurine Small
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: toy
-oomlout_detail_hierarchy_2_upper: TOY
-oomlout_detail_hierarchy_2_upper_length_4: TOY
-oomlout_detail_hierarchy_3: figurine
-oomlout_detail_hierarchy_3_upper: FIGURINE
-oomlout_detail_hierarchy_3_upper_length_4: FIGU
-oomlout_detail_hierarchy_4: small
-oomlout_detail_hierarchy_4_upper: SMALL
-oomlout_detail_hierarchy_4_upper_length_4: SMAL
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_toy_figurine_small
 oomp_word: sailboat wink banana
 oomp_word_emoji: ':sailboat: :wink: :banana:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorytoy

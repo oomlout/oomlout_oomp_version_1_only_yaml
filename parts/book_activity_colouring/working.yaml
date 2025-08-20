@@ -107,16 +107,8 @@ id_no_class: activity_colouring
 id_no_color: colouring
 id_no_size: colouring
 id_no_type: colouring
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20713qt
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20713qt
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20713qt
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20713qt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
 manufacturer: ''
 manufacturer_capital: ''
@@ -142,16 +134,6 @@ name_no_color: Colouring
 name_no_size: Colouring
 name_no_size_short: Colouring
 name_no_type: Colouring
-oomlout_detail_hierarchy_1: book
-oomlout_detail_hierarchy_1_upper: BOOK
-oomlout_detail_hierarchy_1_upper_length_4: BOOK
-oomlout_detail_hierarchy_2: activity
-oomlout_detail_hierarchy_2_upper: ACTIVITY
-oomlout_detail_hierarchy_2_upper_length_4: ACTI
-oomlout_detail_hierarchy_3: colouring
-oomlout_detail_hierarchy_3_upper: COLOURING
-oomlout_detail_hierarchy_3_upper_length_4: COLO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_activity_colouring
 oomp_word: coffee foggy hamster
 oomp_word_emoji: ':coffee: :foggy: :hamster:'
@@ -169,10 +151,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: colouring

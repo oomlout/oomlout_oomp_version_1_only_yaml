@@ -143,16 +143,8 @@ id_no_color: 68000ohm
 id_no_size: 68000_ohm
 id_no_type: quarter_watt_through_hole_68000_ohm
 kicad_reference: R
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208qsn5
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208qsn5
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208qsn5
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208qsn5
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_68000_ohm
 manufacturer: ''
 manufacturer_capital: ''
@@ -179,19 +171,6 @@ name_no_color: 68000Ohm
 name_no_size: 68000 Ohm
 name_no_size_short: 68k Ohm
 name_no_type: Quarter Watt Through Hole 68000 Ohm
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: resistor
-oomlout_detail_hierarchy_2_upper: RESISTOR
-oomlout_detail_hierarchy_2_upper_length_4: RESI
-oomlout_detail_hierarchy_3: quarter_watt_through_hole
-oomlout_detail_hierarchy_3_upper: QUARTER_WATT_THROUGH_HOLE
-oomlout_detail_hierarchy_3_upper_length_4: QUAR
-oomlout_detail_hierarchy_4: 68000_ohm
-oomlout_detail_hierarchy_4_upper: 68000_OHM
-oomlout_detail_hierarchy_4_upper_length_4: '6800'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_68000_ohm
 oomp_word: ship muscle watch
 oomp_word_emoji: ':ship: :muscle: :watch:'
@@ -209,10 +188,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ro683
 short_code_upper: RO683
 size: quarter_watt_through_hole

@@ -131,16 +131,8 @@ id_no_class: stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
 id_no_color: 70mmwidth150mmheight35mmdepthstanleysth77404
 id_no_size: 70mmwidth150mmheight35mmdepthstanleysth77404
 id_no_type: 70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xwmw
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202xwmw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202xwmw
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202xwmw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
 manufacturer: stanley
 manufacturer_capital: Stanley
@@ -191,28 +183,6 @@ name_no_color: 70mmwidth150mmheight35mmdepthstanleysth77404
 name_no_size: 70mmwidth150mmheight35mmdepthstanleysth77404
 name_no_size_short: 70Mmwidth150Mmheight35Mmdepthstanleysth77404
 name_no_type: 70 mm Width 150 mm Height 35 mm Depth Stanley Sth77404
-oomlout_detail_hierarchy_1: tool
-oomlout_detail_hierarchy_1_upper: TOOL
-oomlout_detail_hierarchy_1_upper_length_4: TOOL
-oomlout_detail_hierarchy_2: stud_finder
-oomlout_detail_hierarchy_2_upper: STUD_FINDER
-oomlout_detail_hierarchy_2_upper_length_4: STUD
-oomlout_detail_hierarchy_3: 70_mm_width
-oomlout_detail_hierarchy_3_upper: 70_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 70WI
-oomlout_detail_hierarchy_4: 150_mm_height
-oomlout_detail_hierarchy_4_upper: 150_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 150H
-oomlout_detail_hierarchy_5: 35_mm_depth
-oomlout_detail_hierarchy_5_upper: 35_MM_DEPTH
-oomlout_detail_hierarchy_5_upper_length_4: 35DE
-oomlout_detail_hierarchy_6: stanley
-oomlout_detail_hierarchy_6_upper: STANLEY
-oomlout_detail_hierarchy_6_upper_length_4: STAN
-oomlout_detail_hierarchy_7: sth77404
-oomlout_detail_hierarchy_7_upper: STH77404
-oomlout_detail_hierarchy_7_upper_length_4: STH7
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
 oomp_word: penguin maple_leaf bell
 oomp_word_emoji: ':penguin: :maple_leaf: :bell:'
@@ -254,10 +224,6 @@ part_number_upper_length_3: STH
 part_number_upper_length_4: STH7
 part_number_upper_length_5: STH77
 part_number_upper_length_6: STH774
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

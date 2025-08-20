@@ -131,16 +131,8 @@ id_no_class: microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_t
 id_no_color: 85mmwidth85mmlength15mmdepth35mmjackciscottc506
 id_no_size: 85mmwidth85mmlength15mmdepth35mmjackciscottc506
 id_no_type: 85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208qetp
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208qetp
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208qetp
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208qetp
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
 manufacturer: cisco
 manufacturer_capital: Cisco
@@ -193,28 +185,6 @@ name_no_color: 85mmwidth85mmlength15mmdepth35mmjackciscottc506
 name_no_size: 85mmwidth85mmlength15mmdepth35mmjackciscottc506
 name_no_size_short: 85Mmwidth85Mmlength15Mmdepth35Mmjackciscottc506
 name_no_type: 85 mm Width 85 mm Length 15 mm Depth 3 5 mm Jack Cisco Ttc5 06
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: microphone
-oomlout_detail_hierarchy_2_upper: MICROPHONE
-oomlout_detail_hierarchy_2_upper_length_4: MICR
-oomlout_detail_hierarchy_3: 85_mm_width
-oomlout_detail_hierarchy_3_upper: 85_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 85WI
-oomlout_detail_hierarchy_4: 85_mm_length
-oomlout_detail_hierarchy_4_upper: 85_MM_LENGTH
-oomlout_detail_hierarchy_4_upper_length_4: 85LE
-oomlout_detail_hierarchy_5: 15_mm_depth
-oomlout_detail_hierarchy_5_upper: 15_MM_DEPTH
-oomlout_detail_hierarchy_5_upper_length_4: 15DE
-oomlout_detail_hierarchy_6: cisco
-oomlout_detail_hierarchy_6_upper: CISCO
-oomlout_detail_hierarchy_6_upper_length_4: CISC
-oomlout_detail_hierarchy_7: ttc5_06
-oomlout_detail_hierarchy_7_upper: TTC5_06
-oomlout_detail_hierarchy_7_upper_length_4: TTC5
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_microphone_85_mm_width_85_mm_length_15_mm_depth_3_5_mm_jack_cisco_ttc5_06
 oomp_word: fountain house scroll
 oomp_word_emoji: ':fountain: :house: :scroll:'
@@ -257,10 +227,6 @@ part_number_upper_length_3: TTC
 part_number_upper_length_4: TTC5
 part_number_upper_length_5: TTC5_
 part_number_upper_length_6: TTC5_0
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

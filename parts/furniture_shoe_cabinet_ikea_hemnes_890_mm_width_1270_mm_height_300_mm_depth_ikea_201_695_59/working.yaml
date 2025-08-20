@@ -133,16 +133,8 @@ id_no_class: shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_i
 id_no_color: 890mmwidth1270mmheight300mmdepthikea20169559
 id_no_size: 890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 id_no_type: ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203qh89
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203qh89
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203qh89
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203qh89
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -195,31 +187,6 @@ name_no_color: 890mmwidth1270mmheight300mmdepthikea20169559
 name_no_size: 890 mm Width 1270 mm Height 300 mm Depth Ikea 201 695 59
 name_no_size_short: 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
 name_no_type: Ikea Hemnes 890 mm Width 1270 mm Height 300 mm Depth Ikea 201 695 59
-oomlout_detail_hierarchy_1: furniture
-oomlout_detail_hierarchy_1_upper: FURNITURE
-oomlout_detail_hierarchy_1_upper_length_4: FURN
-oomlout_detail_hierarchy_2: shoe_cabinet
-oomlout_detail_hierarchy_2_upper: SHOE_CABINET
-oomlout_detail_hierarchy_2_upper_length_4: SHOE
-oomlout_detail_hierarchy_3: ikea_hemnes
-oomlout_detail_hierarchy_3_upper: IKEA_HEMNES
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: 890_mm_width
-oomlout_detail_hierarchy_4_upper: 890_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 890W
-oomlout_detail_hierarchy_5: 1270_mm_height
-oomlout_detail_hierarchy_5_upper: 1270_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: '1270'
-oomlout_detail_hierarchy_6: 300_mm_depth
-oomlout_detail_hierarchy_6_upper: 300_MM_DEPTH
-oomlout_detail_hierarchy_6_upper_length_4: 300D
-oomlout_detail_hierarchy_7: ikea
-oomlout_detail_hierarchy_7_upper: IKEA
-oomlout_detail_hierarchy_7_upper_length_4: IKEA
-oomlout_detail_hierarchy_8: '201_695_59'
-oomlout_detail_hierarchy_8_upper: '201_695_59'
-oomlout_detail_hierarchy_8_upper_length_4: '201_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 oomp_word: leopard sushi fries
 oomp_word_emoji: ':leopard: :sushi: :fries:'
@@ -261,10 +228,6 @@ part_number_upper_length_3: '201'
 part_number_upper_length_4: '201_'
 part_number_upper_length_5: '201_6'
 part_number_upper_length_6: '201_69'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ikea_hemnes

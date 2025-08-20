@@ -132,16 +132,8 @@ id_no_class: electronic_header_2_5_mm_jst_xh
 id_no_color: 2_5_mm_jst_xh
 id_no_size: 2_5_mm_jst_xh
 id_no_type: header_2_5_mm_jst_xh
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_5_mm_jst_xh
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_5_mm_jst_xh
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_5_mm_jst_xh
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_5_mm_jst_xh
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2020jsl
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2020jsl
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2020jsl
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2020jsl
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_5_mm_jst_xh
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: 2 5 mm Jst Xh
 name_no_size: 2 5 mm Jst Xh
 name_no_size_short: 2 5 Mm Jst Xh
 name_no_type: Header 2 5 mm Jst Xh
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: header
-oomlout_detail_hierarchy_3_upper: HEADER
-oomlout_detail_hierarchy_3_upper_length_4: HEAD
-oomlout_detail_hierarchy_4: 2_5_mm_jst_xh
-oomlout_detail_hierarchy_4_upper: 2_5_MM_JST_XH
-oomlout_detail_hierarchy_4_upper_length_4: 2_5J
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_header_2_5_mm_jst_xh
 oomp_word: dog trumpet hamster
 oomp_word_emoji: ':dog: :trumpet: :hamster:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic

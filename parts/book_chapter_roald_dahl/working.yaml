@@ -107,16 +107,8 @@ id_no_class: chapter_roald_dahl
 id_no_color: roalddahl
 id_no_size: roald_dahl
 id_no_type: roald_dahl
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_roald_dahl
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_roald_dahl
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_roald_dahl
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_roald_dahl
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201liu2
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201liu2
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201liu2
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201liu2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_roald_dahl
 manufacturer: ''
 manufacturer_capital: ''
@@ -143,16 +135,6 @@ name_no_color: Roalddahl
 name_no_size: Roald Dahl
 name_no_size_short: Roald Dahl
 name_no_type: Roald Dahl
-oomlout_detail_hierarchy_1: book
-oomlout_detail_hierarchy_1_upper: BOOK
-oomlout_detail_hierarchy_1_upper_length_4: BOOK
-oomlout_detail_hierarchy_2: chapter
-oomlout_detail_hierarchy_2_upper: CHAPTER
-oomlout_detail_hierarchy_2_upper_length_4: CHAP
-oomlout_detail_hierarchy_3: roald_dahl
-oomlout_detail_hierarchy_3_upper: ROALD_DAHL
-oomlout_detail_hierarchy_3_upper_length_4: ROAL
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_chapter_roald_dahl
 oomp_word: tongue two golf
 oomp_word_emoji: ':tongue: :two: :golf:'
@@ -170,10 +152,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: roald_dahl

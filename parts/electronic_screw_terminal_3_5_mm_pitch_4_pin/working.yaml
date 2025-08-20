@@ -129,16 +129,8 @@ id_no_class: screw_terminal_3_5_mm_pitch_4_pin
 id_no_color: 4pin
 id_no_size: 4_pin
 id_no_type: 3_5_mm_pitch_4_pin
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_4_pin
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_4_pin
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_4_pin
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_4_pin
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209emp2
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209emp2
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209emp2
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209emp2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_4_pin
 manufacturer: ''
 manufacturer_capital: ''
@@ -165,19 +157,6 @@ name_no_color: 4Pin
 name_no_size: 4 Pin
 name_no_size_short: 4 Pin
 name_no_type: 3 5 mm Pitch 4 Pin
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: sterminal
-oomlout_detail_hierarchy_2_upper: STERMINAL
-oomlout_detail_hierarchy_2_upper_length_4: STER
-oomlout_detail_hierarchy_3: 3_5_mm_pitch
-oomlout_detail_hierarchy_3_upper: 3_5_MM_PITCH
-oomlout_detail_hierarchy_3_upper_length_4: 3_5P
-oomlout_detail_hierarchy_4: 4_pin
-oomlout_detail_hierarchy_4_upper: 4_PIN
-oomlout_detail_hierarchy_4_upper_length_4: 4_PI
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_screw_terminal_3_5_mm_pitch_4_pin
 oomp_word: ticket question leaves
 oomp_word_emoji: ':ticket: :question: :leaves:'
@@ -196,10 +175,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: 4p
 short_code_upper: 4P
 short_name: ''

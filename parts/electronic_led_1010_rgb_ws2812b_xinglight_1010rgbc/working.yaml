@@ -167,16 +167,8 @@ id_no_color: ws2812b_xinglight_1010rgbc
 id_no_size: rgb_ws2812b_xinglight_1010rgbc
 id_no_type: 1010_rgb_ws2812b_xinglight_1010rgbc
 kicad_reference: L
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ug67
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ug67
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207ug67
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ug67
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 manufacturer: xinglight
 manufacturer_capital: Xinglight
@@ -227,28 +219,6 @@ name_no_color: Ws2812B Xinglight 1010RGBc
 name_no_size: RGB Ws2812B Xinglight 1010RGBc
 name_no_size_short: Rgb Ws2k8B Xinglight 1010Rgbc
 name_no_type: 1010 RGB Ws2812B Xinglight 1010RGBc
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: led
-oomlout_detail_hierarchy_2_upper: LED
-oomlout_detail_hierarchy_2_upper_length_4: LED
-oomlout_detail_hierarchy_3: '1010'
-oomlout_detail_hierarchy_3_upper: '1010'
-oomlout_detail_hierarchy_3_upper_length_4: '1010'
-oomlout_detail_hierarchy_4: rgb
-oomlout_detail_hierarchy_4_upper: RGB
-oomlout_detail_hierarchy_4_upper_length_4: RGB
-oomlout_detail_hierarchy_5: ws2812b
-oomlout_detail_hierarchy_5_upper: WS2812B
-oomlout_detail_hierarchy_5_upper_length_4: WS28
-oomlout_detail_hierarchy_6: xinglight
-oomlout_detail_hierarchy_6_upper: XINGLIGHT
-oomlout_detail_hierarchy_6_upper_length_4: XING
-oomlout_detail_hierarchy_7: 1010rgbc
-oomlout_detail_hierarchy_7_upper: 1010RGBC
-oomlout_detail_hierarchy_7_upper_length_4: '1010'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_1010_rgb_ws2812b_xinglight_1010rgbc
 oomp_word: lemon fire leopard
 oomp_word_emoji: ':lemon: :fire: :leopard:'
@@ -307,10 +277,6 @@ pins:
     name: sdi
     number: '4'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: l101028121010rgbc
 short_code_upper: L101028121010RGBC
 short_name: 1010 Rgbws2812B Led

@@ -130,21 +130,9 @@ id_no_class: pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_n
 id_no_color: packof10staedtlernorisschool120
 id_no_size: pack_of_10_staedtler_noris_school_120
 id_no_type: 7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B003JYX2VS
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B003JYX2VS
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B003JYX2VS
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202vgoq
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202vgoq
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202vgoq
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202vgoq
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
 manufacturer: staedtler
 manufacturer_capital: Staedtler
@@ -198,25 +186,6 @@ name_no_size: Pack Of 10 Staedtler Noris School 120
 name_no_size_short: Pack Of 10 Staedtler Noris School 120
 name_no_type: 7 5 mm Diameter Hexagon 175 mm Length Pack Of 10 Staedtler Noris School
   120
-oomlout_detail_hierarchy_1: stationery
-oomlout_detail_hierarchy_1_upper: STATIONERY
-oomlout_detail_hierarchy_1_upper_length_4: STAT
-oomlout_detail_hierarchy_2: pencil
-oomlout_detail_hierarchy_2_upper: PENCIL
-oomlout_detail_hierarchy_2_upper_length_4: PENC
-oomlout_detail_hierarchy_3: 175_mm_length
-oomlout_detail_hierarchy_3_upper: 175_MM_LENGTH
-oomlout_detail_hierarchy_3_upper_length_4: 175L
-oomlout_detail_hierarchy_4: pack_of_10
-oomlout_detail_hierarchy_4_upper: PACK_OF_10
-oomlout_detail_hierarchy_4_upper_length_4: PACK
-oomlout_detail_hierarchy_5: staedtler
-oomlout_detail_hierarchy_5_upper: STAEDTLER
-oomlout_detail_hierarchy_5_upper_length_4: STAE
-oomlout_detail_hierarchy_6: noris_school_120
-oomlout_detail_hierarchy_6_upper: NORIS_SCHOOL_120
-oomlout_detail_hierarchy_6_upper_length_4: NORI
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
 oomp_word: hatching_chick shoe koala
 oomp_word_emoji: ':hatching_chick: :shoe: :koala:'
@@ -258,10 +227,6 @@ part_number_upper_length_3: NOR
 part_number_upper_length_4: NORI
 part_number_upper_length_5: NORIS
 part_number_upper_length_6: NORIS_
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

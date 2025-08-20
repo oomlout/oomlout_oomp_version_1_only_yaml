@@ -156,16 +156,8 @@ id_no_class: electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
 id_no_color: cubby_box
 id_no_size: c_size_26_mm_diameter_50_mm_depth_cubby_box
 id_no_type: battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205qaod
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205qaod
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205qaod
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205qaod
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,22 +184,6 @@ name_no_color: Cubby Box
 name_no_size: C Size 26 mm Diameter 50 mm Depth Cubby Box
 name_no_size_short: C Size 26 Mm Diameter 50 Mm Depth Cubby Box
 name_no_type: Battery C Size 26 mm Diameter 50 mm Depth Cubby Box
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: battery
-oomlout_detail_hierarchy_3_upper: BATTERY
-oomlout_detail_hierarchy_3_upper_length_4: BATT
-oomlout_detail_hierarchy_4: 50_mm_depth
-oomlout_detail_hierarchy_4_upper: 50_MM_DEPTH
-oomlout_detail_hierarchy_4_upper_length_4: 50DE
-oomlout_detail_hierarchy_5: cubby_box
-oomlout_detail_hierarchy_5_upper: CUBBY_BOX
-oomlout_detail_hierarchy_5_upper_length_4: CUBB
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_battery_c_size_26_mm_diameter_50_mm_depth_cubby_box
 oomp_word: paperclip stars scroll
 oomp_word_emoji: ':paperclip: :stars: :scroll:'
@@ -226,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic

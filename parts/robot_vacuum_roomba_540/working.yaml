@@ -105,16 +105,8 @@ id_no_class: roomba_540
 id_no_color: roomba540
 id_no_size: roomba540
 id_no_type: roomba540
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_540
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_540
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_540
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_540
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20nvez
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20nvez
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20nvez
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20nvez
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_540
 manufacturer: roomba
 manufacturer_capital: Roomba
@@ -165,16 +157,6 @@ name_no_color: Roomba540
 name_no_size: Roomba540
 name_no_size_short: Roomba540
 name_no_type: Roomba540
-oomlout_detail_hierarchy_1: robot_vacuum
-oomlout_detail_hierarchy_1_upper: ROBOT_VACUUM
-oomlout_detail_hierarchy_1_upper_length_4: ROBO
-oomlout_detail_hierarchy_2: roomba
-oomlout_detail_hierarchy_2_upper: ROOMBA
-oomlout_detail_hierarchy_2_upper_length_4: ROOM
-oomlout_detail_hierarchy_3: '540'
-oomlout_detail_hierarchy_3_upper: '540'
-oomlout_detail_hierarchy_3_upper_length_4: '540'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_robot_vacuum_roomba_540
 oomp_word: star recycle grapes
 oomp_word_emoji: ':star: :recycle: :grapes:'
@@ -216,10 +198,6 @@ part_number_upper_length_3: '540'
 part_number_upper_length_4: '540'
 part_number_upper_length_5: '540'
 part_number_upper_length_6: '540'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Roomba 540

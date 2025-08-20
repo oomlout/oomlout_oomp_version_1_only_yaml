@@ -153,16 +153,8 @@ id_no_class: part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdr
 id_no_color: 9width5height20mmdepthtoolscrewdriverhexwera60mmx5extra
 id_no_size: 9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
 id_no_type: tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2092v9r
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2092v9r
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2092v9r
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2092v9r
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
 manufacturer: ''
 manufacturer_capital: ''
@@ -194,25 +186,6 @@ name_no_size_short: 9 Width 5 Height 20 Mm Depth Tool Screwdriver Hex Wera 60 Mm
   Extra
 name_no_type: Tool Holder Vertical 9 Width 5 Height 20 mm Depth Tool Screwdriver Hex
   Wera 60 mm X5 Extra
-oomlout_detail_hierarchy_1: oobb
-oomlout_detail_hierarchy_1_upper: OOBB
-oomlout_detail_hierarchy_1_upper_length_4: OOBB
-oomlout_detail_hierarchy_2: part
-oomlout_detail_hierarchy_2_upper: PART
-oomlout_detail_hierarchy_2_upper_length_4: PART
-oomlout_detail_hierarchy_3: tool_holder_vertical
-oomlout_detail_hierarchy_3_upper: TOOL_HOLDER_VERTICAL
-oomlout_detail_hierarchy_3_upper_length_4: TOOL
-oomlout_detail_hierarchy_4: 20_mm_depth
-oomlout_detail_hierarchy_4_upper: 20_MM_DEPTH
-oomlout_detail_hierarchy_4_upper_length_4: 20DE
-oomlout_detail_hierarchy_5: tool_screwdriver_hex_wera
-oomlout_detail_hierarchy_5_upper: TOOL_SCREWDRIVER_HEX_WERA
-oomlout_detail_hierarchy_5_upper_length_4: TOOL
-oomlout_detail_hierarchy_6: 60_mm_x5_extra
-oomlout_detail_hierarchy_6_upper: 60_MM_X5_EXTRA
-oomlout_detail_hierarchy_6_upper_length_4: 60X5
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_oobb_part_tool_holder_vertical_9_width_5_height_20_mm_depth_tool_screwdriver_hex_wera_60_mm_x5_extra
 oomp_word: tram eyeglasses melon
 oomp_word_emoji: ':tram: :eyeglasses: :melon:'
@@ -230,10 +203,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

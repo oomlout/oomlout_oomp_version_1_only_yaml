@@ -154,16 +154,8 @@ id_no_color: 20pinthroughholedangerousprototypesraspberrypipicosidea
 id_no_size: 20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
 id_no_type: 2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
 kicad_reference: CONN
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201y6m1
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201y6m1
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201y6m1
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201y6m1
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
 manufacturer: dangerous_prototypes
 manufacturer_capital: Dangerous Prototypes
@@ -218,28 +210,6 @@ name_no_size_short: 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico S
   A
 name_no_type: 2 54 mm 20 Pin Through Hole Dangerous Prototypes Raspberry Pi Pico Side
   A
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: socket
-oomlout_detail_hierarchy_2_upper: SOCKET
-oomlout_detail_hierarchy_2_upper_length_4: SOCK
-oomlout_detail_hierarchy_3: 2_54_mm
-oomlout_detail_hierarchy_3_upper: 2_54_MM
-oomlout_detail_hierarchy_3_upper_length_4: '2_54'
-oomlout_detail_hierarchy_4: 20_pin
-oomlout_detail_hierarchy_4_upper: 20_PIN
-oomlout_detail_hierarchy_4_upper_length_4: 20_P
-oomlout_detail_hierarchy_5: through_hole
-oomlout_detail_hierarchy_5_upper: THROUGH_HOLE
-oomlout_detail_hierarchy_5_upper_length_4: THRO
-oomlout_detail_hierarchy_6: dangerous_prototypes
-oomlout_detail_hierarchy_6_upper: DANGEROUS_PROTOTYPES
-oomlout_detail_hierarchy_6_upper_length_4: DANG
-oomlout_detail_hierarchy_7: raspberry_pi_pico_side_a
-oomlout_detail_hierarchy_7_upper: RASPBERRY_PI_PICO_SIDE_A
-oomlout_detail_hierarchy_7_upper_length_4: RASP
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_socket_2_54_mm_20_pin_through_hole_dangerous_prototypes_raspberry_pi_pico_side_a
 oomp_word: ocean five eight
 oomp_word_emoji: ':ocean: :five: :eight:'
@@ -281,10 +251,6 @@ part_number_upper_length_3: RAS
 part_number_upper_length_4: RASP
 part_number_upper_length_5: RASPB
 part_number_upper_length_6: RASPBE
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: sci120pth
 short_code_upper: SCI120PTH
 size: 2_54_mm

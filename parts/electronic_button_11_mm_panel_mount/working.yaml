@@ -129,16 +129,8 @@ id_no_class: button_11_mm_panel_mount
 id_no_color: panel_mount
 id_no_size: panel_mount
 id_no_type: 11_mm_panel_mount
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_11_mm_panel_mount
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_11_mm_panel_mount
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_11_mm_panel_mount
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_11_mm_panel_mount
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203w88c
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203w88c
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203w88c
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203w88c
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_11_mm_panel_mount
 manufacturer: ''
 manufacturer_capital: ''
@@ -165,19 +157,6 @@ name_no_color: Panel Mount
 name_no_size: Panel Mount
 name_no_size_short: Panel Mount
 name_no_type: 11 mm Panel Mount
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: button
-oomlout_detail_hierarchy_2_upper: BUTTON
-oomlout_detail_hierarchy_2_upper_length_4: BUTT
-oomlout_detail_hierarchy_3: 11_mm
-oomlout_detail_hierarchy_3_upper: 11_MM
-oomlout_detail_hierarchy_3_upper_length_4: 11_M
-oomlout_detail_hierarchy_4: panel_mount
-oomlout_detail_hierarchy_4_upper: PANEL_MOUNT
-oomlout_detail_hierarchy_4_upper_length_4: PANE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_button_11_mm_panel_mount
 oomp_word: rose corn shirt
 oomp_word_emoji: ':rose: :corn: :shirt:'
@@ -195,10 +174,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: b11p
 short_code_upper: B11P
 short_name: ''

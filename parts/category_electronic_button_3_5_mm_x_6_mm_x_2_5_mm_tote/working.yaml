@@ -156,16 +156,8 @@ id_no_class: electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
 id_no_color: tote
 id_no_size: 3_5_mm_x_6_mm_x_2_5_mm_tote
 id_no_type: button_3_5_mm_x_6_mm_x_2_5_mm_tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2092val
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2092val
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2092val
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2092val
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,28 +184,6 @@ name_no_color: Tote
 name_no_size: 3 5 mm X 6 mm X 2 5 mm Tote
 name_no_size_short: 3 5 Mm X 6 Mm X 2 5 Mm Tote
 name_no_type: Button 3 5 mm X 6 mm X 2 5 mm Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: button
-oomlout_detail_hierarchy_3_upper: BUTTON
-oomlout_detail_hierarchy_3_upper_length_4: BUTT
-oomlout_detail_hierarchy_4: 3_5_mm_x
-oomlout_detail_hierarchy_4_upper: 3_5_MM_X
-oomlout_detail_hierarchy_4_upper_length_4: 3_5X
-oomlout_detail_hierarchy_5: 6_mm_x_2
-oomlout_detail_hierarchy_5_upper: 6_MM_X_2
-oomlout_detail_hierarchy_5_upper_length_4: 6X_2
-oomlout_detail_hierarchy_6: 5_mm
-oomlout_detail_hierarchy_6_upper: 5_MM
-oomlout_detail_hierarchy_6_upper_length_4: 5_MM
-oomlout_detail_hierarchy_7: tote
-oomlout_detail_hierarchy_7_upper: TOTE
-oomlout_detail_hierarchy_7_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_button_3_5_mm_x_6_mm_x_2_5_mm_tote
 oomp_word: tram eyeglasses bus
 oomp_word_emoji: ':tram: :eyeglasses: :bus:'
@@ -232,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic

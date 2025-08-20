@@ -131,16 +131,8 @@ id_no_class: table_oomlout_2440_mm_width_1220_mm_height
 id_no_color: 2440mmwidth1220mmheight
 id_no_size: 2440_mm_width_1220_mm_height
 id_no_type: oomlout_2440_mm_width_1220_mm_height
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205l5qn
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205l5qn
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205l5qn
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205l5qn
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
 manufacturer: ''
 manufacturer_capital: ''
@@ -167,22 +159,6 @@ name_no_color: 2440mmwidth1220mmheight
 name_no_size: 2440 mm Width 1220 mm Height
 name_no_size_short: 2440 Mm Width 1220 Mm Height
 name_no_type: Oomlout 2440 mm Width 1220 mm Height
-oomlout_detail_hierarchy_1: furniture
-oomlout_detail_hierarchy_1_upper: FURNITURE
-oomlout_detail_hierarchy_1_upper_length_4: FURN
-oomlout_detail_hierarchy_2: table
-oomlout_detail_hierarchy_2_upper: TABLE
-oomlout_detail_hierarchy_2_upper_length_4: TABL
-oomlout_detail_hierarchy_3: oomlout
-oomlout_detail_hierarchy_3_upper: OOMLOUT
-oomlout_detail_hierarchy_3_upper_length_4: OOML
-oomlout_detail_hierarchy_4: 2440_mm_width
-oomlout_detail_hierarchy_4_upper: 2440_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: '2440'
-oomlout_detail_hierarchy_5: 1220_mm_height
-oomlout_detail_hierarchy_5_upper: 1220_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: '1220'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_table_oomlout_2440_mm_width_1220_mm_height
 oomp_word: calendar hamster ant
 oomp_word_emoji: ':calendar: :hamster: :ant:'
@@ -200,10 +176,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

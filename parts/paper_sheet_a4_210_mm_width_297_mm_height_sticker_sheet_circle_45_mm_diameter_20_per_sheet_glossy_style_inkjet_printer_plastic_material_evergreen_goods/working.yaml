@@ -158,22 +158,10 @@ id_no_class: sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diam
 id_no_color: stickercircle45mmdiameter20perglossystyleinkjetprinterplasticmaterialevergreengoods
 id_no_size: sticker_circle_45_mm_diameter_20_per_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 id_no_type: a4_210_mm_width_297_mm_height_sticker_circle_45_mm_diameter_20_per_glossy_style_inkjet_printer_plastic_material_evergreen_goods
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B09314D2F5
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B09314D2F5
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B09314D2F5
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 link_manufacturer: https://www.evergreengoods.com/product-page/%C3%B845mm-circle-pre-cut-vinyl-labels-glossy-white-4x5-20-per-a4-sheet
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201aqfg
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201aqfg
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201aqfg
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201aqfg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 manufacturer: evergreen_goods
 manufacturer_capital: Evergreen Goods
@@ -230,34 +218,6 @@ name_no_size_short: Sticker Circle 45 Mm Diameter 20 Per Glossy Style Inkjet Pri
   Plastic Material Evergreen Goods
 name_no_type: A4 210 mm Width 297 mm Height Sticker Circle 45 mm Diameter 20 Per Glossy
   Style Inkjet Printer Plastic Material Evergreen Goods
-oomlout_detail_hierarchy_1: paper
-oomlout_detail_hierarchy_1_upper: PAPER
-oomlout_detail_hierarchy_1_upper_length_4: PAPE
-oomlout_detail_hierarchy_2: sheet
-oomlout_detail_hierarchy_2_upper: SHEET
-oomlout_detail_hierarchy_2_upper_length_4: SHEE
-oomlout_detail_hierarchy_3: 210_mm_width
-oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 210W
-oomlout_detail_hierarchy_4: 297_mm_height
-oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 297H
-oomlout_detail_hierarchy_5: sticker_sheet_circle_45
-oomlout_detail_hierarchy_5_upper: STICKER_SHEET_CIRCLE_45
-oomlout_detail_hierarchy_5_upper_length_4: STIC
-oomlout_detail_hierarchy_6: mm_diameter_20_per_sheet
-oomlout_detail_hierarchy_6_upper: MM_DIAMETER_20_PER_SHEET
-oomlout_detail_hierarchy_6_upper_length_4: MM_D
-oomlout_detail_hierarchy_7: glossy_style_inkjet_printer
-oomlout_detail_hierarchy_7_upper: GLOSSY_STYLE_INKJET_PRINTER
-oomlout_detail_hierarchy_7_upper_length_4: GLOS
-oomlout_detail_hierarchy_8: plastic_material
-oomlout_detail_hierarchy_8_upper: PLASTIC_MATERIAL
-oomlout_detail_hierarchy_8_upper_length_4: PLAS
-oomlout_detail_hierarchy_9: evergreen_goods
-oomlout_detail_hierarchy_9_upper: EVERGREEN_GOODS
-oomlout_detail_hierarchy_9_upper_length_4: EVER
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 oomp_word: feet snake turtle
 oomp_word_emoji: ':feet: :snake: :turtle:'
@@ -276,12 +236,7 @@ part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
 price_1: 0.41625
-price_1_distributor_3: 0.41625
 price_1_distributor_amazon: 0.41625
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height

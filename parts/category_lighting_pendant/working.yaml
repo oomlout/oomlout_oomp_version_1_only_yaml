@@ -108,16 +108,8 @@ id_no_class: lighting_pendant
 id_no_color: pendant
 id_no_size: pendant
 id_no_type: pendant
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202d6b5
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202d6b5
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202d6b5
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202d6b5
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant
 manufacturer: ''
 manufacturer_capital: ''
@@ -144,16 +136,6 @@ name_no_color: Pendant
 name_no_size: Pendant
 name_no_size_short: Pendant
 name_no_type: Pendant
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: lighting
-oomlout_detail_hierarchy_2_upper: LIGHTING
-oomlout_detail_hierarchy_2_upper_length_4: LIGH
-oomlout_detail_hierarchy_3: pendant
-oomlout_detail_hierarchy_3_upper: PENDANT
-oomlout_detail_hierarchy_3_upper_length_4: PEND
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_lighting_pendant
 oomp_word: pig pencil ocean
 oomp_word_emoji: ':pig: :pencil: :ocean:'
@@ -172,10 +154,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorylighting

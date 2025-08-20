@@ -155,16 +155,8 @@ id_no_color: atmega328parduinocompatiblebreakoutcncshield
 id_no_size: atmega328p_arduino_compatible_breakout_cnc_shield
 id_no_type: shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2048nwg
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2048nwg
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2048nwg
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2048nwg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 manufacturer: ''
 manufacturer_capital: ''
@@ -194,22 +186,6 @@ name_no_size: Atmega328P Arduino Compatible Breakout Cnc Shield
 name_no_size_short: Atmega328P Arduino Compatible Breakout Cnc Shield
 name_no_type: Shennie Atmega328P Arduino Compatible Breakout Cnc Shield
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_mcu
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: shennie
-oomlout_detail_hierarchy_3_upper: SHENNIE
-oomlout_detail_hierarchy_3_upper_length_4: SHEN
-oomlout_detail_hierarchy_4: atmega328p_arduino_compatible
-oomlout_detail_hierarchy_4_upper: ATMEGA328P_ARDUINO_COMPATIBLE
-oomlout_detail_hierarchy_4_upper_length_4: ATME
-oomlout_detail_hierarchy_5: breakout_cnc_shield
-oomlout_detail_hierarchy_5_upper: BREAKOUT_CNC_SHIELD
-oomlout_detail_hierarchy_5_upper_length_4: BREA
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_shennie_atmega328p_arduino_compatible_breakout_cnc_shield
 oomp_word: blossom tophat bowtie
 oomp_word_emoji: ':blossom: :tophat: :bowtie:'
@@ -348,10 +324,6 @@ pins:
     name: d6
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: sh
 short_code_upper: SH
 short_name: ''

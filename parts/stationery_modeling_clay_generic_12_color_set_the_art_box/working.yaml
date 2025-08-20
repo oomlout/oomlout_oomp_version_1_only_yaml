@@ -154,21 +154,9 @@ id_no_class: modeling_clay_generic_12_color_set_the_art_box
 id_no_color: generic12colorsettheartbox
 id_no_size: generic12colorsettheartbox
 id_no_type: generic_12_color_set_the_art_box
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_modeling_clay_generic_12_color_set_the_art_box
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_modeling_clay_generic_12_color_set_the_art_box
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B00BGERNOU
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B00BGERNOU
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B00BGERNOU
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_modeling_clay_generic_12_color_set_the_art_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_modeling_clay_generic_12_color_set_the_art_box
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208gyw9
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208gyw9
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208gyw9
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208gyw9
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_modeling_clay_generic_12_color_set_the_art_box
 manufacturer: the_art_box
 manufacturer_capital: The Art Box
@@ -219,22 +207,6 @@ name_no_color: Generic12Colorsettheartbox
 name_no_size: Generic12Colorsettheartbox
 name_no_size_short: Generic12Colorsettheartbox
 name_no_type: Generic 12 Color Set The Art Box
-oomlout_detail_hierarchy_1: stationery
-oomlout_detail_hierarchy_1_upper: STATIONERY
-oomlout_detail_hierarchy_1_upper_length_4: STAT
-oomlout_detail_hierarchy_2: modeling_clay
-oomlout_detail_hierarchy_2_upper: MODELING_CLAY
-oomlout_detail_hierarchy_2_upper_length_4: MODE
-oomlout_detail_hierarchy_3: generic
-oomlout_detail_hierarchy_3_upper: GENERIC
-oomlout_detail_hierarchy_3_upper_length_4: GENE
-oomlout_detail_hierarchy_4: 12_color_set
-oomlout_detail_hierarchy_4_upper: 12_COLOR_SET
-oomlout_detail_hierarchy_4_upper_length_4: 12_C
-oomlout_detail_hierarchy_5: art_box
-oomlout_detail_hierarchy_5_upper: ART_BOX
-oomlout_detail_hierarchy_5_upper_length_4: ART_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_modeling_clay_generic_12_color_set_the_art_box
 oomp_word: bank dancer sandal
 oomp_word_emoji: ':bank: :dancer: :sandal:'
@@ -252,10 +224,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

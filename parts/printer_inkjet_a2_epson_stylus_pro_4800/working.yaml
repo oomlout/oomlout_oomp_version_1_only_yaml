@@ -105,16 +105,8 @@ id_no_class: inkjet_a2_epson_stylus_pro_4800
 id_no_color: epsonstyluspro4800
 id_no_size: epson_stylus_pro_4800
 id_no_type: a2_epson_stylus_pro_4800
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2016a19
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2016a19
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2016a19
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2016a19
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
 manufacturer: epson
 manufacturer_capital: Epson
@@ -165,22 +157,6 @@ name_no_color: Epsonstyluspro4800
 name_no_size: Epson Stylus Pro 4800
 name_no_size_short: Epson Stylus Pro 4800
 name_no_type: A2 Epson Stylus Pro 4800
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: inkjet
-oomlout_detail_hierarchy_2_upper: INKJET
-oomlout_detail_hierarchy_2_upper_length_4: INKJ
-oomlout_detail_hierarchy_3: a2
-oomlout_detail_hierarchy_3_upper: A2
-oomlout_detail_hierarchy_3_upper_length_4: A2
-oomlout_detail_hierarchy_4: epson
-oomlout_detail_hierarchy_4_upper: EPSON
-oomlout_detail_hierarchy_4_upper_length_4: EPSO
-oomlout_detail_hierarchy_5: stylus_pro_4800
-oomlout_detail_hierarchy_5_upper: STYLUS_PRO_4800
-oomlout_detail_hierarchy_5_upper_length_4: STYL
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_inkjet_a2_epson_stylus_pro_4800
 oomp_word: angel pray bug
 oomp_word_emoji: ':angel: :pray: :bug:'
@@ -223,10 +199,6 @@ part_number_upper_length_3: STY
 part_number_upper_length_4: STYL
 part_number_upper_length_5: STYLU
 part_number_upper_length_6: STYLUS
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Epson Stylus Pro 4800

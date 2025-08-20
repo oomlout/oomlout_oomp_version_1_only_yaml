@@ -179,16 +179,8 @@ id_no_class: pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_
 id_no_color: preparedpastasaucetomatoandroastedgarlicjar350gramloydgrossman
 id_no_size: preparedpastasaucetomatoandroastedgarlicjar350gramloydgrossman
 id_no_type: prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208grcz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208grcz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208grcz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208grcz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 manufacturer: loyd_grossman
 manufacturer_capital: Loyd Grossman
@@ -242,28 +234,6 @@ name_no_size: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
 name_no_size_short: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
 name_no_type: Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd Grossman
 name_short: Pasta Sauce Tomato and Roasted Garlic
-oomlout_detail_hierarchy_1: food
-oomlout_detail_hierarchy_1_upper: FOOD
-oomlout_detail_hierarchy_1_upper_length_4: FOOD
-oomlout_detail_hierarchy_2: pantry
-oomlout_detail_hierarchy_2_upper: PANTRY
-oomlout_detail_hierarchy_2_upper_length_4: PANT
-oomlout_detail_hierarchy_3: prepared
-oomlout_detail_hierarchy_3_upper: PREPARED
-oomlout_detail_hierarchy_3_upper_length_4: PREP
-oomlout_detail_hierarchy_4: pasta_sauce_tomato_and
-oomlout_detail_hierarchy_4_upper: PASTA_SAUCE_TOMATO_AND
-oomlout_detail_hierarchy_4_upper_length_4: PAST
-oomlout_detail_hierarchy_5: roasted_garlic
-oomlout_detail_hierarchy_5_upper: ROASTED_GARLIC
-oomlout_detail_hierarchy_5_upper_length_4: ROAS
-oomlout_detail_hierarchy_6: 350_gram
-oomlout_detail_hierarchy_6_upper: 350_GRAM
-oomlout_detail_hierarchy_6_upper_length_4: '350_'
-oomlout_detail_hierarchy_7: loyd_grossman
-oomlout_detail_hierarchy_7_upper: LOYD_GROSSMAN
-oomlout_detail_hierarchy_7_upper_length_4: LOYD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
 oomp_word: hospital five lock
 oomp_word_emoji: ':hospital: :five: :lock:'
@@ -281,10 +251,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

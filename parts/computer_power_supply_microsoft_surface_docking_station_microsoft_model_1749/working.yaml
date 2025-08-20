@@ -131,16 +131,8 @@ id_no_class: power_supply_microsoft_surface_docking_station_microsoft_model_1749
 id_no_color: dockingstationmicrosoftmodel1749
 id_no_size: docking_station_microsoft_model_1749
 id_no_type: microsoft_surface_docking_station_microsoft_model_1749
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205lsuo
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205lsuo
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205lsuo
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205lsuo
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
 manufacturer: microsoft
 manufacturer_capital: Microsoft
@@ -191,25 +183,6 @@ name_no_color: Dockingstationmicrosoftmodel1749
 name_no_size: Docking Station Microsoft Model 1749
 name_no_size_short: Docking Station Microsoft Model 1749
 name_no_type: Microsoft Surface Docking Station Microsoft Model 1749
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: power_supply
-oomlout_detail_hierarchy_2_upper: POWER_SUPPLY
-oomlout_detail_hierarchy_2_upper_length_4: POWE
-oomlout_detail_hierarchy_3: microsoft_surface
-oomlout_detail_hierarchy_3_upper: MICROSOFT_SURFACE
-oomlout_detail_hierarchy_3_upper_length_4: MICR
-oomlout_detail_hierarchy_4: docking_station
-oomlout_detail_hierarchy_4_upper: DOCKING_STATION
-oomlout_detail_hierarchy_4_upper_length_4: DOCK
-oomlout_detail_hierarchy_5: microsoft
-oomlout_detail_hierarchy_5_upper: MICROSOFT
-oomlout_detail_hierarchy_5_upper_length_4: MICR
-oomlout_detail_hierarchy_6: model_1749
-oomlout_detail_hierarchy_6_upper: MODEL_1749
-oomlout_detail_hierarchy_6_upper_length_4: MODE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_power_supply_microsoft_surface_docking_station_microsoft_model_1749
 oomp_word: calendar lipstick beetle
 oomp_word_emoji: ':calendar: :lipstick: :beetle:'
@@ -251,10 +224,6 @@ part_number_upper_length_3: MOD
 part_number_upper_length_4: MODE
 part_number_upper_length_5: MODEL
 part_number_upper_length_6: MODEL_
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: microsoft_surface

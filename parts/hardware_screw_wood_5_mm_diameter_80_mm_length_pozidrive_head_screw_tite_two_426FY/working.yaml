@@ -132,16 +132,8 @@ id_no_class: screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two
 id_no_color: 5mmdiameter80mmlengthpozidriveheadscrewtitetwo426FY
 id_no_size: 5mmdiameter80mmlengthpozidriveheadscrewtitetwo426FY
 id_no_type: 5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203jykc
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203jykc
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203jykc
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203jykc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
 manufacturer: screw_tite_two
 manufacturer_capital: Screw Tite Two
@@ -194,22 +186,6 @@ name_no_color: 5mmdiameter80mmlengthpozidriveheadscrewtitetwo426Fy
 name_no_size: 5mmdiameter80mmlengthpozidriveheadscrewtitetwo426Fy
 name_no_size_short: 5Mmdiameter80Mmlengthpozidriveheadscrewtitetwo426Fy
 name_no_type: 5 mm Diameter 80 mm Length Pozidrive Head Screw Tite Two 426Fy
-oomlout_detail_hierarchy_1: hardware
-oomlout_detail_hierarchy_1_upper: HARDWARE
-oomlout_detail_hierarchy_1_upper_length_4: HARD
-oomlout_detail_hierarchy_2: swood
-oomlout_detail_hierarchy_2_upper: SWOOD
-oomlout_detail_hierarchy_2_upper_length_4: SWOO
-oomlout_detail_hierarchy_3: 80_mm_length
-oomlout_detail_hierarchy_3_upper: 80_MM_LENGTH
-oomlout_detail_hierarchy_3_upper_length_4: 80LE
-oomlout_detail_hierarchy_4: stite_two
-oomlout_detail_hierarchy_4_upper: STITE_TWO
-oomlout_detail_hierarchy_4_upper_length_4: STIT
-oomlout_detail_hierarchy_5: 426FY
-oomlout_detail_hierarchy_5_upper: 426FY
-oomlout_detail_hierarchy_5_upper_length_4: 426F
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_wood_5_mm_diameter_80_mm_length_pozidrive_head_screw_tite_two_426FY
 oomp_word: rooster hand sushi
 oomp_word_emoji: ':rooster: :hand: :sushi:'
@@ -251,10 +227,6 @@ part_number_upper_length_3: '426'
 part_number_upper_length_4: 426F
 part_number_upper_length_5: 426FY
 part_number_upper_length_6: 426FY
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

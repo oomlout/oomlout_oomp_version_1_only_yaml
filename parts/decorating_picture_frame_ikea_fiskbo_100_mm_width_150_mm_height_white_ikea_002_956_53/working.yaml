@@ -153,17 +153,9 @@ id_no_class: picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002
 id_no_color: 100mmwidth150mmheightwhiteikea00295653
 id_no_size: 100_mm_width_150_mm_height_white_ikea_002_956_53
 id_no_type: ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
-link_2_name: link_github
 link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=002.956.53
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204thuw
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204thuw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204thuw
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204thuw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -216,31 +208,6 @@ name_no_color: 100mmwidth150mmheightwhiteikea00295653
 name_no_size: 100 mm Width 150 mm Height White Ikea 002 956 53
 name_no_size_short: 100 Mm Width 150 Mm Height White Ikea 002 956 53
 name_no_type: Ikea Fiskbo 100 mm Width 150 mm Height White Ikea 002 956 53
-oomlout_detail_hierarchy_1: decorating
-oomlout_detail_hierarchy_1_upper: DECORATING
-oomlout_detail_hierarchy_1_upper_length_4: DECO
-oomlout_detail_hierarchy_2: picture_frame
-oomlout_detail_hierarchy_2_upper: PICTURE_FRAME
-oomlout_detail_hierarchy_2_upper_length_4: PICT
-oomlout_detail_hierarchy_3: ikea_fiskbo
-oomlout_detail_hierarchy_3_upper: IKEA_FISKBO
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: 100_mm_width
-oomlout_detail_hierarchy_4_upper: 100_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 100W
-oomlout_detail_hierarchy_5: 150_mm_height
-oomlout_detail_hierarchy_5_upper: 150_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 150H
-oomlout_detail_hierarchy_6: white
-oomlout_detail_hierarchy_6_upper: WHITE
-oomlout_detail_hierarchy_6_upper_length_4: WHIT
-oomlout_detail_hierarchy_7: ikea
-oomlout_detail_hierarchy_7_upper: IKEA
-oomlout_detail_hierarchy_7_upper_length_4: IKEA
-oomlout_detail_hierarchy_8: 002_956_53
-oomlout_detail_hierarchy_8_upper: 002_956_53
-oomlout_detail_hierarchy_8_upper_length_4: '002_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
 oomp_word: computer lock shoe
 oomp_word_emoji: ':computer: :lock: :shoe:'
@@ -283,10 +250,6 @@ part_number_upper_length_3: '002'
 part_number_upper_length_4: '002_'
 part_number_upper_length_5: 002_9
 part_number_upper_length_6: 002_95
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ikea_fiskbo

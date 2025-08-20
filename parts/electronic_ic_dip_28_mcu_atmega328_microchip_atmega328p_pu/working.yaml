@@ -164,16 +164,8 @@ id_no_class: ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 id_no_color: atmega328_microchip_atmega328p_pu
 id_no_size: mcu_atmega328_microchip_atmega328p_pu
 id_no_type: dip_28_mcu_atmega328_microchip_atmega328p_pu
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203k28t
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203k28t
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203k28t
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203k28t
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 manufacturer: microchip
 manufacturer_capital: Microchip
@@ -224,28 +216,6 @@ name_no_color: Atmega328 Microchip Atmega328P Pu
 name_no_size: MCU Atmega328 Microchip Atmega328P Pu
 name_no_size_short: Mcu Atmega328 Microchip Atmega328P Pu
 name_no_type: Dip 28 MCU Atmega328 Microchip Atmega328P Pu
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: dip_28
-oomlout_detail_hierarchy_3_upper: DIP_28
-oomlout_detail_hierarchy_3_upper_length_4: DIP_
-oomlout_detail_hierarchy_4: mcu
-oomlout_detail_hierarchy_4_upper: MCU
-oomlout_detail_hierarchy_4_upper_length_4: MCU
-oomlout_detail_hierarchy_5: atmega328
-oomlout_detail_hierarchy_5_upper: ATMEGA328
-oomlout_detail_hierarchy_5_upper_length_4: ATME
-oomlout_detail_hierarchy_6: microchip
-oomlout_detail_hierarchy_6_upper: MICROCHIP
-oomlout_detail_hierarchy_6_upper_length_4: MICR
-oomlout_detail_hierarchy_7: atmega328p_pu
-oomlout_detail_hierarchy_7_upper: ATMEGA328P_PU
-oomlout_detail_hierarchy_7_upper_length_4: ATME
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_dip_28_mcu_atmega328_microchip_atmega328p_pu
 oomp_word: rooster cloud blowfish
 oomp_word_emoji: ':rooster: :cloud: :blowfish:'
@@ -287,10 +257,6 @@ part_number_upper_length_3: ATM
 part_number_upper_length_4: ATME
 part_number_upper_length_5: ATMEG
 part_number_upper_length_6: ATMEGA
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: id28mcuat328
 short_code_upper: ID28MCUAT328
 short_name: atmega328 28 pin dip

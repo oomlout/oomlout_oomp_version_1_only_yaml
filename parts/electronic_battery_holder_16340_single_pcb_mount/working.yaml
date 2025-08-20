@@ -153,16 +153,8 @@ id_no_class: battery_holder_16340_single_pcb_mount
 id_no_color: pcb_mount
 id_no_size: single_pcb_mount
 id_no_type: 16340_single_pcb_mount
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20uxfv
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20uxfv
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20uxfv
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20uxfv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_holder_16340_single_pcb_mount
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,22 +181,6 @@ name_no_color: PCB Mount
 name_no_size: Single PCB Mount
 name_no_size_short: Single Pcb Mount
 name_no_type: 16340 Single PCB Mount
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: battery_holder
-oomlout_detail_hierarchy_2_upper: BATTERY_HOLDER
-oomlout_detail_hierarchy_2_upper_length_4: BATT
-oomlout_detail_hierarchy_3: '16340'
-oomlout_detail_hierarchy_3_upper: '16340'
-oomlout_detail_hierarchy_3_upper_length_4: '1634'
-oomlout_detail_hierarchy_4: single
-oomlout_detail_hierarchy_4_upper: SINGLE
-oomlout_detail_hierarchy_4_upper_length_4: SING
-oomlout_detail_hierarchy_5: pcb_mount
-oomlout_detail_hierarchy_5_upper: PCB_MOUNT
-oomlout_detail_hierarchy_5_upper_length_4: PCB_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_battery_holder_16340_single_pcb_mount
 oomp_word: thumbsup wink grapes
 oomp_word_emoji: ':thumbsup: :wink: :grapes:'
@@ -222,10 +198,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: 16340 Single Cell PCB Mount

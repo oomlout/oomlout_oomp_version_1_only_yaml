@@ -166,16 +166,8 @@ id_no_color: raspberrypi2040headerattached
 id_no_size: raspberry_pi_2040_header_attached
 id_no_type: pico_raspberry_pi_2040_header_attached
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206vlkr
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206vlkr
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206vlkr
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206vlkr
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 manufacturer: ''
 manufacturer_capital: ''
@@ -203,22 +195,6 @@ name_no_size: Raspberry Pi 2040 Header Attached
 name_no_size_short: Raspberry Pi 2k Header Attached
 name_no_type: Pico Raspberry Pi 2040 Header Attached
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_mcu
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: pico
-oomlout_detail_hierarchy_3_upper: PICO
-oomlout_detail_hierarchy_3_upper_length_4: PICO
-oomlout_detail_hierarchy_4: raspberry_pi_2040
-oomlout_detail_hierarchy_4_upper: RASPBERRY_PI_2040
-oomlout_detail_hierarchy_4_upper_length_4: RASP
-oomlout_detail_hierarchy_5: header_attached
-oomlout_detail_hierarchy_5_upper: HEADER_ATTACHED
-oomlout_detail_hierarchy_5_upper_length_4: HEAD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_pico_raspberry_pi_2040_header_attached
 oomp_word: crown panda_face ok
 oomp_word_emoji: ':crown: :panda_face: :ok:'
@@ -397,10 +373,6 @@ pins:
     name: gp6
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: pcrp2040
 short_code_upper: PCRP2040
 short_name: ''

@@ -131,17 +131,9 @@ id_no_class: webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
 id_no_color: telepresenceprecisionhdusbcameraciscottc803
 id_no_size: telepresence_precisionhd_usb_camera_cisco_ttc8_03
 id_no_type: external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
-link_2_name: link_github
 link_distributor_cisco: ''
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207jua3
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207jua3
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207jua3
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207jua3
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
 manufacturer: cisco
 manufacturer_capital: Cisco
@@ -192,25 +184,6 @@ name_no_color: Telepresenceprecisionhdusbcameraciscottc803
 name_no_size: Telepresence Precisionhd USB Camera Cisco Ttc8 03
 name_no_size_short: Telepresence Precisionhd Usb Camera Cisco Ttc8 03
 name_no_type: External Telepresence Precisionhd USB Camera Cisco Ttc8 03
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: webcam
-oomlout_detail_hierarchy_2_upper: WEBCAM
-oomlout_detail_hierarchy_2_upper_length_4: WEBC
-oomlout_detail_hierarchy_3: external
-oomlout_detail_hierarchy_3_upper: EXTERNAL
-oomlout_detail_hierarchy_3_upper_length_4: EXTE
-oomlout_detail_hierarchy_4: telepresence_precisionhd_usb_camera
-oomlout_detail_hierarchy_4_upper: TELEPRESENCE_PRECISIONHD_USB_CAMERA
-oomlout_detail_hierarchy_4_upper_length_4: TELE
-oomlout_detail_hierarchy_5: cisco
-oomlout_detail_hierarchy_5_upper: CISCO
-oomlout_detail_hierarchy_5_upper_length_4: CISC
-oomlout_detail_hierarchy_6: ttc8_03
-oomlout_detail_hierarchy_6_upper: TTC8_03
-oomlout_detail_hierarchy_6_upper_length_4: TTC8
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
 oomp_word: doughnut toilet sunglasses
 oomp_word_emoji: ':doughnut: :toilet: :sunglasses:'
@@ -253,10 +226,6 @@ part_number_upper_length_3: TTC
 part_number_upper_length_4: TTC8
 part_number_upper_length_5: TTC8_
 part_number_upper_length_6: TTC8_0
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: external

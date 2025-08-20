@@ -165,16 +165,8 @@ id_no_color: tint
 id_no_size: green_tint
 id_no_type: 10_mm_green_tint
 kicad_reference: L
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_tint
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_tint
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_tint
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_tint
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20qu5
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20qu5
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20qu5
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20qu5
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_green_tint
 manufacturer: ''
 manufacturer_capital: ''
@@ -201,22 +193,6 @@ name_no_color: Tint
 name_no_size: Green Tint
 name_no_size_short: Green Tint
 name_no_type: 10 mm Green Tint
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: led
-oomlout_detail_hierarchy_2_upper: LED
-oomlout_detail_hierarchy_2_upper_length_4: LED
-oomlout_detail_hierarchy_3: 10_mm
-oomlout_detail_hierarchy_3_upper: 10_MM
-oomlout_detail_hierarchy_3_upper_length_4: 10_M
-oomlout_detail_hierarchy_4: green
-oomlout_detail_hierarchy_4_upper: GREEN
-oomlout_detail_hierarchy_4_upper_length_4: GREE
-oomlout_detail_hierarchy_5: tint
-oomlout_detail_hierarchy_5_upper: TINT
-oomlout_detail_hierarchy_5_upper_length_4: TINT
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_10_mm_green_tint
 oomp_word: bowtie toilet stars
 oomp_word_emoji: ':bowtie: :toilet: :stars:'
@@ -234,10 +210,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: l10g
 short_code_upper: L10G
 short_name: 10 Mm Greentint Led

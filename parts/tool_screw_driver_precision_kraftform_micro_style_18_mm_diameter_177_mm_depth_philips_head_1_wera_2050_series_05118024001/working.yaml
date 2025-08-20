@@ -131,16 +131,8 @@ id_no_class: screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_
 id_no_color: philipshead1wera2050series05118024001
 id_no_size: philips_head_1_wera_2050_series_05118024001
 id_no_type: kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201mak0
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201mak0
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201mak0
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201mak0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
 manufacturer: wera
 manufacturer_capital: Wera
@@ -195,25 +187,6 @@ name_no_size: Philips Head 1 Wera 2050 Series 05118024001
 name_no_size_short: Philips Head 1 Wera 2050 Series 05118024001
 name_no_type: Kraftform Micro Style 18 mm Diameter 177 mm Depth Philips Head 1 Wera
   2050 Series 05118024001
-oomlout_detail_hierarchy_1: tool
-oomlout_detail_hierarchy_1_upper: TOOL
-oomlout_detail_hierarchy_1_upper_length_4: TOOL
-oomlout_detail_hierarchy_2: sdriver_precision
-oomlout_detail_hierarchy_2_upper: SDRIVER_PRECISION
-oomlout_detail_hierarchy_2_upper_length_4: SDRI
-oomlout_detail_hierarchy_3: 177_mm_depth
-oomlout_detail_hierarchy_3_upper: 177_MM_DEPTH
-oomlout_detail_hierarchy_3_upper_length_4: 177D
-oomlout_detail_hierarchy_4: philips_head_1
-oomlout_detail_hierarchy_4_upper: PHILIPS_HEAD_1
-oomlout_detail_hierarchy_4_upper_length_4: PHIL
-oomlout_detail_hierarchy_5: wera
-oomlout_detail_hierarchy_5_upper: WERA
-oomlout_detail_hierarchy_5_upper_length_4: WERA
-oomlout_detail_hierarchy_6: 2050_series_05118024001
-oomlout_detail_hierarchy_6_upper: 2050_SERIES_05118024001
-oomlout_detail_hierarchy_6_upper_length_4: '2050'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_177_mm_depth_philips_head_1_wera_2050_series_05118024001
 oomp_word: sunny speaker train
 oomp_word_emoji: ':sunny: :speaker: :train:'
@@ -255,10 +228,6 @@ part_number_upper_length_3: '205'
 part_number_upper_length_4: '2050'
 part_number_upper_length_5: '2050_'
 part_number_upper_length_6: 2050_S
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: kraftform_micro_style_18_mm_diameter_177_mm_depth

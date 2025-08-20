@@ -169,16 +169,8 @@ id_no_color: power_texas_instruments_tps2113apw
 id_no_size: multiplexer_power_multiplexer_texas_instruments_tps2113apw
 id_no_type: tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 kicad_reference: IC
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204we3c
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204we3c
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204we3c
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204we3c
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 manufacturer: texas_instruments
 manufacturer_capital: Texas Instruments
@@ -232,28 +224,6 @@ name_no_size: Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
 name_no_size_short: Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
 name_no_type: Tssop 8 Multiplexer Power Multiplexer Texas Instruments Tps2113Apw
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: tssop_8
-oomlout_detail_hierarchy_3_upper: TSSOP_8
-oomlout_detail_hierarchy_3_upper_length_4: TSSO
-oomlout_detail_hierarchy_4: multiplexer
-oomlout_detail_hierarchy_4_upper: MULTIPLEXER
-oomlout_detail_hierarchy_4_upper_length_4: MULT
-oomlout_detail_hierarchy_5: power_multiplexer
-oomlout_detail_hierarchy_5_upper: POWER_MULTIPLEXER
-oomlout_detail_hierarchy_5_upper_length_4: POWE
-oomlout_detail_hierarchy_6: texas_instruments
-oomlout_detail_hierarchy_6_upper: TEXAS_INSTRUMENTS
-oomlout_detail_hierarchy_6_upper_length_4: TEXA
-oomlout_detail_hierarchy_7: tps2113apw
-oomlout_detail_hierarchy_7_upper: TPS2113APW
-oomlout_detail_hierarchy_7_upper_length_4: TPS2
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_tssop_8_multiplexer_power_multiplexer_texas_instruments_tps2113apw
 oomp_word: phone books water_buffalo
 oomp_word_emoji: ':phone: :books: :water_buffalo:'
@@ -328,10 +298,6 @@ pins:
     name: in1
     number: '8'
     type: power
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: itssp8mpptps2113
 short_code_upper: ITSSP8MPPTPS2113
 short_name: autoswitching power mux (tps2113apw)

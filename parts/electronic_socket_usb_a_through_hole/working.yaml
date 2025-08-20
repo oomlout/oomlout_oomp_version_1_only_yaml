@@ -144,16 +144,8 @@ id_no_class: socket_usb_a_through_hole
 id_no_color: throughhole
 id_no_size: through_hole
 id_no_type: usb_a_through_hole
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_a_through_hole
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_a_through_hole
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_a_through_hole
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_a_through_hole
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ptwh
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ptwh
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206ptwh
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ptwh
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_a_through_hole
 manufacturer: ''
 manufacturer_capital: ''
@@ -180,19 +172,6 @@ name_no_color: Throughhole
 name_no_size: Through Hole
 name_no_size_short: Through Hole
 name_no_type: USB A Through Hole
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: socket
-oomlout_detail_hierarchy_2_upper: SOCKET
-oomlout_detail_hierarchy_2_upper_length_4: SOCK
-oomlout_detail_hierarchy_3: usb_a
-oomlout_detail_hierarchy_3_upper: USB_A
-oomlout_detail_hierarchy_3_upper_length_4: USB_
-oomlout_detail_hierarchy_4: through_hole
-oomlout_detail_hierarchy_4_upper: THROUGH_HOLE
-oomlout_detail_hierarchy_4_upper_length_4: THRO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_socket_usb_a_through_hole
 oomp_word: shirt sunny trophy
 oomp_word_emoji: ':shirt: :sunny: :trophy:'
@@ -231,10 +210,6 @@ pins:
     name: shield
     number: '6'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: scuath
 short_code_upper: SCUATH
 short_name: ''

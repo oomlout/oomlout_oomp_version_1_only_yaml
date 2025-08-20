@@ -131,16 +131,8 @@ id_no_color: espressifesp32
 id_no_size: espressif_esp32
 id_no_type: esp32_38_pin_devkitc_espressif_esp32
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209eq39
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209eq39
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209eq39
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209eq39
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_size: Espressif Esp32
 name_no_size_short: Espressif Esp32
 name_no_type: Esp32 38 Pin Devkitc Espressif Esp32
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_mcu
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: esp32_38_pin_devkitc
-oomlout_detail_hierarchy_3_upper: ESP32_38_PIN_DEVKITC
-oomlout_detail_hierarchy_3_upper_length_4: ESP3
-oomlout_detail_hierarchy_4: espressif_esp32
-oomlout_detail_hierarchy_4_upper: ESPRESSIF_ESP32
-oomlout_detail_hierarchy_4_upper_length_4: ESPR
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_esp32_38_pin_devkitc_espressif_esp32
 oomp_word: ticket droplet telescope
 oomp_word_emoji: ':ticket: :droplet: :telescope:'
@@ -351,10 +330,6 @@ pins:
     name: io25
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: e32
 short_code_upper: E32
 short_name: ''

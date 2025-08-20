@@ -155,16 +155,8 @@ id_no_class: product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_hea
 id_no_color: hardwarescrewcountersunkm3blackhexheadversion1oomloutptcs3bhv1
 id_no_size: hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
 id_no_type: prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203woma
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203woma
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203woma
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203woma
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
 manufacturer: oomlout
 manufacturer_capital: Oomlout
@@ -220,31 +212,6 @@ name_no_size_short: Hardware Screw Countersunk M3 Black Hex Head Version 1 Oomlo
   Ptcs3Bhv1
 name_no_type: Prototyping Tin Hardware Screw Countersunk M3 Black Hex Head Version
   1 Oomlout Ptcs3Bhv1
-oomlout_detail_hierarchy_1: company_oomlout
-oomlout_detail_hierarchy_1_upper: COMPANY_OOMLOUT
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: product
-oomlout_detail_hierarchy_2_upper: PRODUCT
-oomlout_detail_hierarchy_2_upper_length_4: PROD
-oomlout_detail_hierarchy_3: prototyping_tin
-oomlout_detail_hierarchy_3_upper: PROTOTYPING_TIN
-oomlout_detail_hierarchy_3_upper_length_4: PROT
-oomlout_detail_hierarchy_4: hardware_scountersunk_m3_black
-oomlout_detail_hierarchy_4_upper: HARDWARE_SCOUNTERSUNK_M3_BLACK
-oomlout_detail_hierarchy_4_upper_length_4: HARD
-oomlout_detail_hierarchy_5: hex_head
-oomlout_detail_hierarchy_5_upper: HEX_HEAD
-oomlout_detail_hierarchy_5_upper_length_4: HEX_
-oomlout_detail_hierarchy_6: version_1
-oomlout_detail_hierarchy_6_upper: VERSION_1
-oomlout_detail_hierarchy_6_upper_length_4: VERS
-oomlout_detail_hierarchy_7: oomlout
-oomlout_detail_hierarchy_7_upper: OOMLOUT
-oomlout_detail_hierarchy_7_upper_length_4: OOML
-oomlout_detail_hierarchy_8: ptcs3bhv1
-oomlout_detail_hierarchy_8_upper: PTCS3BHV1
-oomlout_detail_hierarchy_8_upper_length_4: PTCS
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_company_oomlout_product_prototyping_tin_hardware_screw_countersunk_m3_black_hex_head_version_1_oomlout_ptcs3bhv1
 oomp_word: sunflower nose violin
 oomp_word_emoji: ':sunflower: :nose: :violin:'
@@ -286,10 +253,6 @@ part_number_upper_length_3: PTC
 part_number_upper_length_4: PTCS
 part_number_upper_length_5: PTCS3
 part_number_upper_length_6: PTCS3B
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: prototyping_tin

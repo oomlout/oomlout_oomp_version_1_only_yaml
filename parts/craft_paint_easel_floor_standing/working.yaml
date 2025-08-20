@@ -129,16 +129,8 @@ id_no_class: paint_easel_floor_standing
 id_no_color: floorstanding
 id_no_size: floor_standing
 id_no_type: easel_floor_standing
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_floor_standing
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_floor_standing
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_floor_standing
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_floor_standing
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204gfla
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204gfla
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204gfla
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204gfla
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_floor_standing
 manufacturer: ''
 manufacturer_capital: ''
@@ -165,19 +157,6 @@ name_no_color: Floorstanding
 name_no_size: Floor Standing
 name_no_size_short: Floor Standing
 name_no_type: Easel Floor Standing
-oomlout_detail_hierarchy_1: craft
-oomlout_detail_hierarchy_1_upper: CRAFT
-oomlout_detail_hierarchy_1_upper_length_4: CRAF
-oomlout_detail_hierarchy_2: paint
-oomlout_detail_hierarchy_2_upper: PAINT
-oomlout_detail_hierarchy_2_upper_length_4: PAIN
-oomlout_detail_hierarchy_3: easel
-oomlout_detail_hierarchy_3_upper: EASEL
-oomlout_detail_hierarchy_3_upper_length_4: EASE
-oomlout_detail_hierarchy_4: floor_standing
-oomlout_detail_hierarchy_4_upper: FLOOR_STANDING
-oomlout_detail_hierarchy_4_upper_length_4: FLOO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_craft_paint_easel_floor_standing
 oomp_word: dolls rabbit ambulance
 oomp_word_emoji: ':dolls: :rabbit: :ambulance:'
@@ -195,10 +174,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

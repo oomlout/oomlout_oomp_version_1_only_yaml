@@ -143,16 +143,8 @@ id_no_color: red
 id_no_size: red
 id_no_type: 10_mm_red
 kicad_reference: L
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_red
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_red
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_red
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_red
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209in1w
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209in1w
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209in1w
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209in1w
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm_red
 manufacturer: ''
 manufacturer_capital: ''
@@ -179,19 +171,6 @@ name_no_color: Red
 name_no_size: Red
 name_no_size_short: Red
 name_no_type: 10 mm Red
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: led
-oomlout_detail_hierarchy_2_upper: LED
-oomlout_detail_hierarchy_2_upper_length_4: LED
-oomlout_detail_hierarchy_3: 10_mm
-oomlout_detail_hierarchy_3_upper: 10_MM
-oomlout_detail_hierarchy_3_upper_length_4: 10_M
-oomlout_detail_hierarchy_4: red
-oomlout_detail_hierarchy_4_upper: RED
-oomlout_detail_hierarchy_4_upper_length_4: RED
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_10_mm_red
 oomp_word: two ambulance mouse
 oomp_word_emoji: ':two: :ambulance: :mouse:'
@@ -209,10 +188,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: l10r
 short_code_upper: L10R
 short_name: 10 Mm Red Led

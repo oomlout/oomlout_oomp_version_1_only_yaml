@@ -131,16 +131,8 @@ id_no_color: 1524mmwidth2032mmlength
 id_no_size: 15_24_mm_width_20_32_mm_length
 id_no_type: step_stick_15_24_mm_width_20_32_mm_length
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_15_24_mm_width_20_32_mm_length
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_15_24_mm_width_20_32_mm_length
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_15_24_mm_width_20_32_mm_length
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_15_24_mm_width_20_32_mm_length
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dvc3
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dvc3
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201dvc3
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dvc3
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_15_24_mm_width_20_32_mm_length
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,22 +160,6 @@ name_no_size: 15 24 mm Width 20 32 mm Length
 name_no_size_short: 15 24 Mm Width 20 32 Mm Length
 name_no_type: Step Stick 15 24 mm Width 20 32 mm Length
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_motor_driver
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MOTOR_DRIVER
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: step_stick
-oomlout_detail_hierarchy_3_upper: STEP_STICK
-oomlout_detail_hierarchy_3_upper_length_4: STEP
-oomlout_detail_hierarchy_4: 24_mm_width
-oomlout_detail_hierarchy_4_upper: 24_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 24WI
-oomlout_detail_hierarchy_5: 32_mm_length
-oomlout_detail_hierarchy_5_upper: 32_MM_LENGTH
-oomlout_detail_hierarchy_5_upper_length_4: 32LE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_motor_driver_step_stick_15_24_mm_width_20_32_mm_length
 oomp_word: kiss hourglass rowboat
 oomp_word_emoji: ':kiss: :hourglass: :rowboat:'
@@ -266,10 +242,6 @@ pins:
     name: gnd
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ss
 short_code_upper: SS
 short_name: ''

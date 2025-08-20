@@ -107,16 +107,8 @@ id_no_class: docking_station_microsoft_surface_microsoft_1661
 id_no_color: microsoft1661
 id_no_size: microsoft_1661
 id_no_type: microsoft_surface_microsoft_1661
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201ijrc
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201ijrc
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201ijrc
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201ijrc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_docking_station_microsoft_surface_microsoft_1661
 manufacturer: microsoft
 manufacturer_capital: Microsoft
@@ -167,22 +159,6 @@ name_no_color: Microsoft1661
 name_no_size: Microsoft 1661
 name_no_size_short: Microsoft 1661
 name_no_type: Microsoft Surface Microsoft 1661
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: docking_station
-oomlout_detail_hierarchy_2_upper: DOCKING_STATION
-oomlout_detail_hierarchy_2_upper_length_4: DOCK
-oomlout_detail_hierarchy_3: microsoft_surface
-oomlout_detail_hierarchy_3_upper: MICROSOFT_SURFACE
-oomlout_detail_hierarchy_3_upper_length_4: MICR
-oomlout_detail_hierarchy_4: microsoft
-oomlout_detail_hierarchy_4_upper: MICROSOFT
-oomlout_detail_hierarchy_4_upper_length_4: MICR
-oomlout_detail_hierarchy_5: '1661'
-oomlout_detail_hierarchy_5_upper: '1661'
-oomlout_detail_hierarchy_5_upper_length_4: '1661'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_docking_station_microsoft_surface_microsoft_1661
 oomp_word: eyes house wrench
 oomp_word_emoji: ':eyes: :house: :wrench:'
@@ -224,10 +200,6 @@ part_number_upper_length_3: '166'
 part_number_upper_length_4: '1661'
 part_number_upper_length_5: '1661'
 part_number_upper_length_6: '1661'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: microsoft_surface

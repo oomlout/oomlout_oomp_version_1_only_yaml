@@ -155,17 +155,9 @@ id_no_class: baking_pyrex_caserole_round_1600_ml_200_mm_diameter_80_mm_depth_pyr
 id_no_color: caseroleround1600ml200mmdiameter80mmdepth204A000
 id_no_size: caserole_round_1600_ml_200_mm_diameter_80_mm_depth_204A000
 id_no_type: pyrex_caserole_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
-link_2_name: link_github
 link_distributor_pyrex: https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=14730280534051
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2025s0z
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2025s0z
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2025s0z
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2025s0z
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
 manufacturer: pyrex
 manufacturer_capital: Pyrex
@@ -218,28 +210,6 @@ name_no_color: Caseroleround1600Ml200mmdiameter80mmdepth204A000
 name_no_size: Caserole Round 1600 Ml 200 mm Diameter 80 mm Depth 204A000
 name_no_size_short: Caserole Round 1600 Ml 200 Mm Diameter 80 Mm Depth 204A000
 name_no_type: Pyrex Caserole Round 1600 Ml 200 mm Diameter 80 mm Depth Pyrex 204A000
-oomlout_detail_hierarchy_1: dish
-oomlout_detail_hierarchy_1_upper: DISH
-oomlout_detail_hierarchy_1_upper_length_4: DISH
-oomlout_detail_hierarchy_2: baking
-oomlout_detail_hierarchy_2_upper: BAKING
-oomlout_detail_hierarchy_2_upper_length_4: BAKI
-oomlout_detail_hierarchy_3: pyrex
-oomlout_detail_hierarchy_3_upper: PYREX
-oomlout_detail_hierarchy_3_upper_length_4: PYRE
-oomlout_detail_hierarchy_4: caserole_dish_round
-oomlout_detail_hierarchy_4_upper: CASEROLE_DISH_ROUND
-oomlout_detail_hierarchy_4_upper_length_4: CASE
-oomlout_detail_hierarchy_5: 80_mm_depth
-oomlout_detail_hierarchy_5_upper: 80_MM_DEPTH
-oomlout_detail_hierarchy_5_upper_length_4: 80DE
-oomlout_detail_hierarchy_6: pyrex
-oomlout_detail_hierarchy_6_upper: PYREX
-oomlout_detail_hierarchy_6_upper_length_4: PYRE
-oomlout_detail_hierarchy_7: 204A000
-oomlout_detail_hierarchy_7_upper: 204A000
-oomlout_detail_hierarchy_7_upper_length_4: 204A
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_baking_pyrex_caserole_dish_round_1600_ml_200_mm_diameter_80_mm_depth_pyrex_204A000
 oomp_word: wolf leopard kiss
 oomp_word_emoji: ':wolf: :leopard: :kiss:'
@@ -282,10 +252,6 @@ part_number_upper_length_3: '204'
 part_number_upper_length_4: 204A
 part_number_upper_length_5: 204A0
 part_number_upper_length_6: 204A00
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: pyrex

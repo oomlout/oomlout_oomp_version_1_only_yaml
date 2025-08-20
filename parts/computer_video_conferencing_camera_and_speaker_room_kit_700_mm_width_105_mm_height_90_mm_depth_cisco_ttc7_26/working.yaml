@@ -155,17 +155,9 @@ id_no_class: video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_
 id_no_color: roomkit700mmwidth105mmheight90mmdepthciscottc726
 id_no_size: room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 id_no_type: camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
-link_2_name: link_github
 link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-kit/model.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045oav
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045oav
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2045oav
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045oav
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 manufacturer: cisco
 manufacturer_capital: Cisco
@@ -220,34 +212,6 @@ name_no_size: Room Kit 700 mm Width 105 mm Height 90 mm Depth Cisco Ttc7 26
 name_no_size_short: Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Ttc7 26
 name_no_type: Camera And Speaker Room Kit 700 mm Width 105 mm Height 90 mm Depth Cisco
   Ttc7 26
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: video_conferencing
-oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
-oomlout_detail_hierarchy_2_upper_length_4: VIDE
-oomlout_detail_hierarchy_3: camera_and_speaker
-oomlout_detail_hierarchy_3_upper: CAMERA_AND_SPEAKER
-oomlout_detail_hierarchy_3_upper_length_4: CAME
-oomlout_detail_hierarchy_4: room_kit
-oomlout_detail_hierarchy_4_upper: ROOM_KIT
-oomlout_detail_hierarchy_4_upper_length_4: ROOM
-oomlout_detail_hierarchy_5: 700_mm_width
-oomlout_detail_hierarchy_5_upper: 700_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 700W
-oomlout_detail_hierarchy_6: 105_mm_height
-oomlout_detail_hierarchy_6_upper: 105_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 105H
-oomlout_detail_hierarchy_7: 90_mm_depth
-oomlout_detail_hierarchy_7_upper: 90_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 90DE
-oomlout_detail_hierarchy_8: cisco
-oomlout_detail_hierarchy_8_upper: CISCO
-oomlout_detail_hierarchy_8_upper_length_4: CISC
-oomlout_detail_hierarchy_9: ttc7_26
-oomlout_detail_hierarchy_9_upper: TTC7_26
-oomlout_detail_hierarchy_9_upper_length_4: TTC7
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
 oomp_word: palm_tree clipboard baby_chick
 oomp_word_emoji: ':palm_tree: :clipboard: :baby_chick:'
@@ -290,10 +254,6 @@ part_number_upper_length_3: TTC
 part_number_upper_length_4: TTC7
 part_number_upper_length_5: TTC7_
 part_number_upper_length_6: TTC7_2
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: camera_and_speaker

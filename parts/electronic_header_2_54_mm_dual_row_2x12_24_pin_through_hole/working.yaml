@@ -162,16 +162,8 @@ id_no_color: 2x1224pinthroughhole
 id_no_size: 2x12_24_pin_through_hole
 id_no_type: 2_54_mm_dual_row_2x12_24_pin_through_hole
 kicad_reference: CONN
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20711c1
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20711c1
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20711c1
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20711c1
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
 manufacturer: ''
 manufacturer_capital: ''
@@ -200,22 +192,6 @@ name_no_color: 2X1224Pinthroughhole
 name_no_size: 2X12 24 Pin Through Hole
 name_no_size_short: 2X12 24 Pin Through Hole
 name_no_type: 2 54 mm Dual Row 2X12 24 Pin Through Hole
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: header
-oomlout_detail_hierarchy_2_upper: HEADER
-oomlout_detail_hierarchy_2_upper_length_4: HEAD
-oomlout_detail_hierarchy_3: 2_54_mm_dual_row
-oomlout_detail_hierarchy_3_upper: 2_54_MM_DUAL_ROW
-oomlout_detail_hierarchy_3_upper_length_4: '2_54'
-oomlout_detail_hierarchy_4: 2x12_24_pin
-oomlout_detail_hierarchy_4_upper: 2X12_24_PIN
-oomlout_detail_hierarchy_4_upper_length_4: 2X12
-oomlout_detail_hierarchy_5: through_hole
-oomlout_detail_hierarchy_5_upper: THROUGH_HOLE
-oomlout_detail_hierarchy_5_upper_length_4: THRO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_header_2_54_mm_dual_row_2x12_24_pin_through_hole
 oomp_word: coffee droplet smile
 oomp_word_emoji: ':coffee: :droplet: :smile:'
@@ -233,10 +209,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: hi12x12pth
 short_code_upper: HI12X12PTH
 size: 2_54_mm_dual_row

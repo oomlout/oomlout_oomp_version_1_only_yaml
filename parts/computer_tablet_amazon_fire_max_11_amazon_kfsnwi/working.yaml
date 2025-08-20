@@ -133,16 +133,8 @@ id_no_class: tablet_amazon_fire_max_11_amazon_kfsnwi
 id_no_color: max11amazonkfsnwi
 id_no_size: max_11_amazon_kfsnwi
 id_no_type: amazon_fire_max_11_amazon_kfsnwi
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202idz6
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202idz6
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202idz6
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202idz6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_amazon_fire_max_11_amazon_kfsnwi
 manufacturer: amazon
 manufacturer_capital: Amazon
@@ -193,25 +185,6 @@ name_no_color: Max11Amazonkfsnwi
 name_no_size: Max 11 Amazon Kfsnwi
 name_no_size_short: Max 11 Amazon Kfsnwi
 name_no_type: Amazon Fire Max 11 Amazon Kfsnwi
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: tablet
-oomlout_detail_hierarchy_2_upper: TABLET
-oomlout_detail_hierarchy_2_upper_length_4: TABL
-oomlout_detail_hierarchy_3: amazon_fire
-oomlout_detail_hierarchy_3_upper: AMAZON_FIRE
-oomlout_detail_hierarchy_3_upper_length_4: AMAZ
-oomlout_detail_hierarchy_4: max_11
-oomlout_detail_hierarchy_4_upper: MAX_11
-oomlout_detail_hierarchy_4_upper_length_4: MAX_
-oomlout_detail_hierarchy_5: amazon
-oomlout_detail_hierarchy_5_upper: AMAZON
-oomlout_detail_hierarchy_5_upper_length_4: AMAZ
-oomlout_detail_hierarchy_6: kfsnwi
-oomlout_detail_hierarchy_6_upper: KFSNWI
-oomlout_detail_hierarchy_6_upper_length_4: KFSN
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_tablet_amazon_fire_max_11_amazon_kfsnwi
 oomp_word: racehorse dragon sheep
 oomp_word_emoji: ':racehorse: :dragon: :sheep:'
@@ -253,10 +226,6 @@ part_number_upper_length_3: KFS
 part_number_upper_length_4: KFSN
 part_number_upper_length_5: KFSNW
 part_number_upper_length_6: KFSNWI
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: amazon_fire

@@ -133,16 +133,8 @@ id_no_class: monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_d
 id_no_color: 1680pixelwidth1050pixelheightdelle2009wt
 id_no_size: 1680_pixel_width_1050_pixel_height_dell_e2009wt
 id_no_type: 508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209vrsd
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209vrsd
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209vrsd
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209vrsd
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
 manufacturer: dell
 manufacturer_capital: Dell
@@ -195,28 +187,6 @@ name_no_color: 1680Pixelwidth1050Pixelheightdelle2009Wt
 name_no_size: 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
 name_no_size_short: 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
 name_no_type: 508 mm Screen Diagonal 1680 Pixel Width 1050 Pixel Height Dell E2009Wt
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: monitor
-oomlout_detail_hierarchy_2_upper: MONITOR
-oomlout_detail_hierarchy_2_upper_length_4: MONI
-oomlout_detail_hierarchy_3: 508_mm_screen_diagonal
-oomlout_detail_hierarchy_3_upper: 508_MM_SCREEN_DIAGONAL
-oomlout_detail_hierarchy_3_upper_length_4: 508S
-oomlout_detail_hierarchy_4: 1680_pixel_width_1050
-oomlout_detail_hierarchy_4_upper: 1680_PIXEL_WIDTH_1050
-oomlout_detail_hierarchy_4_upper_length_4: '1680'
-oomlout_detail_hierarchy_5: pixel_height
-oomlout_detail_hierarchy_5_upper: PIXEL_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: PIXE
-oomlout_detail_hierarchy_6: dell
-oomlout_detail_hierarchy_6_upper: DELL
-oomlout_detail_hierarchy_6_upper_length_4: DELL
-oomlout_detail_hierarchy_7: e2009wt
-oomlout_detail_hierarchy_7_upper: E2009WT
-oomlout_detail_hierarchy_7_upper_length_4: E200
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_monitor_508_mm_screen_diagonal_1680_pixel_width_1050_pixel_height_dell_e2009wt
 oomp_word: parking baby_chick shell
 oomp_word_emoji: ':parking: :baby_chick: :shell:'
@@ -258,10 +228,6 @@ part_number_upper_length_3: E20
 part_number_upper_length_4: E200
 part_number_upper_length_5: E2009
 part_number_upper_length_6: E2009W
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 508_mm_screen_diagonal

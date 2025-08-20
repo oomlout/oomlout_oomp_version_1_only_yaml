@@ -157,16 +157,8 @@ id_no_class: ic_0603_sensor_light_everlight_elec_als_pt19
 id_no_color: light_everlight_elec_als_pt19
 id_no_size: sensor_light_everlight_elec_als_pt19
 id_no_type: 0603_sensor_light_everlight_elec_als_pt19
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206kttm
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206kttm
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206kttm
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206kttm
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 manufacturer: everlight_elec
 manufacturer_capital: Everlight Elec
@@ -225,28 +217,6 @@ name_no_color: Light Everlight Elec Als Pt19
 name_no_size: Sensor Light Everlight Elec Als Pt19
 name_no_size_short: Sensor Light Everlight Elec Als Pt19
 name_no_type: 0603 Sensor Light Everlight Elec Als Pt19
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: '0603'
-oomlout_detail_hierarchy_3_upper: '0603'
-oomlout_detail_hierarchy_3_upper_length_4: '0603'
-oomlout_detail_hierarchy_4: sensor
-oomlout_detail_hierarchy_4_upper: SENSOR
-oomlout_detail_hierarchy_4_upper_length_4: SENS
-oomlout_detail_hierarchy_5: light
-oomlout_detail_hierarchy_5_upper: LIGHT
-oomlout_detail_hierarchy_5_upper_length_4: LIGH
-oomlout_detail_hierarchy_6: everlight_elec
-oomlout_detail_hierarchy_6_upper: EVERLIGHT_ELEC
-oomlout_detail_hierarchy_6_upper_length_4: EVER
-oomlout_detail_hierarchy_7: als_pt19
-oomlout_detail_hierarchy_7_upper: ALS_PT19
-oomlout_detail_hierarchy_7_upper_length_4: ALS_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_0603_sensor_light_everlight_elec_als_pt19
 oomp_word: shoe bowling nine
 oomp_word_emoji: ':shoe: :bowling: :nine:'
@@ -298,10 +268,6 @@ pins:
     name: emitter
     number: '2'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: i6snl
 short_code_upper: I6SNL
 short_name: everlight elec als_pt19_315c_l177_tr8

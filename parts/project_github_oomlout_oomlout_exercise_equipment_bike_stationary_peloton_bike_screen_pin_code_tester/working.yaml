@@ -133,16 +133,8 @@ id_no_class: github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_b
 id_no_color: exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
 id_no_size: exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
 id_no_type: oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203nh27
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203nh27
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203nh27
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203nh27
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/project_github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
 manufacturer: ''
 manufacturer_capital: ''
@@ -174,25 +166,6 @@ name_no_size_short: Exercise Equipment Bike Stationary Peloton Bike Screen Pin C
   Tester
 name_no_type: Oomlout Oomlout Exercise Equipment Bike Stationary Peloton Bike Screen
   Pin Code Tester
-oomlout_detail_hierarchy_1: project
-oomlout_detail_hierarchy_1_upper: PROJECT
-oomlout_detail_hierarchy_1_upper_length_4: PROJ
-oomlout_detail_hierarchy_2: github
-oomlout_detail_hierarchy_2_upper: GITHUB
-oomlout_detail_hierarchy_2_upper_length_4: GITH
-oomlout_detail_hierarchy_3: oomlout
-oomlout_detail_hierarchy_3_upper: OOMLOUT
-oomlout_detail_hierarchy_3_upper_length_4: OOML
-oomlout_detail_hierarchy_4: exercise_equipment_bike
-oomlout_detail_hierarchy_4_upper: EXERCISE_EQUIPMENT_BIKE
-oomlout_detail_hierarchy_4_upper_length_4: EXER
-oomlout_detail_hierarchy_5: stationary_peloton_bike_screen
-oomlout_detail_hierarchy_5_upper: STATIONARY_PELOTON_BIKE_SCREEN
-oomlout_detail_hierarchy_5_upper_length_4: STAT
-oomlout_detail_hierarchy_6: pin_code_tester
-oomlout_detail_hierarchy_6_upper: PIN_CODE_TESTER
-oomlout_detail_hierarchy_6_upper_length_4: PIN_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_project_github_oomlout_oomlout_exercise_equipment_bike_stationary_peloton_bike_screen_pin_code_tester
 oomp_word: blowfish bowling princess
 oomp_word_emoji: ':blowfish: :bowling: :princess:'
@@ -210,10 +183,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: oomlout

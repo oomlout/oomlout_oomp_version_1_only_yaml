@@ -156,16 +156,8 @@ id_no_class: packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height
 id_no_color: cubby_box
 id_no_size: imperial_7_in_width_5_in_height_2_in_depth_cubby_box
 id_no_type: cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209uwvc
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209uwvc
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209uwvc
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209uwvc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
@@ -196,28 +188,6 @@ name_no_size: Imperial 7 In Width 5 In Height 2 In Depth Cubby Box
 name_no_size_short: Imperial 7 In Width 5 In Height 2 In Depth Cubby Box
 name_no_type: Cardboard Box Postal Tabs Imperial 7 In Width 5 In Height 2 In Depth
   Cubby Box
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: packaging
-oomlout_detail_hierarchy_2_upper: PACKAGING
-oomlout_detail_hierarchy_2_upper_length_4: PACK
-oomlout_detail_hierarchy_3: cardboard_box_postal_tabs
-oomlout_detail_hierarchy_3_upper: CARDBOARD_BOX_POSTAL_TABS
-oomlout_detail_hierarchy_3_upper_length_4: CARD
-oomlout_detail_hierarchy_4: imperial_7_in_width
-oomlout_detail_hierarchy_4_upper: IMPERIAL_7_IN_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: IMPE
-oomlout_detail_hierarchy_5: 5_in_height_2
-oomlout_detail_hierarchy_5_upper: 5_IN_HEIGHT_2
-oomlout_detail_hierarchy_5_upper_length_4: 5_IN
-oomlout_detail_hierarchy_6: in_depth
-oomlout_detail_hierarchy_6_upper: IN_DEPTH
-oomlout_detail_hierarchy_6_upper_length_4: IN_D
-oomlout_detail_hierarchy_7: cubby_box
-oomlout_detail_hierarchy_7_upper: CUBBY_BOX
-oomlout_detail_hierarchy_7_upper_length_4: CUBB
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_packaging_cardboard_box_postal_tabs_imperial_7_in_width_5_in_height_2_in_depth_cubby_box
 oomp_word: up lipstick tram
 oomp_word_emoji: ':up: :lipstick: :tram:'
@@ -236,10 +206,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypackaging

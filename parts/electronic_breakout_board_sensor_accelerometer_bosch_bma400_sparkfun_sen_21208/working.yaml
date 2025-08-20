@@ -129,16 +129,8 @@ id_no_class: breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 id_no_color: sparkfun_sen_21208
 id_no_size: bosch_bma400_sparkfun_sen_21208
 id_no_type: accelerometer_bosch_bma400_sparkfun_sen_21208
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208317z
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208317z
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208317z
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208317z
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 manufacturer: sparkfun
 manufacturer_capital: Sparkfun
@@ -189,25 +181,6 @@ name_no_color: Sparkfun Sen 21208
 name_no_size: Bosch Bma400 Sparkfun Sen 21208
 name_no_size_short: Bosch Bma400 Sparkfun Sen 21208
 name_no_type: Accelerometer Bosch Bma400 Sparkfun Sen 21208
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_sensor
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_SENSOR
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: accelerometer
-oomlout_detail_hierarchy_3_upper: ACCELEROMETER
-oomlout_detail_hierarchy_3_upper_length_4: ACCE
-oomlout_detail_hierarchy_4: bosch_bma400
-oomlout_detail_hierarchy_4_upper: BOSCH_BMA400
-oomlout_detail_hierarchy_4_upper_length_4: BOSC
-oomlout_detail_hierarchy_5: sparkfun
-oomlout_detail_hierarchy_5_upper: SPARKFUN
-oomlout_detail_hierarchy_5_upper_length_4: SPAR
-oomlout_detail_hierarchy_6: sen_21208
-oomlout_detail_hierarchy_6_upper: SEN_21208
-oomlout_detail_hierarchy_6_upper_length_4: SEN_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 oomp_repo: http://github.com/oomlout/oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
 oomp_word: melon foggy truck
@@ -250,10 +223,6 @@ part_number_upper_length_3: SEN
 part_number_upper_length_4: SEN_
 part_number_upper_length_5: SEN_2
 part_number_upper_length_6: SEN_21
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: accelerometer

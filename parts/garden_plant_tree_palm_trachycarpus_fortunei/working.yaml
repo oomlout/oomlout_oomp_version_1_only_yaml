@@ -154,17 +154,9 @@ id_no_class: plant_tree_palm_trachycarpus_fortunei
 id_no_color: trachycarpus_fortunei
 id_no_size: palm_trachycarpus_fortunei
 id_no_type: tree_palm_trachycarpus_fortunei
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
-link_2_name: link_github
 link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/trachycarpus-fortunei-seeds_mh13516
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015dsw
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015dsw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2015dsw
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015dsw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
 manufacturer: ''
 manufacturer_capital: ''
@@ -191,22 +183,6 @@ name_no_color: Trachycarpus Fortunei
 name_no_size: Palm Trachycarpus Fortunei
 name_no_size_short: Palm Trachycarpus Fortunei
 name_no_type: Tree Palm Trachycarpus Fortunei
-oomlout_detail_hierarchy_1: garden
-oomlout_detail_hierarchy_1_upper: GARDEN
-oomlout_detail_hierarchy_1_upper_length_4: GARD
-oomlout_detail_hierarchy_2: plant
-oomlout_detail_hierarchy_2_upper: PLANT
-oomlout_detail_hierarchy_2_upper_length_4: PLAN
-oomlout_detail_hierarchy_3: tree
-oomlout_detail_hierarchy_3_upper: TREE
-oomlout_detail_hierarchy_3_upper_length_4: TREE
-oomlout_detail_hierarchy_4: palm
-oomlout_detail_hierarchy_4_upper: PALM
-oomlout_detail_hierarchy_4_upper_length_4: PALM
-oomlout_detail_hierarchy_5: trachycarpus_fortunei
-oomlout_detail_hierarchy_5_upper: TRACHYCARPUS_FORTUNEI
-oomlout_detail_hierarchy_5_upper_length_4: TRAC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_garden_plant_tree_palm_trachycarpus_fortunei
 oomp_word: baby santa skull
 oomp_word_emoji: ':baby: :santa: :skull:'
@@ -224,10 +200,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

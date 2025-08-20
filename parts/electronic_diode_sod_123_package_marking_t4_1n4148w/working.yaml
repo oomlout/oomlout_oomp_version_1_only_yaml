@@ -151,16 +151,8 @@ id_no_color: packagemarkingt41n4148w
 id_no_size: package_marking_t4_1n4148w
 id_no_type: sod_123_package_marking_t4_1n4148w
 kicad_reference: D
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2023fwl
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2023fwl
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2023fwl
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2023fwl
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,22 +181,6 @@ name_no_color: Packagemarkingt41N4148W
 name_no_size: Package Marking T4 1N4148W
 name_no_size_short: Package Marking T4 1N4148W
 name_no_type: Sod 123 Package Marking T4 1N4148W
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: diode
-oomlout_detail_hierarchy_2_upper: DIODE
-oomlout_detail_hierarchy_2_upper_length_4: DIOD
-oomlout_detail_hierarchy_3: sod_123
-oomlout_detail_hierarchy_3_upper: SOD_123
-oomlout_detail_hierarchy_3_upper_length_4: SOD_
-oomlout_detail_hierarchy_4: package_marking_t4
-oomlout_detail_hierarchy_4_upper: PACKAGE_MARKING_T4
-oomlout_detail_hierarchy_4_upper_length_4: PACK
-oomlout_detail_hierarchy_5: 1n4148w
-oomlout_detail_hierarchy_5_upper: 1N4148W
-oomlout_detail_hierarchy_5_upper_length_4: 1N41
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
 oomp_word: hamster tea snake
 oomp_word_emoji: ':hamster: :tea: :snake:'
@@ -246,10 +222,6 @@ part_number_upper_length_3: 1N4
 part_number_upper_length_4: 1N41
 part_number_upper_length_5: 1N414
 part_number_upper_length_6: 1N4148
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: dsod123pmt44148
 short_code_upper: DSOD123PMT44148
 size: sod_123

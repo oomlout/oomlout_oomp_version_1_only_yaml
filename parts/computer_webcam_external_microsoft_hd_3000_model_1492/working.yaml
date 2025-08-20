@@ -107,16 +107,8 @@ id_no_class: webcam_external_microsoft_hd_3000_model_1492
 id_no_color: microsofthd3000model1492
 id_no_size: microsoft_hd_3000_model_1492
 id_no_type: external_microsoft_hd_3000_model_1492
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204htph
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204htph
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204htph
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204htph
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_microsoft_hd_3000_model_1492
 manufacturer: microsoft
 manufacturer_capital: Microsoft
@@ -167,22 +159,6 @@ name_no_color: Microsofthd3000Model1492
 name_no_size: Microsoft Hd 3000 Model 1492
 name_no_size_short: Microsoft Hd 3000 Model 1492
 name_no_type: External Microsoft Hd 3000 Model 1492
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: webcam
-oomlout_detail_hierarchy_2_upper: WEBCAM
-oomlout_detail_hierarchy_2_upper_length_4: WEBC
-oomlout_detail_hierarchy_3: external
-oomlout_detail_hierarchy_3_upper: EXTERNAL
-oomlout_detail_hierarchy_3_upper_length_4: EXTE
-oomlout_detail_hierarchy_4: microsoft
-oomlout_detail_hierarchy_4_upper: MICROSOFT
-oomlout_detail_hierarchy_4_upper_length_4: MICR
-oomlout_detail_hierarchy_5: hd_3000_model_1492
-oomlout_detail_hierarchy_5_upper: HD_3000_MODEL_1492
-oomlout_detail_hierarchy_5_upper_length_4: HD_3
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_webcam_external_microsoft_hd_3000_model_1492
 oomp_word: flags mouse headphones
 oomp_word_emoji: ':flags: :mouse: :headphones:'
@@ -224,10 +200,6 @@ part_number_upper_length_3: HD_
 part_number_upper_length_4: HD_3
 part_number_upper_length_5: HD_30
 part_number_upper_length_6: HD_300
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: external

@@ -156,16 +156,8 @@ id_no_class: paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
 id_no_color: tote
 id_no_size: c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
 id_no_type: envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20821w9
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20821w9
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20821w9
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20821w9
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,25 +184,6 @@ name_no_color: Tote
 name_no_size: C7 Size 114 mm Width 81 mm Height Fits A7 Sheet Tote
 name_no_size_short: C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Tote
 name_no_type: Envelope C7 Size 114 mm Width 81 mm Height Fits A7 Sheet Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: paper
-oomlout_detail_hierarchy_2_upper: PAPER
-oomlout_detail_hierarchy_2_upper_length_4: PAPE
-oomlout_detail_hierarchy_3: envelope
-oomlout_detail_hierarchy_3_upper: ENVELOPE
-oomlout_detail_hierarchy_3_upper_length_4: ENVE
-oomlout_detail_hierarchy_4: 114_mm_width
-oomlout_detail_hierarchy_4_upper: 114_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 114W
-oomlout_detail_hierarchy_5: 81_mm_height
-oomlout_detail_hierarchy_5_upper: 81_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 81HE
-oomlout_detail_hierarchy_6: tote
-oomlout_detail_hierarchy_6_upper: TOTE
-oomlout_detail_hierarchy_6_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_tote
 oomp_word: peach fax pray
 oomp_word_emoji: ':peach: :fax: :pray:'
@@ -229,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypaper

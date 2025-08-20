@@ -131,17 +131,9 @@ id_no_class: cricut_maker_cricut_cxpl301
 id_no_color: makercxpl301
 id_no_size: maker_cxpl301
 id_no_type: cricut_maker_cricut_cxpl301
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
-link_2_name: link_github
 link_distributor_cricut: ''
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204e934
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204e934
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204e934
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204e934
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
 manufacturer: cricut
 manufacturer_capital: Cricut
@@ -192,25 +184,6 @@ name_no_color: Makercxpl301
 name_no_size: Maker Cxpl301
 name_no_size_short: Maker Cxpl301
 name_no_type: Cricut Maker Cricut Cxpl301
-oomlout_detail_hierarchy_1: vinyl_cutter
-oomlout_detail_hierarchy_1_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_1_upper_length_4: VINY
-oomlout_detail_hierarchy_2: vinyl_cutter
-oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_2_upper_length_4: VINY
-oomlout_detail_hierarchy_3: cricut
-oomlout_detail_hierarchy_3_upper: CRICUT
-oomlout_detail_hierarchy_3_upper_length_4: CRIC
-oomlout_detail_hierarchy_4: maker
-oomlout_detail_hierarchy_4_upper: MAKER
-oomlout_detail_hierarchy_4_upper_length_4: MAKE
-oomlout_detail_hierarchy_5: cricut
-oomlout_detail_hierarchy_5_upper: CRICUT
-oomlout_detail_hierarchy_5_upper_length_4: CRIC
-oomlout_detail_hierarchy_6: cxpl301
-oomlout_detail_hierarchy_6_upper: CXPL301
-oomlout_detail_hierarchy_6_upper_length_4: CXPL
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
 oomp_word: squirrel sandal hourglass
 oomp_word_emoji: ':squirrel: :sandal: :hourglass:'
@@ -253,10 +226,6 @@ part_number_upper_length_3: CXP
 part_number_upper_length_4: CXPL
 part_number_upper_length_5: CXPL3
 part_number_upper_length_6: CXPL30
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: cricut

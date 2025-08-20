@@ -134,16 +134,8 @@ id_no_color: 2pole412
 id_no_size: 2_pole_412
 id_no_type: wago_221_2_pole_wago_221_412
 kicad_reference: L
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_wago_221_412
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_wago_221_412
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_wago_221_412
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_wago_221_412
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208nhl0
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208nhl0
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208nhl0
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208nhl0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_wago_221_412
 manufacturer: wago
 manufacturer_capital: Wago
@@ -194,25 +186,6 @@ name_no_color: 2Pole412
 name_no_size: 2 Pole 412
 name_no_size_short: 2 Pole 412
 name_no_type: Wago 221 2 Pole Wago 221 412
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: connector
-oomlout_detail_hierarchy_2_upper: CONNECTOR
-oomlout_detail_hierarchy_2_upper_length_4: CONN
-oomlout_detail_hierarchy_3: wago_221
-oomlout_detail_hierarchy_3_upper: WAGO_221
-oomlout_detail_hierarchy_3_upper_length_4: WAGO
-oomlout_detail_hierarchy_4: 2_pole
-oomlout_detail_hierarchy_4_upper: 2_POLE
-oomlout_detail_hierarchy_4_upper_length_4: 2_PO
-oomlout_detail_hierarchy_5: wago
-oomlout_detail_hierarchy_5_upper: WAGO
-oomlout_detail_hierarchy_5_upper_length_4: WAGO
-oomlout_detail_hierarchy_6: '221_412'
-oomlout_detail_hierarchy_6_upper: '221_412'
-oomlout_detail_hierarchy_6_upper_length_4: '221_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_connector_wago_221_2_pole_wago_221_412
 oomp_word: stars bread cookie
 oomp_word_emoji: ':stars: :bread: :cookie:'
@@ -255,10 +228,6 @@ part_number_upper_length_3: '221'
 part_number_upper_length_4: '221_'
 part_number_upper_length_5: '221_4'
 part_number_upper_length_6: '221_41'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: conw221
 short_code_upper: CONW221
 size: wago_221

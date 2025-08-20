@@ -155,16 +155,8 @@ id_no_color: 55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
 id_no_size: screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
 id_no_type: pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030slt
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030slt
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030slt
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030slt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
 manufacturer: ''
 manufacturer_capital: ''
@@ -197,25 +189,6 @@ name_no_size_short: Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pi
 name_no_type: Pico Screw Terminal 55 mm Width 73 mm Height Purple PCB 3 5 mm Pitch
   Terminal
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_mcu
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: pico
-oomlout_detail_hierarchy_3_upper: PICO
-oomlout_detail_hierarchy_3_upper_length_4: PICO
-oomlout_detail_hierarchy_4: sterminal
-oomlout_detail_hierarchy_4_upper: STERMINAL
-oomlout_detail_hierarchy_4_upper_length_4: STER
-oomlout_detail_hierarchy_5: 55_mm_width
-oomlout_detail_hierarchy_5_upper: 55_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 55WI
-oomlout_detail_hierarchy_6: 73_mm_height
-oomlout_detail_hierarchy_6_upper: 73_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 73HE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
 oomp_word: bug flags pear
 oomp_word_emoji: ':bug: :flags: :pear:'
@@ -394,10 +367,6 @@ pins:
     name: gp6
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: pc
 short_code_upper: PC
 short_name: ''

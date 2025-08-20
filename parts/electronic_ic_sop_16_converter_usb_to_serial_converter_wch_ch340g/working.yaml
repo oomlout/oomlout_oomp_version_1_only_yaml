@@ -169,16 +169,8 @@ id_no_color: usb_to_serial_wch_ch340g
 id_no_size: converter_usb_to_serial_converter_wch_ch340g
 id_no_type: sop_16_converter_usb_to_serial_converter_wch_ch340g
 kicad_reference: U
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20le7s
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20le7s
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20le7s
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20le7s
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
 manufacturer: wch
 manufacturer_capital: Wch
@@ -231,28 +223,6 @@ name_no_size: Converter USB To Serial Converter Wch Ch340G
 name_no_size_short: Converter Usb To Serial Converter Wch Ch340G
 name_no_type: Sop 16 Converter USB To Serial Converter Wch Ch340G
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: sop_16
-oomlout_detail_hierarchy_3_upper: SOP_16
-oomlout_detail_hierarchy_3_upper_length_4: SOP_
-oomlout_detail_hierarchy_4: converter
-oomlout_detail_hierarchy_4_upper: CONVERTER
-oomlout_detail_hierarchy_4_upper_length_4: CONV
-oomlout_detail_hierarchy_5: usb_to_serial_converter
-oomlout_detail_hierarchy_5_upper: USB_TO_SERIAL_CONVERTER
-oomlout_detail_hierarchy_5_upper_length_4: USB_
-oomlout_detail_hierarchy_6: wch
-oomlout_detail_hierarchy_6_upper: WCH
-oomlout_detail_hierarchy_6_upper_length_4: WCH
-oomlout_detail_hierarchy_7: ch340g
-oomlout_detail_hierarchy_7_upper: CH340G
-oomlout_detail_hierarchy_7_upper_length_4: CH34
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_sop_16_converter_usb_to_serial_converter_wch_ch340g
 oomp_word: sparkles bear frog
 oomp_word_emoji: ':sparkles: :bear: :frog:'
@@ -359,10 +329,6 @@ pins:
     name: cts
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: isp16ch340g
 short_code_upper: ISP16CH340G
 short_name: usb to serial converter (ch340g)

@@ -156,16 +156,8 @@ id_no_class: tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_14
 id_no_color: tote
 id_no_size: kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
 id_no_type: screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207jglw
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207jglw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207jglw
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207jglw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
 manufacturer: ''
 manufacturer_capital: ''
@@ -195,22 +187,6 @@ name_no_size: Kraftform Micro Style 18 mm Diameter 147 mm Depth Tote
 name_no_size_short: Kraftform Micro Style 18 Mm Diameter 147 Mm Depth Tote
 name_no_type: Screw Driver Precision Kraftform Micro Style 18 mm Diameter 147 mm Depth
   Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: tool
-oomlout_detail_hierarchy_2_upper: TOOL
-oomlout_detail_hierarchy_2_upper_length_4: TOOL
-oomlout_detail_hierarchy_3: sdriver_precision
-oomlout_detail_hierarchy_3_upper: SDRIVER_PRECISION
-oomlout_detail_hierarchy_3_upper_length_4: SDRI
-oomlout_detail_hierarchy_4: 147_mm_depth
-oomlout_detail_hierarchy_4_upper: 147_MM_DEPTH
-oomlout_detail_hierarchy_4_upper_length_4: 147D
-oomlout_detail_hierarchy_5: tote
-oomlout_detail_hierarchy_5_upper: TOTE
-oomlout_detail_hierarchy_5_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_tote
 oomp_word: doughnut camel corn
 oomp_word_emoji: ':doughnut: :camel: :corn:'
@@ -229,10 +205,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorytool

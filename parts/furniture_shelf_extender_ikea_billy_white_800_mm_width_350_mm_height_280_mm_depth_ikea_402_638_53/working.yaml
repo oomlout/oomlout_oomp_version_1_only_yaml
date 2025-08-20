@@ -157,16 +157,8 @@ id_no_class: shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_d
 id_no_color: 800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
 id_no_size: white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
 id_no_type: ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206310s
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206310s
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206310s
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206310s
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -221,34 +213,6 @@ name_no_size: White 800 mm Width 350 mm Height 280 mm Depth Ikea 402 638 53
 name_no_size_short: White 800 Mm Width 350 Mm Height 280 Mm Depth Ikea 402 638 53
 name_no_type: Ikea Billy White 800 mm Width 350 mm Height 280 mm Depth Ikea 402 638
   53
-oomlout_detail_hierarchy_1: furniture
-oomlout_detail_hierarchy_1_upper: FURNITURE
-oomlout_detail_hierarchy_1_upper_length_4: FURN
-oomlout_detail_hierarchy_2: shelf_extender
-oomlout_detail_hierarchy_2_upper: SHELF_EXTENDER
-oomlout_detail_hierarchy_2_upper_length_4: SHEL
-oomlout_detail_hierarchy_3: ikea_billy
-oomlout_detail_hierarchy_3_upper: IKEA_BILLY
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: white
-oomlout_detail_hierarchy_4_upper: WHITE
-oomlout_detail_hierarchy_4_upper_length_4: WHIT
-oomlout_detail_hierarchy_5: 800_mm_width
-oomlout_detail_hierarchy_5_upper: 800_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 800W
-oomlout_detail_hierarchy_6: 350_mm_height
-oomlout_detail_hierarchy_6_upper: 350_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 350H
-oomlout_detail_hierarchy_7: 280_mm_depth
-oomlout_detail_hierarchy_7_upper: 280_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 280D
-oomlout_detail_hierarchy_8: ikea
-oomlout_detail_hierarchy_8_upper: IKEA
-oomlout_detail_hierarchy_8_upper_length_4: IKEA
-oomlout_detail_hierarchy_9: '402_638_53'
-oomlout_detail_hierarchy_9_upper: '402_638_53'
-oomlout_detail_hierarchy_9_upper_length_4: '402_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shelf_extender_ikea_billy_white_800_mm_width_350_mm_height_280_mm_depth_ikea_402_638_53
 oomp_word: ski bus taxi
 oomp_word_emoji: ':ski: :bus: :taxi:'
@@ -290,10 +254,6 @@ part_number_upper_length_3: '402'
 part_number_upper_length_4: '402_'
 part_number_upper_length_5: '402_6'
 part_number_upper_length_6: '402_63'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 size: ikea_billy

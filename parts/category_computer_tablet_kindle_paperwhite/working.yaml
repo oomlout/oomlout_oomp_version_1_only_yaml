@@ -108,16 +108,8 @@ id_no_class: computer_tablet_kindle_paperwhite
 id_no_color: kindlepaperwhite
 id_no_size: kindle_paperwhite
 id_no_type: kindle_paperwhite
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_kindle_paperwhite
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_kindle_paperwhite
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_kindle_paperwhite
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_kindle_paperwhite
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206fn1g
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206fn1g
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206fn1g
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206fn1g
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_kindle_paperwhite
 manufacturer: ''
 manufacturer_capital: ''
@@ -144,16 +136,6 @@ name_no_color: Kindlepaperwhite
 name_no_size: Kindle Paperwhite
 name_no_size_short: Kindle Paperwhite
 name_no_type: Kindle Paperwhite
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: computer_tablet
-oomlout_detail_hierarchy_2_upper: COMPUTER_TABLET
-oomlout_detail_hierarchy_2_upper_length_4: COMP
-oomlout_detail_hierarchy_3: kindle_paperwhite
-oomlout_detail_hierarchy_3_upper: KINDLE_PAPERWHITE
-oomlout_detail_hierarchy_3_upper_length_4: KIND
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_computer_tablet_kindle_paperwhite
 oomp_word: book tram sunflower
 oomp_word_emoji: ':book: :tram: :sunflower:'
@@ -172,10 +154,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycomputertablet

@@ -155,17 +155,9 @@ id_no_class: video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_m
 id_no_color: room551240mmwidth830mmheight105mmdepthciscocsroom55k9
 id_no_size: room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
 id_no_type: screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
-link_2_name: link_github
 link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207bpb8
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207bpb8
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207bpb8
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207bpb8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
 manufacturer: cisco
 manufacturer_capital: Cisco
@@ -221,34 +213,6 @@ name_no_size_short: Room 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco Cs Ro
   K9
 name_no_type: Screen Room 55 1240 mm Width 830 mm Height 105 mm Depth Cisco Cs Room55
   K9
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: video_conferencing
-oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
-oomlout_detail_hierarchy_2_upper_length_4: VIDE
-oomlout_detail_hierarchy_3: screen
-oomlout_detail_hierarchy_3_upper: SCREEN
-oomlout_detail_hierarchy_3_upper_length_4: SCRE
-oomlout_detail_hierarchy_4: room_55
-oomlout_detail_hierarchy_4_upper: ROOM_55
-oomlout_detail_hierarchy_4_upper_length_4: ROOM
-oomlout_detail_hierarchy_5: 1240_mm_width
-oomlout_detail_hierarchy_5_upper: 1240_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: '1240'
-oomlout_detail_hierarchy_6: 830_mm_height
-oomlout_detail_hierarchy_6_upper: 830_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 830H
-oomlout_detail_hierarchy_7: 105_mm_depth
-oomlout_detail_hierarchy_7_upper: 105_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 105D
-oomlout_detail_hierarchy_8: cisco
-oomlout_detail_hierarchy_8_upper: CISCO
-oomlout_detail_hierarchy_8_upper_length_4: CISC
-oomlout_detail_hierarchy_9: cs_room55_k9
-oomlout_detail_hierarchy_9_upper: CS_ROOM55_K9
-oomlout_detail_hierarchy_9_upper_length_4: CS_R
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_screen_room_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_cs_room55_k9
 oomp_word: curry curry anchor
 oomp_word_emoji: ':curry: :curry: :anchor:'
@@ -291,10 +255,6 @@ part_number_upper_length_3: CS_
 part_number_upper_length_4: CS_R
 part_number_upper_length_5: CS_RO
 part_number_upper_length_6: CS_ROO
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: screen

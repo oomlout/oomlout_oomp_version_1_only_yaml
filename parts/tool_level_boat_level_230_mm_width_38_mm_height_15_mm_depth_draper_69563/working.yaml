@@ -131,22 +131,10 @@ id_no_class: level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
 id_no_color: boat230mmwidth38mmheight15mmdepthdraper69563
 id_no_size: boat230mmwidth38mmheight15mmdepthdraper69563
 id_no_type: boat_230_mm_width_38_mm_height_15_mm_depth_draper_69563
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/gp/product/B0001KA1A8
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/gp/product/B0001KA1A8
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/gp/product/B0001KA1A8
 link_distributor_draper: https://www.drapertools.com/product/69563/boat-spirit-level-230mm/
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2024giu
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2024giu
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2024giu
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2024giu
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
 manufacturer: draper
 manufacturer_capital: Draper
@@ -197,28 +185,6 @@ name_no_color: Boat230mmwidth38mmheight15mmdepthdraper69563
 name_no_size: Boat230mmwidth38mmheight15mmdepthdraper69563
 name_no_size_short: Boat230Mmwidth38Mmheight15Mmdepthdraper69563
 name_no_type: Boat 230 mm Width 38 mm Height 15 mm Depth Draper 69563
-oomlout_detail_hierarchy_1: tool
-oomlout_detail_hierarchy_1_upper: TOOL
-oomlout_detail_hierarchy_1_upper_length_4: TOOL
-oomlout_detail_hierarchy_2: level
-oomlout_detail_hierarchy_2_upper: LEVEL
-oomlout_detail_hierarchy_2_upper_length_4: LEVE
-oomlout_detail_hierarchy_3: 230_mm_width
-oomlout_detail_hierarchy_3_upper: 230_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 230W
-oomlout_detail_hierarchy_4: 38_mm_height
-oomlout_detail_hierarchy_4_upper: 38_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 38HE
-oomlout_detail_hierarchy_5: 15_mm_depth
-oomlout_detail_hierarchy_5_upper: 15_MM_DEPTH
-oomlout_detail_hierarchy_5_upper_length_4: 15DE
-oomlout_detail_hierarchy_6: draper
-oomlout_detail_hierarchy_6_upper: DRAPER
-oomlout_detail_hierarchy_6_upper_length_4: DRAP
-oomlout_detail_hierarchy_7: '69563'
-oomlout_detail_hierarchy_7_upper: '69563'
-oomlout_detail_hierarchy_7_upper_length_4: '6956'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_tool_level_boat_level_230_mm_width_38_mm_height_15_mm_depth_draper_69563
 oomp_word: rabbit new_moon trumpet
 oomp_word_emoji: ':rabbit: :new_moon: :trumpet:'
@@ -261,10 +227,6 @@ part_number_upper_length_3: '695'
 part_number_upper_length_4: '6956'
 part_number_upper_length_5: '69563'
 part_number_upper_length_6: '69563'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

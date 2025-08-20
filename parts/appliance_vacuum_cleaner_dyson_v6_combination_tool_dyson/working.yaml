@@ -129,16 +129,8 @@ id_no_class: vacuum_cleaner_dyson_v6_combination_tool_dyson
 id_no_color: combinationtooldyson
 id_no_size: combination_tool_dyson
 id_no_type: dyson_v6_combination_tool_dyson
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206wwhu
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206wwhu
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206wwhu
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206wwhu
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson
 manufacturer: dyson
 manufacturer_capital: Dyson
@@ -189,22 +181,6 @@ name_no_color: Combinationtooldyson
 name_no_size: Combination Tool Dyson
 name_no_size_short: Combination Tool Dyson
 name_no_type: Dyson V6 Combination Tool Dyson
-oomlout_detail_hierarchy_1: appliance
-oomlout_detail_hierarchy_1_upper: APPLIANCE
-oomlout_detail_hierarchy_1_upper_length_4: APPL
-oomlout_detail_hierarchy_2: vacuum_cleaner
-oomlout_detail_hierarchy_2_upper: VACUUM_CLEANER
-oomlout_detail_hierarchy_2_upper_length_4: VACU
-oomlout_detail_hierarchy_3: dyson_v6
-oomlout_detail_hierarchy_3_upper: DYSON_V6
-oomlout_detail_hierarchy_3_upper_length_4: DYSO
-oomlout_detail_hierarchy_4: combination_tool
-oomlout_detail_hierarchy_4_upper: COMBINATION_TOOL
-oomlout_detail_hierarchy_4_upper_length_4: COMB
-oomlout_detail_hierarchy_5: dyson
-oomlout_detail_hierarchy_5_upper: DYSON
-oomlout_detail_hierarchy_5_upper_length_4: DYSO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_appliance_vacuum_cleaner_dyson_v6_combination_tool_dyson
 oomp_word: briefcase cat radio
 oomp_word_emoji: ':briefcase: :cat: :radio:'
@@ -222,10 +198,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: dyson_v6

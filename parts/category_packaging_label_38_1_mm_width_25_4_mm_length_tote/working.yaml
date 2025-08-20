@@ -156,16 +156,8 @@ id_no_class: packaging_label_38_1_mm_width_25_4_mm_length_tote
 id_no_color: tote
 id_no_size: 38_1_mm_width_25_4_mm_length_tote
 id_no_type: label_38_1_mm_width_25_4_mm_length_tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2046lga
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2046lga
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2046lga
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2046lga
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,25 +184,6 @@ name_no_color: Tote
 name_no_size: 38 1 mm Width 25 4 mm Length Tote
 name_no_size_short: 38 1 Mm Width 25 4 Mm Length Tote
 name_no_type: Label 38 1 mm Width 25 4 mm Length Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: packaging
-oomlout_detail_hierarchy_2_upper: PACKAGING
-oomlout_detail_hierarchy_2_upper_length_4: PACK
-oomlout_detail_hierarchy_3: label
-oomlout_detail_hierarchy_3_upper: LABEL
-oomlout_detail_hierarchy_3_upper_length_4: LABE
-oomlout_detail_hierarchy_4: 1_mm_width
-oomlout_detail_hierarchy_4_upper: 1_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 1WID
-oomlout_detail_hierarchy_5: 4_mm_length
-oomlout_detail_hierarchy_5_upper: 4_MM_LENGTH
-oomlout_detail_hierarchy_5_upper_length_4: 4LEN
-oomlout_detail_hierarchy_6: tote
-oomlout_detail_hierarchy_6_upper: TOTE
-oomlout_detail_hierarchy_6_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_packaging_label_38_1_mm_width_25_4_mm_length_tote
 oomp_word: chestnut rabbit clap
 oomp_word_emoji: ':chestnut: :rabbit: :clap:'
@@ -229,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypackaging

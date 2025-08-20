@@ -179,17 +179,9 @@ id_no_color: 42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_boa
 id_no_size: robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_kitronik_5348
 id_no_type: pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
 kicad_reference: BB
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
-link_2_name: link_github
 link_distributor_kitronik: https://kitronik.co.uk/products/5348-kitronik-simply-robotics-for-raspberry-pi-pico
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xdit
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202xdit
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202xdit
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202xdit
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
 manufacturer: kitronik
 manufacturer_capital: Kitronik
@@ -248,37 +240,6 @@ name_no_size_short: Robotic 42 Mm Width 64 Mm Height Green Pcb Simply Robtoics M
 name_no_type: Pico Robotic 42 mm Width 64 mm Height Green PCB Simply Robtoics Motor
   Driver Board For Raspberry Pi Pico Kitronik 5348
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_10: '5348'
-oomlout_detail_hierarchy_10_upper: '5348'
-oomlout_detail_hierarchy_10_upper_length_4: '5348'
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_mcu
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: pico
-oomlout_detail_hierarchy_3_upper: PICO
-oomlout_detail_hierarchy_3_upper_length_4: PICO
-oomlout_detail_hierarchy_4: robotic
-oomlout_detail_hierarchy_4_upper: ROBOTIC
-oomlout_detail_hierarchy_4_upper_length_4: ROBO
-oomlout_detail_hierarchy_5: 42_mm_width
-oomlout_detail_hierarchy_5_upper: 42_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 42WI
-oomlout_detail_hierarchy_6: 64_mm_height
-oomlout_detail_hierarchy_6_upper: 64_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 64HE
-oomlout_detail_hierarchy_7: simply_robtoics_motor_driver
-oomlout_detail_hierarchy_7_upper: SIMPLY_ROBTOICS_MOTOR_DRIVER
-oomlout_detail_hierarchy_7_upper_length_4: SIMP
-oomlout_detail_hierarchy_8: board_for_raspberry_pi_pico
-oomlout_detail_hierarchy_8_upper: BOARD_FOR_RASPBERRY_PI_PICO
-oomlout_detail_hierarchy_8_upper_length_4: BOAR
-oomlout_detail_hierarchy_9: kitronik
-oomlout_detail_hierarchy_9_upper: KITRONIK
-oomlout_detail_hierarchy_9_upper_length_4: KITR
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
 oomp_word: penguin wink tea
 oomp_word_emoji: ':penguin: :wink: :tea:'
@@ -320,10 +281,6 @@ part_number_upper_length_3: '534'
 part_number_upper_length_4: '5348'
 part_number_upper_length_5: '5348'
 part_number_upper_length_6: '5348'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: pc
 short_code_upper: PC
 short_name: ''

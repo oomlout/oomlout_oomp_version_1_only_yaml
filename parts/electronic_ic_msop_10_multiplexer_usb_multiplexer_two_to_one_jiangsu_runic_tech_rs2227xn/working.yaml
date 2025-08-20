@@ -193,16 +193,8 @@ id_no_color: usb_two_to_one_jiangsu_runtech_rs2227xn
 id_no_size: multiplexer_usb_multiplexer_two_to_one_jiangsu_runtech_rs2227xn
 id_no_type: msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runtech_rs2227xn
 kicad_reference: U
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029k3m
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029k3m
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2029k3m
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029k3m
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
 manufacturer: jiangsu_runic_tech
 manufacturer_capital: Jiangsu Runic Tech
@@ -258,31 +250,6 @@ name_no_size: Multiplexer USB Multiplexer Two To One Jiangsu Runtech Rs2227Xn
 name_no_size_short: Multiplexer Usb Multiplexer Two To One Jiangsu Runtech Rs2227Xn
 name_no_type: Msop 10 Multiplexer USB Multiplexer Two To One Jiangsu Runtech Rs2227Xn
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: msop_10
-oomlout_detail_hierarchy_3_upper: MSOP_10
-oomlout_detail_hierarchy_3_upper_length_4: MSOP
-oomlout_detail_hierarchy_4: multiplexer
-oomlout_detail_hierarchy_4_upper: MULTIPLEXER
-oomlout_detail_hierarchy_4_upper_length_4: MULT
-oomlout_detail_hierarchy_5: usb_multiplexer
-oomlout_detail_hierarchy_5_upper: USB_MULTIPLEXER
-oomlout_detail_hierarchy_5_upper_length_4: USB_
-oomlout_detail_hierarchy_6: two_to_one
-oomlout_detail_hierarchy_6_upper: TWO_TO_ONE
-oomlout_detail_hierarchy_6_upper_length_4: TWO_
-oomlout_detail_hierarchy_7: jiangsu_runic_tech
-oomlout_detail_hierarchy_7_upper: JIANGSU_RUNIC_TECH
-oomlout_detail_hierarchy_7_upper_length_4: JIAN
-oomlout_detail_hierarchy_8: rs2227xn
-oomlout_detail_hierarchy_8_upper: RS2227XN
-oomlout_detail_hierarchy_8_upper_length_4: RS22
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_msop_10_multiplexer_usb_multiplexer_two_to_one_jiangsu_runic_tech_rs2227xn
 oomp_word: koala star blush
 oomp_word_emoji: ':koala: :star: :blush:'
@@ -365,10 +332,6 @@ pins:
     name: hsd2_positive
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: imsp10mpump21rs2227
 short_code_upper: IMSP10MPUMP21RS2227
 short_name: usb multiplexer 2 to 1 (rs2227xn)

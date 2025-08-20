@@ -108,16 +108,8 @@ id_no_class: household_toy_animal
 id_no_color: animal
 id_no_size: animal
 id_no_type: animal
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209p5qg
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209p5qg
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209p5qg
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209p5qg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
 manufacturer: ''
 manufacturer_capital: ''
@@ -144,16 +136,6 @@ name_no_color: Animal
 name_no_size: Animal
 name_no_size_short: Animal
 name_no_type: Animal
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: household_toy
-oomlout_detail_hierarchy_2_upper: HOUSEHOLD_TOY
-oomlout_detail_hierarchy_2_upper_length_4: HOUS
-oomlout_detail_hierarchy_3: animal
-oomlout_detail_hierarchy_3_upper: ANIMAL
-oomlout_detail_hierarchy_3_upper_length_4: ANIM
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_household_toy_animal
 oomp_word: seven paperclip hatched_chick
 oomp_word_emoji: ':seven: :paperclip: :hatched_chick:'
@@ -172,10 +154,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhouseholdtoy

@@ -153,17 +153,9 @@ id_no_class: bike_stationary_peloton_bike_screen_third_generation_peloton
 id_no_color: screenthirdgenerationpeloton
 id_no_size: screen_third_generation_peloton
 id_no_type: peloton_bike_screen_third_generation_peloton
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
-link_2_name: link_github
 link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2080ifj
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2080ifj
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2080ifj
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2080ifj
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
 manufacturer: peloton
 manufacturer_capital: Peloton
@@ -214,25 +206,6 @@ name_no_color: Screenthirdgenerationpeloton
 name_no_size: Screen Third Generation Peloton
 name_no_size_short: Screen Third Generation Peloton
 name_no_type: Peloton Bike Screen Third Generation Peloton
-oomlout_detail_hierarchy_1: exercise_equipment
-oomlout_detail_hierarchy_1_upper: EXERCISE_EQUIPMENT
-oomlout_detail_hierarchy_1_upper_length_4: EXER
-oomlout_detail_hierarchy_2: bike_stationary
-oomlout_detail_hierarchy_2_upper: BIKE_STATIONARY
-oomlout_detail_hierarchy_2_upper_length_4: BIKE
-oomlout_detail_hierarchy_3: peloton_bike
-oomlout_detail_hierarchy_3_upper: PELOTON_BIKE
-oomlout_detail_hierarchy_3_upper_length_4: PELO
-oomlout_detail_hierarchy_4: screen
-oomlout_detail_hierarchy_4_upper: SCREEN
-oomlout_detail_hierarchy_4_upper_length_4: SCRE
-oomlout_detail_hierarchy_5: third_generation
-oomlout_detail_hierarchy_5_upper: THIRD_GENERATION
-oomlout_detail_hierarchy_5_upper_length_4: THIR
-oomlout_detail_hierarchy_6: peloton
-oomlout_detail_hierarchy_6_upper: PELOTON
-oomlout_detail_hierarchy_6_upper_length_4: PELO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
 oomp_word: strawberry maple_leaf ant
 oomp_word_emoji: ':strawberry: :maple_leaf: :ant:'
@@ -250,10 +223,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: peloton_bike

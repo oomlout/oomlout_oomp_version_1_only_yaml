@@ -108,16 +108,8 @@ id_no_color: 800point
 id_no_size: 800_point
 id_no_type: 800_point
 kicad_reference: ''
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206o0l0
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206o0l0
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206o0l0
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206o0l0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_breadboard_800_point
 manufacturer: ''
 manufacturer_capital: ''
@@ -144,16 +136,6 @@ name_no_color: 800Point
 name_no_size: 800 Point
 name_no_size_short: 800 Point
 name_no_type: 800 Point
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: prototyping_breadboard
-oomlout_detail_hierarchy_2_upper: PROTOTYPING_BREADBOARD
-oomlout_detail_hierarchy_2_upper_length_4: PROT
-oomlout_detail_hierarchy_3: 800_point
-oomlout_detail_hierarchy_3_upper: 800_POINT
-oomlout_detail_hierarchy_3_upper_length_4: '800_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_prototyping_breadboard_800_point
 oomp_word: lipstick rainbow three
 oomp_word_emoji: ':lipstick: :rainbow: :three:'
@@ -171,10 +153,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: 800p
 short_code_upper: 800P
 size: 800_point

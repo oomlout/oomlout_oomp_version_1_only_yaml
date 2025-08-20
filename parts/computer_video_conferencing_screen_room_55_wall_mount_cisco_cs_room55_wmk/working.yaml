@@ -131,17 +131,9 @@ id_no_class: video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
 id_no_color: room55wallmountciscocsroom55wmk
 id_no_size: room_55_wall_mount_cisco_cs_room55_wmk
 id_no_type: screen_room_55_wall_mount_cisco_cs_room55_wmk
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
-link_2_name: link_github
 link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204b76e
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204b76e
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204b76e
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204b76e
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
 manufacturer: cisco
 manufacturer_capital: Cisco
@@ -192,25 +184,6 @@ name_no_color: Room55Wallmountciscocsroom55Wmk
 name_no_size: Room 55 Wall Mount Cisco Cs Room55 Wmk
 name_no_size_short: Room 55 Wall Mount Cisco Cs Room55 Wmk
 name_no_type: Screen Room 55 Wall Mount Cisco Cs Room55 Wmk
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: video_conferencing
-oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
-oomlout_detail_hierarchy_2_upper_length_4: VIDE
-oomlout_detail_hierarchy_3: screen
-oomlout_detail_hierarchy_3_upper: SCREEN
-oomlout_detail_hierarchy_3_upper_length_4: SCRE
-oomlout_detail_hierarchy_4: room_55_wall_mount
-oomlout_detail_hierarchy_4_upper: ROOM_55_WALL_MOUNT
-oomlout_detail_hierarchy_4_upper_length_4: ROOM
-oomlout_detail_hierarchy_5: cisco
-oomlout_detail_hierarchy_5_upper: CISCO
-oomlout_detail_hierarchy_5_upper_length_4: CISC
-oomlout_detail_hierarchy_6: cs_room55_wmk
-oomlout_detail_hierarchy_6_upper: CS_ROOM55_WMK
-oomlout_detail_hierarchy_6_upper_length_4: CS_R
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_screen_room_55_wall_mount_cisco_cs_room55_wmk
 oomp_word: new_moon phone thumbsup
 oomp_word_emoji: ':new_moon: :phone: :thumbsup:'
@@ -252,10 +225,6 @@ part_number_upper_length_3: CS_
 part_number_upper_length_4: CS_R
 part_number_upper_length_5: CS_RO
 part_number_upper_length_6: CS_ROO
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: screen

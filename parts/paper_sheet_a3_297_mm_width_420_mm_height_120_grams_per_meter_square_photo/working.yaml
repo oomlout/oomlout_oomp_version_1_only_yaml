@@ -156,16 +156,8 @@ id_no_class: sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_phot
 id_no_color: 120gramspermetersquarephoto
 id_no_size: 120_grams_per_meter_square_photo
 id_no_type: a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203nf2n
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203nf2n
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203nf2n
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203nf2n
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,25 +184,6 @@ name_no_color: 120Gramspermetersquarephoto
 name_no_size: 120 Grams Per Meter Square Photo
 name_no_size_short: 120 Grams Per Meter Square Photo
 name_no_type: A3 297 mm Width 420 mm Height 120 Grams Per Meter Square Photo
-oomlout_detail_hierarchy_1: paper
-oomlout_detail_hierarchy_1_upper: PAPER
-oomlout_detail_hierarchy_1_upper_length_4: PAPE
-oomlout_detail_hierarchy_2: sheet
-oomlout_detail_hierarchy_2_upper: SHEET
-oomlout_detail_hierarchy_2_upper_length_4: SHEE
-oomlout_detail_hierarchy_3: 297_mm_width
-oomlout_detail_hierarchy_3_upper: 297_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 297W
-oomlout_detail_hierarchy_4: 420_mm_height
-oomlout_detail_hierarchy_4_upper: 420_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 420H
-oomlout_detail_hierarchy_5: 120_gram
-oomlout_detail_hierarchy_5_upper: 120_GRAM
-oomlout_detail_hierarchy_5_upper_length_4: '120_'
-oomlout_detail_hierarchy_6: photo
-oomlout_detail_hierarchy_6_upper: PHOTO
-oomlout_detail_hierarchy_6_upper_length_4: PHOT
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_photo
 oomp_word: blowfish calendar sparkles
 oomp_word_emoji: ':blowfish: :calendar: :sparkles:'
@@ -228,10 +201,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a3_297_mm_width_420_mm_height

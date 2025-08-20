@@ -155,17 +155,9 @@ id_no_class: hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cint
 id_no_color: 450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
 id_no_size: plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
 id_no_type: shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
-link_2_name: link_github
 link_distributor_sos_cintres: http://www.sos-cintres.com/produit/auad-hangery/
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204twmz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204twmz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204twmz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204twmz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
 manufacturer: sos_cintres
 manufacturer_capital: Sos Cintres
@@ -218,34 +210,6 @@ name_no_color: 450 mm Width 145 mm Length 6 mm Depth Sos Cintres Au45Ad
 name_no_size: Plastic 450 mm Width 145 mm Length 6 mm Depth Sos Cintres Au45Ad
 name_no_size_short: Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres Au45Ad
 name_no_type: Shirt Plastic 450 mm Width 145 mm Length 6 mm Depth Sos Cintres Au45Ad
-oomlout_detail_hierarchy_1: clothes
-oomlout_detail_hierarchy_1_upper: CLOTHES
-oomlout_detail_hierarchy_1_upper_length_4: CLOT
-oomlout_detail_hierarchy_2: hanger
-oomlout_detail_hierarchy_2_upper: HANGER
-oomlout_detail_hierarchy_2_upper_length_4: HANG
-oomlout_detail_hierarchy_3: shirt
-oomlout_detail_hierarchy_3_upper: SHIRT
-oomlout_detail_hierarchy_3_upper_length_4: SHIR
-oomlout_detail_hierarchy_4: plastic
-oomlout_detail_hierarchy_4_upper: PLASTIC
-oomlout_detail_hierarchy_4_upper_length_4: PLAS
-oomlout_detail_hierarchy_5: 450_mm_width
-oomlout_detail_hierarchy_5_upper: 450_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 450W
-oomlout_detail_hierarchy_6: 145_mm_length
-oomlout_detail_hierarchy_6_upper: 145_MM_LENGTH
-oomlout_detail_hierarchy_6_upper_length_4: 145L
-oomlout_detail_hierarchy_7: 6_mm_depth
-oomlout_detail_hierarchy_7_upper: 6_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 6DEP
-oomlout_detail_hierarchy_8: sos_cintres
-oomlout_detail_hierarchy_8_upper: SOS_CINTRES
-oomlout_detail_hierarchy_8_upper_length_4: SOS_
-oomlout_detail_hierarchy_9: au45ad
-oomlout_detail_hierarchy_9_upper: AU45AD
-oomlout_detail_hierarchy_9_upper_length_4: AU45
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
 oomp_word: computer peach computer
 oomp_word_emoji: ':computer: :peach: :computer:'
@@ -287,10 +251,6 @@ part_number_upper_length_3: AU4
 part_number_upper_length_4: AU45
 part_number_upper_length_5: AU45A
 part_number_upper_length_6: AU45AD
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: shirt

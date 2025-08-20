@@ -157,16 +157,8 @@ id_no_class: cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_i
 id_no_color: 810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 id_no_size: white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 id_no_type: ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208kkq0
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208kkq0
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208kkq0
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208kkq0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -220,34 +212,6 @@ name_no_size: White 810 mm Width 890 mm Height 470 mm Depth Ikea 005 292 42
 name_no_size_short: White 810 Mm Width 890 Mm Height 470 Mm Depth Ikea 005 292 42
 name_no_type: Ikea Havsta White 810 mm Width 890 mm Height 470 mm Depth Ikea 005 292
   42
-oomlout_detail_hierarchy_1: furniture
-oomlout_detail_hierarchy_1_upper: FURNITURE
-oomlout_detail_hierarchy_1_upper_length_4: FURN
-oomlout_detail_hierarchy_2: cabinet
-oomlout_detail_hierarchy_2_upper: CABINET
-oomlout_detail_hierarchy_2_upper_length_4: CABI
-oomlout_detail_hierarchy_3: ikea_havsta
-oomlout_detail_hierarchy_3_upper: IKEA_HAVSTA
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: white
-oomlout_detail_hierarchy_4_upper: WHITE
-oomlout_detail_hierarchy_4_upper_length_4: WHIT
-oomlout_detail_hierarchy_5: 810_mm_width
-oomlout_detail_hierarchy_5_upper: 810_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: 810W
-oomlout_detail_hierarchy_6: 890_mm_height
-oomlout_detail_hierarchy_6_upper: 890_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: 890H
-oomlout_detail_hierarchy_7: 470_mm_depth
-oomlout_detail_hierarchy_7_upper: 470_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 470D
-oomlout_detail_hierarchy_8: ikea
-oomlout_detail_hierarchy_8_upper: IKEA
-oomlout_detail_hierarchy_8_upper_length_4: IKEA
-oomlout_detail_hierarchy_9: 005_292_42
-oomlout_detail_hierarchy_9_upper: 005_292_42
-oomlout_detail_hierarchy_9_upper_length_4: '005_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_cabinet_ikea_havsta_white_810_mm_width_890_mm_height_470_mm_depth_ikea_005_292_42
 oomp_word: tent dress tram
 oomp_word_emoji: ':tent: :dress: :tram:'
@@ -289,10 +253,6 @@ part_number_upper_length_3: '005'
 part_number_upper_length_4: '005_'
 part_number_upper_length_5: '005_2'
 part_number_upper_length_6: 005_29
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 size: ikea_havsta

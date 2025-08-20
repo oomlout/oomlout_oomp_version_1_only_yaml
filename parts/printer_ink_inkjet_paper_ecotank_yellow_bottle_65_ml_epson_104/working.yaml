@@ -154,21 +154,9 @@ id_no_class: ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
 id_no_color: yellow_bottle_65_ml_epson_104
 id_no_size: ecotank_yellow_bottle_65_ml_epson_104
 id_no_type: inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B08BXT7Z6J
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B08BXT7Z6J
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B08BXT7Z6J
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203bs0n
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203bs0n
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203bs0n
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203bs0n
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
 manufacturer: epson
 manufacturer_capital: Epson
@@ -219,28 +207,6 @@ name_no_color: Yellow Bottle 65 Ml Epson 104
 name_no_size: Ecotank Yellow Bottle 65 Ml Epson 104
 name_no_size_short: Ecotank Yellow Bottle 65 Ml Epson 104
 name_no_type: Inkjet Paper Ecotank Yellow Bottle 65 Ml Epson 104
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: ink
-oomlout_detail_hierarchy_2_upper: INK
-oomlout_detail_hierarchy_2_upper_length_4: INK
-oomlout_detail_hierarchy_3: inkjet_paper
-oomlout_detail_hierarchy_3_upper: INKJET_PAPER
-oomlout_detail_hierarchy_3_upper_length_4: INKJ
-oomlout_detail_hierarchy_4: ecotank
-oomlout_detail_hierarchy_4_upper: ECOTANK
-oomlout_detail_hierarchy_4_upper_length_4: ECOT
-oomlout_detail_hierarchy_5: yellow_bottle_65_ml
-oomlout_detail_hierarchy_5_upper: YELLOW_BOTTLE_65_ML
-oomlout_detail_hierarchy_5_upper_length_4: YELL
-oomlout_detail_hierarchy_6: epson
-oomlout_detail_hierarchy_6_upper: EPSON
-oomlout_detail_hierarchy_6_upper_length_4: EPSO
-oomlout_detail_hierarchy_7: '104'
-oomlout_detail_hierarchy_7_upper: '104'
-oomlout_detail_hierarchy_7_upper_length_4: '104'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_ink_inkjet_paper_ecotank_yellow_bottle_65_ml_epson_104
 oomp_word: dolphin snake baseball
 oomp_word_emoji: ':dolphin: :snake: :baseball:'
@@ -283,10 +249,6 @@ part_number_upper_length_3: '104'
 part_number_upper_length_4: '104'
 part_number_upper_length_5: '104'
 part_number_upper_length_6: '104'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: inkjet_paper

@@ -156,16 +156,8 @@ id_no_class: electronic_resistor_0805_tote
 id_no_color: tote
 id_no_size: 0805_tote
 id_no_type: resistor_0805_tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0805_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0805_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0805_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0805_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2086orc
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2086orc
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2086orc
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2086orc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0805_tote
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,22 +184,6 @@ name_no_color: Tote
 name_no_size: 0805 Tote
 name_no_size_short: 0805 Tote
 name_no_type: Resistor 0805 Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: resistor
-oomlout_detail_hierarchy_3_upper: RESISTOR
-oomlout_detail_hierarchy_3_upper_length_4: RESI
-oomlout_detail_hierarchy_4: 0805
-oomlout_detail_hierarchy_4_upper: 0805
-oomlout_detail_hierarchy_4_upper_length_4: 0805
-oomlout_detail_hierarchy_5: tote
-oomlout_detail_hierarchy_5_upper: TOTE
-oomlout_detail_hierarchy_5_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_resistor_0805_tote
 oomp_word: pear cherries hospital
 oomp_word_emoji: ':pear: :cherries: :hospital:'
@@ -226,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic

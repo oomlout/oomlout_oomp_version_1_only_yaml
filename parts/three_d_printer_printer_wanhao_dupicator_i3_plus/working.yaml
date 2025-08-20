@@ -105,13 +105,7 @@ id_no_class: printer_wanhao_dupicator_i3_plus
 id_no_color: wanhaodupicatori3plus
 id_no_size: wanhaodupicatori3plus
 id_no_type: wanhao_dupicator_i3_plus
-link_1: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus
-link_1_name: link_main
 link_main: https://github.com/oomlout/oomlout_oomp_current_version_messy/tree/main/parts/three_d_printer_printer_wanhao_dupicator_i3_plus
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205sqhz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205sqhz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205sqhz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205sqhz
 manufacturer: wanhao
 manufacturer_capital: Wanhao
 manufacturer_first_letter: w
@@ -161,19 +155,6 @@ name_no_color: Wanhaodupicatori3Plus
 name_no_size: Wanhaodupicatori3Plus
 name_no_size_short: Wanhaodupicatori3Plus
 name_no_type: Wanhao Dupicator I3 Plus
-oomlout_detail_hierarchy_1: three_d_printer
-oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: THRE
-oomlout_detail_hierarchy_2: printer
-oomlout_detail_hierarchy_2_upper: PRINTER
-oomlout_detail_hierarchy_2_upper_length_4: PRIN
-oomlout_detail_hierarchy_3: wanhao
-oomlout_detail_hierarchy_3_upper: WANHAO
-oomlout_detail_hierarchy_3_upper_length_4: WANH
-oomlout_detail_hierarchy_4: dupicator_i3_plus
-oomlout_detail_hierarchy_4_upper: DUPICATOR_I3_PLUS
-oomlout_detail_hierarchy_4_upper_length_4: DUPI
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_printer_wanhao_dupicator_i3_plus
 oomp_word: microscope golf nose
 oomp_word_emoji: ':microscope: :golf: :nose:'
@@ -215,10 +196,6 @@ part_number_upper_length_3: DUP
 part_number_upper_length_4: DUPI
 part_number_upper_length_5: DUPIC
 part_number_upper_length_6: DUPICA
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

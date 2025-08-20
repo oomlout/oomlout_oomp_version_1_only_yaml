@@ -105,16 +105,8 @@ id_no_class: inkjet_a4_epson_ecotank_et_2750
 id_no_color: epsonecotanket2750
 id_no_size: epson_ecotank_et_2750
 id_no_type: a4_epson_ecotank_et_2750
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_epson_ecotank_et_2750
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_epson_ecotank_et_2750
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_epson_ecotank_et_2750
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_epson_ecotank_et_2750
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204w35f
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204w35f
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204w35f
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204w35f
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_epson_ecotank_et_2750
 manufacturer: epson_ecotank
 manufacturer_capital: Epson Ecotank
@@ -165,22 +157,6 @@ name_no_color: Epsonecotanket2750
 name_no_size: Epson Ecotank Et 2750
 name_no_size_short: Epson Ecotank Et 2750
 name_no_type: A4 Epson Ecotank Et 2750
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: inkjet
-oomlout_detail_hierarchy_2_upper: INKJET
-oomlout_detail_hierarchy_2_upper_length_4: INKJ
-oomlout_detail_hierarchy_3: a4
-oomlout_detail_hierarchy_3_upper: A4
-oomlout_detail_hierarchy_3_upper_length_4: A4
-oomlout_detail_hierarchy_4: epson_ecotank
-oomlout_detail_hierarchy_4_upper: EPSON_ECOTANK
-oomlout_detail_hierarchy_4_upper_length_4: EPSO
-oomlout_detail_hierarchy_5: et_2750
-oomlout_detail_hierarchy_5_upper: ET_2750
-oomlout_detail_hierarchy_5_upper_length_4: ET_2
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_inkjet_a4_epson_ecotank_et_2750
 oomp_word: phone rooster two
 oomp_word_emoji: ':phone: :rooster: :two:'
@@ -222,10 +198,6 @@ part_number_upper_length_3: ET_
 part_number_upper_length_4: ET_2
 part_number_upper_length_5: ET_27
 part_number_upper_length_6: ET_275
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

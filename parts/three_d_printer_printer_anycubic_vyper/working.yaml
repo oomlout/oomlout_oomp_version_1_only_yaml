@@ -105,16 +105,8 @@ id_no_class: printer_anycubic_vyper
 id_no_color: anycubicvyper
 id_no_size: anycubicvyper
 id_no_type: anycubic_vyper
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205krts
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205krts
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205krts
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205krts
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
 manufacturer: anycubic
 manufacturer_capital: Anycubic
@@ -165,19 +157,6 @@ name_no_color: Anycubicvyper
 name_no_size: Anycubicvyper
 name_no_size_short: Anycubicvyper
 name_no_type: Anycubic Vyper
-oomlout_detail_hierarchy_1: three_d_printer
-oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: THRE
-oomlout_detail_hierarchy_2: printer
-oomlout_detail_hierarchy_2_upper: PRINTER
-oomlout_detail_hierarchy_2_upper_length_4: PRIN
-oomlout_detail_hierarchy_3: anycubic
-oomlout_detail_hierarchy_3_upper: ANYCUBIC
-oomlout_detail_hierarchy_3_upper_length_4: ANYC
-oomlout_detail_hierarchy_4: vyper
-oomlout_detail_hierarchy_4_upper: VYPER
-oomlout_detail_hierarchy_4_upper_length_4: VYPE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_printer_anycubic_vyper
 oomp_word: clipboard ambulance ship
 oomp_word_emoji: ':clipboard: :ambulance: :ship:'
@@ -219,10 +198,6 @@ part_number_upper_length_3: VYP
 part_number_upper_length_4: VYPE
 part_number_upper_length_5: VYPER
 part_number_upper_length_6: VYPER
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

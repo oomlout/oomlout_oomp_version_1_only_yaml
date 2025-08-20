@@ -105,16 +105,8 @@ id_no_class: inkjet_reel_mutoh_vj_1304
 id_no_color: mutohvj1304
 id_no_size: mutoh_vj_1304
 id_no_type: reel_mutoh_vj_1304
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208t45y
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208t45y
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208t45y
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208t45y
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
 manufacturer: mutoh
 manufacturer_capital: Mutoh
@@ -165,22 +157,6 @@ name_no_color: Mutohvj1304
 name_no_size: Mutoh Vj 1304
 name_no_size_short: Mutoh Vj 1304
 name_no_type: Reel Mutoh Vj 1304
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: inkjet
-oomlout_detail_hierarchy_2_upper: INKJET
-oomlout_detail_hierarchy_2_upper_length_4: INKJ
-oomlout_detail_hierarchy_3: reel
-oomlout_detail_hierarchy_3_upper: REEL
-oomlout_detail_hierarchy_3_upper_length_4: REEL
-oomlout_detail_hierarchy_4: mutoh
-oomlout_detail_hierarchy_4_upper: MUTOH
-oomlout_detail_hierarchy_4_upper_length_4: MUTO
-oomlout_detail_hierarchy_5: vj_1304
-oomlout_detail_hierarchy_5_upper: VJ_1304
-oomlout_detail_hierarchy_5_upper_length_4: VJ_1
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_inkjet_reel_mutoh_vj_1304
 oomp_word: boat birthday ram
 oomp_word_emoji: ':boat: :birthday: :ram:'
@@ -223,10 +199,6 @@ part_number_upper_length_3: VJ_
 part_number_upper_length_4: VJ_1
 part_number_upper_length_5: VJ_13
 part_number_upper_length_6: VJ_130
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Mutoh ValueJet VJ-1304

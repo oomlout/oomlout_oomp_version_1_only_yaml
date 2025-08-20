@@ -154,16 +154,8 @@ id_no_class: breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_steppe
 id_no_color: steppermotorclosedloopmakerbasemksservo42c
 id_no_size: stepper_motor_closed_loop_makerbase_mks_servo42c
 id_no_type: nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2087p1k
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2087p1k
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2087p1k
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2087p1k
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
 manufacturer: makerbase
 manufacturer_capital: Makerbase
@@ -219,31 +211,6 @@ name_no_size_short: Stepper Motor Closed Loop Makerbase Mks Servo42C
 name_no_type: Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase
   Mks Servo42C
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_motor_driver
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MOTOR_DRIVER
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: 39_mm_width
-oomlout_detail_hierarchy_3_upper: 39_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 39WI
-oomlout_detail_hierarchy_4: 39_mm_height
-oomlout_detail_hierarchy_4_upper: 39_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 39HE
-oomlout_detail_hierarchy_5: stepper_motor
-oomlout_detail_hierarchy_5_upper: STEPPER_MOTOR
-oomlout_detail_hierarchy_5_upper_length_4: STEP
-oomlout_detail_hierarchy_6: closed_loop
-oomlout_detail_hierarchy_6_upper: CLOSED_LOOP
-oomlout_detail_hierarchy_6_upper_length_4: CLOS
-oomlout_detail_hierarchy_7: makerbase
-oomlout_detail_hierarchy_7_upper: MAKERBASE
-oomlout_detail_hierarchy_7_upper_length_4: MAKE
-oomlout_detail_hierarchy_8: mks_servo42c
-oomlout_detail_hierarchy_8_upper: MKS_SERVO42C
-oomlout_detail_hierarchy_8_upper_length_4: MKS_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
 oomp_word: pineapple radio wrench
 oomp_word_emoji: ':pineapple: :radio: :wrench:'
@@ -285,10 +252,6 @@ part_number_upper_length_3: MKS
 part_number_upper_length_4: MKS_
 part_number_upper_length_5: MKS_S
 part_number_upper_length_6: MKS_SE
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: sm
 short_code_upper: SM
 short_name: ''

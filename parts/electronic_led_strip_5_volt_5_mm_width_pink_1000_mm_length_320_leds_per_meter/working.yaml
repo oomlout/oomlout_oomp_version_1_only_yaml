@@ -179,21 +179,9 @@ id_no_class: led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
 id_no_color: 1000_mm_length_320_leds_per_meter
 id_no_size: pink_1000_mm_length_320_leds_per_meter
 id_no_type: strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
-link_2_name: link_github
-link_3: https://www.aliexpress.com/item/1005007532172895.html
-link_3_name: link_distributor_aliexpress
-link_buy_1: https://www.aliexpress.com/item/1005007532172895.html
-link_buy_1_name: link_distributor_aliexpress
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2068y3o
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2068y3o
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2068y3o
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2068y3o
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
 manufacturer: ''
 manufacturer_capital: ''
@@ -220,25 +208,6 @@ name_no_color: 1000 mm Length 320 LEDs Per Meter
 name_no_size: Pink 1000 mm Length 320 LEDs Per Meter
 name_no_size_short: Pink 1k Mm Length 320 Leds Per Meter
 name_no_type: Strip 5 Volt 5 mm Width Pink 1000 mm Length 320 LEDs Per Meter
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: led
-oomlout_detail_hierarchy_2_upper: LED
-oomlout_detail_hierarchy_2_upper_length_4: LED
-oomlout_detail_hierarchy_3: 5_mm_width
-oomlout_detail_hierarchy_3_upper: 5_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 5WID
-oomlout_detail_hierarchy_4: pink
-oomlout_detail_hierarchy_4_upper: PINK
-oomlout_detail_hierarchy_4_upper_length_4: PINK
-oomlout_detail_hierarchy_5: 1000_mm_length
-oomlout_detail_hierarchy_5_upper: 1000_MM_LENGTH
-oomlout_detail_hierarchy_5_upper_length_4: '1000'
-oomlout_detail_hierarchy_6: 320_leds_per_meter
-oomlout_detail_hierarchy_6_upper: 320_LEDS_PER_METER
-oomlout_detail_hierarchy_6_upper_length_4: '320_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_strip_5_volt_5_mm_width_pink_1000_mm_length_320_leds_per_meter
 oomp_word: ring droplet book
 oomp_word_emoji: ':ring: :droplet: :book:'
@@ -257,10 +226,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: lp
 short_code_upper: LP
 short_name: Strip 5 Volt 5 Mm Width Pink1000 Mm Length Led

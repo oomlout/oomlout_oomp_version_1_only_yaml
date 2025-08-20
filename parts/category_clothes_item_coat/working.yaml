@@ -132,16 +132,8 @@ id_no_class: clothes_item_coat
 id_no_color: coat
 id_no_size: coat
 id_no_type: item_coat
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20618p6
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20618p6
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20618p6
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20618p6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: Coat
 name_no_size: Coat
 name_no_size_short: Coat
 name_no_type: Item Coat
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: clothes
-oomlout_detail_hierarchy_2_upper: CLOTHES
-oomlout_detail_hierarchy_2_upper_length_4: CLOT
-oomlout_detail_hierarchy_3: item
-oomlout_detail_hierarchy_3_upper: ITEM
-oomlout_detail_hierarchy_3_upper_length_4: ITEM
-oomlout_detail_hierarchy_4: coat
-oomlout_detail_hierarchy_4_upper: COAT
-oomlout_detail_hierarchy_4_upper_length_4: COAT
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_clothes_item_coat
 oomp_word: golf shoe chicken
 oomp_word_emoji: ':golf: :shoe: :chicken:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryclothes

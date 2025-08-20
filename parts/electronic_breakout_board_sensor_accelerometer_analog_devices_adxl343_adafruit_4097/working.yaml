@@ -129,16 +129,8 @@ id_no_class: breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit
 id_no_color: adafruit_4097
 id_no_size: analog_devices_adxl343_adafruit_4097
 id_no_type: accelerometer_analog_devices_adxl343_adafruit_4097
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20jgab
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20jgab
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20jgab
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20jgab
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
 manufacturer: adafruit
 manufacturer_capital: Adafruit
@@ -191,25 +183,6 @@ name_no_color: Adafruit 4097
 name_no_size: Analog Devices Adxl343 Adafruit 4097
 name_no_size_short: Analog Devices Adxl343 Adafruit 4097
 name_no_type: Accelerometer Analog Devices Adxl343 Adafruit 4097
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: breakout_board_sensor
-oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_SENSOR
-oomlout_detail_hierarchy_2_upper_length_4: BREA
-oomlout_detail_hierarchy_3: accelerometer
-oomlout_detail_hierarchy_3_upper: ACCELEROMETER
-oomlout_detail_hierarchy_3_upper_length_4: ACCE
-oomlout_detail_hierarchy_4: analog_devices_adxl343
-oomlout_detail_hierarchy_4_upper: ANALOG_DEVICES_ADXL343
-oomlout_detail_hierarchy_4_upper_length_4: ANAL
-oomlout_detail_hierarchy_5: adafruit
-oomlout_detail_hierarchy_5_upper: ADAFRUIT
-oomlout_detail_hierarchy_5_upper_length_4: ADAF
-oomlout_detail_hierarchy_6: '4097'
-oomlout_detail_hierarchy_6_upper: '4097'
-oomlout_detail_hierarchy_6_upper_length_4: '4097'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
 oomp_repo: http://github.com/oomlout/oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_
 oomp_word: heart bank dog
@@ -252,10 +225,6 @@ part_number_upper_length_3: '409'
 part_number_upper_length_4: '4097'
 part_number_upper_length_5: '4097'
 part_number_upper_length_6: '4097'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: accelerometer

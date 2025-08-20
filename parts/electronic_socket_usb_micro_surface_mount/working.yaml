@@ -144,16 +144,8 @@ id_no_class: socket_usb_micro_surface_mount
 id_no_color: surfacemount
 id_no_size: surface_mount
 id_no_type: usb_micro_surface_mount
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206o1k8
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206o1k8
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206o1k8
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206o1k8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_socket_usb_micro_surface_mount
 manufacturer: ''
 manufacturer_capital: ''
@@ -180,19 +172,6 @@ name_no_color: Surfacemount
 name_no_size: Surface Mount
 name_no_size_short: Surface Mount
 name_no_type: USB Micro Surface Mount
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: socket
-oomlout_detail_hierarchy_2_upper: SOCKET
-oomlout_detail_hierarchy_2_upper_length_4: SOCK
-oomlout_detail_hierarchy_3: usb_micro
-oomlout_detail_hierarchy_3_upper: USB_MICRO
-oomlout_detail_hierarchy_3_upper_length_4: USB_
-oomlout_detail_hierarchy_4: surface_mount
-oomlout_detail_hierarchy_4_upper: SURFACE_MOUNT
-oomlout_detail_hierarchy_4_upper_length_4: SURF
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_socket_usb_micro_surface_mount
 oomp_word: lipstick rowboat tram
 oomp_word_emoji: ':lipstick: :rowboat: :tram:'
@@ -235,10 +214,6 @@ pins:
     name: shield
     number: '6'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: scumcsm
 short_code_upper: SCUMCSM
 short_name: ''

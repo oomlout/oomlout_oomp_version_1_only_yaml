@@ -133,16 +133,8 @@ id_no_class: shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_
 id_no_color: 780mmwidth1710mmheight310mmdepthikea39031411
 id_no_size: 780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
 id_no_type: ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20riug
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20riug
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20riug
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20riug
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -195,31 +187,6 @@ name_no_color: 780mmwidth1710mmheight310mmdepthikea39031411
 name_no_size: 780 mm Width 1710 mm Height 310 mm Depth Ikea 390 314 11
 name_no_size_short: 780 Mm Width 1710 Mm Height 310 Mm Depth Ikea 390 314 11
 name_no_type: Ikea Hejne 780 mm Width 1710 mm Height 310 mm Depth Ikea 390 314 11
-oomlout_detail_hierarchy_1: furniture
-oomlout_detail_hierarchy_1_upper: FURNITURE
-oomlout_detail_hierarchy_1_upper_length_4: FURN
-oomlout_detail_hierarchy_2: shelf
-oomlout_detail_hierarchy_2_upper: SHELF
-oomlout_detail_hierarchy_2_upper_length_4: SHEL
-oomlout_detail_hierarchy_3: ikea_hejne
-oomlout_detail_hierarchy_3_upper: IKEA_HEJNE
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: 780_mm_width
-oomlout_detail_hierarchy_4_upper: 780_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 780W
-oomlout_detail_hierarchy_5: 1710_mm_height
-oomlout_detail_hierarchy_5_upper: 1710_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: '1710'
-oomlout_detail_hierarchy_6: 310_mm_depth
-oomlout_detail_hierarchy_6_upper: 310_MM_DEPTH
-oomlout_detail_hierarchy_6_upper_length_4: 310D
-oomlout_detail_hierarchy_7: ikea
-oomlout_detail_hierarchy_7_upper: IKEA
-oomlout_detail_hierarchy_7_upper_length_4: IKEA
-oomlout_detail_hierarchy_8: '390_314_11'
-oomlout_detail_hierarchy_8_upper: '390_314_11'
-oomlout_detail_hierarchy_8_upper_length_4: '390_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shelf_ikea_hejne_780_mm_width_1710_mm_height_310_mm_depth_ikea_390_314_11
 oomp_word: question tennis tongue
 oomp_word_emoji: ':question: :tennis: :tongue:'
@@ -261,10 +228,6 @@ part_number_upper_length_3: '390'
 part_number_upper_length_4: '390_'
 part_number_upper_length_5: '390_3'
 part_number_upper_length_6: '390_31'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ikea_hejne

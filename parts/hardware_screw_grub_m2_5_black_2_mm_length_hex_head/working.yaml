@@ -179,16 +179,8 @@ id_no_class: screw_grub_m2_5_black_2_mm_length_hex_head
 id_no_color: 2_mm_length_hex_head
 id_no_size: black_2_mm_length_hex_head
 id_no_type: m2_5_black_2_mm_length_hex_head
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_grub_m2_5_black_2_mm_length_hex_head
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_grub_m2_5_black_2_mm_length_hex_head
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_grub_m2_5_black_2_mm_length_hex_head
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_grub_m2_5_black_2_mm_length_hex_head
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20184j7
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20184j7
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20184j7
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20184j7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_grub_m2_5_black_2_mm_length_hex_head
 manufacturer: ''
 manufacturer_capital: ''
@@ -215,25 +207,6 @@ name_no_color: 2 mm Length Hex Head
 name_no_size: Black 2 mm Length Hex Head
 name_no_size_short: Black 2 Mm Length Hex Head
 name_no_type: M2 5 Black 2 mm Length Hex Head
-oomlout_detail_hierarchy_1: hardware
-oomlout_detail_hierarchy_1_upper: HARDWARE
-oomlout_detail_hierarchy_1_upper_length_4: HARD
-oomlout_detail_hierarchy_2: sgrub
-oomlout_detail_hierarchy_2_upper: SGRUB
-oomlout_detail_hierarchy_2_upper_length_4: SGRU
-oomlout_detail_hierarchy_3: m2_5
-oomlout_detail_hierarchy_3_upper: M2_5
-oomlout_detail_hierarchy_3_upper_length_4: M2_5
-oomlout_detail_hierarchy_4: black
-oomlout_detail_hierarchy_4_upper: BLACK
-oomlout_detail_hierarchy_4_upper_length_4: BLAC
-oomlout_detail_hierarchy_5: 2_mm_length
-oomlout_detail_hierarchy_5_upper: 2_MM_LENGTH
-oomlout_detail_hierarchy_5_upper_length_4: 2LEN
-oomlout_detail_hierarchy_6: hex_head
-oomlout_detail_hierarchy_6_upper: HEX_HEAD
-oomlout_detail_hierarchy_6_upper_length_4: HEX_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_screw_grub_m2_5_black_2_mm_length_hex_head
 oomp_word: princess cactus two
 oomp_word_emoji: ':princess: :cactus: :two:'
@@ -251,10 +224,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: b2h
 short_code_upper: B2H
 size: m2_5

@@ -131,17 +131,9 @@ id_no_class: cricut_venture_cricut
 id_no_color: venturecricut
 id_no_size: venture_cricut
 id_no_type: cricut_venture_cricut
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
-link_2_name: link_github
 link_distributor_cricut: ''
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201j51r
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201j51r
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201j51r
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201j51r
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_venture_cricut
 manufacturer: cricut
 manufacturer_capital: Cricut
@@ -192,22 +184,6 @@ name_no_color: Venturecricut
 name_no_size: Venture Cricut
 name_no_size_short: Venture Cricut
 name_no_type: Cricut Venture Cricut
-oomlout_detail_hierarchy_1: vinyl_cutter
-oomlout_detail_hierarchy_1_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_1_upper_length_4: VINY
-oomlout_detail_hierarchy_2: vinyl_cutter
-oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
-oomlout_detail_hierarchy_2_upper_length_4: VINY
-oomlout_detail_hierarchy_3: cricut
-oomlout_detail_hierarchy_3_upper: CRICUT
-oomlout_detail_hierarchy_3_upper_length_4: CRIC
-oomlout_detail_hierarchy_4: venture
-oomlout_detail_hierarchy_4_upper: VENTURE
-oomlout_detail_hierarchy_4_upper_length_4: VENT
-oomlout_detail_hierarchy_5: cricut
-oomlout_detail_hierarchy_5_upper: CRICUT
-oomlout_detail_hierarchy_5_upper_length_4: CRIC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_venture_cricut
 oomp_word: nose camel ant
 oomp_word_emoji: ':nose: :camel: :ant:'
@@ -226,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: cricut

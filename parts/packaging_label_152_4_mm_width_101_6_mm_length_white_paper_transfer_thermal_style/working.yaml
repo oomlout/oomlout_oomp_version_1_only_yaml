@@ -177,16 +177,8 @@ id_no_class: label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_s
 id_no_color: paper_transfer_thermal_style
 id_no_size: white_paper_transfer_thermal_style
 id_no_type: 152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208jq26
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208jq26
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208jq26
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208jq26
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
 manufacturer: ''
 manufacturer_capital: ''
@@ -214,28 +206,6 @@ name_no_color: Paper Transfer Thermal Style
 name_no_size: White Paper Transfer Thermal Style
 name_no_size_short: White Paper Transfer Thermal Style
 name_no_type: 152 4 mm Width 101 6 mm Length White Paper Transfer Thermal Style
-oomlout_detail_hierarchy_1: packaging
-oomlout_detail_hierarchy_1_upper: PACKAGING
-oomlout_detail_hierarchy_1_upper_length_4: PACK
-oomlout_detail_hierarchy_2: label
-oomlout_detail_hierarchy_2_upper: LABEL
-oomlout_detail_hierarchy_2_upper_length_4: LABE
-oomlout_detail_hierarchy_3: 4_mm_width
-oomlout_detail_hierarchy_3_upper: 4_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 4WID
-oomlout_detail_hierarchy_4: 6_mm_length
-oomlout_detail_hierarchy_4_upper: 6_MM_LENGTH
-oomlout_detail_hierarchy_4_upper_length_4: 6LEN
-oomlout_detail_hierarchy_5: white
-oomlout_detail_hierarchy_5_upper: WHITE
-oomlout_detail_hierarchy_5_upper_length_4: WHIT
-oomlout_detail_hierarchy_6: paper
-oomlout_detail_hierarchy_6_upper: PAPER
-oomlout_detail_hierarchy_6_upper_length_4: PAPE
-oomlout_detail_hierarchy_7: transfer_thermal_style
-oomlout_detail_hierarchy_7_upper: TRANSFER_THERMAL_STYLE
-oomlout_detail_hierarchy_7_upper_length_4: TRAN
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_packaging_label_152_4_mm_width_101_6_mm_length_white_paper_transfer_thermal_style
 oomp_word: tent anger jeans
 oomp_word_emoji: ':tent: :anger: :jeans:'
@@ -253,10 +223,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 short_name: ''

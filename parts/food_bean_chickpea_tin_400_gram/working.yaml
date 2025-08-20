@@ -155,16 +155,8 @@ id_no_class: bean_chickpea_tin_400_gram
 id_no_color: chickpeatin400gram
 id_no_size: chickpeatin400gram
 id_no_type: chickpea_tin_400_gram
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201hw2s
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201hw2s
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201hw2s
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201hw2s
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,19 +184,6 @@ name_no_size: Chickpeatin400Gram
 name_no_size_short: Chickpeatin400Gram
 name_no_type: Chickpea Tin 400 Gram
 name_short: Chickenpeas
-oomlout_detail_hierarchy_1: food
-oomlout_detail_hierarchy_1_upper: FOOD
-oomlout_detail_hierarchy_1_upper_length_4: FOOD
-oomlout_detail_hierarchy_2: bean
-oomlout_detail_hierarchy_2_upper: BEAN
-oomlout_detail_hierarchy_2_upper_length_4: BEAN
-oomlout_detail_hierarchy_3: chickpea
-oomlout_detail_hierarchy_3_upper: CHICKPEA
-oomlout_detail_hierarchy_3_upper_length_4: CHIC
-oomlout_detail_hierarchy_4: 400_gram
-oomlout_detail_hierarchy_4_upper: 400_GRAM
-oomlout_detail_hierarchy_4_upper_length_4: '400_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_bean_chickpea_tin_400_gram
 oomp_word: eyes blowfish book
 oomp_word_emoji: ':eyes: :blowfish: :book:'
@@ -222,10 +201,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''

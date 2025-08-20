@@ -156,16 +156,8 @@ id_no_class: hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
 id_no_color: cubby_box
 id_no_size: m4_cubby_box
 id_no_type: screw_socket_cap_low_head_ultra_m4_cubby_box
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2022nc0
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2022nc0
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2022nc0
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2022nc0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
@@ -192,22 +184,6 @@ name_no_color: Cubby Box
 name_no_size: M4 Cubby Box
 name_no_size_short: M4 Cubby Box
 name_no_type: Screw Socket Cap Low Head Ultra M4 Cubby Box
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: hardware
-oomlout_detail_hierarchy_2_upper: HARDWARE
-oomlout_detail_hierarchy_2_upper_length_4: HARD
-oomlout_detail_hierarchy_3: ssocket_cap_low_head_ultra
-oomlout_detail_hierarchy_3_upper: SSOCKET_CAP_LOW_HEAD_ULTRA
-oomlout_detail_hierarchy_3_upper_length_4: SSOC
-oomlout_detail_hierarchy_4: m4
-oomlout_detail_hierarchy_4_upper: M4
-oomlout_detail_hierarchy_4_upper_length_4: M4
-oomlout_detail_hierarchy_5: cubby_box
-oomlout_detail_hierarchy_5_upper: CUBBY_BOX
-oomlout_detail_hierarchy_5_upper_length_4: CUBB
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_hardware_screw_socket_cap_low_head_ultra_m4_cubby_box
 oomp_word: hamster droplet ring
 oomp_word_emoji: ':hamster: :droplet: :ring:'
@@ -226,10 +202,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhardware

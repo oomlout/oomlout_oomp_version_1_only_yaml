@@ -105,16 +105,8 @@ id_no_class: vacuum_cleaner_dyson_v6_dyson_v6
 id_no_color: dysonv6
 id_no_size: dyson_v6
 id_no_type: dyson_v6_dyson_v6
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203jyem
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203jyem
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203jyem
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203jyem
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
 manufacturer: dyson
 manufacturer_capital: Dyson
@@ -165,22 +157,6 @@ name_no_color: Dysonv6
 name_no_size: Dyson V6
 name_no_size_short: Dyson V6
 name_no_type: Dyson V6 Dyson V6
-oomlout_detail_hierarchy_1: appliance
-oomlout_detail_hierarchy_1_upper: APPLIANCE
-oomlout_detail_hierarchy_1_upper_length_4: APPL
-oomlout_detail_hierarchy_2: vacuum_cleaner
-oomlout_detail_hierarchy_2_upper: VACUUM_CLEANER
-oomlout_detail_hierarchy_2_upper_length_4: VACU
-oomlout_detail_hierarchy_3: dyson_v6
-oomlout_detail_hierarchy_3_upper: DYSON_V6
-oomlout_detail_hierarchy_3_upper_length_4: DYSO
-oomlout_detail_hierarchy_4: dyson
-oomlout_detail_hierarchy_4_upper: DYSON
-oomlout_detail_hierarchy_4_upper_length_4: DYSO
-oomlout_detail_hierarchy_5: v6
-oomlout_detail_hierarchy_5_upper: V6
-oomlout_detail_hierarchy_5_upper_length_4: V6
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_appliance_vacuum_cleaner_dyson_v6_dyson_v6
 oomp_word: rooster thumbsdown ambulance
 oomp_word_emoji: ':rooster: :thumbsdown: :ambulance:'
@@ -222,10 +198,6 @@ part_number_upper_length_3: V6
 part_number_upper_length_4: V6
 part_number_upper_length_5: V6
 part_number_upper_length_6: V6
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: dyson_v6

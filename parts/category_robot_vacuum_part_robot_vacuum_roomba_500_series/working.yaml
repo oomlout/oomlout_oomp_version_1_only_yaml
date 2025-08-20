@@ -132,16 +132,8 @@ id_no_class: robot_vacuum_part_robot_vacuum_roomba_500_series
 id_no_color: roomba_500_series
 id_no_size: roomba_500_series
 id_no_type: part_roomba_500_series
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204togl
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204togl
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204togl
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204togl
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_robot_vacuum_roomba_500_series
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: Roomba 500 Series
 name_no_size: Roomba 500 Series
 name_no_size_short: Roomba 500 Series
 name_no_type: Part Roomba 500 Series
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: robot_vacuum
-oomlout_detail_hierarchy_2_upper: ROBOT_VACUUM
-oomlout_detail_hierarchy_2_upper_length_4: ROBO
-oomlout_detail_hierarchy_3: part
-oomlout_detail_hierarchy_3_upper: PART
-oomlout_detail_hierarchy_3_upper_length_4: PART
-oomlout_detail_hierarchy_4: robot_vacuum_roomba_500_series
-oomlout_detail_hierarchy_4_upper: ROBOT_VACUUM_ROOMBA_500_SERIES
-oomlout_detail_hierarchy_4_upper_length_4: ROBO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_robot_vacuum_part_robot_vacuum_roomba_500_series
 oomp_word: computer headphones poop
 oomp_word_emoji: ':computer: :headphones: :poop:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryrobotvacuum

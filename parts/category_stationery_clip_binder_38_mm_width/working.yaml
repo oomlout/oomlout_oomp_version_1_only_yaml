@@ -132,16 +132,8 @@ id_no_class: stationery_clip_binder_38_mm_width
 id_no_color: 38_mm_width
 id_no_size: 38_mm_width
 id_no_type: clip_binder_38_mm_width
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042jhz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042jhz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2042jhz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042jhz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_38_mm_width
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: 38 mm Width
 name_no_size: 38 mm Width
 name_no_size_short: 38 Mm Width
 name_no_type: Clip Binder 38 mm Width
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: stationery
-oomlout_detail_hierarchy_2_upper: STATIONERY
-oomlout_detail_hierarchy_2_upper_length_4: STAT
-oomlout_detail_hierarchy_3: clip_binder
-oomlout_detail_hierarchy_3_upper: CLIP_BINDER
-oomlout_detail_hierarchy_3_upper_length_4: CLIP
-oomlout_detail_hierarchy_4: 38_mm_width
-oomlout_detail_hierarchy_4_upper: 38_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 38WI
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_stationery_clip_binder_38_mm_width
 oomp_word: mushroom fish wolf
 oomp_word_emoji: ':mushroom: :fish: :wolf:'
@@ -199,10 +178,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorystationery

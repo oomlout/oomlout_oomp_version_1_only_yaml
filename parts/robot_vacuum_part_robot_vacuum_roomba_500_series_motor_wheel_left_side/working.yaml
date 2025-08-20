@@ -177,16 +177,8 @@ id_no_class: part_roomba_500_series_motor_wheel_left_side
 id_no_color: roomba_500_series_wheel_left_side
 id_no_size: roomba_500_series_motor_wheel_left_side
 id_no_type: roomba_500_series_motor_wheel_left_side
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_left_side
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_left_side
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_left_side
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_left_side
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209fdfu
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209fdfu
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209fdfu
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209fdfu
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_left_side
 manufacturer: ''
 manufacturer_capital: ''
@@ -213,25 +205,6 @@ name_no_color: Roomba 500 Series Wheel Left Side
 name_no_size: Roomba 500 Series Motor Wheel Left Side
 name_no_size_short: Roomba 500 Series Motor Wheel Left Side
 name_no_type: Roomba 500 Series Motor Wheel Left Side
-oomlout_detail_hierarchy_1: robot_vacuum
-oomlout_detail_hierarchy_1_upper: ROBOT_VACUUM
-oomlout_detail_hierarchy_1_upper_length_4: ROBO
-oomlout_detail_hierarchy_2: part
-oomlout_detail_hierarchy_2_upper: PART
-oomlout_detail_hierarchy_2_upper_length_4: PART
-oomlout_detail_hierarchy_3: robot_vacuum_roomba_500_series
-oomlout_detail_hierarchy_3_upper: ROBOT_VACUUM_ROOMBA_500_SERIES
-oomlout_detail_hierarchy_3_upper_length_4: ROBO
-oomlout_detail_hierarchy_4: motor
-oomlout_detail_hierarchy_4_upper: MOTOR
-oomlout_detail_hierarchy_4_upper_length_4: MOTO
-oomlout_detail_hierarchy_5: wheel
-oomlout_detail_hierarchy_5_upper: WHEEL
-oomlout_detail_hierarchy_5_upper_length_4: WHEE
-oomlout_detail_hierarchy_6: left_side
-oomlout_detail_hierarchy_6_upper: LEFT_SIDE
-oomlout_detail_hierarchy_6_upper_length_4: LEFT
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_left_side
 oomp_word: ticket golf cherries
 oomp_word_emoji: ':ticket: :golf: :cherries:'
@@ -249,10 +222,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Roomba 500 Motor Wheel Left Side

@@ -105,16 +105,8 @@ id_no_class: digital_duplicator_a4_duplo_dp_21s
 id_no_color: duplodp21s
 id_no_size: duplo_dp_21s
 id_no_type: a4_duplo_dp_21s
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2066zy2
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2066zy2
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2066zy2
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2066zy2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
 manufacturer: duplo
 manufacturer_capital: Duplo
@@ -165,22 +157,6 @@ name_no_color: Duplodp21S
 name_no_size: Duplo Dp 21S
 name_no_size_short: Duplo Dp 21S
 name_no_type: A4 Duplo Dp 21S
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: digital_duplicator
-oomlout_detail_hierarchy_2_upper: DIGITAL_DUPLICATOR
-oomlout_detail_hierarchy_2_upper_length_4: DIGI
-oomlout_detail_hierarchy_3: a4
-oomlout_detail_hierarchy_3_upper: A4
-oomlout_detail_hierarchy_3_upper_length_4: A4
-oomlout_detail_hierarchy_4: duplo
-oomlout_detail_hierarchy_4_upper: DUPLO
-oomlout_detail_hierarchy_4_upper_length_4: DUPL
-oomlout_detail_hierarchy_5: dp_21s
-oomlout_detail_hierarchy_5_upper: DP_21S
-oomlout_detail_hierarchy_5_upper_length_4: DP_2
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_digital_duplicator_a4_duplo_dp_21s
 oomp_word: clubs doughnut camera
 oomp_word_emoji: ':clubs: :doughnut: :camera:'
@@ -223,10 +199,6 @@ part_number_upper_length_3: DP_
 part_number_upper_length_4: DP_2
 part_number_upper_length_5: DP_21
 part_number_upper_length_6: DP_21S
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

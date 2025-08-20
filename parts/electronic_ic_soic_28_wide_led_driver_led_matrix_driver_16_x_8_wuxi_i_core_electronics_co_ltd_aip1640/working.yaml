@@ -165,16 +165,8 @@ id_no_color: so28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_a
 id_no_size: so28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 id_no_type: so28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 kicad_reference: U
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20l3d7
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20l3d7
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20l3d7
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20l3d7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 manufacturer: wuxi_i_core_electronics_co_ltd
 manufacturer_capital: Wuxi I Core Electronics Co Ltd
@@ -232,34 +224,6 @@ name_no_size_short: So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core El
 name_no_type: So28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics
   Co Ltd Aip1640
 notes: []
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: ic
-oomlout_detail_hierarchy_2_upper: IC
-oomlout_detail_hierarchy_2_upper_length_4: IC
-oomlout_detail_hierarchy_3: soic_28_wide
-oomlout_detail_hierarchy_3_upper: SOIC_28_WIDE
-oomlout_detail_hierarchy_3_upper_length_4: SOIC
-oomlout_detail_hierarchy_4: led_driver
-oomlout_detail_hierarchy_4_upper: LED_DRIVER
-oomlout_detail_hierarchy_4_upper_length_4: LED_
-oomlout_detail_hierarchy_5: led_matrix_driver_16
-oomlout_detail_hierarchy_5_upper: LED_MATRIX_DRIVER_16
-oomlout_detail_hierarchy_5_upper_length_4: LED_
-oomlout_detail_hierarchy_6: x_8
-oomlout_detail_hierarchy_6_upper: X_8
-oomlout_detail_hierarchy_6_upper_length_4: X_8
-oomlout_detail_hierarchy_7: wuxi_i_core_electronics
-oomlout_detail_hierarchy_7_upper: WUXI_I_CORE_ELECTRONICS
-oomlout_detail_hierarchy_7_upper_length_4: WUXI
-oomlout_detail_hierarchy_8: co_ltd
-oomlout_detail_hierarchy_8_upper: CO_LTD
-oomlout_detail_hierarchy_8_upper_length_4: CO_L
-oomlout_detail_hierarchy_9: aip1640
-oomlout_detail_hierarchy_9_upper: AIP1640
-oomlout_detail_hierarchy_9_upper_length_4: AIP1
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 oomp_word: sparkles wink penguin
 oomp_word_emoji: ':sparkles: :wink: :penguin:'
@@ -414,10 +378,6 @@ pins:
     name: seg1
     number: '9'
     type: signal
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: isoic28waip1640
 short_code_upper: ISOIC28WAIP1640
 short_name: 16x8 led matrix driver (aip1640)

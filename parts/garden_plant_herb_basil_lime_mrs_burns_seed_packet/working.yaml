@@ -178,17 +178,9 @@ id_no_class: plant_herb_basil_lime_mrs_burns_seed_packet
 id_no_color: lime_mrs_burns_seed_packet
 id_no_size: basil_lime_mrs_burns_seed_packet
 id_no_type: herb_basil_lime_mrs_burns_seed_packet
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
-link_2_name: link_github
 link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE46/basil-lime-mrs-burns-seeds-for-pollinators_mh-52300
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202ozvw
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202ozvw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202ozvw
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202ozvw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
 manufacturer: ''
 manufacturer_capital: ''
@@ -215,25 +207,6 @@ name_no_color: Lime Mrs Burns Seed Packet
 name_no_size: Basil Lime Mrs Burns Seed Packet
 name_no_size_short: Basil Lime Mrs Burns Seed Packet
 name_no_type: Herb Basil Lime Mrs Burns Seed Packet
-oomlout_detail_hierarchy_1: garden
-oomlout_detail_hierarchy_1_upper: GARDEN
-oomlout_detail_hierarchy_1_upper_length_4: GARD
-oomlout_detail_hierarchy_2: plant
-oomlout_detail_hierarchy_2_upper: PLANT
-oomlout_detail_hierarchy_2_upper_length_4: PLAN
-oomlout_detail_hierarchy_3: herb
-oomlout_detail_hierarchy_3_upper: HERB
-oomlout_detail_hierarchy_3_upper_length_4: HERB
-oomlout_detail_hierarchy_4: basil
-oomlout_detail_hierarchy_4_upper: BASIL
-oomlout_detail_hierarchy_4_upper_length_4: BASI
-oomlout_detail_hierarchy_5: lime_mrs_burns
-oomlout_detail_hierarchy_5_upper: LIME_MRS_BURNS
-oomlout_detail_hierarchy_5_upper_length_4: LIME
-oomlout_detail_hierarchy_6: seed_packet
-oomlout_detail_hierarchy_6_upper: SEED_PACKET
-oomlout_detail_hierarchy_6_upper_length_4: SEED
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_garden_plant_herb_basil_lime_mrs_burns_seed_packet
 oomp_word: snake heart shirt
 oomp_word_emoji: ':snake: :heart: :shirt:'
@@ -251,10 +224,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

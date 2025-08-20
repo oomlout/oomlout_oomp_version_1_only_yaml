@@ -179,16 +179,8 @@ id_no_class: ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
 id_no_color: ikeaoftastwhitebowl150mmdiameterikea80258915
 id_no_size: ikeaoftastwhitebowl150mmdiameterikea80258915
 id_no_type: ikeaoftastwhitebowl150mmdiameterikea80258915
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206iab6
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206iab6
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206iab6
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206iab6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -239,28 +231,6 @@ name_no_color: Ikeaoftastwhitebowl150mmdiameterikea80258915
 name_no_size: Ikeaoftastwhitebowl150mmdiameterikea80258915
 name_no_size_short: Ikeaoftastwhitebowl150Mmdiameterikea80258915
 name_no_type: Ikeaoftastwhitebowl150mmdiameterikea80258915
-oomlout_detail_hierarchy_1: dish
-oomlout_detail_hierarchy_1_upper: DISH
-oomlout_detail_hierarchy_1_upper_length_4: DISH
-oomlout_detail_hierarchy_2: ikea_oftast
-oomlout_detail_hierarchy_2_upper: IKEA_OFTAST
-oomlout_detail_hierarchy_2_upper_length_4: IKEA
-oomlout_detail_hierarchy_3: white
-oomlout_detail_hierarchy_3_upper: WHITE
-oomlout_detail_hierarchy_3_upper_length_4: WHIT
-oomlout_detail_hierarchy_4: bowl
-oomlout_detail_hierarchy_4_upper: BOWL
-oomlout_detail_hierarchy_4_upper_length_4: BOWL
-oomlout_detail_hierarchy_5: 150_mm_diameter
-oomlout_detail_hierarchy_5_upper: 150_MM_DIAMETER
-oomlout_detail_hierarchy_5_upper_length_4: 150D
-oomlout_detail_hierarchy_6: ikea
-oomlout_detail_hierarchy_6_upper: IKEA
-oomlout_detail_hierarchy_6_upper_length_4: IKEA
-oomlout_detail_hierarchy_7: '802_589_15'
-oomlout_detail_hierarchy_7_upper: '802_589_15'
-oomlout_detail_hierarchy_7_upper_length_4: '802_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
 oomp_word: trumpet cherries handbag
 oomp_word_emoji: ':trumpet: :cherries: :handbag:'
@@ -303,10 +273,6 @@ part_number_upper_length_3: '802'
 part_number_upper_length_4: '802_'
 part_number_upper_length_5: '802_5'
 part_number_upper_length_6: '802_58'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 size: ikea_oftast

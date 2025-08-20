@@ -130,21 +130,9 @@ id_no_class: ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
 id_no_color: cyanbottle120mlasub
 id_no_size: cyan_bottle_120_ml_a_sub
 id_no_type: inkjet_sublimation_cyan_bottle_120_ml_a_sub
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B08D9HWXKM
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B08D9HWXKM
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B08D9HWXKM
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201i8g5
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201i8g5
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201i8g5
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201i8g5
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
 manufacturer: a_sub
 manufacturer_capital: A Sub
@@ -195,22 +183,6 @@ name_no_color: Cyanbottle120Mlasub
 name_no_size: Cyan Bottle 120 Ml A Sub
 name_no_size_short: Cyan Bottle 120 Ml A Sub
 name_no_type: Inkjet Sublimation Cyan Bottle 120 Ml A Sub
-oomlout_detail_hierarchy_1: printer
-oomlout_detail_hierarchy_1_upper: PRINTER
-oomlout_detail_hierarchy_1_upper_length_4: PRIN
-oomlout_detail_hierarchy_2: ink
-oomlout_detail_hierarchy_2_upper: INK
-oomlout_detail_hierarchy_2_upper_length_4: INK
-oomlout_detail_hierarchy_3: inkjet_sublimation
-oomlout_detail_hierarchy_3_upper: INKJET_SUBLIMATION
-oomlout_detail_hierarchy_3_upper_length_4: INKJ
-oomlout_detail_hierarchy_4: cyan_bottle_120_ml
-oomlout_detail_hierarchy_4_upper: CYAN_BOTTLE_120_ML
-oomlout_detail_hierarchy_4_upper_length_4: CYAN
-oomlout_detail_hierarchy_5: a_sub
-oomlout_detail_hierarchy_5_upper: A_SUB
-oomlout_detail_hierarchy_5_upper_length_4: A_SU
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_ink_inkjet_sublimation_cyan_bottle_120_ml_a_sub
 oomp_word: eyes spades snake
 oomp_word_emoji: ':eyes: :spades: :snake:'
@@ -228,10 +200,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: inkjet_sublimation

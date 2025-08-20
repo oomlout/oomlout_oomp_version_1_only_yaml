@@ -132,16 +132,8 @@ id_no_color: 10000000ohm
 id_no_size: 10000000_ohm
 id_no_type: 0201_10000000_ohm
 kicad_reference: R
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_10000000_ohm
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_10000000_ohm
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_10000000_ohm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_10000000_ohm
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2096n35
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2096n35
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2096n35
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2096n35
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0201_10000000_ohm
 manufacturer: ''
 manufacturer_capital: ''
@@ -168,19 +160,6 @@ name_no_color: 10000000Ohm
 name_no_size: 10000000 Ohm
 name_no_size_short: 1M Ohm
 name_no_type: 0201 10000000 Ohm
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: resistor
-oomlout_detail_hierarchy_2_upper: RESISTOR
-oomlout_detail_hierarchy_2_upper_length_4: RESI
-oomlout_detail_hierarchy_3: '0201'
-oomlout_detail_hierarchy_3_upper: '0201'
-oomlout_detail_hierarchy_3_upper_length_4: '0201'
-oomlout_detail_hierarchy_4: 10000000_ohm
-oomlout_detail_hierarchy_4_upper: 10000000_OHM
-oomlout_detail_hierarchy_4_upper_length_4: '1000'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0201_10000000_ohm
 oomp_word: car rose bouquet
 oomp_word_emoji: ':car: :rose: :bouquet:'
@@ -198,10 +177,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ro106
 short_code_upper: RO106
 size: '0201'

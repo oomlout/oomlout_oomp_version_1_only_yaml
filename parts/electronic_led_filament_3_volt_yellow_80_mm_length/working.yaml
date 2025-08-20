@@ -155,22 +155,10 @@ id_no_class: led_filament_3_volt_yellow_80_mm_length
 id_no_color: 80_mm_length
 id_no_size: yellow_80_mm_length
 id_no_type: filament_3_volt_yellow_80_mm_length
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_80_mm_length
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_80_mm_length
-link_2_name: link_github
-link_3: https://www.aliexpress.com/item/1005006222719149.html
-link_3_name: link_distributor_aliexpress
-link_buy_1: https://www.aliexpress.com/item/1005006222719149.html
-link_buy_1_name: link_distributor_aliexpress
 link_distributor_adafruit: https://www.adafruit.com/product/5509
 link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_80_mm_length
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_80_mm_length
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ubxx
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ubxx
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205ubxx
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ubxx
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_80_mm_length
 manufacturer: ''
 manufacturer_capital: ''
@@ -197,22 +185,6 @@ name_no_color: 80 mm Length
 name_no_size: Yellow 80 mm Length
 name_no_size_short: Yellow 80 Mm Length
 name_no_type: Filament 3 Volt Yellow 80 mm Length
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: led
-oomlout_detail_hierarchy_2_upper: LED
-oomlout_detail_hierarchy_2_upper_length_4: LED
-oomlout_detail_hierarchy_3: filament_3_volt
-oomlout_detail_hierarchy_3_upper: FILAMENT_3_VOLT
-oomlout_detail_hierarchy_3_upper_length_4: FILA
-oomlout_detail_hierarchy_4: yellow
-oomlout_detail_hierarchy_4_upper: YELLOW
-oomlout_detail_hierarchy_4_upper_length_4: YELL
-oomlout_detail_hierarchy_5: 80_mm_length
-oomlout_detail_hierarchy_5_upper: 80_MM_LENGTH
-oomlout_detail_hierarchy_5_upper_length_4: 80LE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_filament_3_volt_yellow_80_mm_length
 oomp_word: telescope sushi four
 oomp_word_emoji: ':telescope: :sushi: :four:'
@@ -232,10 +204,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ly80
 short_code_upper: LY80
 short_name: Filament 3 Volt Yellow80 Mm Length Led

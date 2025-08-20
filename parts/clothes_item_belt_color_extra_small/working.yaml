@@ -131,16 +131,8 @@ id_no_class: item_belt_color_extra_small
 id_no_color: color_extra_small
 id_no_size: color_extra_small
 id_no_type: belt_color_extra_small
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_color_extra_small
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_color_extra_small
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_color_extra_small
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_color_extra_small
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204f5hx
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204f5hx
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204f5hx
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204f5hx
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_color_extra_small
 manufacturer: ''
 manufacturer_capital: ''
@@ -167,19 +159,6 @@ name_no_color: Color Extra Small
 name_no_size: Color Extra Small
 name_no_size_short: Color Extra Small
 name_no_type: Belt Color Extra Small
-oomlout_detail_hierarchy_1: clothes
-oomlout_detail_hierarchy_1_upper: CLOTHES
-oomlout_detail_hierarchy_1_upper_length_4: CLOT
-oomlout_detail_hierarchy_2: item
-oomlout_detail_hierarchy_2_upper: ITEM
-oomlout_detail_hierarchy_2_upper_length_4: ITEM
-oomlout_detail_hierarchy_3: belt
-oomlout_detail_hierarchy_3_upper: BELT
-oomlout_detail_hierarchy_3_upper_length_4: BELT
-oomlout_detail_hierarchy_4: color_extra_small
-oomlout_detail_hierarchy_4_upper: COLOR_EXTRA_SMALL
-oomlout_detail_hierarchy_4_upper_length_4: COLO
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_clothes_item_belt_color_extra_small
 oomp_word: bamboo bug telescope
 oomp_word_emoji: ':bamboo: :bug: :telescope:'
@@ -197,10 +176,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: belt

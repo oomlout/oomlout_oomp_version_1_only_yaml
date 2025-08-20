@@ -153,16 +153,8 @@ id_no_class: figurine_branded_num_nom_mixed
 id_no_color: mixed
 id_no_size: num_nom_mixed
 id_no_type: branded_num_nom_mixed
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205vhls
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205vhls
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205vhls
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205vhls
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
 manufacturer: ''
 manufacturer_capital: ''
@@ -189,22 +181,6 @@ name_no_color: Mixed
 name_no_size: Num Nom Mixed
 name_no_size_short: Num Nom Mixed
 name_no_type: Branded Num Nom Mixed
-oomlout_detail_hierarchy_1: toy
-oomlout_detail_hierarchy_1_upper: TOY
-oomlout_detail_hierarchy_1_upper_length_4: TOY
-oomlout_detail_hierarchy_2: figurine
-oomlout_detail_hierarchy_2_upper: FIGURINE
-oomlout_detail_hierarchy_2_upper_length_4: FIGU
-oomlout_detail_hierarchy_3: branded
-oomlout_detail_hierarchy_3_upper: BRANDED
-oomlout_detail_hierarchy_3_upper_length_4: BRAN
-oomlout_detail_hierarchy_4: num_nom
-oomlout_detail_hierarchy_4_upper: NUM_NOM
-oomlout_detail_hierarchy_4_upper_length_4: NUM_
-oomlout_detail_hierarchy_5: mixed
-oomlout_detail_hierarchy_5_upper: MIXED
-oomlout_detail_hierarchy_5_upper_length_4: MIXE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_figurine_branded_num_nom_mixed
 oomp_word: basketball calendar ship
 oomp_word_emoji: ':basketball: :calendar: :ship:'
@@ -222,10 +198,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

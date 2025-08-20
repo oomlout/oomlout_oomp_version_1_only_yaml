@@ -195,16 +195,8 @@ id_no_color: 4_7_micro_farad_16_volt
 id_no_size: tantalum_4_7_micro_farad_16_volt
 id_no_type: 3216_avx_a_tantalum_4_7_micro_farad_16_volt
 kicad_reference: C
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205tgq3
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205tgq3
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205tgq3
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205tgq3
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 manufacturer: ''
 manufacturer_capital: ''
@@ -237,25 +229,6 @@ name_no_color: 4 7 Micro Farad 16 Volt
 name_no_size: Tantalum 4 7 Micro Farad 16 Volt
 name_no_size_short: Tantalum 4 7 Micro Farad 16 Volt
 name_no_type: 3216 Avx A Tantalum 4 7 Micro Farad 16 Volt
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: capacitor
-oomlout_detail_hierarchy_2_upper: CAPACITOR
-oomlout_detail_hierarchy_2_upper_length_4: CAPA
-oomlout_detail_hierarchy_3: 3216_avx_a
-oomlout_detail_hierarchy_3_upper: 3216_AVX_A
-oomlout_detail_hierarchy_3_upper_length_4: '3216'
-oomlout_detail_hierarchy_4: tantalum
-oomlout_detail_hierarchy_4_upper: TANTALUM
-oomlout_detail_hierarchy_4_upper_length_4: TANT
-oomlout_detail_hierarchy_5: 4_7_micro_farad
-oomlout_detail_hierarchy_5_upper: 4_7_MICRO_FARAD
-oomlout_detail_hierarchy_5_upper_length_4: '4_7_'
-oomlout_detail_hierarchy_6: 16_volt
-oomlout_detail_hierarchy_6_upper: 16_VOLT
-oomlout_detail_hierarchy_6_upper_length_4: 16_V
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_capacitor_3216_avx_a_tantalum_4_7_micro_farad_16_volt
 oomp_word: telescope angel car
 oomp_word_emoji: ':telescope: :angel: :car:'
@@ -273,10 +246,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: catuf4d7v16
 short_code_upper: CATUF4D7V16
 size: 3216_avx_a

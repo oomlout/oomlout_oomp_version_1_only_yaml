@@ -155,16 +155,8 @@ id_no_class: video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_heigh
 id_no_color: jamboard1330mmwidth1422mmheight962mmdepthgoogle
 id_no_size: jamboard_1330_mm_width_1422_mm_height_962_mm_depth_google
 id_no_type: stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xy6y
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xy6y
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207xy6y
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xy6y
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
 manufacturer: google
 manufacturer_capital: Google
@@ -218,31 +210,6 @@ name_no_color: Jamboard1330mmwidth1422mmheight962mmdepthgoogle
 name_no_size: Jamboard 1330 mm Width 1422 mm Height 962 mm Depth Google
 name_no_size_short: Jamboard 1330 Mm Width 1422 Mm Height 962 Mm Depth Google
 name_no_type: Stand Jamboard Stand 1330 mm Width 1422 mm Height 962 mm Depth Google
-oomlout_detail_hierarchy_1: computer
-oomlout_detail_hierarchy_1_upper: COMPUTER
-oomlout_detail_hierarchy_1_upper_length_4: COMP
-oomlout_detail_hierarchy_2: video_conferencing
-oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
-oomlout_detail_hierarchy_2_upper_length_4: VIDE
-oomlout_detail_hierarchy_3: stand
-oomlout_detail_hierarchy_3_upper: STAND
-oomlout_detail_hierarchy_3_upper_length_4: STAN
-oomlout_detail_hierarchy_4: jamboard_stand
-oomlout_detail_hierarchy_4_upper: JAMBOARD_STAND
-oomlout_detail_hierarchy_4_upper_length_4: JAMB
-oomlout_detail_hierarchy_5: 1330_mm_width
-oomlout_detail_hierarchy_5_upper: 1330_MM_WIDTH
-oomlout_detail_hierarchy_5_upper_length_4: '1330'
-oomlout_detail_hierarchy_6: 1422_mm_height
-oomlout_detail_hierarchy_6_upper: 1422_MM_HEIGHT
-oomlout_detail_hierarchy_6_upper_length_4: '1422'
-oomlout_detail_hierarchy_7: 962_mm_depth
-oomlout_detail_hierarchy_7_upper: 962_MM_DEPTH
-oomlout_detail_hierarchy_7_upper_length_4: 962D
-oomlout_detail_hierarchy_8: google
-oomlout_detail_hierarchy_8_upper: GOOGLE
-oomlout_detail_hierarchy_8_upper_length_4: GOOG
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
 oomp_word: grapes paperclip goat
 oomp_word_emoji: ':grapes: :paperclip: :goat:'
@@ -260,10 +227,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: stand

@@ -153,17 +153,9 @@ id_no_class: picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_
 id_no_color: 210mmwidth300mmheightwhiteikea50387122
 id_no_size: 210_mm_width_300_mm_height_white_ikea_503_871_22
 id_no_type: ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
-link_2_name: link_github
 link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=503.871.22
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207nzx6
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207nzx6
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207nzx6
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207nzx6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -216,31 +208,6 @@ name_no_color: 210mmwidth300mmheightwhiteikea50387122
 name_no_size: 210 mm Width 300 mm Height White Ikea 503 871 22
 name_no_size_short: 210 Mm Width 300 Mm Height White Ikea 503 871 22
 name_no_type: Ikea Knopppang 210 mm Width 300 mm Height White Ikea 503 871 22
-oomlout_detail_hierarchy_1: decorating
-oomlout_detail_hierarchy_1_upper: DECORATING
-oomlout_detail_hierarchy_1_upper_length_4: DECO
-oomlout_detail_hierarchy_2: picture_frame
-oomlout_detail_hierarchy_2_upper: PICTURE_FRAME
-oomlout_detail_hierarchy_2_upper_length_4: PICT
-oomlout_detail_hierarchy_3: ikea_knopppang
-oomlout_detail_hierarchy_3_upper: IKEA_KNOPPPANG
-oomlout_detail_hierarchy_3_upper_length_4: IKEA
-oomlout_detail_hierarchy_4: 210_mm_width
-oomlout_detail_hierarchy_4_upper: 210_MM_WIDTH
-oomlout_detail_hierarchy_4_upper_length_4: 210W
-oomlout_detail_hierarchy_5: 300_mm_height
-oomlout_detail_hierarchy_5_upper: 300_MM_HEIGHT
-oomlout_detail_hierarchy_5_upper_length_4: 300H
-oomlout_detail_hierarchy_6: white
-oomlout_detail_hierarchy_6_upper: WHITE
-oomlout_detail_hierarchy_6_upper_length_4: WHIT
-oomlout_detail_hierarchy_7: ikea
-oomlout_detail_hierarchy_7_upper: IKEA
-oomlout_detail_hierarchy_7_upper_length_4: IKEA
-oomlout_detail_hierarchy_8: '503_871_22'
-oomlout_detail_hierarchy_8_upper: '503_871_22'
-oomlout_detail_hierarchy_8_upper_length_4: '503_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_decorating_picture_frame_ikea_knopppang_210_mm_width_300_mm_height_white_ikea_503_871_22
 oomp_word: cookie tv golf
 oomp_word_emoji: ':cookie: :tv: :golf:'
@@ -283,10 +250,6 @@ part_number_upper_length_3: '503'
 part_number_upper_length_4: '503_'
 part_number_upper_length_5: '503_8'
 part_number_upper_length_6: '503_87'
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ikea_knopppang

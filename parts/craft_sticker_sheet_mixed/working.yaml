@@ -129,16 +129,8 @@ id_no_class: sticker_sheet_mixed
 id_no_color: mixed
 id_no_size: mixed
 id_no_type: sheet_mixed
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sticker_sheet_mixed
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sticker_sheet_mixed
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sticker_sheet_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sticker_sheet_mixed
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dt6t
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dt6t
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201dt6t
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dt6t
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sticker_sheet_mixed
 manufacturer: ''
 manufacturer_capital: ''
@@ -165,19 +157,6 @@ name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Sheet Mixed
-oomlout_detail_hierarchy_1: craft
-oomlout_detail_hierarchy_1_upper: CRAFT
-oomlout_detail_hierarchy_1_upper_length_4: CRAF
-oomlout_detail_hierarchy_2: sticker
-oomlout_detail_hierarchy_2_upper: STICKER
-oomlout_detail_hierarchy_2_upper_length_4: STIC
-oomlout_detail_hierarchy_3: sheet
-oomlout_detail_hierarchy_3_upper: SHEET
-oomlout_detail_hierarchy_3_upper_length_4: SHEE
-oomlout_detail_hierarchy_4: mixed
-oomlout_detail_hierarchy_4_upper: MIXED
-oomlout_detail_hierarchy_4_upper_length_4: MIXE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_craft_sticker_sheet_mixed
 oomp_word: kiss santa kissing
 oomp_word_emoji: ':kiss: :santa: :kissing:'
@@ -195,10 +174,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

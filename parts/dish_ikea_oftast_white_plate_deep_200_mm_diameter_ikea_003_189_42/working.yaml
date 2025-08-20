@@ -179,16 +179,8 @@ id_no_class: ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 id_no_color: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
 id_no_size: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
 id_no_type: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2078bn8
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2078bn8
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2078bn8
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2078bn8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 manufacturer: ikea
 manufacturer_capital: Ikea
@@ -239,28 +231,6 @@ name_no_color: Ikeaoftastwhiteplatedeep200mmdiameterikea00318942
 name_no_size: Ikeaoftastwhiteplatedeep200mmdiameterikea00318942
 name_no_size_short: Ikeaoftastwhiteplatedeep200Mmdiameterikea00318942
 name_no_type: Ikeaoftastwhiteplatedeep200mmdiameterikea00318942
-oomlout_detail_hierarchy_1: dish
-oomlout_detail_hierarchy_1_upper: DISH
-oomlout_detail_hierarchy_1_upper_length_4: DISH
-oomlout_detail_hierarchy_2: ikea_oftast
-oomlout_detail_hierarchy_2_upper: IKEA_OFTAST
-oomlout_detail_hierarchy_2_upper_length_4: IKEA
-oomlout_detail_hierarchy_3: white
-oomlout_detail_hierarchy_3_upper: WHITE
-oomlout_detail_hierarchy_3_upper_length_4: WHIT
-oomlout_detail_hierarchy_4: plate_deep
-oomlout_detail_hierarchy_4_upper: PLATE_DEEP
-oomlout_detail_hierarchy_4_upper_length_4: PLAT
-oomlout_detail_hierarchy_5: 200_mm_diameter
-oomlout_detail_hierarchy_5_upper: 200_MM_DIAMETER
-oomlout_detail_hierarchy_5_upper_length_4: 200D
-oomlout_detail_hierarchy_6: ikea
-oomlout_detail_hierarchy_6_upper: IKEA
-oomlout_detail_hierarchy_6_upper_length_4: IKEA
-oomlout_detail_hierarchy_7: 003_189_42
-oomlout_detail_hierarchy_7_upper: 003_189_42
-oomlout_detail_hierarchy_7_upper_length_4: '003_'
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
 oomp_word: fries fish three
 oomp_word_emoji: ':fries: :fish: :three:'
@@ -303,10 +273,6 @@ part_number_upper_length_3: '003'
 part_number_upper_length_4: '003_'
 part_number_upper_length_5: '003_1'
 part_number_upper_length_6: 003_18
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 size: ikea_oftast

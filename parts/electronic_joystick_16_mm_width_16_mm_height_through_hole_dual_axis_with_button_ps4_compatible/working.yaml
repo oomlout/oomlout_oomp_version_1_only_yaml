@@ -177,16 +177,8 @@ id_no_class: joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_butto
 id_no_color: dual_axis_with_button_ps4_compatible
 id_no_size: through_hole_dual_axis_with_button_ps4_compatible
 id_no_type: 16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2022gls
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2022gls
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2022gls
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2022gls
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
 manufacturer: ''
 manufacturer_capital: ''
@@ -215,28 +207,6 @@ name_no_color: Dual Axis With Button Ps4 Compatible
 name_no_size: Through Hole Dual Axis With Button Ps4 Compatible
 name_no_size_short: Through Hole Dual Axis With Button Ps4 Compatible
 name_no_type: 16 mm Width 16 mm Height Through Hole Dual Axis With Button Ps4 Compatible
-oomlout_detail_hierarchy_1: electronic
-oomlout_detail_hierarchy_1_upper: ELECTRONIC
-oomlout_detail_hierarchy_1_upper_length_4: ELEC
-oomlout_detail_hierarchy_2: joystick
-oomlout_detail_hierarchy_2_upper: JOYSTICK
-oomlout_detail_hierarchy_2_upper_length_4: JOYS
-oomlout_detail_hierarchy_3: 16_mm_width
-oomlout_detail_hierarchy_3_upper: 16_MM_WIDTH
-oomlout_detail_hierarchy_3_upper_length_4: 16WI
-oomlout_detail_hierarchy_4: 16_mm_height
-oomlout_detail_hierarchy_4_upper: 16_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 16HE
-oomlout_detail_hierarchy_5: through_hole
-oomlout_detail_hierarchy_5_upper: THROUGH_HOLE
-oomlout_detail_hierarchy_5_upper_length_4: THRO
-oomlout_detail_hierarchy_6: dual_axis_with_button
-oomlout_detail_hierarchy_6_upper: DUAL_AXIS_WITH_BUTTON
-oomlout_detail_hierarchy_6_upper_length_4: DUAL
-oomlout_detail_hierarchy_7: ps4_compatible
-oomlout_detail_hierarchy_7_upper: PS4_COMPATIBLE
-oomlout_detail_hierarchy_7_upper_length_4: PS4_
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
 oomp_word: hamster blush scissors
 oomp_word_emoji: ':hamster: :blush: :scissors:'
@@ -254,10 +224,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''

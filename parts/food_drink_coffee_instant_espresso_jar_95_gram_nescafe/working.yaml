@@ -179,16 +179,8 @@ id_no_class: drink_coffee_instant_espresso_jar_95_gram_nescafe
 id_no_color: espresso_jar_95_gram_nescafe
 id_no_size: instant_espresso_jar_95_gram_nescafe
 id_no_type: coffee_instant_espresso_jar_95_gram_nescafe
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206l1ag
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206l1ag
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206l1ag
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206l1ag
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 manufacturer: nescafe
 manufacturer_capital: Nescafe
@@ -240,28 +232,6 @@ name_no_size: Instant Espresso Jar 95 Gram Nescafe
 name_no_size_short: Instant Espresso Jar 95 Gram Nescafe
 name_no_type: Coffee Instant Espresso Jar 95 Gram Nescafe
 name_short: Instant Coffee Espresso
-oomlout_detail_hierarchy_1: food
-oomlout_detail_hierarchy_1_upper: FOOD
-oomlout_detail_hierarchy_1_upper_length_4: FOOD
-oomlout_detail_hierarchy_2: drink
-oomlout_detail_hierarchy_2_upper: DRINK
-oomlout_detail_hierarchy_2_upper_length_4: DRIN
-oomlout_detail_hierarchy_3: coffee
-oomlout_detail_hierarchy_3_upper: COFFEE
-oomlout_detail_hierarchy_3_upper_length_4: COFF
-oomlout_detail_hierarchy_4: instant
-oomlout_detail_hierarchy_4_upper: INSTANT
-oomlout_detail_hierarchy_4_upper_length_4: INST
-oomlout_detail_hierarchy_5: espresso
-oomlout_detail_hierarchy_5_upper: ESPRESSO
-oomlout_detail_hierarchy_5_upper_length_4: ESPR
-oomlout_detail_hierarchy_6: 95_gram
-oomlout_detail_hierarchy_6_upper: 95_GRAM
-oomlout_detail_hierarchy_6_upper_length_4: 95_G
-oomlout_detail_hierarchy_7: nescafe
-oomlout_detail_hierarchy_7_upper: NESCAFE
-oomlout_detail_hierarchy_7_upper_length_4: NESC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_drink_coffee_instant_espresso_jar_95_gram_nescafe
 oomp_word: shoe egg apple
 oomp_word_emoji: ':shoe: :egg: :apple:'
@@ -279,10 +249,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: coffee

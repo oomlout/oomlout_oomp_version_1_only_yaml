@@ -154,21 +154,9 @@ id_no_class: glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
 id_no_color: 40gram30mmdiameter120mmlengthpurpleelmers
 id_no_size: 40gram30mmdiameter120mmlengthpurpleelmers
 id_no_type: 40_gram_30_mm_diameter_120_mm_length_purple_elmers
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
-link_2_name: link_github
-link_3: https://www.amazon.co.uk/dp/B08PCLDDWW
-link_3_name: link_distributor_amazon
-link_buy_1: https://www.amazon.co.uk/dp/B08PCLDDWW
-link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B08PCLDDWW
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ffov
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ffov
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207ffov
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ffov
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
 manufacturer: elmers
 manufacturer_capital: Elmers
@@ -219,25 +207,6 @@ name_no_color: 40Gram30mmdiameter120mmlengthpurpleelmers
 name_no_size: 40Gram30mmdiameter120mmlengthpurpleelmers
 name_no_size_short: 40Gram30Mmdiameter120Mmlengthpurpleelmers
 name_no_type: 40 Gram 30 mm Diameter 120 mm Length Purple Elmers
-oomlout_detail_hierarchy_1: stationery
-oomlout_detail_hierarchy_1_upper: STATIONERY
-oomlout_detail_hierarchy_1_upper_length_4: STAT
-oomlout_detail_hierarchy_2: glue_stick
-oomlout_detail_hierarchy_2_upper: GLUE_STICK
-oomlout_detail_hierarchy_2_upper_length_4: GLUE
-oomlout_detail_hierarchy_3: 120_mm_length
-oomlout_detail_hierarchy_3_upper: 120_MM_LENGTH
-oomlout_detail_hierarchy_3_upper_length_4: 120L
-oomlout_detail_hierarchy_4: 40_gram
-oomlout_detail_hierarchy_4_upper: 40_GRAM
-oomlout_detail_hierarchy_4_upper_length_4: 40_G
-oomlout_detail_hierarchy_5: purple
-oomlout_detail_hierarchy_5_upper: PURPLE
-oomlout_detail_hierarchy_5_upper_length_4: PURP
-oomlout_detail_hierarchy_6: elmers
-oomlout_detail_hierarchy_6_upper: ELMERS
-oomlout_detail_hierarchy_6_upper_length_4: ELME
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
 oomp_word: ramen sunflower cyclone
 oomp_word_emoji: ':ramen: :sunflower: :cyclone:'
@@ -255,10 +224,6 @@ part_number_first_letter: ''
 part_number_first_letter_upper: ''
 part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
