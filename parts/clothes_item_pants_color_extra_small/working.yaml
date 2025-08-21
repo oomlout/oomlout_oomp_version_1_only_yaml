@@ -1,22 +1,121 @@
+bip_39_word_dash_12: immune-hundred-sorry-process-rude-main-office-provide-ready-neither-rib-among
+bip_39_word_dash_2: immune-hundred
+bip_39_word_dash_3: immune-hundred-sorry
+bip_39_word_new_br_12: immune<br>hundred<br>sorry<br>process<br>rude<br>main<br>office<br>provide<br>ready<br>neither<br>rib<br>among
+bip_39_word_new_br_2: immune<br>hundred
+bip_39_word_new_br_3: immune<br>hundred<br>sorry
+bip_39_word_new_line_12: 'immune
+
+  hundred
+
+  sorry
+
+  process
+
+  rude
+
+  main
+
+  office
+
+  provide
+
+  ready
+
+  neither
+
+  rib
+
+  among'
+bip_39_word_new_line_2: 'immune
+
+  hundred'
+bip_39_word_new_line_3: 'immune
+
+  hundred
+
+  sorry'
+bip_39_word_no_space_12: immunehundredsorryprocessrudemainofficeprovidereadyneitherribamong
+bip_39_word_no_space_2: immunehundred
+bip_39_word_no_space_3: immunehundredsorry
+bip_39_word_space_12: immune hundred sorry process rude main office provide ready
+  neither rib among
+bip_39_word_space_2: immune hundred
+bip_39_word_space_3: immune hundred sorry
+bip_39_word_underscore_12: immune_hundred_sorry_process_rude_main_office_provide_ready_neither_rib_among
+bip_39_word_underscore_2: immune_hundred
+bip_39_word_underscore_3: immune_hundred_sorry
 classification: clothes
 classification_capital: Clothes
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
 classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
 color: color_extra_small
 color_capital: Color Extra Small
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color_
+color_name: Color Extra Small
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: colore
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLORE
 color_upper: COLOR_EXTRA_SMALL
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -26,17 +125,28 @@ directory: parts/clothes_item_pants_color_extra_small
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_pants_color_extra_small
 id: clothes_item_pants_color_extra_small
 id_no_class: item_pants_color_extra_small
+id_no_color: color_extra_small
 id_no_size: color_extra_small
 id_no_type: pants_color_extra_small
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_color_extra_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_color_extra_small
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_color_extra_small
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_color_extra_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204z0md
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204z0md
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204z0md
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204z0md
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_color_extra_small
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[clothes_item_pants_color_extra_small](none)<br>[](none)<br>[Clothes
@@ -53,9 +163,23 @@ md5_6_alpha_upper: 4Z0MD
 md5_6_upper: 7F71E5
 name: Clothes Item Pants Color Extra Small
 name_no_class: Item Pants Color Extra Small
+name_no_color: Color Extra Small
 name_no_size: Color Extra Small
 name_no_size_short: Color Extra Small
 name_no_type: Pants Color Extra Small
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: pants
+oomlout_detail_hierarchy_3_upper: PANTS
+oomlout_detail_hierarchy_3_upper_length_4: PANT
+oomlout_detail_hierarchy_4: color_extra_small
+oomlout_detail_hierarchy_4_upper: COLOR_EXTRA_SMALL
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_clothes_item_pants_color_extra_small
 oomp_word: speaker bamboo rocket
 oomp_word_emoji: ':speaker: :bamboo: :rocket:'
@@ -71,18 +195,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: pants
 size_capital: Pants
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pa
+size_length_3: pan
+size_length_4: pant
+size_length_5: pants
+size_length_6: pants
+size_name: Pants
+size_no_space_length_1: p
+size_no_space_length_2: pa
+size_no_space_length_3: pan
+size_no_space_length_4: pant
+size_no_space_length_5: pants
+size_no_space_length_6: pants
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PA
+size_no_space_upper_length_3: PAN
+size_no_space_upper_length_4: PANT
+size_no_space_upper_length_5: PANTS
+size_no_space_upper_length_6: PANTS
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PANTS
+size_upper_length_1: P
+size_upper_length_2: PA
+size_upper_length_3: PAN
+size_upper_length_4: PANT
+size_upper_length_5: PANTS
+size_upper_length_6: PANTS
 type: item
 type_capital: Item
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
 type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

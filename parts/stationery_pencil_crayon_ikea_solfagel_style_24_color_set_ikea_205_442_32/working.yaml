@@ -1,23 +1,122 @@
+bip_39_word_dash_12: federal-sock-pretty-tragic-again-loan-insane-project-save-spray-enlist-also
+bip_39_word_dash_2: federal-sock
+bip_39_word_dash_3: federal-sock-pretty
+bip_39_word_new_br_12: federal<br>sock<br>pretty<br>tragic<br>again<br>loan<br>insane<br>project<br>save<br>spray<br>enlist<br>also
+bip_39_word_new_br_2: federal<br>sock
+bip_39_word_new_br_3: federal<br>sock<br>pretty
+bip_39_word_new_line_12: 'federal
+
+  sock
+
+  pretty
+
+  tragic
+
+  again
+
+  loan
+
+  insane
+
+  project
+
+  save
+
+  spray
+
+  enlist
+
+  also'
+bip_39_word_new_line_2: 'federal
+
+  sock'
+bip_39_word_new_line_3: 'federal
+
+  sock
+
+  pretty'
+bip_39_word_no_space_12: federalsockprettytragicagainloaninsaneprojectsavesprayenlistalso
+bip_39_word_no_space_2: federalsock
+bip_39_word_no_space_3: federalsockpretty
+bip_39_word_space_12: federal sock pretty tragic again loan insane project save spray
+  enlist also
+bip_39_word_space_2: federal sock
+bip_39_word_space_3: federal sock pretty
+bip_39_word_underscore_12: federal_sock_pretty_tragic_again_loan_insane_project_save_spray_enlist_also
+bip_39_word_underscore_2: federal_sock
+bip_39_word_underscore_3: federal_sock_pretty
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ikea_solfagel_style_24_color_set
 description_main_capital: Ikea Solfagel Style 24 Color Set
 description_main_first_letter: i
 description_main_first_letter_upper: I
+description_main_length_1: i
+description_main_length_2: ik
+description_main_length_3: ike
+description_main_length_4: ikea
+description_main_length_5: ikea_
+description_main_length_6: ikea_s
+description_main_name: Ikea Solfagel Style 24 Color Set
+description_main_no_space_length_1: i
+description_main_no_space_length_2: ik
+description_main_no_space_length_3: ike
+description_main_no_space_length_4: ikea
+description_main_no_space_length_5: ikeas
+description_main_no_space_length_6: ikeaso
+description_main_no_space_upper_length_1: I
+description_main_no_space_upper_length_2: IK
+description_main_no_space_upper_length_3: IKE
+description_main_no_space_upper_length_4: IKEA
+description_main_no_space_upper_length_5: IKEAS
+description_main_no_space_upper_length_6: IKEASO
 description_main_upper: IKEA_SOLFAGEL_STYLE_24_COLOR_SET
+description_main_upper_length_1: I
+description_main_upper_length_2: IK
+description_main_upper_length_3: IKE
+description_main_upper_length_4: IKEA
+description_main_upper_length_5: IKEA_
+description_main_upper_length_6: IKEA_S
 description_only_numbers: '24'
 description_only_numbers_short: '24'
 description_or_color: '24'
@@ -25,19 +124,54 @@ description_or_color_upper: '24'
 directory: parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 distributor_part_number_ikea: 205.442.32
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 id: stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 id_no_class: pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+id_no_color: ikeasolfagelstyle24colorsetikea20544232
 id_no_size: ikeasolfagelstyle24colorsetikea20544232
 id_no_type: ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_2_name: link_github
 link_distributor_ikea: https://www.ikea.com/gb/en/p/solfagel-coloured-pencil-mixed-colours-20544232/
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204jrg4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204jrg4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204jrg4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204jrg4
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
+manufacturer_length_1: i
+manufacturer_length_2: ik
+manufacturer_length_3: ike
+manufacturer_length_4: ikea
+manufacturer_length_5: ikea
+manufacturer_length_6: ikea
+manufacturer_name: Ikea
+manufacturer_no_space_length_1: i
+manufacturer_no_space_length_2: ik
+manufacturer_no_space_length_3: ike
+manufacturer_no_space_length_4: ikea
+manufacturer_no_space_length_5: ikea
+manufacturer_no_space_length_6: ikea
+manufacturer_no_space_upper_length_1: I
+manufacturer_no_space_upper_length_2: IK
+manufacturer_no_space_upper_length_3: IKE
+manufacturer_no_space_upper_length_4: IKEA
+manufacturer_no_space_upper_length_5: IKEA
+manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
+manufacturer_upper_length_1: I
+manufacturer_upper_length_2: IK
+manufacturer_upper_length_3: IKE
+manufacturer_upper_length_4: IKEA
+manufacturer_upper_length_5: IKEA
+manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32](none)<br>[](none)<br>[Stationery
   Pencil Crayon Ikea Solfagel Style 24 Color Set Ikea 205 442 32](none)<br><br>'
@@ -53,9 +187,29 @@ md5_6_alpha_upper: 4JRG4
 md5_6_upper: 7495B4
 name: Stationery Pencil Crayon Ikea Solfagel Style 24 Color Set Ikea 205 442 32
 name_no_class: Pencil Crayon Ikea Solfagel Style 24 Color Set Ikea 205 442 32
+name_no_color: Ikeasolfagelstyle24Colorsetikea20544232
 name_no_size: Ikeasolfagelstyle24Colorsetikea20544232
 name_no_size_short: Ikeasolfagelstyle24Colorsetikea20544232
 name_no_type: Ikea Solfagel Style 24 Color Set Ikea 205 442 32
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: pencil_crayon
+oomlout_detail_hierarchy_2_upper: PENCIL_CRAYON
+oomlout_detail_hierarchy_2_upper_length_4: PENC
+oomlout_detail_hierarchy_3: ikea_solfagel_style_24
+oomlout_detail_hierarchy_3_upper: IKEA_SOLFAGEL_STYLE_24
+oomlout_detail_hierarchy_3_upper_length_4: IKEA
+oomlout_detail_hierarchy_4: color_set
+oomlout_detail_hierarchy_4_upper: COLOR_SET
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: ikea
+oomlout_detail_hierarchy_5_upper: IKEA
+oomlout_detail_hierarchy_5_upper_length_4: IKEA
+oomlout_detail_hierarchy_6: '205_442_32'
+oomlout_detail_hierarchy_6_upper: '205_442_32'
+oomlout_detail_hierarchy_6_upper_length_4: '205_'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_pencil_crayon_ikea_solfagel_style_24_color_set_ikea_205_442_32
 oomp_word: fireworks telescope coffee
 oomp_word_emoji: ':fireworks: :telescope: :coffee:'
@@ -72,7 +226,36 @@ part_number_capital: 205.442.32
 part_number_exact: 205.442.32
 part_number_first_letter: '2'
 part_number_first_letter_upper: '2'
+part_number_length_1: '2'
+part_number_length_2: '20'
+part_number_length_3: '205'
+part_number_length_4: '205_'
+part_number_length_5: '205_4'
+part_number_length_6: '205_44'
+part_number_name: 205 442 32
+part_number_no_space_length_1: '2'
+part_number_no_space_length_2: '20'
+part_number_no_space_length_3: '205'
+part_number_no_space_length_4: '2054'
+part_number_no_space_length_5: '20544'
+part_number_no_space_length_6: '205442'
+part_number_no_space_upper_length_1: '2'
+part_number_no_space_upper_length_2: '20'
+part_number_no_space_upper_length_3: '205'
+part_number_no_space_upper_length_4: '2054'
+part_number_no_space_upper_length_5: '20544'
+part_number_no_space_upper_length_6: '205442'
 part_number_upper: '205_442_32'
+part_number_upper_length_1: '2'
+part_number_upper_length_2: '20'
+part_number_upper_length_3: '205'
+part_number_upper_length_4: '205_'
+part_number_upper_length_5: '205_4'
+part_number_upper_length_6: '205_44'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -80,6 +263,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -87,4 +271,29 @@ type: pencil_crayon
 type_capital: Pencil Crayon
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pe
+type_length_3: pen
+type_length_4: penc
+type_length_5: penci
+type_length_6: pencil
+type_name: Pencil Crayon
+type_no_space_length_1: p
+type_no_space_length_2: pe
+type_no_space_length_3: pen
+type_no_space_length_4: penc
+type_no_space_length_5: penci
+type_no_space_length_6: pencil
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PE
+type_no_space_upper_length_3: PEN
+type_no_space_upper_length_4: PENC
+type_no_space_upper_length_5: PENCI
+type_no_space_upper_length_6: PENCIL
 type_upper: PENCIL_CRAYON
+type_upper_length_1: P
+type_upper_length_2: PE
+type_upper_length_3: PEN
+type_upper_length_4: PENC
+type_upper_length_5: PENCI
+type_upper_length_6: PENCIL

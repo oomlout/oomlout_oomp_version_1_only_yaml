@@ -1,12 +1,85 @@
+bip_39_word_dash_12: gesture-stem-have-auction-practice-guilt-exotic-valley-success-boost-immense-athlete
+bip_39_word_dash_2: gesture-stem
+bip_39_word_dash_3: gesture-stem-have
+bip_39_word_new_br_12: gesture<br>stem<br>have<br>auction<br>practice<br>guilt<br>exotic<br>valley<br>success<br>boost<br>immense<br>athlete
+bip_39_word_new_br_2: gesture<br>stem
+bip_39_word_new_br_3: gesture<br>stem<br>have
+bip_39_word_new_line_12: 'gesture
+
+  stem
+
+  have
+
+  auction
+
+  practice
+
+  guilt
+
+  exotic
+
+  valley
+
+  success
+
+  boost
+
+  immense
+
+  athlete'
+bip_39_word_new_line_2: 'gesture
+
+  stem'
+bip_39_word_new_line_3: 'gesture
+
+  stem
+
+  have'
+bip_39_word_no_space_12: gesturestemhaveauctionpracticeguiltexoticvalleysuccessboostimmenseathlete
+bip_39_word_no_space_2: gesturestem
+bip_39_word_no_space_3: gesturestemhave
+bip_39_word_space_12: gesture stem have auction practice guilt exotic valley success
+  boost immense athlete
+bip_39_word_space_2: gesture stem
+bip_39_word_space_3: gesture stem have
+bip_39_word_underscore_12: gesture_stem_have_auction_practice_guilt_exotic_valley_success_boost_immense_athlete
+bip_39_word_underscore_2: gesture_stem
+bip_39_word_underscore_3: gesture_stem_have
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: An arduino compatible breakout in the Arduino Uno short size format,
   pfavoured by aliexpress vendors sometimes
@@ -14,30 +87,67 @@ description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: atmega328p_arduino_compatible
 description_main_capital: Atmega328P Arduino Compatible
 description_main_first_letter: a
 description_main_first_letter_upper: A
+description_main_length_1: a
+description_main_length_2: at
+description_main_length_3: atm
+description_main_length_4: atme
+description_main_length_5: atmeg
+description_main_length_6: atmega
+description_main_name: Atmega328P Arduino Compatible
+description_main_no_space_length_1: a
+description_main_no_space_length_2: at
+description_main_no_space_length_3: atm
+description_main_no_space_length_4: atme
+description_main_no_space_length_5: atmeg
+description_main_no_space_length_6: atmega
+description_main_no_space_upper_length_1: A
+description_main_no_space_upper_length_2: AT
+description_main_no_space_upper_length_3: ATM
+description_main_no_space_upper_length_4: ATME
+description_main_no_space_upper_length_5: ATMEG
+description_main_no_space_upper_length_6: ATMEGA
 description_main_upper: ATMEGA328P_ARDUINO_COMPATIBLE
+description_main_upper_length_1: A
+description_main_upper_length_2: AT
+description_main_upper_length_3: ATM
+description_main_upper_length_4: ATME
+description_main_upper_length_5: ATMEG
+description_main_upper_length_6: ATMEGA
 description_only_numbers: '328'
 description_only_numbers_short: '328'
 description_or_color: '328'
 description_or_color_upper: '328'
 directory: parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
 id: electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
 id_no_class: breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
+id_no_color: atmega328parduinocompatible
 id_no_size: atmega328p_arduino_compatible
 id_no_type: uno_rev_1_atmega328p_arduino_compatible
 kicad_reference: BB
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208up6u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208up6u
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208up6u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208up6u
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible](none)<br>[](none)<br>[Electronic
@@ -52,12 +162,26 @@ md5_6: e2e306
 md5_6_alpha: 8up6u
 md5_6_alpha_upper: 8UP6U
 md5_6_upper: E2E306
-name: Electronic Breakout Board Mcu Uno Rev 1 Atmega328P Arduino Compatible
-name_no_class: Breakout Board Mcu Uno Rev 1 Atmega328P Arduino Compatible
+name: Electronic Breakout Board MCU Uno Rev 1 Atmega328P Arduino Compatible
+name_no_class: Breakout Board MCU Uno Rev 1 Atmega328P Arduino Compatible
+name_no_color: Atmega328Parduinocompatible
 name_no_size: Atmega328P Arduino Compatible
 name_no_size_short: Atmega328P Arduino Compatible
 name_no_type: Uno Rev 1 Atmega328P Arduino Compatible
 notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: breakout_board_mcu
+oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
+oomlout_detail_hierarchy_2_upper_length_4: BREA
+oomlout_detail_hierarchy_3: uno_rev_1
+oomlout_detail_hierarchy_3_upper: UNO_REV_1
+oomlout_detail_hierarchy_3_upper_length_4: UNO_
+oomlout_detail_hierarchy_4: atmega328p_arduino_compatible
+oomlout_detail_hierarchy_4_upper: ATMEGA328P_ARDUINO_COMPATIBLE
+oomlout_detail_hierarchy_4_upper_length_4: ATME
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_breakout_board_mcu_uno_rev_1_atmega328p_arduino_compatible
 oomp_word: sailboat rowboat sleeping
 oomp_word_emoji: ':sailboat: :rowboat: :sleeping:'
@@ -73,6 +197,7 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
 pins:
   pin_1:
@@ -187,6 +312,10 @@ pins:
     name: a2
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -194,11 +323,61 @@ size: uno_rev_1
 size_capital: Uno Rev 1
 size_first_letter: u
 size_first_letter_upper: U
+size_length_1: u
+size_length_2: un
+size_length_3: uno
+size_length_4: uno_
+size_length_5: uno_r
+size_length_6: uno_re
+size_name: Uno Rev 1
+size_no_space_length_1: u
+size_no_space_length_2: un
+size_no_space_length_3: uno
+size_no_space_length_4: unor
+size_no_space_length_5: unore
+size_no_space_length_6: unorev
+size_no_space_upper_length_1: U
+size_no_space_upper_length_2: UN
+size_no_space_upper_length_3: UNO
+size_no_space_upper_length_4: UNOR
+size_no_space_upper_length_5: UNORE
+size_no_space_upper_length_6: UNOREV
 size_only_numbers: '1'
 size_only_numbers_no_zeros: '1'
 size_upper: UNO_REV_1
+size_upper_length_1: U
+size_upper_length_2: UN
+size_upper_length_3: UNO
+size_upper_length_4: UNO_
+size_upper_length_5: UNO_R
+size_upper_length_6: UNO_RE
 type: breakout_board_mcu
 type_capital: Breakout Board Mcu
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: br
+type_length_3: bre
+type_length_4: brea
+type_length_5: break
+type_length_6: breako
+type_name: Breakout Board MCU
+type_no_space_length_1: b
+type_no_space_length_2: br
+type_no_space_length_3: bre
+type_no_space_length_4: brea
+type_no_space_length_5: break
+type_no_space_length_6: breako
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BR
+type_no_space_upper_length_3: BRE
+type_no_space_upper_length_4: BREA
+type_no_space_upper_length_5: BREAK
+type_no_space_upper_length_6: BREAKO
 type_upper: BREAKOUT_BOARD_MCU
+type_upper_length_1: B
+type_upper_length_2: BR
+type_upper_length_3: BRE
+type_upper_length_4: BREA
+type_upper_length_5: BREAK
+type_upper_length_6: BREAKO

@@ -1,41 +1,175 @@
+bip_39_word_dash_12: canyon-sell-auto-recall-stomach-absent-calm-off-actor-airport-beef-april
+bip_39_word_dash_2: canyon-sell
+bip_39_word_dash_3: canyon-sell-auto
+bip_39_word_new_br_12: canyon<br>sell<br>auto<br>recall<br>stomach<br>absent<br>calm<br>off<br>actor<br>airport<br>beef<br>april
+bip_39_word_new_br_2: canyon<br>sell
+bip_39_word_new_br_3: canyon<br>sell<br>auto
+bip_39_word_new_line_12: 'canyon
+
+  sell
+
+  auto
+
+  recall
+
+  stomach
+
+  absent
+
+  calm
+
+  off
+
+  actor
+
+  airport
+
+  beef
+
+  april'
+bip_39_word_new_line_2: 'canyon
+
+  sell'
+bip_39_word_new_line_3: 'canyon
+
+  sell
+
+  auto'
+bip_39_word_no_space_12: canyonsellautorecallstomachabsentcalmoffactorairportbeefapril
+bip_39_word_no_space_2: canyonsell
+bip_39_word_no_space_3: canyonsellauto
+bip_39_word_space_12: canyon sell auto recall stomach absent calm off actor airport
+  beef april
+bip_39_word_space_2: canyon sell
+bip_39_word_space_3: canyon sell auto
+bip_39_word_underscore_12: canyon_sell_auto_recall_stomach_absent_calm_off_actor_airport_beef_april
+bip_39_word_underscore_2: canyon_sell
+bip_39_word_underscore_3: canyon_sell_auto
 classification: computer_tablet
 classification_capital: Computer Tablet
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: co
+classification_length_3: com
+classification_length_4: comp
+classification_length_5: compu
+classification_length_6: comput
+classification_name: Computer Tablet
+classification_no_space_length_1: c
+classification_no_space_length_2: co
+classification_no_space_length_3: com
+classification_no_space_length_4: comp
+classification_no_space_length_5: compu
+classification_no_space_length_6: comput
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CO
+classification_no_space_upper_length_3: COM
+classification_no_space_upper_length_4: COMP
+classification_no_space_upper_length_5: COMPU
+classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER_TABLET
+classification_upper_length_1: C
+classification_upper_length_2: CO
+classification_upper_length_3: COM
+classification_upper_length_4: COMP
+classification_upper_length_5: COMPU
+classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 7_generation
 description_main_capital: 7 Generation
 description_main_first_letter: '7'
 description_main_first_letter_upper: '7'
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: 7_g
+description_main_length_4: 7_ge
+description_main_length_5: 7_gen
+description_main_length_6: 7_gene
+description_main_name: 7 Generation
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: 7g
+description_main_no_space_length_3: 7ge
+description_main_no_space_length_4: 7gen
+description_main_no_space_length_5: 7gene
+description_main_no_space_length_6: 7gener
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: 7G
+description_main_no_space_upper_length_3: 7GE
+description_main_no_space_upper_length_4: 7GEN
+description_main_no_space_upper_length_5: 7GENE
+description_main_no_space_upper_length_6: 7GENER
 description_main_upper: 7_GENERATION
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: 7_G
+description_main_upper_length_4: 7_GE
+description_main_upper_length_5: 7_GEN
+description_main_upper_length_6: 7_GENE
 description_only_numbers: '7'
 description_only_numbers_short: '7'
 description_or_color: '7'
 description_or_color_upper: '7'
 directory: parts/computer_tablet_kindle_paperwhite_7_generation_amazon
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_tablet_kindle_paperwhite_7_generation_amazon
 id: computer_tablet_kindle_paperwhite_7_generation_amazon
 id_no_class: kindle_paperwhite_7_generation_amazon
+id_no_color: 7generationamazon
 id_no_size: 7generationamazon
 id_no_type: 7_generation_amazon
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_7_generation_amazon
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_7_generation_amazon
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_7_generation_amazon
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_7_generation_amazon
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206smpt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206smpt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206smpt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206smpt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_7_generation_amazon
 manufacturer: amazon
 manufacturer_capital: Amazon
 manufacturer_first_letter: a
 manufacturer_first_letter_upper: A
+manufacturer_length_1: a
+manufacturer_length_2: am
+manufacturer_length_3: ama
+manufacturer_length_4: amaz
+manufacturer_length_5: amazo
+manufacturer_length_6: amazon
+manufacturer_name: Amazon
+manufacturer_no_space_length_1: a
+manufacturer_no_space_length_2: am
+manufacturer_no_space_length_3: ama
+manufacturer_no_space_length_4: amaz
+manufacturer_no_space_length_5: amazo
+manufacturer_no_space_length_6: amazon
+manufacturer_no_space_upper_length_1: A
+manufacturer_no_space_upper_length_2: AM
+manufacturer_no_space_upper_length_3: AMA
+manufacturer_no_space_upper_length_4: AMAZ
+manufacturer_no_space_upper_length_5: AMAZO
+manufacturer_no_space_upper_length_6: AMAZON
 manufacturer_upper: AMAZON
+manufacturer_upper_length_1: A
+manufacturer_upper_length_2: AM
+manufacturer_upper_length_3: AMA
+manufacturer_upper_length_4: AMAZ
+manufacturer_upper_length_5: AMAZO
+manufacturer_upper_length_6: AMAZON
 manufacturers: []
 markdown_full: '[computer_tablet_kindle_paperwhite_7_generation_amazon](none)<br>[](none)<br>[Computer
   Tablet Kindle Paperwhite 7 Generation Amazon](none)<br><br>'
@@ -51,9 +185,23 @@ md5_6_alpha_upper: 6SMPT
 md5_6_upper: AE2801
 name: Computer Tablet Kindle Paperwhite 7 Generation Amazon
 name_no_class: Kindle Paperwhite 7 Generation Amazon
+name_no_color: 7Generationamazon
 name_no_size: 7Generationamazon
 name_no_size_short: 7Generationamazon
 name_no_type: 7 Generation Amazon
+oomlout_detail_hierarchy_1: computer_tablet
+oomlout_detail_hierarchy_1_upper: COMPUTER_TABLET
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: kindle_paperwhite
+oomlout_detail_hierarchy_2_upper: KINDLE_PAPERWHITE
+oomlout_detail_hierarchy_2_upper_length_4: KIND
+oomlout_detail_hierarchy_3: 7_generation
+oomlout_detail_hierarchy_3_upper: 7_GENERATION
+oomlout_detail_hierarchy_3_upper_length_4: 7_GE
+oomlout_detail_hierarchy_4: amazon
+oomlout_detail_hierarchy_4_upper: AMAZON
+oomlout_detail_hierarchy_4_upper_length_4: AMAZ
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_tablet_kindle_paperwhite_7_generation_amazon
 oomp_word: jeans tongue smile
 oomp_word_emoji: ':jeans: :tongue: :smile:'
@@ -69,13 +217,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -83,4 +237,29 @@ type: kindle_paperwhite
 type_capital: Kindle Paperwhite
 type_first_letter: k
 type_first_letter_upper: K
+type_length_1: k
+type_length_2: ki
+type_length_3: kin
+type_length_4: kind
+type_length_5: kindl
+type_length_6: kindle
+type_name: Kindle Paperwhite
+type_no_space_length_1: k
+type_no_space_length_2: ki
+type_no_space_length_3: kin
+type_no_space_length_4: kind
+type_no_space_length_5: kindl
+type_no_space_length_6: kindle
+type_no_space_upper_length_1: K
+type_no_space_upper_length_2: KI
+type_no_space_upper_length_3: KIN
+type_no_space_upper_length_4: KIND
+type_no_space_upper_length_5: KINDL
+type_no_space_upper_length_6: KINDLE
 type_upper: KINDLE_PAPERWHITE
+type_upper_length_1: K
+type_upper_length_2: KI
+type_upper_length_3: KIN
+type_upper_length_4: KIND
+type_upper_length_5: KINDL
+type_upper_length_6: KINDLE

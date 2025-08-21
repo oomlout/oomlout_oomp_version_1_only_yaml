@@ -1,23 +1,146 @@
+bip_39_word_dash_12: fossil-roast-march-media-edge-seek-wrist-ability-giant-doll-point-alter
+bip_39_word_dash_2: fossil-roast
+bip_39_word_dash_3: fossil-roast-march
+bip_39_word_new_br_12: fossil<br>roast<br>march<br>media<br>edge<br>seek<br>wrist<br>ability<br>giant<br>doll<br>point<br>alter
+bip_39_word_new_br_2: fossil<br>roast
+bip_39_word_new_br_3: fossil<br>roast<br>march
+bip_39_word_new_line_12: 'fossil
+
+  roast
+
+  march
+
+  media
+
+  edge
+
+  seek
+
+  wrist
+
+  ability
+
+  giant
+
+  doll
+
+  point
+
+  alter'
+bip_39_word_new_line_2: 'fossil
+
+  roast'
+bip_39_word_new_line_3: 'fossil
+
+  roast
+
+  march'
+bip_39_word_no_space_12: fossilroastmarchmediaedgeseekwristabilitygiantdollpointalter
+bip_39_word_no_space_2: fossilroast
+bip_39_word_no_space_3: fossilroastmarch
+bip_39_word_space_12: fossil roast march media edge seek wrist ability giant doll
+  point alter
+bip_39_word_space_2: fossil roast
+bip_39_word_space_3: fossil roast march
+bip_39_word_underscore_12: fossil_roast_march_media_edge_seek_wrist_ability_giant_doll_point_alter
+bip_39_word_underscore_2: fossil_roast
+bip_39_word_underscore_3: fossil_roast_march
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
+classification_length_1: g
+classification_length_2: ga
+classification_length_3: gar
+classification_length_4: gard
+classification_length_5: garde
+classification_length_6: garden
+classification_name: Garden
+classification_no_space_length_1: g
+classification_no_space_length_2: ga
+classification_no_space_length_3: gar
+classification_no_space_length_4: gard
+classification_no_space_length_5: garde
+classification_no_space_length_6: garden
+classification_no_space_upper_length_1: G
+classification_no_space_upper_length_2: GA
+classification_no_space_upper_length_3: GAR
+classification_no_space_upper_length_4: GARD
+classification_no_space_upper_length_5: GARDE
+classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
+classification_upper_length_1: G
+classification_upper_length_2: GA
+classification_upper_length_3: GAR
+classification_upper_length_4: GARD
+classification_upper_length_5: GARDE
+classification_upper_length_6: GARDEN
 color: sweet_pea
 color_capital: Sweet Pea
 color_first_letter: s
 color_first_letter_upper: S
+color_length_1: s
+color_length_2: sw
+color_length_3: swe
+color_length_4: swee
+color_length_5: sweet
+color_length_6: sweet_
+color_name: Sweet Pea
+color_no_space_length_1: s
+color_no_space_length_2: sw
+color_no_space_length_3: swe
+color_no_space_length_4: swee
+color_no_space_length_5: sweet
+color_no_space_length_6: sweetp
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SW
+color_no_space_upper_length_3: SWE
+color_no_space_upper_length_4: SWEE
+color_no_space_upper_length_5: SWEET
+color_no_space_upper_length_6: SWEETP
 color_upper: SWEET_PEA
+color_upper_length_1: S
+color_upper_length_2: SW
+color_upper_length_3: SWE
+color_upper_length_4: SWEE
+color_upper_length_5: SWEET
+color_upper_length_6: SWEET_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: scentsational_mix
 description_main_capital: Scentsational Mix
 description_main_first_letter: s
 description_main_first_letter_upper: S
+description_main_length_1: s
+description_main_length_2: sc
+description_main_length_3: sce
+description_main_length_4: scen
+description_main_length_5: scent
+description_main_length_6: scents
+description_main_name: Scentsational Mix
+description_main_no_space_length_1: s
+description_main_no_space_length_2: sc
+description_main_no_space_length_3: sce
+description_main_no_space_length_4: scen
+description_main_no_space_length_5: scent
+description_main_no_space_length_6: scents
+description_main_no_space_upper_length_1: S
+description_main_no_space_upper_length_2: SC
+description_main_no_space_upper_length_3: SCE
+description_main_no_space_upper_length_4: SCEN
+description_main_no_space_upper_length_5: SCENT
+description_main_no_space_upper_length_6: SCENTS
 description_main_upper: SCENTSATIONAL_MIX
+description_main_upper_length_1: S
+description_main_upper_length_2: SC
+description_main_upper_length_3: SCE
+description_main_upper_length_4: SCEN
+description_main_upper_length_5: SCENT
+description_main_upper_length_6: SCENTS
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'S '
@@ -25,18 +148,29 @@ description_or_color_upper: 'S '
 directory: parts/garden_plant_flower_sweet_pea_scentsational_mix
 distributor_sutton_seeds: '133275'
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix
 id: garden_plant_flower_sweet_pea_scentsational_mix
 id_no_class: plant_flower_sweet_pea_scentsational_mix
+id_no_color: scentsational_mix
 id_no_size: sweet_pea_scentsational_mix
 id_no_type: flower_sweet_pea_scentsational_mix
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix
+link_2_name: link_github
 link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE348/sweet-pea-scentsational-mix-seeds_mh13761
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204nl3k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204nl3k
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204nl3k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204nl3k
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_flower_sweet_pea_scentsational_mix](none)<br>[](none)<br>[Garden
@@ -53,9 +187,26 @@ md5_6_alpha_upper: 4NL3K
 md5_6_upper: 774E90
 name: Garden Plant Flower Sweet Pea Scentsational Mix
 name_no_class: Plant Flower Sweet Pea Scentsational Mix
+name_no_color: Scentsational Mix
 name_no_size: Sweet Pea Scentsational Mix
 name_no_size_short: Sweet Pea Scentsational Mix
 name_no_type: Flower Sweet Pea Scentsational Mix
+oomlout_detail_hierarchy_1: garden
+oomlout_detail_hierarchy_1_upper: GARDEN
+oomlout_detail_hierarchy_1_upper_length_4: GARD
+oomlout_detail_hierarchy_2: plant
+oomlout_detail_hierarchy_2_upper: PLANT
+oomlout_detail_hierarchy_2_upper_length_4: PLAN
+oomlout_detail_hierarchy_3: flower
+oomlout_detail_hierarchy_3_upper: FLOWER
+oomlout_detail_hierarchy_3_upper_length_4: FLOW
+oomlout_detail_hierarchy_4: sweet_pea
+oomlout_detail_hierarchy_4_upper: SWEET_PEA
+oomlout_detail_hierarchy_4_upper_length_4: SWEE
+oomlout_detail_hierarchy_5: scentsational_mix
+oomlout_detail_hierarchy_5_upper: SCENTSATIONAL_MIX
+oomlout_detail_hierarchy_5_upper_length_4: SCEN
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_garden_plant_flower_sweet_pea_scentsational_mix
 oomp_word: gift honeybee scissors
 oomp_word_emoji: ':gift: :honeybee: :scissors:'
@@ -71,7 +222,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -79,11 +235,61 @@ size: flower
 size_capital: Flower
 size_first_letter: f
 size_first_letter_upper: F
+size_length_1: f
+size_length_2: fl
+size_length_3: flo
+size_length_4: flow
+size_length_5: flowe
+size_length_6: flower
+size_name: Flower
+size_no_space_length_1: f
+size_no_space_length_2: fl
+size_no_space_length_3: flo
+size_no_space_length_4: flow
+size_no_space_length_5: flowe
+size_no_space_length_6: flower
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FL
+size_no_space_upper_length_3: FLO
+size_no_space_upper_length_4: FLOW
+size_no_space_upper_length_5: FLOWE
+size_no_space_upper_length_6: FLOWER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FLOWER
+size_upper_length_1: F
+size_upper_length_2: FL
+size_upper_length_3: FLO
+size_upper_length_4: FLOW
+size_upper_length_5: FLOWE
+size_upper_length_6: FLOWER
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pl
+type_length_3: pla
+type_length_4: plan
+type_length_5: plant
+type_length_6: plant
+type_name: Plant
+type_no_space_length_1: p
+type_no_space_length_2: pl
+type_no_space_length_3: pla
+type_no_space_length_4: plan
+type_no_space_length_5: plant
+type_no_space_length_6: plant
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PL
+type_no_space_upper_length_3: PLA
+type_no_space_upper_length_4: PLAN
+type_no_space_upper_length_5: PLANT
+type_no_space_upper_length_6: PLANT
 type_upper: PLANT
+type_upper_length_1: P
+type_upper_length_2: PL
+type_upper_length_3: PLA
+type_upper_length_4: PLAN
+type_upper_length_5: PLANT
+type_upper_length_6: PLANT

@@ -1,22 +1,145 @@
+bip_39_word_dash_12: awkward-orphan-vibrant-glass-quick-answer-ability-fabric-hill-flip-modify-across
+bip_39_word_dash_2: awkward-orphan
+bip_39_word_dash_3: awkward-orphan-vibrant
+bip_39_word_new_br_12: awkward<br>orphan<br>vibrant<br>glass<br>quick<br>answer<br>ability<br>fabric<br>hill<br>flip<br>modify<br>across
+bip_39_word_new_br_2: awkward<br>orphan
+bip_39_word_new_br_3: awkward<br>orphan<br>vibrant
+bip_39_word_new_line_12: 'awkward
+
+  orphan
+
+  vibrant
+
+  glass
+
+  quick
+
+  answer
+
+  ability
+
+  fabric
+
+  hill
+
+  flip
+
+  modify
+
+  across'
+bip_39_word_new_line_2: 'awkward
+
+  orphan'
+bip_39_word_new_line_3: 'awkward
+
+  orphan
+
+  vibrant'
+bip_39_word_no_space_12: awkwardorphanvibrantglassquickanswerabilityfabrichillflipmodifyacross
+bip_39_word_no_space_2: awkwardorphan
+bip_39_word_no_space_3: awkwardorphanvibrant
+bip_39_word_space_12: awkward orphan vibrant glass quick answer ability fabric hill
+  flip modify across
+bip_39_word_space_2: awkward orphan
+bip_39_word_space_3: awkward orphan vibrant
+bip_39_word_underscore_12: awkward_orphan_vibrant_glass_quick_answer_ability_fabric_hill_flip_modify_across
+bip_39_word_underscore_2: awkward_orphan
+bip_39_word_underscore_3: awkward_orphan_vibrant
 classification: vinyl
 classification_capital: Vinyl
 classification_first_letter: v
 classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vin
+classification_length_4: viny
+classification_length_5: vinyl
+classification_length_6: vinyl
+classification_name: Vinyl
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vin
+classification_no_space_length_4: viny
+classification_no_space_length_5: vinyl
+classification_no_space_length_6: vinyl
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VIN
+classification_no_space_upper_length_4: VINY
+classification_no_space_upper_length_5: VINYL
+classification_no_space_upper_length_6: VINYL
 classification_upper: VINYL
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VIN
+classification_upper_length_4: VINY
+classification_upper_length_5: VINYL
+classification_upper_length_6: VINYL
 color: red
 color_capital: Red
 color_first_letter: r
 color_first_letter_upper: R
+color_length_1: r
+color_length_2: re
+color_length_3: red
+color_length_4: red
+color_length_5: red
+color_length_6: red
+color_name: Red
+color_no_space_length_1: r
+color_no_space_length_2: re
+color_no_space_length_3: red
+color_no_space_length_4: red
+color_no_space_length_5: red
+color_no_space_length_6: red
+color_no_space_upper_length_1: R
+color_no_space_upper_length_2: RE
+color_no_space_upper_length_3: RED
+color_no_space_upper_length_4: RED
+color_no_space_upper_length_5: RED
+color_no_space_upper_length_6: RED
 color_upper: RED
+color_upper_length_1: R
+color_upper_length_2: RE
+color_upper_length_3: RED
+color_upper_length_4: RED
+color_upper_length_5: RED
+color_upper_length_6: RED
 description_extra: a4_210_mm_width_297_mm_height
 description_extra_capital: A4.210 mm Width 297 mm Height
 description_extra_first_letter: a
 description_extra_first_letter_upper: A
+description_extra_length_1: a
+description_extra_length_2: a4
+description_extra_length_3: a4_
+description_extra_length_4: a4_2
+description_extra_length_5: a4_21
+description_extra_length_6: a4_210
+description_extra_name: A4 210 mm Width 297 mm Height
+description_extra_no_space_length_1: a
+description_extra_no_space_length_2: a4
+description_extra_no_space_length_3: a42
+description_extra_no_space_length_4: a421
+description_extra_no_space_length_5: a4210
+description_extra_no_space_length_6: a4210m
+description_extra_no_space_upper_length_1: A
+description_extra_no_space_upper_length_2: A4
+description_extra_no_space_upper_length_3: A42
+description_extra_no_space_upper_length_4: A421
+description_extra_no_space_upper_length_5: A4210
+description_extra_no_space_upper_length_6: A4210M
 description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_extra_upper_length_1: A
+description_extra_upper_length_2: A4
+description_extra_upper_length_3: A4_
+description_extra_upper_length_4: A4_2
+description_extra_upper_length_5: A4_21
+description_extra_upper_length_6: A4_210
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -26,18 +149,29 @@ directory: parts/vinyl_red_a4_210_mm_width_297_mm_height
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
 height: 297 mm
 id: vinyl_red_a4_210_mm_width_297_mm_height
 id_no_class: red_a4_210_mm_width_297_mm_height
+id_no_color: reda4210mmwidth297mmheight
 id_no_size: reda4210mmwidth297mmheight
 id_no_type: reda4210mmwidth297mmheight
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201g4t2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201g4t2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201g4t2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201g4t2
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[vinyl_red_a4_210_mm_width_297_mm_height](none)<br>[r](none)<br>[Vinyl
@@ -52,11 +186,25 @@ md5_6: 251d56
 md5_6_alpha: 1g4t2
 md5_6_alpha_upper: 1G4T2
 md5_6_upper: 251D56
-name: Vinyl Red A4 210 Mm Width 297 Mm Height
-name_no_class: Red A4 210 Mm Width 297 Mm Height
-name_no_size: Reda4210Mmwidth297Mmheight
+name: Vinyl Red A4 210 mm Width 297 mm Height
+name_no_class: Red A4 210 mm Width 297 mm Height
+name_no_color: Reda4210mmwidth297mmheight
+name_no_size: Reda4210mmwidth297mmheight
 name_no_size_short: Reda4210Mmwidth297Mmheight
-name_no_type: Reda4210Mmwidth297Mmheight
+name_no_type: Reda4210mmwidth297mmheight
+oomlout_detail_hierarchy_1: vinyl
+oomlout_detail_hierarchy_1_upper: VINYL
+oomlout_detail_hierarchy_1_upper_length_4: VINY
+oomlout_detail_hierarchy_2: red
+oomlout_detail_hierarchy_2_upper: RED
+oomlout_detail_hierarchy_2_upper_length_4: RED
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_vinyl_red_a4_210_mm_width_297_mm_height
 oomp_word: ear baby ram
 oomp_word_emoji: ':ear: :baby: :ram:'
@@ -72,13 +220,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: r
 short_code_upper: R
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -86,5 +240,6 @@ type: ''
 type_capital: ''
 type_first_letter: ''
 type_first_letter_upper: ''
+type_name: ''
 type_upper: ''
 width: 210 mm

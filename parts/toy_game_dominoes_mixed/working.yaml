@@ -1,40 +1,150 @@
+bip_39_word_dash_12: powder-media-tiger-insect-sting-oxygen-topic-warrior-world-glance-powder-age
+bip_39_word_dash_2: powder-media
+bip_39_word_dash_3: powder-media-tiger
+bip_39_word_new_br_12: powder<br>media<br>tiger<br>insect<br>sting<br>oxygen<br>topic<br>warrior<br>world<br>glance<br>powder<br>age
+bip_39_word_new_br_2: powder<br>media
+bip_39_word_new_br_3: powder<br>media<br>tiger
+bip_39_word_new_line_12: 'powder
+
+  media
+
+  tiger
+
+  insect
+
+  sting
+
+  oxygen
+
+  topic
+
+  warrior
+
+  world
+
+  glance
+
+  powder
+
+  age'
+bip_39_word_new_line_2: 'powder
+
+  media'
+bip_39_word_new_line_3: 'powder
+
+  media
+
+  tiger'
+bip_39_word_no_space_12: powdermediatigerinsectstingoxygentopicwarriorworldglancepowderage
+bip_39_word_no_space_2: powdermedia
+bip_39_word_no_space_3: powdermediatiger
+bip_39_word_space_12: powder media tiger insect sting oxygen topic warrior world glance
+  powder age
+bip_39_word_space_2: powder media
+bip_39_word_space_3: powder media tiger
+bip_39_word_underscore_12: powder_media_tiger_insect_sting_oxygen_topic_warrior_world_glance_powder_age
+bip_39_word_underscore_2: powder_media
+bip_39_word_underscore_3: powder_media_tiger
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
 classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: dominoes_mixed
 description_main_capital: Dominoes Mixed
 description_main_first_letter: d
 description_main_first_letter_upper: D
+description_main_length_1: d
+description_main_length_2: do
+description_main_length_3: dom
+description_main_length_4: domi
+description_main_length_5: domin
+description_main_length_6: domino
+description_main_name: Dominoes Mixed
+description_main_no_space_length_1: d
+description_main_no_space_length_2: do
+description_main_no_space_length_3: dom
+description_main_no_space_length_4: domi
+description_main_no_space_length_5: domin
+description_main_no_space_length_6: domino
+description_main_no_space_upper_length_1: D
+description_main_no_space_upper_length_2: DO
+description_main_no_space_upper_length_3: DOM
+description_main_no_space_upper_length_4: DOMI
+description_main_no_space_upper_length_5: DOMIN
+description_main_no_space_upper_length_6: DOMINO
 description_main_upper: DOMINOES_MIXED
+description_main_upper_length_1: D
+description_main_upper_length_2: DO
+description_main_upper_length_3: DOM
+description_main_upper_length_4: DOMI
+description_main_upper_length_5: DOMIN
+description_main_upper_length_6: DOMINO
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_game_dominoes_mixed
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_game_dominoes_mixed
 id: toy_game_dominoes_mixed
 id_no_class: game_dominoes_mixed
+id_no_color: dominoesmixed
 id_no_size: dominoesmixed
 id_no_type: dominoes_mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_dominoes_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_dominoes_mixed
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_dominoes_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_dominoes_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030lzs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030lzs
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030lzs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030lzs
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_dominoes_mixed
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_game_dominoes_mixed](none)<br>[](none)<br>[Toy Game Dominoes
@@ -51,9 +161,20 @@ md5_6_alpha_upper: 30LZS
 md5_6_upper: 4D5258
 name: Toy Game Dominoes Mixed
 name_no_class: Game Dominoes Mixed
+name_no_color: Dominoesmixed
 name_no_size: Dominoesmixed
 name_no_size_short: Dominoesmixed
 name_no_type: Dominoes Mixed
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: game
+oomlout_detail_hierarchy_2_upper: GAME
+oomlout_detail_hierarchy_2_upper_length_4: GAME
+oomlout_detail_hierarchy_3: dominoes_mixed
+oomlout_detail_hierarchy_3_upper: DOMINOES_MIXED
+oomlout_detail_hierarchy_3_upper_length_4: DOMI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_game_dominoes_mixed
 oomp_word: bug octopus water_buffalo
 oomp_word_emoji: ':bug: :octopus: :water_buffalo:'
@@ -69,13 +190,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -83,4 +210,29 @@ type: game
 type_capital: Game
 type_first_letter: g
 type_first_letter_upper: G
+type_length_1: g
+type_length_2: ga
+type_length_3: gam
+type_length_4: game
+type_length_5: game
+type_length_6: game
+type_name: Game
+type_no_space_length_1: g
+type_no_space_length_2: ga
+type_no_space_length_3: gam
+type_no_space_length_4: game
+type_no_space_length_5: game
+type_no_space_length_6: game
+type_no_space_upper_length_1: G
+type_no_space_upper_length_2: GA
+type_no_space_upper_length_3: GAM
+type_no_space_upper_length_4: GAME
+type_no_space_upper_length_5: GAME
+type_no_space_upper_length_6: GAME
 type_upper: GAME
+type_upper_length_1: G
+type_upper_length_2: GA
+type_upper_length_3: GAM
+type_upper_length_4: GAME
+type_upper_length_5: GAME
+type_upper_length_6: GAME

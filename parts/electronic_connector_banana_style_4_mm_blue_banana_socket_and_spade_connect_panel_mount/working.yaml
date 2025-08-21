@@ -1,23 +1,146 @@
+bip_39_word_dash_12: kid-voice-arctic-trip-silent-flavor-issue-shrug-repeat-uphold-loud-audit
+bip_39_word_dash_2: kid-voice
+bip_39_word_dash_3: kid-voice-arctic
+bip_39_word_new_br_12: kid<br>voice<br>arctic<br>trip<br>silent<br>flavor<br>issue<br>shrug<br>repeat<br>uphold<br>loud<br>audit
+bip_39_word_new_br_2: kid<br>voice
+bip_39_word_new_br_3: kid<br>voice<br>arctic
+bip_39_word_new_line_12: 'kid
+
+  voice
+
+  arctic
+
+  trip
+
+  silent
+
+  flavor
+
+  issue
+
+  shrug
+
+  repeat
+
+  uphold
+
+  loud
+
+  audit'
+bip_39_word_new_line_2: 'kid
+
+  voice'
+bip_39_word_new_line_3: 'kid
+
+  voice
+
+  arctic'
+bip_39_word_no_space_12: kidvoicearctictripsilentflavorissueshrugrepeatupholdloudaudit
+bip_39_word_no_space_2: kidvoice
+bip_39_word_no_space_3: kidvoicearctic
+bip_39_word_space_12: kid voice arctic trip silent flavor issue shrug repeat uphold
+  loud audit
+bip_39_word_space_2: kid voice
+bip_39_word_space_3: kid voice arctic
+bip_39_word_underscore_12: kid_voice_arctic_trip_silent_flavor_issue_shrug_repeat_uphold_loud_audit
+bip_39_word_underscore_2: kid_voice
+bip_39_word_underscore_3: kid_voice_arctic
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: blue
 color_capital: Blue
 color_first_letter: b
 color_first_letter_upper: B
+color_length_1: b
+color_length_2: bl
+color_length_3: blu
+color_length_4: blue
+color_length_5: blue
+color_length_6: blue
+color_name: Blue
+color_no_space_length_1: b
+color_no_space_length_2: bl
+color_no_space_length_3: blu
+color_no_space_length_4: blue
+color_no_space_length_5: blue
+color_no_space_length_6: blue
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BL
+color_no_space_upper_length_3: BLU
+color_no_space_upper_length_4: BLUE
+color_no_space_upper_length_5: BLUE
+color_no_space_upper_length_6: BLUE
 color_upper: BLUE
+color_upper_length_1: B
+color_upper_length_2: BL
+color_upper_length_3: BLU
+color_upper_length_4: BLUE
+color_upper_length_5: BLUE
+color_upper_length_6: BLUE
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: banana_socket_and_spade_connect_panel_mount
 description_main_capital: Banana Socket And Spade Connect Panel Mount
 description_main_first_letter: b
 description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: ba
+description_main_length_3: ban
+description_main_length_4: bana
+description_main_length_5: banan
+description_main_length_6: banana
+description_main_name: Banana Socket And Spade Connect Panel Mount
+description_main_no_space_length_1: b
+description_main_no_space_length_2: ba
+description_main_no_space_length_3: ban
+description_main_no_space_length_4: bana
+description_main_no_space_length_5: banan
+description_main_no_space_length_6: banana
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BA
+description_main_no_space_upper_length_3: BAN
+description_main_no_space_upper_length_4: BANA
+description_main_no_space_upper_length_5: BANAN
+description_main_no_space_upper_length_6: BANANA
 description_main_upper: BANANA_SOCKET_AND_SPADE_CONNECT_PANEL_MOUNT
+description_main_upper_length_1: B
+description_main_upper_length_2: BA
+description_main_upper_length_3: BAN
+description_main_upper_length_4: BANA
+description_main_upper_length_5: BANAN
+description_main_upper_length_6: BANANA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'B '
@@ -26,17 +149,28 @@ directory: parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_s
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
 id: electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
 id_no_class: connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
+id_no_color: banana_socket_and_spade_connect_panel_mount
 id_no_size: blue_banana_socket_and_spade_connect_panel_mount
 id_no_type: banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ekjf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ekjf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209ekjf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ekjf
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount](none)<br>[conl](none)<br>[Electronic
@@ -51,13 +185,33 @@ md5_6: f1087b
 md5_6_alpha: 9ekjf
 md5_6_alpha_upper: 9EKJF
 md5_6_upper: F1087B
-name: Electronic Connector Banana Style 4 Mm Blue Banana Socket And Spade Connect
+name: Electronic Connector Banana Style 4 mm Blue Banana Socket And Spade Connect
   Panel Mount
-name_no_class: Connector Banana Style 4 Mm Blue Banana Socket And Spade Connect Panel
+name_no_class: Connector Banana Style 4 mm Blue Banana Socket And Spade Connect Panel
   Mount
+name_no_color: Banana Socket And Spade Connect Panel Mount
 name_no_size: Blue Banana Socket And Spade Connect Panel Mount
 name_no_size_short: Blue Banana Socket And Spade Connect Panel Mount
-name_no_type: Banana Style 4 Mm Blue Banana Socket And Spade Connect Panel Mount
+name_no_type: Banana Style 4 mm Blue Banana Socket And Spade Connect Panel Mount
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: connector
+oomlout_detail_hierarchy_2_upper: CONNECTOR
+oomlout_detail_hierarchy_2_upper_length_4: CONN
+oomlout_detail_hierarchy_3: banana_style_4_mm
+oomlout_detail_hierarchy_3_upper: BANANA_STYLE_4_MM
+oomlout_detail_hierarchy_3_upper_length_4: BANA
+oomlout_detail_hierarchy_4: blue
+oomlout_detail_hierarchy_4_upper: BLUE
+oomlout_detail_hierarchy_4_upper_length_4: BLUE
+oomlout_detail_hierarchy_5: banana_socket_and_spade
+oomlout_detail_hierarchy_5_upper: BANANA_SOCKET_AND_SPADE
+oomlout_detail_hierarchy_5_upper_length_4: BANA
+oomlout_detail_hierarchy_6: connect_panel_mount
+oomlout_detail_hierarchy_6_upper: CONNECT_PANEL_MOUNT
+oomlout_detail_hierarchy_6_upper_length_4: CONN
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_connector_banana_style_4_mm_blue_banana_socket_and_spade_connect_panel_mount
 oomp_word: ticket scream computer
 oomp_word_emoji: ':ticket: :scream: :computer:'
@@ -73,18 +227,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: conl
 short_code_upper: CONL
 size: banana_style_4_mm
 size_capital: Banana Style 4 mm
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: ba
+size_length_3: ban
+size_length_4: bana
+size_length_5: banan
+size_length_6: banana
+size_name: Banana Style 4 mm
+size_no_space_length_1: b
+size_no_space_length_2: ba
+size_no_space_length_3: ban
+size_no_space_length_4: bana
+size_no_space_length_5: banan
+size_no_space_length_6: banana
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BA
+size_no_space_upper_length_3: BAN
+size_no_space_upper_length_4: BANA
+size_no_space_upper_length_5: BANAN
+size_no_space_upper_length_6: BANANA
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: BANANA_STYLE_4_MM
+size_upper_length_1: B
+size_upper_length_2: BA
+size_upper_length_3: BAN
+size_upper_length_4: BANA
+size_upper_length_5: BANAN
+size_upper_length_6: BANANA
 type: connector
 type_capital: Connector
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: co
+type_length_3: con
+type_length_4: conn
+type_length_5: conne
+type_length_6: connec
+type_name: Connector
+type_no_space_length_1: c
+type_no_space_length_2: co
+type_no_space_length_3: con
+type_no_space_length_4: conn
+type_no_space_length_5: conne
+type_no_space_length_6: connec
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CO
+type_no_space_upper_length_3: CON
+type_no_space_upper_length_4: CONN
+type_no_space_upper_length_5: CONNE
+type_no_space_upper_length_6: CONNEC
 type_upper: CONNECTOR
+type_upper_length_1: C
+type_upper_length_2: CO
+type_upper_length_3: CON
+type_upper_length_4: CONN
+type_upper_length_5: CONNE
+type_upper_length_6: CONNEC

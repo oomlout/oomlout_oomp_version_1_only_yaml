@@ -1,23 +1,146 @@
+bip_39_word_dash_12: side-spoil-busy-sure-holiday-question-energy-vehicle-shiver-prosper-patrol-age
+bip_39_word_dash_2: side-spoil
+bip_39_word_dash_3: side-spoil-busy
+bip_39_word_new_br_12: side<br>spoil<br>busy<br>sure<br>holiday<br>question<br>energy<br>vehicle<br>shiver<br>prosper<br>patrol<br>age
+bip_39_word_new_br_2: side<br>spoil
+bip_39_word_new_br_3: side<br>spoil<br>busy
+bip_39_word_new_line_12: 'side
+
+  spoil
+
+  busy
+
+  sure
+
+  holiday
+
+  question
+
+  energy
+
+  vehicle
+
+  shiver
+
+  prosper
+
+  patrol
+
+  age'
+bip_39_word_new_line_2: 'side
+
+  spoil'
+bip_39_word_new_line_3: 'side
+
+  spoil
+
+  busy'
+bip_39_word_no_space_12: sidespoilbusysureholidayquestionenergyvehicleshiverprosperpatrolage
+bip_39_word_no_space_2: sidespoil
+bip_39_word_no_space_3: sidespoilbusy
+bip_39_word_space_12: side spoil busy sure holiday question energy vehicle shiver
+  prosper patrol age
+bip_39_word_space_2: side spoil
+bip_39_word_space_3: side spoil busy
+bip_39_word_underscore_12: side_spoil_busy_sure_holiday_question_energy_vehicle_shiver_prosper_patrol_age
+bip_39_word_underscore_2: side_spoil
+bip_39_word_underscore_3: side_spoil_busy
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: m3_countersunk
 color_capital: M3 Countersunk
 color_first_letter: m
 color_first_letter_upper: M
+color_length_1: m
+color_length_2: m3
+color_length_3: m3_
+color_length_4: m3_c
+color_length_5: m3_co
+color_length_6: m3_cou
+color_name: M3 Countersunk
+color_no_space_length_1: m
+color_no_space_length_2: m3
+color_no_space_length_3: m3c
+color_no_space_length_4: m3co
+color_no_space_length_5: m3cou
+color_no_space_length_6: m3coun
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: M3
+color_no_space_upper_length_3: M3C
+color_no_space_upper_length_4: M3CO
+color_no_space_upper_length_5: M3COU
+color_no_space_upper_length_6: M3COUN
 color_upper: M3_COUNTERSUNK
+color_upper_length_1: M
+color_upper_length_2: M3
+color_upper_length_3: M3_
+color_upper_length_4: M3_C
+color_upper_length_5: M3_CO
+color_upper_length_6: M3_COU
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 15_mm_diameter_3_mm_depth
 description_main_capital: 15 mm Diameter 3 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: 15_m
+description_main_length_5: 15_mm
+description_main_length_6: 15_mm_
+description_main_name: 15 mm Diameter 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: 15m
+description_main_no_space_length_4: 15mm
+description_main_no_space_length_5: 15mmd
+description_main_no_space_length_6: 15mmdi
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: 15M
+description_main_no_space_upper_length_4: 15MM
+description_main_no_space_upper_length_5: 15MMD
+description_main_no_space_upper_length_6: 15MMDI
 description_main_upper: 15_MM_DIAMETER_3_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: 15_M
+description_main_upper_length_5: 15_MM
+description_main_upper_length_6: 15_MM_
 description_only_numbers: '153'
 description_only_numbers_short: '153'
 description_or_color: M153
@@ -26,17 +149,28 @@ directory: parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
 id: hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
 id_no_class: magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
+id_no_color: 15_mm_diameter_3_mm_depth
 id_no_size: m3_countersunk_15_mm_diameter_3_mm_depth
 id_no_type: disc_m3_countersunk_15_mm_diameter_3_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030iuj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030iuj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030iuj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030iuj
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth](none)<br>[](none)<br>[Hardware
@@ -51,11 +185,28 @@ md5_6: 4d426b
 md5_6_alpha: 30iuj
 md5_6_alpha_upper: 30IUJ
 md5_6_upper: 4D426B
-name: Hardware Magnet Disc M3 Countersunk 15 Mm Diameter 3 Mm Depth
-name_no_class: Magnet Disc M3 Countersunk 15 Mm Diameter 3 Mm Depth
-name_no_size: M3 Countersunk 15 Mm Diameter 3 Mm Depth
+name: Hardware Magnet Disc M3 Countersunk 15 mm Diameter 3 mm Depth
+name_no_class: Magnet Disc M3 Countersunk 15 mm Diameter 3 mm Depth
+name_no_color: 15 mm Diameter 3 mm Depth
+name_no_size: M3 Countersunk 15 mm Diameter 3 mm Depth
 name_no_size_short: M3 Countersunk 15 Mm Diameter 3 Mm Depth
-name_no_type: Disc M3 Countersunk 15 Mm Diameter 3 Mm Depth
+name_no_type: Disc M3 Countersunk 15 mm Diameter 3 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: magnet
+oomlout_detail_hierarchy_2_upper: MAGNET
+oomlout_detail_hierarchy_2_upper_length_4: MAGN
+oomlout_detail_hierarchy_3: disc
+oomlout_detail_hierarchy_3_upper: DISC
+oomlout_detail_hierarchy_3_upper_length_4: DISC
+oomlout_detail_hierarchy_4: m3_countersunk
+oomlout_detail_hierarchy_4_upper: M3_COUNTERSUNK
+oomlout_detail_hierarchy_4_upper_length_4: M3_C
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_magnet_disc_m3_countersunk_15_mm_diameter_3_mm_depth
 oomp_word: bug sheep chestnut
 oomp_word_emoji: ':bug: :sheep: :chestnut:'
@@ -71,18 +222,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: disc
 size_capital: Disc
 size_first_letter: d
 size_first_letter_upper: D
+size_length_1: d
+size_length_2: di
+size_length_3: dis
+size_length_4: disc
+size_length_5: disc
+size_length_6: disc
+size_name: Disc
+size_no_space_length_1: d
+size_no_space_length_2: di
+size_no_space_length_3: dis
+size_no_space_length_4: disc
+size_no_space_length_5: disc
+size_no_space_length_6: disc
+size_no_space_upper_length_1: D
+size_no_space_upper_length_2: DI
+size_no_space_upper_length_3: DIS
+size_no_space_upper_length_4: DISC
+size_no_space_upper_length_5: DISC
+size_no_space_upper_length_6: DISC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: DISC
+size_upper_length_1: D
+size_upper_length_2: DI
+size_upper_length_3: DIS
+size_upper_length_4: DISC
+size_upper_length_5: DISC
+size_upper_length_6: DISC
 type: magnet
 type_capital: Magnet
 type_first_letter: m
 type_first_letter_upper: M
+type_length_1: m
+type_length_2: ma
+type_length_3: mag
+type_length_4: magn
+type_length_5: magne
+type_length_6: magnet
+type_name: Magnet
+type_no_space_length_1: m
+type_no_space_length_2: ma
+type_no_space_length_3: mag
+type_no_space_length_4: magn
+type_no_space_length_5: magne
+type_no_space_length_6: magnet
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: MA
+type_no_space_upper_length_3: MAG
+type_no_space_upper_length_4: MAGN
+type_no_space_upper_length_5: MAGNE
+type_no_space_upper_length_6: MAGNET
 type_upper: MAGNET
+type_upper_length_1: M
+type_upper_length_2: MA
+type_upper_length_3: MAG
+type_upper_length_4: MAGN
+type_upper_length_5: MAGNE
+type_upper_length_6: MAGNET

@@ -1,23 +1,146 @@
+bip_39_word_dash_12: pause-vanish-donate-produce-eternal-peace-cancel-wash-plug-summer-year-absent
+bip_39_word_dash_2: pause-vanish
+bip_39_word_dash_3: pause-vanish-donate
+bip_39_word_new_br_12: pause<br>vanish<br>donate<br>produce<br>eternal<br>peace<br>cancel<br>wash<br>plug<br>summer<br>year<br>absent
+bip_39_word_new_br_2: pause<br>vanish
+bip_39_word_new_br_3: pause<br>vanish<br>donate
+bip_39_word_new_line_12: 'pause
+
+  vanish
+
+  donate
+
+  produce
+
+  eternal
+
+  peace
+
+  cancel
+
+  wash
+
+  plug
+
+  summer
+
+  year
+
+  absent'
+bip_39_word_new_line_2: 'pause
+
+  vanish'
+bip_39_word_new_line_3: 'pause
+
+  vanish
+
+  donate'
+bip_39_word_no_space_12: pausevanishdonateproduceeternalpeacecancelwashplugsummeryearabsent
+bip_39_word_no_space_2: pausevanish
+bip_39_word_no_space_3: pausevanishdonate
+bip_39_word_space_12: pause vanish donate produce eternal peace cancel wash plug summer
+  year absent
+bip_39_word_space_2: pause vanish
+bip_39_word_space_3: pause vanish donate
+bip_39_word_underscore_12: pause_vanish_donate_produce_eternal_peace_cancel_wash_plug_summer_year_absent
+bip_39_word_underscore_2: pause_vanish
+bip_39_word_underscore_3: pause_vanish_donate
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: cricut
 color_capital: Cricut
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: cr
+color_length_3: cri
+color_length_4: cric
+color_length_5: cricu
+color_length_6: cricut
+color_name: Cricut
+color_no_space_length_1: c
+color_no_space_length_2: cr
+color_no_space_length_3: cri
+color_no_space_length_4: cric
+color_no_space_length_5: cricu
+color_no_space_length_6: cricut
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CR
+color_no_space_upper_length_3: CRI
+color_no_space_upper_length_4: CRIC
+color_no_space_upper_length_5: CRICU
+color_no_space_upper_length_6: CRICUT
 color_upper: CRICUT
+color_upper_length_1: C
+color_upper_length_2: CR
+color_upper_length_3: CRI
+color_upper_length_4: CRIC
+color_upper_length_5: CRICU
+color_upper_length_6: CRICUT
 description: category_vinyl_cutter
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +150,28 @@ directory: parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
 id: category_vinyl_cutter_vinyl_cutter_cricut_tote
 id_no_class: vinyl_cutter_vinyl_cutter_cricut_tote
+id_no_color: tote
 id_no_size: cricut_tote
 id_no_type: cricut_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20gueu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20gueu
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20gueu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20gueu
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_cricut_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_vinyl_cutter_vinyl_cutter_cricut_tote](none)<br>[](none)<br>[Category
@@ -54,9 +188,26 @@ md5_6_alpha_upper: GUEU
 md5_6_upper: 0BFDF6
 name: Category Vinyl Cutter Vinyl Cutter Cricut Tote
 name_no_class: Vinyl Cutter Vinyl Cutter Cricut Tote
+name_no_color: Tote
 name_no_size: Cricut Tote
 name_no_size_short: Cricut Tote
 name_no_type: Cricut Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: vinyl_cutter
+oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
+oomlout_detail_hierarchy_2_upper_length_4: VINY
+oomlout_detail_hierarchy_3: vinyl_cutter
+oomlout_detail_hierarchy_3_upper: VINYL_CUTTER
+oomlout_detail_hierarchy_3_upper_length_4: VINY
+oomlout_detail_hierarchy_4: cricut
+oomlout_detail_hierarchy_4_upper: CRICUT
+oomlout_detail_hierarchy_4_upper_length_4: CRIC
+oomlout_detail_hierarchy_5: tote
+oomlout_detail_hierarchy_5_upper: TOTE
+oomlout_detail_hierarchy_5_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_vinyl_cutter_vinyl_cutter_cricut_tote
 oomp_word: sunglasses parking five
 oomp_word_emoji: ':sunglasses: :parking: :five:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryvinylcutter
@@ -81,11 +237,61 @@ size: vinyl_cutter
 size_capital: Vinyl Cutter
 size_first_letter: v
 size_first_letter_upper: V
+size_length_1: v
+size_length_2: vi
+size_length_3: vin
+size_length_4: viny
+size_length_5: vinyl
+size_length_6: vinyl_
+size_name: Vinyl Cutter
+size_no_space_length_1: v
+size_no_space_length_2: vi
+size_no_space_length_3: vin
+size_no_space_length_4: viny
+size_no_space_length_5: vinyl
+size_no_space_length_6: vinylc
+size_no_space_upper_length_1: V
+size_no_space_upper_length_2: VI
+size_no_space_upper_length_3: VIN
+size_no_space_upper_length_4: VINY
+size_no_space_upper_length_5: VINYL
+size_no_space_upper_length_6: VINYLC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: VINYL_CUTTER
+size_upper_length_1: V
+size_upper_length_2: VI
+size_upper_length_3: VIN
+size_upper_length_4: VINY
+size_upper_length_5: VINYL
+size_upper_length_6: VINYL_
 type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vin
+type_length_4: viny
+type_length_5: vinyl
+type_length_6: vinyl_
+type_name: Vinyl Cutter
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vin
+type_no_space_length_4: viny
+type_no_space_length_5: vinyl
+type_no_space_length_6: vinylc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VIN
+type_no_space_upper_length_4: VINY
+type_no_space_upper_length_5: VINYL
+type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VIN
+type_upper_length_4: VINY
+type_upper_length_5: VINYL
+type_upper_length_6: VINYL_

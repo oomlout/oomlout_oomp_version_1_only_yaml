@@ -1,40 +1,174 @@
+bip_39_word_dash_12: attract-muscle-custom-fortune-asset-shock-junk-follow-glimpse-feed-half-argue
+bip_39_word_dash_2: attract-muscle
+bip_39_word_dash_3: attract-muscle-custom
+bip_39_word_new_br_12: attract<br>muscle<br>custom<br>fortune<br>asset<br>shock<br>junk<br>follow<br>glimpse<br>feed<br>half<br>argue
+bip_39_word_new_br_2: attract<br>muscle
+bip_39_word_new_br_3: attract<br>muscle<br>custom
+bip_39_word_new_line_12: 'attract
+
+  muscle
+
+  custom
+
+  fortune
+
+  asset
+
+  shock
+
+  junk
+
+  follow
+
+  glimpse
+
+  feed
+
+  half
+
+  argue'
+bip_39_word_new_line_2: 'attract
+
+  muscle'
+bip_39_word_new_line_3: 'attract
+
+  muscle
+
+  custom'
+bip_39_word_no_space_12: attractmusclecustomfortuneassetshockjunkfollowglimpsefeedhalfargue
+bip_39_word_no_space_2: attractmuscle
+bip_39_word_no_space_3: attractmusclecustom
+bip_39_word_space_12: attract muscle custom fortune asset shock junk follow glimpse
+  feed half argue
+bip_39_word_space_2: attract muscle
+bip_39_word_space_3: attract muscle custom
+bip_39_word_underscore_12: attract_muscle_custom_fortune_asset_shock_junk_follow_glimpse_feed_half_argue
+bip_39_word_underscore_2: attract_muscle
+bip_39_word_underscore_3: attract_muscle_custom
 classification: three_d_printer
 classification_capital: Three D Printer
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: th
+classification_length_3: thr
+classification_length_4: thre
+classification_length_5: three
+classification_length_6: three_
+classification_name: Three D Printer
+classification_no_space_length_1: t
+classification_no_space_length_2: th
+classification_no_space_length_3: thr
+classification_no_space_length_4: thre
+classification_no_space_length_5: three
+classification_no_space_length_6: threed
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TH
+classification_no_space_upper_length_3: THR
+classification_no_space_upper_length_4: THRE
+classification_no_space_upper_length_5: THREE
+classification_no_space_upper_length_6: THREED
 classification_upper: THREE_D_PRINTER
+classification_upper_length_1: T
+classification_upper_length_2: TH
+classification_upper_length_3: THR
+classification_upper_length_4: THRE
+classification_upper_length_5: THREE
+classification_upper_length_6: THREE_
 color: brass
 color_capital: Brass
 color_first_letter: b
 color_first_letter_upper: B
+color_length_1: b
+color_length_2: br
+color_length_3: bra
+color_length_4: bras
+color_length_5: brass
+color_length_6: brass
+color_name: Brass
+color_no_space_length_1: b
+color_no_space_length_2: br
+color_no_space_length_3: bra
+color_no_space_length_4: bras
+color_no_space_length_5: brass
+color_no_space_length_6: brass
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BR
+color_no_space_upper_length_3: BRA
+color_no_space_upper_length_4: BRAS
+color_no_space_upper_length_5: BRASS
+color_no_space_upper_length_6: BRASS
 color_upper: BRASS
+color_upper_length_1: B
+color_upper_length_2: BR
+color_upper_length_3: BRA
+color_upper_length_4: BRAS
+color_upper_length_5: BRASS
+color_upper_length_6: BRASS
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 1_0_mm_diameter_nozzle
 description_main_capital: 1 0 mm Diameter Nozzle
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '1_'
+description_main_length_3: '1_0'
+description_main_length_4: '1_0_'
+description_main_length_5: 1_0_m
+description_main_length_6: 1_0_mm
+description_main_name: 1 0 mm Diameter Nozzle
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: 10m
+description_main_no_space_length_4: 10mm
+description_main_no_space_length_5: 10mmd
+description_main_no_space_length_6: 10mmdi
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: 10M
+description_main_no_space_upper_length_4: 10MM
+description_main_no_space_upper_length_5: 10MMD
+description_main_no_space_upper_length_6: 10MMDI
 description_main_upper: 1_0_MM_DIAMETER_NOZZLE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '1_'
+description_main_upper_length_3: '1_0'
+description_main_upper_length_4: '1_0_'
+description_main_upper_length_5: 1_0_M
+description_main_upper_length_6: 1_0_MM
 description_only_numbers: '10'
 description_only_numbers_short: '10'
 description_or_color: B10
 description_or_color_upper: B10
 directory: parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
 id: three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
 id_no_class: nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
+id_no_color: 1_0_mm_diameter_nozzle
 id_no_size: brass_1_0_mm_diameter_nozzle
 id_no_type: volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2077lqt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2077lqt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2077lqt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2077lqt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle](none)<br>[](none)<br>[Three
@@ -49,11 +183,28 @@ md5_6: b8d0d5
 md5_6_alpha: 77lqt
 md5_6_alpha_upper: 77LQT
 md5_6_upper: B8D0D5
-name: Three D Printer Nozzle Volcano 1 75 Mm Filament Brass 1 0 Mm Diameter Nozzle
-name_no_class: Nozzle Volcano 1 75 Mm Filament Brass 1 0 Mm Diameter Nozzle
-name_no_size: Brass 1 0 Mm Diameter Nozzle
+name: Three D Printer Nozzle Volcano 1 75 mm Filament Brass 1 0 mm Diameter Nozzle
+name_no_class: Nozzle Volcano 1 75 mm Filament Brass 1 0 mm Diameter Nozzle
+name_no_color: 1 0 mm Diameter Nozzle
+name_no_size: Brass 1 0 mm Diameter Nozzle
 name_no_size_short: Brass 1 0 Mm Diameter Nozzle
-name_no_type: Volcano 1 75 Mm Filament Brass 1 0 Mm Diameter Nozzle
+name_no_type: Volcano 1 75 mm Filament Brass 1 0 mm Diameter Nozzle
+oomlout_detail_hierarchy_1: three_d_printer
+oomlout_detail_hierarchy_1_upper: THREE_D_PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: THRE
+oomlout_detail_hierarchy_2: nozzle
+oomlout_detail_hierarchy_2_upper: NOZZLE
+oomlout_detail_hierarchy_2_upper_length_4: NOZZ
+oomlout_detail_hierarchy_3: volcano_1_75_mm_filament
+oomlout_detail_hierarchy_3_upper: VOLCANO_1_75_MM_FILAMENT
+oomlout_detail_hierarchy_3_upper_length_4: VOLC
+oomlout_detail_hierarchy_4: brass
+oomlout_detail_hierarchy_4_upper: BRASS
+oomlout_detail_hierarchy_4_upper_length_4: BRAS
+oomlout_detail_hierarchy_5: 1_0_mm_diameter_nozzle
+oomlout_detail_hierarchy_5_upper: 1_0_MM_DIAMETER_NOZZLE
+oomlout_detail_hierarchy_5_upper_length_4: 1_0D
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_three_d_printer_nozzle_volcano_1_75_mm_filament_brass_1_0_mm_diameter_nozzle
 oomp_word: hamburger banana house
 oomp_word_emoji: ':hamburger: :banana: :house:'
@@ -69,18 +220,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: volcano_1_75_mm_filament
 size_capital: Volcano 1.75 mm Filament
 size_first_letter: v
 size_first_letter_upper: V
+size_length_1: v
+size_length_2: vo
+size_length_3: vol
+size_length_4: volc
+size_length_5: volca
+size_length_6: volcan
+size_name: Volcano 1 75 mm Filament
+size_no_space_length_1: v
+size_no_space_length_2: vo
+size_no_space_length_3: vol
+size_no_space_length_4: volc
+size_no_space_length_5: volca
+size_no_space_length_6: volcan
+size_no_space_upper_length_1: V
+size_no_space_upper_length_2: VO
+size_no_space_upper_length_3: VOL
+size_no_space_upper_length_4: VOLC
+size_no_space_upper_length_5: VOLCA
+size_no_space_upper_length_6: VOLCAN
 size_only_numbers: '175'
 size_only_numbers_no_zeros: '175'
 size_upper: VOLCANO_1_75_MM_FILAMENT
+size_upper_length_1: V
+size_upper_length_2: VO
+size_upper_length_3: VOL
+size_upper_length_4: VOLC
+size_upper_length_5: VOLCA
+size_upper_length_6: VOLCAN
 type: nozzle
 type_capital: Nozzle
 type_first_letter: n
 type_first_letter_upper: N
+type_length_1: n
+type_length_2: 'no'
+type_length_3: noz
+type_length_4: nozz
+type_length_5: nozzl
+type_length_6: nozzle
+type_name: Nozzle
+type_no_space_length_1: n
+type_no_space_length_2: 'no'
+type_no_space_length_3: noz
+type_no_space_length_4: nozz
+type_no_space_length_5: nozzl
+type_no_space_length_6: nozzle
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: 'NO'
+type_no_space_upper_length_3: NOZ
+type_no_space_upper_length_4: NOZZ
+type_no_space_upper_length_5: NOZZL
+type_no_space_upper_length_6: NOZZLE
 type_upper: NOZZLE
+type_upper_length_1: N
+type_upper_length_2: 'NO'
+type_upper_length_3: NOZ
+type_upper_length_4: NOZZ
+type_upper_length_5: NOZZL
+type_upper_length_6: NOZZLE

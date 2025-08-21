@@ -1,40 +1,150 @@
+bip_39_word_dash_12: cause-mix-midnight-stool-echo-giant-balance-short-blood-frown-mix-alien
+bip_39_word_dash_2: cause-mix
+bip_39_word_dash_3: cause-mix-midnight
+bip_39_word_new_br_12: cause<br>mix<br>midnight<br>stool<br>echo<br>giant<br>balance<br>short<br>blood<br>frown<br>mix<br>alien
+bip_39_word_new_br_2: cause<br>mix
+bip_39_word_new_br_3: cause<br>mix<br>midnight
+bip_39_word_new_line_12: 'cause
+
+  mix
+
+  midnight
+
+  stool
+
+  echo
+
+  giant
+
+  balance
+
+  short
+
+  blood
+
+  frown
+
+  mix
+
+  alien'
+bip_39_word_new_line_2: 'cause
+
+  mix'
+bip_39_word_new_line_3: 'cause
+
+  mix
+
+  midnight'
+bip_39_word_no_space_12: causemixmidnightstoolechogiantbalanceshortbloodfrownmixalien
+bip_39_word_no_space_2: causemix
+bip_39_word_no_space_3: causemixmidnight
+bip_39_word_space_12: cause mix midnight stool echo giant balance short blood frown
+  mix alien
+bip_39_word_space_2: cause mix
+bip_39_word_space_3: cause mix midnight
+bip_39_word_underscore_12: cause_mix_midnight_stool_echo_giant_balance_short_blood_frown_mix_alien
+bip_39_word_underscore_2: cause_mix
+bip_39_word_underscore_3: cause_mix_midnight
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 5_pin
 description_main_capital: 5 Pin
 description_main_first_letter: '5'
 description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_p
+description_main_length_4: 5_pi
+description_main_length_5: 5_pin
+description_main_length_6: 5_pin
+description_main_name: 5 Pin
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: 5p
+description_main_no_space_length_3: 5pi
+description_main_no_space_length_4: 5pin
+description_main_no_space_length_5: 5pin
+description_main_no_space_length_6: 5pin
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: 5P
+description_main_no_space_upper_length_3: 5PI
+description_main_no_space_upper_length_4: 5PIN
+description_main_no_space_upper_length_5: 5PIN
+description_main_no_space_upper_length_6: 5PIN
 description_main_upper: 5_PIN
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_P
+description_main_upper_length_4: 5_PI
+description_main_upper_length_5: 5_PIN
+description_main_upper_length_6: 5_PIN
 description_only_numbers: '5'
 description_only_numbers_short: '5'
 description_or_color: '5'
 description_or_color_upper: '5'
 directory: parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
 id: electronic_screw_terminal_3_5_mm_pitch_5_pin
 id_no_class: screw_terminal_3_5_mm_pitch_5_pin
+id_no_color: 5pin
 id_no_size: 5_pin
 id_no_type: 3_5_mm_pitch_5_pin
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203y0wn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203y0wn
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203y0wn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203y0wn
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_3_5_mm_pitch_5_pin
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_screw_terminal_3_5_mm_pitch_5_pin](none)<br>[5p](none)<br>[Electronic
@@ -49,11 +159,25 @@ md5_6: 651c17
 md5_6_alpha: 3y0wn
 md5_6_alpha_upper: 3Y0WN
 md5_6_upper: 651C17
-name: Electronic Screw Terminal 3 5 Mm Pitch 5 Pin
-name_no_class: Screw Terminal 3 5 Mm Pitch 5 Pin
+name: Electronic Screw Terminal 3 5 mm Pitch 5 Pin
+name_no_class: Screw Terminal 3 5 mm Pitch 5 Pin
+name_no_color: 5Pin
 name_no_size: 5 Pin
 name_no_size_short: 5 Pin
-name_no_type: 3 5 Mm Pitch 5 Pin
+name_no_type: 3 5 mm Pitch 5 Pin
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: sterminal
+oomlout_detail_hierarchy_2_upper: STERMINAL
+oomlout_detail_hierarchy_2_upper_length_4: STER
+oomlout_detail_hierarchy_3: 3_5_mm_pitch
+oomlout_detail_hierarchy_3_upper: 3_5_MM_PITCH
+oomlout_detail_hierarchy_3_upper_length_4: 3_5P
+oomlout_detail_hierarchy_4: 5_pin
+oomlout_detail_hierarchy_4_upper: 5_PIN
+oomlout_detail_hierarchy_4_upper_length_4: 5_PI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_screw_terminal_3_5_mm_pitch_5_pin
 oomp_word: maple_leaf dancer thumbsdown
 oomp_word_emoji: ':maple_leaf: :dancer: :thumbsdown:'
@@ -70,7 +194,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: 5p
 short_code_upper: 5P
 short_name: ''
@@ -78,11 +207,61 @@ size: 3_5_mm_pitch
 size_capital: 3.5 mm Pitch
 size_first_letter: '3'
 size_first_letter_upper: '3'
+size_length_1: '3'
+size_length_2: '3_'
+size_length_3: '3_5'
+size_length_4: '3_5_'
+size_length_5: 3_5_m
+size_length_6: 3_5_mm
+size_name: 3 5 mm Pitch
+size_no_space_length_1: '3'
+size_no_space_length_2: '35'
+size_no_space_length_3: 35m
+size_no_space_length_4: 35mm
+size_no_space_length_5: 35mmp
+size_no_space_length_6: 35mmpi
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: '35'
+size_no_space_upper_length_3: 35M
+size_no_space_upper_length_4: 35MM
+size_no_space_upper_length_5: 35MMP
+size_no_space_upper_length_6: 35MMPI
 size_only_numbers: '35'
 size_only_numbers_no_zeros: '35'
 size_upper: 3_5_MM_PITCH
+size_upper_length_1: '3'
+size_upper_length_2: '3_'
+size_upper_length_3: '3_5'
+size_upper_length_4: '3_5_'
+size_upper_length_5: 3_5_M
+size_upper_length_6: 3_5_MM
 type: screw_terminal
 type_capital: Screw Terminal
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_name: Screw Terminal
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screwt
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWT
 type_upper: SCREW_TERMINAL
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

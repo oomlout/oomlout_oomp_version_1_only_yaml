@@ -1,23 +1,146 @@
+bip_39_word_dash_12: police-muffin-level-retreat-believe-foot-visa-squirrel-write-firm-fall-around
+bip_39_word_dash_2: police-muffin
+bip_39_word_dash_3: police-muffin-level
+bip_39_word_new_br_12: police<br>muffin<br>level<br>retreat<br>believe<br>foot<br>visa<br>squirrel<br>write<br>firm<br>fall<br>around
+bip_39_word_new_br_2: police<br>muffin
+bip_39_word_new_br_3: police<br>muffin<br>level
+bip_39_word_new_line_12: 'police
+
+  muffin
+
+  level
+
+  retreat
+
+  believe
+
+  foot
+
+  visa
+
+  squirrel
+
+  write
+
+  firm
+
+  fall
+
+  around'
+bip_39_word_new_line_2: 'police
+
+  muffin'
+bip_39_word_new_line_3: 'police
+
+  muffin
+
+  level'
+bip_39_word_no_space_12: policemuffinlevelretreatbelievefootvisasquirrelwritefirmfallaround
+bip_39_word_no_space_2: policemuffin
+bip_39_word_no_space_3: policemuffinlevel
+bip_39_word_space_12: police muffin level retreat believe foot visa squirrel write
+  firm fall around
+bip_39_word_space_2: police muffin
+bip_39_word_space_3: police muffin level
+bip_39_word_underscore_12: police_muffin_level_retreat_believe_foot_visa_squirrel_write_firm_fall_around
+bip_39_word_underscore_2: police_muffin
+bip_39_word_underscore_3: police_muffin_level
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: converter
 color_capital: Converter
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: con
+color_length_4: conv
+color_length_5: conve
+color_length_6: conver
+color_name: Converter
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: con
+color_no_space_length_4: conv
+color_no_space_length_5: conve
+color_no_space_length_6: conver
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: CON
+color_no_space_upper_length_4: CONV
+color_no_space_upper_length_5: CONVE
+color_no_space_upper_length_6: CONVER
 color_upper: CONVERTER
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: CON
+color_upper_length_4: CONV
+color_upper_length_5: CONVE
+color_upper_length_6: CONVER
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: usb_to_serial_converter
 description_main_capital: Usb To Serial Converter
 description_main_first_letter: u
 description_main_first_letter_upper: U
+description_main_length_1: u
+description_main_length_2: us
+description_main_length_3: usb
+description_main_length_4: usb_
+description_main_length_5: usb_t
+description_main_length_6: usb_to
+description_main_name: USB To Serial Converter
+description_main_no_space_length_1: u
+description_main_no_space_length_2: us
+description_main_no_space_length_3: usb
+description_main_no_space_length_4: usbt
+description_main_no_space_length_5: usbto
+description_main_no_space_length_6: usbtos
+description_main_no_space_upper_length_1: U
+description_main_no_space_upper_length_2: US
+description_main_no_space_upper_length_3: USB
+description_main_no_space_upper_length_4: USBT
+description_main_no_space_upper_length_5: USBTO
+description_main_no_space_upper_length_6: USBTOS
 description_main_upper: USB_TO_SERIAL_CONVERTER
+description_main_upper_length_1: U
+description_main_upper_length_2: US
+description_main_upper_length_3: USB
+description_main_upper_length_4: USB_
+description_main_upper_length_5: USB_T
+description_main_upper_length_6: USB_TO
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'C '
@@ -28,19 +151,54 @@ distributors:
   link: https://lcsc.com/product-detail/C968586.html
   name: LCSC
   part_number: C968586
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 id: electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 id_no_class: ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+id_no_color: usb_to_serial_wch_ch340k
 id_no_size: converter_usb_to_serial_converter_wch_ch340k
 id_no_type: essop_10_converter_usb_to_serial_converter_wch_ch340k
 kicad_reference: U
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207lemt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207lemt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207lemt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207lemt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 manufacturer: wch
 manufacturer_capital: Wch
 manufacturer_first_letter: w
 manufacturer_first_letter_upper: W
+manufacturer_length_1: w
+manufacturer_length_2: wc
+manufacturer_length_3: wch
+manufacturer_length_4: wch
+manufacturer_length_5: wch
+manufacturer_length_6: wch
+manufacturer_name: Wch
+manufacturer_no_space_length_1: w
+manufacturer_no_space_length_2: wc
+manufacturer_no_space_length_3: wch
+manufacturer_no_space_length_4: wch
+manufacturer_no_space_length_5: wch
+manufacturer_no_space_length_6: wch
+manufacturer_no_space_upper_length_1: W
+manufacturer_no_space_upper_length_2: WC
+manufacturer_no_space_upper_length_3: WCH
+manufacturer_no_space_upper_length_4: WCH
+manufacturer_no_space_upper_length_5: WCH
+manufacturer_no_space_upper_length_6: WCH
 manufacturer_upper: WCH
+manufacturer_upper_length_1: W
+manufacturer_upper_length_2: WC
+manufacturer_upper_length_3: WCH
+manufacturer_upper_length_4: WCH
+manufacturer_upper_length_5: WCH
+manufacturer_upper_length_6: WCH
 manufacturers: []
 markdown_full: '[electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k](none)<br>[i](none)<br>[Electronic
   Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K](none)<br>[LCSC - C968586<br>](https://lcsc.com/product-detail/C968586.html)<br>'
@@ -55,12 +213,35 @@ md5_6: c2a455
 md5_6_alpha: 7lemt
 md5_6_alpha_upper: 7LEMT
 md5_6_upper: C2A455
-name: Electronic Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K
-name_no_class: Ic Essop 10 Converter Usb To Serial Converter Wch Ch340K
-name_no_size: Converter Usb To Serial Converter Wch Ch340K
+name: Electronic IC Essop 10 Converter USB To Serial Converter Wch Ch340K
+name_no_class: IC Essop 10 Converter USB To Serial Converter Wch Ch340K
+name_no_color: USB To Serial Wch Ch340K
+name_no_size: Converter USB To Serial Converter Wch Ch340K
 name_no_size_short: Converter Usb To Serial Converter Wch Ch340K
-name_no_type: Essop 10 Converter Usb To Serial Converter Wch Ch340K
+name_no_type: Essop 10 Converter USB To Serial Converter Wch Ch340K
 notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ic
+oomlout_detail_hierarchy_2_upper: IC
+oomlout_detail_hierarchy_2_upper_length_4: IC
+oomlout_detail_hierarchy_3: essop_10
+oomlout_detail_hierarchy_3_upper: ESSOP_10
+oomlout_detail_hierarchy_3_upper_length_4: ESSO
+oomlout_detail_hierarchy_4: converter
+oomlout_detail_hierarchy_4_upper: CONVERTER
+oomlout_detail_hierarchy_4_upper_length_4: CONV
+oomlout_detail_hierarchy_5: usb_to_serial_converter
+oomlout_detail_hierarchy_5_upper: USB_TO_SERIAL_CONVERTER
+oomlout_detail_hierarchy_5_upper_length_4: USB_
+oomlout_detail_hierarchy_6: wch
+oomlout_detail_hierarchy_6_upper: WCH
+oomlout_detail_hierarchy_6_upper_length_4: WCH
+oomlout_detail_hierarchy_7: ch340k
+oomlout_detail_hierarchy_7_upper: CH340K
+oomlout_detail_hierarchy_7_upper_length_4: CH34
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_essop_10_converter_usb_to_serial_converter_wch_ch340k
 oomp_word: birthday book dolphin
 oomp_word_emoji: ':birthday: :book: :dolphin:'
@@ -76,7 +257,32 @@ part_number: ch340k
 part_number_capital: Ch340K
 part_number_first_letter: c
 part_number_first_letter_upper: C
+part_number_length_1: c
+part_number_length_2: ch
+part_number_length_3: ch3
+part_number_length_4: ch34
+part_number_length_5: ch340
+part_number_length_6: ch340k
+part_number_name: Ch340K
+part_number_no_space_length_1: c
+part_number_no_space_length_2: ch
+part_number_no_space_length_3: ch3
+part_number_no_space_length_4: ch34
+part_number_no_space_length_5: ch340
+part_number_no_space_length_6: ch340k
+part_number_no_space_upper_length_1: C
+part_number_no_space_upper_length_2: CH
+part_number_no_space_upper_length_3: CH3
+part_number_no_space_upper_length_4: CH34
+part_number_no_space_upper_length_5: CH340
+part_number_no_space_upper_length_6: CH340K
 part_number_upper: CH340K
+part_number_upper_length_1: C
+part_number_upper_length_2: CH
+part_number_upper_length_3: CH3
+part_number_upper_length_4: CH34
+part_number_upper_length_5: CH340
+part_number_upper_length_6: CH340K
 pins:
   pin_1:
     name: gnd
@@ -118,6 +324,10 @@ pins:
     name: rxd
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: i
 short_code_upper: I
 short_name: usb to serial converter (ch340k)
@@ -125,11 +335,61 @@ size: essop_10
 size_capital: Essop 10
 size_first_letter: e
 size_first_letter_upper: E
+size_length_1: e
+size_length_2: es
+size_length_3: ess
+size_length_4: esso
+size_length_5: essop
+size_length_6: essop_
+size_name: Essop 10
+size_no_space_length_1: e
+size_no_space_length_2: es
+size_no_space_length_3: ess
+size_no_space_length_4: esso
+size_no_space_length_5: essop
+size_no_space_length_6: essop1
+size_no_space_upper_length_1: E
+size_no_space_upper_length_2: ES
+size_no_space_upper_length_3: ESS
+size_no_space_upper_length_4: ESSO
+size_no_space_upper_length_5: ESSOP
+size_no_space_upper_length_6: ESSOP1
 size_only_numbers: '10'
 size_only_numbers_no_zeros: '1'
 size_upper: ESSOP_10
+size_upper_length_1: E
+size_upper_length_2: ES
+size_upper_length_3: ESS
+size_upper_length_4: ESSO
+size_upper_length_5: ESSOP
+size_upper_length_6: ESSOP_
 type: ic
 type_capital: Ic
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: ic
+type_length_3: ic
+type_length_4: ic
+type_length_5: ic
+type_length_6: ic
+type_name: IC
+type_no_space_length_1: i
+type_no_space_length_2: ic
+type_no_space_length_3: ic
+type_no_space_length_4: ic
+type_no_space_length_5: ic
+type_no_space_length_6: ic
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IC
+type_no_space_upper_length_3: IC
+type_no_space_upper_length_4: IC
+type_no_space_upper_length_5: IC
+type_no_space_upper_length_6: IC
 type_upper: IC
+type_upper_length_1: I
+type_upper_length_2: IC
+type_upper_length_3: IC
+type_upper_length_4: IC
+type_upper_length_5: IC
+type_upper_length_6: IC

@@ -1,40 +1,150 @@
+bip_39_word_dash_12: tortoise-shaft-another-cable-bleak-stairs-enroll-flower-flower-flush-please-antenna
+bip_39_word_dash_2: tortoise-shaft
+bip_39_word_dash_3: tortoise-shaft-another
+bip_39_word_new_br_12: tortoise<br>shaft<br>another<br>cable<br>bleak<br>stairs<br>enroll<br>flower<br>flower<br>flush<br>please<br>antenna
+bip_39_word_new_br_2: tortoise<br>shaft
+bip_39_word_new_br_3: tortoise<br>shaft<br>another
+bip_39_word_new_line_12: 'tortoise
+
+  shaft
+
+  another
+
+  cable
+
+  bleak
+
+  stairs
+
+  enroll
+
+  flower
+
+  flower
+
+  flush
+
+  please
+
+  antenna'
+bip_39_word_new_line_2: 'tortoise
+
+  shaft'
+bip_39_word_new_line_3: 'tortoise
+
+  shaft
+
+  another'
+bip_39_word_no_space_12: tortoiseshaftanothercablebleakstairsenrollflowerflowerflushpleaseantenna
+bip_39_word_no_space_2: tortoiseshaft
+bip_39_word_no_space_3: tortoiseshaftanother
+bip_39_word_space_12: tortoise shaft another cable bleak stairs enroll flower flower
+  flush please antenna
+bip_39_word_space_2: tortoise shaft
+bip_39_word_space_3: tortoise shaft another
+bip_39_word_underscore_12: tortoise_shaft_another_cable_bleak_stairs_enroll_flower_flower_flush_please_antenna
+bip_39_word_underscore_2: tortoise_shaft
+bip_39_word_underscore_3: tortoise_shaft_another
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 7_5_degree_step_angle_12_volt
 description_main_capital: 7.5 Degree Step Angle 12 Volt
 description_main_first_letter: '7'
 description_main_first_letter_upper: '7'
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: '7_5'
+description_main_length_4: '7_5_'
+description_main_length_5: 7_5_d
+description_main_length_6: 7_5_de
+description_main_name: 7 5 Degree Step Angle 12 Volt
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: '75'
+description_main_no_space_length_3: 75d
+description_main_no_space_length_4: 75de
+description_main_no_space_length_5: 75deg
+description_main_no_space_length_6: 75degr
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: '75'
+description_main_no_space_upper_length_3: 75D
+description_main_no_space_upper_length_4: 75DE
+description_main_no_space_upper_length_5: 75DEG
+description_main_no_space_upper_length_6: 75DEGR
 description_main_upper: 7_5_DEGREE_STEP_ANGLE_12_VOLT
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: '7_5'
+description_main_upper_length_4: '7_5_'
+description_main_upper_length_5: 7_5_D
+description_main_upper_length_6: 7_5_DE
 description_only_numbers: '7512'
 description_only_numbers_short: 7k5
 description_or_color: 7k5
 description_or_color_upper: 7K5
 directory: parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
 id: mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
 id_no_class: motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
+id_no_color: 75degreestepangle12volt
 id_no_size: 7_5_degree_step_angle_12_volt
 id_no_type: 42_mm_diameter_7_5_degree_step_angle_12_volt
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2064yc6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2064yc6
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2064yc6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2064yc6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt](none)<br>[](none)<br>[Mechanical
@@ -49,11 +159,28 @@ md5_6: 9d4cd6
 md5_6_alpha: 64yc6
 md5_6_alpha_upper: 64YC6
 md5_6_upper: 9D4CD6
-name: Mechanical Motor Stepper 42 Mm Diameter 7 5 Degree Step Angle 12 Volt
-name_no_class: Motor Stepper 42 Mm Diameter 7 5 Degree Step Angle 12 Volt
+name: Mechanical Motor Stepper 42 mm Diameter 7 5 Degree Step Angle 12 Volt
+name_no_class: Motor Stepper 42 mm Diameter 7 5 Degree Step Angle 12 Volt
+name_no_color: 75Degreestepangle12Volt
 name_no_size: 7 5 Degree Step Angle 12 Volt
 name_no_size_short: 7 5 Degree Step Angle 12 Volt
-name_no_type: 42 Mm Diameter 7 5 Degree Step Angle 12 Volt
+name_no_type: 42 mm Diameter 7 5 Degree Step Angle 12 Volt
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: motor_stepper
+oomlout_detail_hierarchy_2_upper: MOTOR_STEPPER
+oomlout_detail_hierarchy_2_upper_length_4: MOTO
+oomlout_detail_hierarchy_3: 42_mm_diameter
+oomlout_detail_hierarchy_3_upper: 42_MM_DIAMETER
+oomlout_detail_hierarchy_3_upper_length_4: 42DI
+oomlout_detail_hierarchy_4: 7_5_degree_step
+oomlout_detail_hierarchy_4_upper: 7_5_DEGREE_STEP
+oomlout_detail_hierarchy_4_upper_length_4: '7_5_'
+oomlout_detail_hierarchy_5: angle_12_volt
+oomlout_detail_hierarchy_5_upper: ANGLE_12_VOLT
+oomlout_detail_hierarchy_5_upper_length_4: ANGL
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_motor_stepper_42_mm_diameter_7_5_degree_step_angle_12_volt
 oomp_word: hearts turtle school
 oomp_word_emoji: ':hearts: :turtle: :school:'
@@ -69,18 +196,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 42_mm_diameter
 size_capital: 42 mm Diameter
 size_first_letter: '4'
 size_first_letter_upper: '4'
+size_length_1: '4'
+size_length_2: '42'
+size_length_3: '42_'
+size_length_4: 42_m
+size_length_5: 42_mm
+size_length_6: 42_mm_
+size_name: 42 mm Diameter
+size_no_space_length_1: '4'
+size_no_space_length_2: '42'
+size_no_space_length_3: 42m
+size_no_space_length_4: 42mm
+size_no_space_length_5: 42mmd
+size_no_space_length_6: 42mmdi
+size_no_space_upper_length_1: '4'
+size_no_space_upper_length_2: '42'
+size_no_space_upper_length_3: 42M
+size_no_space_upper_length_4: 42MM
+size_no_space_upper_length_5: 42MMD
+size_no_space_upper_length_6: 42MMDI
 size_only_numbers: '42'
 size_only_numbers_no_zeros: '42'
 size_upper: 42_MM_DIAMETER
+size_upper_length_1: '4'
+size_upper_length_2: '42'
+size_upper_length_3: '42_'
+size_upper_length_4: 42_M
+size_upper_length_5: 42_MM
+size_upper_length_6: 42_MM_
 type: motor_stepper
 type_capital: Motor Stepper
 type_first_letter: m
 type_first_letter_upper: M
+type_length_1: m
+type_length_2: mo
+type_length_3: mot
+type_length_4: moto
+type_length_5: motor
+type_length_6: motor_
+type_name: Motor Stepper
+type_no_space_length_1: m
+type_no_space_length_2: mo
+type_no_space_length_3: mot
+type_no_space_length_4: moto
+type_no_space_length_5: motor
+type_no_space_length_6: motors
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: MO
+type_no_space_upper_length_3: MOT
+type_no_space_upper_length_4: MOTO
+type_no_space_upper_length_5: MOTOR
+type_no_space_upper_length_6: MOTORS
 type_upper: MOTOR_STEPPER
+type_upper_length_1: M
+type_upper_length_2: MO
+type_upper_length_3: MOT
+type_upper_length_4: MOTO
+type_upper_length_5: MOTOR
+type_upper_length_6: MOTOR_

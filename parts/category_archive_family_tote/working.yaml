@@ -1,23 +1,122 @@
+bip_39_word_dash_12: state-material-priority-round-boring-rally-month-fragile-wear-divert-dove-anchor
+bip_39_word_dash_2: state-material
+bip_39_word_dash_3: state-material-priority
+bip_39_word_new_br_12: state<br>material<br>priority<br>round<br>boring<br>rally<br>month<br>fragile<br>wear<br>divert<br>dove<br>anchor
+bip_39_word_new_br_2: state<br>material
+bip_39_word_new_br_3: state<br>material<br>priority
+bip_39_word_new_line_12: 'state
+
+  material
+
+  priority
+
+  round
+
+  boring
+
+  rally
+
+  month
+
+  fragile
+
+  wear
+
+  divert
+
+  dove
+
+  anchor'
+bip_39_word_new_line_2: 'state
+
+  material'
+bip_39_word_new_line_3: 'state
+
+  material
+
+  priority'
+bip_39_word_no_space_12: statematerialpriorityroundboringrallymonthfragileweardivertdoveanchor
+bip_39_word_no_space_2: statematerial
+bip_39_word_no_space_3: statematerialpriority
+bip_39_word_space_12: state material priority round boring rally month fragile wear
+  divert dove anchor
+bip_39_word_space_2: state material
+bip_39_word_space_3: state material priority
+bip_39_word_underscore_12: state_material_priority_round_boring_rally_month_fragile_wear_divert_dove_anchor
+bip_39_word_underscore_2: state_material
+bip_39_word_underscore_3: state_material_priority
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_archive
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +126,28 @@ directory: parts/category_archive_family_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_archive_family_tote
 id: category_archive_family_tote
 id_no_class: archive_family_tote
+id_no_color: tote
 id_no_size: tote
 id_no_type: family_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_family_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_family_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_family_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_family_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2058y33
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2058y33
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2058y33
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2058y33
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_family_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_archive_family_tote](none)<br>[](none)<br>[Category Archive
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 58Y33
 md5_6_upper: 86838F
 name: Category Archive Family Tote
 name_no_class: Archive Family Tote
+name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Family Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: archive
+oomlout_detail_hierarchy_2_upper: ARCHIVE
+oomlout_detail_hierarchy_2_upper_length_4: ARCH
+oomlout_detail_hierarchy_3: family
+oomlout_detail_hierarchy_3_upper: FAMILY
+oomlout_detail_hierarchy_3_upper_length_4: FAMI
+oomlout_detail_hierarchy_4: tote
+oomlout_detail_hierarchy_4_upper: TOTE
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_archive_family_tote
 oomp_word: bath lock calendar
 oomp_word_emoji: ':bath: :lock: :calendar:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryarchive
@@ -81,11 +210,61 @@ size: family
 size_capital: Family
 size_first_letter: f
 size_first_letter_upper: F
+size_length_1: f
+size_length_2: fa
+size_length_3: fam
+size_length_4: fami
+size_length_5: famil
+size_length_6: family
+size_name: Family
+size_no_space_length_1: f
+size_no_space_length_2: fa
+size_no_space_length_3: fam
+size_no_space_length_4: fami
+size_no_space_length_5: famil
+size_no_space_length_6: family
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FA
+size_no_space_upper_length_3: FAM
+size_no_space_upper_length_4: FAMI
+size_no_space_upper_length_5: FAMIL
+size_no_space_upper_length_6: FAMILY
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FAMILY
+size_upper_length_1: F
+size_upper_length_2: FA
+size_upper_length_3: FAM
+size_upper_length_4: FAMI
+size_upper_length_5: FAMIL
+size_upper_length_6: FAMILY
 type: archive
 type_capital: Archive
 type_first_letter: a
 type_first_letter_upper: A
+type_length_1: a
+type_length_2: ar
+type_length_3: arc
+type_length_4: arch
+type_length_5: archi
+type_length_6: archiv
+type_name: Archive
+type_no_space_length_1: a
+type_no_space_length_2: ar
+type_no_space_length_3: arc
+type_no_space_length_4: arch
+type_no_space_length_5: archi
+type_no_space_length_6: archiv
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AR
+type_no_space_upper_length_3: ARC
+type_no_space_upper_length_4: ARCH
+type_no_space_upper_length_5: ARCHI
+type_no_space_upper_length_6: ARCHIV
 type_upper: ARCHIVE
+type_upper_length_1: A
+type_upper_length_2: AR
+type_upper_length_3: ARC
+type_upper_length_4: ARCH
+type_upper_length_5: ARCHI
+type_upper_length_6: ARCHIV

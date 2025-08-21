@@ -1,42 +1,176 @@
+bip_39_word_dash_12: left-weasel-various-relax-helmet-soap-entire-magic-estate-fantasy-produce-assault
+bip_39_word_dash_2: left-weasel
+bip_39_word_dash_3: left-weasel-various
+bip_39_word_new_br_12: left<br>weasel<br>various<br>relax<br>helmet<br>soap<br>entire<br>magic<br>estate<br>fantasy<br>produce<br>assault
+bip_39_word_new_br_2: left<br>weasel
+bip_39_word_new_br_3: left<br>weasel<br>various
+bip_39_word_new_line_12: 'left
+
+  weasel
+
+  various
+
+  relax
+
+  helmet
+
+  soap
+
+  entire
+
+  magic
+
+  estate
+
+  fantasy
+
+  produce
+
+  assault'
+bip_39_word_new_line_2: 'left
+
+  weasel'
+bip_39_word_new_line_3: 'left
+
+  weasel
+
+  various'
+bip_39_word_no_space_12: leftweaselvariousrelaxhelmetsoapentiremagicestatefantasyproduceassault
+bip_39_word_no_space_2: leftweasel
+bip_39_word_no_space_3: leftweaselvarious
+bip_39_word_space_12: left weasel various relax helmet soap entire magic estate fantasy
+  produce assault
+bip_39_word_space_2: left weasel
+bip_39_word_space_3: left weasel various
+bip_39_word_underscore_12: left_weasel_various_relax_helmet_soap_entire_magic_estate_fantasy_produce_assault
+bip_39_word_underscore_2: left_weasel
+bip_39_word_underscore_3: left_weasel_various
 classification: electronic_consumer
 classification_capital: Electronic Consumer
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic Consumer
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC_CONSUMER
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 91_5_mm_width_59_mm_height_29_5_mm_depth
 description_main_capital: 91.5 mm Width 59 mm Height 29.5 mm Depth
 description_main_first_letter: '9'
 description_main_first_letter_upper: '9'
+description_main_length_1: '9'
+description_main_length_2: '91'
+description_main_length_3: '91_'
+description_main_length_4: '91_5'
+description_main_length_5: '91_5_'
+description_main_length_6: 91_5_m
+description_main_name: 91 5 mm Width 59 mm Height 29 5 mm Depth
+description_main_no_space_length_1: '9'
+description_main_no_space_length_2: '91'
+description_main_no_space_length_3: '915'
+description_main_no_space_length_4: 915m
+description_main_no_space_length_5: 915mm
+description_main_no_space_length_6: 915mmw
+description_main_no_space_upper_length_1: '9'
+description_main_no_space_upper_length_2: '91'
+description_main_no_space_upper_length_3: '915'
+description_main_no_space_upper_length_4: 915M
+description_main_no_space_upper_length_5: 915MM
+description_main_no_space_upper_length_6: 915MMW
 description_main_upper: 91_5_MM_WIDTH_59_MM_HEIGHT_29_5_MM_DEPTH
+description_main_upper_length_1: '9'
+description_main_upper_length_2: '91'
+description_main_upper_length_3: '91_'
+description_main_upper_length_4: '91_5'
+description_main_upper_length_5: '91_5_'
+description_main_upper_length_6: 91_5_M
 description_only_numbers: '91559295'
 description_only_numbers_short: 9M1
 description_or_color: 9M1
 description_or_color_upper: 9M1
 directory: parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 id: electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 id_no_class: charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+id_no_color: 915mmwidth59mmheight295mmdepthravpowerrppc024
 id_no_size: 91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 id_no_type: 4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_2_name: link_github
 link_distributor_ravpower: https://cdn.shopify.com/s/files/1/0257/5656/5579/files/RP-PC024_User_Manual.pdf?28651
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208hahg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208hahg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208hahg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208hahg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 manufacturer: ravpower
 manufacturer_capital: Ravpower
 manufacturer_first_letter: r
 manufacturer_first_letter_upper: R
+manufacturer_length_1: r
+manufacturer_length_2: ra
+manufacturer_length_3: rav
+manufacturer_length_4: ravp
+manufacturer_length_5: ravpo
+manufacturer_length_6: ravpow
+manufacturer_name: Ravpower
+manufacturer_no_space_length_1: r
+manufacturer_no_space_length_2: ra
+manufacturer_no_space_length_3: rav
+manufacturer_no_space_length_4: ravp
+manufacturer_no_space_length_5: ravpo
+manufacturer_no_space_length_6: ravpow
+manufacturer_no_space_upper_length_1: R
+manufacturer_no_space_upper_length_2: RA
+manufacturer_no_space_upper_length_3: RAV
+manufacturer_no_space_upper_length_4: RAVP
+manufacturer_no_space_upper_length_5: RAVPO
+manufacturer_no_space_upper_length_6: RAVPOW
 manufacturer_upper: RAVPOWER
+manufacturer_upper_length_1: R
+manufacturer_upper_length_2: RA
+manufacturer_upper_length_3: RAV
+manufacturer_upper_length_4: RAVP
+manufacturer_upper_length_5: RAVPO
+manufacturer_upper_length_6: RAVPOW
 manufacturers: []
 markdown_full: '[electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024](none)<br>[](none)<br>[Electronic
   Consumer Charger Usb 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp
@@ -51,13 +185,39 @@ md5_6: d95754
 md5_6_alpha: 8hahg
 md5_6_alpha_upper: 8HAHG
 md5_6_upper: D95754
-name: Electronic Consumer Charger Usb 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth
+name: Electronic Consumer Charger USB 4 Port 91 5 mm Width 59 mm Height 29 5 mm Depth
   Ravpower Rp Pc024
-name_no_class: Charger Usb 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower
+name_no_class: Charger USB 4 Port 91 5 mm Width 59 mm Height 29 5 mm Depth Ravpower
   Rp Pc024
-name_no_size: 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp Pc024
+name_no_color: 915mmwidth59mmheight295mmdepthravpowerrppc024
+name_no_size: 91 5 mm Width 59 mm Height 29 5 mm Depth Ravpower Rp Pc024
 name_no_size_short: 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp Pc024
-name_no_type: 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp Pc024
+name_no_type: 4 Port 91 5 mm Width 59 mm Height 29 5 mm Depth Ravpower Rp Pc024
+oomlout_detail_hierarchy_1: electronic_consumer
+oomlout_detail_hierarchy_1_upper: ELECTRONIC_CONSUMER
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: charger_usb
+oomlout_detail_hierarchy_2_upper: CHARGER_USB
+oomlout_detail_hierarchy_2_upper_length_4: CHAR
+oomlout_detail_hierarchy_3: 4_port
+oomlout_detail_hierarchy_3_upper: 4_PORT
+oomlout_detail_hierarchy_3_upper_length_4: 4_PO
+oomlout_detail_hierarchy_4: 5_mm_width
+oomlout_detail_hierarchy_4_upper: 5_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 5WID
+oomlout_detail_hierarchy_5: 59_mm_height
+oomlout_detail_hierarchy_5_upper: 59_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 59HE
+oomlout_detail_hierarchy_6: 5_mm_depth
+oomlout_detail_hierarchy_6_upper: 5_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 5DEP
+oomlout_detail_hierarchy_7: ravpower
+oomlout_detail_hierarchy_7_upper: RAVPOWER
+oomlout_detail_hierarchy_7_upper_length_4: RAVP
+oomlout_detail_hierarchy_8: rp_pc024
+oomlout_detail_hierarchy_8_upper: RP_PC024
+oomlout_detail_hierarchy_8_upper_length_4: RP_P
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
 oomp_word: bank rat whale
 oomp_word_emoji: ':bank: :rat: :whale:'
@@ -74,18 +234,97 @@ part_number_capital: Rp Pc024
 part_number_exact: RP-PC024
 part_number_first_letter: r
 part_number_first_letter_upper: R
+part_number_length_1: r
+part_number_length_2: rp
+part_number_length_3: rp_
+part_number_length_4: rp_p
+part_number_length_5: rp_pc
+part_number_length_6: rp_pc0
+part_number_name: Rp Pc024
+part_number_no_space_length_1: r
+part_number_no_space_length_2: rp
+part_number_no_space_length_3: rpp
+part_number_no_space_length_4: rppc
+part_number_no_space_length_5: rppc0
+part_number_no_space_length_6: rppc02
+part_number_no_space_upper_length_1: R
+part_number_no_space_upper_length_2: RP
+part_number_no_space_upper_length_3: RPP
+part_number_no_space_upper_length_4: RPPC
+part_number_no_space_upper_length_5: RPPC0
+part_number_no_space_upper_length_6: RPPC02
 part_number_upper: RP_PC024
+part_number_upper_length_1: R
+part_number_upper_length_2: RP
+part_number_upper_length_3: RP_
+part_number_upper_length_4: RP_P
+part_number_upper_length_5: RP_PC
+part_number_upper_length_6: RP_PC0
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 4_port
 size_capital: 4 Port
 size_first_letter: '4'
 size_first_letter_upper: '4'
+size_length_1: '4'
+size_length_2: '4_'
+size_length_3: 4_p
+size_length_4: 4_po
+size_length_5: 4_por
+size_length_6: 4_port
+size_name: 4 Port
+size_no_space_length_1: '4'
+size_no_space_length_2: 4p
+size_no_space_length_3: 4po
+size_no_space_length_4: 4por
+size_no_space_length_5: 4port
+size_no_space_length_6: 4port
+size_no_space_upper_length_1: '4'
+size_no_space_upper_length_2: 4P
+size_no_space_upper_length_3: 4PO
+size_no_space_upper_length_4: 4POR
+size_no_space_upper_length_5: 4PORT
+size_no_space_upper_length_6: 4PORT
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: 4_PORT
+size_upper_length_1: '4'
+size_upper_length_2: '4_'
+size_upper_length_3: 4_P
+size_upper_length_4: 4_PO
+size_upper_length_5: 4_POR
+size_upper_length_6: 4_PORT
 type: charger_usb
 type_capital: Charger Usb
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: ch
+type_length_3: cha
+type_length_4: char
+type_length_5: charg
+type_length_6: charge
+type_name: Charger USB
+type_no_space_length_1: c
+type_no_space_length_2: ch
+type_no_space_length_3: cha
+type_no_space_length_4: char
+type_no_space_length_5: charg
+type_no_space_length_6: charge
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CH
+type_no_space_upper_length_3: CHA
+type_no_space_upper_length_4: CHAR
+type_no_space_upper_length_5: CHARG
+type_no_space_upper_length_6: CHARGE
 type_upper: CHARGER_USB
+type_upper_length_1: C
+type_upper_length_2: CH
+type_upper_length_3: CHA
+type_upper_length_4: CHAR
+type_upper_length_5: CHARG
+type_upper_length_6: CHARGE

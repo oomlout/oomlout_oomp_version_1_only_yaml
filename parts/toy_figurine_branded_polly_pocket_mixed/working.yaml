@@ -1,40 +1,174 @@
+bip_39_word_dash_12: rose-sell-deal-finish-job-path-express-carpet-abuse-car-youth-ahead
+bip_39_word_dash_2: rose-sell
+bip_39_word_dash_3: rose-sell-deal
+bip_39_word_new_br_12: rose<br>sell<br>deal<br>finish<br>job<br>path<br>express<br>carpet<br>abuse<br>car<br>youth<br>ahead
+bip_39_word_new_br_2: rose<br>sell
+bip_39_word_new_br_3: rose<br>sell<br>deal
+bip_39_word_new_line_12: 'rose
+
+  sell
+
+  deal
+
+  finish
+
+  job
+
+  path
+
+  express
+
+  carpet
+
+  abuse
+
+  car
+
+  youth
+
+  ahead'
+bip_39_word_new_line_2: 'rose
+
+  sell'
+bip_39_word_new_line_3: 'rose
+
+  sell
+
+  deal'
+bip_39_word_no_space_12: roseselldealfinishjobpathexpresscarpetabusecaryouthahead
+bip_39_word_no_space_2: rosesell
+bip_39_word_no_space_3: roseselldeal
+bip_39_word_space_12: rose sell deal finish job path express carpet abuse car youth
+  ahead
+bip_39_word_space_2: rose sell
+bip_39_word_space_3: rose sell deal
+bip_39_word_underscore_12: rose_sell_deal_finish_job_path_express_carpet_abuse_car_youth_ahead
+bip_39_word_underscore_2: rose_sell
+bip_39_word_underscore_3: rose_sell_deal
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
 classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
 color: polly_pocket
 color_capital: Polly Pocket
 color_first_letter: p
 color_first_letter_upper: P
+color_length_1: p
+color_length_2: po
+color_length_3: pol
+color_length_4: poll
+color_length_5: polly
+color_length_6: polly_
+color_name: Polly Pocket
+color_no_space_length_1: p
+color_no_space_length_2: po
+color_no_space_length_3: pol
+color_no_space_length_4: poll
+color_no_space_length_5: polly
+color_no_space_length_6: pollyp
+color_no_space_upper_length_1: P
+color_no_space_upper_length_2: PO
+color_no_space_upper_length_3: POL
+color_no_space_upper_length_4: POLL
+color_no_space_upper_length_5: POLLY
+color_no_space_upper_length_6: POLLYP
 color_upper: POLLY_POCKET
+color_upper_length_1: P
+color_upper_length_2: PO
+color_upper_length_3: POL
+color_upper_length_4: POLL
+color_upper_length_5: POLLY
+color_upper_length_6: POLLY_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'P '
 description_or_color_upper: 'P '
 directory: parts/toy_figurine_branded_polly_pocket_mixed
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_figurine_branded_polly_pocket_mixed
 id: toy_figurine_branded_polly_pocket_mixed
 id_no_class: figurine_branded_polly_pocket_mixed
+id_no_color: mixed
 id_no_size: polly_pocket_mixed
 id_no_type: branded_polly_pocket_mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_polly_pocket_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_polly_pocket_mixed
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_polly_pocket_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_polly_pocket_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2039zgo
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2039zgo
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2039zgo
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2039zgo
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_polly_pocket_mixed
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_figurine_branded_polly_pocket_mixed](none)<br>[](none)<br>[Toy
@@ -51,9 +185,26 @@ md5_6_alpha_upper: 39ZGO
 md5_6_upper: 53FEC8
 name: Toy Figurine Branded Polly Pocket Mixed
 name_no_class: Figurine Branded Polly Pocket Mixed
+name_no_color: Mixed
 name_no_size: Polly Pocket Mixed
 name_no_size_short: Polly Pocket Mixed
 name_no_type: Branded Polly Pocket Mixed
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: figurine
+oomlout_detail_hierarchy_2_upper: FIGURINE
+oomlout_detail_hierarchy_2_upper_length_4: FIGU
+oomlout_detail_hierarchy_3: branded
+oomlout_detail_hierarchy_3_upper: BRANDED
+oomlout_detail_hierarchy_3_upper_length_4: BRAN
+oomlout_detail_hierarchy_4: polly_pocket
+oomlout_detail_hierarchy_4_upper: POLLY_POCKET
+oomlout_detail_hierarchy_4_upper_length_4: POLL
+oomlout_detail_hierarchy_5: mixed
+oomlout_detail_hierarchy_5_upper: MIXED
+oomlout_detail_hierarchy_5_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_figurine_branded_polly_pocket_mixed
 oomp_word: fish recycle apple
 oomp_word_emoji: ':fish: :recycle: :apple:'
@@ -69,7 +220,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -77,11 +233,61 @@ size: branded
 size_capital: Branded
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: br
+size_length_3: bra
+size_length_4: bran
+size_length_5: brand
+size_length_6: brande
+size_name: Branded
+size_no_space_length_1: b
+size_no_space_length_2: br
+size_no_space_length_3: bra
+size_no_space_length_4: bran
+size_no_space_length_5: brand
+size_no_space_length_6: brande
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BR
+size_no_space_upper_length_3: BRA
+size_no_space_upper_length_4: BRAN
+size_no_space_upper_length_5: BRAND
+size_no_space_upper_length_6: BRANDE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BRANDED
+size_upper_length_1: B
+size_upper_length_2: BR
+size_upper_length_3: BRA
+size_upper_length_4: BRAN
+size_upper_length_5: BRAND
+size_upper_length_6: BRANDE
 type: figurine
 type_capital: Figurine
 type_first_letter: f
 type_first_letter_upper: F
+type_length_1: f
+type_length_2: fi
+type_length_3: fig
+type_length_4: figu
+type_length_5: figur
+type_length_6: figuri
+type_name: Figurine
+type_no_space_length_1: f
+type_no_space_length_2: fi
+type_no_space_length_3: fig
+type_no_space_length_4: figu
+type_no_space_length_5: figur
+type_no_space_length_6: figuri
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FI
+type_no_space_upper_length_3: FIG
+type_no_space_upper_length_4: FIGU
+type_no_space_upper_length_5: FIGUR
+type_no_space_upper_length_6: FIGURI
 type_upper: FIGURINE
+type_upper_length_1: F
+type_upper_length_2: FI
+type_upper_length_3: FIG
+type_upper_length_4: FIGU
+type_upper_length_5: FIGUR
+type_upper_length_6: FIGURI

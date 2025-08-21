@@ -1,23 +1,146 @@
+bip_39_word_dash_12: solid-silent-phone-base-orange-taste-cloud-shrimp-orient-adult-barrel-age
+bip_39_word_dash_2: solid-silent
+bip_39_word_dash_3: solid-silent-phone
+bip_39_word_new_br_12: solid<br>silent<br>phone<br>base<br>orange<br>taste<br>cloud<br>shrimp<br>orient<br>adult<br>barrel<br>age
+bip_39_word_new_br_2: solid<br>silent
+bip_39_word_new_br_3: solid<br>silent<br>phone
+bip_39_word_new_line_12: 'solid
+
+  silent
+
+  phone
+
+  base
+
+  orange
+
+  taste
+
+  cloud
+
+  shrimp
+
+  orient
+
+  adult
+
+  barrel
+
+  age'
+bip_39_word_new_line_2: 'solid
+
+  silent'
+bip_39_word_new_line_3: 'solid
+
+  silent
+
+  phone'
+bip_39_word_no_space_12: solidsilentphonebaseorangetastecloudshrimporientadultbarrelage
+bip_39_word_no_space_2: solidsilent
+bip_39_word_no_space_3: solidsilentphone
+bip_39_word_space_12: solid silent phone base orange taste cloud shrimp orient adult
+  barrel age
+bip_39_word_space_2: solid silent
+bip_39_word_space_3: solid silent phone
+bip_39_word_underscore_12: solid_silent_phone_base_orange_taste_cloud_shrimp_orient_adult_barrel_age
+bip_39_word_underscore_2: solid_silent
+bip_39_word_underscore_3: solid_silent_phone
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: oomlout_owner
 color_capital: Oomlout Owner
 color_first_letter: o
 color_first_letter_upper: O
+color_length_1: o
+color_length_2: oo
+color_length_3: oom
+color_length_4: ooml
+color_length_5: oomlo
+color_length_6: oomlou
+color_name: Oomlout Owner
+color_no_space_length_1: o
+color_no_space_length_2: oo
+color_no_space_length_3: oom
+color_no_space_length_4: ooml
+color_no_space_length_5: oomlo
+color_no_space_length_6: oomlou
+color_no_space_upper_length_1: O
+color_no_space_upper_length_2: OO
+color_no_space_upper_length_3: OOM
+color_no_space_upper_length_4: OOML
+color_no_space_upper_length_5: OOMLO
+color_no_space_upper_length_6: OOMLOU
 color_upper: OOMLOUT_OWNER
+color_upper_length_1: O
+color_upper_length_2: OO
+color_upper_length_3: OOM
+color_upper_length_4: OOML
+color_upper_length_5: OOMLO
+color_upper_length_6: OOMLOU
 description: category_warehouse
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +150,28 @@ directory: parts/category_warehouse_storage_container_oomlout_owner_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_warehouse_storage_container_oomlout_owner_tote
 id: category_warehouse_storage_container_oomlout_owner_tote
 id_no_class: warehouse_storage_container_oomlout_owner_tote
+id_no_color: tote
 id_no_size: oomlout_owner_tote
 id_no_type: storage_container_oomlout_owner_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202yykg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202yykg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202yykg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202yykg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_warehouse_storage_container_oomlout_owner_tote](none)<br>[](none)<br>[Category
@@ -54,9 +188,26 @@ md5_6_alpha_upper: 2YYKG
 md5_6_upper: 4C2580
 name: Category Warehouse Storage Container Oomlout Owner Tote
 name_no_class: Warehouse Storage Container Oomlout Owner Tote
+name_no_color: Tote
 name_no_size: Oomlout Owner Tote
 name_no_size_short: Oomlout Owner Tote
 name_no_type: Storage Container Oomlout Owner Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: warehouse
+oomlout_detail_hierarchy_2_upper: WAREHOUSE
+oomlout_detail_hierarchy_2_upper_length_4: WARE
+oomlout_detail_hierarchy_3: storage_container
+oomlout_detail_hierarchy_3_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_3_upper_length_4: STOR
+oomlout_detail_hierarchy_4: owner
+oomlout_detail_hierarchy_4_upper: OWNER
+oomlout_detail_hierarchy_4_upper_length_4: OWNE
+oomlout_detail_hierarchy_5: tote
+oomlout_detail_hierarchy_5_upper: TOTE
+oomlout_detail_hierarchy_5_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_warehouse_storage_container_oomlout_owner_tote
 oomp_word: turtle ear hourglass
 oomp_word_emoji: ':turtle: :ear: :hourglass:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorywarehouse
@@ -81,11 +237,61 @@ size: storage_container
 size_capital: Storage Container
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: sto
+size_length_4: stor
+size_length_5: stora
+size_length_6: storag
+size_name: Storage Container
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: sto
+size_no_space_length_4: stor
+size_no_space_length_5: stora
+size_no_space_length_6: storag
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STO
+size_no_space_upper_length_4: STOR
+size_no_space_upper_length_5: STORA
+size_no_space_upper_length_6: STORAG
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: STORAGE_CONTAINER
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STO
+size_upper_length_4: STOR
+size_upper_length_5: STORA
+size_upper_length_6: STORAG
 type: warehouse
 type_capital: Warehouse
 type_first_letter: w
 type_first_letter_upper: W
+type_length_1: w
+type_length_2: wa
+type_length_3: war
+type_length_4: ware
+type_length_5: wareh
+type_length_6: wareho
+type_name: Warehouse
+type_no_space_length_1: w
+type_no_space_length_2: wa
+type_no_space_length_3: war
+type_no_space_length_4: ware
+type_no_space_length_5: wareh
+type_no_space_length_6: wareho
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WA
+type_no_space_upper_length_3: WAR
+type_no_space_upper_length_4: WARE
+type_no_space_upper_length_5: WAREH
+type_no_space_upper_length_6: WAREHO
 type_upper: WAREHOUSE
+type_upper_length_1: W
+type_upper_length_2: WA
+type_upper_length_3: WAR
+type_upper_length_4: WARE
+type_upper_length_5: WAREH
+type_upper_length_6: WAREHO

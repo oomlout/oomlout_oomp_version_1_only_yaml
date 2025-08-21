@@ -1,22 +1,97 @@
+bip_39_word_dash_12: profit-transfer-room-damp-sugar-visit-learn-suit-tide-caution-media-among
+bip_39_word_dash_2: profit-transfer
+bip_39_word_dash_3: profit-transfer-room
+bip_39_word_new_br_12: profit<br>transfer<br>room<br>damp<br>sugar<br>visit<br>learn<br>suit<br>tide<br>caution<br>media<br>among
+bip_39_word_new_br_2: profit<br>transfer
+bip_39_word_new_br_3: profit<br>transfer<br>room
+bip_39_word_new_line_12: 'profit
+
+  transfer
+
+  room
+
+  damp
+
+  sugar
+
+  visit
+
+  learn
+
+  suit
+
+  tide
+
+  caution
+
+  media
+
+  among'
+bip_39_word_new_line_2: 'profit
+
+  transfer'
+bip_39_word_new_line_3: 'profit
+
+  transfer
+
+  room'
+bip_39_word_no_space_12: profittransferroomdampsugarvisitlearnsuittidecautionmediaamong
+bip_39_word_no_space_2: profittransfer
+bip_39_word_no_space_3: profittransferroom
+bip_39_word_space_12: profit transfer room damp sugar visit learn suit tide caution
+  media among
+bip_39_word_space_2: profit transfer
+bip_39_word_space_3: profit transfer room
+bip_39_word_underscore_12: profit_transfer_room_damp_sugar_visit_learn_suit_tide_caution_media_among
+bip_39_word_underscore_2: profit_transfer
+bip_39_word_underscore_3: profit_transfer_room
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -24,17 +99,28 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/mechanical_gear
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_gear
 id: mechanical_gear
 id_no_class: gear
+id_no_color: gear
 id_no_size: gear
 id_no_type: gear
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204yi89
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204yi89
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204yi89
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204yi89
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_gear
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_gear](none)<br>[](none)<br>[Mechanical Gear](none)<br><br>'
@@ -50,10 +136,18 @@ md5_6_alpha_upper: 4YI89
 md5_6_upper: 7F14C9
 name: Mechanical Gear
 name_no_class: Gear
+name_no_color: Gear
 name_no_size: Gear
 name_no_size_short: Gear
 name_no_type: Gear
 name_short: ''
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: gear
+oomlout_detail_hierarchy_2_upper: GEAR
+oomlout_detail_hierarchy_2_upper_length_4: GEAR
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_gear
 oomp_word: speaker fire lemon
 oomp_word_emoji: ':speaker: :fire: :lemon:'
@@ -69,7 +163,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -77,6 +176,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -84,4 +184,29 @@ type: gear
 type_capital: Gear
 type_first_letter: g
 type_first_letter_upper: G
+type_length_1: g
+type_length_2: ge
+type_length_3: gea
+type_length_4: gear
+type_length_5: gear
+type_length_6: gear
+type_name: Gear
+type_no_space_length_1: g
+type_no_space_length_2: ge
+type_no_space_length_3: gea
+type_no_space_length_4: gear
+type_no_space_length_5: gear
+type_no_space_length_6: gear
+type_no_space_upper_length_1: G
+type_no_space_upper_length_2: GE
+type_no_space_upper_length_3: GEA
+type_no_space_upper_length_4: GEAR
+type_no_space_upper_length_5: GEAR
+type_no_space_upper_length_6: GEAR
 type_upper: GEAR
+type_upper_length_1: G
+type_upper_length_2: GE
+type_upper_length_3: GEA
+type_upper_length_4: GEAR
+type_upper_length_5: GEAR
+type_upper_length_6: GEAR

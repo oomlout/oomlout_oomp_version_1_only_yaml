@@ -1,23 +1,122 @@
+bip_39_word_dash_12: ceiling-adjust-add-emotion-top-sunny-job-elegant-female-jazz-vapor-audit
+bip_39_word_dash_2: ceiling-adjust
+bip_39_word_dash_3: ceiling-adjust-add
+bip_39_word_new_br_12: ceiling<br>adjust<br>add<br>emotion<br>top<br>sunny<br>job<br>elegant<br>female<br>jazz<br>vapor<br>audit
+bip_39_word_new_br_2: ceiling<br>adjust
+bip_39_word_new_br_3: ceiling<br>adjust<br>add
+bip_39_word_new_line_12: 'ceiling
+
+  adjust
+
+  add
+
+  emotion
+
+  top
+
+  sunny
+
+  job
+
+  elegant
+
+  female
+
+  jazz
+
+  vapor
+
+  audit'
+bip_39_word_new_line_2: 'ceiling
+
+  adjust'
+bip_39_word_new_line_3: 'ceiling
+
+  adjust
+
+  add'
+bip_39_word_no_space_12: ceilingadjustaddemotiontopsunnyjobelegantfemalejazzvaporaudit
+bip_39_word_no_space_2: ceilingadjust
+bip_39_word_no_space_3: ceilingadjustadd
+bip_39_word_space_12: ceiling adjust add emotion top sunny job elegant female jazz
+  vapor audit
+bip_39_word_space_2: ceiling adjust
+bip_39_word_space_3: ceiling adjust add
+bip_39_word_underscore_12: ceiling_adjust_add_emotion_top_sunny_job_elegant_female_jazz_vapor_audit
+bip_39_word_underscore_2: ceiling_adjust
+bip_39_word_underscore_3: ceiling_adjust_add
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 27000_ohm
 description_main_capital: 27000 Ohm
 description_main_first_letter: '2'
 description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '27'
+description_main_length_3: '270'
+description_main_length_4: '2700'
+description_main_length_5: '27000'
+description_main_length_6: '27000_'
+description_main_name: 27000 Ohm
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '27'
+description_main_no_space_length_3: '270'
+description_main_no_space_length_4: '2700'
+description_main_no_space_length_5: '27000'
+description_main_no_space_length_6: 27000o
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '27'
+description_main_no_space_upper_length_3: '270'
+description_main_no_space_upper_length_4: '2700'
+description_main_no_space_upper_length_5: '27000'
+description_main_no_space_upper_length_6: 27000O
 description_main_upper: 27000_OHM
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '27'
+description_main_upper_length_3: '270'
+description_main_upper_length_4: '2700'
+description_main_upper_length_5: '27000'
+description_main_upper_length_6: '27000_'
 description_only_numbers: '27000'
 description_only_numbers_short: 27k
 description_or_color: 27k
@@ -37,18 +136,29 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_r12o273_electronic_resistor_1206_27000_ohm
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_1206_27000_ohm
 id: electronic_resistor_1206_27000_ohm
 id_no_class: resistor_1206_27000_ohm
+id_no_color: 27000ohm
 id_no_size: 27000_ohm
 id_no_type: 1206_27000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_27000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_27000_ohm
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_27000_ohm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_27000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209frod
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209frod
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209frod
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209frod
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_1206_27000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -93,9 +203,23 @@ md5_6_alpha_upper: 9FROD
 md5_6_upper: F1E2DD
 name: Electronic Resistor 1206 27000 Ohm
 name_no_class: Resistor 1206 27000 Ohm
+name_no_color: 27000Ohm
 name_no_size: 27000 Ohm
 name_no_size_short: 27k Ohm
 name_no_type: 1206 27000 Ohm
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: resistor
+oomlout_detail_hierarchy_2_upper: RESISTOR
+oomlout_detail_hierarchy_2_upper_length_4: RESI
+oomlout_detail_hierarchy_3: '1206'
+oomlout_detail_hierarchy_3_upper: '1206'
+oomlout_detail_hierarchy_3_upper_length_4: '1206'
+oomlout_detail_hierarchy_4: 27000_ohm
+oomlout_detail_hierarchy_4_upper: 27000_OHM
+oomlout_detail_hierarchy_4_upper_length_4: '2700'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_1206_27000_ohm
 oomp_word: ticket sailboat stars
 oomp_word_emoji: ':ticket: :sailboat: :stars:'
@@ -112,16 +236,46 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: r12o273
 short_code_upper: R12O273
 size: '1206'
 size_capital: '1206'
 size_first_letter: '1'
 size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '12'
+size_length_3: '120'
+size_length_4: '1206'
+size_length_5: '1206'
+size_length_6: '1206'
+size_name: '1206'
+size_no_space_length_1: '1'
+size_no_space_length_2: '12'
+size_no_space_length_3: '120'
+size_no_space_length_4: '1206'
+size_no_space_length_5: '1206'
+size_no_space_length_6: '1206'
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '12'
+size_no_space_upper_length_3: '120'
+size_no_space_upper_length_4: '1206'
+size_no_space_upper_length_5: '1206'
+size_no_space_upper_length_6: '1206'
 size_only_numbers: '1206'
 size_only_numbers_no_zeros: '126'
 size_upper: '1206'
+size_upper_length_1: '1'
+size_upper_length_2: '12'
+size_upper_length_3: '120'
+size_upper_length_4: '1206'
+size_upper_length_5: '1206'
+size_upper_length_6: '1206'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 4_mm
 smd_tape_width: 8_mm
@@ -134,4 +288,29 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
+type_name: Resistor
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: res
+type_no_space_length_4: resi
+type_no_space_length_5: resis
+type_no_space_length_6: resist
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: RES
+type_no_space_upper_length_4: RESI
+type_no_space_upper_length_5: RESIS
+type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

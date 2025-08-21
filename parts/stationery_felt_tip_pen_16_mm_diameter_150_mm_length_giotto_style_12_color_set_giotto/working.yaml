@@ -1,23 +1,146 @@
+bip_39_word_dash_12: train-filter-scare-say-glimpse-adapt-spread-impose-improve-once-february-arch
+bip_39_word_dash_2: train-filter
+bip_39_word_dash_3: train-filter-scare
+bip_39_word_new_br_12: train<br>filter<br>scare<br>say<br>glimpse<br>adapt<br>spread<br>impose<br>improve<br>once<br>february<br>arch
+bip_39_word_new_br_2: train<br>filter
+bip_39_word_new_br_3: train<br>filter<br>scare
+bip_39_word_new_line_12: 'train
+
+  filter
+
+  scare
+
+  say
+
+  glimpse
+
+  adapt
+
+  spread
+
+  impose
+
+  improve
+
+  once
+
+  february
+
+  arch'
+bip_39_word_new_line_2: 'train
+
+  filter'
+bip_39_word_new_line_3: 'train
+
+  filter
+
+  scare'
+bip_39_word_no_space_12: trainfilterscaresayglimpseadaptspreadimposeimproveoncefebruaryarch
+bip_39_word_no_space_2: trainfilter
+bip_39_word_no_space_3: trainfilterscare
+bip_39_word_space_12: train filter scare say glimpse adapt spread impose improve once
+  february arch
+bip_39_word_space_2: train filter
+bip_39_word_space_3: train filter scare
+bip_39_word_underscore_12: train_filter_scare_say_glimpse_adapt_spread_impose_improve_once_february_arch
+bip_39_word_underscore_2: train_filter
+bip_39_word_underscore_3: train_filter_scare
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: giotto_style_12_color_set
 description_extra_capital: Giotto Style 12 Color Set
 description_extra_first_letter: g
 description_extra_first_letter_upper: G
+description_extra_length_1: g
+description_extra_length_2: gi
+description_extra_length_3: gio
+description_extra_length_4: giot
+description_extra_length_5: giott
+description_extra_length_6: giotto
+description_extra_name: Giotto Style 12 Color Set
+description_extra_no_space_length_1: g
+description_extra_no_space_length_2: gi
+description_extra_no_space_length_3: gio
+description_extra_no_space_length_4: giot
+description_extra_no_space_length_5: giott
+description_extra_no_space_length_6: giotto
+description_extra_no_space_upper_length_1: G
+description_extra_no_space_upper_length_2: GI
+description_extra_no_space_upper_length_3: GIO
+description_extra_no_space_upper_length_4: GIOT
+description_extra_no_space_upper_length_5: GIOTT
+description_extra_no_space_upper_length_6: GIOTTO
 description_extra_upper: GIOTTO_STYLE_12_COLOR_SET
+description_extra_upper_length_1: G
+description_extra_upper_length_2: GI
+description_extra_upper_length_3: GIO
+description_extra_upper_length_4: GIOT
+description_extra_upper_length_5: GIOTT
+description_extra_upper_length_6: GIOTTO
 description_main: 16_mm_diameter_150_mm_length
 description_main_capital: 16 mm Diameter 150 mm Length
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '16'
+description_main_length_3: '16_'
+description_main_length_4: 16_m
+description_main_length_5: 16_mm
+description_main_length_6: 16_mm_
+description_main_name: 16 mm Diameter 150 mm Length
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '16'
+description_main_no_space_length_3: 16m
+description_main_no_space_length_4: 16mm
+description_main_no_space_length_5: 16mmd
+description_main_no_space_length_6: 16mmdi
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '16'
+description_main_no_space_upper_length_3: 16M
+description_main_no_space_upper_length_4: 16MM
+description_main_no_space_upper_length_5: 16MMD
+description_main_no_space_upper_length_6: 16MMDI
 description_main_upper: 16_MM_DIAMETER_150_MM_LENGTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '16'
+description_main_upper_length_3: '16_'
+description_main_upper_length_4: 16_M
+description_main_upper_length_5: 16_MM
+description_main_upper_length_6: 16_MM_
 description_only_numbers: '16150'
 description_only_numbers_short: 16k
 description_or_color: 16k
@@ -25,19 +148,58 @@ description_or_color_upper: 16K
 directory: parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 distributor_part_number_amazon: B00MPCT2RI
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 id: stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 id_no_class: felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+id_no_color: 16mmdiameter150mmlengthgiottostyle12colorsetgiotto
 id_no_size: 16mmdiameter150mmlengthgiottostyle12colorsetgiotto
 id_no_type: 16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B00MPCT2RI
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B00MPCT2RI
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B00MPCT2RI
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206w59i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206w59i
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206w59i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206w59i
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 manufacturer: giotto
 manufacturer_capital: Giotto
 manufacturer_first_letter: g
 manufacturer_first_letter_upper: G
+manufacturer_length_1: g
+manufacturer_length_2: gi
+manufacturer_length_3: gio
+manufacturer_length_4: giot
+manufacturer_length_5: giott
+manufacturer_length_6: giotto
+manufacturer_name: Giotto
+manufacturer_no_space_length_1: g
+manufacturer_no_space_length_2: gi
+manufacturer_no_space_length_3: gio
+manufacturer_no_space_length_4: giot
+manufacturer_no_space_length_5: giott
+manufacturer_no_space_length_6: giotto
+manufacturer_no_space_upper_length_1: G
+manufacturer_no_space_upper_length_2: GI
+manufacturer_no_space_upper_length_3: GIO
+manufacturer_no_space_upper_length_4: GIOT
+manufacturer_no_space_upper_length_5: GIOTT
+manufacturer_no_space_upper_length_6: GIOTTO
 manufacturer_upper: GIOTTO
+manufacturer_upper_length_1: G
+manufacturer_upper_length_2: GI
+manufacturer_upper_length_3: GIO
+manufacturer_upper_length_4: GIOT
+manufacturer_upper_length_5: GIOTT
+manufacturer_upper_length_6: GIOTTO
 manufacturers: []
 markdown_full: '[stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto](none)<br>[](none)<br>[Stationery
   Felt Tip Pen 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set Giotto](none)<br><br>'
@@ -51,13 +213,30 @@ md5_6: b0a8a6
 md5_6_alpha: 6w59i
 md5_6_alpha_upper: 6W59I
 md5_6_upper: B0A8A6
-name: Stationery Felt Tip Pen 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set
+name: Stationery Felt Tip Pen 16 mm Diameter 150 mm Length Giotto Style 12 Color Set
   Giotto
-name_no_class: Felt Tip Pen 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set
+name_no_class: Felt Tip Pen 16 mm Diameter 150 mm Length Giotto Style 12 Color Set
   Giotto
-name_no_size: 16Mmdiameter150Mmlengthgiottostyle12Colorsetgiotto
+name_no_color: 16mmdiameter150mmlengthgiottostyle12Colorsetgiotto
+name_no_size: 16mmdiameter150mmlengthgiottostyle12Colorsetgiotto
 name_no_size_short: 16Mmdiameter150Mmlengthgiottostyle12Colorsetgiotto
-name_no_type: 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set Giotto
+name_no_type: 16 mm Diameter 150 mm Length Giotto Style 12 Color Set Giotto
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: felt_tip_pen
+oomlout_detail_hierarchy_2_upper: FELT_TIP_PEN
+oomlout_detail_hierarchy_2_upper_length_4: FELT
+oomlout_detail_hierarchy_3: 150_mm_length
+oomlout_detail_hierarchy_3_upper: 150_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 150L
+oomlout_detail_hierarchy_4: giotto_style_12_color_set
+oomlout_detail_hierarchy_4_upper: GIOTTO_STYLE_12_COLOR_SET
+oomlout_detail_hierarchy_4_upper_length_4: GIOT
+oomlout_detail_hierarchy_5: giotto
+oomlout_detail_hierarchy_5_upper: GIOTTO
+oomlout_detail_hierarchy_5_upper_length_4: GIOT
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
 oomp_word: crown shoe trumpet
 oomp_word_emoji: ':crown: :shoe: :trumpet:'
@@ -73,7 +252,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -81,6 +265,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -88,4 +273,29 @@ type: felt_tip_pen
 type_capital: Felt Tip Pen
 type_first_letter: f
 type_first_letter_upper: F
+type_length_1: f
+type_length_2: fe
+type_length_3: fel
+type_length_4: felt
+type_length_5: felt_
+type_length_6: felt_t
+type_name: Felt Tip Pen
+type_no_space_length_1: f
+type_no_space_length_2: fe
+type_no_space_length_3: fel
+type_no_space_length_4: felt
+type_no_space_length_5: feltt
+type_no_space_length_6: feltti
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FE
+type_no_space_upper_length_3: FEL
+type_no_space_upper_length_4: FELT
+type_no_space_upper_length_5: FELTT
+type_no_space_upper_length_6: FELTTI
 type_upper: FELT_TIP_PEN
+type_upper_length_1: F
+type_upper_length_2: FE
+type_upper_length_3: FEL
+type_upper_length_4: FELT
+type_upper_length_5: FELT_
+type_upper_length_6: FELT_T

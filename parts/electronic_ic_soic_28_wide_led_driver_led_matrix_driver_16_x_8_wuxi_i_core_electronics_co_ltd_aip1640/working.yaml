@@ -1,23 +1,146 @@
+bip_39_word_dash_12: hip-resource-sentence-hawk-gym-hair-victory-online-road-coil-lion-abstract
+bip_39_word_dash_2: hip-resource
+bip_39_word_dash_3: hip-resource-sentence
+bip_39_word_new_br_12: hip<br>resource<br>sentence<br>hawk<br>gym<br>hair<br>victory<br>online<br>road<br>coil<br>lion<br>abstract
+bip_39_word_new_br_2: hip<br>resource
+bip_39_word_new_br_3: hip<br>resource<br>sentence
+bip_39_word_new_line_12: 'hip
+
+  resource
+
+  sentence
+
+  hawk
+
+  gym
+
+  hair
+
+  victory
+
+  online
+
+  road
+
+  coil
+
+  lion
+
+  abstract'
+bip_39_word_new_line_2: 'hip
+
+  resource'
+bip_39_word_new_line_3: 'hip
+
+  resource
+
+  sentence'
+bip_39_word_no_space_12: hipresourcesentencehawkgymhairvictoryonlineroadcoillionabstract
+bip_39_word_no_space_2: hipresource
+bip_39_word_no_space_3: hipresourcesentence
+bip_39_word_space_12: hip resource sentence hawk gym hair victory online road coil
+  lion abstract
+bip_39_word_space_2: hip resource
+bip_39_word_space_3: hip resource sentence
+bip_39_word_underscore_12: hip_resource_sentence_hawk_gym_hair_victory_online_road_coil_lion_abstract
+bip_39_word_underscore_2: hip_resource
+bip_39_word_underscore_3: hip_resource_sentence
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: led_driver
 color_capital: Led Driver
 color_first_letter: l
 color_first_letter_upper: L
+color_length_1: l
+color_length_2: le
+color_length_3: led
+color_length_4: led_
+color_length_5: led_d
+color_length_6: led_dr
+color_name: LED Driver
+color_no_space_length_1: l
+color_no_space_length_2: le
+color_no_space_length_3: led
+color_no_space_length_4: ledd
+color_no_space_length_5: leddr
+color_no_space_length_6: leddri
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LE
+color_no_space_upper_length_3: LED
+color_no_space_upper_length_4: LEDD
+color_no_space_upper_length_5: LEDDR
+color_no_space_upper_length_6: LEDDRI
 color_upper: LED_DRIVER
+color_upper_length_1: L
+color_upper_length_2: LE
+color_upper_length_3: LED
+color_upper_length_4: LED_
+color_upper_length_5: LED_D
+color_upper_length_6: LED_DR
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: led_matrix_driver_16_x_8
 description_main_capital: Led Matrix Driver 16 x 8
 description_main_first_letter: l
 description_main_first_letter_upper: L
+description_main_length_1: l
+description_main_length_2: le
+description_main_length_3: led
+description_main_length_4: led_
+description_main_length_5: led_m
+description_main_length_6: led_ma
+description_main_name: LED Matrix Driver 16 X 8
+description_main_no_space_length_1: l
+description_main_no_space_length_2: le
+description_main_no_space_length_3: led
+description_main_no_space_length_4: ledm
+description_main_no_space_length_5: ledma
+description_main_no_space_length_6: ledmat
+description_main_no_space_upper_length_1: L
+description_main_no_space_upper_length_2: LE
+description_main_no_space_upper_length_3: LED
+description_main_no_space_upper_length_4: LEDM
+description_main_no_space_upper_length_5: LEDMA
+description_main_no_space_upper_length_6: LEDMAT
 description_main_upper: LED_MATRIX_DRIVER_16_X_8
+description_main_upper_length_1: L
+description_main_upper_length_2: LE
+description_main_upper_length_3: LED
+description_main_upper_length_4: LED_
+description_main_upper_length_5: LED_M
+description_main_upper_length_6: LED_MA
 description_only_numbers: '168'
 description_only_numbers_short: '168'
 description_or_color: L168
@@ -35,19 +158,54 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_isoic28waip1640_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_isoic28waip1640_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 id: electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 id_no_class: ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+id_no_color: so28_wide_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 id_no_size: so28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 id_no_type: so28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 kicad_reference: U
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20l3d7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20l3d7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20l3d7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20l3d7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 manufacturer: wuxi_i_core_electronics_co_ltd
 manufacturer_capital: Wuxi I Core Electronics Co Ltd
 manufacturer_first_letter: w
 manufacturer_first_letter_upper: W
+manufacturer_length_1: w
+manufacturer_length_2: wu
+manufacturer_length_3: wux
+manufacturer_length_4: wuxi
+manufacturer_length_5: wuxi_
+manufacturer_length_6: wuxi_i
+manufacturer_name: Wuxi I Core Electronics Co Ltd
+manufacturer_no_space_length_1: w
+manufacturer_no_space_length_2: wu
+manufacturer_no_space_length_3: wux
+manufacturer_no_space_length_4: wuxi
+manufacturer_no_space_length_5: wuxii
+manufacturer_no_space_length_6: wuxiic
+manufacturer_no_space_upper_length_1: W
+manufacturer_no_space_upper_length_2: WU
+manufacturer_no_space_upper_length_3: WUX
+manufacturer_no_space_upper_length_4: WUXI
+manufacturer_no_space_upper_length_5: WUXII
+manufacturer_no_space_upper_length_6: WUXIIC
 manufacturer_upper: WUXI_I_CORE_ELECTRONICS_CO_LTD
+manufacturer_upper_length_1: W
+manufacturer_upper_length_2: WU
+manufacturer_upper_length_3: WUX
+manufacturer_upper_length_4: WUXI
+manufacturer_upper_length_5: WUXI_
+manufacturer_upper_length_6: WUXI_I
 manufacturers: []
 markdown_full: '[electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640](none)<br>[isoic28waip1640](none)<br>[Electronic
   Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd
@@ -62,17 +220,46 @@ md5_6: 0f044b
 md5_6_alpha: l3d7
 md5_6_alpha_upper: L3D7
 md5_6_upper: 0F044B
-name: Electronic Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+name: Electronic IC Soic 28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics
   Co Ltd Aip1640
-name_no_class: Ic Soic 28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+name_no_class: IC Soic 28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics
   Co Ltd Aip1640
-name_no_size: So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+name_no_color: So28 Wide LED Matrix Driver 16 X 8 Wuxi I Core Electronics Co Ltd Aip1640
+name_no_size: So28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics
   Co Ltd Aip1640
 name_no_size_short: So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
   Co Ltd Aip1640
-name_no_type: So28 Wide Led Driver Led Matrix Driver 16 X 8 Wuxi I Core Electronics
+name_no_type: So28 Wide LED Driver LED Matrix Driver 16 X 8 Wuxi I Core Electronics
   Co Ltd Aip1640
 notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ic
+oomlout_detail_hierarchy_2_upper: IC
+oomlout_detail_hierarchy_2_upper_length_4: IC
+oomlout_detail_hierarchy_3: soic_28_wide
+oomlout_detail_hierarchy_3_upper: SOIC_28_WIDE
+oomlout_detail_hierarchy_3_upper_length_4: SOIC
+oomlout_detail_hierarchy_4: led_driver
+oomlout_detail_hierarchy_4_upper: LED_DRIVER
+oomlout_detail_hierarchy_4_upper_length_4: LED_
+oomlout_detail_hierarchy_5: led_matrix_driver_16
+oomlout_detail_hierarchy_5_upper: LED_MATRIX_DRIVER_16
+oomlout_detail_hierarchy_5_upper_length_4: LED_
+oomlout_detail_hierarchy_6: x_8
+oomlout_detail_hierarchy_6_upper: X_8
+oomlout_detail_hierarchy_6_upper_length_4: X_8
+oomlout_detail_hierarchy_7: wuxi_i_core_electronics
+oomlout_detail_hierarchy_7_upper: WUXI_I_CORE_ELECTRONICS
+oomlout_detail_hierarchy_7_upper_length_4: WUXI
+oomlout_detail_hierarchy_8: co_ltd
+oomlout_detail_hierarchy_8_upper: CO_LTD
+oomlout_detail_hierarchy_8_upper_length_4: CO_L
+oomlout_detail_hierarchy_9: aip1640
+oomlout_detail_hierarchy_9_upper: AIP1640
+oomlout_detail_hierarchy_9_upper_length_4: AIP1
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_soic_28_wide_led_driver_led_matrix_driver_16_x_8_wuxi_i_core_electronics_co_ltd_aip1640
 oomp_word: sparkles wink penguin
 oomp_word_emoji: ':sparkles: :wink: :penguin:'
@@ -88,7 +275,32 @@ part_number: aip1640
 part_number_capital: Aip1640
 part_number_first_letter: a
 part_number_first_letter_upper: A
+part_number_length_1: a
+part_number_length_2: ai
+part_number_length_3: aip
+part_number_length_4: aip1
+part_number_length_5: aip16
+part_number_length_6: aip164
+part_number_name: Aip1640
+part_number_no_space_length_1: a
+part_number_no_space_length_2: ai
+part_number_no_space_length_3: aip
+part_number_no_space_length_4: aip1
+part_number_no_space_length_5: aip16
+part_number_no_space_length_6: aip164
+part_number_no_space_upper_length_1: A
+part_number_no_space_upper_length_2: AI
+part_number_no_space_upper_length_3: AIP
+part_number_no_space_upper_length_4: AIP1
+part_number_no_space_upper_length_5: AIP16
+part_number_no_space_upper_length_6: AIP164
 part_number_upper: AIP1640
+part_number_upper_length_1: A
+part_number_upper_length_2: AI
+part_number_upper_length_3: AIP
+part_number_upper_length_4: AIP1
+part_number_upper_length_5: AIP16
+part_number_upper_length_6: AIP164
 pins:
   pin_1:
     name: grid12
@@ -202,6 +414,10 @@ pins:
     name: seg1
     number: '9'
     type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: isoic28waip1640
 short_code_upper: ISOIC28WAIP1640
 short_name: 16x8 led matrix driver (aip1640)
@@ -209,11 +425,61 @@ size: soic_28_wide
 size_capital: Soic 28 Wide
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: soi
+size_length_4: soic
+size_length_5: soic_
+size_length_6: soic_2
+size_name: Soic 28 Wide
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: soi
+size_no_space_length_4: soic
+size_no_space_length_5: soic2
+size_no_space_length_6: soic28
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOI
+size_no_space_upper_length_4: SOIC
+size_no_space_upper_length_5: SOIC2
+size_no_space_upper_length_6: SOIC28
 size_only_numbers: '28'
 size_only_numbers_no_zeros: '28'
 size_upper: SOIC_28_WIDE
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOI
+size_upper_length_4: SOIC
+size_upper_length_5: SOIC_
+size_upper_length_6: SOIC_2
 type: ic
 type_capital: Ic
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: ic
+type_length_3: ic
+type_length_4: ic
+type_length_5: ic
+type_length_6: ic
+type_name: IC
+type_no_space_length_1: i
+type_no_space_length_2: ic
+type_no_space_length_3: ic
+type_no_space_length_4: ic
+type_no_space_length_5: ic
+type_no_space_length_6: ic
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IC
+type_no_space_upper_length_3: IC
+type_no_space_upper_length_4: IC
+type_no_space_upper_length_5: IC
+type_no_space_upper_length_6: IC
 type_upper: IC
+type_upper_length_1: I
+type_upper_length_2: IC
+type_upper_length_3: IC
+type_upper_length_4: IC
+type_upper_length_5: IC
+type_upper_length_6: IC

@@ -1,23 +1,146 @@
+bip_39_word_dash_12: delay-dry-dolphin-toy-type-pill-actress-enrich-base-slam-charge-alcohol
+bip_39_word_dash_2: delay-dry
+bip_39_word_dash_3: delay-dry-dolphin
+bip_39_word_new_br_12: delay<br>dry<br>dolphin<br>toy<br>type<br>pill<br>actress<br>enrich<br>base<br>slam<br>charge<br>alcohol
+bip_39_word_new_br_2: delay<br>dry
+bip_39_word_new_br_3: delay<br>dry<br>dolphin
+bip_39_word_new_line_12: 'delay
+
+  dry
+
+  dolphin
+
+  toy
+
+  type
+
+  pill
+
+  actress
+
+  enrich
+
+  base
+
+  slam
+
+  charge
+
+  alcohol'
+bip_39_word_new_line_2: 'delay
+
+  dry'
+bip_39_word_new_line_3: 'delay
+
+  dry
+
+  dolphin'
+bip_39_word_no_space_12: delaydrydolphintoytypepillactressenrichbaseslamchargealcohol
+bip_39_word_no_space_2: delaydry
+bip_39_word_no_space_3: delaydrydolphin
+bip_39_word_space_12: delay dry dolphin toy type pill actress enrich base slam charge
+  alcohol
+bip_39_word_space_2: delay dry
+bip_39_word_space_3: delay dry dolphin
+bip_39_word_underscore_12: delay_dry_dolphin_toy_type_pill_actress_enrich_base_slam_charge_alcohol
+bip_39_word_underscore_2: delay_dry
+bip_39_word_underscore_3: delay_dry_dolphin
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: gray_color
 description_extra_capital: Gray Color
 description_extra_first_letter: g
 description_extra_first_letter_upper: G
+description_extra_length_1: g
+description_extra_length_2: gr
+description_extra_length_3: gra
+description_extra_length_4: gray
+description_extra_length_5: gray_
+description_extra_length_6: gray_c
+description_extra_name: Gray Color
+description_extra_no_space_length_1: g
+description_extra_no_space_length_2: gr
+description_extra_no_space_length_3: gra
+description_extra_no_space_length_4: gray
+description_extra_no_space_length_5: grayc
+description_extra_no_space_length_6: grayco
+description_extra_no_space_upper_length_1: G
+description_extra_no_space_upper_length_2: GR
+description_extra_no_space_upper_length_3: GRA
+description_extra_no_space_upper_length_4: GRAY
+description_extra_no_space_upper_length_5: GRAYC
+description_extra_no_space_upper_length_6: GRAYCO
 description_extra_upper: GRAY_COLOR
+description_extra_upper_length_1: G
+description_extra_upper_length_2: GR
+description_extra_upper_length_3: GRA
+description_extra_upper_length_4: GRAY
+description_extra_upper_length_5: GRAY_
+description_extra_upper_length_6: GRAY_C
 description_main: 80_grams_per_meter_square
 description_main_capital: 80 Grams Per Meter Square
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '80'
+description_main_length_3: '80_'
+description_main_length_4: 80_g
+description_main_length_5: 80_gr
+description_main_length_6: 80_gra
+description_main_name: 80 Grams Per Meter Square
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: '80'
+description_main_no_space_length_3: 80g
+description_main_no_space_length_4: 80gr
+description_main_no_space_length_5: 80gra
+description_main_no_space_length_6: 80gram
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: '80'
+description_main_no_space_upper_length_3: 80G
+description_main_no_space_upper_length_4: 80GR
+description_main_no_space_upper_length_5: 80GRA
+description_main_no_space_upper_length_6: 80GRAM
 description_main_upper: 80_GRAMS_PER_METER_SQUARE
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '80'
+description_main_upper_length_3: '80_'
+description_main_upper_length_4: 80_G
+description_main_upper_length_5: 80_GR
+description_main_upper_length_6: 80_GRA
 description_only_numbers: '80'
 description_only_numbers_short: '80'
 description_or_color: '80'
@@ -26,18 +149,29 @@ directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_sq
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
 id_no_class: sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
+id_no_color: 80gramspermetersquaregraycolor
 id_no_size: 80_grams_per_meter_square_gray_color
 id_no_type: a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203r9rm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203r9rm
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203r9rm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203r9rm
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color](none)<br>[](none)<br>[Paper
@@ -52,12 +186,32 @@ md5_6: 604d32
 md5_6_alpha: 3r9rm
 md5_6_alpha_upper: 3R9RM
 md5_6_upper: 604D32
-name: Paper Sheet A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Gray Color
-name_no_class: Sheet A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Gray
+name: Paper Sheet A4 210 mm Width 297 mm Height 80 Grams Per Meter Square Gray Color
+name_no_class: Sheet A4 210 mm Width 297 mm Height 80 Grams Per Meter Square Gray
   Color
+name_no_color: 80Gramspermetersquaregraycolor
 name_no_size: 80 Grams Per Meter Square Gray Color
 name_no_size_short: 80 Grams Per Meter Square Gray Color
-name_no_type: A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Gray Color
+name_no_type: A4 210 mm Width 297 mm Height 80 Grams Per Meter Square Gray Color
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_detail_hierarchy_5: 80_gram
+oomlout_detail_hierarchy_5_upper: 80_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: 80_G
+oomlout_detail_hierarchy_6: gray_color
+oomlout_detail_hierarchy_6_upper: GRAY_COLOR
+oomlout_detail_hierarchy_6_upper_length_4: GRAY
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_gray_color
 oomp_word: poodle bug cat
 oomp_word_emoji: ':poodle: :bug: :cat:'
@@ -73,19 +227,74 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: a4
+size_length_3: a4_
+size_length_4: a4_2
+size_length_5: a4_21
+size_length_6: a4_210
+size_name: A4 210 mm Width 297 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a4
+size_no_space_length_3: a42
+size_no_space_length_4: a421
+size_no_space_length_5: a4210
+size_no_space_length_6: a4210m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A4
+size_no_space_upper_length_3: A42
+size_no_space_upper_length_4: A421
+size_no_space_upper_length_5: A4210
+size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A4
+size_upper_length_3: A4_
+size_upper_length_4: A4_2
+size_upper_length_5: A4_21
+size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
 type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
 width: 210 mm

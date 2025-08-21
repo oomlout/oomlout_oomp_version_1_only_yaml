@@ -1,22 +1,97 @@
+bip_39_word_dash_12: often-pumpkin-produce-bomb-fragile-genre-board-cart-bring-congress-pepper-arrange
+bip_39_word_dash_2: often-pumpkin
+bip_39_word_dash_3: often-pumpkin-produce
+bip_39_word_new_br_12: often<br>pumpkin<br>produce<br>bomb<br>fragile<br>genre<br>board<br>cart<br>bring<br>congress<br>pepper<br>arrange
+bip_39_word_new_br_2: often<br>pumpkin
+bip_39_word_new_br_3: often<br>pumpkin<br>produce
+bip_39_word_new_line_12: 'often
+
+  pumpkin
+
+  produce
+
+  bomb
+
+  fragile
+
+  genre
+
+  board
+
+  cart
+
+  bring
+
+  congress
+
+  pepper
+
+  arrange'
+bip_39_word_new_line_2: 'often
+
+  pumpkin'
+bip_39_word_new_line_3: 'often
+
+  pumpkin
+
+  produce'
+bip_39_word_no_space_12: oftenpumpkinproducebombfragilegenreboardcartbringcongresspepperarrange
+bip_39_word_no_space_2: oftenpumpkin
+bip_39_word_no_space_3: oftenpumpkinproduce
+bip_39_word_space_12: often pumpkin produce bomb fragile genre board cart bring congress
+  pepper arrange
+bip_39_word_space_2: often pumpkin
+bip_39_word_space_3: often pumpkin produce
+bip_39_word_underscore_12: often_pumpkin_produce_bomb_fragile_genre_board_cart_bring_congress_pepper_arrange
+bip_39_word_underscore_2: often_pumpkin
+bip_39_word_underscore_3: often_pumpkin_produce
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -24,17 +99,28 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/hardware_ball_bearing_8_mm
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ball_bearing_8_mm
 id: hardware_ball_bearing_8_mm
 id_no_class: ball_bearing_8_mm
+id_no_color: 8mm
 id_no_size: 8_mm
 id_no_type: 8_mm
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_mm
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_mm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207p3nv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207p3nv
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207p3nv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207p3nv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_ball_bearing_8_mm](none)<br>[8](none)<br>[Hardware Ball
@@ -49,11 +135,22 @@ md5_6: c545cb
 md5_6_alpha: 7p3nv
 md5_6_alpha_upper: 7P3NV
 md5_6_upper: C545CB
-name: Hardware Ball Bearing 8 Mm
-name_no_class: Ball Bearing 8 Mm
-name_no_size: 8 Mm
+name: Hardware Ball Bearing 8 mm
+name_no_class: Ball Bearing 8 mm
+name_no_color: 8mm
+name_no_size: 8 mm
 name_no_size_short: 8 Mm
-name_no_type: 8 Mm
+name_no_type: 8 mm
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: ball_bearing
+oomlout_detail_hierarchy_2_upper: BALL_BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BALL
+oomlout_detail_hierarchy_3: 8_mm
+oomlout_detail_hierarchy_3_upper: 8_MM
+oomlout_detail_hierarchy_3_upper_length_4: 8_MM
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_ball_bearing_8_mm
 oomp_word: candy snake grapes
 oomp_word_emoji: ':candy: :snake: :grapes:'
@@ -69,18 +166,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: '8'
 short_code_upper: '8'
 size: 8_mm
 size_capital: 8 mm
 size_first_letter: '8'
 size_first_letter_upper: '8'
+size_length_1: '8'
+size_length_2: '8_'
+size_length_3: 8_m
+size_length_4: 8_mm
+size_length_5: 8_mm
+size_length_6: 8_mm
+size_name: 8 mm
+size_no_space_length_1: '8'
+size_no_space_length_2: 8m
+size_no_space_length_3: 8mm
+size_no_space_length_4: 8mm
+size_no_space_length_5: 8mm
+size_no_space_length_6: 8mm
+size_no_space_upper_length_1: '8'
+size_no_space_upper_length_2: 8M
+size_no_space_upper_length_3: 8MM
+size_no_space_upper_length_4: 8MM
+size_no_space_upper_length_5: 8MM
+size_no_space_upper_length_6: 8MM
 size_only_numbers: '8'
 size_only_numbers_no_zeros: '8'
 size_upper: 8_MM
+size_upper_length_1: '8'
+size_upper_length_2: '8_'
+size_upper_length_3: 8_M
+size_upper_length_4: 8_MM
+size_upper_length_5: 8_MM
+size_upper_length_6: 8_MM
 type: ball_bearing
 type_capital: Ball Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: ba
+type_length_3: bal
+type_length_4: ball
+type_length_5: ball_
+type_length_6: ball_b
+type_name: Ball Bearing
+type_no_space_length_1: b
+type_no_space_length_2: ba
+type_no_space_length_3: bal
+type_no_space_length_4: ball
+type_no_space_length_5: ballb
+type_no_space_length_6: ballbe
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BA
+type_no_space_upper_length_3: BAL
+type_no_space_upper_length_4: BALL
+type_no_space_upper_length_5: BALLB
+type_no_space_upper_length_6: BALLBE
 type_upper: BALL_BEARING
+type_upper_length_1: B
+type_upper_length_2: BA
+type_upper_length_3: BAL
+type_upper_length_4: BALL
+type_upper_length_5: BALL_
+type_upper_length_6: BALL_B

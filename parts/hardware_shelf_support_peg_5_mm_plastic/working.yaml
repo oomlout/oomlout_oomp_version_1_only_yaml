@@ -1,23 +1,122 @@
+bip_39_word_dash_12: make-alone-giraffe-two-smooth-sister-kitten-chunk-suffer-chuckle-usage-annual
+bip_39_word_dash_2: make-alone
+bip_39_word_dash_3: make-alone-giraffe
+bip_39_word_new_br_12: make<br>alone<br>giraffe<br>two<br>smooth<br>sister<br>kitten<br>chunk<br>suffer<br>chuckle<br>usage<br>annual
+bip_39_word_new_br_2: make<br>alone
+bip_39_word_new_br_3: make<br>alone<br>giraffe
+bip_39_word_new_line_12: 'make
+
+  alone
+
+  giraffe
+
+  two
+
+  smooth
+
+  sister
+
+  kitten
+
+  chunk
+
+  suffer
+
+  chuckle
+
+  usage
+
+  annual'
+bip_39_word_new_line_2: 'make
+
+  alone'
+bip_39_word_new_line_3: 'make
+
+  alone
+
+  giraffe'
+bip_39_word_no_space_12: makealonegiraffetwosmoothsisterkittenchunksufferchuckleusageannual
+bip_39_word_no_space_2: makealone
+bip_39_word_no_space_3: makealonegiraffe
+bip_39_word_space_12: make alone giraffe two smooth sister kitten chunk suffer chuckle
+  usage annual
+bip_39_word_space_2: make alone
+bip_39_word_space_3: make alone giraffe
+bip_39_word_underscore_12: make_alone_giraffe_two_smooth_sister_kitten_chunk_suffer_chuckle_usage_annual
+bip_39_word_underscore_2: make_alone
+bip_39_word_underscore_3: make_alone_giraffe
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: plastic
 description_main_capital: Plastic
 description_main_first_letter: p
 description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: pl
+description_main_length_3: pla
+description_main_length_4: plas
+description_main_length_5: plast
+description_main_length_6: plasti
+description_main_name: Plastic
+description_main_no_space_length_1: p
+description_main_no_space_length_2: pl
+description_main_no_space_length_3: pla
+description_main_no_space_length_4: plas
+description_main_no_space_length_5: plast
+description_main_no_space_length_6: plasti
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PL
+description_main_no_space_upper_length_3: PLA
+description_main_no_space_upper_length_4: PLAS
+description_main_no_space_upper_length_5: PLAST
+description_main_no_space_upper_length_6: PLASTI
 description_main_upper: PLASTIC
+description_main_upper_length_1: P
+description_main_upper_length_2: PL
+description_main_upper_length_3: PLA
+description_main_upper_length_4: PLAS
+description_main_upper_length_5: PLAST
+description_main_upper_length_6: PLASTI
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -27,18 +126,33 @@ distributor_amazon: B0CC1YRZP6
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
 id: hardware_shelf_support_peg_5_mm_plastic
 id_no_class: shelf_support_peg_5_mm_plastic
+id_no_color: plastic
 id_no_size: plastic
 id_no_type: 5_mm_plastic
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B0CC1YRZP6
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B0CC1YRZP6
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B0CC1YRZP6
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205xbt6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205xbt6
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205xbt6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205xbt6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_shelf_support_peg_5_mm_plastic](none)<br>[5](none)<br>[Hardware
@@ -53,11 +167,25 @@ md5_6: 97df0a
 md5_6_alpha: 5xbt6
 md5_6_alpha_upper: 5XBT6
 md5_6_upper: 97DF0A
-name: Hardware Shelf Support Peg 5 Mm Plastic
-name_no_class: Shelf Support Peg 5 Mm Plastic
+name: Hardware Shelf Support Peg 5 mm Plastic
+name_no_class: Shelf Support Peg 5 mm Plastic
+name_no_color: Plastic
 name_no_size: Plastic
 name_no_size_short: Plastic
-name_no_type: 5 Mm Plastic
+name_no_type: 5 mm Plastic
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: shelf_support_peg
+oomlout_detail_hierarchy_2_upper: SHELF_SUPPORT_PEG
+oomlout_detail_hierarchy_2_upper_length_4: SHEL
+oomlout_detail_hierarchy_3: 5_mm
+oomlout_detail_hierarchy_3_upper: 5_MM
+oomlout_detail_hierarchy_3_upper_length_4: 5_MM
+oomlout_detail_hierarchy_4: plastic
+oomlout_detail_hierarchy_4_upper: PLASTIC
+oomlout_detail_hierarchy_4_upper_length_4: PLAS
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_hardware_shelf_support_peg_5_mm_plastic
 oomp_word: baseball fountain sleepy
 oomp_word_emoji: ':baseball: :fountain: :sleepy:'
@@ -73,19 +201,75 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_distributor_3: 0.29125000000000006
 price_1_distributor_amazon: 0.29125000000000006
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: '5'
 short_code_upper: '5'
 size: 5_mm
 size_capital: 5 mm
 size_first_letter: '5'
 size_first_letter_upper: '5'
+size_length_1: '5'
+size_length_2: '5_'
+size_length_3: 5_m
+size_length_4: 5_mm
+size_length_5: 5_mm
+size_length_6: 5_mm
+size_name: 5 mm
+size_no_space_length_1: '5'
+size_no_space_length_2: 5m
+size_no_space_length_3: 5mm
+size_no_space_length_4: 5mm
+size_no_space_length_5: 5mm
+size_no_space_length_6: 5mm
+size_no_space_upper_length_1: '5'
+size_no_space_upper_length_2: 5M
+size_no_space_upper_length_3: 5MM
+size_no_space_upper_length_4: 5MM
+size_no_space_upper_length_5: 5MM
+size_no_space_upper_length_6: 5MM
 size_only_numbers: '5'
 size_only_numbers_no_zeros: '5'
 size_upper: 5_MM
+size_upper_length_1: '5'
+size_upper_length_2: '5_'
+size_upper_length_3: 5_M
+size_upper_length_4: 5_MM
+size_upper_length_5: 5_MM
+size_upper_length_6: 5_MM
 type: shelf_support_peg
 type_capital: Shelf Support Peg
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shel
+type_length_5: shelf
+type_length_6: shelf_
+type_name: Shelf Support Peg
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shel
+type_no_space_length_5: shelf
+type_no_space_length_6: shelfs
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEL
+type_no_space_upper_length_5: SHELF
+type_no_space_upper_length_6: SHELFS
 type_upper: SHELF_SUPPORT_PEG
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEL
+type_upper_length_5: SHELF
+type_upper_length_6: SHELF_

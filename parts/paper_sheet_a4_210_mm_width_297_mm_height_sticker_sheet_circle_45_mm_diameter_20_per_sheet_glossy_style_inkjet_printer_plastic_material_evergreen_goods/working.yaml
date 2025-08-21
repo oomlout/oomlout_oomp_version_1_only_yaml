@@ -1,23 +1,146 @@
+bip_39_word_dash_12: mutual-act-snow-age-video-undo-virtual-island-lab-crew-pencil-acoustic
+bip_39_word_dash_2: mutual-act
+bip_39_word_dash_3: mutual-act-snow
+bip_39_word_new_br_12: mutual<br>act<br>snow<br>age<br>video<br>undo<br>virtual<br>island<br>lab<br>crew<br>pencil<br>acoustic
+bip_39_word_new_br_2: mutual<br>act
+bip_39_word_new_br_3: mutual<br>act<br>snow
+bip_39_word_new_line_12: 'mutual
+
+  act
+
+  snow
+
+  age
+
+  video
+
+  undo
+
+  virtual
+
+  island
+
+  lab
+
+  crew
+
+  pencil
+
+  acoustic'
+bip_39_word_new_line_2: 'mutual
+
+  act'
+bip_39_word_new_line_3: 'mutual
+
+  act
+
+  snow'
+bip_39_word_no_space_12: mutualactsnowagevideoundovirtualislandlabcrewpencilacoustic
+bip_39_word_no_space_2: mutualact
+bip_39_word_no_space_3: mutualactsnow
+bip_39_word_space_12: mutual act snow age video undo virtual island lab crew pencil
+  acoustic
+bip_39_word_space_2: mutual act
+bip_39_word_space_3: mutual act snow
+bip_39_word_underscore_12: mutual_act_snow_age_video_undo_virtual_island_lab_crew_pencil_acoustic
+bip_39_word_underscore_2: mutual_act
+bip_39_word_underscore_3: mutual_act_snow
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: glossy_style_inkjet_printer_plastic_material
 description_extra_capital: Glossy Style Inkjet Printer Plastic Material
 description_extra_first_letter: g
 description_extra_first_letter_upper: G
+description_extra_length_1: g
+description_extra_length_2: gl
+description_extra_length_3: glo
+description_extra_length_4: glos
+description_extra_length_5: gloss
+description_extra_length_6: glossy
+description_extra_name: Glossy Style Inkjet Printer Plastic Material
+description_extra_no_space_length_1: g
+description_extra_no_space_length_2: gl
+description_extra_no_space_length_3: glo
+description_extra_no_space_length_4: glos
+description_extra_no_space_length_5: gloss
+description_extra_no_space_length_6: glossy
+description_extra_no_space_upper_length_1: G
+description_extra_no_space_upper_length_2: GL
+description_extra_no_space_upper_length_3: GLO
+description_extra_no_space_upper_length_4: GLOS
+description_extra_no_space_upper_length_5: GLOSS
+description_extra_no_space_upper_length_6: GLOSSY
 description_extra_upper: GLOSSY_STYLE_INKJET_PRINTER_PLASTIC_MATERIAL
+description_extra_upper_length_1: G
+description_extra_upper_length_2: GL
+description_extra_upper_length_3: GLO
+description_extra_upper_length_4: GLOS
+description_extra_upper_length_5: GLOSS
+description_extra_upper_length_6: GLOSSY
 description_main: sticker_sheet_circle_45_mm_diameter_20_per_sheet
 description_main_capital: Sticker Sheet Circle 45 mm Diameter 20 Per Sheet
 description_main_first_letter: s
 description_main_first_letter_upper: S
+description_main_length_1: s
+description_main_length_2: st
+description_main_length_3: sti
+description_main_length_4: stic
+description_main_length_5: stick
+description_main_length_6: sticke
+description_main_name: Sticker Sheet Circle 45 mm Diameter 20 Per Sheet
+description_main_no_space_length_1: s
+description_main_no_space_length_2: st
+description_main_no_space_length_3: sti
+description_main_no_space_length_4: stic
+description_main_no_space_length_5: stick
+description_main_no_space_length_6: sticke
+description_main_no_space_upper_length_1: S
+description_main_no_space_upper_length_2: ST
+description_main_no_space_upper_length_3: STI
+description_main_no_space_upper_length_4: STIC
+description_main_no_space_upper_length_5: STICK
+description_main_no_space_upper_length_6: STICKE
 description_main_upper: STICKER_SHEET_CIRCLE_45_MM_DIAMETER_20_PER_SHEET
+description_main_upper_length_1: S
+description_main_upper_length_2: ST
+description_main_upper_length_3: STI
+description_main_upper_length_4: STIC
+description_main_upper_length_5: STICK
+description_main_upper_length_6: STICKE
 description_only_numbers: '4520'
 description_only_numbers_short: 4k5
 description_or_color: 4k5
@@ -28,21 +151,60 @@ distributor_manufacturer: A4INKGW-C-45mm
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 id_no_class: sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+id_no_color: stickercircle45mmdiameter20perglossystyleinkjetprinterplasticmaterialevergreengoods
 id_no_size: sticker_circle_45_mm_diameter_20_per_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 id_no_type: a4_210_mm_width_297_mm_height_sticker_circle_45_mm_diameter_20_per_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B09314D2F5
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B09314D2F5
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B09314D2F5
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 link_manufacturer: https://www.evergreengoods.com/product-page/%C3%B845mm-circle-pre-cut-vinyl-labels-glossy-white-4x5-20-per-a4-sheet
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201aqfg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201aqfg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201aqfg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201aqfg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 manufacturer: evergreen_goods
 manufacturer_capital: Evergreen Goods
 manufacturer_first_letter: e
 manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: ev
+manufacturer_length_3: eve
+manufacturer_length_4: ever
+manufacturer_length_5: everg
+manufacturer_length_6: evergr
+manufacturer_name: Evergreen Goods
+manufacturer_no_space_length_1: e
+manufacturer_no_space_length_2: ev
+manufacturer_no_space_length_3: eve
+manufacturer_no_space_length_4: ever
+manufacturer_no_space_length_5: everg
+manufacturer_no_space_length_6: evergr
+manufacturer_no_space_upper_length_1: E
+manufacturer_no_space_upper_length_2: EV
+manufacturer_no_space_upper_length_3: EVE
+manufacturer_no_space_upper_length_4: EVER
+manufacturer_no_space_upper_length_5: EVERG
+manufacturer_no_space_upper_length_6: EVERGR
 manufacturer_upper: EVERGREEN_GOODS
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EV
+manufacturer_upper_length_3: EVE
+manufacturer_upper_length_4: EVER
+manufacturer_upper_length_5: EVERG
+manufacturer_upper_length_6: EVERGR
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods](none)<br>[](none)<br>[Paper
   Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Circle 45 Mm Diameter 20 Per Sheet
@@ -57,16 +219,45 @@ md5_6: 21454c
 md5_6_alpha: 1aqfg
 md5_6_alpha_upper: 1AQFG
 md5_6_upper: 21454C
-name: Paper Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Circle 45 Mm Diameter
+name: Paper Sheet A4 210 mm Width 297 mm Height Sticker Sheet Circle 45 mm Diameter
   20 Per Sheet Glossy Style Inkjet Printer Plastic Material Evergreen Goods
-name_no_class: Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Circle 45 Mm Diameter
+name_no_class: Sheet A4 210 mm Width 297 mm Height Sticker Sheet Circle 45 mm Diameter
   20 Per Sheet Glossy Style Inkjet Printer Plastic Material Evergreen Goods
-name_no_size: Sticker Circle 45 Mm Diameter 20 Per Glossy Style Inkjet Printer Plastic
+name_no_color: Stickercircle45mmdiameter20Perglossystyleinkjetprinterplasticmaterialevergreengoods
+name_no_size: Sticker Circle 45 mm Diameter 20 Per Glossy Style Inkjet Printer Plastic
   Material Evergreen Goods
 name_no_size_short: Sticker Circle 45 Mm Diameter 20 Per Glossy Style Inkjet Printer
   Plastic Material Evergreen Goods
-name_no_type: A4 210 Mm Width 297 Mm Height Sticker Circle 45 Mm Diameter 20 Per Glossy
+name_no_type: A4 210 mm Width 297 mm Height Sticker Circle 45 mm Diameter 20 Per Glossy
   Style Inkjet Printer Plastic Material Evergreen Goods
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_detail_hierarchy_5: sticker_sheet_circle_45
+oomlout_detail_hierarchy_5_upper: STICKER_SHEET_CIRCLE_45
+oomlout_detail_hierarchy_5_upper_length_4: STIC
+oomlout_detail_hierarchy_6: mm_diameter_20_per_sheet
+oomlout_detail_hierarchy_6_upper: MM_DIAMETER_20_PER_SHEET
+oomlout_detail_hierarchy_6_upper_length_4: MM_D
+oomlout_detail_hierarchy_7: glossy_style_inkjet_printer
+oomlout_detail_hierarchy_7_upper: GLOSSY_STYLE_INKJET_PRINTER
+oomlout_detail_hierarchy_7_upper_length_4: GLOS
+oomlout_detail_hierarchy_8: plastic_material
+oomlout_detail_hierarchy_8_upper: PLASTIC_MATERIAL
+oomlout_detail_hierarchy_8_upper_length_4: PLAS
+oomlout_detail_hierarchy_9: evergreen_goods
+oomlout_detail_hierarchy_9_upper: EVERGREEN_GOODS
+oomlout_detail_hierarchy_9_upper_length_4: EVER
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
 oomp_word: feet snake turtle
 oomp_word_emoji: ':feet: :snake: :turtle:'
@@ -82,21 +273,77 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
 price_1: 0.41625
+price_1_distributor_3: 0.41625
 price_1_distributor_amazon: 0.41625
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: a4
+size_length_3: a4_
+size_length_4: a4_2
+size_length_5: a4_21
+size_length_6: a4_210
+size_name: A4 210 mm Width 297 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a4
+size_no_space_length_3: a42
+size_no_space_length_4: a421
+size_no_space_length_5: a4210
+size_no_space_length_6: a4210m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A4
+size_no_space_upper_length_3: A42
+size_no_space_upper_length_4: A421
+size_no_space_upper_length_5: A4210
+size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A4
+size_upper_length_3: A4_
+size_upper_length_4: A4_2
+size_upper_length_5: A4_21
+size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
 type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
 width: 210 mm

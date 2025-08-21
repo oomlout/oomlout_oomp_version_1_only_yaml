@@ -1,23 +1,170 @@
+bip_39_word_dash_12: lava-hard-general-planet-gossip-wrap-minimum-motion-sheriff-year-strike-announce
+bip_39_word_dash_2: lava-hard
+bip_39_word_dash_3: lava-hard-general
+bip_39_word_new_br_12: lava<br>hard<br>general<br>planet<br>gossip<br>wrap<br>minimum<br>motion<br>sheriff<br>year<br>strike<br>announce
+bip_39_word_new_br_2: lava<br>hard
+bip_39_word_new_br_3: lava<br>hard<br>general
+bip_39_word_new_line_12: 'lava
+
+  hard
+
+  general
+
+  planet
+
+  gossip
+
+  wrap
+
+  minimum
+
+  motion
+
+  sheriff
+
+  year
+
+  strike
+
+  announce'
+bip_39_word_new_line_2: 'lava
+
+  hard'
+bip_39_word_new_line_3: 'lava
+
+  hard
+
+  general'
+bip_39_word_no_space_12: lavahardgeneralplanetgossipwrapminimummotionsheriffyearstrikeannounce
+bip_39_word_no_space_2: lavahard
+bip_39_word_no_space_3: lavahardgeneral
+bip_39_word_space_12: lava hard general planet gossip wrap minimum motion sheriff
+  year strike announce
+bip_39_word_space_2: lava hard
+bip_39_word_space_3: lava hard general
+bip_39_word_underscore_12: lava_hard_general_planet_gossip_wrap_minimum_motion_sheriff_year_strike_announce
+bip_39_word_underscore_2: lava_hard
+bip_39_word_underscore_3: lava_hard_general
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
+classification_length_1: g
+classification_length_2: ga
+classification_length_3: gar
+classification_length_4: gard
+classification_length_5: garde
+classification_length_6: garden
+classification_name: Garden
+classification_no_space_length_1: g
+classification_no_space_length_2: ga
+classification_no_space_length_3: gar
+classification_no_space_length_4: gard
+classification_no_space_length_5: garde
+classification_no_space_length_6: garden
+classification_no_space_upper_length_1: G
+classification_no_space_upper_length_2: GA
+classification_no_space_upper_length_3: GAR
+classification_no_space_upper_length_4: GARD
+classification_no_space_upper_length_5: GARDE
+classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
+classification_upper_length_1: G
+classification_upper_length_2: GA
+classification_upper_length_3: GAR
+classification_upper_length_4: GARD
+classification_upper_length_5: GARDE
+classification_upper_length_6: GARDEN
 color: lupin
 color_capital: Lupin
 color_first_letter: l
 color_first_letter_upper: L
+color_length_1: l
+color_length_2: lu
+color_length_3: lup
+color_length_4: lupi
+color_length_5: lupin
+color_length_6: lupin
+color_name: Lupin
+color_no_space_length_1: l
+color_no_space_length_2: lu
+color_no_space_length_3: lup
+color_no_space_length_4: lupi
+color_no_space_length_5: lupin
+color_no_space_length_6: lupin
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LU
+color_no_space_upper_length_3: LUP
+color_no_space_upper_length_4: LUPI
+color_no_space_upper_length_5: LUPIN
+color_no_space_upper_length_6: LUPIN
 color_upper: LUPIN
+color_upper_length_1: L
+color_upper_length_2: LU
+color_upper_length_3: LUP
+color_upper_length_4: LUPI
+color_upper_length_5: LUPIN
+color_upper_length_6: LUPIN
 description_extra: seed_packet
 description_extra_capital: Seed Packet
 description_extra_first_letter: s
 description_extra_first_letter_upper: S
+description_extra_length_1: s
+description_extra_length_2: se
+description_extra_length_3: see
+description_extra_length_4: seed
+description_extra_length_5: seed_
+description_extra_length_6: seed_p
+description_extra_name: Seed Packet
+description_extra_no_space_length_1: s
+description_extra_no_space_length_2: se
+description_extra_no_space_length_3: see
+description_extra_no_space_length_4: seed
+description_extra_no_space_length_5: seedp
+description_extra_no_space_length_6: seedpa
+description_extra_no_space_upper_length_1: S
+description_extra_no_space_upper_length_2: SE
+description_extra_no_space_upper_length_3: SEE
+description_extra_no_space_upper_length_4: SEED
+description_extra_no_space_upper_length_5: SEEDP
+description_extra_no_space_upper_length_6: SEEDPA
 description_extra_upper: SEED_PACKET
+description_extra_upper_length_1: S
+description_extra_upper_length_2: SE
+description_extra_upper_length_3: SEE
+description_extra_upper_length_4: SEED
+description_extra_upper_length_5: SEED_
+description_extra_upper_length_6: SEED_P
 description_main: mix_gallery
 description_main_capital: Mix Gallery
 description_main_first_letter: m
 description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mix_
+description_main_length_5: mix_g
+description_main_length_6: mix_ga
+description_main_name: Mix Gallery
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixg
+description_main_no_space_length_5: mixga
+description_main_no_space_length_6: mixgal
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXG
+description_main_no_space_upper_length_5: MIXGA
+description_main_no_space_upper_length_6: MIXGAL
 description_main_upper: MIX_GALLERY
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIX_
+description_main_upper_length_5: MIX_G
+description_main_upper_length_6: MIX_GA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'L '
@@ -25,18 +172,29 @@ description_or_color_upper: 'L '
 directory: parts/garden_plant_flower_lupin_mix_gallery_seed_packet
 distributor_sutton_seeds: '142035'
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
 id: garden_plant_flower_lupin_mix_gallery_seed_packet
 id_no_class: plant_flower_lupin_mix_gallery_seed_packet
+id_no_color: mix_gallery_seed_packet
 id_no_size: lupin_mix_gallery_seed_packet
 id_no_type: flower_lupin_mix_gallery_seed_packet
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+link_2_name: link_github
 link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/all/lupin-seeds-gallery-mix_MH-623
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205u91b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205u91b
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205u91b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205u91b
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_flower_lupin_mix_gallery_seed_packet](none)<br>[](none)<br>[Garden
@@ -53,9 +211,29 @@ md5_6_alpha_upper: 5U91B
 md5_6_upper: 95AE3F
 name: Garden Plant Flower Lupin Mix Gallery Seed Packet
 name_no_class: Plant Flower Lupin Mix Gallery Seed Packet
+name_no_color: Mix Gallery Seed Packet
 name_no_size: Lupin Mix Gallery Seed Packet
 name_no_size_short: Lupin Mix Gallery Seed Packet
 name_no_type: Flower Lupin Mix Gallery Seed Packet
+oomlout_detail_hierarchy_1: garden
+oomlout_detail_hierarchy_1_upper: GARDEN
+oomlout_detail_hierarchy_1_upper_length_4: GARD
+oomlout_detail_hierarchy_2: plant
+oomlout_detail_hierarchy_2_upper: PLANT
+oomlout_detail_hierarchy_2_upper_length_4: PLAN
+oomlout_detail_hierarchy_3: flower
+oomlout_detail_hierarchy_3_upper: FLOWER
+oomlout_detail_hierarchy_3_upper_length_4: FLOW
+oomlout_detail_hierarchy_4: lupin
+oomlout_detail_hierarchy_4_upper: LUPIN
+oomlout_detail_hierarchy_4_upper_length_4: LUPI
+oomlout_detail_hierarchy_5: mix_gallery
+oomlout_detail_hierarchy_5_upper: MIX_GALLERY
+oomlout_detail_hierarchy_5_upper_length_4: MIX_
+oomlout_detail_hierarchy_6: seed_packet
+oomlout_detail_hierarchy_6_upper: SEED_PACKET
+oomlout_detail_hierarchy_6_upper_length_4: SEED
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_garden_plant_flower_lupin_mix_gallery_seed_packet
 oomp_word: telescope jeans horse
 oomp_word_emoji: ':telescope: :jeans: :horse:'
@@ -71,7 +249,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -79,11 +262,61 @@ size: flower
 size_capital: Flower
 size_first_letter: f
 size_first_letter_upper: F
+size_length_1: f
+size_length_2: fl
+size_length_3: flo
+size_length_4: flow
+size_length_5: flowe
+size_length_6: flower
+size_name: Flower
+size_no_space_length_1: f
+size_no_space_length_2: fl
+size_no_space_length_3: flo
+size_no_space_length_4: flow
+size_no_space_length_5: flowe
+size_no_space_length_6: flower
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FL
+size_no_space_upper_length_3: FLO
+size_no_space_upper_length_4: FLOW
+size_no_space_upper_length_5: FLOWE
+size_no_space_upper_length_6: FLOWER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FLOWER
+size_upper_length_1: F
+size_upper_length_2: FL
+size_upper_length_3: FLO
+size_upper_length_4: FLOW
+size_upper_length_5: FLOWE
+size_upper_length_6: FLOWER
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pl
+type_length_3: pla
+type_length_4: plan
+type_length_5: plant
+type_length_6: plant
+type_name: Plant
+type_no_space_length_1: p
+type_no_space_length_2: pl
+type_no_space_length_3: pla
+type_no_space_length_4: plan
+type_no_space_length_5: plant
+type_no_space_length_6: plant
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PL
+type_no_space_upper_length_3: PLA
+type_no_space_upper_length_4: PLAN
+type_no_space_upper_length_5: PLANT
+type_no_space_upper_length_6: PLANT
 type_upper: PLANT
+type_upper_length_1: P
+type_upper_length_2: PL
+type_upper_length_3: PLA
+type_upper_length_4: PLAN
+type_upper_length_5: PLANT
+type_upper_length_6: PLANT

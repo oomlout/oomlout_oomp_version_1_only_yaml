@@ -1,23 +1,122 @@
+bip_39_word_dash_12: spike-hill-birth-laundry-antenna-steak-spread-same-blush-social-snake-advance
+bip_39_word_dash_2: spike-hill
+bip_39_word_dash_3: spike-hill-birth
+bip_39_word_new_br_12: spike<br>hill<br>birth<br>laundry<br>antenna<br>steak<br>spread<br>same<br>blush<br>social<br>snake<br>advance
+bip_39_word_new_br_2: spike<br>hill
+bip_39_word_new_br_3: spike<br>hill<br>birth
+bip_39_word_new_line_12: 'spike
+
+  hill
+
+  birth
+
+  laundry
+
+  antenna
+
+  steak
+
+  spread
+
+  same
+
+  blush
+
+  social
+
+  snake
+
+  advance'
+bip_39_word_new_line_2: 'spike
+
+  hill'
+bip_39_word_new_line_3: 'spike
+
+  hill
+
+  birth'
+bip_39_word_no_space_12: spikehillbirthlaundryantennasteakspreadsameblushsocialsnakeadvance
+bip_39_word_no_space_2: spikehill
+bip_39_word_no_space_3: spikehillbirth
+bip_39_word_space_12: spike hill birth laundry antenna steak spread same blush social
+  snake advance
+bip_39_word_space_2: spike hill
+bip_39_word_space_3: spike hill birth
+bip_39_word_underscore_12: spike_hill_birth_laundry_antenna_steak_spread_same_blush_social_snake_advance
+bip_39_word_underscore_2: spike_hill
+bip_39_word_underscore_3: spike_hill_birth
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: loom
 color_capital: Loom
 color_first_letter: l
 color_first_letter_upper: L
+color_length_1: l
+color_length_2: lo
+color_length_3: loo
+color_length_4: loom
+color_length_5: loom
+color_length_6: loom
+color_name: Loom
+color_no_space_length_1: l
+color_no_space_length_2: lo
+color_no_space_length_3: loo
+color_no_space_length_4: loom
+color_no_space_length_5: loom
+color_no_space_length_6: loom
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LO
+color_no_space_upper_length_3: LOO
+color_no_space_upper_length_4: LOOM
+color_no_space_upper_length_5: LOOM
+color_no_space_upper_length_6: LOOM
 color_upper: LOOM
+color_upper_length_1: L
+color_upper_length_2: LO
+color_upper_length_3: LOO
+color_upper_length_4: LOOM
+color_upper_length_5: LOOM
+color_upper_length_6: LOOM
 description: category_craft
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +126,28 @@ directory: parts/category_craft_bead_loom
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_bead_loom
 id: category_craft_bead_loom
 id_no_class: craft_bead_loom
+id_no_color: loom
 id_no_size: loom
 id_no_type: bead_loom
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202hcab
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202hcab
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202hcab
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202hcab
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_bead_loom](none)<br>[](none)<br>[Category Craft Bead
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 2HCAB
 md5_6_upper: 3F9A73
 name: Category Craft Bead Loom
 name_no_class: Craft Bead Loom
+name_no_color: Loom
 name_no_size: Loom
 name_no_size_short: Loom
 name_no_type: Bead Loom
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: craft
+oomlout_detail_hierarchy_2_upper: CRAFT
+oomlout_detail_hierarchy_2_upper_length_4: CRAF
+oomlout_detail_hierarchy_3: bead
+oomlout_detail_hierarchy_3_upper: BEAD
+oomlout_detail_hierarchy_3_upper_length_4: BEAD
+oomlout_detail_hierarchy_4: loom
+oomlout_detail_hierarchy_4_upper: LOOM
+oomlout_detail_hierarchy_4_upper_length_4: LOOM
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_craft_bead_loom
 oomp_word: horse golf flags
 oomp_word_emoji: ':horse: :golf: :flags:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycraft
@@ -81,11 +210,61 @@ size: bead
 size_capital: Bead
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: be
+size_length_3: bea
+size_length_4: bead
+size_length_5: bead
+size_length_6: bead
+size_name: Bead
+size_no_space_length_1: b
+size_no_space_length_2: be
+size_no_space_length_3: bea
+size_no_space_length_4: bead
+size_no_space_length_5: bead
+size_no_space_length_6: bead
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BE
+size_no_space_upper_length_3: BEA
+size_no_space_upper_length_4: BEAD
+size_no_space_upper_length_5: BEAD
+size_no_space_upper_length_6: BEAD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BEAD
+size_upper_length_1: B
+size_upper_length_2: BE
+size_upper_length_3: BEA
+size_upper_length_4: BEAD
+size_upper_length_5: BEAD
+size_upper_length_6: BEAD
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: cr
+type_length_3: cra
+type_length_4: craf
+type_length_5: craft
+type_length_6: craft
+type_name: Craft
+type_no_space_length_1: c
+type_no_space_length_2: cr
+type_no_space_length_3: cra
+type_no_space_length_4: craf
+type_no_space_length_5: craft
+type_no_space_length_6: craft
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CR
+type_no_space_upper_length_3: CRA
+type_no_space_upper_length_4: CRAF
+type_no_space_upper_length_5: CRAFT
+type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
+type_upper_length_1: C
+type_upper_length_2: CR
+type_upper_length_3: CRA
+type_upper_length_4: CRAF
+type_upper_length_5: CRAFT
+type_upper_length_6: CRAFT

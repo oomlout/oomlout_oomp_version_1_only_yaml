@@ -1,22 +1,121 @@
+bip_39_word_dash_12: reward-path-aware-gas-globe-sting-divert-blush-audit-volcano-cost-artist
+bip_39_word_dash_2: reward-path
+bip_39_word_dash_3: reward-path-aware
+bip_39_word_new_br_12: reward<br>path<br>aware<br>gas<br>globe<br>sting<br>divert<br>blush<br>audit<br>volcano<br>cost<br>artist
+bip_39_word_new_br_2: reward<br>path
+bip_39_word_new_br_3: reward<br>path<br>aware
+bip_39_word_new_line_12: 'reward
+
+  path
+
+  aware
+
+  gas
+
+  globe
+
+  sting
+
+  divert
+
+  blush
+
+  audit
+
+  volcano
+
+  cost
+
+  artist'
+bip_39_word_new_line_2: 'reward
+
+  path'
+bip_39_word_new_line_3: 'reward
+
+  path
+
+  aware'
+bip_39_word_no_space_12: rewardpathawaregasglobestingdivertblushauditvolcanocostartist
+bip_39_word_no_space_2: rewardpath
+bip_39_word_no_space_3: rewardpathaware
+bip_39_word_space_12: reward path aware gas globe sting divert blush audit volcano
+  cost artist
+bip_39_word_space_2: reward path
+bip_39_word_space_3: reward path aware
+bip_39_word_underscore_12: reward_path_aware_gas_globe_sting_divert_blush_audit_volcano_cost_artist
+bip_39_word_underscore_2: reward_path
+bip_39_word_underscore_3: reward_path_aware
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: blue
 color_capital: Blue
 color_first_letter: b
 color_first_letter_upper: B
+color_length_1: b
+color_length_2: bl
+color_length_3: blu
+color_length_4: blue
+color_length_5: blue
+color_length_6: blue
+color_name: Blue
+color_no_space_length_1: b
+color_no_space_length_2: bl
+color_no_space_length_3: blu
+color_no_space_length_4: blue
+color_no_space_length_5: blue
+color_no_space_length_6: blue
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BL
+color_no_space_upper_length_3: BLU
+color_no_space_upper_length_4: BLUE
+color_no_space_upper_length_5: BLUE
+color_no_space_upper_length_6: BLUE
 color_upper: BLUE
+color_upper_length_1: B
+color_upper_length_2: BL
+color_upper_length_3: BLU
+color_upper_length_4: BLUE
+color_upper_length_5: BLUE
+color_upper_length_6: BLUE
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -37,18 +136,29 @@ footprint:
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ll_electronic_led_0201_blue
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_0201_blue
 id: electronic_led_0201_blue
 id_no_class: led_0201_blue
+id_no_color: blue
 id_no_size: blue
 id_no_type: 0201_blue
 kicad_reference: L
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2084pdp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2084pdp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2084pdp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2084pdp
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[electronic_led_0201_blue](none)<br>[ll](none)<br>[Electronic Led
@@ -63,11 +173,25 @@ md5_6: d0617d
 md5_6_alpha: 84pdp
 md5_6_alpha_upper: 84PDP
 md5_6_upper: D0617D
-name: Electronic Led 0201 Blue
-name_no_class: Led 0201 Blue
+name: Electronic LED 0201 Blue
+name_no_class: LED 0201 Blue
+name_no_color: Blue
 name_no_size: Blue
 name_no_size_short: Blue
 name_no_type: 0201 Blue
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: led
+oomlout_detail_hierarchy_2_upper: LED
+oomlout_detail_hierarchy_2_upper_length_4: LED
+oomlout_detail_hierarchy_3: '0201'
+oomlout_detail_hierarchy_3_upper: '0201'
+oomlout_detail_hierarchy_3_upper_length_4: '0201'
+oomlout_detail_hierarchy_4: blue
+oomlout_detail_hierarchy_4_upper: BLUE
+oomlout_detail_hierarchy_4_upper_length_4: BLUE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_led_0201_blue
 oomp_word: banana bouquet phone
 oomp_word_emoji: ':banana: :bouquet: :phone:'
@@ -83,7 +207,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ll
 short_code_upper: LL
 short_name: 0201 Blue Led
@@ -91,9 +220,34 @@ size: '0201'
 size_capital: '0201'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '02'
+size_length_3: '020'
+size_length_4: '0201'
+size_length_5: '0201'
+size_length_6: '0201'
+size_name: '0201'
+size_no_space_length_1: '0'
+size_no_space_length_2: '02'
+size_no_space_length_3: '020'
+size_no_space_length_4: '0201'
+size_no_space_length_5: '0201'
+size_no_space_length_6: '0201'
+size_no_space_upper_length_1: '0'
+size_no_space_upper_length_2: '02'
+size_no_space_upper_length_3: '020'
+size_no_space_upper_length_4: '0201'
+size_no_space_upper_length_5: '0201'
+size_no_space_upper_length_6: '0201'
 size_only_numbers: '0201'
 size_only_numbers_no_zeros: '21'
 size_upper: '0201'
+size_upper_length_1: '0'
+size_upper_length_2: '02'
+size_upper_length_3: '020'
+size_upper_length_4: '0201'
+size_upper_length_5: '0201'
+size_upper_length_6: '0201'
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_device_led//working/working.kicad_sym
   index: 0
@@ -103,4 +257,29 @@ type: led
 type_capital: Led
 type_first_letter: l
 type_first_letter_upper: L
+type_length_1: l
+type_length_2: le
+type_length_3: led
+type_length_4: led
+type_length_5: led
+type_length_6: led
+type_name: LED
+type_no_space_length_1: l
+type_no_space_length_2: le
+type_no_space_length_3: led
+type_no_space_length_4: led
+type_no_space_length_5: led
+type_no_space_length_6: led
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LE
+type_no_space_upper_length_3: LED
+type_no_space_upper_length_4: LED
+type_no_space_upper_length_5: LED
+type_no_space_upper_length_6: LED
 type_upper: LED
+type_upper_length_1: L
+type_upper_length_2: LE
+type_upper_length_3: LED
+type_upper_length_4: LED
+type_upper_length_5: LED
+type_upper_length_6: LED

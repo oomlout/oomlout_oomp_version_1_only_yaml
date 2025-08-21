@@ -1,23 +1,170 @@
+bip_39_word_dash_12: describe-deer-taxi-world-permit-worry-roast-satisfy-twin-diesel-combine-adult
+bip_39_word_dash_2: describe-deer
+bip_39_word_dash_3: describe-deer-taxi
+bip_39_word_new_br_12: describe<br>deer<br>taxi<br>world<br>permit<br>worry<br>roast<br>satisfy<br>twin<br>diesel<br>combine<br>adult
+bip_39_word_new_br_2: describe<br>deer
+bip_39_word_new_br_3: describe<br>deer<br>taxi
+bip_39_word_new_line_12: 'describe
+
+  deer
+
+  taxi
+
+  world
+
+  permit
+
+  worry
+
+  roast
+
+  satisfy
+
+  twin
+
+  diesel
+
+  combine
+
+  adult'
+bip_39_word_new_line_2: 'describe
+
+  deer'
+bip_39_word_new_line_3: 'describe
+
+  deer
+
+  taxi'
+bip_39_word_no_space_12: describedeertaxiworldpermitworryroastsatisfytwindieselcombineadult
+bip_39_word_no_space_2: describedeer
+bip_39_word_no_space_3: describedeertaxi
+bip_39_word_space_12: describe deer taxi world permit worry roast satisfy twin diesel
+  combine adult
+bip_39_word_space_2: describe deer
+bip_39_word_space_3: describe deer taxi
+bip_39_word_underscore_12: describe_deer_taxi_world_permit_worry_roast_satisfy_twin_diesel_combine_adult
+bip_39_word_underscore_2: describe_deer
+bip_39_word_underscore_3: describe_deer_taxi
 classification: garden
 classification_capital: Garden
 classification_first_letter: g
 classification_first_letter_upper: G
+classification_length_1: g
+classification_length_2: ga
+classification_length_3: gar
+classification_length_4: gard
+classification_length_5: garde
+classification_length_6: garden
+classification_name: Garden
+classification_no_space_length_1: g
+classification_no_space_length_2: ga
+classification_no_space_length_3: gar
+classification_no_space_length_4: gard
+classification_no_space_length_5: garde
+classification_no_space_length_6: garden
+classification_no_space_upper_length_1: G
+classification_no_space_upper_length_2: GA
+classification_no_space_upper_length_3: GAR
+classification_no_space_upper_length_4: GARD
+classification_no_space_upper_length_5: GARDE
+classification_no_space_upper_length_6: GARDEN
 classification_upper: GARDEN
+classification_upper_length_1: G
+classification_upper_length_2: GA
+classification_upper_length_3: GAR
+classification_upper_length_4: GARD
+classification_upper_length_5: GARDE
+classification_upper_length_6: GARDEN
 color: cosmos
 color_capital: Cosmos
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: cos
+color_length_4: cosm
+color_length_5: cosmo
+color_length_6: cosmos
+color_name: Cosmos
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: cos
+color_no_space_length_4: cosm
+color_no_space_length_5: cosmo
+color_no_space_length_6: cosmos
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COS
+color_no_space_upper_length_4: COSM
+color_no_space_upper_length_5: COSMO
+color_no_space_upper_length_6: COSMOS
 color_upper: COSMOS
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COS
+color_upper_length_4: COSM
+color_upper_length_5: COSMO
+color_upper_length_6: COSMOS
 description_extra: seed_packet
 description_extra_capital: Seed Packet
 description_extra_first_letter: s
 description_extra_first_letter_upper: S
+description_extra_length_1: s
+description_extra_length_2: se
+description_extra_length_3: see
+description_extra_length_4: seed
+description_extra_length_5: seed_
+description_extra_length_6: seed_p
+description_extra_name: Seed Packet
+description_extra_no_space_length_1: s
+description_extra_no_space_length_2: se
+description_extra_no_space_length_3: see
+description_extra_no_space_length_4: seed
+description_extra_no_space_length_5: seedp
+description_extra_no_space_length_6: seedpa
+description_extra_no_space_upper_length_1: S
+description_extra_no_space_upper_length_2: SE
+description_extra_no_space_upper_length_3: SEE
+description_extra_no_space_upper_length_4: SEED
+description_extra_no_space_upper_length_5: SEEDP
+description_extra_no_space_upper_length_6: SEEDPA
 description_extra_upper: SEED_PACKET
+description_extra_upper_length_1: S
+description_extra_upper_length_2: SE
+description_extra_upper_length_3: SEE
+description_extra_upper_length_4: SEED
+description_extra_upper_length_5: SEED_
+description_extra_upper_length_6: SEED_P
 description_main: apricotta
 description_main_capital: Apricotta
 description_main_first_letter: a
 description_main_first_letter_upper: A
+description_main_length_1: a
+description_main_length_2: ap
+description_main_length_3: apr
+description_main_length_4: apri
+description_main_length_5: apric
+description_main_length_6: aprico
+description_main_name: Apricotta
+description_main_no_space_length_1: a
+description_main_no_space_length_2: ap
+description_main_no_space_length_3: apr
+description_main_no_space_length_4: apri
+description_main_no_space_length_5: apric
+description_main_no_space_length_6: aprico
+description_main_no_space_upper_length_1: A
+description_main_no_space_upper_length_2: AP
+description_main_no_space_upper_length_3: APR
+description_main_no_space_upper_length_4: APRI
+description_main_no_space_upper_length_5: APRIC
+description_main_no_space_upper_length_6: APRICO
 description_main_upper: APRICOTTA
+description_main_upper_length_1: A
+description_main_upper_length_2: AP
+description_main_upper_length_3: APR
+description_main_upper_length_4: APRI
+description_main_upper_length_5: APRIC
+description_main_upper_length_6: APRICO
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'C '
@@ -25,18 +172,29 @@ description_or_color_upper: 'C '
 directory: parts/garden_plant_flower_cosmos_apricotta_seed_packet
 distributor_sutton_seeds: '111300'
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_flower_cosmos_apricotta_seed_packet
 id: garden_plant_flower_cosmos_apricotta_seed_packet
 id_no_class: plant_flower_cosmos_apricotta_seed_packet
+id_no_color: apricotta_seed_packet
 id_no_size: cosmos_apricotta_seed_packet
 id_no_type: flower_cosmos_apricotta_seed_packet
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta_seed_packet
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta_seed_packet
+link_2_name: link_github
 link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/cosmos-apricotta-seeds_mh11840
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta_seed_packet
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta_seed_packet
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202cs7j
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202cs7j
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202cs7j
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202cs7j
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta_seed_packet
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[garden_plant_flower_cosmos_apricotta_seed_packet](none)<br>[](none)<br>[Garden
@@ -53,9 +211,29 @@ md5_6_alpha_upper: 2CS7J
 md5_6_upper: 3C5BCF
 name: Garden Plant Flower Cosmos Apricotta Seed Packet
 name_no_class: Plant Flower Cosmos Apricotta Seed Packet
+name_no_color: Apricotta Seed Packet
 name_no_size: Cosmos Apricotta Seed Packet
 name_no_size_short: Cosmos Apricotta Seed Packet
 name_no_type: Flower Cosmos Apricotta Seed Packet
+oomlout_detail_hierarchy_1: garden
+oomlout_detail_hierarchy_1_upper: GARDEN
+oomlout_detail_hierarchy_1_upper_length_4: GARD
+oomlout_detail_hierarchy_2: plant
+oomlout_detail_hierarchy_2_upper: PLANT
+oomlout_detail_hierarchy_2_upper_length_4: PLAN
+oomlout_detail_hierarchy_3: flower
+oomlout_detail_hierarchy_3_upper: FLOWER
+oomlout_detail_hierarchy_3_upper_length_4: FLOW
+oomlout_detail_hierarchy_4: cosmos
+oomlout_detail_hierarchy_4_upper: COSMOS
+oomlout_detail_hierarchy_4_upper_length_4: COSM
+oomlout_detail_hierarchy_5: apricotta
+oomlout_detail_hierarchy_5_upper: APRICOTTA
+oomlout_detail_hierarchy_5_upper_length_4: APRI
+oomlout_detail_hierarchy_6: seed_packet
+oomlout_detail_hierarchy_6_upper: SEED_PACKET
+oomlout_detail_hierarchy_6_upper_length_4: SEED
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_garden_plant_flower_cosmos_apricotta_seed_packet
 oomp_word: pig rooster melon
 oomp_word_emoji: ':pig: :rooster: :melon:'
@@ -71,7 +249,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -79,11 +262,61 @@ size: flower
 size_capital: Flower
 size_first_letter: f
 size_first_letter_upper: F
+size_length_1: f
+size_length_2: fl
+size_length_3: flo
+size_length_4: flow
+size_length_5: flowe
+size_length_6: flower
+size_name: Flower
+size_no_space_length_1: f
+size_no_space_length_2: fl
+size_no_space_length_3: flo
+size_no_space_length_4: flow
+size_no_space_length_5: flowe
+size_no_space_length_6: flower
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FL
+size_no_space_upper_length_3: FLO
+size_no_space_upper_length_4: FLOW
+size_no_space_upper_length_5: FLOWE
+size_no_space_upper_length_6: FLOWER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FLOWER
+size_upper_length_1: F
+size_upper_length_2: FL
+size_upper_length_3: FLO
+size_upper_length_4: FLOW
+size_upper_length_5: FLOWE
+size_upper_length_6: FLOWER
 type: plant
 type_capital: Plant
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pl
+type_length_3: pla
+type_length_4: plan
+type_length_5: plant
+type_length_6: plant
+type_name: Plant
+type_no_space_length_1: p
+type_no_space_length_2: pl
+type_no_space_length_3: pla
+type_no_space_length_4: plan
+type_no_space_length_5: plant
+type_no_space_length_6: plant
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PL
+type_no_space_upper_length_3: PLA
+type_no_space_upper_length_4: PLAN
+type_no_space_upper_length_5: PLANT
+type_no_space_upper_length_6: PLANT
 type_upper: PLANT
+type_upper_length_1: P
+type_upper_length_2: PL
+type_upper_length_3: PLA
+type_upper_length_4: PLAN
+type_upper_length_5: PLANT
+type_upper_length_6: PLANT

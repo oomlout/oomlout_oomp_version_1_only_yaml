@@ -1,40 +1,150 @@
+bip_39_word_dash_12: control-deny-cherry-tattoo-spare-happy-estate-light-honey-prize-predict-absurd
+bip_39_word_dash_2: control-deny
+bip_39_word_dash_3: control-deny-cherry
+bip_39_word_new_br_12: control<br>deny<br>cherry<br>tattoo<br>spare<br>happy<br>estate<br>light<br>honey<br>prize<br>predict<br>absurd
+bip_39_word_new_br_2: control<br>deny
+bip_39_word_new_br_3: control<br>deny<br>cherry
+bip_39_word_new_line_12: 'control
+
+  deny
+
+  cherry
+
+  tattoo
+
+  spare
+
+  happy
+
+  estate
+
+  light
+
+  honey
+
+  prize
+
+  predict
+
+  absurd'
+bip_39_word_new_line_2: 'control
+
+  deny'
+bip_39_word_new_line_3: 'control
+
+  deny
+
+  cherry'
+bip_39_word_no_space_12: controldenycherrytattoosparehappyestatelighthoneyprizepredictabsurd
+bip_39_word_no_space_2: controldeny
+bip_39_word_no_space_3: controldenycherry
+bip_39_word_space_12: control deny cherry tattoo spare happy estate light honey prize
+  predict absurd
+bip_39_word_space_2: control deny
+bip_39_word_space_3: control deny cherry
+bip_39_word_underscore_12: control_deny_cherry_tattoo_spare_happy_estate_light_honey_prize_predict_absurd
+bip_39_word_underscore_2: control_deny
+bip_39_word_underscore_3: control_deny_cherry
 classification: craft
 classification_capital: Craft
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cr
+classification_length_3: cra
+classification_length_4: craf
+classification_length_5: craft
+classification_length_6: craft
+classification_name: Craft
+classification_no_space_length_1: c
+classification_no_space_length_2: cr
+classification_no_space_length_3: cra
+classification_no_space_length_4: craf
+classification_no_space_length_5: craft
+classification_no_space_length_6: craft
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CR
+classification_no_space_upper_length_3: CRA
+classification_no_space_upper_length_4: CRAF
+classification_no_space_upper_length_5: CRAFT
+classification_no_space_upper_length_6: CRAFT
 classification_upper: CRAFT
+classification_upper_length_1: C
+classification_upper_length_2: CR
+classification_upper_length_3: CRA
+classification_upper_length_4: CRAF
+classification_upper_length_5: CRAFT
+classification_upper_length_6: CRAFT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/craft_rubber_stamp_medium_mixed
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/craft_rubber_stamp_medium_mixed
 id: craft_rubber_stamp_medium_mixed
 id_no_class: rubber_stamp_medium_mixed
+id_no_color: mixed
 id_no_size: mixed
 id_no_type: medium_mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_rubber_stamp_medium_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_rubber_stamp_medium_mixed
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_rubber_stamp_medium_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_rubber_stamp_medium_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20oc4q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20oc4q
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20oc4q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20oc4q
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_rubber_stamp_medium_mixed
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[craft_rubber_stamp_medium_mixed](none)<br>[](none)<br>[Craft Rubber
@@ -51,9 +161,23 @@ md5_6_alpha_upper: OC4Q
 md5_6_upper: 11536A
 name: Craft Rubber Stamp Medium Mixed
 name_no_class: Rubber Stamp Medium Mixed
+name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Medium Mixed
+oomlout_detail_hierarchy_1: craft
+oomlout_detail_hierarchy_1_upper: CRAFT
+oomlout_detail_hierarchy_1_upper_length_4: CRAF
+oomlout_detail_hierarchy_2: rubber_stamp
+oomlout_detail_hierarchy_2_upper: RUBBER_STAMP
+oomlout_detail_hierarchy_2_upper_length_4: RUBB
+oomlout_detail_hierarchy_3: medium
+oomlout_detail_hierarchy_3_upper: MEDIUM
+oomlout_detail_hierarchy_3_upper_length_4: MEDI
+oomlout_detail_hierarchy_4: mixed
+oomlout_detail_hierarchy_4_upper: MIXED
+oomlout_detail_hierarchy_4_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_craft_rubber_stamp_medium_mixed
 oomp_word: dizzy fish palm_tree
 oomp_word_emoji: ':dizzy: :fish: :palm_tree:'
@@ -69,7 +193,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -77,11 +206,61 @@ size: medium
 size_capital: Medium
 size_first_letter: m
 size_first_letter_upper: M
+size_length_1: m
+size_length_2: me
+size_length_3: med
+size_length_4: medi
+size_length_5: mediu
+size_length_6: medium
+size_name: Medium
+size_no_space_length_1: m
+size_no_space_length_2: me
+size_no_space_length_3: med
+size_no_space_length_4: medi
+size_no_space_length_5: mediu
+size_no_space_length_6: medium
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: ME
+size_no_space_upper_length_3: MED
+size_no_space_upper_length_4: MEDI
+size_no_space_upper_length_5: MEDIU
+size_no_space_upper_length_6: MEDIUM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MEDIUM
+size_upper_length_1: M
+size_upper_length_2: ME
+size_upper_length_3: MED
+size_upper_length_4: MEDI
+size_upper_length_5: MEDIU
+size_upper_length_6: MEDIUM
 type: rubber_stamp
 type_capital: Rubber Stamp
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: ru
+type_length_3: rub
+type_length_4: rubb
+type_length_5: rubbe
+type_length_6: rubber
+type_name: Rubber Stamp
+type_no_space_length_1: r
+type_no_space_length_2: ru
+type_no_space_length_3: rub
+type_no_space_length_4: rubb
+type_no_space_length_5: rubbe
+type_no_space_length_6: rubber
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RU
+type_no_space_upper_length_3: RUB
+type_no_space_upper_length_4: RUBB
+type_no_space_upper_length_5: RUBBE
+type_no_space_upper_length_6: RUBBER
 type_upper: RUBBER_STAMP
+type_upper_length_1: R
+type_upper_length_2: RU
+type_upper_length_3: RUB
+type_upper_length_4: RUBB
+type_upper_length_5: RUBBE
+type_upper_length_6: RUBBER

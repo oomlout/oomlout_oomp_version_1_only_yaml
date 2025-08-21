@@ -1,40 +1,150 @@
+bip_39_word_dash_12: hedgehog-rose-oyster-choose-figure-sweet-drastic-drive-heavy-rice-shield-any
+bip_39_word_dash_2: hedgehog-rose
+bip_39_word_dash_3: hedgehog-rose-oyster
+bip_39_word_new_br_12: hedgehog<br>rose<br>oyster<br>choose<br>figure<br>sweet<br>drastic<br>drive<br>heavy<br>rice<br>shield<br>any
+bip_39_word_new_br_2: hedgehog<br>rose
+bip_39_word_new_br_3: hedgehog<br>rose<br>oyster
+bip_39_word_new_line_12: 'hedgehog
+
+  rose
+
+  oyster
+
+  choose
+
+  figure
+
+  sweet
+
+  drastic
+
+  drive
+
+  heavy
+
+  rice
+
+  shield
+
+  any'
+bip_39_word_new_line_2: 'hedgehog
+
+  rose'
+bip_39_word_new_line_3: 'hedgehog
+
+  rose
+
+  oyster'
+bip_39_word_no_space_12: hedgehogroseoysterchoosefiguresweetdrasticdriveheavyriceshieldany
+bip_39_word_no_space_2: hedgehogrose
+bip_39_word_no_space_3: hedgehogroseoyster
+bip_39_word_space_12: hedgehog rose oyster choose figure sweet drastic drive heavy
+  rice shield any
+bip_39_word_space_2: hedgehog rose
+bip_39_word_space_3: hedgehog rose oyster
+bip_39_word_underscore_12: hedgehog_rose_oyster_choose_figure_sweet_drastic_drive_heavy_rice_shield_any
+bip_39_word_underscore_2: hedgehog_rose
+bip_39_word_underscore_3: hedgehog_rose_oyster
 classification: video_game_console
 classification_capital: Video Game Console
 classification_first_letter: v
 classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vid
+classification_length_4: vide
+classification_length_5: video
+classification_length_6: video_
+classification_name: Video Game Console
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vid
+classification_no_space_length_4: vide
+classification_no_space_length_5: video
+classification_no_space_length_6: videog
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VID
+classification_no_space_upper_length_4: VIDE
+classification_no_space_upper_length_5: VIDEO
+classification_no_space_upper_length_6: VIDEOG
 classification_upper: VIDEO_GAME_CONSOLE
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VID
+classification_upper_length_4: VIDE
+classification_upper_length_5: VIDEO
+classification_upper_length_6: VIDEO_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: console
 description_main_capital: Console
 description_main_first_letter: c
 description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: co
+description_main_length_3: con
+description_main_length_4: cons
+description_main_length_5: conso
+description_main_length_6: consol
+description_main_name: Console
+description_main_no_space_length_1: c
+description_main_no_space_length_2: co
+description_main_no_space_length_3: con
+description_main_no_space_length_4: cons
+description_main_no_space_length_5: conso
+description_main_no_space_length_6: consol
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CO
+description_main_no_space_upper_length_3: CON
+description_main_no_space_upper_length_4: CONS
+description_main_no_space_upper_length_5: CONSO
+description_main_no_space_upper_length_6: CONSOL
 description_main_upper: CONSOLE
+description_main_upper_length_1: C
+description_main_upper_length_2: CO
+description_main_upper_length_3: CON
+description_main_upper_length_4: CONS
+description_main_upper_length_5: CONSO
+description_main_upper_length_6: CONSOL
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/video_game_console_nintendo_64_console
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_nintendo_64_console
 id: video_game_console_nintendo_64_console
 id_no_class: nintendo_64_console
+id_no_color: console
 id_no_size: console
 id_no_type: console
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_64_console
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_64_console
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_64_console
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_64_console
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206dq3y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206dq3y
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206dq3y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206dq3y
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_64_console
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[video_game_console_nintendo_64_console](none)<br>[](none)<br>[Video
@@ -51,9 +161,20 @@ md5_6_alpha_upper: 6DQ3Y
 md5_6_upper: A38B6E
 name: Video Game Console Nintendo 64 Console
 name_no_class: Nintendo 64 Console
+name_no_color: Console
 name_no_size: Console
 name_no_size_short: Console
 name_no_type: Console
+oomlout_detail_hierarchy_1: video_game_console
+oomlout_detail_hierarchy_1_upper: VIDEO_GAME_CONSOLE
+oomlout_detail_hierarchy_1_upper_length_4: VIDE
+oomlout_detail_hierarchy_2: nintendo_64
+oomlout_detail_hierarchy_2_upper: NINTENDO_64
+oomlout_detail_hierarchy_2_upper_length_4: NINT
+oomlout_detail_hierarchy_3: console
+oomlout_detail_hierarchy_3_upper: CONSOLE
+oomlout_detail_hierarchy_3_upper_length_4: CONS
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_video_game_console_nintendo_64_console
 oomp_word: pencil door new_moon
 oomp_word_emoji: ':pencil: :door: :new_moon:'
@@ -69,13 +190,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -83,4 +210,29 @@ type: nintendo_64
 type_capital: Nintendo 64
 type_first_letter: n
 type_first_letter_upper: N
+type_length_1: n
+type_length_2: ni
+type_length_3: nin
+type_length_4: nint
+type_length_5: ninte
+type_length_6: ninten
+type_name: Nintendo 64
+type_no_space_length_1: n
+type_no_space_length_2: ni
+type_no_space_length_3: nin
+type_no_space_length_4: nint
+type_no_space_length_5: ninte
+type_no_space_length_6: ninten
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: NI
+type_no_space_upper_length_3: NIN
+type_no_space_upper_length_4: NINT
+type_no_space_upper_length_5: NINTE
+type_no_space_upper_length_6: NINTEN
 type_upper: NINTENDO_64
+type_upper_length_1: N
+type_upper_length_2: NI
+type_upper_length_3: NIN
+type_upper_length_4: NINT
+type_upper_length_5: NINTE
+type_upper_length_6: NINTEN

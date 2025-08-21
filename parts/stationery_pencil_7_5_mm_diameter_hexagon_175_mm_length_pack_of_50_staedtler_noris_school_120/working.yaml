@@ -1,23 +1,122 @@
+bip_39_word_dash_12: hotel-they-bachelor-copper-lift-voice-pony-upset-labor-bottom-mammal-arctic
+bip_39_word_dash_2: hotel-they
+bip_39_word_dash_3: hotel-they-bachelor
+bip_39_word_new_br_12: hotel<br>they<br>bachelor<br>copper<br>lift<br>voice<br>pony<br>upset<br>labor<br>bottom<br>mammal<br>arctic
+bip_39_word_new_br_2: hotel<br>they
+bip_39_word_new_br_3: hotel<br>they<br>bachelor
+bip_39_word_new_line_12: 'hotel
+
+  they
+
+  bachelor
+
+  copper
+
+  lift
+
+  voice
+
+  pony
+
+  upset
+
+  labor
+
+  bottom
+
+  mammal
+
+  arctic'
+bip_39_word_new_line_2: 'hotel
+
+  they'
+bip_39_word_new_line_3: 'hotel
+
+  they
+
+  bachelor'
+bip_39_word_no_space_12: hoteltheybachelorcopperliftvoiceponyupsetlaborbottommammalarctic
+bip_39_word_no_space_2: hotelthey
+bip_39_word_no_space_3: hoteltheybachelor
+bip_39_word_space_12: hotel they bachelor copper lift voice pony upset labor bottom
+  mammal arctic
+bip_39_word_space_2: hotel they
+bip_39_word_space_3: hotel they bachelor
+bip_39_word_underscore_12: hotel_they_bachelor_copper_lift_voice_pony_upset_labor_bottom_mammal_arctic
+bip_39_word_underscore_2: hotel_they
+bip_39_word_underscore_3: hotel_they_bachelor
 classification: stationery
 classification_capital: Stationery
 classification_first_letter: s
 classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
 classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: pack_of_50
 description_main_capital: Pack Of 50
 description_main_first_letter: p
 description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: pa
+description_main_length_3: pac
+description_main_length_4: pack
+description_main_length_5: pack_
+description_main_length_6: pack_o
+description_main_name: Pack Of 50
+description_main_no_space_length_1: p
+description_main_no_space_length_2: pa
+description_main_no_space_length_3: pac
+description_main_no_space_length_4: pack
+description_main_no_space_length_5: packo
+description_main_no_space_length_6: packof
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PA
+description_main_no_space_upper_length_3: PAC
+description_main_no_space_upper_length_4: PACK
+description_main_no_space_upper_length_5: PACKO
+description_main_no_space_upper_length_6: PACKOF
 description_main_upper: PACK_OF_50
+description_main_upper_length_1: P
+description_main_upper_length_2: PA
+description_main_upper_length_3: PAC
+description_main_upper_length_4: PACK
+description_main_upper_length_5: PACK_
+description_main_upper_length_6: PACK_O
 description_only_numbers: '50'
 description_only_numbers_short: '50'
 description_or_color: '50'
@@ -25,19 +124,58 @@ description_or_color_upper: '50'
 directory: parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
 distributor_part_number_amazon: B003HIG6OQ
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
 id: stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
 id_no_class: pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
+id_no_color: packof50staedtlernorisschool120
 id_no_size: pack_of_50_staedtler_noris_school_120
 id_no_type: 7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B003HIG6OQ
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B003HIG6OQ
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B003HIG6OQ
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206zi9y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206zi9y
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206zi9y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206zi9y
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
 manufacturer: staedtler
 manufacturer_capital: Staedtler
 manufacturer_first_letter: s
 manufacturer_first_letter_upper: S
+manufacturer_length_1: s
+manufacturer_length_2: st
+manufacturer_length_3: sta
+manufacturer_length_4: stae
+manufacturer_length_5: staed
+manufacturer_length_6: staedt
+manufacturer_name: Staedtler
+manufacturer_no_space_length_1: s
+manufacturer_no_space_length_2: st
+manufacturer_no_space_length_3: sta
+manufacturer_no_space_length_4: stae
+manufacturer_no_space_length_5: staed
+manufacturer_no_space_length_6: staedt
+manufacturer_no_space_upper_length_1: S
+manufacturer_no_space_upper_length_2: ST
+manufacturer_no_space_upper_length_3: STA
+manufacturer_no_space_upper_length_4: STAE
+manufacturer_no_space_upper_length_5: STAED
+manufacturer_no_space_upper_length_6: STAEDT
 manufacturer_upper: STAEDTLER
+manufacturer_upper_length_1: S
+manufacturer_upper_length_2: ST
+manufacturer_upper_length_3: STA
+manufacturer_upper_length_4: STAE
+manufacturer_upper_length_5: STAED
+manufacturer_upper_length_6: STAEDT
 manufacturers: []
 markdown_full: '[stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120](none)<br>[](none)<br>[Stationery
   Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 50 Staedtler Noris School 120](none)<br><br>'
@@ -51,14 +189,34 @@ md5_6: b30d46
 md5_6_alpha: 6zi9y
 md5_6_alpha_upper: 6ZI9Y
 md5_6_upper: B30D46
-name: Stationery Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 50 Staedtler
+name: Stationery Pencil 7 5 mm Diameter Hexagon 175 mm Length Pack Of 50 Staedtler
   Noris School 120
-name_no_class: Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 50 Staedtler Noris
+name_no_class: Pencil 7 5 mm Diameter Hexagon 175 mm Length Pack Of 50 Staedtler Noris
   School 120
+name_no_color: Packof50Staedtlernorisschool120
 name_no_size: Pack Of 50 Staedtler Noris School 120
 name_no_size_short: Pack Of 50 Staedtler Noris School 120
-name_no_type: 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 50 Staedtler Noris School
+name_no_type: 7 5 mm Diameter Hexagon 175 mm Length Pack Of 50 Staedtler Noris School
   120
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: pencil
+oomlout_detail_hierarchy_2_upper: PENCIL
+oomlout_detail_hierarchy_2_upper_length_4: PENC
+oomlout_detail_hierarchy_3: 175_mm_length
+oomlout_detail_hierarchy_3_upper: 175_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 175L
+oomlout_detail_hierarchy_4: pack_of_50
+oomlout_detail_hierarchy_4_upper: PACK_OF_50
+oomlout_detail_hierarchy_4_upper_length_4: PACK
+oomlout_detail_hierarchy_5: staedtler
+oomlout_detail_hierarchy_5_upper: STAEDTLER
+oomlout_detail_hierarchy_5_upper_length_4: STAE
+oomlout_detail_hierarchy_6: noris_school_120
+oomlout_detail_hierarchy_6_upper: NORIS_SCHOOL_120
+oomlout_detail_hierarchy_6_upper_length_4: NORI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_50_staedtler_noris_school_120
 oomp_word: eyeglasses heart bird
 oomp_word_emoji: ':eyeglasses: :heart: :bird:'
@@ -74,7 +232,36 @@ part_number: noris_school_120
 part_number_capital: Noris School 120
 part_number_first_letter: n
 part_number_first_letter_upper: N
+part_number_length_1: n
+part_number_length_2: 'no'
+part_number_length_3: nor
+part_number_length_4: nori
+part_number_length_5: noris
+part_number_length_6: noris_
+part_number_name: Noris School 120
+part_number_no_space_length_1: n
+part_number_no_space_length_2: 'no'
+part_number_no_space_length_3: nor
+part_number_no_space_length_4: nori
+part_number_no_space_length_5: noris
+part_number_no_space_length_6: noriss
+part_number_no_space_upper_length_1: N
+part_number_no_space_upper_length_2: 'NO'
+part_number_no_space_upper_length_3: NOR
+part_number_no_space_upper_length_4: NORI
+part_number_no_space_upper_length_5: NORIS
+part_number_no_space_upper_length_6: NORISS
 part_number_upper: NORIS_SCHOOL_120
+part_number_upper_length_1: N
+part_number_upper_length_2: 'NO'
+part_number_upper_length_3: NOR
+part_number_upper_length_4: NORI
+part_number_upper_length_5: NORIS
+part_number_upper_length_6: NORIS_
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -82,11 +269,61 @@ size: 7_5_mm_diameter_hexagon_175_mm_length
 size_capital: 7.5 mm Diameter Hexagon 175 mm Length
 size_first_letter: '7'
 size_first_letter_upper: '7'
+size_length_1: '7'
+size_length_2: '7_'
+size_length_3: '7_5'
+size_length_4: '7_5_'
+size_length_5: 7_5_m
+size_length_6: 7_5_mm
+size_name: 7 5 mm Diameter Hexagon 175 mm Length
+size_no_space_length_1: '7'
+size_no_space_length_2: '75'
+size_no_space_length_3: 75m
+size_no_space_length_4: 75mm
+size_no_space_length_5: 75mmd
+size_no_space_length_6: 75mmdi
+size_no_space_upper_length_1: '7'
+size_no_space_upper_length_2: '75'
+size_no_space_upper_length_3: 75M
+size_no_space_upper_length_4: 75MM
+size_no_space_upper_length_5: 75MMD
+size_no_space_upper_length_6: 75MMDI
 size_only_numbers: '75175'
 size_only_numbers_no_zeros: '75175'
 size_upper: 7_5_MM_DIAMETER_HEXAGON_175_MM_LENGTH
+size_upper_length_1: '7'
+size_upper_length_2: '7_'
+size_upper_length_3: '7_5'
+size_upper_length_4: '7_5_'
+size_upper_length_5: 7_5_M
+size_upper_length_6: 7_5_MM
 type: pencil
 type_capital: Pencil
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pe
+type_length_3: pen
+type_length_4: penc
+type_length_5: penci
+type_length_6: pencil
+type_name: Pencil
+type_no_space_length_1: p
+type_no_space_length_2: pe
+type_no_space_length_3: pen
+type_no_space_length_4: penc
+type_no_space_length_5: penci
+type_no_space_length_6: pencil
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PE
+type_no_space_upper_length_3: PEN
+type_no_space_upper_length_4: PENC
+type_no_space_upper_length_5: PENCI
+type_no_space_upper_length_6: PENCIL
 type_upper: PENCIL
+type_upper_length_1: P
+type_upper_length_2: PE
+type_upper_length_3: PEN
+type_upper_length_4: PENC
+type_upper_length_5: PENCI
+type_upper_length_6: PENCIL

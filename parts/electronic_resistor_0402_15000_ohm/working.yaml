@@ -1,23 +1,122 @@
+bip_39_word_dash_12: ski-knock-wage-allow-off-direct-attract-accuse-ivory-eager-seminar-arctic
+bip_39_word_dash_2: ski-knock
+bip_39_word_dash_3: ski-knock-wage
+bip_39_word_new_br_12: ski<br>knock<br>wage<br>allow<br>off<br>direct<br>attract<br>accuse<br>ivory<br>eager<br>seminar<br>arctic
+bip_39_word_new_br_2: ski<br>knock
+bip_39_word_new_br_3: ski<br>knock<br>wage
+bip_39_word_new_line_12: 'ski
+
+  knock
+
+  wage
+
+  allow
+
+  off
+
+  direct
+
+  attract
+
+  accuse
+
+  ivory
+
+  eager
+
+  seminar
+
+  arctic'
+bip_39_word_new_line_2: 'ski
+
+  knock'
+bip_39_word_new_line_3: 'ski
+
+  knock
+
+  wage'
+bip_39_word_no_space_12: skiknockwageallowoffdirectattractaccuseivoryeagerseminararctic
+bip_39_word_no_space_2: skiknock
+bip_39_word_no_space_3: skiknockwage
+bip_39_word_space_12: ski knock wage allow off direct attract accuse ivory eager seminar
+  arctic
+bip_39_word_space_2: ski knock
+bip_39_word_space_3: ski knock wage
+bip_39_word_underscore_12: ski_knock_wage_allow_off_direct_attract_accuse_ivory_eager_seminar_arctic
+bip_39_word_underscore_2: ski_knock
+bip_39_word_underscore_3: ski_knock_wage
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 15000_ohm
 description_main_capital: 15000 Ohm
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '150'
+description_main_length_4: '1500'
+description_main_length_5: '15000'
+description_main_length_6: '15000_'
+description_main_name: 15000 Ohm
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: '150'
+description_main_no_space_length_4: '1500'
+description_main_no_space_length_5: '15000'
+description_main_no_space_length_6: 15000o
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: '150'
+description_main_no_space_upper_length_4: '1500'
+description_main_no_space_upper_length_5: '15000'
+description_main_no_space_upper_length_6: 15000O
 description_main_upper: 15000_OHM
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '150'
+description_main_upper_length_4: '1500'
+description_main_upper_length_5: '15000'
+description_main_upper_length_6: '15000_'
 description_only_numbers: '15000'
 description_only_numbers_short: 15k
 description_or_color: 15k
@@ -26,18 +125,29 @@ directory: parts/electronic_resistor_0402_15000_ohm
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_15000_ohm
 id: electronic_resistor_0402_15000_ohm
 id_no_class: resistor_0402_15000_ohm
+id_no_color: 15000ohm
 id_no_size: 15000_ohm
 id_no_type: 0402_15000_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_15000_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_15000_ohm
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_15000_ohm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_15000_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20706c1
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20706c1
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20706c1
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20706c1
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_15000_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -82,9 +192,23 @@ md5_6_alpha_upper: 706C1
 md5_6_upper: B38711
 name: Electronic Resistor 0402 15000 Ohm
 name_no_class: Resistor 0402 15000 Ohm
+name_no_color: 15000Ohm
 name_no_size: 15000 Ohm
 name_no_size_short: 15k Ohm
 name_no_type: 0402 15000 Ohm
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: resistor
+oomlout_detail_hierarchy_2_upper: RESISTOR
+oomlout_detail_hierarchy_2_upper_length_4: RESI
+oomlout_detail_hierarchy_3: '0402'
+oomlout_detail_hierarchy_3_upper: '0402'
+oomlout_detail_hierarchy_3_upper_length_4: '0402'
+oomlout_detail_hierarchy_4: 15000_ohm
+oomlout_detail_hierarchy_4_upper: 15000_OHM
+oomlout_detail_hierarchy_4_upper_length_4: '1500'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0402_15000_ohm
 oomp_word: eyeglasses toilet dizzy
 oomp_word_emoji: ':eyeglasses: :toilet: :dizzy:'
@@ -101,16 +225,46 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: r4o153
 short_code_upper: R4O153
 size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '04'
+size_length_3: '040'
+size_length_4: '0402'
+size_length_5: '0402'
+size_length_6: '0402'
+size_name: '0402'
+size_no_space_length_1: '0'
+size_no_space_length_2: '04'
+size_no_space_length_3: '040'
+size_no_space_length_4: '0402'
+size_no_space_length_5: '0402'
+size_no_space_length_6: '0402'
+size_no_space_upper_length_1: '0'
+size_no_space_upper_length_2: '04'
+size_no_space_upper_length_3: '040'
+size_no_space_upper_length_4: '0402'
+size_no_space_upper_length_5: '0402'
+size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
+size_upper_length_1: '0'
+size_upper_length_2: '04'
+size_upper_length_3: '040'
+size_upper_length_4: '0402'
+size_upper_length_5: '0402'
+size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -123,4 +277,29 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
+type_name: Resistor
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: res
+type_no_space_length_4: resi
+type_no_space_length_5: resis
+type_no_space_length_6: resist
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: RES
+type_no_space_upper_length_4: RESI
+type_no_space_upper_length_5: RESIS
+type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

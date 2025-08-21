@@ -1,40 +1,150 @@
+bip_39_word_dash_12: year-field-primary-forward-move-clock-derive-fine-twenty-glass-novel-always
+bip_39_word_dash_2: year-field
+bip_39_word_dash_3: year-field-primary
+bip_39_word_new_br_12: year<br>field<br>primary<br>forward<br>move<br>clock<br>derive<br>fine<br>twenty<br>glass<br>novel<br>always
+bip_39_word_new_br_2: year<br>field
+bip_39_word_new_br_3: year<br>field<br>primary
+bip_39_word_new_line_12: 'year
+
+  field
+
+  primary
+
+  forward
+
+  move
+
+  clock
+
+  derive
+
+  fine
+
+  twenty
+
+  glass
+
+  novel
+
+  always'
+bip_39_word_new_line_2: 'year
+
+  field'
+bip_39_word_new_line_3: 'year
+
+  field
+
+  primary'
+bip_39_word_no_space_12: yearfieldprimaryforwardmoveclockderivefinetwentyglassnovelalways
+bip_39_word_no_space_2: yearfield
+bip_39_word_no_space_3: yearfieldprimary
+bip_39_word_space_12: year field primary forward move clock derive fine twenty glass
+  novel always
+bip_39_word_space_2: year field
+bip_39_word_space_3: year field primary
+bip_39_word_underscore_12: year_field_primary_forward_move_clock_derive_fine_twenty_glass_novel_always
+bip_39_word_underscore_2: year_field
+bip_39_word_underscore_3: year_field_primary
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
 classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_figurine_mixed
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_figurine_mixed
 id: toy_figurine_mixed
 id_no_class: figurine_mixed
+id_no_color: mixed
 id_no_size: mixed
 id_no_type: mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204q7tk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204q7tk
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204q7tk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204q7tk
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_figurine_mixed](none)<br>[](none)<br>[Toy Figurine Mixed](none)<br><br>'
@@ -50,9 +160,20 @@ md5_6_alpha_upper: 4Q7TK
 md5_6_upper: 792E18
 name: Toy Figurine Mixed
 name_no_class: Figurine Mixed
+name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Mixed
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: figurine
+oomlout_detail_hierarchy_2_upper: FIGURINE
+oomlout_detail_hierarchy_2_upper_length_4: FIGU
+oomlout_detail_hierarchy_3: mixed
+oomlout_detail_hierarchy_3_upper: MIXED
+oomlout_detail_hierarchy_3_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_figurine_mixed
 oomp_word: balloon zap hand
 oomp_word_emoji: ':balloon: :zap: :hand:'
@@ -68,7 +189,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -76,6 +202,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -83,4 +210,29 @@ type: figurine
 type_capital: Figurine
 type_first_letter: f
 type_first_letter_upper: F
+type_length_1: f
+type_length_2: fi
+type_length_3: fig
+type_length_4: figu
+type_length_5: figur
+type_length_6: figuri
+type_name: Figurine
+type_no_space_length_1: f
+type_no_space_length_2: fi
+type_no_space_length_3: fig
+type_no_space_length_4: figu
+type_no_space_length_5: figur
+type_no_space_length_6: figuri
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FI
+type_no_space_upper_length_3: FIG
+type_no_space_upper_length_4: FIGU
+type_no_space_upper_length_5: FIGUR
+type_no_space_upper_length_6: FIGURI
 type_upper: FIGURINE
+type_upper_length_1: F
+type_upper_length_2: FI
+type_upper_length_3: FIG
+type_upper_length_4: FIGU
+type_upper_length_5: FIGUR
+type_upper_length_6: FIGURI

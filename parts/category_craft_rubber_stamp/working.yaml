@@ -1,23 +1,98 @@
+bip_39_word_dash_12: sudden-feature-artwork-potato-trash-cave-pistol-midnight-olive-retire-hybrid-already
+bip_39_word_dash_2: sudden-feature
+bip_39_word_dash_3: sudden-feature-artwork
+bip_39_word_new_br_12: sudden<br>feature<br>artwork<br>potato<br>trash<br>cave<br>pistol<br>midnight<br>olive<br>retire<br>hybrid<br>already
+bip_39_word_new_br_2: sudden<br>feature
+bip_39_word_new_br_3: sudden<br>feature<br>artwork
+bip_39_word_new_line_12: 'sudden
+
+  feature
+
+  artwork
+
+  potato
+
+  trash
+
+  cave
+
+  pistol
+
+  midnight
+
+  olive
+
+  retire
+
+  hybrid
+
+  already'
+bip_39_word_new_line_2: 'sudden
+
+  feature'
+bip_39_word_new_line_3: 'sudden
+
+  feature
+
+  artwork'
+bip_39_word_no_space_12: suddenfeatureartworkpotatotrashcavepistolmidnightoliveretirehybridalready
+bip_39_word_no_space_2: suddenfeature
+bip_39_word_no_space_3: suddenfeatureartwork
+bip_39_word_space_12: sudden feature artwork potato trash cave pistol midnight olive
+  retire hybrid already
+bip_39_word_space_2: sudden feature
+bip_39_word_space_3: sudden feature artwork
+bip_39_word_underscore_12: sudden_feature_artwork_potato_trash_cave_pistol_midnight_olive_retire_hybrid_already
+bip_39_word_underscore_2: sudden_feature
+bip_39_word_underscore_3: sudden_feature_artwork
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_craft
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +102,28 @@ directory: parts/category_craft_rubber_stamp
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_rubber_stamp
 id: category_craft_rubber_stamp
 id_no_class: craft_rubber_stamp
+id_no_color: rubberstamp
 id_no_size: rubber_stamp
 id_no_type: rubber_stamp
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_rubber_stamp
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_rubber_stamp
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_rubber_stamp
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_rubber_stamp
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204hd0t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204hd0t
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204hd0t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204hd0t
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_rubber_stamp
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_rubber_stamp](none)<br>[](none)<br>[Category Craft
@@ -54,9 +140,20 @@ md5_6_alpha_upper: 4HD0T
 md5_6_upper: 72E02D
 name: Category Craft Rubber Stamp
 name_no_class: Craft Rubber Stamp
+name_no_color: Rubberstamp
 name_no_size: Rubber Stamp
 name_no_size_short: Rubber Stamp
 name_no_type: Rubber Stamp
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: craft
+oomlout_detail_hierarchy_2_upper: CRAFT
+oomlout_detail_hierarchy_2_upper_length_4: CRAF
+oomlout_detail_hierarchy_3: rubber_stamp
+oomlout_detail_hierarchy_3_upper: RUBBER_STAMP
+oomlout_detail_hierarchy_3_upper_length_4: RUBB
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_craft_rubber_stamp
 oomp_word: dolls ship snowman
 oomp_word_emoji: ':dolls: :ship: :snowman:'
@@ -73,7 +170,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycraft
@@ -81,11 +183,61 @@ size: rubber_stamp
 size_capital: Rubber Stamp
 size_first_letter: r
 size_first_letter_upper: R
+size_length_1: r
+size_length_2: ru
+size_length_3: rub
+size_length_4: rubb
+size_length_5: rubbe
+size_length_6: rubber
+size_name: Rubber Stamp
+size_no_space_length_1: r
+size_no_space_length_2: ru
+size_no_space_length_3: rub
+size_no_space_length_4: rubb
+size_no_space_length_5: rubbe
+size_no_space_length_6: rubber
+size_no_space_upper_length_1: R
+size_no_space_upper_length_2: RU
+size_no_space_upper_length_3: RUB
+size_no_space_upper_length_4: RUBB
+size_no_space_upper_length_5: RUBBE
+size_no_space_upper_length_6: RUBBER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: RUBBER_STAMP
+size_upper_length_1: R
+size_upper_length_2: RU
+size_upper_length_3: RUB
+size_upper_length_4: RUBB
+size_upper_length_5: RUBBE
+size_upper_length_6: RUBBER
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: cr
+type_length_3: cra
+type_length_4: craf
+type_length_5: craft
+type_length_6: craft
+type_name: Craft
+type_no_space_length_1: c
+type_no_space_length_2: cr
+type_no_space_length_3: cra
+type_no_space_length_4: craf
+type_no_space_length_5: craft
+type_no_space_length_6: craft
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CR
+type_no_space_upper_length_3: CRA
+type_no_space_upper_length_4: CRAF
+type_no_space_upper_length_5: CRAFT
+type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
+type_upper_length_1: C
+type_upper_length_2: CR
+type_upper_length_3: CRA
+type_upper_length_4: CRAF
+type_upper_length_5: CRAFT
+type_upper_length_6: CRAFT

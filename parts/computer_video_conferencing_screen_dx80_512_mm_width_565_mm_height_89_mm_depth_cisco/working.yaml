@@ -1,23 +1,146 @@
+bip_39_word_dash_12: maid-way-multiply-gadget-arch-unusual-choice-broom-caught-rice-quiz-act
+bip_39_word_dash_2: maid-way
+bip_39_word_dash_3: maid-way-multiply
+bip_39_word_new_br_12: maid<br>way<br>multiply<br>gadget<br>arch<br>unusual<br>choice<br>broom<br>caught<br>rice<br>quiz<br>act
+bip_39_word_new_br_2: maid<br>way
+bip_39_word_new_br_3: maid<br>way<br>multiply
+bip_39_word_new_line_12: 'maid
+
+  way
+
+  multiply
+
+  gadget
+
+  arch
+
+  unusual
+
+  choice
+
+  broom
+
+  caught
+
+  rice
+
+  quiz
+
+  act'
+bip_39_word_new_line_2: 'maid
+
+  way'
+bip_39_word_new_line_3: 'maid
+
+  way
+
+  multiply'
+bip_39_word_no_space_12: maidwaymultiplygadgetarchunusualchoicebroomcaughtricequizact
+bip_39_word_no_space_2: maidway
+bip_39_word_no_space_3: maidwaymultiply
+bip_39_word_space_12: maid way multiply gadget arch unusual choice broom caught rice
+  quiz act
+bip_39_word_space_2: maid way
+bip_39_word_space_3: maid way multiply
+bip_39_word_underscore_12: maid_way_multiply_gadget_arch_unusual_choice_broom_caught_rice_quiz_act
+bip_39_word_underscore_2: maid_way
+bip_39_word_underscore_3: maid_way_multiply
 classification: computer
 classification_capital: Computer
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: co
+classification_length_3: com
+classification_length_4: comp
+classification_length_5: compu
+classification_length_6: comput
+classification_name: Computer
+classification_no_space_length_1: c
+classification_no_space_length_2: co
+classification_no_space_length_3: com
+classification_no_space_length_4: comp
+classification_no_space_length_5: compu
+classification_no_space_length_6: comput
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CO
+classification_no_space_upper_length_3: COM
+classification_no_space_upper_length_4: COMP
+classification_no_space_upper_length_5: COMPU
+classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER
+classification_upper_length_1: C
+classification_upper_length_2: CO
+classification_upper_length_3: COM
+classification_upper_length_4: COMP
+classification_upper_length_5: COMPU
+classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: 512_mm_width_565_mm_height_89_mm_depth
 description_extra_capital: 512 mm Width 565 mm Height 89 mm Depth
 description_extra_first_letter: '5'
 description_extra_first_letter_upper: '5'
+description_extra_length_1: '5'
+description_extra_length_2: '51'
+description_extra_length_3: '512'
+description_extra_length_4: '512_'
+description_extra_length_5: 512_m
+description_extra_length_6: 512_mm
+description_extra_name: 512 mm Width 565 mm Height 89 mm Depth
+description_extra_no_space_length_1: '5'
+description_extra_no_space_length_2: '51'
+description_extra_no_space_length_3: '512'
+description_extra_no_space_length_4: 512m
+description_extra_no_space_length_5: 512mm
+description_extra_no_space_length_6: 512mmw
+description_extra_no_space_upper_length_1: '5'
+description_extra_no_space_upper_length_2: '51'
+description_extra_no_space_upper_length_3: '512'
+description_extra_no_space_upper_length_4: 512M
+description_extra_no_space_upper_length_5: 512MM
+description_extra_no_space_upper_length_6: 512MMW
 description_extra_upper: 512_MM_WIDTH_565_MM_HEIGHT_89_MM_DEPTH
+description_extra_upper_length_1: '5'
+description_extra_upper_length_2: '51'
+description_extra_upper_length_3: '512'
+description_extra_upper_length_4: '512_'
+description_extra_upper_length_5: 512_M
+description_extra_upper_length_6: 512_MM
 description_main: dx80
 description_main_capital: Dx80
 description_main_first_letter: d
 description_main_first_letter_upper: D
+description_main_length_1: d
+description_main_length_2: dx
+description_main_length_3: dx8
+description_main_length_4: dx80
+description_main_length_5: dx80
+description_main_length_6: dx80
+description_main_name: Dx80
+description_main_no_space_length_1: d
+description_main_no_space_length_2: dx
+description_main_no_space_length_3: dx8
+description_main_no_space_length_4: dx80
+description_main_no_space_length_5: dx80
+description_main_no_space_length_6: dx80
+description_main_no_space_upper_length_1: D
+description_main_no_space_upper_length_2: DX
+description_main_no_space_upper_length_3: DX8
+description_main_no_space_upper_length_4: DX80
+description_main_no_space_upper_length_5: DX80
+description_main_no_space_upper_length_6: DX80
 description_main_upper: DX80
+description_main_upper_length_1: D
+description_main_upper_length_2: DX
+description_main_upper_length_3: DX8
+description_main_upper_length_4: DX80
+description_main_upper_length_5: DX80
+description_main_upper_length_6: DX80
 description_only_numbers: '80'
 description_only_numbers_short: '80'
 description_or_color: '80'
@@ -26,18 +149,53 @@ directory: parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_hei
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 id: computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 id_no_class: video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+id_no_color: dx80512mmwidth565mmheight89mmdepthcisco
 id_no_size: dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 id_no_type: screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201jb3i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201jb3i
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201jb3i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201jb3i
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 manufacturer: cisco
 manufacturer_capital: Cisco
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
+manufacturer_length_1: c
+manufacturer_length_2: ci
+manufacturer_length_3: cis
+manufacturer_length_4: cisc
+manufacturer_length_5: cisco
+manufacturer_length_6: cisco
+manufacturer_name: Cisco
+manufacturer_no_space_length_1: c
+manufacturer_no_space_length_2: ci
+manufacturer_no_space_length_3: cis
+manufacturer_no_space_length_4: cisc
+manufacturer_no_space_length_5: cisco
+manufacturer_no_space_length_6: cisco
+manufacturer_no_space_upper_length_1: C
+manufacturer_no_space_upper_length_2: CI
+manufacturer_no_space_upper_length_3: CIS
+manufacturer_no_space_upper_length_4: CISC
+manufacturer_no_space_upper_length_5: CISCO
+manufacturer_no_space_upper_length_6: CISCO
 manufacturer_upper: CISCO
+manufacturer_upper_length_1: C
+manufacturer_upper_length_2: CI
+manufacturer_upper_length_3: CIS
+manufacturer_upper_length_4: CISC
+manufacturer_upper_length_5: CISCO
+manufacturer_upper_length_6: CISCO
 manufacturers: []
 markdown_full: '[computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco](none)<br>[](none)<br>[Computer
   Video Conferencing Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco](none)<br><br>'
@@ -51,13 +209,39 @@ md5_6: 275fee
 md5_6_alpha: 1jb3i
 md5_6_alpha_upper: 1JB3I
 md5_6_upper: 275FEE
-name: Computer Video Conferencing Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth
+name: Computer Video Conferencing Screen Dx80 512 mm Width 565 mm Height 89 mm Depth
   Cisco
-name_no_class: Video Conferencing Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth
+name_no_class: Video Conferencing Screen Dx80 512 mm Width 565 mm Height 89 mm Depth
   Cisco
-name_no_size: Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
+name_no_color: Dx80512mmwidth565mmheight89mmdepthcisco
+name_no_size: Dx80 512 mm Width 565 mm Height 89 mm Depth Cisco
 name_no_size_short: Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
-name_no_type: Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
+name_no_type: Screen Dx80 512 mm Width 565 mm Height 89 mm Depth Cisco
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: video_conferencing
+oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
+oomlout_detail_hierarchy_2_upper_length_4: VIDE
+oomlout_detail_hierarchy_3: screen
+oomlout_detail_hierarchy_3_upper: SCREEN
+oomlout_detail_hierarchy_3_upper_length_4: SCRE
+oomlout_detail_hierarchy_4: dx80
+oomlout_detail_hierarchy_4_upper: DX80
+oomlout_detail_hierarchy_4_upper_length_4: DX80
+oomlout_detail_hierarchy_5: 512_mm_width
+oomlout_detail_hierarchy_5_upper: 512_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 512W
+oomlout_detail_hierarchy_6: 565_mm_height
+oomlout_detail_hierarchy_6_upper: 565_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 565H
+oomlout_detail_hierarchy_7: 89_mm_depth
+oomlout_detail_hierarchy_7_upper: 89_MM_DEPTH
+oomlout_detail_hierarchy_7_upper_length_4: 89DE
+oomlout_detail_hierarchy_8: cisco
+oomlout_detail_hierarchy_8_upper: CISCO
+oomlout_detail_hierarchy_8_upper_length_4: CISC
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
 oomp_word: nose leopard ambulance
 oomp_word_emoji: ':nose: :leopard: :ambulance:'
@@ -73,18 +257,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: screen
 size_capital: Screen
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sc
+size_length_3: scr
+size_length_4: scre
+size_length_5: scree
+size_length_6: screen
+size_name: Screen
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: scr
+size_no_space_length_4: scre
+size_no_space_length_5: scree
+size_no_space_length_6: screen
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCR
+size_no_space_upper_length_4: SCRE
+size_no_space_upper_length_5: SCREE
+size_no_space_upper_length_6: SCREEN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREEN
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCR
+size_upper_length_4: SCRE
+size_upper_length_5: SCREE
+size_upper_length_6: SCREEN
 type: video_conferencing
 type_capital: Video Conferencing
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vid
+type_length_4: vide
+type_length_5: video
+type_length_6: video_
+type_name: Video Conferencing
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vid
+type_no_space_length_4: vide
+type_no_space_length_5: video
+type_no_space_length_6: videoc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VID
+type_no_space_upper_length_4: VIDE
+type_no_space_upper_length_5: VIDEO
+type_no_space_upper_length_6: VIDEOC
 type_upper: VIDEO_CONFERENCING
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VID
+type_upper_length_4: VIDE
+type_upper_length_5: VIDEO
+type_upper_length_6: VIDEO_

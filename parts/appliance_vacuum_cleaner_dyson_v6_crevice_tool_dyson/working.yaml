@@ -1,41 +1,175 @@
+bip_39_word_dash_12: claw-glare-job-bamboo-chef-because-fee-exact-undo-cry-female-attitude
+bip_39_word_dash_2: claw-glare
+bip_39_word_dash_3: claw-glare-job
+bip_39_word_new_br_12: claw<br>glare<br>job<br>bamboo<br>chef<br>because<br>fee<br>exact<br>undo<br>cry<br>female<br>attitude
+bip_39_word_new_br_2: claw<br>glare
+bip_39_word_new_br_3: claw<br>glare<br>job
+bip_39_word_new_line_12: 'claw
+
+  glare
+
+  job
+
+  bamboo
+
+  chef
+
+  because
+
+  fee
+
+  exact
+
+  undo
+
+  cry
+
+  female
+
+  attitude'
+bip_39_word_new_line_2: 'claw
+
+  glare'
+bip_39_word_new_line_3: 'claw
+
+  glare
+
+  job'
+bip_39_word_no_space_12: clawglarejobbamboochefbecausefeeexactundocryfemaleattitude
+bip_39_word_no_space_2: clawglare
+bip_39_word_no_space_3: clawglarejob
+bip_39_word_space_12: claw glare job bamboo chef because fee exact undo cry female
+  attitude
+bip_39_word_space_2: claw glare
+bip_39_word_space_3: claw glare job
+bip_39_word_underscore_12: claw_glare_job_bamboo_chef_because_fee_exact_undo_cry_female_attitude
+bip_39_word_underscore_2: claw_glare
+bip_39_word_underscore_3: claw_glare_job
 classification: appliance
 classification_capital: Appliance
 classification_first_letter: a
 classification_first_letter_upper: A
+classification_length_1: a
+classification_length_2: ap
+classification_length_3: app
+classification_length_4: appl
+classification_length_5: appli
+classification_length_6: applia
+classification_name: Appliance
+classification_no_space_length_1: a
+classification_no_space_length_2: ap
+classification_no_space_length_3: app
+classification_no_space_length_4: appl
+classification_no_space_length_5: appli
+classification_no_space_length_6: applia
+classification_no_space_upper_length_1: A
+classification_no_space_upper_length_2: AP
+classification_no_space_upper_length_3: APP
+classification_no_space_upper_length_4: APPL
+classification_no_space_upper_length_5: APPLI
+classification_no_space_upper_length_6: APPLIA
 classification_upper: APPLIANCE
+classification_upper_length_1: A
+classification_upper_length_2: AP
+classification_upper_length_3: APP
+classification_upper_length_4: APPL
+classification_upper_length_5: APPLI
+classification_upper_length_6: APPLIA
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: crevice_tool
 description_main_capital: Crevice Tool
 description_main_first_letter: c
 description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: cr
+description_main_length_3: cre
+description_main_length_4: crev
+description_main_length_5: crevi
+description_main_length_6: crevic
+description_main_name: Crevice Tool
+description_main_no_space_length_1: c
+description_main_no_space_length_2: cr
+description_main_no_space_length_3: cre
+description_main_no_space_length_4: crev
+description_main_no_space_length_5: crevi
+description_main_no_space_length_6: crevic
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CR
+description_main_no_space_upper_length_3: CRE
+description_main_no_space_upper_length_4: CREV
+description_main_no_space_upper_length_5: CREVI
+description_main_no_space_upper_length_6: CREVIC
 description_main_upper: CREVICE_TOOL
+description_main_upper_length_1: C
+description_main_upper_length_2: CR
+description_main_upper_length_3: CRE
+description_main_upper_length_4: CREV
+description_main_upper_length_5: CREVI
+description_main_upper_length_6: CREVIC
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
 id: appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
 id_no_class: vacuum_cleaner_dyson_v6_crevice_tool_dyson
+id_no_color: crevicetooldyson
 id_no_size: crevice_tool_dyson
 id_no_type: dyson_v6_crevice_tool_dyson
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2095mfh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2095mfh
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2095mfh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2095mfh
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
 manufacturer: dyson
 manufacturer_capital: Dyson
 manufacturer_first_letter: d
 manufacturer_first_letter_upper: D
+manufacturer_length_1: d
+manufacturer_length_2: dy
+manufacturer_length_3: dys
+manufacturer_length_4: dyso
+manufacturer_length_5: dyson
+manufacturer_length_6: dyson
+manufacturer_name: Dyson
+manufacturer_no_space_length_1: d
+manufacturer_no_space_length_2: dy
+manufacturer_no_space_length_3: dys
+manufacturer_no_space_length_4: dyso
+manufacturer_no_space_length_5: dyson
+manufacturer_no_space_length_6: dyson
+manufacturer_no_space_upper_length_1: D
+manufacturer_no_space_upper_length_2: DY
+manufacturer_no_space_upper_length_3: DYS
+manufacturer_no_space_upper_length_4: DYSO
+manufacturer_no_space_upper_length_5: DYSON
+manufacturer_no_space_upper_length_6: DYSON
 manufacturer_upper: DYSON
+manufacturer_upper_length_1: D
+manufacturer_upper_length_2: DY
+manufacturer_upper_length_3: DYS
+manufacturer_upper_length_4: DYSO
+manufacturer_upper_length_5: DYSON
+manufacturer_upper_length_6: DYSON
 manufacturers: []
 markdown_full: '[appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson](none)<br>[](none)<br>[Appliance
   Vacuum Cleaner Dyson V6 Crevice Tool Dyson](none)<br><br>'
@@ -51,9 +185,26 @@ md5_6_alpha_upper: 95MFH
 md5_6_upper: EAA9CD
 name: Appliance Vacuum Cleaner Dyson V6 Crevice Tool Dyson
 name_no_class: Vacuum Cleaner Dyson V6 Crevice Tool Dyson
+name_no_color: Crevicetooldyson
 name_no_size: Crevice Tool Dyson
 name_no_size_short: Crevice Tool Dyson
 name_no_type: Dyson V6 Crevice Tool Dyson
+oomlout_detail_hierarchy_1: appliance
+oomlout_detail_hierarchy_1_upper: APPLIANCE
+oomlout_detail_hierarchy_1_upper_length_4: APPL
+oomlout_detail_hierarchy_2: vacuum_cleaner
+oomlout_detail_hierarchy_2_upper: VACUUM_CLEANER
+oomlout_detail_hierarchy_2_upper_length_4: VACU
+oomlout_detail_hierarchy_3: dyson_v6
+oomlout_detail_hierarchy_3_upper: DYSON_V6
+oomlout_detail_hierarchy_3_upper_length_4: DYSO
+oomlout_detail_hierarchy_4: crevice_tool
+oomlout_detail_hierarchy_4_upper: CREVICE_TOOL
+oomlout_detail_hierarchy_4_upper_length_4: CREV
+oomlout_detail_hierarchy_5: dyson
+oomlout_detail_hierarchy_5_upper: DYSON
+oomlout_detail_hierarchy_5_upper_length_4: DYSO
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_appliance_vacuum_cleaner_dyson_v6_crevice_tool_dyson
 oomp_word: tractor sandal strawberry
 oomp_word_emoji: ':tractor: :sandal: :strawberry:'
@@ -69,18 +220,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: dyson_v6
 size_capital: Dyson V6
 size_first_letter: d
 size_first_letter_upper: D
+size_length_1: d
+size_length_2: dy
+size_length_3: dys
+size_length_4: dyso
+size_length_5: dyson
+size_length_6: dyson_
+size_name: Dyson V6
+size_no_space_length_1: d
+size_no_space_length_2: dy
+size_no_space_length_3: dys
+size_no_space_length_4: dyso
+size_no_space_length_5: dyson
+size_no_space_length_6: dysonv
+size_no_space_upper_length_1: D
+size_no_space_upper_length_2: DY
+size_no_space_upper_length_3: DYS
+size_no_space_upper_length_4: DYSO
+size_no_space_upper_length_5: DYSON
+size_no_space_upper_length_6: DYSONV
 size_only_numbers: '6'
 size_only_numbers_no_zeros: '6'
 size_upper: DYSON_V6
+size_upper_length_1: D
+size_upper_length_2: DY
+size_upper_length_3: DYS
+size_upper_length_4: DYSO
+size_upper_length_5: DYSON
+size_upper_length_6: DYSON_
 type: vacuum_cleaner
 type_capital: Vacuum Cleaner
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: va
+type_length_3: vac
+type_length_4: vacu
+type_length_5: vacuu
+type_length_6: vacuum
+type_name: Vacuum Cleaner
+type_no_space_length_1: v
+type_no_space_length_2: va
+type_no_space_length_3: vac
+type_no_space_length_4: vacu
+type_no_space_length_5: vacuu
+type_no_space_length_6: vacuum
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VA
+type_no_space_upper_length_3: VAC
+type_no_space_upper_length_4: VACU
+type_no_space_upper_length_5: VACUU
+type_no_space_upper_length_6: VACUUM
 type_upper: VACUUM_CLEANER
+type_upper_length_1: V
+type_upper_length_2: VA
+type_upper_length_3: VAC
+type_upper_length_4: VACU
+type_upper_length_5: VACUU
+type_upper_length_6: VACUUM

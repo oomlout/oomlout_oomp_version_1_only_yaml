@@ -1,23 +1,146 @@
+bip_39_word_dash_12: glance-guess-term-ankle-item-matter-advance-cat-logic-focus-length-apart
+bip_39_word_dash_2: glance-guess
+bip_39_word_dash_3: glance-guess-term
+bip_39_word_new_br_12: glance<br>guess<br>term<br>ankle<br>item<br>matter<br>advance<br>cat<br>logic<br>focus<br>length<br>apart
+bip_39_word_new_br_2: glance<br>guess
+bip_39_word_new_br_3: glance<br>guess<br>term
+bip_39_word_new_line_12: 'glance
+
+  guess
+
+  term
+
+  ankle
+
+  item
+
+  matter
+
+  advance
+
+  cat
+
+  logic
+
+  focus
+
+  length
+
+  apart'
+bip_39_word_new_line_2: 'glance
+
+  guess'
+bip_39_word_new_line_3: 'glance
+
+  guess
+
+  term'
+bip_39_word_no_space_12: glanceguesstermankleitemmatteradvancecatlogicfocuslengthapart
+bip_39_word_no_space_2: glanceguess
+bip_39_word_no_space_3: glanceguessterm
+bip_39_word_space_12: glance guess term ankle item matter advance cat logic focus
+  length apart
+bip_39_word_space_2: glance guess
+bip_39_word_space_3: glance guess term
+bip_39_word_underscore_12: glance_guess_term_ankle_item_matter_advance_cat_logic_focus_length_apart
+bip_39_word_underscore_2: glance_guess
+bip_39_word_underscore_3: glance_guess_term
 classification: hardware
 classification_capital: Hardware
 classification_first_letter: h
 classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
 classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
 color: 698_size
 color_capital: 698 Size
 color_first_letter: '6'
 color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '69'
+color_length_3: '698'
+color_length_4: '698_'
+color_length_5: 698_s
+color_length_6: 698_si
+color_name: 698 Size
+color_no_space_length_1: '6'
+color_no_space_length_2: '69'
+color_no_space_length_3: '698'
+color_no_space_length_4: 698s
+color_no_space_length_5: 698si
+color_no_space_length_6: 698siz
+color_no_space_upper_length_1: '6'
+color_no_space_upper_length_2: '69'
+color_no_space_upper_length_3: '698'
+color_no_space_upper_length_4: 698S
+color_no_space_upper_length_5: 698SI
+color_no_space_upper_length_6: 698SIZ
 color_upper: 698_SIZE
+color_upper_length_1: '6'
+color_upper_length_2: '69'
+color_upper_length_3: '698'
+color_upper_length_4: '698_'
+color_upper_length_5: 698_S
+color_upper_length_6: 698_SI
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 8_mm_id_19_mm_od_6_mm_depth
 description_main_capital: 8 mm Id 19 mm Od 6 mm Depth
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '8_'
+description_main_length_3: 8_m
+description_main_length_4: 8_mm
+description_main_length_5: 8_mm_
+description_main_length_6: 8_mm_i
+description_main_name: 8 mm ID 19 mm OD 6 mm Depth
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: 8m
+description_main_no_space_length_3: 8mm
+description_main_no_space_length_4: 8mmi
+description_main_no_space_length_5: 8mmid
+description_main_no_space_length_6: 8mmid1
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: 8M
+description_main_no_space_upper_length_3: 8MM
+description_main_no_space_upper_length_4: 8MMI
+description_main_no_space_upper_length_5: 8MMID
+description_main_no_space_upper_length_6: 8MMID1
 description_main_upper: 8_MM_ID_19_MM_OD_6_MM_DEPTH
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '8_'
+description_main_upper_length_3: 8_M
+description_main_upper_length_4: 8_MM
+description_main_upper_length_5: 8_MM_
+description_main_upper_length_6: 8_MM_I
 description_only_numbers: '8196'
 description_only_numbers_short: 8k1
 description_or_color: 68k1
@@ -26,17 +149,28 @@ directory: parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_dept
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
 id: hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
 id_no_class: bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
+id_no_color: 8_mm_id_19_mm_od_6_mm_depth
 id_no_size: 698_size_8_mm_id_19_mm_od_6_mm_depth
 id_no_type: 600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206frpy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206frpy
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206frpy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206frpy
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth](none)<br>[](none)<br>[Hardware
@@ -51,11 +185,30 @@ md5_6: a50016
 md5_6_alpha: 6frpy
 md5_6_alpha_upper: 6FRPY
 md5_6_upper: A50016
-name: Hardware Bearing 600 Series 698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
-name_no_class: Bearing 600 Series 698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
-name_no_size: 698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
+name: Hardware Bearing 600 Series 698 Size 8 mm ID 19 mm OD 6 mm Depth
+name_no_class: Bearing 600 Series 698 Size 8 mm ID 19 mm OD 6 mm Depth
+name_no_color: 8 mm ID 19 mm OD 6 mm Depth
+name_no_size: 698 Size 8 mm ID 19 mm OD 6 mm Depth
 name_no_size_short: 698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
-name_no_type: 600 Series 698 Size 8 Mm Id 19 Mm Od 6 Mm Depth
+name_no_type: 600 Series 698 Size 8 mm ID 19 mm OD 6 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 600_series
+oomlout_detail_hierarchy_3_upper: 600_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '600_'
+oomlout_detail_hierarchy_4: 698_size
+oomlout_detail_hierarchy_4_upper: 698_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '698_'
+oomlout_detail_hierarchy_5: 6_mm_depth
+oomlout_detail_hierarchy_5_upper: 6_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 6DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br698
+oomlout_short_code_upper: BR698
 oomp_key: oomp_hardware_bearing_600_series_698_size_8_mm_id_19_mm_od_6_mm_depth
 oomp_word: headphones bowtie thumbsup
 oomp_word_emoji: ':headphones: :bowtie: :thumbsup:'
@@ -71,18 +224,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: 600_series
 size_capital: 600 Series
 size_first_letter: '6'
 size_first_letter_upper: '6'
+size_length_1: '6'
+size_length_2: '60'
+size_length_3: '600'
+size_length_4: '600_'
+size_length_5: 600_s
+size_length_6: 600_se
+size_name: 600 Series
+size_no_space_length_1: '6'
+size_no_space_length_2: '60'
+size_no_space_length_3: '600'
+size_no_space_length_4: 600s
+size_no_space_length_5: 600se
+size_no_space_length_6: 600ser
+size_no_space_upper_length_1: '6'
+size_no_space_upper_length_2: '60'
+size_no_space_upper_length_3: '600'
+size_no_space_upper_length_4: 600S
+size_no_space_upper_length_5: 600SE
+size_no_space_upper_length_6: 600SER
 size_only_numbers: '600'
 size_only_numbers_no_zeros: '6'
 size_upper: 600_SERIES
+size_upper_length_1: '6'
+size_upper_length_2: '60'
+size_upper_length_3: '600'
+size_upper_length_4: '600_'
+size_upper_length_5: 600_S
+size_upper_length_6: 600_SE
 type: bearing
 type_capital: Bearing
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
+type_name: Bearing
+type_no_space_length_1: b
+type_no_space_length_2: be
+type_no_space_length_3: bea
+type_no_space_length_4: bear
+type_no_space_length_5: beari
+type_no_space_length_6: bearin
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BE
+type_no_space_upper_length_3: BEA
+type_no_space_upper_length_4: BEAR
+type_no_space_upper_length_5: BEARI
+type_no_space_upper_length_6: BEARIN
 type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

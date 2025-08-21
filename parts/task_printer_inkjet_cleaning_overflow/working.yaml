@@ -1,23 +1,146 @@
+bip_39_word_dash_12: supply-wide-choose-ordinary-reflect-affair-brush-trouble-protect-moon-wave-autumn
+bip_39_word_dash_2: supply-wide
+bip_39_word_dash_3: supply-wide-choose
+bip_39_word_new_br_12: supply<br>wide<br>choose<br>ordinary<br>reflect<br>affair<br>brush<br>trouble<br>protect<br>moon<br>wave<br>autumn
+bip_39_word_new_br_2: supply<br>wide
+bip_39_word_new_br_3: supply<br>wide<br>choose
+bip_39_word_new_line_12: 'supply
+
+  wide
+
+  choose
+
+  ordinary
+
+  reflect
+
+  affair
+
+  brush
+
+  trouble
+
+  protect
+
+  moon
+
+  wave
+
+  autumn'
+bip_39_word_new_line_2: 'supply
+
+  wide'
+bip_39_word_new_line_3: 'supply
+
+  wide
+
+  choose'
+bip_39_word_no_space_12: supplywidechooseordinaryreflectaffairbrushtroubleprotectmoonwaveautumn
+bip_39_word_no_space_2: supplywide
+bip_39_word_no_space_3: supplywidechoose
+bip_39_word_space_12: supply wide choose ordinary reflect affair brush trouble protect
+  moon wave autumn
+bip_39_word_space_2: supply wide
+bip_39_word_space_3: supply wide choose
+bip_39_word_underscore_12: supply_wide_choose_ordinary_reflect_affair_brush_trouble_protect_moon_wave_autumn
+bip_39_word_underscore_2: supply_wide
+bip_39_word_underscore_3: supply_wide_choose
 classification: task
 classification_capital: Task
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: ta
+classification_length_3: tas
+classification_length_4: task
+classification_length_5: task
+classification_length_6: task
+classification_name: Task
+classification_no_space_length_1: t
+classification_no_space_length_2: ta
+classification_no_space_length_3: tas
+classification_no_space_length_4: task
+classification_no_space_length_5: task
+classification_no_space_length_6: task
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TA
+classification_no_space_upper_length_3: TAS
+classification_no_space_upper_length_4: TASK
+classification_no_space_upper_length_5: TASK
+classification_no_space_upper_length_6: TASK
 classification_upper: TASK
+classification_upper_length_1: T
+classification_upper_length_2: TA
+classification_upper_length_3: TAS
+classification_upper_length_4: TASK
+classification_upper_length_5: TASK
+classification_upper_length_6: TASK
 color: cleaning
 color_capital: Cleaning
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: cl
+color_length_3: cle
+color_length_4: clea
+color_length_5: clean
+color_length_6: cleani
+color_name: Cleaning
+color_no_space_length_1: c
+color_no_space_length_2: cl
+color_no_space_length_3: cle
+color_no_space_length_4: clea
+color_no_space_length_5: clean
+color_no_space_length_6: cleani
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CL
+color_no_space_upper_length_3: CLE
+color_no_space_upper_length_4: CLEA
+color_no_space_upper_length_5: CLEAN
+color_no_space_upper_length_6: CLEANI
 color_upper: CLEANING
+color_upper_length_1: C
+color_upper_length_2: CL
+color_upper_length_3: CLE
+color_upper_length_4: CLEA
+color_upper_length_5: CLEAN
+color_upper_length_6: CLEANI
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: overflow
 description_main_capital: Overflow
 description_main_first_letter: o
 description_main_first_letter_upper: O
+description_main_length_1: o
+description_main_length_2: ov
+description_main_length_3: ove
+description_main_length_4: over
+description_main_length_5: overf
+description_main_length_6: overfl
+description_main_name: Overflow
+description_main_no_space_length_1: o
+description_main_no_space_length_2: ov
+description_main_no_space_length_3: ove
+description_main_no_space_length_4: over
+description_main_no_space_length_5: overf
+description_main_no_space_length_6: overfl
+description_main_no_space_upper_length_1: O
+description_main_no_space_upper_length_2: OV
+description_main_no_space_upper_length_3: OVE
+description_main_no_space_upper_length_4: OVER
+description_main_no_space_upper_length_5: OVERF
+description_main_no_space_upper_length_6: OVERFL
 description_main_upper: OVERFLOW
+description_main_upper_length_1: O
+description_main_upper_length_2: OV
+description_main_upper_length_3: OVE
+description_main_upper_length_4: OVER
+description_main_upper_length_5: OVERF
+description_main_upper_length_6: OVERFL
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'C '
@@ -26,17 +149,28 @@ directory: parts/task_printer_inkjet_cleaning_overflow
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/task_printer_inkjet_cleaning_overflow
 id: task_printer_inkjet_cleaning_overflow
 id_no_class: printer_inkjet_cleaning_overflow
+id_no_color: overflow
 id_no_size: cleaning_overflow
 id_no_type: inkjet_cleaning_overflow
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209tvxf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209tvxf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209tvxf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209tvxf
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[task_printer_inkjet_cleaning_overflow](none)<br>[](none)<br>[Task
@@ -53,9 +187,26 @@ md5_6_alpha_upper: 9TVXF
 md5_6_upper: FBEFE3
 name: Task Printer Inkjet Cleaning Overflow
 name_no_class: Printer Inkjet Cleaning Overflow
+name_no_color: Overflow
 name_no_size: Cleaning Overflow
 name_no_size_short: Cleaning Overflow
 name_no_type: Inkjet Cleaning Overflow
+oomlout_detail_hierarchy_1: task
+oomlout_detail_hierarchy_1_upper: TASK
+oomlout_detail_hierarchy_1_upper_length_4: TASK
+oomlout_detail_hierarchy_2: printer
+oomlout_detail_hierarchy_2_upper: PRINTER
+oomlout_detail_hierarchy_2_upper_length_4: PRIN
+oomlout_detail_hierarchy_3: inkjet
+oomlout_detail_hierarchy_3_upper: INKJET
+oomlout_detail_hierarchy_3_upper_length_4: INKJ
+oomlout_detail_hierarchy_4: cleaning
+oomlout_detail_hierarchy_4_upper: CLEANING
+oomlout_detail_hierarchy_4_upper_length_4: CLEA
+oomlout_detail_hierarchy_5: overflow
+oomlout_detail_hierarchy_5_upper: OVERFLOW
+oomlout_detail_hierarchy_5_upper_length_4: OVER
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_task_printer_inkjet_cleaning_overflow
 oomp_word: ok truck rowboat
 oomp_word_emoji: ':ok: :truck: :rowboat:'
@@ -71,18 +222,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: inkjet
 size_capital: Inkjet
 size_first_letter: i
 size_first_letter_upper: I
+size_length_1: i
+size_length_2: in
+size_length_3: ink
+size_length_4: inkj
+size_length_5: inkje
+size_length_6: inkjet
+size_name: Inkjet
+size_no_space_length_1: i
+size_no_space_length_2: in
+size_no_space_length_3: ink
+size_no_space_length_4: inkj
+size_no_space_length_5: inkje
+size_no_space_length_6: inkjet
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IN
+size_no_space_upper_length_3: INK
+size_no_space_upper_length_4: INKJ
+size_no_space_upper_length_5: INKJE
+size_no_space_upper_length_6: INKJET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: INKJET
+size_upper_length_1: I
+size_upper_length_2: IN
+size_upper_length_3: INK
+size_upper_length_4: INKJ
+size_upper_length_5: INKJE
+size_upper_length_6: INKJET
 type: printer
 type_capital: Printer
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pr
+type_length_3: pri
+type_length_4: prin
+type_length_5: print
+type_length_6: printe
+type_name: Printer
+type_no_space_length_1: p
+type_no_space_length_2: pr
+type_no_space_length_3: pri
+type_no_space_length_4: prin
+type_no_space_length_5: print
+type_no_space_length_6: printe
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PR
+type_no_space_upper_length_3: PRI
+type_no_space_upper_length_4: PRIN
+type_no_space_upper_length_5: PRINT
+type_no_space_upper_length_6: PRINTE
 type_upper: PRINTER
+type_upper_length_1: P
+type_upper_length_2: PR
+type_upper_length_3: PRI
+type_upper_length_4: PRIN
+type_upper_length_5: PRINT
+type_upper_length_6: PRINTE

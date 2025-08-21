@@ -1,40 +1,174 @@
+bip_39_word_dash_12: total-pear-frame-merry-novel-social-you-file-merge-promote-west-athlete
+bip_39_word_dash_2: total-pear
+bip_39_word_dash_3: total-pear-frame
+bip_39_word_new_br_12: total<br>pear<br>frame<br>merry<br>novel<br>social<br>you<br>file<br>merge<br>promote<br>west<br>athlete
+bip_39_word_new_br_2: total<br>pear
+bip_39_word_new_br_3: total<br>pear<br>frame
+bip_39_word_new_line_12: 'total
+
+  pear
+
+  frame
+
+  merry
+
+  novel
+
+  social
+
+  you
+
+  file
+
+  merge
+
+  promote
+
+  west
+
+  athlete'
+bip_39_word_new_line_2: 'total
+
+  pear'
+bip_39_word_new_line_3: 'total
+
+  pear
+
+  frame'
+bip_39_word_no_space_12: totalpearframemerrynovelsocialyoufilemergepromotewestathlete
+bip_39_word_no_space_2: totalpear
+bip_39_word_no_space_3: totalpearframe
+bip_39_word_space_12: total pear frame merry novel social you file merge promote west
+  athlete
+bip_39_word_space_2: total pear
+bip_39_word_space_3: total pear frame
+bip_39_word_underscore_12: total_pear_frame_merry_novel_social_you_file_merge_promote_west_athlete
+bip_39_word_underscore_2: total_pear
+bip_39_word_underscore_3: total_pear_frame
 classification: phone
 classification_capital: Phone
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: ph
+classification_length_3: pho
+classification_length_4: phon
+classification_length_5: phone
+classification_length_6: phone
+classification_name: Phone
+classification_no_space_length_1: p
+classification_no_space_length_2: ph
+classification_no_space_length_3: pho
+classification_no_space_length_4: phon
+classification_no_space_length_5: phone
+classification_no_space_length_6: phone
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PH
+classification_no_space_upper_length_3: PHO
+classification_no_space_upper_length_4: PHON
+classification_no_space_upper_length_5: PHONE
+classification_no_space_upper_length_6: PHONE
 classification_upper: PHONE
+classification_upper_length_1: P
+classification_upper_length_2: PH
+classification_upper_length_3: PHO
+classification_upper_length_4: PHON
+classification_upper_length_5: PHONE
+classification_upper_length_6: PHONE
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: 74_mm_width_156_mm_height_9_mm_depth
 description_extra_capital: 74 mm Width 156 mm Height 9 mm Depth
 description_extra_first_letter: '7'
 description_extra_first_letter_upper: '7'
+description_extra_length_1: '7'
+description_extra_length_2: '74'
+description_extra_length_3: '74_'
+description_extra_length_4: 74_m
+description_extra_length_5: 74_mm
+description_extra_length_6: 74_mm_
+description_extra_name: 74 mm Width 156 mm Height 9 mm Depth
+description_extra_no_space_length_1: '7'
+description_extra_no_space_length_2: '74'
+description_extra_no_space_length_3: 74m
+description_extra_no_space_length_4: 74mm
+description_extra_no_space_length_5: 74mmw
+description_extra_no_space_length_6: 74mmwi
+description_extra_no_space_upper_length_1: '7'
+description_extra_no_space_upper_length_2: '74'
+description_extra_no_space_upper_length_3: 74M
+description_extra_no_space_upper_length_4: 74MM
+description_extra_no_space_upper_length_5: 74MMW
+description_extra_no_space_upper_length_6: 74MMWI
 description_extra_upper: 74_MM_WIDTH_156_MM_HEIGHT_9_MM_DEPTH
+description_extra_upper_length_1: '7'
+description_extra_upper_length_2: '74'
+description_extra_upper_length_3: '74_'
+description_extra_upper_length_4: 74_M
+description_extra_upper_length_5: 74_MM
+description_extra_upper_length_6: 74_MM_
 description_main: pixel_7
 description_main_capital: Pixel 7
 description_main_first_letter: p
 description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: pi
+description_main_length_3: pix
+description_main_length_4: pixe
+description_main_length_5: pixel
+description_main_length_6: pixel_
+description_main_name: Pixel 7
+description_main_no_space_length_1: p
+description_main_no_space_length_2: pi
+description_main_no_space_length_3: pix
+description_main_no_space_length_4: pixe
+description_main_no_space_length_5: pixel
+description_main_no_space_length_6: pixel7
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PI
+description_main_no_space_upper_length_3: PIX
+description_main_no_space_upper_length_4: PIXE
+description_main_no_space_upper_length_5: PIXEL
+description_main_no_space_upper_length_6: PIXEL7
 description_main_upper: PIXEL_7
+description_main_upper_length_1: P
+description_main_upper_length_2: PI
+description_main_upper_length_3: PIX
+description_main_upper_length_4: PIXE
+description_main_upper_length_5: PIXEL
+description_main_upper_length_6: PIXEL_
 description_only_numbers: '7'
 description_only_numbers_short: '7'
 description_or_color: '7'
 description_or_color_upper: '7'
 directory: parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
 id: phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
 id_no_class: android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+id_no_color: pixel774mmwidth156mmheight9mmdepth
 id_no_size: pixel_7_74_mm_width_156_mm_height_9_mm_depth
 id_no_type: google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208w6wb
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208w6wb
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208w6wb
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208w6wb
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth](none)<br>[](none)<br>[Phone
@@ -49,11 +183,34 @@ md5_6: e3f2eb
 md5_6_alpha: 8w6wb
 md5_6_alpha_upper: 8W6WB
 md5_6_upper: E3F2EB
-name: Phone Android Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
-name_no_class: Android Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
-name_no_size: Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+name: Phone Android Google Pixel Pixel 7 74 mm Width 156 mm Height 9 mm Depth
+name_no_class: Android Google Pixel Pixel 7 74 mm Width 156 mm Height 9 mm Depth
+name_no_color: Pixel774mmwidth156mmheight9mmdepth
+name_no_size: Pixel 7 74 mm Width 156 mm Height 9 mm Depth
 name_no_size_short: Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
-name_no_type: Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+name_no_type: Google Pixel Pixel 7 74 mm Width 156 mm Height 9 mm Depth
+oomlout_detail_hierarchy_1: phone
+oomlout_detail_hierarchy_1_upper: PHONE
+oomlout_detail_hierarchy_1_upper_length_4: PHON
+oomlout_detail_hierarchy_2: android
+oomlout_detail_hierarchy_2_upper: ANDROID
+oomlout_detail_hierarchy_2_upper_length_4: ANDR
+oomlout_detail_hierarchy_3: google_pixel
+oomlout_detail_hierarchy_3_upper: GOOGLE_PIXEL
+oomlout_detail_hierarchy_3_upper_length_4: GOOG
+oomlout_detail_hierarchy_4: pixel_7
+oomlout_detail_hierarchy_4_upper: PIXEL_7
+oomlout_detail_hierarchy_4_upper_length_4: PIXE
+oomlout_detail_hierarchy_5: 74_mm_width
+oomlout_detail_hierarchy_5_upper: 74_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 74WI
+oomlout_detail_hierarchy_6: 156_mm_height
+oomlout_detail_hierarchy_6_upper: 156_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 156H
+oomlout_detail_hierarchy_7: 9_mm_depth
+oomlout_detail_hierarchy_7_upper: 9_MM_DEPTH
+oomlout_detail_hierarchy_7_upper_length_4: 9DEP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
 oomp_word: rowboat one car
 oomp_word_emoji: ':rowboat: :one: :car:'
@@ -69,7 +226,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Google Pixel 7
@@ -77,11 +239,61 @@ size: google_pixel
 size_capital: Google Pixel
 size_first_letter: g
 size_first_letter_upper: G
+size_length_1: g
+size_length_2: go
+size_length_3: goo
+size_length_4: goog
+size_length_5: googl
+size_length_6: google
+size_name: Google Pixel
+size_no_space_length_1: g
+size_no_space_length_2: go
+size_no_space_length_3: goo
+size_no_space_length_4: goog
+size_no_space_length_5: googl
+size_no_space_length_6: google
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GO
+size_no_space_upper_length_3: GOO
+size_no_space_upper_length_4: GOOG
+size_no_space_upper_length_5: GOOGL
+size_no_space_upper_length_6: GOOGLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GOOGLE_PIXEL
+size_upper_length_1: G
+size_upper_length_2: GO
+size_upper_length_3: GOO
+size_upper_length_4: GOOG
+size_upper_length_5: GOOGL
+size_upper_length_6: GOOGLE
 type: android
 type_capital: Android
 type_first_letter: a
 type_first_letter_upper: A
+type_length_1: a
+type_length_2: an
+type_length_3: and
+type_length_4: andr
+type_length_5: andro
+type_length_6: androi
+type_name: Android
+type_no_space_length_1: a
+type_no_space_length_2: an
+type_no_space_length_3: and
+type_no_space_length_4: andr
+type_no_space_length_5: andro
+type_no_space_length_6: androi
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AN
+type_no_space_upper_length_3: AND
+type_no_space_upper_length_4: ANDR
+type_no_space_upper_length_5: ANDRO
+type_no_space_upper_length_6: ANDROI
 type_upper: ANDROID
+type_upper_length_1: A
+type_upper_length_2: AN
+type_upper_length_3: AND
+type_upper_length_4: ANDR
+type_upper_length_5: ANDRO
+type_upper_length_6: ANDROI

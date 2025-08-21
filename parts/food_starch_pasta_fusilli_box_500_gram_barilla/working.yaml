@@ -1,23 +1,146 @@
+bip_39_word_dash_12: build-elegant-arm-trigger-exhaust-glad-asthma-stomach-sword-forward-divorce-arm
+bip_39_word_dash_2: build-elegant
+bip_39_word_dash_3: build-elegant-arm
+bip_39_word_new_br_12: build<br>elegant<br>arm<br>trigger<br>exhaust<br>glad<br>asthma<br>stomach<br>sword<br>forward<br>divorce<br>arm
+bip_39_word_new_br_2: build<br>elegant
+bip_39_word_new_br_3: build<br>elegant<br>arm
+bip_39_word_new_line_12: 'build
+
+  elegant
+
+  arm
+
+  trigger
+
+  exhaust
+
+  glad
+
+  asthma
+
+  stomach
+
+  sword
+
+  forward
+
+  divorce
+
+  arm'
+bip_39_word_new_line_2: 'build
+
+  elegant'
+bip_39_word_new_line_3: 'build
+
+  elegant
+
+  arm'
+bip_39_word_no_space_12: buildelegantarmtriggerexhaustgladasthmastomachswordforwarddivorcearm
+bip_39_word_no_space_2: buildelegant
+bip_39_word_no_space_3: buildelegantarm
+bip_39_word_space_12: build elegant arm trigger exhaust glad asthma stomach sword
+  forward divorce arm
+bip_39_word_space_2: build elegant
+bip_39_word_space_3: build elegant arm
+bip_39_word_underscore_12: build_elegant_arm_trigger_exhaust_glad_asthma_stomach_sword_forward_divorce_arm
+bip_39_word_underscore_2: build_elegant
+bip_39_word_underscore_3: build_elegant_arm
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
 color: fusilli
 color_capital: Fusilli
 color_first_letter: f
 color_first_letter_upper: F
+color_length_1: f
+color_length_2: fu
+color_length_3: fus
+color_length_4: fusi
+color_length_5: fusil
+color_length_6: fusill
+color_name: Fusilli
+color_no_space_length_1: f
+color_no_space_length_2: fu
+color_no_space_length_3: fus
+color_no_space_length_4: fusi
+color_no_space_length_5: fusil
+color_no_space_length_6: fusill
+color_no_space_upper_length_1: F
+color_no_space_upper_length_2: FU
+color_no_space_upper_length_3: FUS
+color_no_space_upper_length_4: FUSI
+color_no_space_upper_length_5: FUSIL
+color_no_space_upper_length_6: FUSILL
 color_upper: FUSILLI
+color_upper_length_1: F
+color_upper_length_2: FU
+color_upper_length_3: FUS
+color_upper_length_4: FUSI
+color_upper_length_5: FUSIL
+color_upper_length_6: FUSILL
 description: pasta_fusilli
 description_extra: box_500_gram
 description_extra_capital: Box 500 Gram
 description_extra_first_letter: b
 description_extra_first_letter_upper: B
+description_extra_length_1: b
+description_extra_length_2: bo
+description_extra_length_3: box
+description_extra_length_4: box_
+description_extra_length_5: box_5
+description_extra_length_6: box_50
+description_extra_name: Box 500 Gram
+description_extra_no_space_length_1: b
+description_extra_no_space_length_2: bo
+description_extra_no_space_length_3: box
+description_extra_no_space_length_4: box5
+description_extra_no_space_length_5: box50
+description_extra_no_space_length_6: box500
+description_extra_no_space_upper_length_1: B
+description_extra_no_space_upper_length_2: BO
+description_extra_no_space_upper_length_3: BOX
+description_extra_no_space_upper_length_4: BOX5
+description_extra_no_space_upper_length_5: BOX50
+description_extra_no_space_upper_length_6: BOX500
 description_extra_upper: BOX_500_GRAM
+description_extra_upper_length_1: B
+description_extra_upper_length_2: BO
+description_extra_upper_length_3: BOX
+description_extra_upper_length_4: BOX_
+description_extra_upper_length_5: BOX_5
+description_extra_upper_length_6: BOX_50
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,18 +150,53 @@ directory: parts/food_starch_pasta_fusilli_box_500_gram_barilla
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
 id: food_starch_pasta_fusilli_box_500_gram_barilla
 id_no_class: starch_pasta_fusilli_box_500_gram_barilla
+id_no_color: box_500_gram_barilla
 id_no_size: fusilli_box_500_gram_barilla
 id_no_type: pasta_fusilli_box_500_gram_barilla
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2079yxi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2079yxi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2079yxi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2079yxi
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
 manufacturer: barilla
 manufacturer_capital: Barilla
 manufacturer_first_letter: b
 manufacturer_first_letter_upper: B
+manufacturer_length_1: b
+manufacturer_length_2: ba
+manufacturer_length_3: bar
+manufacturer_length_4: bari
+manufacturer_length_5: baril
+manufacturer_length_6: barill
+manufacturer_name: Barilla
+manufacturer_no_space_length_1: b
+manufacturer_no_space_length_2: ba
+manufacturer_no_space_length_3: bar
+manufacturer_no_space_length_4: bari
+manufacturer_no_space_length_5: baril
+manufacturer_no_space_length_6: barill
+manufacturer_no_space_upper_length_1: B
+manufacturer_no_space_upper_length_2: BA
+manufacturer_no_space_upper_length_3: BAR
+manufacturer_no_space_upper_length_4: BARI
+manufacturer_no_space_upper_length_5: BARIL
+manufacturer_no_space_upper_length_6: BARILL
 manufacturer_upper: BARILLA
+manufacturer_upper_length_1: B
+manufacturer_upper_length_2: BA
+manufacturer_upper_length_3: BAR
+manufacturer_upper_length_4: BARI
+manufacturer_upper_length_5: BARIL
+manufacturer_upper_length_6: BARILL
 manufacturers: []
 markdown_full: '[food_starch_pasta_fusilli_box_500_gram_barilla](none)<br>[](none)<br>[Food
   Starch Pasta Fusilli Box 500 Gram Barilla](none)<br><br>'
@@ -54,10 +212,30 @@ md5_6_alpha_upper: 79YXI
 md5_6_upper: BA8016
 name: Food Starch Pasta Fusilli Box 500 Gram Barilla
 name_no_class: Starch Pasta Fusilli Box 500 Gram Barilla
+name_no_color: Box 500 Gram Barilla
 name_no_size: Fusilli Box 500 Gram Barilla
 name_no_size_short: Fusilli Box 500 Gram Barilla
 name_no_type: Pasta Fusilli Box 500 Gram Barilla
 name_short: Pasta Fusilli
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: starch
+oomlout_detail_hierarchy_2_upper: STARCH
+oomlout_detail_hierarchy_2_upper_length_4: STAR
+oomlout_detail_hierarchy_3: pasta
+oomlout_detail_hierarchy_3_upper: PASTA
+oomlout_detail_hierarchy_3_upper_length_4: PAST
+oomlout_detail_hierarchy_4: fusilli
+oomlout_detail_hierarchy_4_upper: FUSILLI
+oomlout_detail_hierarchy_4_upper_length_4: FUSI
+oomlout_detail_hierarchy_5: 500_gram
+oomlout_detail_hierarchy_5_upper: 500_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '500_'
+oomlout_detail_hierarchy_6: barilla
+oomlout_detail_hierarchy_6_upper: BARILLA
+oomlout_detail_hierarchy_6_upper_length_4: BARI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_starch_pasta_fusilli_box_500_gram_barilla
 oomp_word: spaghetti hourglass thumbsup
 oomp_word_emoji: ':spaghetti: :hourglass: :thumbsup:'
@@ -73,18 +251,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: pasta
 size_capital: Pasta
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pa
+size_length_3: pas
+size_length_4: past
+size_length_5: pasta
+size_length_6: pasta
+size_name: Pasta
+size_no_space_length_1: p
+size_no_space_length_2: pa
+size_no_space_length_3: pas
+size_no_space_length_4: past
+size_no_space_length_5: pasta
+size_no_space_length_6: pasta
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PA
+size_no_space_upper_length_3: PAS
+size_no_space_upper_length_4: PAST
+size_no_space_upper_length_5: PASTA
+size_no_space_upper_length_6: PASTA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PASTA
+size_upper_length_1: P
+size_upper_length_2: PA
+size_upper_length_3: PAS
+size_upper_length_4: PAST
+size_upper_length_5: PASTA
+size_upper_length_6: PASTA
 type: starch
 type_capital: Starch
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sta
+type_length_4: star
+type_length_5: starc
+type_length_6: starch
+type_name: Starch
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sta
+type_no_space_length_4: star
+type_no_space_length_5: starc
+type_no_space_length_6: starch
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STA
+type_no_space_upper_length_4: STAR
+type_no_space_upper_length_5: STARC
+type_no_space_upper_length_6: STARCH
 type_upper: STARCH
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STA
+type_upper_length_4: STAR
+type_upper_length_5: STARC
+type_upper_length_6: STARCH

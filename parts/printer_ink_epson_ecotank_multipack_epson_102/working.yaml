@@ -1,23 +1,146 @@
+bip_39_word_dash_12: degree-convince-agent-margin-question-hurry-property-raise-involve-upon-butter-able
+bip_39_word_dash_2: degree-convince
+bip_39_word_dash_3: degree-convince-agent
+bip_39_word_new_br_12: degree<br>convince<br>agent<br>margin<br>question<br>hurry<br>property<br>raise<br>involve<br>upon<br>butter<br>able
+bip_39_word_new_br_2: degree<br>convince
+bip_39_word_new_br_3: degree<br>convince<br>agent
+bip_39_word_new_line_12: 'degree
+
+  convince
+
+  agent
+
+  margin
+
+  question
+
+  hurry
+
+  property
+
+  raise
+
+  involve
+
+  upon
+
+  butter
+
+  able'
+bip_39_word_new_line_2: 'degree
+
+  convince'
+bip_39_word_new_line_3: 'degree
+
+  convince
+
+  agent'
+bip_39_word_no_space_12: degreeconvinceagentmarginquestionhurrypropertyraiseinvolveuponbutterable
+bip_39_word_no_space_2: degreeconvince
+bip_39_word_no_space_3: degreeconvinceagent
+bip_39_word_space_12: degree convince agent margin question hurry property raise involve
+  upon butter able
+bip_39_word_space_2: degree convince
+bip_39_word_space_3: degree convince agent
+bip_39_word_underscore_12: degree_convince_agent_margin_question_hurry_property_raise_involve_upon_butter_able
+bip_39_word_underscore_2: degree_convince
+bip_39_word_underscore_3: degree_convince_agent
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
 classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
 color: ecotank
 color_capital: Ecotank
 color_first_letter: e
 color_first_letter_upper: E
+color_length_1: e
+color_length_2: ec
+color_length_3: eco
+color_length_4: ecot
+color_length_5: ecota
+color_length_6: ecotan
+color_name: Ecotank
+color_no_space_length_1: e
+color_no_space_length_2: ec
+color_no_space_length_3: eco
+color_no_space_length_4: ecot
+color_no_space_length_5: ecota
+color_no_space_length_6: ecotan
+color_no_space_upper_length_1: E
+color_no_space_upper_length_2: EC
+color_no_space_upper_length_3: ECO
+color_no_space_upper_length_4: ECOT
+color_no_space_upper_length_5: ECOTA
+color_no_space_upper_length_6: ECOTAN
 color_upper: ECOTANK
+color_upper_length_1: E
+color_upper_length_2: EC
+color_upper_length_3: ECO
+color_upper_length_4: ECOT
+color_upper_length_5: ECOTA
+color_upper_length_6: ECOTAN
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: multipack
 description_main_capital: Multipack
 description_main_first_letter: m
 description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mu
+description_main_length_3: mul
+description_main_length_4: mult
+description_main_length_5: multi
+description_main_length_6: multip
+description_main_name: Multipack
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mu
+description_main_no_space_length_3: mul
+description_main_no_space_length_4: mult
+description_main_no_space_length_5: multi
+description_main_no_space_length_6: multip
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MU
+description_main_no_space_upper_length_3: MUL
+description_main_no_space_upper_length_4: MULT
+description_main_no_space_upper_length_5: MULTI
+description_main_no_space_upper_length_6: MULTIP
 description_main_upper: MULTIPACK
+description_main_upper_length_1: M
+description_main_upper_length_2: MU
+description_main_upper_length_3: MUL
+description_main_upper_length_4: MULT
+description_main_upper_length_5: MULTI
+description_main_upper_length_6: MULTIP
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'E '
@@ -25,19 +148,58 @@ description_or_color_upper: 'E '
 directory: parts/printer_ink_epson_ecotank_multipack_epson_102
 distributor_amazon: B08BXSR45Z
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_ink_epson_ecotank_multipack_epson_102
 id: printer_ink_epson_ecotank_multipack_epson_102
 id_no_class: ink_epson_ecotank_multipack_epson_102
+id_no_color: multipack_102
 id_no_size: ecotank_multipack_102
 id_no_type: epson_ecotank_multipack_epson_102
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_multipack_epson_102
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_multipack_epson_102
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B08BXSR45Z
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B08BXSR45Z
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B08BXSR45Z
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_multipack_epson_102
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_multipack_epson_102
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ynv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ynv
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205ynv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ynv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_multipack_epson_102
 manufacturer: epson
 manufacturer_capital: Epson
 manufacturer_first_letter: e
 manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: ep
+manufacturer_length_3: eps
+manufacturer_length_4: epso
+manufacturer_length_5: epson
+manufacturer_length_6: epson
+manufacturer_name: Epson
+manufacturer_no_space_length_1: e
+manufacturer_no_space_length_2: ep
+manufacturer_no_space_length_3: eps
+manufacturer_no_space_length_4: epso
+manufacturer_no_space_length_5: epson
+manufacturer_no_space_length_6: epson
+manufacturer_no_space_upper_length_1: E
+manufacturer_no_space_upper_length_2: EP
+manufacturer_no_space_upper_length_3: EPS
+manufacturer_no_space_upper_length_4: EPSO
+manufacturer_no_space_upper_length_5: EPSON
+manufacturer_no_space_upper_length_6: EPSON
 manufacturer_upper: EPSON
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EP
+manufacturer_upper_length_3: EPS
+manufacturer_upper_length_4: EPSO
+manufacturer_upper_length_5: EPSON
+manufacturer_upper_length_6: EPSON
 manufacturers: []
 markdown_full: '[printer_ink_epson_ecotank_multipack_epson_102](none)<br>[](none)<br>[Printer
   Ink Epson Ecotank Multipack Epson 102](none)<br><br>'
@@ -53,9 +215,32 @@ md5_6_alpha_upper: 5YNV
 md5_6_upper: 043EBB
 name: Printer Ink Epson Ecotank Multipack Epson 102
 name_no_class: Ink Epson Ecotank Multipack Epson 102
+name_no_color: Multipack 102
 name_no_size: Ecotank Multipack 102
 name_no_size_short: Ecotank Multipack 102
 name_no_type: Epson Ecotank Multipack Epson 102
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: ink
+oomlout_detail_hierarchy_2_upper: INK
+oomlout_detail_hierarchy_2_upper_length_4: INK
+oomlout_detail_hierarchy_3: epson
+oomlout_detail_hierarchy_3_upper: EPSON
+oomlout_detail_hierarchy_3_upper_length_4: EPSO
+oomlout_detail_hierarchy_4: ecotank
+oomlout_detail_hierarchy_4_upper: ECOTANK
+oomlout_detail_hierarchy_4_upper_length_4: ECOT
+oomlout_detail_hierarchy_5: multipack
+oomlout_detail_hierarchy_5_upper: MULTIPACK
+oomlout_detail_hierarchy_5_upper_length_4: MULT
+oomlout_detail_hierarchy_6: epson
+oomlout_detail_hierarchy_6_upper: EPSON
+oomlout_detail_hierarchy_6_upper_length_4: EPSO
+oomlout_detail_hierarchy_7: '102'
+oomlout_detail_hierarchy_7_upper: '102'
+oomlout_detail_hierarchy_7_upper_length_4: '102'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_ink_epson_ecotank_multipack_epson_102
 oomp_word: wink monkey curry
 oomp_word_emoji: ':wink: :monkey: :curry:'
@@ -72,18 +257,97 @@ part_number_capital: '102'
 part_number_exact: '102'
 part_number_first_letter: '1'
 part_number_first_letter_upper: '1'
+part_number_length_1: '1'
+part_number_length_2: '10'
+part_number_length_3: '102'
+part_number_length_4: '102'
+part_number_length_5: '102'
+part_number_length_6: '102'
+part_number_name: '102'
+part_number_no_space_length_1: '1'
+part_number_no_space_length_2: '10'
+part_number_no_space_length_3: '102'
+part_number_no_space_length_4: '102'
+part_number_no_space_length_5: '102'
+part_number_no_space_length_6: '102'
+part_number_no_space_upper_length_1: '1'
+part_number_no_space_upper_length_2: '10'
+part_number_no_space_upper_length_3: '102'
+part_number_no_space_upper_length_4: '102'
+part_number_no_space_upper_length_5: '102'
+part_number_no_space_upper_length_6: '102'
 part_number_upper: '102'
+part_number_upper_length_1: '1'
+part_number_upper_length_2: '10'
+part_number_upper_length_3: '102'
+part_number_upper_length_4: '102'
+part_number_upper_length_5: '102'
+part_number_upper_length_6: '102'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: epson
 size_capital: Epson
 size_first_letter: e
 size_first_letter_upper: E
+size_length_1: e
+size_length_2: ep
+size_length_3: eps
+size_length_4: epso
+size_length_5: epson
+size_length_6: epson
+size_name: Epson
+size_no_space_length_1: e
+size_no_space_length_2: ep
+size_no_space_length_3: eps
+size_no_space_length_4: epso
+size_no_space_length_5: epson
+size_no_space_length_6: epson
+size_no_space_upper_length_1: E
+size_no_space_upper_length_2: EP
+size_no_space_upper_length_3: EPS
+size_no_space_upper_length_4: EPSO
+size_no_space_upper_length_5: EPSON
+size_no_space_upper_length_6: EPSON
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: EPSON
+size_upper_length_1: E
+size_upper_length_2: EP
+size_upper_length_3: EPS
+size_upper_length_4: EPSO
+size_upper_length_5: EPSON
+size_upper_length_6: EPSON
 type: ink
 type_capital: Ink
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: ink
+type_length_5: ink
+type_length_6: ink
+type_name: Ink
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: ink
+type_no_space_length_5: ink
+type_no_space_length_6: ink
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INK
+type_no_space_upper_length_5: INK
+type_no_space_upper_length_6: INK
 type_upper: INK
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INK
+type_upper_length_5: INK
+type_upper_length_6: INK

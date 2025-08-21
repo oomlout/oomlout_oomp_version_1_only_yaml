@@ -1,24 +1,171 @@
+bip_39_word_dash_12: about-first-sunny-minimum-tone-lend-eager-leopard-club-ramp-vendor-antenna
+bip_39_word_dash_2: about-first
+bip_39_word_dash_3: about-first-sunny
+bip_39_word_new_br_12: about<br>first<br>sunny<br>minimum<br>tone<br>lend<br>eager<br>leopard<br>club<br>ramp<br>vendor<br>antenna
+bip_39_word_new_br_2: about<br>first
+bip_39_word_new_br_3: about<br>first<br>sunny
+bip_39_word_new_line_12: 'about
+
+  first
+
+  sunny
+
+  minimum
+
+  tone
+
+  lend
+
+  eager
+
+  leopard
+
+  club
+
+  ramp
+
+  vendor
+
+  antenna'
+bip_39_word_new_line_2: 'about
+
+  first'
+bip_39_word_new_line_3: 'about
+
+  first
+
+  sunny'
+bip_39_word_no_space_12: aboutfirstsunnyminimumtonelendeagerleopardclubrampvendorantenna
+bip_39_word_no_space_2: aboutfirst
+bip_39_word_no_space_3: aboutfirstsunny
+bip_39_word_space_12: about first sunny minimum tone lend eager leopard club ramp
+  vendor antenna
+bip_39_word_space_2: about first
+bip_39_word_space_3: about first sunny
+bip_39_word_underscore_12: about_first_sunny_minimum_tone_lend_eager_leopard_club_ramp_vendor_antenna
+bip_39_word_underscore_2: about_first
+bip_39_word_underscore_3: about_first_sunny
 classification: furniture
 classification_capital: Furniture
 classification_first_letter: f
 classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fu
+classification_length_3: fur
+classification_length_4: furn
+classification_length_5: furni
+classification_length_6: furnit
+classification_name: Furniture
+classification_no_space_length_1: f
+classification_no_space_length_2: fu
+classification_no_space_length_3: fur
+classification_no_space_length_4: furn
+classification_no_space_length_5: furni
+classification_no_space_length_6: furnit
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FU
+classification_no_space_upper_length_3: FUR
+classification_no_space_upper_length_4: FURN
+classification_no_space_upper_length_5: FURNI
+classification_no_space_upper_length_6: FURNIT
 classification_upper: FURNITURE
+classification_upper_length_1: F
+classification_upper_length_2: FU
+classification_upper_length_3: FUR
+classification_upper_length_4: FURN
+classification_upper_length_5: FURNI
+classification_upper_length_6: FURNIT
 color: white
 color_capital: White
 color_first_letter: w
 color_first_letter_upper: W
+color_length_1: w
+color_length_2: wh
+color_length_3: whi
+color_length_4: whit
+color_length_5: white
+color_length_6: white
+color_name: White
+color_no_space_length_1: w
+color_no_space_length_2: wh
+color_no_space_length_3: whi
+color_no_space_length_4: whit
+color_no_space_length_5: white
+color_no_space_length_6: white
+color_no_space_upper_length_1: W
+color_no_space_upper_length_2: WH
+color_no_space_upper_length_3: WHI
+color_no_space_upper_length_4: WHIT
+color_no_space_upper_length_5: WHITE
+color_no_space_upper_length_6: WHITE
 color_upper: WHITE
+color_upper_length_1: W
+color_upper_length_2: WH
+color_upper_length_3: WHI
+color_upper_length_4: WHIT
+color_upper_length_5: WHITE
+color_upper_length_6: WHITE
 depth: 390 mm
 description_extra: 1470_mm_width_1470_mm_height_390_mm_depth
 description_extra_capital: 1470 mm Width 1470 mm Height 390 mm Depth
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
+description_extra_length_1: '1'
+description_extra_length_2: '14'
+description_extra_length_3: '147'
+description_extra_length_4: '1470'
+description_extra_length_5: '1470_'
+description_extra_length_6: 1470_m
+description_extra_name: 1470 mm Width 1470 mm Height 390 mm Depth
+description_extra_no_space_length_1: '1'
+description_extra_no_space_length_2: '14'
+description_extra_no_space_length_3: '147'
+description_extra_no_space_length_4: '1470'
+description_extra_no_space_length_5: 1470m
+description_extra_no_space_length_6: 1470mm
+description_extra_no_space_upper_length_1: '1'
+description_extra_no_space_upper_length_2: '14'
+description_extra_no_space_upper_length_3: '147'
+description_extra_no_space_upper_length_4: '1470'
+description_extra_no_space_upper_length_5: 1470M
+description_extra_no_space_upper_length_6: 1470MM
 description_extra_upper: 1470_MM_WIDTH_1470_MM_HEIGHT_390_MM_DEPTH
+description_extra_upper_length_1: '1'
+description_extra_upper_length_2: '14'
+description_extra_upper_length_3: '147'
+description_extra_upper_length_4: '1470'
+description_extra_upper_length_5: '1470_'
+description_extra_upper_length_6: 1470_M
 description_main: 4_cell_width_4_cell_height
 description_main_capital: 4 Cell Width 4 Cell Height
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
+description_main_length_1: '4'
+description_main_length_2: '4_'
+description_main_length_3: 4_c
+description_main_length_4: 4_ce
+description_main_length_5: 4_cel
+description_main_length_6: 4_cell
+description_main_name: 4 Cell Width 4 Cell Height
+description_main_no_space_length_1: '4'
+description_main_no_space_length_2: 4c
+description_main_no_space_length_3: 4ce
+description_main_no_space_length_4: 4cel
+description_main_no_space_length_5: 4cell
+description_main_no_space_length_6: 4cellw
+description_main_no_space_upper_length_1: '4'
+description_main_no_space_upper_length_2: 4C
+description_main_no_space_upper_length_3: 4CE
+description_main_no_space_upper_length_4: 4CEL
+description_main_no_space_upper_length_5: 4CELL
+description_main_no_space_upper_length_6: 4CELLW
 description_main_upper: 4_CELL_WIDTH_4_CELL_HEIGHT
+description_main_upper_length_1: '4'
+description_main_upper_length_2: '4_'
+description_main_upper_length_3: 4_C
+description_main_upper_length_4: 4_CE
+description_main_upper_length_5: 4_CEL
+description_main_upper_length_6: 4_CELL
 description_only_numbers: '44'
 description_only_numbers_short: '44'
 description_or_color: W44
@@ -27,19 +174,54 @@ directory: parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_14
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 height: 1470 mm
 id: furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 id_no_class: shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
+id_no_color: 4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 id_no_size: white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 id_no_type: ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2065sa4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2065sa4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2065sa4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2065sa4
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
+manufacturer_length_1: i
+manufacturer_length_2: ik
+manufacturer_length_3: ike
+manufacturer_length_4: ikea
+manufacturer_length_5: ikea
+manufacturer_length_6: ikea
+manufacturer_name: Ikea
+manufacturer_no_space_length_1: i
+manufacturer_no_space_length_2: ik
+manufacturer_no_space_length_3: ike
+manufacturer_no_space_length_4: ikea
+manufacturer_no_space_length_5: ikea
+manufacturer_no_space_length_6: ikea
+manufacturer_no_space_upper_length_1: I
+manufacturer_no_space_upper_length_2: IK
+manufacturer_no_space_upper_length_3: IKE
+manufacturer_no_space_upper_length_4: IKEA
+manufacturer_no_space_upper_length_5: IKEA
+manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
+manufacturer_upper_length_1: I
+manufacturer_upper_length_2: IK
+manufacturer_upper_length_3: IKE
+manufacturer_upper_length_4: IKEA
+manufacturer_upper_length_5: IKEA
+manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61](none)<br>[w](none)<br>[Furniture
   Shelf Ikea Kallax White 4 Cell Width 4 Cell Height 1470 Mm Width 1470 Mm Height
@@ -54,16 +236,52 @@ md5_6: 9de46c
 md5_6_alpha: 65sa4
 md5_6_alpha_upper: 65SA4
 md5_6_upper: 9DE46C
-name: Furniture Shelf Ikea Kallax White 4 Cell Width 4 Cell Height 1470 Mm Width 1470
-  Mm Height 390 Mm Depth Ikea 302 758 61
-name_no_class: Shelf Ikea Kallax White 4 Cell Width 4 Cell Height 1470 Mm Width 1470
-  Mm Height 390 Mm Depth Ikea 302 758 61
-name_no_size: White 4 Cell Width 4 Cell Height 1470 Mm Width 1470 Mm Height 390 Mm
+name: Furniture Shelf Ikea Kallax White 4 Cell Width 4 Cell Height 1470 mm Width 1470
+  mm Height 390 mm Depth Ikea 302 758 61
+name_no_class: Shelf Ikea Kallax White 4 Cell Width 4 Cell Height 1470 mm Width 1470
+  mm Height 390 mm Depth Ikea 302 758 61
+name_no_color: 4 Cell Width 4 Cell Height 1470 mm Width 1470 mm Height 390 mm Depth
+  Ikea 302 758 61
+name_no_size: White 4 Cell Width 4 Cell Height 1470 mm Width 1470 mm Height 390 mm
   Depth Ikea 302 758 61
 name_no_size_short: White 4 Cell Width 4 Cell Height 1470 Mm Width 1470 Mm Height
   390 Mm Depth Ikea 302 758 61
-name_no_type: Ikea Kallax White 4 Cell Width 4 Cell Height 1470 Mm Width 1470 Mm Height
-  390 Mm Depth Ikea 302 758 61
+name_no_type: Ikea Kallax White 4 Cell Width 4 Cell Height 1470 mm Width 1470 mm Height
+  390 mm Depth Ikea 302 758 61
+oomlout_detail_hierarchy_1: furniture
+oomlout_detail_hierarchy_10: ikea
+oomlout_detail_hierarchy_10_upper: IKEA
+oomlout_detail_hierarchy_10_upper_length_4: IKEA
+oomlout_detail_hierarchy_11: '302_758_61'
+oomlout_detail_hierarchy_11_upper: '302_758_61'
+oomlout_detail_hierarchy_11_upper_length_4: '302_'
+oomlout_detail_hierarchy_1_upper: FURNITURE
+oomlout_detail_hierarchy_1_upper_length_4: FURN
+oomlout_detail_hierarchy_2: shelf
+oomlout_detail_hierarchy_2_upper: SHELF
+oomlout_detail_hierarchy_2_upper_length_4: SHEL
+oomlout_detail_hierarchy_3: ikea_kallax
+oomlout_detail_hierarchy_3_upper: IKEA_KALLAX
+oomlout_detail_hierarchy_3_upper_length_4: IKEA
+oomlout_detail_hierarchy_4: white
+oomlout_detail_hierarchy_4_upper: WHITE
+oomlout_detail_hierarchy_4_upper_length_4: WHIT
+oomlout_detail_hierarchy_5: 4_cell_width_4
+oomlout_detail_hierarchy_5_upper: 4_CELL_WIDTH_4
+oomlout_detail_hierarchy_5_upper_length_4: 4_CE
+oomlout_detail_hierarchy_6: cell_height
+oomlout_detail_hierarchy_6_upper: CELL_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: CELL
+oomlout_detail_hierarchy_7: 1470_mm_width
+oomlout_detail_hierarchy_7_upper: 1470_MM_WIDTH
+oomlout_detail_hierarchy_7_upper_length_4: '1470'
+oomlout_detail_hierarchy_8: 1470_mm_height
+oomlout_detail_hierarchy_8_upper: 1470_MM_HEIGHT
+oomlout_detail_hierarchy_8_upper_length_4: '1470'
+oomlout_detail_hierarchy_9: 390_mm_depth
+oomlout_detail_hierarchy_9_upper: 390_MM_DEPTH
+oomlout_detail_hierarchy_9_upper_length_4: 390D
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shelf_ikea_kallax_white_4_cell_width_4_cell_height_1470_mm_width_1470_mm_height_390_mm_depth_ikea_302_758_61
 oomp_word: hearts anchor blossom
 oomp_word_emoji: ':hearts: :anchor: :blossom:'
@@ -79,19 +297,98 @@ part_number: '302_758_61'
 part_number_capital: 302.758.61
 part_number_first_letter: '3'
 part_number_first_letter_upper: '3'
+part_number_length_1: '3'
+part_number_length_2: '30'
+part_number_length_3: '302'
+part_number_length_4: '302_'
+part_number_length_5: '302_7'
+part_number_length_6: '302_75'
+part_number_name: 302 758 61
+part_number_no_space_length_1: '3'
+part_number_no_space_length_2: '30'
+part_number_no_space_length_3: '302'
+part_number_no_space_length_4: '3027'
+part_number_no_space_length_5: '30275'
+part_number_no_space_length_6: '302758'
+part_number_no_space_upper_length_1: '3'
+part_number_no_space_upper_length_2: '30'
+part_number_no_space_upper_length_3: '302'
+part_number_no_space_upper_length_4: '3027'
+part_number_no_space_upper_length_5: '30275'
+part_number_no_space_upper_length_6: '302758'
 part_number_upper: '302_758_61'
+part_number_upper_length_1: '3'
+part_number_upper_length_2: '30'
+part_number_upper_length_3: '302'
+part_number_upper_length_4: '302_'
+part_number_upper_length_5: '302_7'
+part_number_upper_length_6: '302_75'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: w
 short_code_upper: W
 size: ikea_kallax
 size_capital: Ikea Kallax
 size_first_letter: i
 size_first_letter_upper: I
+size_length_1: i
+size_length_2: ik
+size_length_3: ike
+size_length_4: ikea
+size_length_5: ikea_
+size_length_6: ikea_k
+size_name: Ikea Kallax
+size_no_space_length_1: i
+size_no_space_length_2: ik
+size_no_space_length_3: ike
+size_no_space_length_4: ikea
+size_no_space_length_5: ikeak
+size_no_space_length_6: ikeaka
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IK
+size_no_space_upper_length_3: IKE
+size_no_space_upper_length_4: IKEA
+size_no_space_upper_length_5: IKEAK
+size_no_space_upper_length_6: IKEAKA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IKEA_KALLAX
+size_upper_length_1: I
+size_upper_length_2: IK
+size_upper_length_3: IKE
+size_upper_length_4: IKEA
+size_upper_length_5: IKEA_
+size_upper_length_6: IKEA_K
 type: shelf
 type_capital: Shelf
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shel
+type_length_5: shelf
+type_length_6: shelf
+type_name: Shelf
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shel
+type_no_space_length_5: shelf
+type_no_space_length_6: shelf
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEL
+type_no_space_upper_length_5: SHELF
+type_no_space_upper_length_6: SHELF
 type_upper: SHELF
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEL
+type_upper_length_5: SHELF
+type_upper_length_6: SHELF
 width: 1470 mm

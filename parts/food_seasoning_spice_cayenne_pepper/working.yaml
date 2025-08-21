@@ -1,24 +1,123 @@
+bip_39_word_dash_12: recipe-snack-reunion-people-decline-cool-baby-movie-question-become-scrap-arrest
+bip_39_word_dash_2: recipe-snack
+bip_39_word_dash_3: recipe-snack-reunion
+bip_39_word_new_br_12: recipe<br>snack<br>reunion<br>people<br>decline<br>cool<br>baby<br>movie<br>question<br>become<br>scrap<br>arrest
+bip_39_word_new_br_2: recipe<br>snack
+bip_39_word_new_br_3: recipe<br>snack<br>reunion
+bip_39_word_new_line_12: 'recipe
+
+  snack
+
+  reunion
+
+  people
+
+  decline
+
+  cool
+
+  baby
+
+  movie
+
+  question
+
+  become
+
+  scrap
+
+  arrest'
+bip_39_word_new_line_2: 'recipe
+
+  snack'
+bip_39_word_new_line_3: 'recipe
+
+  snack
+
+  reunion'
+bip_39_word_no_space_12: recipesnackreunionpeopledeclinecoolbabymoviequestionbecomescraparrest
+bip_39_word_no_space_2: recipesnack
+bip_39_word_no_space_3: recipesnackreunion
+bip_39_word_space_12: recipe snack reunion people decline cool baby movie question
+  become scrap arrest
+bip_39_word_space_2: recipe snack
+bip_39_word_space_3: recipe snack reunion
+bip_39_word_underscore_12: recipe_snack_reunion_people_decline_cool_baby_movie_question_become_scrap_arrest
+bip_39_word_underscore_2: recipe_snack
+bip_39_word_underscore_3: recipe_snack_reunion
 classification: food
 classification_capital: Food
 classification_first_letter: f
 classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
 classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: cayenne pepper
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: cayenne_pepper
 description_main_capital: Cayenne Pepper
 description_main_first_letter: c
 description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: ca
+description_main_length_3: cay
+description_main_length_4: caye
+description_main_length_5: cayen
+description_main_length_6: cayenn
+description_main_name: Cayenne Pepper
+description_main_no_space_length_1: c
+description_main_no_space_length_2: ca
+description_main_no_space_length_3: cay
+description_main_no_space_length_4: caye
+description_main_no_space_length_5: cayen
+description_main_no_space_length_6: cayenn
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CA
+description_main_no_space_upper_length_3: CAY
+description_main_no_space_upper_length_4: CAYE
+description_main_no_space_upper_length_5: CAYEN
+description_main_no_space_upper_length_6: CAYENN
 description_main_upper: CAYENNE_PEPPER
+description_main_upper_length_1: C
+description_main_upper_length_2: CA
+description_main_upper_length_3: CAY
+description_main_upper_length_4: CAYE
+description_main_upper_length_5: CAYEN
+description_main_upper_length_6: CAYENN
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -27,17 +126,28 @@ directory: parts/food_seasoning_spice_cayenne_pepper
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_spice_cayenne_pepper
 id: food_seasoning_spice_cayenne_pepper
 id_no_class: seasoning_spice_cayenne_pepper
+id_no_color: cayennepepper
 id_no_size: cayenne_pepper
 id_no_type: spice_cayenne_pepper
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cayenne_pepper
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cayenne_pepper
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cayenne_pepper
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cayenne_pepper
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207s8uc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207s8uc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207s8uc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207s8uc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cayenne_pepper
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[food_seasoning_spice_cayenne_pepper](none)<br>[](none)<br>[Food Seasoning
@@ -54,10 +164,24 @@ md5_6_alpha_upper: 7S8UC
 md5_6_upper: C782C4
 name: Food Seasoning Spice Cayenne Pepper
 name_no_class: Seasoning Spice Cayenne Pepper
+name_no_color: Cayennepepper
 name_no_size: Cayenne Pepper
 name_no_size_short: Cayenne Pepper
 name_no_type: Spice Cayenne Pepper
 name_short: Cayenne Pepper
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: spice
+oomlout_detail_hierarchy_3_upper: SPICE
+oomlout_detail_hierarchy_3_upper_length_4: SPIC
+oomlout_detail_hierarchy_4: cayenne_pepper
+oomlout_detail_hierarchy_4_upper: CAYENNE_PEPPER
+oomlout_detail_hierarchy_4_upper_length_4: CAYE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_food_seasoning_spice_cayenne_pepper
 oomp_word: honey_pot radio cookie
 oomp_word_emoji: ':honey_pot: :radio: :cookie:'
@@ -73,18 +197,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: spice
 size_capital: Spice
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sp
+size_length_3: spi
+size_length_4: spic
+size_length_5: spice
+size_length_6: spice
+size_name: Spice
+size_no_space_length_1: s
+size_no_space_length_2: sp
+size_no_space_length_3: spi
+size_no_space_length_4: spic
+size_no_space_length_5: spice
+size_no_space_length_6: spice
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SP
+size_no_space_upper_length_3: SPI
+size_no_space_upper_length_4: SPIC
+size_no_space_upper_length_5: SPICE
+size_no_space_upper_length_6: SPICE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SPICE
+size_upper_length_1: S
+size_upper_length_2: SP
+size_upper_length_3: SPI
+size_upper_length_4: SPIC
+size_upper_length_5: SPICE
+size_upper_length_6: SPICE
 type: seasoning
 type_capital: Seasoning
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
 type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON

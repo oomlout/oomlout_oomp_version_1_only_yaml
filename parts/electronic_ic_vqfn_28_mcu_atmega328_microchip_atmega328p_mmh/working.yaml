@@ -1,23 +1,146 @@
+bip_39_word_dash_12: pact-actor-twenty-miracle-sheriff-bless-silent-energy-advice-train-audit-alarm
+bip_39_word_dash_2: pact-actor
+bip_39_word_dash_3: pact-actor-twenty
+bip_39_word_new_br_12: pact<br>actor<br>twenty<br>miracle<br>sheriff<br>bless<br>silent<br>energy<br>advice<br>train<br>audit<br>alarm
+bip_39_word_new_br_2: pact<br>actor
+bip_39_word_new_br_3: pact<br>actor<br>twenty
+bip_39_word_new_line_12: 'pact
+
+  actor
+
+  twenty
+
+  miracle
+
+  sheriff
+
+  bless
+
+  silent
+
+  energy
+
+  advice
+
+  train
+
+  audit
+
+  alarm'
+bip_39_word_new_line_2: 'pact
+
+  actor'
+bip_39_word_new_line_3: 'pact
+
+  actor
+
+  twenty'
+bip_39_word_no_space_12: pactactortwentymiraclesheriffblesssilentenergyadvicetrainauditalarm
+bip_39_word_no_space_2: pactactor
+bip_39_word_no_space_3: pactactortwenty
+bip_39_word_space_12: pact actor twenty miracle sheriff bless silent energy advice
+  train audit alarm
+bip_39_word_space_2: pact actor
+bip_39_word_space_3: pact actor twenty
+bip_39_word_underscore_12: pact_actor_twenty_miracle_sheriff_bless_silent_energy_advice_train_audit_alarm
+bip_39_word_underscore_2: pact_actor
+bip_39_word_underscore_3: pact_actor_twenty
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: mcu
 color_capital: Mcu
 color_first_letter: m
 color_first_letter_upper: M
+color_length_1: m
+color_length_2: mc
+color_length_3: mcu
+color_length_4: mcu
+color_length_5: mcu
+color_length_6: mcu
+color_name: MCU
+color_no_space_length_1: m
+color_no_space_length_2: mc
+color_no_space_length_3: mcu
+color_no_space_length_4: mcu
+color_no_space_length_5: mcu
+color_no_space_length_6: mcu
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: MC
+color_no_space_upper_length_3: MCU
+color_no_space_upper_length_4: MCU
+color_no_space_upper_length_5: MCU
+color_no_space_upper_length_6: MCU
 color_upper: MCU
+color_upper_length_1: M
+color_upper_length_2: MC
+color_upper_length_3: MCU
+color_upper_length_4: MCU
+color_upper_length_5: MCU
+color_upper_length_6: MCU
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: atmega328
 description_main_capital: Atmega328
 description_main_first_letter: a
 description_main_first_letter_upper: A
+description_main_length_1: a
+description_main_length_2: at
+description_main_length_3: atm
+description_main_length_4: atme
+description_main_length_5: atmeg
+description_main_length_6: atmega
+description_main_name: Atmega328
+description_main_no_space_length_1: a
+description_main_no_space_length_2: at
+description_main_no_space_length_3: atm
+description_main_no_space_length_4: atme
+description_main_no_space_length_5: atmeg
+description_main_no_space_length_6: atmega
+description_main_no_space_upper_length_1: A
+description_main_no_space_upper_length_2: AT
+description_main_no_space_upper_length_3: ATM
+description_main_no_space_upper_length_4: ATME
+description_main_no_space_upper_length_5: ATMEG
+description_main_no_space_upper_length_6: ATMEGA
 description_main_upper: ATMEGA328
+description_main_upper_length_1: A
+description_main_upper_length_2: AT
+description_main_upper_length_3: ATM
+description_main_upper_length_4: ATME
+description_main_upper_length_5: ATMEG
+description_main_upper_length_6: ATMEGA
 description_only_numbers: '328'
 description_only_numbers_short: '328'
 description_or_color: M328
@@ -35,18 +158,53 @@ footprint:
   link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
   note: oomp generated footprint
   oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_ivq28mcuat328_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 id_no_class: ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+id_no_color: atmega328_microchip_atmega328p_mmh
 id_no_size: mcu_atmega328_microchip_atmega328p_mmh
 id_no_type: vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203le7t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203le7t
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203le7t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203le7t
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 manufacturer: microchip
 manufacturer_capital: Microchip
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
+manufacturer_length_1: m
+manufacturer_length_2: mi
+manufacturer_length_3: mic
+manufacturer_length_4: micr
+manufacturer_length_5: micro
+manufacturer_length_6: microc
+manufacturer_name: Microchip
+manufacturer_no_space_length_1: m
+manufacturer_no_space_length_2: mi
+manufacturer_no_space_length_3: mic
+manufacturer_no_space_length_4: micr
+manufacturer_no_space_length_5: micro
+manufacturer_no_space_length_6: microc
+manufacturer_no_space_upper_length_1: M
+manufacturer_no_space_upper_length_2: MI
+manufacturer_no_space_upper_length_3: MIC
+manufacturer_no_space_upper_length_4: MICR
+manufacturer_no_space_upper_length_5: MICRO
+manufacturer_no_space_upper_length_6: MICROC
 manufacturer_upper: MICROCHIP
+manufacturer_upper_length_1: M
+manufacturer_upper_length_2: MI
+manufacturer_upper_length_3: MIC
+manufacturer_upper_length_4: MICR
+manufacturer_upper_length_5: MICRO
+manufacturer_upper_length_6: MICROC
 manufacturers: []
 markdown_full: '[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](none)<br>[ivq28mcuat328](none)<br>[Electronic
   Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](none)<br><br>'
@@ -60,11 +218,34 @@ md5_6: 5c1e39
 md5_6_alpha: 3le7t
 md5_6_alpha_upper: 3LE7T
 md5_6_upper: 5C1E39
-name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
-name_no_class: Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
-name_no_size: Mcu Atmega328 Microchip Atmega328P Mmh
+name: Electronic IC Vqfn 28 MCU Atmega328 Microchip Atmega328P mmh
+name_no_class: IC Vqfn 28 MCU Atmega328 Microchip Atmega328P mmh
+name_no_color: Atmega328 Microchip Atmega328P mmh
+name_no_size: MCU Atmega328 Microchip Atmega328P mmh
 name_no_size_short: Mcu Atmega328 Microchip Atmega328P Mmh
-name_no_type: Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
+name_no_type: Vqfn 28 MCU Atmega328 Microchip Atmega328P mmh
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: ic
+oomlout_detail_hierarchy_2_upper: IC
+oomlout_detail_hierarchy_2_upper_length_4: IC
+oomlout_detail_hierarchy_3: vqfn_28
+oomlout_detail_hierarchy_3_upper: VQFN_28
+oomlout_detail_hierarchy_3_upper_length_4: VQFN
+oomlout_detail_hierarchy_4: mcu
+oomlout_detail_hierarchy_4_upper: MCU
+oomlout_detail_hierarchy_4_upper_length_4: MCU
+oomlout_detail_hierarchy_5: atmega328
+oomlout_detail_hierarchy_5_upper: ATMEGA328
+oomlout_detail_hierarchy_5_upper_length_4: ATME
+oomlout_detail_hierarchy_6: microchip
+oomlout_detail_hierarchy_6_upper: MICROCHIP
+oomlout_detail_hierarchy_6_upper_length_4: MICR
+oomlout_detail_hierarchy_7: atmega328p_mmh
+oomlout_detail_hierarchy_7_upper: ATMEGA328P_MMH
+oomlout_detail_hierarchy_7_upper_length_4: ATME
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
 oomp_word: ox angel tiger
 oomp_word_emoji: ':ox: :angel: :tiger:'
@@ -80,7 +261,36 @@ part_number: atmega328p_mmh
 part_number_capital: Atmega328P mmh
 part_number_first_letter: a
 part_number_first_letter_upper: A
+part_number_length_1: a
+part_number_length_2: at
+part_number_length_3: atm
+part_number_length_4: atme
+part_number_length_5: atmeg
+part_number_length_6: atmega
+part_number_name: Atmega328P mmh
+part_number_no_space_length_1: a
+part_number_no_space_length_2: at
+part_number_no_space_length_3: atm
+part_number_no_space_length_4: atme
+part_number_no_space_length_5: atmeg
+part_number_no_space_length_6: atmega
+part_number_no_space_upper_length_1: A
+part_number_no_space_upper_length_2: AT
+part_number_no_space_upper_length_3: ATM
+part_number_no_space_upper_length_4: ATME
+part_number_no_space_upper_length_5: ATMEG
+part_number_no_space_upper_length_6: ATMEGA
 part_number_upper: ATMEGA328P_MMH
+part_number_upper_length_1: A
+part_number_upper_length_2: AT
+part_number_upper_length_3: ATM
+part_number_upper_length_4: ATME
+part_number_upper_length_5: ATMEG
+part_number_upper_length_6: ATMEGA
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ivq28mcuat328
 short_code_upper: IVQ28MCUAT328
 short_name: atmega328 28 pin vqfn
@@ -88,9 +298,34 @@ size: vqfn_28
 size_capital: Vqfn 28
 size_first_letter: v
 size_first_letter_upper: V
+size_length_1: v
+size_length_2: vq
+size_length_3: vqf
+size_length_4: vqfn
+size_length_5: vqfn_
+size_length_6: vqfn_2
+size_name: Vqfn 28
+size_no_space_length_1: v
+size_no_space_length_2: vq
+size_no_space_length_3: vqf
+size_no_space_length_4: vqfn
+size_no_space_length_5: vqfn2
+size_no_space_length_6: vqfn28
+size_no_space_upper_length_1: V
+size_no_space_upper_length_2: VQ
+size_no_space_upper_length_3: VQF
+size_no_space_upper_length_4: VQFN
+size_no_space_upper_length_5: VQFN2
+size_no_space_upper_length_6: VQFN28
 size_only_numbers: '28'
 size_only_numbers_no_zeros: '28'
 size_upper: VQFN_28
+size_upper_length_1: V
+size_upper_length_2: VQ
+size_upper_length_3: VQF
+size_upper_length_4: VQFN
+size_upper_length_5: VQFN_
+size_upper_length_6: VQFN_2
 symbol:
 - directory: oomlout_oomp_symbol_bot/symbols/kicad_mcu_microchip_atmega_atmega328_mm//working/working.kicad_sym
   index: 0
@@ -100,4 +335,29 @@ type: ic
 type_capital: Ic
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: ic
+type_length_3: ic
+type_length_4: ic
+type_length_5: ic
+type_length_6: ic
+type_name: IC
+type_no_space_length_1: i
+type_no_space_length_2: ic
+type_no_space_length_3: ic
+type_no_space_length_4: ic
+type_no_space_length_5: ic
+type_no_space_length_6: ic
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IC
+type_no_space_upper_length_3: IC
+type_no_space_upper_length_4: IC
+type_no_space_upper_length_5: IC
+type_no_space_upper_length_6: IC
 type_upper: IC
+type_upper_length_1: I
+type_upper_length_2: IC
+type_upper_length_3: IC
+type_upper_length_4: IC
+type_upper_length_5: IC
+type_upper_length_6: IC

@@ -1,23 +1,122 @@
+bip_39_word_dash_12: citizen-lobster-clutch-scout-insect-diamond-organ-endorse-put-grant-viable-asthma
+bip_39_word_dash_2: citizen-lobster
+bip_39_word_dash_3: citizen-lobster-clutch
+bip_39_word_new_br_12: citizen<br>lobster<br>clutch<br>scout<br>insect<br>diamond<br>organ<br>endorse<br>put<br>grant<br>viable<br>asthma
+bip_39_word_new_br_2: citizen<br>lobster
+bip_39_word_new_br_3: citizen<br>lobster<br>clutch
+bip_39_word_new_line_12: 'citizen
+
+  lobster
+
+  clutch
+
+  scout
+
+  insect
+
+  diamond
+
+  organ
+
+  endorse
+
+  put
+
+  grant
+
+  viable
+
+  asthma'
+bip_39_word_new_line_2: 'citizen
+
+  lobster'
+bip_39_word_new_line_3: 'citizen
+
+  lobster
+
+  clutch'
+bip_39_word_no_space_12: citizenlobsterclutchscoutinsectdiamondorganendorseputgrantviableasthma
+bip_39_word_no_space_2: citizenlobster
+bip_39_word_no_space_3: citizenlobsterclutch
+bip_39_word_space_12: citizen lobster clutch scout insect diamond organ endorse put
+  grant viable asthma
+bip_39_word_space_2: citizen lobster
+bip_39_word_space_3: citizen lobster clutch
+bip_39_word_underscore_12: citizen_lobster_clutch_scout_insect_diamond_organ_endorse_put_grant_viable_asthma
+bip_39_word_underscore_2: citizen_lobster
+bip_39_word_underscore_3: citizen_lobster_clutch
 classification: vinyl_cutter
 classification_capital: Vinyl Cutter
 classification_first_letter: v
 classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vin
+classification_length_4: viny
+classification_length_5: vinyl
+classification_length_6: vinyl_
+classification_name: Vinyl Cutter
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vin
+classification_no_space_length_4: viny
+classification_no_space_length_5: vinyl
+classification_no_space_length_6: vinylc
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VIN
+classification_no_space_upper_length_4: VINY
+classification_no_space_upper_length_5: VINYL
+classification_no_space_upper_length_6: VINYLC
 classification_upper: VINYL_CUTTER
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VIN
+classification_upper_length_4: VINY
+classification_upper_length_5: VINYL
+classification_upper_length_6: VINYL_
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: expression_2
 description_main_capital: Expression 2
 description_main_first_letter: e
 description_main_first_letter_upper: E
+description_main_length_1: e
+description_main_length_2: ex
+description_main_length_3: exp
+description_main_length_4: expr
+description_main_length_5: expre
+description_main_length_6: expres
+description_main_name: Expression 2
+description_main_no_space_length_1: e
+description_main_no_space_length_2: ex
+description_main_no_space_length_3: exp
+description_main_no_space_length_4: expr
+description_main_no_space_length_5: expre
+description_main_no_space_length_6: expres
+description_main_no_space_upper_length_1: E
+description_main_no_space_upper_length_2: EX
+description_main_no_space_upper_length_3: EXP
+description_main_no_space_upper_length_4: EXPR
+description_main_no_space_upper_length_5: EXPRE
+description_main_no_space_upper_length_6: EXPRES
 description_main_upper: EXPRESSION_2
+description_main_upper_length_1: E
+description_main_upper_length_2: EX
+description_main_upper_length_3: EXP
+description_main_upper_length_4: EXPR
+description_main_upper_length_5: EXPRE
+description_main_upper_length_6: EXPRES
 description_only_numbers: '2'
 description_only_numbers_short: '2'
 description_or_color: '2'
@@ -26,19 +125,54 @@ directory: parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 id: vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 id_no_class: cricut_expression_2_cricut_crex002
+id_no_color: expression2crex002
 id_no_size: expression_2_crex002
 id_no_type: cricut_expression_2_cricut_crex002
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
+link_2_name: link_github
 link_distributor_cricut: ''
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208tbbt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208tbbt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208tbbt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208tbbt
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 manufacturer: cricut
 manufacturer_capital: Cricut
 manufacturer_first_letter: c
 manufacturer_first_letter_upper: C
+manufacturer_length_1: c
+manufacturer_length_2: cr
+manufacturer_length_3: cri
+manufacturer_length_4: cric
+manufacturer_length_5: cricu
+manufacturer_length_6: cricut
+manufacturer_name: Cricut
+manufacturer_no_space_length_1: c
+manufacturer_no_space_length_2: cr
+manufacturer_no_space_length_3: cri
+manufacturer_no_space_length_4: cric
+manufacturer_no_space_length_5: cricu
+manufacturer_no_space_length_6: cricut
+manufacturer_no_space_upper_length_1: C
+manufacturer_no_space_upper_length_2: CR
+manufacturer_no_space_upper_length_3: CRI
+manufacturer_no_space_upper_length_4: CRIC
+manufacturer_no_space_upper_length_5: CRICU
+manufacturer_no_space_upper_length_6: CRICUT
 manufacturer_upper: CRICUT
+manufacturer_upper_length_1: C
+manufacturer_upper_length_2: CR
+manufacturer_upper_length_3: CRI
+manufacturer_upper_length_4: CRIC
+manufacturer_upper_length_5: CRICU
+manufacturer_upper_length_6: CRICUT
 manufacturers: []
 markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002](none)<br>[](none)<br>[Vinyl
   Cutter Vinyl Cutter Cricut Expression 2 Cricut Crex002](none)<br><br>'
@@ -54,9 +188,29 @@ md5_6_alpha_upper: 8TBBT
 md5_6_upper: E1E699
 name: Vinyl Cutter Vinyl Cutter Cricut Expression 2 Cricut Crex002
 name_no_class: Cricut Expression 2 Cricut Crex002
+name_no_color: Expression2Crex002
 name_no_size: Expression 2 Crex002
 name_no_size_short: Expression 2 Crex002
 name_no_type: Cricut Expression 2 Cricut Crex002
+oomlout_detail_hierarchy_1: vinyl_cutter
+oomlout_detail_hierarchy_1_upper: VINYL_CUTTER
+oomlout_detail_hierarchy_1_upper_length_4: VINY
+oomlout_detail_hierarchy_2: vinyl_cutter
+oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
+oomlout_detail_hierarchy_2_upper_length_4: VINY
+oomlout_detail_hierarchy_3: cricut
+oomlout_detail_hierarchy_3_upper: CRICUT
+oomlout_detail_hierarchy_3_upper_length_4: CRIC
+oomlout_detail_hierarchy_4: expression_2
+oomlout_detail_hierarchy_4_upper: EXPRESSION_2
+oomlout_detail_hierarchy_4_upper_length_4: EXPR
+oomlout_detail_hierarchy_5: cricut
+oomlout_detail_hierarchy_5_upper: CRICUT
+oomlout_detail_hierarchy_5_upper_length_4: CRIC
+oomlout_detail_hierarchy_6: crex002
+oomlout_detail_hierarchy_6_upper: CREX002
+oomlout_detail_hierarchy_6_upper_length_4: CREX
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_expression_2_cricut_crex002
 oomp_word: boat airplane bowling
 oomp_word_emoji: ':boat: :airplane: :bowling:'
@@ -73,18 +227,97 @@ part_number_capital: Crex002
 part_number_exact: CREX002
 part_number_first_letter: c
 part_number_first_letter_upper: C
+part_number_length_1: c
+part_number_length_2: cr
+part_number_length_3: cre
+part_number_length_4: crex
+part_number_length_5: crex0
+part_number_length_6: crex00
+part_number_name: Crex002
+part_number_no_space_length_1: c
+part_number_no_space_length_2: cr
+part_number_no_space_length_3: cre
+part_number_no_space_length_4: crex
+part_number_no_space_length_5: crex0
+part_number_no_space_length_6: crex00
+part_number_no_space_upper_length_1: C
+part_number_no_space_upper_length_2: CR
+part_number_no_space_upper_length_3: CRE
+part_number_no_space_upper_length_4: CREX
+part_number_no_space_upper_length_5: CREX0
+part_number_no_space_upper_length_6: CREX00
 part_number_upper: CREX002
+part_number_upper_length_1: C
+part_number_upper_length_2: CR
+part_number_upper_length_3: CRE
+part_number_upper_length_4: CREX
+part_number_upper_length_5: CREX0
+part_number_upper_length_6: CREX00
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: cricut
 size_capital: Cricut
 size_first_letter: c
 size_first_letter_upper: C
+size_length_1: c
+size_length_2: cr
+size_length_3: cri
+size_length_4: cric
+size_length_5: cricu
+size_length_6: cricut
+size_name: Cricut
+size_no_space_length_1: c
+size_no_space_length_2: cr
+size_no_space_length_3: cri
+size_no_space_length_4: cric
+size_no_space_length_5: cricu
+size_no_space_length_6: cricut
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CR
+size_no_space_upper_length_3: CRI
+size_no_space_upper_length_4: CRIC
+size_no_space_upper_length_5: CRICU
+size_no_space_upper_length_6: CRICUT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CRICUT
+size_upper_length_1: C
+size_upper_length_2: CR
+size_upper_length_3: CRI
+size_upper_length_4: CRIC
+size_upper_length_5: CRICU
+size_upper_length_6: CRICUT
 type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vin
+type_length_4: viny
+type_length_5: vinyl
+type_length_6: vinyl_
+type_name: Vinyl Cutter
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vin
+type_no_space_length_4: viny
+type_no_space_length_5: vinyl
+type_no_space_length_6: vinylc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VIN
+type_no_space_upper_length_4: VINY
+type_no_space_upper_length_5: VINYL
+type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VIN
+type_upper_length_4: VINY
+type_upper_length_5: VINYL
+type_upper_length_6: VINYL_

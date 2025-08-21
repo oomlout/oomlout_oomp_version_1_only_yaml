@@ -1,23 +1,146 @@
+bip_39_word_dash_12: inhale-tobacco-spot-cattle-draft-power-search-train-hat-famous-teach-amateur
+bip_39_word_dash_2: inhale-tobacco
+bip_39_word_dash_3: inhale-tobacco-spot
+bip_39_word_new_br_12: inhale<br>tobacco<br>spot<br>cattle<br>draft<br>power<br>search<br>train<br>hat<br>famous<br>teach<br>amateur
+bip_39_word_new_br_2: inhale<br>tobacco
+bip_39_word_new_br_3: inhale<br>tobacco<br>spot
+bip_39_word_new_line_12: 'inhale
+
+  tobacco
+
+  spot
+
+  cattle
+
+  draft
+
+  power
+
+  search
+
+  train
+
+  hat
+
+  famous
+
+  teach
+
+  amateur'
+bip_39_word_new_line_2: 'inhale
+
+  tobacco'
+bip_39_word_new_line_3: 'inhale
+
+  tobacco
+
+  spot'
+bip_39_word_no_space_12: inhaletobaccospotcattledraftpowersearchtrainhatfamousteachamateur
+bip_39_word_no_space_2: inhaletobacco
+bip_39_word_no_space_3: inhaletobaccospot
+bip_39_word_space_12: inhale tobacco spot cattle draft power search train hat famous
+  teach amateur
+bip_39_word_space_2: inhale tobacco
+bip_39_word_space_3: inhale tobacco spot
+bip_39_word_underscore_12: inhale_tobacco_spot_cattle_draft_power_search_train_hat_famous_teach_amateur
+bip_39_word_underscore_2: inhale_tobacco
+bip_39_word_underscore_3: inhale_tobacco_spot
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: green_light_color
 description_extra_capital: Green Light Color
 description_extra_first_letter: g
 description_extra_first_letter_upper: G
+description_extra_length_1: g
+description_extra_length_2: gr
+description_extra_length_3: gre
+description_extra_length_4: gree
+description_extra_length_5: green
+description_extra_length_6: green_
+description_extra_name: Green Light Color
+description_extra_no_space_length_1: g
+description_extra_no_space_length_2: gr
+description_extra_no_space_length_3: gre
+description_extra_no_space_length_4: gree
+description_extra_no_space_length_5: green
+description_extra_no_space_length_6: greenl
+description_extra_no_space_upper_length_1: G
+description_extra_no_space_upper_length_2: GR
+description_extra_no_space_upper_length_3: GRE
+description_extra_no_space_upper_length_4: GREE
+description_extra_no_space_upper_length_5: GREEN
+description_extra_no_space_upper_length_6: GREENL
 description_extra_upper: GREEN_LIGHT_COLOR
+description_extra_upper_length_1: G
+description_extra_upper_length_2: GR
+description_extra_upper_length_3: GRE
+description_extra_upper_length_4: GREE
+description_extra_upper_length_5: GREEN
+description_extra_upper_length_6: GREEN_
 description_main: 100_grams_per_meter_square
 description_main_capital: 100 Grams Per Meter Square
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '100'
+description_main_length_4: '100_'
+description_main_length_5: 100_g
+description_main_length_6: 100_gr
+description_main_name: 100 Grams Per Meter Square
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: '100'
+description_main_no_space_length_4: 100g
+description_main_no_space_length_5: 100gr
+description_main_no_space_length_6: 100gra
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: '100'
+description_main_no_space_upper_length_4: 100G
+description_main_no_space_upper_length_5: 100GR
+description_main_no_space_upper_length_6: 100GRA
 description_main_upper: 100_GRAMS_PER_METER_SQUARE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '100'
+description_main_upper_length_4: '100_'
+description_main_upper_length_5: 100_G
+description_main_upper_length_6: 100_GR
 description_only_numbers: '100'
 description_only_numbers_short: '100'
 description_or_color: '100'
@@ -26,18 +149,29 @@ directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_s
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
 height: 420 mm
 id: paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
 id_no_class: sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
+id_no_color: 100gramspermetersquaregreenlightcolor
 id_no_size: 100_grams_per_meter_square_green_light_color
 id_no_type: a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204tt78
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204tt78
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204tt78
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204tt78
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color](none)<br>[](none)<br>[Paper
@@ -52,14 +186,34 @@ md5_6: 7bbd14
 md5_6_alpha: 4tt78
 md5_6_alpha_upper: 4TT78
 md5_6_upper: 7BBD14
-name: Paper Sheet A3 297 Mm Width 420 Mm Height 100 Grams Per Meter Square Green Light
+name: Paper Sheet A3 297 mm Width 420 mm Height 100 Grams Per Meter Square Green Light
   Color
-name_no_class: Sheet A3 297 Mm Width 420 Mm Height 100 Grams Per Meter Square Green
+name_no_class: Sheet A3 297 mm Width 420 mm Height 100 Grams Per Meter Square Green
   Light Color
+name_no_color: 100Gramspermetersquaregreenlightcolor
 name_no_size: 100 Grams Per Meter Square Green Light Color
 name_no_size_short: 100 Grams Per Meter Square Green Light Color
-name_no_type: A3 297 Mm Width 420 Mm Height 100 Grams Per Meter Square Green Light
+name_no_type: A3 297 mm Width 420 mm Height 100 Grams Per Meter Square Green Light
   Color
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 297_mm_width
+oomlout_detail_hierarchy_3_upper: 297_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 297W
+oomlout_detail_hierarchy_4: 420_mm_height
+oomlout_detail_hierarchy_4_upper: 420_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 420H
+oomlout_detail_hierarchy_5: 100_gram
+oomlout_detail_hierarchy_5_upper: 100_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '100_'
+oomlout_detail_hierarchy_6: green_light_color
+oomlout_detail_hierarchy_6_upper: GREEN_LIGHT_COLOR
+oomlout_detail_hierarchy_6_upper_length_4: GREE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_100_grams_per_meter_square_green_light_color
 oomp_word: computer rice fire
 oomp_word_emoji: ':computer: :rice: :fire:'
@@ -75,19 +229,74 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a3_297_mm_width_420_mm_height
 size_capital: A3.297 mm Width 420 mm Height
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: a3
+size_length_3: a3_
+size_length_4: a3_2
+size_length_5: a3_29
+size_length_6: a3_297
+size_name: A3 297 mm Width 420 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a3
+size_no_space_length_3: a32
+size_no_space_length_4: a329
+size_no_space_length_5: a3297
+size_no_space_length_6: a3297m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A3
+size_no_space_upper_length_3: A32
+size_no_space_upper_length_4: A329
+size_no_space_upper_length_5: A3297
+size_no_space_upper_length_6: A3297M
 size_only_numbers: '3297420'
 size_only_numbers_no_zeros: '329742'
 size_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A3
+size_upper_length_3: A3_
+size_upper_length_4: A3_2
+size_upper_length_5: A3_29
+size_upper_length_6: A3_297
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
 type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
 width: 297 mm

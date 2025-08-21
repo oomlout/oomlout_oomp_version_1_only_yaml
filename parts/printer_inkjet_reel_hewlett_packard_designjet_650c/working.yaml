@@ -1,22 +1,97 @@
+bip_39_word_dash_12: rough-next-raise-title-hen-category-bottom-decade-tiny-increase-tone-animal
+bip_39_word_dash_2: rough-next
+bip_39_word_dash_3: rough-next-raise
+bip_39_word_new_br_12: rough<br>next<br>raise<br>title<br>hen<br>category<br>bottom<br>decade<br>tiny<br>increase<br>tone<br>animal
+bip_39_word_new_br_2: rough<br>next
+bip_39_word_new_br_3: rough<br>next<br>raise
+bip_39_word_new_line_12: 'rough
+
+  next
+
+  raise
+
+  title
+
+  hen
+
+  category
+
+  bottom
+
+  decade
+
+  tiny
+
+  increase
+
+  tone
+
+  animal'
+bip_39_word_new_line_2: 'rough
+
+  next'
+bip_39_word_new_line_3: 'rough
+
+  next
+
+  raise'
+bip_39_word_no_space_12: roughnextraisetitlehencategorybottomdecadetinyincreasetoneanimal
+bip_39_word_no_space_2: roughnext
+bip_39_word_no_space_3: roughnextraise
+bip_39_word_space_12: rough next raise title hen category bottom decade tiny increase
+  tone animal
+bip_39_word_space_2: rough next
+bip_39_word_space_3: rough next raise
+bip_39_word_underscore_12: rough_next_raise_title_hen_category_bottom_decade_tiny_increase_tone_animal
+bip_39_word_underscore_2: rough_next
+bip_39_word_underscore_3: rough_next_raise
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
 classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -24,18 +99,53 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/printer_inkjet_reel_hewlett_packard_designjet_650c
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
 id: printer_inkjet_reel_hewlett_packard_designjet_650c
 id_no_class: inkjet_reel_hewlett_packard_designjet_650c
+id_no_color: hewlettpackarddesignjet650c
 id_no_size: hewlett_packard_designjet_650c
 id_no_type: reel_hewlett_packard_designjet_650c
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205orz0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205orz0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205orz0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205orz0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
 manufacturer: hewlett_packard
 manufacturer_capital: Hewlett Packard
 manufacturer_first_letter: h
 manufacturer_first_letter_upper: H
+manufacturer_length_1: h
+manufacturer_length_2: he
+manufacturer_length_3: hew
+manufacturer_length_4: hewl
+manufacturer_length_5: hewle
+manufacturer_length_6: hewlet
+manufacturer_name: Hewlett Packard
+manufacturer_no_space_length_1: h
+manufacturer_no_space_length_2: he
+manufacturer_no_space_length_3: hew
+manufacturer_no_space_length_4: hewl
+manufacturer_no_space_length_5: hewle
+manufacturer_no_space_length_6: hewlet
+manufacturer_no_space_upper_length_1: H
+manufacturer_no_space_upper_length_2: HE
+manufacturer_no_space_upper_length_3: HEW
+manufacturer_no_space_upper_length_4: HEWL
+manufacturer_no_space_upper_length_5: HEWLE
+manufacturer_no_space_upper_length_6: HEWLET
 manufacturer_upper: HEWLETT_PACKARD
+manufacturer_upper_length_1: H
+manufacturer_upper_length_2: HE
+manufacturer_upper_length_3: HEW
+manufacturer_upper_length_4: HEWL
+manufacturer_upper_length_5: HEWLE
+manufacturer_upper_length_6: HEWLET
 manufacturers: []
 markdown_full: '[printer_inkjet_reel_hewlett_packard_designjet_650c](none)<br>[](none)<br>[Printer
   Inkjet Reel Hewlett Packard Designjet 650C](none)<br><br>'
@@ -51,9 +161,26 @@ md5_6_alpha_upper: 5ORZ0
 md5_6_upper: 91C89C
 name: Printer Inkjet Reel Hewlett Packard Designjet 650C
 name_no_class: Inkjet Reel Hewlett Packard Designjet 650C
+name_no_color: Hewlettpackarddesignjet650C
 name_no_size: Hewlett Packard Designjet 650C
 name_no_size_short: Hewlett Packard Designjet 650C
 name_no_type: Reel Hewlett Packard Designjet 650C
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: inkjet
+oomlout_detail_hierarchy_2_upper: INKJET
+oomlout_detail_hierarchy_2_upper_length_4: INKJ
+oomlout_detail_hierarchy_3: reel
+oomlout_detail_hierarchy_3_upper: REEL
+oomlout_detail_hierarchy_3_upper_length_4: REEL
+oomlout_detail_hierarchy_4: hewlett_packard
+oomlout_detail_hierarchy_4_upper: HEWLETT_PACKARD
+oomlout_detail_hierarchy_4_upper_length_4: HEWL
+oomlout_detail_hierarchy_5: designjet_650c
+oomlout_detail_hierarchy_5_upper: DESIGNJET_650C
+oomlout_detail_hierarchy_5_upper_length_4: DESI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_inkjet_reel_hewlett_packard_designjet_650c
 oomp_word: pushpin apple spades
 oomp_word_emoji: ':pushpin: :apple: :spades:'
@@ -70,7 +197,36 @@ part_number_capital: Designjet 650C
 part_number_exact: Designjet 650C
 part_number_first_letter: d
 part_number_first_letter_upper: D
+part_number_length_1: d
+part_number_length_2: de
+part_number_length_3: des
+part_number_length_4: desi
+part_number_length_5: desig
+part_number_length_6: design
+part_number_name: Designjet 650C
+part_number_no_space_length_1: d
+part_number_no_space_length_2: de
+part_number_no_space_length_3: des
+part_number_no_space_length_4: desi
+part_number_no_space_length_5: desig
+part_number_no_space_length_6: design
+part_number_no_space_upper_length_1: D
+part_number_no_space_upper_length_2: DE
+part_number_no_space_upper_length_3: DES
+part_number_no_space_upper_length_4: DESI
+part_number_no_space_upper_length_5: DESIG
+part_number_no_space_upper_length_6: DESIGN
 part_number_upper: DESIGNJET_650C
+part_number_upper_length_1: D
+part_number_upper_length_2: DE
+part_number_upper_length_3: DES
+part_number_upper_length_4: DESI
+part_number_upper_length_5: DESIG
+part_number_upper_length_6: DESIGN
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Hewlett Packard Designjet 650C
@@ -78,11 +234,61 @@ size: reel
 size_capital: Reel
 size_first_letter: r
 size_first_letter_upper: R
+size_length_1: r
+size_length_2: re
+size_length_3: ree
+size_length_4: reel
+size_length_5: reel
+size_length_6: reel
+size_name: Reel
+size_no_space_length_1: r
+size_no_space_length_2: re
+size_no_space_length_3: ree
+size_no_space_length_4: reel
+size_no_space_length_5: reel
+size_no_space_length_6: reel
+size_no_space_upper_length_1: R
+size_no_space_upper_length_2: RE
+size_no_space_upper_length_3: REE
+size_no_space_upper_length_4: REEL
+size_no_space_upper_length_5: REEL
+size_no_space_upper_length_6: REEL
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: REEL
+size_upper_length_1: R
+size_upper_length_2: RE
+size_upper_length_3: REE
+size_upper_length_4: REEL
+size_upper_length_5: REEL
+size_upper_length_6: REEL
 type: inkjet
 type_capital: Inkjet
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: inkj
+type_length_5: inkje
+type_length_6: inkjet
+type_name: Inkjet
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: inkj
+type_no_space_length_5: inkje
+type_no_space_length_6: inkjet
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INKJ
+type_no_space_upper_length_5: INKJE
+type_no_space_upper_length_6: INKJET
 type_upper: INKJET
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INKJ
+type_upper_length_5: INKJE
+type_upper_length_6: INKJET

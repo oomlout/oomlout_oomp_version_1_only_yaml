@@ -1,23 +1,146 @@
+bip_39_word_dash_12: afford-nerve-book-fatal-receive-panther-drill-spell-arrange-solution-slim-agree
+bip_39_word_dash_2: afford-nerve
+bip_39_word_dash_3: afford-nerve-book
+bip_39_word_new_br_12: afford<br>nerve<br>book<br>fatal<br>receive<br>panther<br>drill<br>spell<br>arrange<br>solution<br>slim<br>agree
+bip_39_word_new_br_2: afford<br>nerve
+bip_39_word_new_br_3: afford<br>nerve<br>book
+bip_39_word_new_line_12: 'afford
+
+  nerve
+
+  book
+
+  fatal
+
+  receive
+
+  panther
+
+  drill
+
+  spell
+
+  arrange
+
+  solution
+
+  slim
+
+  agree'
+bip_39_word_new_line_2: 'afford
+
+  nerve'
+bip_39_word_new_line_3: 'afford
+
+  nerve
+
+  book'
+bip_39_word_no_space_12: affordnervebookfatalreceivepantherdrillspellarrangesolutionslimagree
+bip_39_word_no_space_2: affordnerve
+bip_39_word_no_space_3: affordnervebook
+bip_39_word_space_12: afford nerve book fatal receive panther drill spell arrange
+  solution slim agree
+bip_39_word_space_2: afford nerve
+bip_39_word_space_3: afford nerve book
+bip_39_word_underscore_12: afford_nerve_book_fatal_receive_panther_drill_spell_arrange_solution_slim_agree
+bip_39_word_underscore_2: afford_nerve
+bip_39_word_underscore_3: afford_nerve_book
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: glossy_style_inkjet_printer_plastic_material
 description_extra_capital: Glossy Style Inkjet Printer Plastic Material
 description_extra_first_letter: g
 description_extra_first_letter_upper: G
+description_extra_length_1: g
+description_extra_length_2: gl
+description_extra_length_3: glo
+description_extra_length_4: glos
+description_extra_length_5: gloss
+description_extra_length_6: glossy
+description_extra_name: Glossy Style Inkjet Printer Plastic Material
+description_extra_no_space_length_1: g
+description_extra_no_space_length_2: gl
+description_extra_no_space_length_3: glo
+description_extra_no_space_length_4: glos
+description_extra_no_space_length_5: gloss
+description_extra_no_space_length_6: glossy
+description_extra_no_space_upper_length_1: G
+description_extra_no_space_upper_length_2: GL
+description_extra_no_space_upper_length_3: GLO
+description_extra_no_space_upper_length_4: GLOS
+description_extra_no_space_upper_length_5: GLOSS
+description_extra_no_space_upper_length_6: GLOSSY
 description_extra_upper: GLOSSY_STYLE_INKJET_PRINTER_PLASTIC_MATERIAL
+description_extra_upper_length_1: G
+description_extra_upper_length_2: GL
+description_extra_upper_length_3: GLO
+description_extra_upper_length_4: GLOS
+description_extra_upper_length_5: GLOSS
+description_extra_upper_length_6: GLOSSY
 description_main: sticker_sheet
 description_main_capital: Sticker Sheet
 description_main_first_letter: s
 description_main_first_letter_upper: S
+description_main_length_1: s
+description_main_length_2: st
+description_main_length_3: sti
+description_main_length_4: stic
+description_main_length_5: stick
+description_main_length_6: sticke
+description_main_name: Sticker Sheet
+description_main_no_space_length_1: s
+description_main_no_space_length_2: st
+description_main_no_space_length_3: sti
+description_main_no_space_length_4: stic
+description_main_no_space_length_5: stick
+description_main_no_space_length_6: sticke
+description_main_no_space_upper_length_1: S
+description_main_no_space_upper_length_2: ST
+description_main_no_space_upper_length_3: STI
+description_main_no_space_upper_length_4: STIC
+description_main_no_space_upper_length_5: STICK
+description_main_no_space_upper_length_6: STICKE
 description_main_upper: STICKER_SHEET
+description_main_upper_length_1: S
+description_main_upper_length_2: ST
+description_main_upper_length_3: STI
+description_main_upper_length_4: STIC
+description_main_upper_length_5: STICK
+description_main_upper_length_6: STICKE
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -27,20 +150,59 @@ distributor_amazon: B0BMLTJDQK
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
 id_no_class: sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
+id_no_color: stickerglossystyleinkjetprinterplasticmaterialgmcraft
 id_no_size: sticker_glossy_style_inkjet_printer_plastic_material_gmcraft
 id_no_type: a4_210_mm_width_297_mm_height_sticker_glossy_style_inkjet_printer_plastic_material_gmcraft
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B0BMLTJDQK
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B0BMLTJDQK
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B0BMLTJDQK
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2036lyr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2036lyr
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2036lyr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2036lyr
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
 manufacturer: gmcraft
 manufacturer_capital: Gmcraft
 manufacturer_first_letter: g
 manufacturer_first_letter_upper: G
+manufacturer_length_1: g
+manufacturer_length_2: gm
+manufacturer_length_3: gmc
+manufacturer_length_4: gmcr
+manufacturer_length_5: gmcra
+manufacturer_length_6: gmcraf
+manufacturer_name: Gmcraft
+manufacturer_no_space_length_1: g
+manufacturer_no_space_length_2: gm
+manufacturer_no_space_length_3: gmc
+manufacturer_no_space_length_4: gmcr
+manufacturer_no_space_length_5: gmcra
+manufacturer_no_space_length_6: gmcraf
+manufacturer_no_space_upper_length_1: G
+manufacturer_no_space_upper_length_2: GM
+manufacturer_no_space_upper_length_3: GMC
+manufacturer_no_space_upper_length_4: GMCR
+manufacturer_no_space_upper_length_5: GMCRA
+manufacturer_no_space_upper_length_6: GMCRAF
 manufacturer_upper: GMCRAFT
+manufacturer_upper_length_1: G
+manufacturer_upper_length_2: GM
+manufacturer_upper_length_3: GMC
+manufacturer_upper_length_4: GMCR
+manufacturer_upper_length_5: GMCRA
+manufacturer_upper_length_6: GMCRAF
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft](none)<br>[](none)<br>[Paper
   Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Glossy Style Inkjet Printer Plastic
@@ -55,14 +217,40 @@ md5_6: 5197b3
 md5_6_alpha: 36lyr
 md5_6_alpha_upper: 36LYR
 md5_6_upper: 5197B3
-name: Paper Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Glossy Style Inkjet
+name: Paper Sheet A4 210 mm Width 297 mm Height Sticker Sheet Glossy Style Inkjet
   Printer Plastic Material Gmcraft
-name_no_class: Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Glossy Style Inkjet
+name_no_class: Sheet A4 210 mm Width 297 mm Height Sticker Sheet Glossy Style Inkjet
   Printer Plastic Material Gmcraft
+name_no_color: Stickerglossystyleinkjetprinterplasticmaterialgmcraft
 name_no_size: Sticker Glossy Style Inkjet Printer Plastic Material Gmcraft
 name_no_size_short: Sticker Glossy Style Inkjet Printer Plastic Material Gmcraft
-name_no_type: A4 210 Mm Width 297 Mm Height Sticker Glossy Style Inkjet Printer Plastic
+name_no_type: A4 210 mm Width 297 mm Height Sticker Glossy Style Inkjet Printer Plastic
   Material Gmcraft
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_detail_hierarchy_5: sticker_sheet
+oomlout_detail_hierarchy_5_upper: STICKER_SHEET
+oomlout_detail_hierarchy_5_upper_length_4: STIC
+oomlout_detail_hierarchy_6: glossy_style_inkjet_printer
+oomlout_detail_hierarchy_6_upper: GLOSSY_STYLE_INKJET_PRINTER
+oomlout_detail_hierarchy_6_upper_length_4: GLOS
+oomlout_detail_hierarchy_7: plastic_material
+oomlout_detail_hierarchy_7_upper: PLASTIC_MATERIAL
+oomlout_detail_hierarchy_7_upper_length_4: PLAS
+oomlout_detail_hierarchy_8: gmcraft
+oomlout_detail_hierarchy_8_upper: GMCRAFT
+oomlout_detail_hierarchy_8_upper_length_4: GMCR
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_glossy_style_inkjet_printer_plastic_material_gmcraft
 oomp_word: snail baseball eyeglasses
 oomp_word_emoji: ':snail: :baseball: :eyeglasses:'
@@ -78,21 +266,77 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
 price_1: 0.725
+price_1_distributor_3: 0.725
 price_1_distributor_amazon: 0.725
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: a4
+size_length_3: a4_
+size_length_4: a4_2
+size_length_5: a4_21
+size_length_6: a4_210
+size_name: A4 210 mm Width 297 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a4
+size_no_space_length_3: a42
+size_no_space_length_4: a421
+size_no_space_length_5: a4210
+size_no_space_length_6: a4210m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A4
+size_no_space_upper_length_3: A42
+size_no_space_upper_length_4: A421
+size_no_space_upper_length_5: A4210
+size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A4
+size_upper_length_3: A4_
+size_upper_length_4: A4_2
+size_upper_length_5: A4_21
+size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
 type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
 width: 210 mm

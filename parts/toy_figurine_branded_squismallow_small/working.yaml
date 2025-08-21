@@ -1,40 +1,174 @@
+bip_39_word_dash_12: shed-hurdle-paper-chicken-fiber-rescue-decline-latin-lottery-sell-interest-addict
+bip_39_word_dash_2: shed-hurdle
+bip_39_word_dash_3: shed-hurdle-paper
+bip_39_word_new_br_12: shed<br>hurdle<br>paper<br>chicken<br>fiber<br>rescue<br>decline<br>latin<br>lottery<br>sell<br>interest<br>addict
+bip_39_word_new_br_2: shed<br>hurdle
+bip_39_word_new_br_3: shed<br>hurdle<br>paper
+bip_39_word_new_line_12: 'shed
+
+  hurdle
+
+  paper
+
+  chicken
+
+  fiber
+
+  rescue
+
+  decline
+
+  latin
+
+  lottery
+
+  sell
+
+  interest
+
+  addict'
+bip_39_word_new_line_2: 'shed
+
+  hurdle'
+bip_39_word_new_line_3: 'shed
+
+  hurdle
+
+  paper'
+bip_39_word_no_space_12: shedhurdlepaperchickenfiberrescuedeclinelatinlotterysellinterestaddict
+bip_39_word_no_space_2: shedhurdle
+bip_39_word_no_space_3: shedhurdlepaper
+bip_39_word_space_12: shed hurdle paper chicken fiber rescue decline latin lottery
+  sell interest addict
+bip_39_word_space_2: shed hurdle
+bip_39_word_space_3: shed hurdle paper
+bip_39_word_underscore_12: shed_hurdle_paper_chicken_fiber_rescue_decline_latin_lottery_sell_interest_addict
+bip_39_word_underscore_2: shed_hurdle
+bip_39_word_underscore_3: shed_hurdle_paper
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
 classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
 color: squismallow
 color_capital: Squismallow
 color_first_letter: s
 color_first_letter_upper: S
+color_length_1: s
+color_length_2: sq
+color_length_3: squ
+color_length_4: squi
+color_length_5: squis
+color_length_6: squism
+color_name: Squismallow
+color_no_space_length_1: s
+color_no_space_length_2: sq
+color_no_space_length_3: squ
+color_no_space_length_4: squi
+color_no_space_length_5: squis
+color_no_space_length_6: squism
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SQ
+color_no_space_upper_length_3: SQU
+color_no_space_upper_length_4: SQUI
+color_no_space_upper_length_5: SQUIS
+color_no_space_upper_length_6: SQUISM
 color_upper: SQUISMALLOW
+color_upper_length_1: S
+color_upper_length_2: SQ
+color_upper_length_3: SQU
+color_upper_length_4: SQUI
+color_upper_length_5: SQUIS
+color_upper_length_6: SQUISM
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: small
 description_main_capital: Small
 description_main_first_letter: s
 description_main_first_letter_upper: S
+description_main_length_1: s
+description_main_length_2: sm
+description_main_length_3: sma
+description_main_length_4: smal
+description_main_length_5: small
+description_main_length_6: small
+description_main_name: Small
+description_main_no_space_length_1: s
+description_main_no_space_length_2: sm
+description_main_no_space_length_3: sma
+description_main_no_space_length_4: smal
+description_main_no_space_length_5: small
+description_main_no_space_length_6: small
+description_main_no_space_upper_length_1: S
+description_main_no_space_upper_length_2: SM
+description_main_no_space_upper_length_3: SMA
+description_main_no_space_upper_length_4: SMAL
+description_main_no_space_upper_length_5: SMALL
+description_main_no_space_upper_length_6: SMALL
 description_main_upper: SMALL
+description_main_upper_length_1: S
+description_main_upper_length_2: SM
+description_main_upper_length_3: SMA
+description_main_upper_length_4: SMAL
+description_main_upper_length_5: SMALL
+description_main_upper_length_6: SMALL
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'S '
 description_or_color_upper: 'S '
 directory: parts/toy_figurine_branded_squismallow_small
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_figurine_branded_squismallow_small
 id: toy_figurine_branded_squismallow_small
 id_no_class: figurine_branded_squismallow_small
+id_no_color: small
 id_no_size: squismallow_small
 id_no_type: branded_squismallow_small
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2022c1c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2022c1c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2022c1c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2022c1c
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[toy_figurine_branded_squismallow_small](none)<br>[](none)<br>[Toy
@@ -51,9 +185,26 @@ md5_6_alpha_upper: 22C1C
 md5_6_upper: 34EB70
 name: Toy Figurine Branded Squismallow Small
 name_no_class: Figurine Branded Squismallow Small
+name_no_color: Small
 name_no_size: Squismallow Small
 name_no_size_short: Squismallow Small
 name_no_type: Branded Squismallow Small
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: figurine
+oomlout_detail_hierarchy_2_upper: FIGURINE
+oomlout_detail_hierarchy_2_upper_length_4: FIGU
+oomlout_detail_hierarchy_3: branded
+oomlout_detail_hierarchy_3_upper: BRANDED
+oomlout_detail_hierarchy_3_upper_length_4: BRAN
+oomlout_detail_hierarchy_4: squismallow
+oomlout_detail_hierarchy_4_upper: SQUISMALLOW
+oomlout_detail_hierarchy_4_upper_length_4: SQUI
+oomlout_detail_hierarchy_5: small
+oomlout_detail_hierarchy_5_upper: SMALL
+oomlout_detail_hierarchy_5_upper_length_4: SMAL
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_figurine_branded_squismallow_small
 oomp_word: mouse car squirrel
 oomp_word_emoji: ':mouse: :car: :squirrel:'
@@ -69,7 +220,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -77,11 +233,61 @@ size: branded
 size_capital: Branded
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: br
+size_length_3: bra
+size_length_4: bran
+size_length_5: brand
+size_length_6: brande
+size_name: Branded
+size_no_space_length_1: b
+size_no_space_length_2: br
+size_no_space_length_3: bra
+size_no_space_length_4: bran
+size_no_space_length_5: brand
+size_no_space_length_6: brande
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BR
+size_no_space_upper_length_3: BRA
+size_no_space_upper_length_4: BRAN
+size_no_space_upper_length_5: BRAND
+size_no_space_upper_length_6: BRANDE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BRANDED
+size_upper_length_1: B
+size_upper_length_2: BR
+size_upper_length_3: BRA
+size_upper_length_4: BRAN
+size_upper_length_5: BRAND
+size_upper_length_6: BRANDE
 type: figurine
 type_capital: Figurine
 type_first_letter: f
 type_first_letter_upper: F
+type_length_1: f
+type_length_2: fi
+type_length_3: fig
+type_length_4: figu
+type_length_5: figur
+type_length_6: figuri
+type_name: Figurine
+type_no_space_length_1: f
+type_no_space_length_2: fi
+type_no_space_length_3: fig
+type_no_space_length_4: figu
+type_no_space_length_5: figur
+type_no_space_length_6: figuri
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FI
+type_no_space_upper_length_3: FIG
+type_no_space_upper_length_4: FIGU
+type_no_space_upper_length_5: FIGUR
+type_no_space_upper_length_6: FIGURI
 type_upper: FIGURINE
+type_upper_length_1: F
+type_upper_length_2: FI
+type_upper_length_3: FIG
+type_upper_length_4: FIGU
+type_upper_length_5: FIGUR
+type_upper_length_6: FIGURI

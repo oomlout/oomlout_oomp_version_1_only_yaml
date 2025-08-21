@@ -1,22 +1,97 @@
+bip_39_word_dash_12: abuse-honey-grain-snap-melt-dragon-today-elbow-rather-country-scare-again
+bip_39_word_dash_2: abuse-honey
+bip_39_word_dash_3: abuse-honey-grain
+bip_39_word_new_br_12: abuse<br>honey<br>grain<br>snap<br>melt<br>dragon<br>today<br>elbow<br>rather<br>country<br>scare<br>again
+bip_39_word_new_br_2: abuse<br>honey
+bip_39_word_new_br_3: abuse<br>honey<br>grain
+bip_39_word_new_line_12: 'abuse
+
+  honey
+
+  grain
+
+  snap
+
+  melt
+
+  dragon
+
+  today
+
+  elbow
+
+  rather
+
+  country
+
+  scare
+
+  again'
+bip_39_word_new_line_2: 'abuse
+
+  honey'
+bip_39_word_new_line_3: 'abuse
+
+  honey
+
+  grain'
+bip_39_word_no_space_12: abusehoneygrainsnapmeltdragontodayelbowrathercountryscareagain
+bip_39_word_no_space_2: abusehoney
+bip_39_word_no_space_3: abusehoneygrain
+bip_39_word_space_12: abuse honey grain snap melt dragon today elbow rather country
+  scare again
+bip_39_word_space_2: abuse honey
+bip_39_word_space_3: abuse honey grain
+bip_39_word_underscore_12: abuse_honey_grain_snap_melt_dragon_today_elbow_rather_country_scare_again
+bip_39_word_underscore_2: abuse_honey
+bip_39_word_underscore_3: abuse_honey_grain
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
 classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -24,18 +99,53 @@ description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 id: printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 id_no_class: inkjet_a4_hewlett_packard_officejet_1000_mobile
+id_no_color: hewlettpackardofficejet1000mobile
 id_no_size: hewlett_packard_officejet_1000_mobile
 id_no_type: a4_hewlett_packard_officejet_1000_mobile
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202y1zg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202y1zg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202y1zg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202y1zg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 manufacturer: hewlett_packard
 manufacturer_capital: Hewlett Packard
 manufacturer_first_letter: h
 manufacturer_first_letter_upper: H
+manufacturer_length_1: h
+manufacturer_length_2: he
+manufacturer_length_3: hew
+manufacturer_length_4: hewl
+manufacturer_length_5: hewle
+manufacturer_length_6: hewlet
+manufacturer_name: Hewlett Packard
+manufacturer_no_space_length_1: h
+manufacturer_no_space_length_2: he
+manufacturer_no_space_length_3: hew
+manufacturer_no_space_length_4: hewl
+manufacturer_no_space_length_5: hewle
+manufacturer_no_space_length_6: hewlet
+manufacturer_no_space_upper_length_1: H
+manufacturer_no_space_upper_length_2: HE
+manufacturer_no_space_upper_length_3: HEW
+manufacturer_no_space_upper_length_4: HEWL
+manufacturer_no_space_upper_length_5: HEWLE
+manufacturer_no_space_upper_length_6: HEWLET
 manufacturer_upper: HEWLETT_PACKARD
+manufacturer_upper_length_1: H
+manufacturer_upper_length_2: HE
+manufacturer_upper_length_3: HEW
+manufacturer_upper_length_4: HEWL
+manufacturer_upper_length_5: HEWLE
+manufacturer_upper_length_6: HEWLET
 manufacturers: []
 markdown_full: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br>[](none)<br>[Printer
   Inkjet A4 Hewlett Packard Officejet 1000 Mobile](none)<br><br>'
@@ -51,9 +161,26 @@ md5_6_alpha_upper: 2Y1ZG
 md5_6_upper: 4B808C
 name: Printer Inkjet A4 Hewlett Packard Officejet 1000 Mobile
 name_no_class: Inkjet A4 Hewlett Packard Officejet 1000 Mobile
+name_no_color: Hewlettpackardofficejet1000Mobile
 name_no_size: Hewlett Packard Officejet 1000 Mobile
 name_no_size_short: Hewlett Packard Officejet 1000 Mobile
 name_no_type: A4 Hewlett Packard Officejet 1000 Mobile
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: inkjet
+oomlout_detail_hierarchy_2_upper: INKJET
+oomlout_detail_hierarchy_2_upper_length_4: INKJ
+oomlout_detail_hierarchy_3: a4
+oomlout_detail_hierarchy_3_upper: A4
+oomlout_detail_hierarchy_3_upper_length_4: A4
+oomlout_detail_hierarchy_4: hewlett_packard
+oomlout_detail_hierarchy_4_upper: HEWLETT_PACKARD
+oomlout_detail_hierarchy_4_upper_length_4: HEWL
+oomlout_detail_hierarchy_5: officejet_1000_mobile
+oomlout_detail_hierarchy_5_upper: OFFICEJET_1000_MOBILE
+oomlout_detail_hierarchy_5_upper_length_4: OFFI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
 oomp_word: penguin hourglass pill
 oomp_word_emoji: ':penguin: :hourglass: :pill:'
@@ -69,7 +196,36 @@ part_number: officejet_1000_mobile
 part_number_capital: Officejet 1000 Mobile
 part_number_first_letter: o
 part_number_first_letter_upper: O
+part_number_length_1: o
+part_number_length_2: of
+part_number_length_3: 'off'
+part_number_length_4: offi
+part_number_length_5: offic
+part_number_length_6: office
+part_number_name: Officejet 1000 Mobile
+part_number_no_space_length_1: o
+part_number_no_space_length_2: of
+part_number_no_space_length_3: 'off'
+part_number_no_space_length_4: offi
+part_number_no_space_length_5: offic
+part_number_no_space_length_6: office
+part_number_no_space_upper_length_1: O
+part_number_no_space_upper_length_2: OF
+part_number_no_space_upper_length_3: 'OFF'
+part_number_no_space_upper_length_4: OFFI
+part_number_no_space_upper_length_5: OFFIC
+part_number_no_space_upper_length_6: OFFICE
 part_number_upper: OFFICEJET_1000_MOBILE
+part_number_upper_length_1: O
+part_number_upper_length_2: OF
+part_number_upper_length_3: 'OFF'
+part_number_upper_length_4: OFFI
+part_number_upper_length_5: OFFIC
+part_number_upper_length_6: OFFICE
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Printer HP Officejet 1000 Mobile
@@ -77,11 +233,61 @@ size: a4
 size_capital: A4
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: a4
+size_length_3: a4
+size_length_4: a4
+size_length_5: a4
+size_length_6: a4
+size_name: A4
+size_no_space_length_1: a
+size_no_space_length_2: a4
+size_no_space_length_3: a4
+size_no_space_length_4: a4
+size_no_space_length_5: a4
+size_no_space_length_6: a4
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A4
+size_no_space_upper_length_3: A4
+size_no_space_upper_length_4: A4
+size_no_space_upper_length_5: A4
+size_no_space_upper_length_6: A4
 size_only_numbers: '4'
 size_only_numbers_no_zeros: '4'
 size_upper: A4
+size_upper_length_1: A
+size_upper_length_2: A4
+size_upper_length_3: A4
+size_upper_length_4: A4
+size_upper_length_5: A4
+size_upper_length_6: A4
 type: inkjet
 type_capital: Inkjet
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: inkj
+type_length_5: inkje
+type_length_6: inkjet
+type_name: Inkjet
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: inkj
+type_no_space_length_5: inkje
+type_no_space_length_6: inkjet
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INKJ
+type_no_space_upper_length_5: INKJE
+type_no_space_upper_length_6: INKJET
 type_upper: INKJET
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INKJ
+type_upper_length_5: INKJE
+type_upper_length_6: INKJET

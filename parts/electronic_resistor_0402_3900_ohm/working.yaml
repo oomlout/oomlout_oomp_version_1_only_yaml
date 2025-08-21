@@ -1,23 +1,122 @@
+bip_39_word_dash_12: tumble-ethics-jeans-warfare-injury-wolf-hurry-aim-figure-monitor-solution-any
+bip_39_word_dash_2: tumble-ethics
+bip_39_word_dash_3: tumble-ethics-jeans
+bip_39_word_new_br_12: tumble<br>ethics<br>jeans<br>warfare<br>injury<br>wolf<br>hurry<br>aim<br>figure<br>monitor<br>solution<br>any
+bip_39_word_new_br_2: tumble<br>ethics
+bip_39_word_new_br_3: tumble<br>ethics<br>jeans
+bip_39_word_new_line_12: 'tumble
+
+  ethics
+
+  jeans
+
+  warfare
+
+  injury
+
+  wolf
+
+  hurry
+
+  aim
+
+  figure
+
+  monitor
+
+  solution
+
+  any'
+bip_39_word_new_line_2: 'tumble
+
+  ethics'
+bip_39_word_new_line_3: 'tumble
+
+  ethics
+
+  jeans'
+bip_39_word_no_space_12: tumbleethicsjeanswarfareinjurywolfhurryaimfiguremonitorsolutionany
+bip_39_word_no_space_2: tumbleethics
+bip_39_word_no_space_3: tumbleethicsjeans
+bip_39_word_space_12: tumble ethics jeans warfare injury wolf hurry aim figure monitor
+  solution any
+bip_39_word_space_2: tumble ethics
+bip_39_word_space_3: tumble ethics jeans
+bip_39_word_underscore_12: tumble_ethics_jeans_warfare_injury_wolf_hurry_aim_figure_monitor_solution_any
+bip_39_word_underscore_2: tumble_ethics
+bip_39_word_underscore_3: tumble_ethics_jeans
 classification: electronic
 classification_capital: Electronic
 classification_first_letter: e
 classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
 classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 3900_ohm
 description_main_capital: 3900 Ohm
 description_main_first_letter: '3'
 description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '39'
+description_main_length_3: '390'
+description_main_length_4: '3900'
+description_main_length_5: '3900_'
+description_main_length_6: 3900_o
+description_main_name: 3900 Ohm
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: '39'
+description_main_no_space_length_3: '390'
+description_main_no_space_length_4: '3900'
+description_main_no_space_length_5: 3900o
+description_main_no_space_length_6: 3900oh
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: '39'
+description_main_no_space_upper_length_3: '390'
+description_main_no_space_upper_length_4: '3900'
+description_main_no_space_upper_length_5: 3900O
+description_main_no_space_upper_length_6: 3900OH
 description_main_upper: 3900_OHM
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '39'
+description_main_upper_length_3: '390'
+description_main_upper_length_4: '3900'
+description_main_upper_length_5: '3900_'
+description_main_upper_length_6: 3900_O
 description_only_numbers: '3900'
 description_only_numbers_short: 3k9
 description_or_color: 3k9
@@ -26,18 +125,29 @@ directory: parts/electronic_resistor_0402_3900_ohm
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_resistor_0402_3900_ohm
 id: electronic_resistor_0402_3900_ohm
 id_no_class: resistor_0402_3900_ohm
+id_no_color: 3900ohm
 id_no_size: 3900_ohm
 id_no_type: 0402_3900_ohm
 kicad_reference: R
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_3900_ohm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_3900_ohm
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_3900_ohm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_3900_ohm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206dtpf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206dtpf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206dtpf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206dtpf
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_0402_3900_ohm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers:
 - id: manufacturer_uniroyal
@@ -82,9 +192,23 @@ md5_6_alpha_upper: 6DTPF
 md5_6_upper: A39DA3
 name: Electronic Resistor 0402 3900 Ohm
 name_no_class: Resistor 0402 3900 Ohm
+name_no_color: 3900Ohm
 name_no_size: 3900 Ohm
 name_no_size_short: 3k9 Ohm
 name_no_type: 0402 3900 Ohm
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: resistor
+oomlout_detail_hierarchy_2_upper: RESISTOR
+oomlout_detail_hierarchy_2_upper_length_4: RESI
+oomlout_detail_hierarchy_3: '0402'
+oomlout_detail_hierarchy_3_upper: '0402'
+oomlout_detail_hierarchy_3_upper_length_4: '0402'
+oomlout_detail_hierarchy_4: 3900_ohm
+oomlout_detail_hierarchy_4_upper: 3900_OHM
+oomlout_detail_hierarchy_4_upper_length_4: '3900'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_electronic_resistor_0402_3900_ohm
 oomp_word: pencil hearts pencil
 oomp_word_emoji: ':pencil: :hearts: :pencil:'
@@ -101,16 +225,46 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: r4o392
 short_code_upper: R4O392
 size: '0402'
 size_capital: '0402'
 size_first_letter: '0'
 size_first_letter_upper: '0'
+size_length_1: '0'
+size_length_2: '04'
+size_length_3: '040'
+size_length_4: '0402'
+size_length_5: '0402'
+size_length_6: '0402'
+size_name: '0402'
+size_no_space_length_1: '0'
+size_no_space_length_2: '04'
+size_no_space_length_3: '040'
+size_no_space_length_4: '0402'
+size_no_space_length_5: '0402'
+size_no_space_length_6: '0402'
+size_no_space_upper_length_1: '0'
+size_no_space_upper_length_2: '04'
+size_no_space_upper_length_3: '040'
+size_no_space_upper_length_4: '0402'
+size_no_space_upper_length_5: '0402'
+size_no_space_upper_length_6: '0402'
 size_only_numbers: '0402'
 size_only_numbers_no_zeros: '42'
 size_upper: '0402'
+size_upper_length_1: '0'
+size_upper_length_2: '04'
+size_upper_length_3: '040'
+size_upper_length_4: '0402'
+size_upper_length_5: '0402'
+size_upper_length_6: '0402'
 smd_tape_depth: 1_5_mm
 smd_tape_pitch: 2_mm
 smd_tape_width: 8_mm
@@ -123,4 +277,29 @@ type: resistor
 type_capital: Resistor
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: res
+type_length_4: resi
+type_length_5: resis
+type_length_6: resist
+type_name: Resistor
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: res
+type_no_space_length_4: resi
+type_no_space_length_5: resis
+type_no_space_length_6: resist
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: RES
+type_no_space_upper_length_4: RESI
+type_no_space_upper_length_5: RESIS
+type_no_space_upper_length_6: RESIST
 type_upper: RESISTOR
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: RES
+type_upper_length_4: RESI
+type_upper_length_5: RESIS
+type_upper_length_6: RESIST

@@ -1,23 +1,122 @@
+bip_39_word_dash_12: shield-hold-piano-force-erode-trash-camp-blanket-raise-total-tattoo-album
+bip_39_word_dash_2: shield-hold
+bip_39_word_dash_3: shield-hold-piano
+bip_39_word_new_br_12: shield<br>hold<br>piano<br>force<br>erode<br>trash<br>camp<br>blanket<br>raise<br>total<br>tattoo<br>album
+bip_39_word_new_br_2: shield<br>hold
+bip_39_word_new_br_3: shield<br>hold<br>piano
+bip_39_word_new_line_12: 'shield
+
+  hold
+
+  piano
+
+  force
+
+  erode
+
+  trash
+
+  camp
+
+  blanket
+
+  raise
+
+  total
+
+  tattoo
+
+  album'
+bip_39_word_new_line_2: 'shield
+
+  hold'
+bip_39_word_new_line_3: 'shield
+
+  hold
+
+  piano'
+bip_39_word_no_space_12: shieldholdpianoforceerodetrashcampblanketraisetotaltattooalbum
+bip_39_word_no_space_2: shieldhold
+bip_39_word_no_space_3: shieldholdpiano
+bip_39_word_space_12: shield hold piano force erode trash camp blanket raise total
+  tattoo album
+bip_39_word_space_2: shield hold
+bip_39_word_space_3: shield hold piano
+bip_39_word_underscore_12: shield_hold_piano_force_erode_trash_camp_blanket_raise_total_tattoo_album
+bip_39_word_underscore_2: shield_hold
+bip_39_word_underscore_3: shield_hold_piano
 classification: furniture
 classification_capital: Furniture
 classification_first_letter: f
 classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fu
+classification_length_3: fur
+classification_length_4: furn
+classification_length_5: furni
+classification_length_6: furnit
+classification_name: Furniture
+classification_no_space_length_1: f
+classification_no_space_length_2: fu
+classification_no_space_length_3: fur
+classification_no_space_length_4: furn
+classification_no_space_length_5: furni
+classification_no_space_length_6: furnit
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FU
+classification_no_space_upper_length_3: FUR
+classification_no_space_upper_length_4: FURN
+classification_no_space_upper_length_5: FURNI
+classification_no_space_upper_length_6: FURNIT
 classification_upper: FURNITURE
+classification_upper_length_1: F
+classification_upper_length_2: FU
+classification_upper_length_3: FUR
+classification_upper_length_4: FURN
+classification_upper_length_5: FURNI
+classification_upper_length_6: FURNIT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 depth: 300 mm
 description_extra: 890_mm_width_1270_mm_height_300_mm_depth
 description_extra_capital: 890 mm Width 1270 mm Height 300 mm Depth
 description_extra_first_letter: '8'
 description_extra_first_letter_upper: '8'
+description_extra_length_1: '8'
+description_extra_length_2: '89'
+description_extra_length_3: '890'
+description_extra_length_4: '890_'
+description_extra_length_5: 890_m
+description_extra_length_6: 890_mm
+description_extra_name: 890 mm Width 1270 mm Height 300 mm Depth
+description_extra_no_space_length_1: '8'
+description_extra_no_space_length_2: '89'
+description_extra_no_space_length_3: '890'
+description_extra_no_space_length_4: 890m
+description_extra_no_space_length_5: 890mm
+description_extra_no_space_length_6: 890mmw
+description_extra_no_space_upper_length_1: '8'
+description_extra_no_space_upper_length_2: '89'
+description_extra_no_space_upper_length_3: '890'
+description_extra_no_space_upper_length_4: 890M
+description_extra_no_space_upper_length_5: 890MM
+description_extra_no_space_upper_length_6: 890MMW
 description_extra_upper: 890_MM_WIDTH_1270_MM_HEIGHT_300_MM_DEPTH
+description_extra_upper_length_1: '8'
+description_extra_upper_length_2: '89'
+description_extra_upper_length_3: '890'
+description_extra_upper_length_4: '890_'
+description_extra_upper_length_5: 890_M
+description_extra_upper_length_6: 890_MM
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,19 +126,54 @@ directory: parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 height: 1270 mm
 id: furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 id_no_class: shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+id_no_color: 890mmwidth1270mmheight300mmdepthikea20169559
 id_no_size: 890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 id_no_type: ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203qh89
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203qh89
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203qh89
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203qh89
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
+manufacturer_length_1: i
+manufacturer_length_2: ik
+manufacturer_length_3: ike
+manufacturer_length_4: ikea
+manufacturer_length_5: ikea
+manufacturer_length_6: ikea
+manufacturer_name: Ikea
+manufacturer_no_space_length_1: i
+manufacturer_no_space_length_2: ik
+manufacturer_no_space_length_3: ike
+manufacturer_no_space_length_4: ikea
+manufacturer_no_space_length_5: ikea
+manufacturer_no_space_length_6: ikea
+manufacturer_no_space_upper_length_1: I
+manufacturer_no_space_upper_length_2: IK
+manufacturer_no_space_upper_length_3: IKE
+manufacturer_no_space_upper_length_4: IKEA
+manufacturer_no_space_upper_length_5: IKEA
+manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
+manufacturer_upper_length_1: I
+manufacturer_upper_length_2: IK
+manufacturer_upper_length_3: IKE
+manufacturer_upper_length_4: IKEA
+manufacturer_upper_length_5: IKEA
+manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59](none)<br>[](none)<br>[Furniture
   Shoe Cabinet Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59](none)<br><br>'
@@ -53,13 +187,39 @@ md5_6: 5fbcb9
 md5_6_alpha: 3qh89
 md5_6_alpha_upper: 3QH89
 md5_6_upper: 5FBCB9
-name: Furniture Shoe Cabinet Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth
+name: Furniture Shoe Cabinet Ikea Hemnes 890 mm Width 1270 mm Height 300 mm Depth
   Ikea 201 695 59
-name_no_class: Shoe Cabinet Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea
+name_no_class: Shoe Cabinet Ikea Hemnes 890 mm Width 1270 mm Height 300 mm Depth Ikea
   201 695 59
-name_no_size: 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
+name_no_color: 890mmwidth1270mmheight300mmdepthikea20169559
+name_no_size: 890 mm Width 1270 mm Height 300 mm Depth Ikea 201 695 59
 name_no_size_short: 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
-name_no_type: Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
+name_no_type: Ikea Hemnes 890 mm Width 1270 mm Height 300 mm Depth Ikea 201 695 59
+oomlout_detail_hierarchy_1: furniture
+oomlout_detail_hierarchy_1_upper: FURNITURE
+oomlout_detail_hierarchy_1_upper_length_4: FURN
+oomlout_detail_hierarchy_2: shoe_cabinet
+oomlout_detail_hierarchy_2_upper: SHOE_CABINET
+oomlout_detail_hierarchy_2_upper_length_4: SHOE
+oomlout_detail_hierarchy_3: ikea_hemnes
+oomlout_detail_hierarchy_3_upper: IKEA_HEMNES
+oomlout_detail_hierarchy_3_upper_length_4: IKEA
+oomlout_detail_hierarchy_4: 890_mm_width
+oomlout_detail_hierarchy_4_upper: 890_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 890W
+oomlout_detail_hierarchy_5: 1270_mm_height
+oomlout_detail_hierarchy_5_upper: 1270_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: '1270'
+oomlout_detail_hierarchy_6: 300_mm_depth
+oomlout_detail_hierarchy_6_upper: 300_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 300D
+oomlout_detail_hierarchy_7: ikea
+oomlout_detail_hierarchy_7_upper: IKEA
+oomlout_detail_hierarchy_7_upper_length_4: IKEA
+oomlout_detail_hierarchy_8: '201_695_59'
+oomlout_detail_hierarchy_8_upper: '201_695_59'
+oomlout_detail_hierarchy_8_upper_length_4: '201_'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
 oomp_word: leopard sushi fries
 oomp_word_emoji: ':leopard: :sushi: :fries:'
@@ -75,19 +235,98 @@ part_number: '201_695_59'
 part_number_capital: 201.695.59
 part_number_first_letter: '2'
 part_number_first_letter_upper: '2'
+part_number_length_1: '2'
+part_number_length_2: '20'
+part_number_length_3: '201'
+part_number_length_4: '201_'
+part_number_length_5: '201_6'
+part_number_length_6: '201_69'
+part_number_name: 201 695 59
+part_number_no_space_length_1: '2'
+part_number_no_space_length_2: '20'
+part_number_no_space_length_3: '201'
+part_number_no_space_length_4: '2016'
+part_number_no_space_length_5: '20169'
+part_number_no_space_length_6: '201695'
+part_number_no_space_upper_length_1: '2'
+part_number_no_space_upper_length_2: '20'
+part_number_no_space_upper_length_3: '201'
+part_number_no_space_upper_length_4: '2016'
+part_number_no_space_upper_length_5: '20169'
+part_number_no_space_upper_length_6: '201695'
 part_number_upper: '201_695_59'
+part_number_upper_length_1: '2'
+part_number_upper_length_2: '20'
+part_number_upper_length_3: '201'
+part_number_upper_length_4: '201_'
+part_number_upper_length_5: '201_6'
+part_number_upper_length_6: '201_69'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ikea_hemnes
 size_capital: Ikea Hemnes
 size_first_letter: i
 size_first_letter_upper: I
+size_length_1: i
+size_length_2: ik
+size_length_3: ike
+size_length_4: ikea
+size_length_5: ikea_
+size_length_6: ikea_h
+size_name: Ikea Hemnes
+size_no_space_length_1: i
+size_no_space_length_2: ik
+size_no_space_length_3: ike
+size_no_space_length_4: ikea
+size_no_space_length_5: ikeah
+size_no_space_length_6: ikeahe
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IK
+size_no_space_upper_length_3: IKE
+size_no_space_upper_length_4: IKEA
+size_no_space_upper_length_5: IKEAH
+size_no_space_upper_length_6: IKEAHE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IKEA_HEMNES
+size_upper_length_1: I
+size_upper_length_2: IK
+size_upper_length_3: IKE
+size_upper_length_4: IKEA
+size_upper_length_5: IKEA_
+size_upper_length_6: IKEA_H
 type: shoe_cabinet
 type_capital: Shoe Cabinet
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: sho
+type_length_4: shoe
+type_length_5: shoe_
+type_length_6: shoe_c
+type_name: Shoe Cabinet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: sho
+type_no_space_length_4: shoe
+type_no_space_length_5: shoec
+type_no_space_length_6: shoeca
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHO
+type_no_space_upper_length_4: SHOE
+type_no_space_upper_length_5: SHOEC
+type_no_space_upper_length_6: SHOECA
 type_upper: SHOE_CABINET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHO
+type_upper_length_4: SHOE
+type_upper_length_5: SHOE_
+type_upper_length_6: SHOE_C
 width: 890 mm

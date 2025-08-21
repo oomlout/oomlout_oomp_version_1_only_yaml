@@ -1,41 +1,175 @@
+bip_39_word_dash_12: often-weird-blade-capital-monkey-wedding-found-staff-victory-wheel-trumpet-armed
+bip_39_word_dash_2: often-weird
+bip_39_word_dash_3: often-weird-blade
+bip_39_word_new_br_12: often<br>weird<br>blade<br>capital<br>monkey<br>wedding<br>found<br>staff<br>victory<br>wheel<br>trumpet<br>armed
+bip_39_word_new_br_2: often<br>weird
+bip_39_word_new_br_3: often<br>weird<br>blade
+bip_39_word_new_line_12: 'often
+
+  weird
+
+  blade
+
+  capital
+
+  monkey
+
+  wedding
+
+  found
+
+  staff
+
+  victory
+
+  wheel
+
+  trumpet
+
+  armed'
+bip_39_word_new_line_2: 'often
+
+  weird'
+bip_39_word_new_line_3: 'often
+
+  weird
+
+  blade'
+bip_39_word_no_space_12: oftenweirdbladecapitalmonkeyweddingfoundstaffvictorywheeltrumpetarmed
+bip_39_word_no_space_2: oftenweird
+bip_39_word_no_space_3: oftenweirdblade
+bip_39_word_space_12: often weird blade capital monkey wedding found staff victory
+  wheel trumpet armed
+bip_39_word_space_2: often weird
+bip_39_word_space_3: often weird blade
+bip_39_word_underscore_12: often_weird_blade_capital_monkey_wedding_found_staff_victory_wheel_trumpet_armed
+bip_39_word_underscore_2: often_weird
+bip_39_word_underscore_3: often_weird_blade
 classification: toy
 classification_capital: Toy
 classification_first_letter: t
 classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
 classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: lambourghini_huracan_green
 description_main_capital: Lambourghini Huracan Green
 description_main_first_letter: l
 description_main_first_letter_upper: L
+description_main_length_1: l
+description_main_length_2: la
+description_main_length_3: lam
+description_main_length_4: lamb
+description_main_length_5: lambo
+description_main_length_6: lambou
+description_main_name: Lambourghini Huracan Green
+description_main_no_space_length_1: l
+description_main_no_space_length_2: la
+description_main_no_space_length_3: lam
+description_main_no_space_length_4: lamb
+description_main_no_space_length_5: lambo
+description_main_no_space_length_6: lambou
+description_main_no_space_upper_length_1: L
+description_main_no_space_upper_length_2: LA
+description_main_no_space_upper_length_3: LAM
+description_main_no_space_upper_length_4: LAMB
+description_main_no_space_upper_length_5: LAMBO
+description_main_no_space_upper_length_6: LAMBOU
 description_main_upper: LAMBOURGHINI_HURACAN_GREEN
+description_main_upper_length_1: L
+description_main_upper_length_2: LA
+description_main_upper_length_3: LAM
+description_main_upper_length_4: LAMB
+description_main_upper_length_5: LAMBO
+description_main_upper_length_6: LAMBOU
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 id: toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 id_no_class: mechano_car_remote_control_lambourghini_huracan_green_mechano
+id_no_color: lambourghinihuracangreenmechano
 id_no_size: lambourghini_huracan_green_mechano
 id_no_type: car_remote_control_lambourghini_huracan_green_mechano
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207en26
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207en26
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207en26
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207en26
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 manufacturer: mechano
 manufacturer_capital: Mechano
 manufacturer_first_letter: m
 manufacturer_first_letter_upper: M
+manufacturer_length_1: m
+manufacturer_length_2: me
+manufacturer_length_3: mec
+manufacturer_length_4: mech
+manufacturer_length_5: mecha
+manufacturer_length_6: mechan
+manufacturer_name: Mechano
+manufacturer_no_space_length_1: m
+manufacturer_no_space_length_2: me
+manufacturer_no_space_length_3: mec
+manufacturer_no_space_length_4: mech
+manufacturer_no_space_length_5: mecha
+manufacturer_no_space_length_6: mechan
+manufacturer_no_space_upper_length_1: M
+manufacturer_no_space_upper_length_2: ME
+manufacturer_no_space_upper_length_3: MEC
+manufacturer_no_space_upper_length_4: MECH
+manufacturer_no_space_upper_length_5: MECHA
+manufacturer_no_space_upper_length_6: MECHAN
 manufacturer_upper: MECHANO
+manufacturer_upper_length_1: M
+manufacturer_upper_length_2: ME
+manufacturer_upper_length_3: MEC
+manufacturer_upper_length_4: MECH
+manufacturer_upper_length_5: MECHA
+manufacturer_upper_length_6: MECHAN
 manufacturers: []
 markdown_full: '[toy_mechano_car_remote_control_lambourghini_huracan_green_mechano](none)<br>[](none)<br>[Toy
   Mechano Car Remote Control Lambourghini Huracan Green Mechano](none)<br><br>'
@@ -51,9 +185,26 @@ md5_6_alpha_upper: 7EN26
 md5_6_upper: BDD33E
 name: Toy Mechano Car Remote Control Lambourghini Huracan Green Mechano
 name_no_class: Mechano Car Remote Control Lambourghini Huracan Green Mechano
+name_no_color: Lambourghinihuracangreenmechano
 name_no_size: Lambourghini Huracan Green Mechano
 name_no_size_short: Lambourghini Huracan Green Mechano
 name_no_type: Car Remote Control Lambourghini Huracan Green Mechano
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: mechano
+oomlout_detail_hierarchy_2_upper: MECHANO
+oomlout_detail_hierarchy_2_upper_length_4: MECH
+oomlout_detail_hierarchy_3: car_remote_control
+oomlout_detail_hierarchy_3_upper: CAR_REMOTE_CONTROL
+oomlout_detail_hierarchy_3_upper_length_4: CAR_
+oomlout_detail_hierarchy_4: lambourghini_huracan_green
+oomlout_detail_hierarchy_4_upper: LAMBOURGHINI_HURACAN_GREEN
+oomlout_detail_hierarchy_4_upper_length_4: LAMB
+oomlout_detail_hierarchy_5: mechano
+oomlout_detail_hierarchy_5_upper: MECHANO
+oomlout_detail_hierarchy_5_upper_length_4: MECH
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_toy_mechano_car_remote_control_lambourghini_huracan_green_mechano
 oomp_word: rice tomato monkey
 oomp_word_emoji: ':rice: :tomato: :monkey:'
@@ -69,7 +220,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -77,11 +233,61 @@ size: car_remote_control
 size_capital: Car Remote Control
 size_first_letter: c
 size_first_letter_upper: C
+size_length_1: c
+size_length_2: ca
+size_length_3: car
+size_length_4: car_
+size_length_5: car_r
+size_length_6: car_re
+size_name: Car Remote Control
+size_no_space_length_1: c
+size_no_space_length_2: ca
+size_no_space_length_3: car
+size_no_space_length_4: carr
+size_no_space_length_5: carre
+size_no_space_length_6: carrem
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CA
+size_no_space_upper_length_3: CAR
+size_no_space_upper_length_4: CARR
+size_no_space_upper_length_5: CARRE
+size_no_space_upper_length_6: CARREM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CAR_REMOTE_CONTROL
+size_upper_length_1: C
+size_upper_length_2: CA
+size_upper_length_3: CAR
+size_upper_length_4: CAR_
+size_upper_length_5: CAR_R
+size_upper_length_6: CAR_RE
 type: mechano
 type_capital: Mechano
 type_first_letter: m
 type_first_letter_upper: M
+type_length_1: m
+type_length_2: me
+type_length_3: mec
+type_length_4: mech
+type_length_5: mecha
+type_length_6: mechan
+type_name: Mechano
+type_no_space_length_1: m
+type_no_space_length_2: me
+type_no_space_length_3: mec
+type_no_space_length_4: mech
+type_no_space_length_5: mecha
+type_no_space_length_6: mechan
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: ME
+type_no_space_upper_length_3: MEC
+type_no_space_upper_length_4: MECH
+type_no_space_upper_length_5: MECHA
+type_no_space_upper_length_6: MECHAN
 type_upper: MECHANO
+type_upper_length_1: M
+type_upper_length_2: ME
+type_upper_length_3: MEC
+type_upper_length_4: MECH
+type_upper_length_5: MECHA
+type_upper_length_6: MECHAN

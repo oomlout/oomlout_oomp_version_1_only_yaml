@@ -1,23 +1,146 @@
+bip_39_word_dash_12: law-rotate-coyote-wait-design-volume-engine-lounge-build-erupt-crawl-actress
+bip_39_word_dash_2: law-rotate
+bip_39_word_dash_3: law-rotate-coyote
+bip_39_word_new_br_12: law<br>rotate<br>coyote<br>wait<br>design<br>volume<br>engine<br>lounge<br>build<br>erupt<br>crawl<br>actress
+bip_39_word_new_br_2: law<br>rotate
+bip_39_word_new_br_3: law<br>rotate<br>coyote
+bip_39_word_new_line_12: 'law
+
+  rotate
+
+  coyote
+
+  wait
+
+  design
+
+  volume
+
+  engine
+
+  lounge
+
+  build
+
+  erupt
+
+  crawl
+
+  actress'
+bip_39_word_new_line_2: 'law
+
+  rotate'
+bip_39_word_new_line_3: 'law
+
+  rotate
+
+  coyote'
+bip_39_word_no_space_12: lawrotatecoyotewaitdesignvolumeengineloungebuilderuptcrawlactress
+bip_39_word_no_space_2: lawrotate
+bip_39_word_no_space_3: lawrotatecoyote
+bip_39_word_space_12: law rotate coyote wait design volume engine lounge build erupt
+  crawl actress
+bip_39_word_space_2: law rotate
+bip_39_word_space_3: law rotate coyote
+bip_39_word_underscore_12: law_rotate_coyote_wait_design_volume_engine_lounge_build_erupt_crawl_actress
+bip_39_word_underscore_2: law_rotate
+bip_39_word_underscore_3: law_rotate_coyote
 classification: paper
 classification_capital: Paper
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
 classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: double_sided_glossy_style_inkjet_printer
 description_extra_capital: Double Sided Glossy Style Inkjet Printer
 description_extra_first_letter: d
 description_extra_first_letter_upper: D
+description_extra_length_1: d
+description_extra_length_2: do
+description_extra_length_3: dou
+description_extra_length_4: doub
+description_extra_length_5: doubl
+description_extra_length_6: double
+description_extra_name: Double Sided Glossy Style Inkjet Printer
+description_extra_no_space_length_1: d
+description_extra_no_space_length_2: do
+description_extra_no_space_length_3: dou
+description_extra_no_space_length_4: doub
+description_extra_no_space_length_5: doubl
+description_extra_no_space_length_6: double
+description_extra_no_space_upper_length_1: D
+description_extra_no_space_upper_length_2: DO
+description_extra_no_space_upper_length_3: DOU
+description_extra_no_space_upper_length_4: DOUB
+description_extra_no_space_upper_length_5: DOUBL
+description_extra_no_space_upper_length_6: DOUBLE
 description_extra_upper: DOUBLE_SIDED_GLOSSY_STYLE_INKJET_PRINTER
+description_extra_upper_length_1: D
+description_extra_upper_length_2: DO
+description_extra_upper_length_3: DOU
+description_extra_upper_length_4: DOUB
+description_extra_upper_length_5: DOUBL
+description_extra_upper_length_6: DOUBLE
 description_main: 180_grams_per_meter_square
 description_main_capital: 180 Grams Per Meter Square
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '18'
+description_main_length_3: '180'
+description_main_length_4: '180_'
+description_main_length_5: 180_g
+description_main_length_6: 180_gr
+description_main_name: 180 Grams Per Meter Square
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '18'
+description_main_no_space_length_3: '180'
+description_main_no_space_length_4: 180g
+description_main_no_space_length_5: 180gr
+description_main_no_space_length_6: 180gra
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '18'
+description_main_no_space_upper_length_3: '180'
+description_main_no_space_upper_length_4: 180G
+description_main_no_space_upper_length_5: 180GR
+description_main_no_space_upper_length_6: 180GRA
 description_main_upper: 180_GRAMS_PER_METER_SQUARE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '18'
+description_main_upper_length_3: '180'
+description_main_upper_length_4: '180_'
+description_main_upper_length_5: 180_G
+description_main_upper_length_6: 180_GR
 description_only_numbers: '180'
 description_only_numbers_short: '180'
 description_or_color: '180'
@@ -27,20 +150,59 @@ distributor_amazon: B07L5NSWR8
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
 height: 297 mm
 id: paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
 id_no_class: sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+id_no_color: 180gramspermetersquaredoublesidedglossystyleinkjetprinterkoala
 id_no_size: 180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
 id_no_type: a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B07L5NSWR8
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B07L5NSWR8
+link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B07L5NSWR8
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201qd03
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201qd03
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201qd03
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201qd03
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
 manufacturer: koala
 manufacturer_capital: Koala
 manufacturer_first_letter: k
 manufacturer_first_letter_upper: K
+manufacturer_length_1: k
+manufacturer_length_2: ko
+manufacturer_length_3: koa
+manufacturer_length_4: koal
+manufacturer_length_5: koala
+manufacturer_length_6: koala
+manufacturer_name: Koala
+manufacturer_no_space_length_1: k
+manufacturer_no_space_length_2: ko
+manufacturer_no_space_length_3: koa
+manufacturer_no_space_length_4: koal
+manufacturer_no_space_length_5: koala
+manufacturer_no_space_length_6: koala
+manufacturer_no_space_upper_length_1: K
+manufacturer_no_space_upper_length_2: KO
+manufacturer_no_space_upper_length_3: KOA
+manufacturer_no_space_upper_length_4: KOAL
+manufacturer_no_space_upper_length_5: KOALA
+manufacturer_no_space_upper_length_6: KOALA
 manufacturer_upper: KOALA
+manufacturer_upper_length_1: K
+manufacturer_upper_length_2: KO
+manufacturer_upper_length_3: KOA
+manufacturer_upper_length_4: KOAL
+manufacturer_upper_length_5: KOALA
+manufacturer_upper_length_6: KOALA
 manufacturers: []
 markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala](none)<br>[](none)<br>[Paper
   Sheet A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double Sided Glossy
@@ -55,16 +217,42 @@ md5_6: 2c6553
 md5_6_alpha: 1qd03
 md5_6_alpha_upper: 1QD03
 md5_6_upper: 2C6553
-name: Paper Sheet A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double
+name: Paper Sheet A4 210 mm Width 297 mm Height 180 Grams Per Meter Square Double
   Sided Glossy Style Inkjet Printer Koala
-name_no_class: Sheet A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double
+name_no_class: Sheet A4 210 mm Width 297 mm Height 180 Grams Per Meter Square Double
   Sided Glossy Style Inkjet Printer Koala
+name_no_color: 180Gramspermetersquaredoublesidedglossystyleinkjetprinterkoala
 name_no_size: 180 Grams Per Meter Square Double Sided Glossy Style Inkjet Printer
   Koala
 name_no_size_short: 180 Grams Per Meter Square Double Sided Glossy Style Inkjet Printer
   Koala
-name_no_type: A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double Sided
+name_no_type: A4 210 mm Width 297 mm Height 180 Grams Per Meter Square Double Sided
   Glossy Style Inkjet Printer Koala
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_detail_hierarchy_5: 180_gram
+oomlout_detail_hierarchy_5_upper: 180_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '180_'
+oomlout_detail_hierarchy_6: double_sided_glossy_style
+oomlout_detail_hierarchy_6_upper: DOUBLE_SIDED_GLOSSY_STYLE
+oomlout_detail_hierarchy_6_upper_length_4: DOUB
+oomlout_detail_hierarchy_7: inkjet_printer
+oomlout_detail_hierarchy_7_upper: INKJET_PRINTER
+oomlout_detail_hierarchy_7_upper_length_4: INKJ
+oomlout_detail_hierarchy_8: koala
+oomlout_detail_hierarchy_8_upper: KOALA
+oomlout_detail_hierarchy_8_upper_length_4: KOAL
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
 oomp_word: snowflake maple_leaf fish
 oomp_word_emoji: ':snowflake: :maple_leaf: :fish:'
@@ -80,21 +268,77 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
 price_1: 0.09991666666666668
+price_1_distributor_3: 0.09991666666666668
 price_1_distributor_amazon: 0.09991666666666668
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: a4_210_mm_width_297_mm_height
 size_capital: A4.210 mm Width 297 mm Height
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: a4
+size_length_3: a4_
+size_length_4: a4_2
+size_length_5: a4_21
+size_length_6: a4_210
+size_name: A4 210 mm Width 297 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a4
+size_no_space_length_3: a42
+size_no_space_length_4: a421
+size_no_space_length_5: a4210
+size_no_space_length_6: a4210m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A4
+size_no_space_upper_length_3: A42
+size_no_space_upper_length_4: A421
+size_no_space_upper_length_5: A4210
+size_no_space_upper_length_6: A4210M
 size_only_numbers: '4210297'
 size_only_numbers_no_zeros: '421297'
 size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A4
+size_upper_length_3: A4_
+size_upper_length_4: A4_2
+size_upper_length_5: A4_21
+size_upper_length_6: A4_210
 type: sheet
 type_capital: Sheet
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
 type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
 width: 210 mm

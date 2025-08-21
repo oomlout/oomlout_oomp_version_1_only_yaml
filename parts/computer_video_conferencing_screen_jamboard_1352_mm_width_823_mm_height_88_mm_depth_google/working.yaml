@@ -1,23 +1,146 @@
+bip_39_word_dash_12: kiwi-zone-flush-tonight-detect-reopen-chronic-rain-sound-idle-please-able
+bip_39_word_dash_2: kiwi-zone
+bip_39_word_dash_3: kiwi-zone-flush
+bip_39_word_new_br_12: kiwi<br>zone<br>flush<br>tonight<br>detect<br>reopen<br>chronic<br>rain<br>sound<br>idle<br>please<br>able
+bip_39_word_new_br_2: kiwi<br>zone
+bip_39_word_new_br_3: kiwi<br>zone<br>flush
+bip_39_word_new_line_12: 'kiwi
+
+  zone
+
+  flush
+
+  tonight
+
+  detect
+
+  reopen
+
+  chronic
+
+  rain
+
+  sound
+
+  idle
+
+  please
+
+  able'
+bip_39_word_new_line_2: 'kiwi
+
+  zone'
+bip_39_word_new_line_3: 'kiwi
+
+  zone
+
+  flush'
+bip_39_word_no_space_12: kiwizoneflushtonightdetectreopenchronicrainsoundidlepleaseable
+bip_39_word_no_space_2: kiwizone
+bip_39_word_no_space_3: kiwizoneflush
+bip_39_word_space_12: kiwi zone flush tonight detect reopen chronic rain sound idle
+  please able
+bip_39_word_space_2: kiwi zone
+bip_39_word_space_3: kiwi zone flush
+bip_39_word_underscore_12: kiwi_zone_flush_tonight_detect_reopen_chronic_rain_sound_idle_please_able
+bip_39_word_underscore_2: kiwi_zone
+bip_39_word_underscore_3: kiwi_zone_flush
 classification: computer
 classification_capital: Computer
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: co
+classification_length_3: com
+classification_length_4: comp
+classification_length_5: compu
+classification_length_6: comput
+classification_name: Computer
+classification_no_space_length_1: c
+classification_no_space_length_2: co
+classification_no_space_length_3: com
+classification_no_space_length_4: comp
+classification_no_space_length_5: compu
+classification_no_space_length_6: comput
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CO
+classification_no_space_upper_length_3: COM
+classification_no_space_upper_length_4: COMP
+classification_no_space_upper_length_5: COMPU
+classification_no_space_upper_length_6: COMPUT
 classification_upper: COMPUTER
+classification_upper_length_1: C
+classification_upper_length_2: CO
+classification_upper_length_3: COM
+classification_upper_length_4: COMP
+classification_upper_length_5: COMPU
+classification_upper_length_6: COMPUT
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: 1352_mm_width_823_mm_height_88_mm_depth
 description_extra_capital: 1352 mm Width 823 mm Height 88 mm Depth
 description_extra_first_letter: '1'
 description_extra_first_letter_upper: '1'
+description_extra_length_1: '1'
+description_extra_length_2: '13'
+description_extra_length_3: '135'
+description_extra_length_4: '1352'
+description_extra_length_5: '1352_'
+description_extra_length_6: 1352_m
+description_extra_name: 1352 mm Width 823 mm Height 88 mm Depth
+description_extra_no_space_length_1: '1'
+description_extra_no_space_length_2: '13'
+description_extra_no_space_length_3: '135'
+description_extra_no_space_length_4: '1352'
+description_extra_no_space_length_5: 1352m
+description_extra_no_space_length_6: 1352mm
+description_extra_no_space_upper_length_1: '1'
+description_extra_no_space_upper_length_2: '13'
+description_extra_no_space_upper_length_3: '135'
+description_extra_no_space_upper_length_4: '1352'
+description_extra_no_space_upper_length_5: 1352M
+description_extra_no_space_upper_length_6: 1352MM
 description_extra_upper: 1352_MM_WIDTH_823_MM_HEIGHT_88_MM_DEPTH
+description_extra_upper_length_1: '1'
+description_extra_upper_length_2: '13'
+description_extra_upper_length_3: '135'
+description_extra_upper_length_4: '1352'
+description_extra_upper_length_5: '1352_'
+description_extra_upper_length_6: 1352_M
 description_main: jamboard
 description_main_capital: Jamboard
 description_main_first_letter: j
 description_main_first_letter_upper: J
+description_main_length_1: j
+description_main_length_2: ja
+description_main_length_3: jam
+description_main_length_4: jamb
+description_main_length_5: jambo
+description_main_length_6: jamboa
+description_main_name: Jamboard
+description_main_no_space_length_1: j
+description_main_no_space_length_2: ja
+description_main_no_space_length_3: jam
+description_main_no_space_length_4: jamb
+description_main_no_space_length_5: jambo
+description_main_no_space_length_6: jamboa
+description_main_no_space_upper_length_1: J
+description_main_no_space_upper_length_2: JA
+description_main_no_space_upper_length_3: JAM
+description_main_no_space_upper_length_4: JAMB
+description_main_no_space_upper_length_5: JAMBO
+description_main_no_space_upper_length_6: JAMBOA
 description_main_upper: JAMBOARD
+description_main_upper_length_1: J
+description_main_upper_length_2: JA
+description_main_upper_length_3: JAM
+description_main_upper_length_4: JAMB
+description_main_upper_length_5: JAMBO
+description_main_upper_length_6: JAMBOA
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
@@ -26,18 +149,53 @@ directory: parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_m
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
 id: computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
 id_no_class: video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+id_no_color: jamboard1352mmwidth823mmheight88mmdepthgoogle
 id_no_size: jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
 id_no_type: screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207g0s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207g0s
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207g0s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207g0s
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
 manufacturer: google
 manufacturer_capital: Google
 manufacturer_first_letter: g
 manufacturer_first_letter_upper: G
+manufacturer_length_1: g
+manufacturer_length_2: go
+manufacturer_length_3: goo
+manufacturer_length_4: goog
+manufacturer_length_5: googl
+manufacturer_length_6: google
+manufacturer_name: Google
+manufacturer_no_space_length_1: g
+manufacturer_no_space_length_2: go
+manufacturer_no_space_length_3: goo
+manufacturer_no_space_length_4: goog
+manufacturer_no_space_length_5: googl
+manufacturer_no_space_length_6: google
+manufacturer_no_space_upper_length_1: G
+manufacturer_no_space_upper_length_2: GO
+manufacturer_no_space_upper_length_3: GOO
+manufacturer_no_space_upper_length_4: GOOG
+manufacturer_no_space_upper_length_5: GOOGL
+manufacturer_no_space_upper_length_6: GOOGLE
 manufacturer_upper: GOOGLE
+manufacturer_upper_length_1: G
+manufacturer_upper_length_2: GO
+manufacturer_upper_length_3: GOO
+manufacturer_upper_length_4: GOOG
+manufacturer_upper_length_5: GOOGL
+manufacturer_upper_length_6: GOOGLE
 manufacturers: []
 markdown_full: '[computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google](none)<br>[](none)<br>[Computer
   Video Conferencing Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google](none)<br><br>'
@@ -51,13 +209,39 @@ md5_6: 054cdc
 md5_6_alpha: 7g0s
 md5_6_alpha_upper: 7G0S
 md5_6_upper: 054CDC
-name: Computer Video Conferencing Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm
+name: Computer Video Conferencing Screen Jamboard 1352 mm Width 823 mm Height 88 mm
   Depth Google
-name_no_class: Video Conferencing Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm
+name_no_class: Video Conferencing Screen Jamboard 1352 mm Width 823 mm Height 88 mm
   Depth Google
-name_no_size: Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google
+name_no_color: Jamboard1352mmwidth823mmheight88mmdepthgoogle
+name_no_size: Jamboard 1352 mm Width 823 mm Height 88 mm Depth Google
 name_no_size_short: Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google
-name_no_type: Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google
+name_no_type: Screen Jamboard 1352 mm Width 823 mm Height 88 mm Depth Google
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: video_conferencing
+oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
+oomlout_detail_hierarchy_2_upper_length_4: VIDE
+oomlout_detail_hierarchy_3: screen
+oomlout_detail_hierarchy_3_upper: SCREEN
+oomlout_detail_hierarchy_3_upper_length_4: SCRE
+oomlout_detail_hierarchy_4: jamboard
+oomlout_detail_hierarchy_4_upper: JAMBOARD
+oomlout_detail_hierarchy_4_upper_length_4: JAMB
+oomlout_detail_hierarchy_5: 1352_mm_width
+oomlout_detail_hierarchy_5_upper: 1352_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: '1352'
+oomlout_detail_hierarchy_6: 823_mm_height
+oomlout_detail_hierarchy_6_upper: 823_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 823H
+oomlout_detail_hierarchy_7: 88_mm_depth
+oomlout_detail_hierarchy_7_upper: 88_MM_DEPTH
+oomlout_detail_hierarchy_7_upper_length_4: 88DE
+oomlout_detail_hierarchy_8: google
+oomlout_detail_hierarchy_8_upper: GOOGLE
+oomlout_detail_hierarchy_8_upper_length_4: GOOG
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
 oomp_word: kissing turtle factory
 oomp_word_emoji: ':kissing: :turtle: :factory:'
@@ -73,18 +257,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: screen
 size_capital: Screen
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sc
+size_length_3: scr
+size_length_4: scre
+size_length_5: scree
+size_length_6: screen
+size_name: Screen
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: scr
+size_no_space_length_4: scre
+size_no_space_length_5: scree
+size_no_space_length_6: screen
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCR
+size_no_space_upper_length_4: SCRE
+size_no_space_upper_length_5: SCREE
+size_no_space_upper_length_6: SCREEN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREEN
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCR
+size_upper_length_4: SCRE
+size_upper_length_5: SCREE
+size_upper_length_6: SCREEN
 type: video_conferencing
 type_capital: Video Conferencing
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vid
+type_length_4: vide
+type_length_5: video
+type_length_6: video_
+type_name: Video Conferencing
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vid
+type_no_space_length_4: vide
+type_no_space_length_5: video
+type_no_space_length_6: videoc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VID
+type_no_space_upper_length_4: VIDE
+type_no_space_upper_length_5: VIDEO
+type_no_space_upper_length_6: VIDEOC
 type_upper: VIDEO_CONFERENCING
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VID
+type_upper_length_4: VIDE
+type_upper_length_5: VIDEO
+type_upper_length_6: VIDEO_

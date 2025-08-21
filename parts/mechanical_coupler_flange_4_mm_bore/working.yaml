@@ -1,40 +1,150 @@
+bip_39_word_dash_12: muffin-friend-real-mutual-faith-inhale-payment-spoon-bulb-rich-tube-arena
+bip_39_word_dash_2: muffin-friend
+bip_39_word_dash_3: muffin-friend-real
+bip_39_word_new_br_12: muffin<br>friend<br>real<br>mutual<br>faith<br>inhale<br>payment<br>spoon<br>bulb<br>rich<br>tube<br>arena
+bip_39_word_new_br_2: muffin<br>friend
+bip_39_word_new_br_3: muffin<br>friend<br>real
+bip_39_word_new_line_12: 'muffin
+
+  friend
+
+  real
+
+  mutual
+
+  faith
+
+  inhale
+
+  payment
+
+  spoon
+
+  bulb
+
+  rich
+
+  tube
+
+  arena'
+bip_39_word_new_line_2: 'muffin
+
+  friend'
+bip_39_word_new_line_3: 'muffin
+
+  friend
+
+  real'
+bip_39_word_no_space_12: muffinfriendrealmutualfaithinhalepaymentspoonbulbrichtubearena
+bip_39_word_no_space_2: muffinfriend
+bip_39_word_no_space_3: muffinfriendreal
+bip_39_word_space_12: muffin friend real mutual faith inhale payment spoon bulb rich
+  tube arena
+bip_39_word_space_2: muffin friend
+bip_39_word_space_3: muffin friend real
+bip_39_word_underscore_12: muffin_friend_real_mutual_faith_inhale_payment_spoon_bulb_rich_tube_arena
+bip_39_word_underscore_2: muffin_friend
+bip_39_word_underscore_3: muffin_friend_real
 classification: mechanical
 classification_capital: Mechanical
 classification_first_letter: m
 classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
 classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 4_mm_bore
 description_main_capital: 4 mm Bore
 description_main_first_letter: '4'
 description_main_first_letter_upper: '4'
+description_main_length_1: '4'
+description_main_length_2: '4_'
+description_main_length_3: 4_m
+description_main_length_4: 4_mm
+description_main_length_5: 4_mm_
+description_main_length_6: 4_mm_b
+description_main_name: 4 mm Bore
+description_main_no_space_length_1: '4'
+description_main_no_space_length_2: 4m
+description_main_no_space_length_3: 4mm
+description_main_no_space_length_4: 4mmb
+description_main_no_space_length_5: 4mmbo
+description_main_no_space_length_6: 4mmbor
+description_main_no_space_upper_length_1: '4'
+description_main_no_space_upper_length_2: 4M
+description_main_no_space_upper_length_3: 4MM
+description_main_no_space_upper_length_4: 4MMB
+description_main_no_space_upper_length_5: 4MMBO
+description_main_no_space_upper_length_6: 4MMBOR
 description_main_upper: 4_MM_BORE
+description_main_upper_length_1: '4'
+description_main_upper_length_2: '4_'
+description_main_upper_length_3: 4_M
+description_main_upper_length_4: 4_MM
+description_main_upper_length_5: 4_MM_
+description_main_upper_length_6: 4_MM_B
 description_only_numbers: '4'
 description_only_numbers_short: '4'
 description_or_color: '4'
 description_or_color_upper: '4'
 directory: parts/mechanical_coupler_flange_4_mm_bore
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_coupler_flange_4_mm_bore
 id: mechanical_coupler_flange_4_mm_bore
 id_no_class: coupler_flange_4_mm_bore
+id_no_color: 4mmbore
 id_no_size: 4_mm_bore
 id_no_type: flange_4_mm_bore
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_4_mm_bore
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_4_mm_bore
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_4_mm_bore
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_4_mm_bore
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20767u6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20767u6
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20767u6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20767u6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_4_mm_bore
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[mechanical_coupler_flange_4_mm_bore](none)<br>[](none)<br>[Mechanical
@@ -49,11 +159,25 @@ md5_6: b7d42e
 md5_6_alpha: 767u6
 md5_6_alpha_upper: 767U6
 md5_6_upper: B7D42E
-name: Mechanical Coupler Flange 4 Mm Bore
-name_no_class: Coupler Flange 4 Mm Bore
-name_no_size: 4 Mm Bore
+name: Mechanical Coupler Flange 4 mm Bore
+name_no_class: Coupler Flange 4 mm Bore
+name_no_color: 4mmbore
+name_no_size: 4 mm Bore
 name_no_size_short: 4 Mm Bore
-name_no_type: Flange 4 Mm Bore
+name_no_type: Flange 4 mm Bore
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: coupler
+oomlout_detail_hierarchy_2_upper: COUPLER
+oomlout_detail_hierarchy_2_upper_length_4: COUP
+oomlout_detail_hierarchy_3: flange
+oomlout_detail_hierarchy_3_upper: FLANGE
+oomlout_detail_hierarchy_3_upper_length_4: FLAN
+oomlout_detail_hierarchy_4: 4_mm_bore
+oomlout_detail_hierarchy_4_upper: 4_MM_BORE
+oomlout_detail_hierarchy_4_upper_length_4: 4BOR
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_mechanical_coupler_flange_4_mm_bore
 oomp_word: pizza corn zap
 oomp_word_emoji: ':pizza: :corn: :zap:'
@@ -69,7 +193,12 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -77,11 +206,61 @@ size: flange
 size_capital: Flange
 size_first_letter: f
 size_first_letter_upper: F
+size_length_1: f
+size_length_2: fl
+size_length_3: fla
+size_length_4: flan
+size_length_5: flang
+size_length_6: flange
+size_name: Flange
+size_no_space_length_1: f
+size_no_space_length_2: fl
+size_no_space_length_3: fla
+size_no_space_length_4: flan
+size_no_space_length_5: flang
+size_no_space_length_6: flange
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FL
+size_no_space_upper_length_3: FLA
+size_no_space_upper_length_4: FLAN
+size_no_space_upper_length_5: FLANG
+size_no_space_upper_length_6: FLANGE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: FLANGE
+size_upper_length_1: F
+size_upper_length_2: FL
+size_upper_length_3: FLA
+size_upper_length_4: FLAN
+size_upper_length_5: FLANG
+size_upper_length_6: FLANGE
 type: coupler
 type_capital: Coupler
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: co
+type_length_3: cou
+type_length_4: coup
+type_length_5: coupl
+type_length_6: couple
+type_name: Coupler
+type_no_space_length_1: c
+type_no_space_length_2: co
+type_no_space_length_3: cou
+type_no_space_length_4: coup
+type_no_space_length_5: coupl
+type_no_space_length_6: couple
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CO
+type_no_space_upper_length_3: COU
+type_no_space_upper_length_4: COUP
+type_no_space_upper_length_5: COUPL
+type_no_space_upper_length_6: COUPLE
 type_upper: COUPLER
+type_upper_length_1: C
+type_upper_length_2: CO
+type_upper_length_3: COU
+type_upper_length_4: COUP
+type_upper_length_5: COUPL
+type_upper_length_6: COUPLE

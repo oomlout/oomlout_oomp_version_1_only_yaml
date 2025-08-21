@@ -1,41 +1,175 @@
+bip_39_word_dash_12: firm-plastic-hair-flag-still-truly-glass-slam-wool-stem-quit-admit
+bip_39_word_dash_2: firm-plastic
+bip_39_word_dash_3: firm-plastic-hair
+bip_39_word_new_br_12: firm<br>plastic<br>hair<br>flag<br>still<br>truly<br>glass<br>slam<br>wool<br>stem<br>quit<br>admit
+bip_39_word_new_br_2: firm<br>plastic
+bip_39_word_new_br_3: firm<br>plastic<br>hair
+bip_39_word_new_line_12: 'firm
+
+  plastic
+
+  hair
+
+  flag
+
+  still
+
+  truly
+
+  glass
+
+  slam
+
+  wool
+
+  stem
+
+  quit
+
+  admit'
+bip_39_word_new_line_2: 'firm
+
+  plastic'
+bip_39_word_new_line_3: 'firm
+
+  plastic
+
+  hair'
+bip_39_word_no_space_12: firmplastichairflagstilltrulyglassslamwoolstemquitadmit
+bip_39_word_no_space_2: firmplastic
+bip_39_word_no_space_3: firmplastichair
+bip_39_word_space_12: firm plastic hair flag still truly glass slam wool stem quit
+  admit
+bip_39_word_space_2: firm plastic
+bip_39_word_space_3: firm plastic hair
+bip_39_word_underscore_12: firm_plastic_hair_flag_still_truly_glass_slam_wool_stem_quit_admit
+bip_39_word_underscore_2: firm_plastic
+bip_39_word_underscore_3: firm_plastic_hair
 classification: storage
 classification_capital: Storage
 classification_first_letter: s
 classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sto
+classification_length_4: stor
+classification_length_5: stora
+classification_length_6: storag
+classification_name: Storage
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sto
+classification_no_space_length_4: stor
+classification_no_space_length_5: stora
+classification_no_space_length_6: storag
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STO
+classification_no_space_upper_length_4: STOR
+classification_no_space_upper_length_5: STORA
+classification_no_space_upper_length_6: STORAG
 classification_upper: STORAGE
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STO
+classification_upper_length_4: STOR
+classification_upper_length_5: STORA
+classification_upper_length_6: STORAG
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 190_mm_width_150_mm_height_260_mm_depth
 description_main_capital: 190 mm Width 150 mm Height 260 mm Depth
 description_main_first_letter: '1'
 description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '19'
+description_main_length_3: '190'
+description_main_length_4: '190_'
+description_main_length_5: 190_m
+description_main_length_6: 190_mm
+description_main_name: 190 mm Width 150 mm Height 260 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '19'
+description_main_no_space_length_3: '190'
+description_main_no_space_length_4: 190m
+description_main_no_space_length_5: 190mm
+description_main_no_space_length_6: 190mmw
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '19'
+description_main_no_space_upper_length_3: '190'
+description_main_no_space_upper_length_4: 190M
+description_main_no_space_upper_length_5: 190MM
+description_main_no_space_upper_length_6: 190MMW
 description_main_upper: 190_MM_WIDTH_150_MM_HEIGHT_260_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '19'
+description_main_upper_length_3: '190'
+description_main_upper_length_4: '190_'
+description_main_upper_length_5: 190_M
+description_main_upper_length_6: 190_MM
 description_only_numbers: '190150260'
 description_only_numbers_short: 1M9
 description_or_color: 1M9
 description_or_color_upper: 1M9
 directory: parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 id: storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 id_no_class: box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
+id_no_color: 190mmwidth150mmheight260mmdepthikea50316182
 id_no_size: 190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 id_no_type: sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202beet
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202beet
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202beet
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202beet
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 manufacturer: ikea
 manufacturer_capital: Ikea
 manufacturer_first_letter: i
 manufacturer_first_letter_upper: I
+manufacturer_length_1: i
+manufacturer_length_2: ik
+manufacturer_length_3: ike
+manufacturer_length_4: ikea
+manufacturer_length_5: ikea
+manufacturer_length_6: ikea
+manufacturer_name: Ikea
+manufacturer_no_space_length_1: i
+manufacturer_no_space_length_2: ik
+manufacturer_no_space_length_3: ike
+manufacturer_no_space_length_4: ikea
+manufacturer_no_space_length_5: ikea
+manufacturer_no_space_length_6: ikea
+manufacturer_no_space_upper_length_1: I
+manufacturer_no_space_upper_length_2: IK
+manufacturer_no_space_upper_length_3: IKE
+manufacturer_no_space_upper_length_4: IKEA
+manufacturer_no_space_upper_length_5: IKEA
+manufacturer_no_space_upper_length_6: IKEA
 manufacturer_upper: IKEA
+manufacturer_upper_length_1: I
+manufacturer_upper_length_2: IK
+manufacturer_upper_length_3: IKE
+manufacturer_upper_length_4: IKEA
+manufacturer_upper_length_5: IKEA
+manufacturer_upper_length_6: IKEA
 manufacturers: []
 markdown_full: '[storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82](none)<br>[](none)<br>[Storage
   Box Warehouse Sockerbit 190 Mm Width 150 Mm Height 260 Mm Depth Ikea 503 161 82](none)<br><br>'
@@ -49,13 +183,39 @@ md5_6: 3b5fb5
 md5_6_alpha: 2beet
 md5_6_alpha_upper: 2BEET
 md5_6_upper: 3B5FB5
-name: Storage Box Warehouse Sockerbit 190 Mm Width 150 Mm Height 260 Mm Depth Ikea
+name: Storage Box Warehouse Sockerbit 190 mm Width 150 mm Height 260 mm Depth Ikea
   503 161 82
-name_no_class: Box Warehouse Sockerbit 190 Mm Width 150 Mm Height 260 Mm Depth Ikea
+name_no_class: Box Warehouse Sockerbit 190 mm Width 150 mm Height 260 mm Depth Ikea
   503 161 82
-name_no_size: 190 Mm Width 150 Mm Height 260 Mm Depth Ikea 503 161 82
+name_no_color: 190mmwidth150mmheight260mmdepthikea50316182
+name_no_size: 190 mm Width 150 mm Height 260 mm Depth Ikea 503 161 82
 name_no_size_short: 190 Mm Width 150 Mm Height 260 Mm Depth Ikea 503 161 82
-name_no_type: Sockerbit 190 Mm Width 150 Mm Height 260 Mm Depth Ikea 503 161 82
+name_no_type: Sockerbit 190 mm Width 150 mm Height 260 mm Depth Ikea 503 161 82
+oomlout_detail_hierarchy_1: storage
+oomlout_detail_hierarchy_1_upper: STORAGE
+oomlout_detail_hierarchy_1_upper_length_4: STOR
+oomlout_detail_hierarchy_2: box_warehouse
+oomlout_detail_hierarchy_2_upper: BOX_WAREHOUSE
+oomlout_detail_hierarchy_2_upper_length_4: BOX_
+oomlout_detail_hierarchy_3: sockerbit
+oomlout_detail_hierarchy_3_upper: SOCKERBIT
+oomlout_detail_hierarchy_3_upper_length_4: SOCK
+oomlout_detail_hierarchy_4: 190_mm_width
+oomlout_detail_hierarchy_4_upper: 190_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 190W
+oomlout_detail_hierarchy_5: 150_mm_height
+oomlout_detail_hierarchy_5_upper: 150_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 150H
+oomlout_detail_hierarchy_6: 260_mm_depth
+oomlout_detail_hierarchy_6_upper: 260_MM_DEPTH
+oomlout_detail_hierarchy_6_upper_length_4: 260D
+oomlout_detail_hierarchy_7: ikea
+oomlout_detail_hierarchy_7_upper: IKEA
+oomlout_detail_hierarchy_7_upper_length_4: IKEA
+oomlout_detail_hierarchy_8: '503_161_82'
+oomlout_detail_hierarchy_8_upper: '503_161_82'
+oomlout_detail_hierarchy_8_upper_length_4: '503_'
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_storage_box_warehouse_sockerbit_190_mm_width_150_mm_height_260_mm_depth_ikea_503_161_82
 oomp_word: bear leopard tea
 oomp_word_emoji: ':bear: :leopard: :tea:'
@@ -71,7 +231,36 @@ part_number: '503_161_82'
 part_number_capital: 503.161.82
 part_number_first_letter: '5'
 part_number_first_letter_upper: '5'
+part_number_length_1: '5'
+part_number_length_2: '50'
+part_number_length_3: '503'
+part_number_length_4: '503_'
+part_number_length_5: '503_1'
+part_number_length_6: '503_16'
+part_number_name: 503 161 82
+part_number_no_space_length_1: '5'
+part_number_no_space_length_2: '50'
+part_number_no_space_length_3: '503'
+part_number_no_space_length_4: '5031'
+part_number_no_space_length_5: '50316'
+part_number_no_space_length_6: '503161'
+part_number_no_space_upper_length_1: '5'
+part_number_no_space_upper_length_2: '50'
+part_number_no_space_upper_length_3: '503'
+part_number_no_space_upper_length_4: '5031'
+part_number_no_space_upper_length_5: '50316'
+part_number_no_space_upper_length_6: '503161'
 part_number_upper: '503_161_82'
+part_number_upper_length_1: '5'
+part_number_upper_length_2: '50'
+part_number_upper_length_3: '503'
+part_number_upper_length_4: '503_'
+part_number_upper_length_5: '503_1'
+part_number_upper_length_6: '503_16'
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: ''
@@ -79,11 +268,61 @@ size: sockerbit
 size_capital: Sockerbit
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: soc
+size_length_4: sock
+size_length_5: socke
+size_length_6: socker
+size_name: Sockerbit
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: soc
+size_no_space_length_4: sock
+size_no_space_length_5: socke
+size_no_space_length_6: socker
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOC
+size_no_space_upper_length_4: SOCK
+size_no_space_upper_length_5: SOCKE
+size_no_space_upper_length_6: SOCKER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SOCKERBIT
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOC
+size_upper_length_4: SOCK
+size_upper_length_5: SOCKE
+size_upper_length_6: SOCKER
 type: box_warehouse
 type_capital: Box Warehouse
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: bo
+type_length_3: box
+type_length_4: box_
+type_length_5: box_w
+type_length_6: box_wa
+type_name: Box Warehouse
+type_no_space_length_1: b
+type_no_space_length_2: bo
+type_no_space_length_3: box
+type_no_space_length_4: boxw
+type_no_space_length_5: boxwa
+type_no_space_length_6: boxwar
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BO
+type_no_space_upper_length_3: BOX
+type_no_space_upper_length_4: BOXW
+type_no_space_upper_length_5: BOXWA
+type_no_space_upper_length_6: BOXWAR
 type_upper: BOX_WAREHOUSE
+type_upper_length_1: B
+type_upper_length_2: BO
+type_upper_length_3: BOX
+type_upper_length_4: BOX_
+type_upper_length_5: BOX_W
+type_upper_length_6: BOX_WA

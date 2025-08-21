@@ -1,13 +1,110 @@
+bip_39_word_dash_12: oil-setup-stuff-bread-wild-gold-panda-quarter-post-trophy-this-angle
+bip_39_word_dash_2: oil-setup
+bip_39_word_dash_3: oil-setup-stuff
+bip_39_word_new_br_12: oil<br>setup<br>stuff<br>bread<br>wild<br>gold<br>panda<br>quarter<br>post<br>trophy<br>this<br>angle
+bip_39_word_new_br_2: oil<br>setup
+bip_39_word_new_br_3: oil<br>setup<br>stuff
+bip_39_word_new_line_12: 'oil
+
+  setup
+
+  stuff
+
+  bread
+
+  wild
+
+  gold
+
+  panda
+
+  quarter
+
+  post
+
+  trophy
+
+  this
+
+  angle'
+bip_39_word_new_line_2: 'oil
+
+  setup'
+bip_39_word_new_line_3: 'oil
+
+  setup
+
+  stuff'
+bip_39_word_no_space_12: oilsetupstuffbreadwildgoldpandaquarterposttrophythisangle
+bip_39_word_no_space_2: oilsetup
+bip_39_word_no_space_3: oilsetupstuff
+bip_39_word_space_12: oil setup stuff bread wild gold panda quarter post trophy this
+  angle
+bip_39_word_space_2: oil setup
+bip_39_word_space_3: oil setup stuff
+bip_39_word_underscore_12: oil_setup_stuff_bread_wild_gold_panda_quarter_post_trophy_this_angle
+bip_39_word_underscore_2: oil_setup
+bip_39_word_underscore_3: oil_setup_stuff
 classification: packaging
 classification_capital: Packaging
 classification_first_letter: p
 classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pac
+classification_length_4: pack
+classification_length_5: packa
+classification_length_6: packag
+classification_name: Packaging
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pac
+classification_no_space_length_4: pack
+classification_no_space_length_5: packa
+classification_no_space_length_6: packag
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAC
+classification_no_space_upper_length_4: PACK
+classification_no_space_upper_length_5: PACKA
+classification_no_space_upper_length_6: PACKAG
 classification_upper: PACKAGING
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAC
+classification_upper_length_4: PACK
+classification_upper_length_5: PACKA
+classification_upper_length_6: PACKAG
 color: clear
 color_capital: Clear
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: cl
+color_length_3: cle
+color_length_4: clea
+color_length_5: clear
+color_length_6: clear
+color_name: Clear
+color_no_space_length_1: c
+color_no_space_length_2: cl
+color_no_space_length_3: cle
+color_no_space_length_4: clea
+color_no_space_length_5: clear
+color_no_space_length_6: clear
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CL
+color_no_space_upper_length_3: CLE
+color_no_space_upper_length_4: CLEA
+color_no_space_upper_length_5: CLEAR
+color_no_space_upper_length_6: CLEAR
 color_upper: CLEAR
+color_upper_length_1: C
+color_upper_length_2: CL
+color_upper_length_3: CLE
+color_upper_length_4: CLEA
+color_upper_length_5: CLEAR
+color_upper_length_6: CLEAR
 cost_per: "\xA30.007"
 cost_per_10: "\xA30.0244"
 cost_per_1000: "\xA30.007"
@@ -15,26 +112,62 @@ description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: 88_mm_width_114_mm_height
 description_main_capital: 88 mm Width 114 mm Height
 description_main_first_letter: '8'
 description_main_first_letter_upper: '8'
+description_main_length_1: '8'
+description_main_length_2: '88'
+description_main_length_3: '88_'
+description_main_length_4: 88_m
+description_main_length_5: 88_mm
+description_main_length_6: 88_mm_
+description_main_name: 88 mm Width 114 mm Height
+description_main_no_space_length_1: '8'
+description_main_no_space_length_2: '88'
+description_main_no_space_length_3: 88m
+description_main_no_space_length_4: 88mm
+description_main_no_space_length_5: 88mmw
+description_main_no_space_length_6: 88mmwi
+description_main_no_space_upper_length_1: '8'
+description_main_no_space_upper_length_2: '88'
+description_main_no_space_upper_length_3: 88M
+description_main_no_space_upper_length_4: 88MM
+description_main_no_space_upper_length_5: 88MMW
+description_main_no_space_upper_length_6: 88MMWI
 description_main_upper: 88_MM_WIDTH_114_MM_HEIGHT
+description_main_upper_length_1: '8'
+description_main_upper_length_2: '88'
+description_main_upper_length_3: '88_'
+description_main_upper_length_4: 88_M
+description_main_upper_length_5: 88_MM
+description_main_upper_length_6: 88_MM_
 description_only_numbers: '88114'
 description_only_numbers_short: 88k
 description_or_color: C88k
 description_or_color_upper: C88K
 directory: parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
 height_internal:
 - 114 mm
 id: packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
 id_no_class: bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite
+id_no_color: 88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite
 id_no_size: clear_88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite
 id_no_type: 45_micron_thickness_clear_88_mm_width_114_mm_height_kite_pbr3_5_x_4_5_kite
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205j4ca
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205j4ca
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205j4ca
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205j4ca
 link_purchase:
 - kitepackaging.co.uk/scp/resealable-grip-seal-bags/plain-grip-seal-bags/
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
@@ -42,7 +175,32 @@ manufacturer: kite_packaging
 manufacturer_capital: Kite Packaging
 manufacturer_first_letter: k
 manufacturer_first_letter_upper: K
+manufacturer_length_1: k
+manufacturer_length_2: ki
+manufacturer_length_3: kit
+manufacturer_length_4: kite
+manufacturer_length_5: kite_
+manufacturer_length_6: kite_p
+manufacturer_name: Kite Packaging
+manufacturer_no_space_length_1: k
+manufacturer_no_space_length_2: ki
+manufacturer_no_space_length_3: kit
+manufacturer_no_space_length_4: kite
+manufacturer_no_space_length_5: kitep
+manufacturer_no_space_length_6: kitepa
+manufacturer_no_space_upper_length_1: K
+manufacturer_no_space_upper_length_2: KI
+manufacturer_no_space_upper_length_3: KIT
+manufacturer_no_space_upper_length_4: KITE
+manufacturer_no_space_upper_length_5: KITEP
+manufacturer_no_space_upper_length_6: KITEPA
 manufacturer_upper: KITE_PACKAGING
+manufacturer_upper_length_1: K
+manufacturer_upper_length_2: KI
+manufacturer_upper_length_3: KIT
+manufacturer_upper_length_4: KITE
+manufacturer_upper_length_5: KITE_
+manufacturer_upper_length_6: KITE_P
 manufacturers: []
 markdown_full: '[packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite](none)<br>[c](none)<br>[Packaging
   Bag Grip Seal 45 Micron Thickness Clear 88 Mm Width 114 Mm Height Kite Packaging
@@ -57,14 +215,43 @@ md5_6: 8dc1ba
 md5_6_alpha: 5j4ca
 md5_6_alpha_upper: 5J4CA
 md5_6_upper: 8DC1BA
-name: Packaging Bag Grip Seal 45 Micron Thickness Clear 88 Mm Width 114 Mm Height
+name: Packaging Bag Grip Seal 45 Micron Thickness Clear 88 mm Width 114 mm Height
   Kite Packaging Pbr3 5 X 4 5 Kite
-name_no_class: Bag Grip Seal 45 Micron Thickness Clear 88 Mm Width 114 Mm Height Kite
+name_no_class: Bag Grip Seal 45 Micron Thickness Clear 88 mm Width 114 mm Height Kite
   Pbr3 5 X 4 5 Kite
-name_no_size: Clear 88 Mm Width 114 Mm Height Kite Pbr3 5 X 4 5 Kite
+name_no_color: 88 mm Width 114 mm Height Kite Pbr3 5 X 4 5 Kite
+name_no_size: Clear 88 mm Width 114 mm Height Kite Pbr3 5 X 4 5 Kite
 name_no_size_short: Clear 88 Mm Width 114 Mm Height Kite Pbr3 5 X 4 5 Kite
-name_no_type: 45 Micron Thickness Clear 88 Mm Width 114 Mm Height Kite Pbr3 5 X 4
+name_no_type: 45 Micron Thickness Clear 88 mm Width 114 mm Height Kite Pbr3 5 X 4
   5 Kite
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: bag_grip_seal
+oomlout_detail_hierarchy_2_upper: BAG_GRIP_SEAL
+oomlout_detail_hierarchy_2_upper_length_4: BAG_
+oomlout_detail_hierarchy_3: 45_micron_thickness
+oomlout_detail_hierarchy_3_upper: 45_MICRON_THICKNESS
+oomlout_detail_hierarchy_3_upper_length_4: 45_M
+oomlout_detail_hierarchy_4: clear
+oomlout_detail_hierarchy_4_upper: CLEAR
+oomlout_detail_hierarchy_4_upper_length_4: CLEA
+oomlout_detail_hierarchy_5: 88_mm_width
+oomlout_detail_hierarchy_5_upper: 88_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 88WI
+oomlout_detail_hierarchy_6: 114_mm_height
+oomlout_detail_hierarchy_6_upper: 114_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 114H
+oomlout_detail_hierarchy_7: kite_packaging
+oomlout_detail_hierarchy_7_upper: KITE_PACKAGING
+oomlout_detail_hierarchy_7_upper_length_4: KITE
+oomlout_detail_hierarchy_8: pbr3_5_x_4
+oomlout_detail_hierarchy_8_upper: PBR3_5_X_4
+oomlout_detail_hierarchy_8_upper_length_4: PBR3
+oomlout_detail_hierarchy_9: 5_kite
+oomlout_detail_hierarchy_9_upper: 5_KITE
+oomlout_detail_hierarchy_9_upper_length_4: 5_KI
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_packaging_bag_grip_seal_45_micron_thickness_clear_88_mm_width_114_mm_height_kite_packaging_pbr3_5_x_4_5_kite
 oomp_word: scroll doughnut spaghetti
 oomp_word_emoji: ':scroll: :doughnut: :spaghetti:'
@@ -80,7 +267,36 @@ part_number: pbr3_5_x_4_5_kite
 part_number_capital: Pbr3.5 x 4.5 Kite
 part_number_first_letter: p
 part_number_first_letter_upper: P
+part_number_length_1: p
+part_number_length_2: pb
+part_number_length_3: pbr
+part_number_length_4: pbr3
+part_number_length_5: pbr3_
+part_number_length_6: pbr3_5
+part_number_name: Pbr3 5 X 4 5 Kite
+part_number_no_space_length_1: p
+part_number_no_space_length_2: pb
+part_number_no_space_length_3: pbr
+part_number_no_space_length_4: pbr3
+part_number_no_space_length_5: pbr35
+part_number_no_space_length_6: pbr35x
+part_number_no_space_upper_length_1: P
+part_number_no_space_upper_length_2: PB
+part_number_no_space_upper_length_3: PBR
+part_number_no_space_upper_length_4: PBR3
+part_number_no_space_upper_length_5: PBR35
+part_number_no_space_upper_length_6: PBR35X
 part_number_upper: PBR3_5_X_4_5_KITE
+part_number_upper_length_1: P
+part_number_upper_length_2: PB
+part_number_upper_length_3: PBR
+part_number_upper_length_4: PBR3
+part_number_upper_length_5: PBR3_
+part_number_upper_length_6: PBR3_5
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: c
 short_code_upper: C
 short_name: ''
@@ -88,13 +304,63 @@ size: 45_micron_thickness
 size_capital: 45 Micron Thickness
 size_first_letter: '4'
 size_first_letter_upper: '4'
+size_length_1: '4'
+size_length_2: '45'
+size_length_3: '45_'
+size_length_4: 45_m
+size_length_5: 45_mi
+size_length_6: 45_mic
+size_name: 45 Micron Thickness
+size_no_space_length_1: '4'
+size_no_space_length_2: '45'
+size_no_space_length_3: 45m
+size_no_space_length_4: 45mi
+size_no_space_length_5: 45mic
+size_no_space_length_6: 45micr
+size_no_space_upper_length_1: '4'
+size_no_space_upper_length_2: '45'
+size_no_space_upper_length_3: 45M
+size_no_space_upper_length_4: 45MI
+size_no_space_upper_length_5: 45MIC
+size_no_space_upper_length_6: 45MICR
 size_only_numbers: '45'
 size_only_numbers_no_zeros: '45'
 size_upper: 45_MICRON_THICKNESS
+size_upper_length_1: '4'
+size_upper_length_2: '45'
+size_upper_length_3: '45_'
+size_upper_length_4: 45_M
+size_upper_length_5: 45_MI
+size_upper_length_6: 45_MIC
 type: bag_grip_seal
 type_capital: Bag Grip Seal
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: ba
+type_length_3: bag
+type_length_4: bag_
+type_length_5: bag_g
+type_length_6: bag_gr
+type_name: Bag Grip Seal
+type_no_space_length_1: b
+type_no_space_length_2: ba
+type_no_space_length_3: bag
+type_no_space_length_4: bagg
+type_no_space_length_5: baggr
+type_no_space_length_6: baggri
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BA
+type_no_space_upper_length_3: BAG
+type_no_space_upper_length_4: BAGG
+type_no_space_upper_length_5: BAGGR
+type_no_space_upper_length_6: BAGGRI
 type_upper: BAG_GRIP_SEAL
+type_upper_length_1: B
+type_upper_length_2: BA
+type_upper_length_3: BAG
+type_upper_length_4: BAG_
+type_upper_length_5: BAG_G
+type_upper_length_6: BAG_GR
 width_internal:
 - 88 mm
