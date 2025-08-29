@@ -1,0 +1,239 @@
+bip_39_word_dash_12: aware-level-scrub-panda-cart-stage-become-marriage-tattoo-noodle-cram-allow
+bip_39_word_dash_2: aware-level
+bip_39_word_dash_3: aware-level-scrub
+bip_39_word_new_br_12: aware<br>level<br>scrub<br>panda<br>cart<br>stage<br>become<br>marriage<br>tattoo<br>noodle<br>cram<br>allow
+bip_39_word_new_br_2: aware<br>level
+bip_39_word_new_br_3: aware<br>level<br>scrub
+bip_39_word_new_line_12: 'aware
+
+  level
+
+  scrub
+
+  panda
+
+  cart
+
+  stage
+
+  become
+
+  marriage
+
+  tattoo
+
+  noodle
+
+  cram
+
+  allow'
+bip_39_word_new_line_2: 'aware
+
+  level'
+bip_39_word_new_line_3: 'aware
+
+  level
+
+  scrub'
+bip_39_word_no_space_12: awarelevelscrubpandacartstagebecomemarriagetattoonoodlecramallow
+bip_39_word_no_space_2: awarelevel
+bip_39_word_no_space_3: awarelevelscrub
+bip_39_word_space_12: aware level scrub panda cart stage become marriage tattoo noodle
+  cram allow
+bip_39_word_space_2: aware level
+bip_39_word_space_3: aware level scrub
+bip_39_word_underscore_12: aware_level_scrub_panda_cart_stage_become_marriage_tattoo_noodle_cram_allow
+bip_39_word_underscore_2: aware_level
+bip_39_word_underscore_3: aware_level_scrub
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cam
+classification_length_4: camp
+classification_length_5: campi
+classification_length_6: campin
+classification_name: Camping
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cam
+classification_no_space_length_4: camp
+classification_no_space_length_5: campi
+classification_no_space_length_6: campin
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAM
+classification_no_space_upper_length_4: CAMP
+classification_no_space_upper_length_5: CAMPI
+classification_no_space_upper_length_6: CAMPIN
+classification_upper: CAMPING
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAM
+classification_upper_length_4: CAMP
+classification_upper_length_5: CAMPI
+classification_upper_length_6: CAMPIN
+color: cup
+color_capital: Cup
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: cu
+color_length_3: cup
+color_length_4: cup
+color_length_5: cup
+color_length_6: cup
+color_name: Cup
+color_no_space_length_1: c
+color_no_space_length_2: cu
+color_no_space_length_3: cup
+color_no_space_length_4: cup
+color_no_space_length_5: cup
+color_no_space_length_6: cup
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CU
+color_no_space_upper_length_3: CUP
+color_no_space_upper_length_4: CUP
+color_no_space_upper_length_5: CUP
+color_no_space_upper_length_6: CUP
+color_upper: CUP
+color_upper_length_1: C
+color_upper_length_2: CU
+color_upper_length_3: CUP
+color_upper_length_4: CUP
+color_upper_length_5: CUP
+color_upper_length_6: CUP
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/camping_kitchen_cup
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camping_kitchen_cup
+id: camping_kitchen_cup
+id_no_class: kitchen_cup
+id_no_color: cup
+id_no_size: cup
+id_no_type: cup
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cup
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cup
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cup
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cup
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045g11
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045g11
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2045g11
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045g11
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cup
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_cup](none)<br>[](none)<br>[Camping Kitchen Cup](none)<br><br>'
+markdown_short: '[camping_kitchen_cup](none)<br><br>'
+md5: 6a646586f288427f509189f783a02882
+md5_10: 6a646586f2
+md5_10_upper: 6A646586F2
+md5_5: 6a646
+md5_5_upper: 6A646
+md5_6: 6a6465
+md5_6_alpha: 45g11
+md5_6_alpha_upper: 45G11
+md5_6_upper: 6A6465
+name: Camping Kitchen Cup
+name_no_class: Kitchen Cup
+name_no_color: Cup
+name_no_size: Cup
+name_no_size_short: Cup
+name_no_type: Cup
+oomlout_detail_hierarchy_1: camping
+oomlout_detail_hierarchy_1_upper: CAMPING
+oomlout_detail_hierarchy_1_upper_length_4: CAMP
+oomlout_detail_hierarchy_2: kitchen
+oomlout_detail_hierarchy_2_upper: KITCHEN
+oomlout_detail_hierarchy_2_upper_length_4: KITC
+oomlout_detail_hierarchy_3: cup
+oomlout_detail_hierarchy_3_upper: CUP
+oomlout_detail_hierarchy_3_upper_length_4: CUP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_camping_kitchen_cup
+oomp_word: palm_tree sunflower maple_leaf
+oomp_word_emoji: ':palm_tree: :sunflower: :maple_leaf:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':sunflower:'
+- ':maple_leaf:'
+oomp_word_list:
+- palm_tree
+- sunflower
+- maple_leaf
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_length_1: k
+type_length_2: ki
+type_length_3: kit
+type_length_4: kitc
+type_length_5: kitch
+type_length_6: kitche
+type_name: Kitchen
+type_no_space_length_1: k
+type_no_space_length_2: ki
+type_no_space_length_3: kit
+type_no_space_length_4: kitc
+type_no_space_length_5: kitch
+type_no_space_length_6: kitche
+type_no_space_upper_length_1: K
+type_no_space_upper_length_2: KI
+type_no_space_upper_length_3: KIT
+type_no_space_upper_length_4: KITC
+type_no_space_upper_length_5: KITCH
+type_no_space_upper_length_6: KITCHE
+type_upper: KITCHEN
+type_upper_length_1: K
+type_upper_length_2: KI
+type_upper_length_3: KIT
+type_upper_length_4: KITC
+type_upper_length_5: KITCH
+type_upper_length_6: KITCHE

@@ -1,0 +1,292 @@
+bip_39_word_dash_12: doctor-birth-trend-ketchup-lady-harbor-night-smile-pull-first-group-attend
+bip_39_word_dash_2: doctor-birth
+bip_39_word_dash_3: doctor-birth-trend
+bip_39_word_new_br_12: doctor<br>birth<br>trend<br>ketchup<br>lady<br>harbor<br>night<br>smile<br>pull<br>first<br>group<br>attend
+bip_39_word_new_br_2: doctor<br>birth
+bip_39_word_new_br_3: doctor<br>birth<br>trend
+bip_39_word_new_line_12: 'doctor
+
+  birth
+
+  trend
+
+  ketchup
+
+  lady
+
+  harbor
+
+  night
+
+  smile
+
+  pull
+
+  first
+
+  group
+
+  attend'
+bip_39_word_new_line_2: 'doctor
+
+  birth'
+bip_39_word_new_line_3: 'doctor
+
+  birth
+
+  trend'
+bip_39_word_no_space_12: doctorbirthtrendketchupladyharbornightsmilepullfirstgroupattend
+bip_39_word_no_space_2: doctorbirth
+bip_39_word_no_space_3: doctorbirthtrend
+bip_39_word_space_12: doctor birth trend ketchup lady harbor night smile pull first
+  group attend
+bip_39_word_space_2: doctor birth
+bip_39_word_space_3: doctor birth trend
+bip_39_word_underscore_12: doctor_birth_trend_ketchup_lady_harbor_night_smile_pull_first_group_attend
+bip_39_word_underscore_2: doctor_birth
+bip_39_word_underscore_3: doctor_birth_trend
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
+classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: yellow_bottle_70_ml
+description_main_capital: Yellow Bottle 70 Ml
+description_main_first_letter: y
+description_main_first_letter_upper: Y
+description_main_length_1: y
+description_main_length_2: ye
+description_main_length_3: yel
+description_main_length_4: yell
+description_main_length_5: yello
+description_main_length_6: yellow
+description_main_name: Yellow Bottle 70 Ml
+description_main_no_space_length_1: y
+description_main_no_space_length_2: ye
+description_main_no_space_length_3: yel
+description_main_no_space_length_4: yell
+description_main_no_space_length_5: yello
+description_main_no_space_length_6: yellow
+description_main_no_space_upper_length_1: Y
+description_main_no_space_upper_length_2: YE
+description_main_no_space_upper_length_3: YEL
+description_main_no_space_upper_length_4: YELL
+description_main_no_space_upper_length_5: YELLO
+description_main_no_space_upper_length_6: YELLOW
+description_main_upper: YELLOW_BOTTLE_70_ML
+description_main_upper_length_1: Y
+description_main_upper_length_2: YE
+description_main_upper_length_3: YEL
+description_main_upper_length_4: YELL
+description_main_upper_length_5: YELLO
+description_main_upper_length_6: YELLOW
+description_only_numbers: '70'
+description_only_numbers_short: '70'
+description_or_color: '70'
+description_or_color_upper: '70'
+directory: parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+id: printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+id_no_class: ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+id_no_color: yellowbottle70mlocbestjet
+id_no_size: yellow_bottle_70_ml_ocbestjet
+id_no_type: ecosolvent_yellow_bottle_70_ml_ocbestjet
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20930et
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20930et
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20930et
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20930et
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+manufacturer: ocbestjet
+manufacturer_capital: Ocbestjet
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_length_1: o
+manufacturer_length_2: oc
+manufacturer_length_3: ocb
+manufacturer_length_4: ocbe
+manufacturer_length_5: ocbes
+manufacturer_length_6: ocbest
+manufacturer_name: Ocbestjet
+manufacturer_no_space_length_1: o
+manufacturer_no_space_length_2: oc
+manufacturer_no_space_length_3: ocb
+manufacturer_no_space_length_4: ocbe
+manufacturer_no_space_length_5: ocbes
+manufacturer_no_space_length_6: ocbest
+manufacturer_no_space_upper_length_1: O
+manufacturer_no_space_upper_length_2: OC
+manufacturer_no_space_upper_length_3: OCB
+manufacturer_no_space_upper_length_4: OCBE
+manufacturer_no_space_upper_length_5: OCBES
+manufacturer_no_space_upper_length_6: OCBEST
+manufacturer_upper: OCBESTJET
+manufacturer_upper_length_1: O
+manufacturer_upper_length_2: OC
+manufacturer_upper_length_3: OCB
+manufacturer_upper_length_4: OCBE
+manufacturer_upper_length_5: OCBES
+manufacturer_upper_length_6: OCBEST
+manufacturers: []
+markdown_full: '[printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet](none)<br>[](none)<br>[Printer
+  Ink Ecosolvent Yellow Bottle 70 Ml Ocbestjet](none)<br><br>'
+markdown_short: '[printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet](none)<br><br>'
+md5: e8cdd5dd6accb2b1a43e479fd005aa02
+md5_10: e8cdd5dd6a
+md5_10_upper: E8CDD5DD6A
+md5_5: e8cdd
+md5_5_upper: E8CDD
+md5_6: e8cdd5
+md5_6_alpha: 930et
+md5_6_alpha_upper: 930ET
+md5_6_upper: E8CDD5
+name: Printer Ink Ecosolvent Yellow Bottle 70 Ml Ocbestjet
+name_no_class: Ink Ecosolvent Yellow Bottle 70 Ml Ocbestjet
+name_no_color: Yellowbottle70Mlocbestjet
+name_no_size: Yellow Bottle 70 Ml Ocbestjet
+name_no_size_short: Yellow Bottle 70 Ml Ocbestjet
+name_no_type: Ecosolvent Yellow Bottle 70 Ml Ocbestjet
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: ink
+oomlout_detail_hierarchy_2_upper: INK
+oomlout_detail_hierarchy_2_upper_length_4: INK
+oomlout_detail_hierarchy_3: ecosolvent
+oomlout_detail_hierarchy_3_upper: ECOSOLVENT
+oomlout_detail_hierarchy_3_upper_length_4: ECOS
+oomlout_detail_hierarchy_4: yellow_bottle_70_ml
+oomlout_detail_hierarchy_4_upper: YELLOW_BOTTLE_70_ML
+oomlout_detail_hierarchy_4_upper_length_4: YELL
+oomlout_detail_hierarchy_5: ocbestjet
+oomlout_detail_hierarchy_5_upper: OCBESTJET
+oomlout_detail_hierarchy_5_upper_length_4: OCBE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_printer_ink_ecosolvent_yellow_bottle_70_ml_ocbestjet
+oomp_word: tram strawberry house
+oomp_word_emoji: ':tram: :strawberry: :house:'
+oomp_word_emoji_list:
+- ':tram:'
+- ':strawberry:'
+- ':house:'
+oomp_word_list:
+- tram
+- strawberry
+- house
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ecosolvent
+size_capital: Ecosolvent
+size_first_letter: e
+size_first_letter_upper: E
+size_length_1: e
+size_length_2: ec
+size_length_3: eco
+size_length_4: ecos
+size_length_5: ecoso
+size_length_6: ecosol
+size_name: Ecosolvent
+size_no_space_length_1: e
+size_no_space_length_2: ec
+size_no_space_length_3: eco
+size_no_space_length_4: ecos
+size_no_space_length_5: ecoso
+size_no_space_length_6: ecosol
+size_no_space_upper_length_1: E
+size_no_space_upper_length_2: EC
+size_no_space_upper_length_3: ECO
+size_no_space_upper_length_4: ECOS
+size_no_space_upper_length_5: ECOSO
+size_no_space_upper_length_6: ECOSOL
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ECOSOLVENT
+size_upper_length_1: E
+size_upper_length_2: EC
+size_upper_length_3: ECO
+size_upper_length_4: ECOS
+size_upper_length_5: ECOSO
+size_upper_length_6: ECOSOL
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: ink
+type_length_5: ink
+type_length_6: ink
+type_name: Ink
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: ink
+type_no_space_length_5: ink
+type_no_space_length_6: ink
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INK
+type_no_space_upper_length_5: INK
+type_no_space_upper_length_6: INK
+type_upper: INK
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INK
+type_upper_length_5: INK
+type_upper_length_6: INK
