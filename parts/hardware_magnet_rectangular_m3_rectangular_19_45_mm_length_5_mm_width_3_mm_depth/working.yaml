@@ -1,0 +1,304 @@
+bip_39_word_dash_12: scorpion-welcome-cousin-sport-tornado-clap-half-example-margin-marble-monster-alter
+bip_39_word_dash_2: scorpion-welcome
+bip_39_word_dash_3: scorpion-welcome-cousin
+bip_39_word_new_br_12: scorpion<br>welcome<br>cousin<br>sport<br>tornado<br>clap<br>half<br>example<br>margin<br>marble<br>monster<br>alter
+bip_39_word_new_br_2: scorpion<br>welcome
+bip_39_word_new_br_3: scorpion<br>welcome<br>cousin
+bip_39_word_new_line_12: 'scorpion
+
+  welcome
+
+  cousin
+
+  sport
+
+  tornado
+
+  clap
+
+  half
+
+  example
+
+  margin
+
+  marble
+
+  monster
+
+  alter'
+bip_39_word_new_line_2: 'scorpion
+
+  welcome'
+bip_39_word_new_line_3: 'scorpion
+
+  welcome
+
+  cousin'
+bip_39_word_no_space_12: scorpionwelcomecousinsporttornadoclaphalfexamplemarginmarblemonsteralter
+bip_39_word_no_space_2: scorpionwelcome
+bip_39_word_no_space_3: scorpionwelcomecousin
+bip_39_word_space_12: scorpion welcome cousin sport tornado clap half example margin
+  marble monster alter
+bip_39_word_space_2: scorpion welcome
+bip_39_word_space_3: scorpion welcome cousin
+bip_39_word_underscore_12: scorpion_welcome_cousin_sport_tornado_clap_half_example_margin_marble_monster_alter
+bip_39_word_underscore_2: scorpion_welcome
+bip_39_word_underscore_3: scorpion_welcome_cousin
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: m3_rectangular
+color_capital: M3 Rectangular
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: m3
+color_length_3: m3_
+color_length_4: m3_r
+color_length_5: m3_re
+color_length_6: m3_rec
+color_name: M3 Rectangular
+color_no_space_length_1: m
+color_no_space_length_2: m3
+color_no_space_length_3: m3r
+color_no_space_length_4: m3re
+color_no_space_length_5: m3rec
+color_no_space_length_6: m3rect
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: M3
+color_no_space_upper_length_3: M3R
+color_no_space_upper_length_4: M3RE
+color_no_space_upper_length_5: M3REC
+color_no_space_upper_length_6: M3RECT
+color_upper: M3_RECTANGULAR
+color_upper_length_1: M
+color_upper_length_2: M3
+color_upper_length_3: M3_
+color_upper_length_4: M3_R
+color_upper_length_5: M3_RE
+color_upper_length_6: M3_REC
+depth: 3
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 19_45_mm_length_5_mm_width_3_mm_depth
+description_main_capital: 19.45 mm Length 5 mm Width 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '19'
+description_main_length_3: '19_'
+description_main_length_4: '19_4'
+description_main_length_5: '19_45'
+description_main_length_6: '19_45_'
+description_main_name: 19 45 mm Length 5 mm Width 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '19'
+description_main_no_space_length_3: '194'
+description_main_no_space_length_4: '1945'
+description_main_no_space_length_5: 1945m
+description_main_no_space_length_6: 1945mm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '19'
+description_main_no_space_upper_length_3: '194'
+description_main_no_space_upper_length_4: '1945'
+description_main_no_space_upper_length_5: 1945M
+description_main_no_space_upper_length_6: 1945MM
+description_main_upper: 19_45_MM_LENGTH_5_MM_WIDTH_3_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '19'
+description_main_upper_length_3: '19_'
+description_main_upper_length_4: '19_4'
+description_main_upper_length_5: '19_45'
+description_main_upper_length_6: '19_45_'
+description_only_numbers: '194553'
+description_only_numbers_short: 195k
+description_or_color: M195k
+description_or_color_upper: M195K
+directory: parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+id: hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+id_no_class: magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+id_no_color: m3_19_45_mm_length_5_mm_width_3_mm_depth
+id_no_size: m3_19_45_mm_length_5_mm_width_3_mm_depth
+id_no_type: rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+length: 19.45
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204nbmp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204nbmp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204nbmp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204nbmp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth](none)<br>[](none)<br>[Hardware
+  Magnet Rectangular M3 Rectangular 19 45 Mm Length 5 Mm Width 3 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth](none)<br><br>'
+md5: 771ea1ec3f4e6d0ca772bd2a62fe5609
+md5_10: 771ea1ec3f
+md5_10_upper: 771EA1EC3F
+md5_5: 771ea
+md5_5_upper: 771EA
+md5_6: 771ea1
+md5_6_alpha: 4nbmp
+md5_6_alpha_upper: 4NBMP
+md5_6_upper: 771EA1
+name: Hardware Magnet Rectangular M3 Rectangular 19 45 mm Length 5 mm Width 3 mm Depth
+name_no_class: Magnet Rectangular M3 Rectangular 19 45 mm Length 5 mm Width 3 mm Depth
+name_no_color: M3 19 45 mm Length 5 mm Width 3 mm Depth
+name_no_size: M3 19 45 mm Length 5 mm Width 3 mm Depth
+name_no_size_short: M3 19 45 Mm Length 5 Mm Width 3 Mm Depth
+name_no_type: Rectangular M3 Rectangular 19 45 mm Length 5 mm Width 3 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: magnet
+oomlout_detail_hierarchy_2_upper: MAGNET
+oomlout_detail_hierarchy_2_upper_length_4: MAGN
+oomlout_detail_hierarchy_3: rectangular
+oomlout_detail_hierarchy_3_upper: RECTANGULAR
+oomlout_detail_hierarchy_3_upper_length_4: RECT
+oomlout_detail_hierarchy_4: m3_rectangular
+oomlout_detail_hierarchy_4_upper: M3_RECTANGULAR
+oomlout_detail_hierarchy_4_upper_length_4: M3_R
+oomlout_detail_hierarchy_5: 5_mm_width
+oomlout_detail_hierarchy_5_upper: 5_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 5WID
+oomlout_detail_hierarchy_6: 45_mm_length
+oomlout_detail_hierarchy_6_upper: 45_MM_LENGTH
+oomlout_detail_hierarchy_6_upper_length_4: 45LE
+oomlout_detail_hierarchy_7: 3_mm_depth
+oomlout_detail_hierarchy_7_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_7_upper_length_4: 3DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_magnet_rectangular_m3_rectangular_19_45_mm_length_5_mm_width_3_mm_depth
+oomp_word: gift angel trophy
+oomp_word_emoji: ':gift: :angel: :trophy:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':angel:'
+- ':trophy:'
+oomp_word_list:
+- gift
+- angel
+- trophy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: rectangular
+size_capital: Rectangular
+size_first_letter: r
+size_first_letter_upper: R
+size_length_1: r
+size_length_2: re
+size_length_3: rec
+size_length_4: rect
+size_length_5: recta
+size_length_6: rectan
+size_name: Rectangular
+size_no_space_length_1: r
+size_no_space_length_2: re
+size_no_space_length_3: rec
+size_no_space_length_4: rect
+size_no_space_length_5: recta
+size_no_space_length_6: rectan
+size_no_space_upper_length_1: R
+size_no_space_upper_length_2: RE
+size_no_space_upper_length_3: REC
+size_no_space_upper_length_4: RECT
+size_no_space_upper_length_5: RECTA
+size_no_space_upper_length_6: RECTAN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RECTANGULAR
+size_upper_length_1: R
+size_upper_length_2: RE
+size_upper_length_3: REC
+size_upper_length_4: RECT
+size_upper_length_5: RECTA
+size_upper_length_6: RECTAN
+thickness: 3
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: ma
+type_length_3: mag
+type_length_4: magn
+type_length_5: magne
+type_length_6: magnet
+type_name: Magnet
+type_no_space_length_1: m
+type_no_space_length_2: ma
+type_no_space_length_3: mag
+type_no_space_length_4: magn
+type_no_space_length_5: magne
+type_no_space_length_6: magnet
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: MA
+type_no_space_upper_length_3: MAG
+type_no_space_upper_length_4: MAGN
+type_no_space_upper_length_5: MAGNE
+type_no_space_upper_length_6: MAGNET
+type_upper: MAGNET
+type_upper_length_1: M
+type_upper_length_2: MA
+type_upper_length_3: MAG
+type_upper_length_4: MAGN
+type_upper_length_5: MAGNE
+type_upper_length_6: MAGNET
+width: 5

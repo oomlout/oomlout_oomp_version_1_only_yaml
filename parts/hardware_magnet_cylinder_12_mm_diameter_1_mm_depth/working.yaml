@@ -1,0 +1,270 @@
+bip_39_word_dash_12: save-love-wage-pupil-pole-hotel-vault-lock-fever-author-symbol-access
+bip_39_word_dash_2: save-love
+bip_39_word_dash_3: save-love-wage
+bip_39_word_new_br_12: save<br>love<br>wage<br>pupil<br>pole<br>hotel<br>vault<br>lock<br>fever<br>author<br>symbol<br>access
+bip_39_word_new_br_2: save<br>love
+bip_39_word_new_br_3: save<br>love<br>wage
+bip_39_word_new_line_12: 'save
+
+  love
+
+  wage
+
+  pupil
+
+  pole
+
+  hotel
+
+  vault
+
+  lock
+
+  fever
+
+  author
+
+  symbol
+
+  access'
+bip_39_word_new_line_2: 'save
+
+  love'
+bip_39_word_new_line_3: 'save
+
+  love
+
+  wage'
+bip_39_word_no_space_12: savelovewagepupilpolehotelvaultlockfeverauthorsymbolaccess
+bip_39_word_no_space_2: savelove
+bip_39_word_no_space_3: savelovewage
+bip_39_word_space_12: save love wage pupil pole hotel vault lock fever author symbol
+  access
+bip_39_word_space_2: save love
+bip_39_word_space_3: save love wage
+bip_39_word_underscore_12: save_love_wage_pupil_pole_hotel_vault_lock_fever_author_symbol_access
+bip_39_word_underscore_2: save_love
+bip_39_word_underscore_3: save_love_wage
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+depth: 1
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 12_mm_diameter_1_mm_depth
+description_main_capital: 12 mm Diameter 1 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_m
+description_main_length_5: 12_mm
+description_main_length_6: 12_mm_
+description_main_name: 12 mm Diameter 1 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12m
+description_main_no_space_length_4: 12mm
+description_main_no_space_length_5: 12mmd
+description_main_no_space_length_6: 12mmdi
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12M
+description_main_no_space_upper_length_4: 12MM
+description_main_no_space_upper_length_5: 12MMD
+description_main_no_space_upper_length_6: 12MMDI
+description_main_upper: 12_MM_DIAMETER_1_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_M
+description_main_upper_length_5: 12_MM
+description_main_upper_length_6: 12_MM_
+description_only_numbers: '121'
+description_only_numbers_short: '121'
+description_or_color: '121'
+description_or_color_upper: '121'
+diameter: 12
+directory: parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+id: hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+id_no_class: magnet_cylinder_12_mm_diameter_1_mm_depth
+id_no_color: 12mmdiameter1mmdepth
+id_no_size: 12_mm_diameter_1_mm_depth
+id_no_type: cylinder_12_mm_diameter_1_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20uif7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20uif7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20uif7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20uif7
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_cylinder_12_mm_diameter_1_mm_depth](none)<br>[](none)<br>[Hardware
+  Magnet Cylinder 12 Mm Diameter 1 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_cylinder_12_mm_diameter_1_mm_depth](none)<br><br>'
+md5: 15b8c3daab837e39b8d3cadfec611dfe
+md5_10: 15b8c3daab
+md5_10_upper: 15B8C3DAAB
+md5_5: 15b8c
+md5_5_upper: 15B8C
+md5_6: 15b8c3
+md5_6_alpha: uif7
+md5_6_alpha_upper: UIF7
+md5_6_upper: 15B8C3
+name: Hardware Magnet Cylinder 12 mm Diameter 1 mm Depth
+name_no_class: Magnet Cylinder 12 mm Diameter 1 mm Depth
+name_no_color: 12mmdiameter1mmdepth
+name_no_size: 12 mm Diameter 1 mm Depth
+name_no_size_short: 12 Mm Diameter 1 Mm Depth
+name_no_type: Cylinder 12 mm Diameter 1 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: magnet
+oomlout_detail_hierarchy_2_upper: MAGNET
+oomlout_detail_hierarchy_2_upper_length_4: MAGN
+oomlout_detail_hierarchy_3: cylinder
+oomlout_detail_hierarchy_3_upper: CYLINDER
+oomlout_detail_hierarchy_3_upper_length_4: CYLI
+oomlout_detail_hierarchy_4: 1_mm_depth
+oomlout_detail_hierarchy_4_upper: 1_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 1DEP
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_magnet_cylinder_12_mm_diameter_1_mm_depth
+oomp_word: poop hamburger cake
+oomp_word_emoji: ':poop: :hamburger: :cake:'
+oomp_word_emoji_list:
+- ':poop:'
+- ':hamburger:'
+- ':cake:'
+oomp_word_list:
+- poop
+- hamburger
+- cake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: cylinder
+size_capital: Cylinder
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: cy
+size_length_3: cyl
+size_length_4: cyli
+size_length_5: cylin
+size_length_6: cylind
+size_name: Cylinder
+size_no_space_length_1: c
+size_no_space_length_2: cy
+size_no_space_length_3: cyl
+size_no_space_length_4: cyli
+size_no_space_length_5: cylin
+size_no_space_length_6: cylind
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CY
+size_no_space_upper_length_3: CYL
+size_no_space_upper_length_4: CYLI
+size_no_space_upper_length_5: CYLIN
+size_no_space_upper_length_6: CYLIND
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CYLINDER
+size_upper_length_1: C
+size_upper_length_2: CY
+size_upper_length_3: CYL
+size_upper_length_4: CYLI
+size_upper_length_5: CYLIN
+size_upper_length_6: CYLIND
+thickness: 1
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: ma
+type_length_3: mag
+type_length_4: magn
+type_length_5: magne
+type_length_6: magnet
+type_name: Magnet
+type_no_space_length_1: m
+type_no_space_length_2: ma
+type_no_space_length_3: mag
+type_no_space_length_4: magn
+type_no_space_length_5: magne
+type_no_space_length_6: magnet
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: MA
+type_no_space_upper_length_3: MAG
+type_no_space_upper_length_4: MAGN
+type_no_space_upper_length_5: MAGNE
+type_no_space_upper_length_6: MAGNET
+type_upper: MAGNET
+type_upper_length_1: M
+type_upper_length_2: MA
+type_upper_length_3: MAG
+type_upper_length_4: MAGN
+type_upper_length_5: MAGNE
+type_upper_length_6: MAGNET
