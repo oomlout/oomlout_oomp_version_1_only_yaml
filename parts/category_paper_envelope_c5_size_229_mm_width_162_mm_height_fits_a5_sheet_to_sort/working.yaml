@@ -1,0 +1,302 @@
+bip_39_word_dash_12: six-lawsuit-brass-worry-replace-verify-supreme-oak-forward-absurd-nation-art
+bip_39_word_dash_2: six-lawsuit
+bip_39_word_dash_3: six-lawsuit-brass
+bip_39_word_new_br_12: six<br>lawsuit<br>brass<br>worry<br>replace<br>verify<br>supreme<br>oak<br>forward<br>absurd<br>nation<br>art
+bip_39_word_new_br_2: six<br>lawsuit
+bip_39_word_new_br_3: six<br>lawsuit<br>brass
+bip_39_word_new_line_12: 'six
+
+  lawsuit
+
+  brass
+
+  worry
+
+  replace
+
+  verify
+
+  supreme
+
+  oak
+
+  forward
+
+  absurd
+
+  nation
+
+  art'
+bip_39_word_new_line_2: 'six
+
+  lawsuit'
+bip_39_word_new_line_3: 'six
+
+  lawsuit
+
+  brass'
+bip_39_word_no_space_12: sixlawsuitbrassworryreplaceverifysupremeoakforwardabsurdnationart
+bip_39_word_no_space_2: sixlawsuit
+bip_39_word_no_space_3: sixlawsuitbrass
+bip_39_word_space_12: six lawsuit brass worry replace verify supreme oak forward absurd
+  nation art
+bip_39_word_space_2: six lawsuit
+bip_39_word_space_3: six lawsuit brass
+bip_39_word_underscore_12: six_lawsuit_brass_worry_replace_verify_supreme_oak_forward_absurd_nation_art
+bip_39_word_underscore_2: six_lawsuit
+bip_39_word_underscore_3: six_lawsuit_brass
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+color_capital: C5 Size 229 mm Width 162 mm Height Fits A5 Sheet
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: c5
+color_length_3: c5_
+color_length_4: c5_s
+color_length_5: c5_si
+color_length_6: c5_siz
+color_name: C5 Size 229 mm Width 162 mm Height Fits A5 Sheet
+color_no_space_length_1: c
+color_no_space_length_2: c5
+color_no_space_length_3: c5s
+color_no_space_length_4: c5si
+color_no_space_length_5: c5siz
+color_no_space_length_6: c5size
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: C5
+color_no_space_upper_length_3: C5S
+color_no_space_upper_length_4: C5SI
+color_no_space_upper_length_5: C5SIZ
+color_no_space_upper_length_6: C5SIZE
+color_upper: C5_SIZE_229_MM_WIDTH_162_MM_HEIGHT_FITS_A5_SHEET
+color_upper_length_1: C
+color_upper_length_2: C5
+color_upper_length_3: C5_
+color_upper_length_4: C5_S
+color_upper_length_5: C5_SI
+color_upper_length_6: C5_SIZ
+description: category_paper
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
+description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+id: category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+id_no_class: paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+id_no_color: to_sort
+id_no_size: c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+id_no_type: envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208060w
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208060w
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208060w
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208060w
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort](none)<br>[](none)<br>[Category
+  Paper Envelope C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet To Sort](none)<br><br>'
+markdown_short: '[category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort](none)<br><br>'
+md5: cd268042de97db3fcadb6fdc365f8e4e
+md5_10: cd268042de
+md5_10_upper: CD268042DE
+md5_5: cd268
+md5_5_upper: CD268
+md5_6: cd2680
+md5_6_alpha: 8060w
+md5_6_alpha_upper: 8060W
+md5_6_upper: CD2680
+name: Category Paper Envelope C5 Size 229 mm Width 162 mm Height Fits A5 Sheet To
+  Sort
+name_no_class: Paper Envelope C5 Size 229 mm Width 162 mm Height Fits A5 Sheet To
+  Sort
+name_no_color: To Sort
+name_no_size: C5 Size 229 mm Width 162 mm Height Fits A5 Sheet To Sort
+name_no_size_short: C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet To Sort
+name_no_type: Envelope C5 Size 229 mm Width 162 mm Height Fits A5 Sheet To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: paper
+oomlout_detail_hierarchy_2_upper: PAPER
+oomlout_detail_hierarchy_2_upper_length_4: PAPE
+oomlout_detail_hierarchy_3: envelope
+oomlout_detail_hierarchy_3_upper: ENVELOPE
+oomlout_detail_hierarchy_3_upper_length_4: ENVE
+oomlout_detail_hierarchy_4: 229_mm_width
+oomlout_detail_hierarchy_4_upper: 229_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 229W
+oomlout_detail_hierarchy_5: 162_mm_height
+oomlout_detail_hierarchy_5_upper: 162_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 162H
+oomlout_detail_hierarchy_6: to_sort
+oomlout_detail_hierarchy_6_upper: TO_SORT
+oomlout_detail_hierarchy_6_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet_to_sort
+oomp_word: strawberry eyes hourglass
+oomp_word_emoji: ':strawberry: :eyes: :hourglass:'
+oomp_word_emoji_list:
+- ':strawberry:'
+- ':eyes:'
+- ':hourglass:'
+oomp_word_list:
+- strawberry
+- eyes
+- hourglass
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: envelope
+size_capital: Envelope
+size_first_letter: e
+size_first_letter_upper: E
+size_length_1: e
+size_length_2: en
+size_length_3: env
+size_length_4: enve
+size_length_5: envel
+size_length_6: envelo
+size_name: Envelope
+size_no_space_length_1: e
+size_no_space_length_2: en
+size_no_space_length_3: env
+size_no_space_length_4: enve
+size_no_space_length_5: envel
+size_no_space_length_6: envelo
+size_no_space_upper_length_1: E
+size_no_space_upper_length_2: EN
+size_no_space_upper_length_3: ENV
+size_no_space_upper_length_4: ENVE
+size_no_space_upper_length_5: ENVEL
+size_no_space_upper_length_6: ENVELO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ENVELOPE
+size_upper_length_1: E
+size_upper_length_2: EN
+size_upper_length_3: ENV
+size_upper_length_4: ENVE
+size_upper_length_5: ENVEL
+size_upper_length_6: ENVELO
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pap
+type_length_4: pape
+type_length_5: paper
+type_length_6: paper
+type_name: Paper
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pap
+type_no_space_length_4: pape
+type_no_space_length_5: paper
+type_no_space_length_6: paper
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAP
+type_no_space_upper_length_4: PAPE
+type_no_space_upper_length_5: PAPER
+type_no_space_upper_length_6: PAPER
+type_upper: PAPER
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAP
+type_upper_length_4: PAPE
+type_upper_length_5: PAPER
+type_upper_length_6: PAPER

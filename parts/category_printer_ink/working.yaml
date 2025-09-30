@@ -1,0 +1,242 @@
+bip_39_word_dash_12: brain-recall-minute-ankle-elevator-refuse-collect-flag-recall-isolate-sword-aerobic
+bip_39_word_dash_2: brain-recall
+bip_39_word_dash_3: brain-recall-minute
+bip_39_word_new_br_12: brain<br>recall<br>minute<br>ankle<br>elevator<br>refuse<br>collect<br>flag<br>recall<br>isolate<br>sword<br>aerobic
+bip_39_word_new_br_2: brain<br>recall
+bip_39_word_new_br_3: brain<br>recall<br>minute
+bip_39_word_new_line_12: 'brain
+
+  recall
+
+  minute
+
+  ankle
+
+  elevator
+
+  refuse
+
+  collect
+
+  flag
+
+  recall
+
+  isolate
+
+  sword
+
+  aerobic'
+bip_39_word_new_line_2: 'brain
+
+  recall'
+bip_39_word_new_line_3: 'brain
+
+  recall
+
+  minute'
+bip_39_word_no_space_12: brainrecallminuteankleelevatorrefusecollectflagrecallisolateswordaerobic
+bip_39_word_no_space_2: brainrecall
+bip_39_word_no_space_3: brainrecallminute
+bip_39_word_space_12: brain recall minute ankle elevator refuse collect flag recall
+  isolate sword aerobic
+bip_39_word_space_2: brain recall
+bip_39_word_space_3: brain recall minute
+bip_39_word_underscore_12: brain_recall_minute_ankle_elevator_refuse_collect_flag_recall_isolate_sword_aerobic
+bip_39_word_underscore_2: brain_recall
+bip_39_word_underscore_3: brain_recall_minute
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_printer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_printer_ink
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_printer_ink
+id: category_printer_ink
+id_no_class: printer_ink
+id_no_color: ink
+id_no_size: ink
+id_no_type: ink
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202n4il
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202n4il
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202n4il
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202n4il
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink](none)<br>[](none)<br>[Category Printer Ink](none)<br><br>'
+markdown_short: '[category_printer_ink](none)<br><br>'
+md5: 43b89da59b5825b2d1a3f0931aacd8d7
+md5_10: 43b89da59b
+md5_10_upper: 43B89DA59B
+md5_5: 43b89
+md5_5_upper: 43B89
+md5_6: 43b89d
+md5_6_alpha: 2n4il
+md5_6_alpha_upper: 2N4IL
+md5_6_upper: 43B89D
+name: Category Printer Ink
+name_no_class: Printer Ink
+name_no_color: Ink
+name_no_size: Ink
+name_no_size_short: Ink
+name_no_type: Ink
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: printer
+oomlout_detail_hierarchy_2_upper: PRINTER
+oomlout_detail_hierarchy_2_upper_length_4: PRIN
+oomlout_detail_hierarchy_3: ink
+oomlout_detail_hierarchy_3_upper: INK
+oomlout_detail_hierarchy_3_upper_length_4: INK
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_printer_ink
+oomp_word: elephant hamburger hearts
+oomp_word_emoji: ':elephant: :hamburger: :hearts:'
+oomp_word_emoji_list:
+- ':elephant:'
+- ':hamburger:'
+- ':hearts:'
+oomp_word_list:
+- elephant
+- hamburger
+- hearts
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_length_1: i
+size_length_2: in
+size_length_3: ink
+size_length_4: ink
+size_length_5: ink
+size_length_6: ink
+size_name: Ink
+size_no_space_length_1: i
+size_no_space_length_2: in
+size_no_space_length_3: ink
+size_no_space_length_4: ink
+size_no_space_length_5: ink
+size_no_space_length_6: ink
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IN
+size_no_space_upper_length_3: INK
+size_no_space_upper_length_4: INK
+size_no_space_upper_length_5: INK
+size_no_space_upper_length_6: INK
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+size_upper_length_1: I
+size_upper_length_2: IN
+size_upper_length_3: INK
+size_upper_length_4: INK
+size_upper_length_5: INK
+size_upper_length_6: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pr
+type_length_3: pri
+type_length_4: prin
+type_length_5: print
+type_length_6: printe
+type_name: Printer
+type_no_space_length_1: p
+type_no_space_length_2: pr
+type_no_space_length_3: pri
+type_no_space_length_4: prin
+type_no_space_length_5: print
+type_no_space_length_6: printe
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PR
+type_no_space_upper_length_3: PRI
+type_no_space_upper_length_4: PRIN
+type_no_space_upper_length_5: PRINT
+type_no_space_upper_length_6: PRINTE
+type_upper: PRINTER
+type_upper_length_1: P
+type_upper_length_2: PR
+type_upper_length_3: PRI
+type_upper_length_4: PRIN
+type_upper_length_5: PRINT
+type_upper_length_6: PRINTE

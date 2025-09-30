@@ -1,0 +1,270 @@
+bip_39_word_dash_12: refuse-engage-sing-clutch-salute-worth-toe-noodle-monkey-verify-love-almost
+bip_39_word_dash_2: refuse-engage
+bip_39_word_dash_3: refuse-engage-sing
+bip_39_word_new_br_12: refuse<br>engage<br>sing<br>clutch<br>salute<br>worth<br>toe<br>noodle<br>monkey<br>verify<br>love<br>almost
+bip_39_word_new_br_2: refuse<br>engage
+bip_39_word_new_br_3: refuse<br>engage<br>sing
+bip_39_word_new_line_12: 'refuse
+
+  engage
+
+  sing
+
+  clutch
+
+  salute
+
+  worth
+
+  toe
+
+  noodle
+
+  monkey
+
+  verify
+
+  love
+
+  almost'
+bip_39_word_new_line_2: 'refuse
+
+  engage'
+bip_39_word_new_line_3: 'refuse
+
+  engage
+
+  sing'
+bip_39_word_no_space_12: refuseengagesingclutchsaluteworthtoenoodlemonkeyverifylovealmost
+bip_39_word_no_space_2: refuseengage
+bip_39_word_no_space_3: refuseengagesing
+bip_39_word_space_12: refuse engage sing clutch salute worth toe noodle monkey verify
+  love almost
+bip_39_word_space_2: refuse engage
+bip_39_word_space_3: refuse engage sing
+bip_39_word_underscore_12: refuse_engage_sing_clutch_salute_worth_toe_noodle_monkey_verify_love_almost
+bip_39_word_underscore_2: refuse_engage
+bip_39_word_underscore_3: refuse_engage_sing
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 6mm_depth
+color_capital: 6mm Depth
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: 6m
+color_length_3: 6mm
+color_length_4: 6mm_
+color_length_5: 6mm_d
+color_length_6: 6mm_de
+color_name: 6mm Depth
+color_no_space_length_1: '6'
+color_no_space_length_2: 6m
+color_no_space_length_3: 6mm
+color_no_space_length_4: 6mmd
+color_no_space_length_5: 6mmde
+color_no_space_length_6: 6mmdep
+color_no_space_upper_length_1: '6'
+color_no_space_upper_length_2: 6M
+color_no_space_upper_length_3: 6MM
+color_no_space_upper_length_4: 6MMD
+color_no_space_upper_length_5: 6MMDE
+color_no_space_upper_length_6: 6MMDEP
+color_upper: 6MM_DEPTH
+color_upper_length_1: '6'
+color_upper_length_2: 6M
+color_upper_length_3: 6MM
+color_upper_length_4: 6MM_
+color_upper_length_5: 6MM_D
+color_upper_length_6: 6MM_DE
+description: category_sheet_stock
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '6 '
+description_or_color_upper: '6 '
+directory: parts/category_sheet_stock_acrylic_6mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_sheet_stock_acrylic_6mm_depth
+id: category_sheet_stock_acrylic_6mm_depth
+id_no_class: sheet_stock_acrylic_6mm_depth
+id_no_color: 6mm_depth
+id_no_size: 6mm_depth
+id_no_type: acrylic_6mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_6mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_6mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_6mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_6mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20495oc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20495oc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20495oc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20495oc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_6mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_acrylic_6mm_depth](none)<br>[](none)<br>[Category
+  Sheet Stock Acrylic 6Mm Depth](none)<br><br>'
+markdown_short: '[category_sheet_stock_acrylic_6mm_depth](none)<br><br>'
+md5: 6d08fcac79961c73f7df62c9929295a3
+md5_10: 6d08fcac79
+md5_10_upper: 6D08FCAC79
+md5_5: 6d08f
+md5_5_upper: 6D08F
+md5_6: 6d08fc
+md5_6_alpha: 495oc
+md5_6_alpha_upper: 495OC
+md5_6_upper: 6D08FC
+name: Category Sheet Stock Acrylic 6mm Depth
+name_no_class: Sheet Stock Acrylic 6mm Depth
+name_no_color: 6mm Depth
+name_no_size: 6mm Depth
+name_no_size_short: 6Mm Depth
+name_no_type: Acrylic 6mm Depth
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: sheet_stock
+oomlout_detail_hierarchy_2_upper: SHEET_STOCK
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: acrylic
+oomlout_detail_hierarchy_3_upper: ACRYLIC
+oomlout_detail_hierarchy_3_upper_length_4: ACRY
+oomlout_detail_hierarchy_4: 6mm_depth
+oomlout_detail_hierarchy_4_upper: 6MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 6MM_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_sheet_stock_acrylic_6mm_depth
+oomp_word: shell scream up
+oomp_word_emoji: ':shell: :scream: :up:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':scream:'
+- ':up:'
+oomp_word_list:
+- shell
+- scream
+- up
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: acrylic
+size_capital: Acrylic
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: ac
+size_length_3: acr
+size_length_4: acry
+size_length_5: acryl
+size_length_6: acryli
+size_name: Acrylic
+size_no_space_length_1: a
+size_no_space_length_2: ac
+size_no_space_length_3: acr
+size_no_space_length_4: acry
+size_no_space_length_5: acryl
+size_no_space_length_6: acryli
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: AC
+size_no_space_upper_length_3: ACR
+size_no_space_upper_length_4: ACRY
+size_no_space_upper_length_5: ACRYL
+size_no_space_upper_length_6: ACRYLI
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACRYLIC
+size_upper_length_1: A
+size_upper_length_2: AC
+size_upper_length_3: ACR
+size_upper_length_4: ACRY
+size_upper_length_5: ACRYL
+size_upper_length_6: ACRYLI
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet_
+type_name: Sheet Stock
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheets
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEETS
+type_upper: SHEET_STOCK
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET_

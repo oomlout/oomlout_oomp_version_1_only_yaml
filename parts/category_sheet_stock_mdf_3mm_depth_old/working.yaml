@@ -1,0 +1,297 @@
+bip_39_word_dash_12: thunder-click-pyramid-sleep-animal-remain-rare-snow-fire-huge-garlic-absent
+bip_39_word_dash_2: thunder-click
+bip_39_word_dash_3: thunder-click-pyramid
+bip_39_word_new_br_12: thunder<br>click<br>pyramid<br>sleep<br>animal<br>remain<br>rare<br>snow<br>fire<br>huge<br>garlic<br>absent
+bip_39_word_new_br_2: thunder<br>click
+bip_39_word_new_br_3: thunder<br>click<br>pyramid
+bip_39_word_new_line_12: 'thunder
+
+  click
+
+  pyramid
+
+  sleep
+
+  animal
+
+  remain
+
+  rare
+
+  snow
+
+  fire
+
+  huge
+
+  garlic
+
+  absent'
+bip_39_word_new_line_2: 'thunder
+
+  click'
+bip_39_word_new_line_3: 'thunder
+
+  click
+
+  pyramid'
+bip_39_word_no_space_12: thunderclickpyramidsleepanimalremainraresnowfirehugegarlicabsent
+bip_39_word_no_space_2: thunderclick
+bip_39_word_no_space_3: thunderclickpyramid
+bip_39_word_space_12: thunder click pyramid sleep animal remain rare snow fire huge
+  garlic absent
+bip_39_word_space_2: thunder click
+bip_39_word_space_3: thunder click pyramid
+bip_39_word_underscore_12: thunder_click_pyramid_sleep_animal_remain_rare_snow_fire_huge_garlic_absent
+bip_39_word_underscore_2: thunder_click
+bip_39_word_underscore_3: thunder_click_pyramid
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 3mm_depth
+color_capital: 3mm Depth
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_length_1: '3'
+color_length_2: 3m
+color_length_3: 3mm
+color_length_4: 3mm_
+color_length_5: 3mm_d
+color_length_6: 3mm_de
+color_name: 3mm Depth
+color_no_space_length_1: '3'
+color_no_space_length_2: 3m
+color_no_space_length_3: 3mm
+color_no_space_length_4: 3mmd
+color_no_space_length_5: 3mmde
+color_no_space_length_6: 3mmdep
+color_no_space_upper_length_1: '3'
+color_no_space_upper_length_2: 3M
+color_no_space_upper_length_3: 3MM
+color_no_space_upper_length_4: 3MMD
+color_no_space_upper_length_5: 3MMDE
+color_no_space_upper_length_6: 3MMDEP
+color_upper: 3MM_DEPTH
+color_upper_length_1: '3'
+color_upper_length_2: 3M
+color_upper_length_3: 3MM
+color_upper_length_4: 3MM_
+color_upper_length_5: 3MM_D
+color_upper_length_6: 3MM_DE
+description: category_sheet_stock
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_sheet_stock_mdf_3mm_depth_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_sheet_stock_mdf_3mm_depth_old
+id: category_sheet_stock_mdf_3mm_depth_old
+id_no_class: sheet_stock_mdf_3mm_depth_old
+id_no_color: old
+id_no_size: 3mm_depth_old
+id_no_type: mdf_3mm_depth_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20f3iz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20f3iz
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20f3iz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20f3iz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_mdf_3mm_depth_old](none)<br>[](none)<br>[Category
+  Sheet Stock Mdf 3Mm Depth Old](none)<br><br>'
+markdown_short: '[category_sheet_stock_mdf_3mm_depth_old](none)<br><br>'
+md5: 0abf9baab9cd9642d6048cb35e0aaf0c
+md5_10: 0abf9baab9
+md5_10_upper: 0ABF9BAAB9
+md5_5: 0abf9
+md5_5_upper: 0ABF9
+md5_6: 0abf9b
+md5_6_alpha: f3iz
+md5_6_alpha_upper: F3IZ
+md5_6_upper: 0ABF9B
+name: Category Sheet Stock Mdf 3mm Depth Old
+name_no_class: Sheet Stock Mdf 3mm Depth Old
+name_no_color: Old
+name_no_size: 3mm Depth Old
+name_no_size_short: 3Mm Depth Old
+name_no_type: Mdf 3mm Depth Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: sheet_stock
+oomlout_detail_hierarchy_2_upper: SHEET_STOCK
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: mdf
+oomlout_detail_hierarchy_3_upper: MDF
+oomlout_detail_hierarchy_3_upper_length_4: MDF
+oomlout_detail_hierarchy_4: 3mm_depth
+oomlout_detail_hierarchy_4_upper: 3MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 3MM_
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_sheet_stock_mdf_3mm_depth_old
+oomp_word: sleepy egg ski
+oomp_word_emoji: ':sleepy: :egg: :ski:'
+oomp_word_emoji_list:
+- ':sleepy:'
+- ':egg:'
+- ':ski:'
+oomp_word_list:
+- sleepy
+- egg
+- ski
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: mdf
+size_capital: Mdf
+size_first_letter: m
+size_first_letter_upper: M
+size_length_1: m
+size_length_2: md
+size_length_3: mdf
+size_length_4: mdf
+size_length_5: mdf
+size_length_6: mdf
+size_name: Mdf
+size_no_space_length_1: m
+size_no_space_length_2: md
+size_no_space_length_3: mdf
+size_no_space_length_4: mdf
+size_no_space_length_5: mdf
+size_no_space_length_6: mdf
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: MD
+size_no_space_upper_length_3: MDF
+size_no_space_upper_length_4: MDF
+size_no_space_upper_length_5: MDF
+size_no_space_upper_length_6: MDF
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MDF
+size_upper_length_1: M
+size_upper_length_2: MD
+size_upper_length_3: MDF
+size_upper_length_4: MDF
+size_upper_length_5: MDF
+size_upper_length_6: MDF
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet_
+type_name: Sheet Stock
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheets
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEETS
+type_upper: SHEET_STOCK
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET_
