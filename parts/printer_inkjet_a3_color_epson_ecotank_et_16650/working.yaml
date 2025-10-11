@@ -1,0 +1,337 @@
+bip_39_word_dash_12: goddess-route-age-seek-invite-entry-tobacco-dumb-cost-iron-civil-actress
+bip_39_word_dash_2: goddess-route
+bip_39_word_dash_3: goddess-route-age
+bip_39_word_new_br_12: goddess<br>route<br>age<br>seek<br>invite<br>entry<br>tobacco<br>dumb<br>cost<br>iron<br>civil<br>actress
+bip_39_word_new_br_2: goddess<br>route
+bip_39_word_new_br_3: goddess<br>route<br>age
+bip_39_word_new_line_12: 'goddess
+
+  route
+
+  age
+
+  seek
+
+  invite
+
+  entry
+
+  tobacco
+
+  dumb
+
+  cost
+
+  iron
+
+  civil
+
+  actress'
+bip_39_word_new_line_2: 'goddess
+
+  route'
+bip_39_word_new_line_3: 'goddess
+
+  route
+
+  age'
+bip_39_word_no_space_12: goddessrouteageseekinviteentrytobaccodumbcostironcivilactress
+bip_39_word_no_space_2: goddessroute
+bip_39_word_no_space_3: goddessrouteage
+bip_39_word_space_12: goddess route age seek invite entry tobacco dumb cost iron civil
+  actress
+bip_39_word_space_2: goddess route
+bip_39_word_space_3: goddess route age
+bip_39_word_underscore_12: goddess_route_age_seek_invite_entry_tobacco_dumb_cost_iron_civil_actress
+bip_39_word_underscore_2: goddess_route
+bip_39_word_underscore_3: goddess_route_age
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
+classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color
+color_name: Color
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: color
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLOR
+color_upper: COLOR
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR
+compatible_ink_bottles:
+- '113'
+description_chat_gpt: A3+ 4-in-1 office (pigment) higher-speed variant.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+distributors: []
+features:
+- a3_plus
+- duplex
+- adf
+- fax
+- ethernet
+- wifi
+- touchscreen
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+id: printer_inkjet_a3_color_epson_ecotank_et_16650
+id_no_class: inkjet_a3_color_epson_ecotank_et_16650
+id_no_color: epson_ecotank_et_16650
+id_no_size: color_epson_ecotank_et_16650
+id_no_type: a3_color_epson_ecotank_et_16650
+ink_type: pigment
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201q9el
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201q9el
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201q9el
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201q9el
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_16650
+manufacturer: epson_ecotank
+manufacturer_capital: Epson Ecotank
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: ep
+manufacturer_length_3: eps
+manufacturer_length_4: epso
+manufacturer_length_5: epson
+manufacturer_length_6: epson_
+manufacturer_name: Epson Ecotank
+manufacturer_no_space_length_1: e
+manufacturer_no_space_length_2: ep
+manufacturer_no_space_length_3: eps
+manufacturer_no_space_length_4: epso
+manufacturer_no_space_length_5: epson
+manufacturer_no_space_length_6: epsone
+manufacturer_no_space_upper_length_1: E
+manufacturer_no_space_upper_length_2: EP
+manufacturer_no_space_upper_length_3: EPS
+manufacturer_no_space_upper_length_4: EPSO
+manufacturer_no_space_upper_length_5: EPSON
+manufacturer_no_space_upper_length_6: EPSONE
+manufacturer_upper: EPSON_ECOTANK
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EP
+manufacturer_upper_length_3: EPS
+manufacturer_upper_length_4: EPSO
+manufacturer_upper_length_5: EPSON
+manufacturer_upper_length_6: EPSON_
+manufacturers: []
+markdown_full: '[printer_inkjet_a3_color_epson_ecotank_et_16650](none)<br>[](none)<br>[Printer
+  Inkjet A3 Color Epson Ecotank Et 16650](none)<br><br>'
+markdown_short: '[printer_inkjet_a3_color_epson_ecotank_et_16650](none)<br><br>'
+md5: 2c531d918543fc652ebb0c3009af2321
+md5_10: 2c531d9185
+md5_10_upper: 2C531D9185
+md5_5: 2c531
+md5_5_upper: 2C531
+md5_6: 2c531d
+md5_6_alpha: 1q9el
+md5_6_alpha_upper: 1Q9EL
+md5_6_upper: 2C531D
+name: Printer Inkjet A3 Color Epson Ecotank Et 16650
+name_no_class: Inkjet A3 Color Epson Ecotank Et 16650
+name_no_color: Epson Ecotank Et 16650
+name_no_size: Color Epson Ecotank Et 16650
+name_no_size_short: Color Epson Ecotank Et 16650
+name_no_type: A3 Color Epson Ecotank Et 16650
+nozzle_count_black: 800
+nozzle_count_per_colour: 256
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: inkjet
+oomlout_detail_hierarchy_2_upper: INKJET
+oomlout_detail_hierarchy_2_upper_length_4: INKJ
+oomlout_detail_hierarchy_3: a3
+oomlout_detail_hierarchy_3_upper: A3
+oomlout_detail_hierarchy_3_upper_length_4: A3
+oomlout_detail_hierarchy_4: color
+oomlout_detail_hierarchy_4_upper: COLOR
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: epson_ecotank
+oomlout_detail_hierarchy_5_upper: EPSON_ECOTANK
+oomlout_detail_hierarchy_5_upper_length_4: EPSO
+oomlout_detail_hierarchy_6: et_16650
+oomlout_detail_hierarchy_6_upper: ET_16650
+oomlout_detail_hierarchy_6_upper_length_4: ET_1
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_printer_inkjet_a3_color_epson_ecotank_et_16650
+oomp_word: snowflake fish baby
+oomp_word_emoji: ':snowflake: :fish: :baby:'
+oomp_word_emoji_list:
+- ':snowflake:'
+- ':fish:'
+- ':baby:'
+oomp_word_list:
+- snowflake
+- fish
+- baby
+original_rrp_gbp: 1299.0
+part_number: et_16650
+part_number_capital: Et 16650
+part_number_first_letter: e
+part_number_first_letter_upper: E
+part_number_length_1: e
+part_number_length_2: et
+part_number_length_3: et_
+part_number_length_4: et_1
+part_number_length_5: et_16
+part_number_length_6: et_166
+part_number_name: Et 16650
+part_number_no_space_length_1: e
+part_number_no_space_length_2: et
+part_number_no_space_length_3: et1
+part_number_no_space_length_4: et16
+part_number_no_space_length_5: et166
+part_number_no_space_length_6: et1665
+part_number_no_space_upper_length_1: E
+part_number_no_space_upper_length_2: ET
+part_number_no_space_upper_length_3: ET1
+part_number_no_space_upper_length_4: ET16
+part_number_no_space_upper_length_5: ET166
+part_number_no_space_upper_length_6: ET1665
+part_number_upper: ET_16650
+part_number_upper_length_1: E
+part_number_upper_length_2: ET
+part_number_upper_length_3: ET_
+part_number_upper_length_4: ET_1
+part_number_upper_length_5: ET_16
+part_number_upper_length_6: ET_166
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+printhead_technology: PrecisionCore
+short_code: ''
+short_code_upper: ''
+short_name: EcoTank ET-16650
+size: a3
+size_capital: A3
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a3
+size_length_3: a3
+size_length_4: a3
+size_length_5: a3
+size_length_6: a3
+size_name: A3
+size_no_space_length_1: a
+size_no_space_length_2: a3
+size_no_space_length_3: a3
+size_no_space_length_4: a3
+size_no_space_length_5: a3
+size_no_space_length_6: a3
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A3
+size_no_space_upper_length_3: A3
+size_no_space_upper_length_4: A3
+size_no_space_upper_length_5: A3
+size_no_space_upper_length_6: A3
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: A3
+size_upper_length_1: A
+size_upper_length_2: A3
+size_upper_length_3: A3
+size_upper_length_4: A3
+size_upper_length_5: A3
+size_upper_length_6: A3
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: inkj
+type_length_5: inkje
+type_length_6: inkjet
+type_name: Inkjet
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: inkj
+type_no_space_length_5: inkje
+type_no_space_length_6: inkjet
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INKJ
+type_no_space_upper_length_5: INKJE
+type_no_space_upper_length_6: INKJET
+type_upper: INKJET
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INKJ
+type_upper_length_5: INKJE
+type_upper_length_6: INKJET
