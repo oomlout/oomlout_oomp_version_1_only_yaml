@@ -1,0 +1,267 @@
+bip_39_word_dash_12: inside-cereal-boy-service-door-museum-course-boat-danger-trigger-end-ability
+bip_39_word_dash_2: inside-cereal
+bip_39_word_dash_3: inside-cereal-boy
+bip_39_word_new_br_12: inside<br>cereal<br>boy<br>service<br>door<br>museum<br>course<br>boat<br>danger<br>trigger<br>end<br>ability
+bip_39_word_new_br_2: inside<br>cereal
+bip_39_word_new_br_3: inside<br>cereal<br>boy
+bip_39_word_new_line_12: 'inside
+
+  cereal
+
+  boy
+
+  service
+
+  door
+
+  museum
+
+  course
+
+  boat
+
+  danger
+
+  trigger
+
+  end
+
+  ability'
+bip_39_word_new_line_2: 'inside
+
+  cereal'
+bip_39_word_new_line_3: 'inside
+
+  cereal
+
+  boy'
+bip_39_word_no_space_12: insidecerealboyservicedoormuseumcourseboatdangertriggerendability
+bip_39_word_no_space_2: insidecereal
+bip_39_word_no_space_3: insidecerealboy
+bip_39_word_space_12: inside cereal boy service door museum course boat danger trigger
+  end ability
+bip_39_word_space_2: inside cereal
+bip_39_word_space_3: inside cereal boy
+bip_39_word_underscore_12: inside_cereal_boy_service_door_museum_course_boat_danger_trigger_end_ability
+bip_39_word_underscore_2: inside_cereal
+bip_39_word_underscore_3: inside_cereal_boy
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: color_triple_extra_large
+color_capital: Color Triple Extra Large
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color_
+color_name: Color Triple Extra Large
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: colort
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLORT
+color_upper: COLOR_TRIPLE_EXTRA_LARGE
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/clothes_item_socks_color_triple_extra_large
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_socks_color_triple_extra_large
+id: clothes_item_socks_color_triple_extra_large
+id_no_class: item_socks_color_triple_extra_large
+id_no_color: color_triple_extra_large
+id_no_size: color_triple_extra_large
+id_no_type: socks_color_triple_extra_large
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_color_triple_extra_large
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_color_triple_extra_large
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_color_triple_extra_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_color_triple_extra_large
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203m7u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203m7u
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203m7u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203m7u
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_color_triple_extra_large
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_color_triple_extra_large](none)<br>[](none)<br>[Clothes
+  Item Socks Color Triple Extra Large](none)<br><br>'
+markdown_short: '[clothes_item_socks_color_triple_extra_large](none)<br><br>'
+md5: 02933a21bb18c62a46a0bc42354963a9
+md5_10: 02933a21bb
+md5_10_upper: 02933A21BB
+md5_5: 02933
+md5_5_upper: 02933
+md5_6: 02933a
+md5_6_alpha: 3m7u
+md5_6_alpha_upper: 3M7U
+md5_6_upper: 02933A
+name: Clothes Item Socks Color Triple Extra Large
+name_no_class: Item Socks Color Triple Extra Large
+name_no_color: Color Triple Extra Large
+name_no_size: Color Triple Extra Large
+name_no_size_short: Color Triple Extra Large
+name_no_type: Socks Color Triple Extra Large
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: socks
+oomlout_detail_hierarchy_3_upper: SOCKS
+oomlout_detail_hierarchy_3_upper_length_4: SOCK
+oomlout_detail_hierarchy_4: color_triple_extra_large
+oomlout_detail_hierarchy_4_upper: COLOR_TRIPLE_EXTRA_LARGE
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_socks_color_triple_extra_large
+oomp_word: blush books koala
+oomp_word_emoji: ':blush: :books: :koala:'
+oomp_word_emoji_list:
+- ':blush:'
+- ':books:'
+- ':koala:'
+oomp_word_list:
+- blush
+- books
+- koala
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: soc
+size_length_4: sock
+size_length_5: socks
+size_length_6: socks
+size_name: Socks
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: soc
+size_no_space_length_4: sock
+size_no_space_length_5: socks
+size_no_space_length_6: socks
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOC
+size_no_space_upper_length_4: SOCK
+size_no_space_upper_length_5: SOCKS
+size_no_space_upper_length_6: SOCKS
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOC
+size_upper_length_4: SOCK
+size_upper_length_5: SOCKS
+size_upper_length_6: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

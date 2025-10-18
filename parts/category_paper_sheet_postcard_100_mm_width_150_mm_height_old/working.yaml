@@ -1,23 +1,146 @@
+bip_39_word_dash_12: dizzy-deal-can-fatal-twist-gentle-gap-lecture-deposit-best-boy-another
+bip_39_word_dash_2: dizzy-deal
+bip_39_word_dash_3: dizzy-deal-can
+bip_39_word_new_br_12: dizzy<br>deal<br>can<br>fatal<br>twist<br>gentle<br>gap<br>lecture<br>deposit<br>best<br>boy<br>another
+bip_39_word_new_br_2: dizzy<br>deal
+bip_39_word_new_br_3: dizzy<br>deal<br>can
+bip_39_word_new_line_12: 'dizzy
+
+  deal
+
+  can
+
+  fatal
+
+  twist
+
+  gentle
+
+  gap
+
+  lecture
+
+  deposit
+
+  best
+
+  boy
+
+  another'
+bip_39_word_new_line_2: 'dizzy
+
+  deal'
+bip_39_word_new_line_3: 'dizzy
+
+  deal
+
+  can'
+bip_39_word_no_space_12: dizzydealcanfataltwistgentlegaplecturedepositbestboyanother
+bip_39_word_no_space_2: dizzydeal
+bip_39_word_no_space_3: dizzydealcan
+bip_39_word_space_12: dizzy deal can fatal twist gentle gap lecture deposit best boy
+  another
+bip_39_word_space_2: dizzy deal
+bip_39_word_space_3: dizzy deal can
+bip_39_word_underscore_12: dizzy_deal_can_fatal_twist_gentle_gap_lecture_deposit_best_boy_another
+bip_39_word_underscore_2: dizzy_deal
+bip_39_word_underscore_3: dizzy_deal_can
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: postcard_100_mm_width_150_mm_height
 color_capital: Postcard 100 mm Width 150 mm Height
 color_first_letter: p
 color_first_letter_upper: P
+color_length_1: p
+color_length_2: po
+color_length_3: pos
+color_length_4: post
+color_length_5: postc
+color_length_6: postca
+color_name: Postcard 100 mm Width 150 mm Height
+color_no_space_length_1: p
+color_no_space_length_2: po
+color_no_space_length_3: pos
+color_no_space_length_4: post
+color_no_space_length_5: postc
+color_no_space_length_6: postca
+color_no_space_upper_length_1: P
+color_no_space_upper_length_2: PO
+color_no_space_upper_length_3: POS
+color_no_space_upper_length_4: POST
+color_no_space_upper_length_5: POSTC
+color_no_space_upper_length_6: POSTCA
 color_upper: POSTCARD_100_MM_WIDTH_150_MM_HEIGHT
+color_upper_length_1: P
+color_upper_length_2: PO
+color_upper_length_3: POS
+color_upper_length_4: POST
+color_upper_length_5: POSTC
+color_upper_length_6: POSTCA
 description: category_paper
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
 id: category_paper_sheet_postcard_100_mm_width_150_mm_height_old
 id_no_class: paper_sheet_postcard_100_mm_width_150_mm_height_old
+id_no_color: old
 id_no_size: postcard_100_mm_width_150_mm_height_old
 id_no_type: sheet_postcard_100_mm_width_150_mm_height_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205xsud
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205xsud
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205xsud
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205xsud
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_paper_sheet_postcard_100_mm_width_150_mm_height_old](none)<br>[](none)<br>[Category
-    Paper Sheet Postcard 100 Mm Width 150 Mm Height Old](none)<br><br>'
+  Paper Sheet Postcard 100 Mm Width 150 Mm Height Old](none)<br><br>'
 markdown_short: '[category_paper_sheet_postcard_100_mm_width_150_mm_height_old](none)<br><br>'
 md5: 98354551d87f0be984f5c53841ce0a01
 md5_10: 98354551d8
@@ -52,11 +186,31 @@ md5_6: '983545'
 md5_6_alpha: 5xsud
 md5_6_alpha_upper: 5XSUD
 md5_6_upper: '983545'
-name: Category Paper Sheet Postcard 100 Mm Width 150 Mm Height Old
-name_no_class: Paper Sheet Postcard 100 Mm Width 150 Mm Height Old
-name_no_size: Postcard 100 Mm Width 150 Mm Height Old
+name: Category Paper Sheet Postcard 100 mm Width 150 mm Height Old
+name_no_class: Paper Sheet Postcard 100 mm Width 150 mm Height Old
+name_no_color: Old
+name_no_size: Postcard 100 mm Width 150 mm Height Old
 name_no_size_short: Postcard 100 Mm Width 150 Mm Height Old
-name_no_type: Sheet Postcard 100 Mm Width 150 Mm Height Old
+name_no_type: Sheet Postcard 100 mm Width 150 mm Height Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: paper
+oomlout_detail_hierarchy_2_upper: PAPER
+oomlout_detail_hierarchy_2_upper_length_4: PAPE
+oomlout_detail_hierarchy_3: sheet
+oomlout_detail_hierarchy_3_upper: SHEET
+oomlout_detail_hierarchy_3_upper_length_4: SHEE
+oomlout_detail_hierarchy_4: 100_mm_width
+oomlout_detail_hierarchy_4_upper: 100_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 100W
+oomlout_detail_hierarchy_5: 150_mm_height
+oomlout_detail_hierarchy_5_upper: 150_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 150H
+oomlout_detail_hierarchy_6: old
+oomlout_detail_hierarchy_6_upper: OLD
+oomlout_detail_hierarchy_6_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_paper_sheet_postcard_100_mm_width_150_mm_height_old
 oomp_word: tennis hamster snake
 oomp_word_emoji: ':tennis: :hamster: :snake:'
@@ -73,7 +227,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypaper
@@ -81,11 +240,61 @@ size: sheet
 size_capital: Sheet
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sh
+size_length_3: she
+size_length_4: shee
+size_length_5: sheet
+size_length_6: sheet
+size_name: Sheet
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: she
+size_no_space_length_4: shee
+size_no_space_length_5: sheet
+size_no_space_length_6: sheet
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHE
+size_no_space_upper_length_4: SHEE
+size_no_space_upper_length_5: SHEET
+size_no_space_upper_length_6: SHEET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHEET
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHE
+size_upper_length_4: SHEE
+size_upper_length_5: SHEET
+size_upper_length_6: SHEET
 type: paper
 type_capital: Paper
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pap
+type_length_4: pape
+type_length_5: paper
+type_length_6: paper
+type_name: Paper
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pap
+type_no_space_length_4: pape
+type_no_space_length_5: paper
+type_no_space_length_6: paper
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAP
+type_no_space_upper_length_4: PAPE
+type_no_space_upper_length_5: PAPER
+type_no_space_upper_length_6: PAPER
 type_upper: PAPER
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAP
+type_upper_length_4: PAPE
+type_upper_length_5: PAPER
+type_upper_length_6: PAPER

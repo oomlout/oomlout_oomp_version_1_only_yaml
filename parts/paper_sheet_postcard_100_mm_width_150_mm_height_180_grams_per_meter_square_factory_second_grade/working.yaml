@@ -1,0 +1,303 @@
+bip_39_word_dash_12: hour-army-sugar-universe-fix-purse-welcome-frown-tonight-absent-olive-any
+bip_39_word_dash_2: hour-army
+bip_39_word_dash_3: hour-army-sugar
+bip_39_word_new_br_12: hour<br>army<br>sugar<br>universe<br>fix<br>purse<br>welcome<br>frown<br>tonight<br>absent<br>olive<br>any
+bip_39_word_new_br_2: hour<br>army
+bip_39_word_new_br_3: hour<br>army<br>sugar
+bip_39_word_new_line_12: 'hour
+
+  army
+
+  sugar
+
+  universe
+
+  fix
+
+  purse
+
+  welcome
+
+  frown
+
+  tonight
+
+  absent
+
+  olive
+
+  any'
+bip_39_word_new_line_2: 'hour
+
+  army'
+bip_39_word_new_line_3: 'hour
+
+  army
+
+  sugar'
+bip_39_word_no_space_12: hourarmysugaruniversefixpursewelcomefrowntonightabsentoliveany
+bip_39_word_no_space_2: hourarmy
+bip_39_word_no_space_3: hourarmysugar
+bip_39_word_space_12: hour army sugar universe fix purse welcome frown tonight absent
+  olive any
+bip_39_word_space_2: hour army
+bip_39_word_space_3: hour army sugar
+bip_39_word_underscore_12: hour_army_sugar_universe_fix_purse_welcome_frown_tonight_absent_olive_any
+bip_39_word_underscore_2: hour_army
+bip_39_word_underscore_3: hour_army_sugar
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
+classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: factory_second_grade
+description_extra_capital: Factory Second Grade
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_length_1: f
+description_extra_length_2: fa
+description_extra_length_3: fac
+description_extra_length_4: fact
+description_extra_length_5: facto
+description_extra_length_6: factor
+description_extra_name: Factory Second Grade
+description_extra_no_space_length_1: f
+description_extra_no_space_length_2: fa
+description_extra_no_space_length_3: fac
+description_extra_no_space_length_4: fact
+description_extra_no_space_length_5: facto
+description_extra_no_space_length_6: factor
+description_extra_no_space_upper_length_1: F
+description_extra_no_space_upper_length_2: FA
+description_extra_no_space_upper_length_3: FAC
+description_extra_no_space_upper_length_4: FACT
+description_extra_no_space_upper_length_5: FACTO
+description_extra_no_space_upper_length_6: FACTOR
+description_extra_upper: FACTORY_SECOND_GRADE
+description_extra_upper_length_1: F
+description_extra_upper_length_2: FA
+description_extra_upper_length_3: FAC
+description_extra_upper_length_4: FACT
+description_extra_upper_length_5: FACTO
+description_extra_upper_length_6: FACTOR
+description_main: 180_grams_per_meter_square
+description_main_capital: 180 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '18'
+description_main_length_3: '180'
+description_main_length_4: '180_'
+description_main_length_5: 180_g
+description_main_length_6: 180_gr
+description_main_name: 180 Grams Per Meter Square
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '18'
+description_main_no_space_length_3: '180'
+description_main_no_space_length_4: 180g
+description_main_no_space_length_5: 180gr
+description_main_no_space_length_6: 180gra
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '18'
+description_main_no_space_upper_length_3: '180'
+description_main_no_space_upper_length_4: 180G
+description_main_no_space_upper_length_5: 180GR
+description_main_no_space_upper_length_6: 180GRA
+description_main_upper: 180_GRAMS_PER_METER_SQUARE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '18'
+description_main_upper_length_3: '180'
+description_main_upper_length_4: '180_'
+description_main_upper_length_5: 180_G
+description_main_upper_length_6: 180_GR
+description_only_numbers: '180'
+description_only_numbers_short: '180'
+description_or_color: '180'
+description_or_color_upper: '180'
+directory: parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+height: 150 mm
+id: paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+id_no_class: sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+id_no_color: 180gramspermetersquarefactorysecondgrade
+id_no_size: 180_grams_per_meter_square_factory_second_grade
+id_no_type: postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206d8w0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206d8w0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206d8w0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206d8w0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade](none)<br>[](none)<br>[Paper
+  Sheet Postcard 100 Mm Width 150 Mm Height 180 Grams Per Meter Square Factory Second
+  Grade](none)<br><br>'
+markdown_short: '[paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade](none)<br><br>'
+md5: a334402f245d9f2aba2c0eddb1830372
+md5_10: a334402f24
+md5_10_upper: A334402F24
+md5_5: a3344
+md5_5_upper: A3344
+md5_6: a33440
+md5_6_alpha: 6d8w0
+md5_6_alpha_upper: 6D8W0
+md5_6_upper: A33440
+name: Paper Sheet Postcard 100 mm Width 150 mm Height 180 Grams Per Meter Square Factory
+  Second Grade
+name_no_class: Sheet Postcard 100 mm Width 150 mm Height 180 Grams Per Meter Square
+  Factory Second Grade
+name_no_color: 180Gramspermetersquarefactorysecondgrade
+name_no_size: 180 Grams Per Meter Square Factory Second Grade
+name_no_size_short: 180 Grams Per Meter Square Factory Second Grade
+name_no_type: Postcard 100 mm Width 150 mm Height 180 Grams Per Meter Square Factory
+  Second Grade
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 100_mm_width
+oomlout_detail_hierarchy_3_upper: 100_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 100W
+oomlout_detail_hierarchy_4: 150_mm_height
+oomlout_detail_hierarchy_4_upper: 150_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 150H
+oomlout_detail_hierarchy_5: 180_gram
+oomlout_detail_hierarchy_5_upper: 180_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '180_'
+oomlout_detail_hierarchy_6: factory_second_grade
+oomlout_detail_hierarchy_6_upper: FACTORY_SECOND_GRADE
+oomlout_detail_hierarchy_6_upper_length_4: FACT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+oomp_word: pencil mouse racehorse
+oomp_word_emoji: ':pencil: :mouse: :racehorse:'
+oomp_word_emoji_list:
+- ':pencil:'
+- ':mouse:'
+- ':racehorse:'
+oomp_word_list:
+- pencil
+- mouse
+- racehorse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: postcard_100_mm_width_150_mm_height
+size_capital: Postcard 100 mm Width 150 mm Height
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: po
+size_length_3: pos
+size_length_4: post
+size_length_5: postc
+size_length_6: postca
+size_name: Postcard 100 mm Width 150 mm Height
+size_no_space_length_1: p
+size_no_space_length_2: po
+size_no_space_length_3: pos
+size_no_space_length_4: post
+size_no_space_length_5: postc
+size_no_space_length_6: postca
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PO
+size_no_space_upper_length_3: POS
+size_no_space_upper_length_4: POST
+size_no_space_upper_length_5: POSTC
+size_no_space_upper_length_6: POSTCA
+size_only_numbers: '100150'
+size_only_numbers_no_zeros: '115'
+size_upper: POSTCARD_100_MM_WIDTH_150_MM_HEIGHT
+size_upper_length_1: P
+size_upper_length_2: PO
+size_upper_length_3: POS
+size_upper_length_4: POST
+size_upper_length_5: POSTC
+size_upper_length_6: POSTCA
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
+type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
+width: 100 mm

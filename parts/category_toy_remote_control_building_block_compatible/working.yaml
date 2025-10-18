@@ -1,23 +1,122 @@
+bip_39_word_dash_12: bind-essence-chef-surface-now-oyster-earn-emotion-power-trend-shrimp-advice
+bip_39_word_dash_2: bind-essence
+bip_39_word_dash_3: bind-essence-chef
+bip_39_word_new_br_12: bind<br>essence<br>chef<br>surface<br>now<br>oyster<br>earn<br>emotion<br>power<br>trend<br>shrimp<br>advice
+bip_39_word_new_br_2: bind<br>essence
+bip_39_word_new_br_3: bind<br>essence<br>chef
+bip_39_word_new_line_12: 'bind
+
+  essence
+
+  chef
+
+  surface
+
+  now
+
+  oyster
+
+  earn
+
+  emotion
+
+  power
+
+  trend
+
+  shrimp
+
+  advice'
+bip_39_word_new_line_2: 'bind
+
+  essence'
+bip_39_word_new_line_3: 'bind
+
+  essence
+
+  chef'
+bip_39_word_no_space_12: bindessencechefsurfacenowoysterearnemotionpowertrendshrimpadvice
+bip_39_word_no_space_2: bindessence
+bip_39_word_no_space_3: bindessencechef
+bip_39_word_space_12: bind essence chef surface now oyster earn emotion power trend
+  shrimp advice
+bip_39_word_space_2: bind essence
+bip_39_word_space_3: bind essence chef
+bip_39_word_underscore_12: bind_essence_chef_surface_now_oyster_earn_emotion_power_trend_shrimp_advice
+bip_39_word_underscore_2: bind_essence
+bip_39_word_underscore_3: bind_essence_chef
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: building_block_compatible
 color_capital: Building Block Compatible
 color_first_letter: b
 color_first_letter_upper: B
+color_length_1: b
+color_length_2: bu
+color_length_3: bui
+color_length_4: buil
+color_length_5: build
+color_length_6: buildi
+color_name: Building Block Compatible
+color_no_space_length_1: b
+color_no_space_length_2: bu
+color_no_space_length_3: bui
+color_no_space_length_4: buil
+color_no_space_length_5: build
+color_no_space_length_6: buildi
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BU
+color_no_space_upper_length_3: BUI
+color_no_space_upper_length_4: BUIL
+color_no_space_upper_length_5: BUILD
+color_no_space_upper_length_6: BUILDI
 color_upper: BUILDING_BLOCK_COMPATIBLE
+color_upper_length_1: B
+color_upper_length_2: BU
+color_upper_length_3: BUI
+color_upper_length_4: BUIL
+color_upper_length_5: BUILD
+color_upper_length_6: BUILDI
 description: category_toy
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_toy_remote_control_building_block_compatible
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_toy_remote_control_building_block_compatible
 id: category_toy_remote_control_building_block_compatible
 id_no_class: toy_remote_control_building_block_compatible
+id_no_color: building_block_compatible
 id_no_size: building_block_compatible
 id_no_type: remote_control_building_block_compatible
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_building_block_compatible
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_building_block_compatible
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_building_block_compatible
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_building_block_compatible
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202k322
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202k322
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202k322
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202k322
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_building_block_compatible
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_toy_remote_control_building_block_compatible](none)<br>[](none)<br>[Category
-    Toy Remote Control Building Block Compatible](none)<br><br>'
+  Toy Remote Control Building Block Compatible](none)<br><br>'
 markdown_short: '[category_toy_remote_control_building_block_compatible](none)<br><br>'
 md5: 418e7a054a48c8aa79cb9da24e9350b2
 md5_10: 418e7a054a
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 2K322
 md5_6_upper: 418E7A
 name: Category Toy Remote Control Building Block Compatible
 name_no_class: Toy Remote Control Building Block Compatible
+name_no_color: Building Block Compatible
 name_no_size: Building Block Compatible
 name_no_size_short: Building Block Compatible
 name_no_type: Remote Control Building Block Compatible
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: toy
+oomlout_detail_hierarchy_2_upper: TOY
+oomlout_detail_hierarchy_2_upper_length_4: TOY
+oomlout_detail_hierarchy_3: remote_control
+oomlout_detail_hierarchy_3_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_3_upper_length_4: REMO
+oomlout_detail_hierarchy_4: building_block_compatible
+oomlout_detail_hierarchy_4_upper: BUILDING_BLOCK_COMPATIBLE
+oomlout_detail_hierarchy_4_upper_length_4: BUIL
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_toy_remote_control_building_block_compatible
 oomp_word: camel clipboard camera
 oomp_word_emoji: ':camel: :clipboard: :camera:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorytoy
@@ -81,11 +210,61 @@ size: remote_control
 size_capital: Remote Control
 size_first_letter: r
 size_first_letter_upper: R
+size_length_1: r
+size_length_2: re
+size_length_3: rem
+size_length_4: remo
+size_length_5: remot
+size_length_6: remote
+size_name: Remote Control
+size_no_space_length_1: r
+size_no_space_length_2: re
+size_no_space_length_3: rem
+size_no_space_length_4: remo
+size_no_space_length_5: remot
+size_no_space_length_6: remote
+size_no_space_upper_length_1: R
+size_no_space_upper_length_2: RE
+size_no_space_upper_length_3: REM
+size_no_space_upper_length_4: REMO
+size_no_space_upper_length_5: REMOT
+size_no_space_upper_length_6: REMOTE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: REMOTE_CONTROL
+size_upper_length_1: R
+size_upper_length_2: RE
+size_upper_length_3: REM
+size_upper_length_4: REMO
+size_upper_length_5: REMOT
+size_upper_length_6: REMOTE
 type: toy
 type_capital: Toy
 type_first_letter: t
 type_first_letter_upper: T
+type_length_1: t
+type_length_2: to
+type_length_3: toy
+type_length_4: toy
+type_length_5: toy
+type_length_6: toy
+type_name: Toy
+type_no_space_length_1: t
+type_no_space_length_2: to
+type_no_space_length_3: toy
+type_no_space_length_4: toy
+type_no_space_length_5: toy
+type_no_space_length_6: toy
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TO
+type_no_space_upper_length_3: TOY
+type_no_space_upper_length_4: TOY
+type_no_space_upper_length_5: TOY
+type_no_space_upper_length_6: TOY
 type_upper: TOY
+type_upper_length_1: T
+type_upper_length_2: TO
+type_upper_length_3: TOY
+type_upper_length_4: TOY
+type_upper_length_5: TOY
+type_upper_length_6: TOY

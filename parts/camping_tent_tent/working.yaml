@@ -1,22 +1,121 @@
+bip_39_word_dash_12: bread-tell-rule-match-evidence-secret-thought-tumble-absurd-poem-spring-again
+bip_39_word_dash_2: bread-tell
+bip_39_word_dash_3: bread-tell-rule
+bip_39_word_new_br_12: bread<br>tell<br>rule<br>match<br>evidence<br>secret<br>thought<br>tumble<br>absurd<br>poem<br>spring<br>again
+bip_39_word_new_br_2: bread<br>tell
+bip_39_word_new_br_3: bread<br>tell<br>rule
+bip_39_word_new_line_12: 'bread
+
+  tell
+
+  rule
+
+  match
+
+  evidence
+
+  secret
+
+  thought
+
+  tumble
+
+  absurd
+
+  poem
+
+  spring
+
+  again'
+bip_39_word_new_line_2: 'bread
+
+  tell'
+bip_39_word_new_line_3: 'bread
+
+  tell
+
+  rule'
+bip_39_word_no_space_12: breadtellrulematchevidencesecretthoughttumbleabsurdpoemspringagain
+bip_39_word_no_space_2: breadtell
+bip_39_word_no_space_3: breadtellrule
+bip_39_word_space_12: bread tell rule match evidence secret thought tumble absurd
+  poem spring again
+bip_39_word_space_2: bread tell
+bip_39_word_space_3: bread tell rule
+bip_39_word_underscore_12: bread_tell_rule_match_evidence_secret_thought_tumble_absurd_poem_spring_again
+bip_39_word_underscore_2: bread_tell
+bip_39_word_underscore_3: bread_tell_rule
 classification: camping
 classification_capital: Camping
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cam
+classification_length_4: camp
+classification_length_5: campi
+classification_length_6: campin
+classification_name: Camping
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cam
+classification_no_space_length_4: camp
+classification_no_space_length_5: campi
+classification_no_space_length_6: campin
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAM
+classification_no_space_upper_length_4: CAMP
+classification_no_space_upper_length_5: CAMPI
+classification_no_space_upper_length_6: CAMPIN
 classification_upper: CAMPING
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAM
+classification_upper_length_4: CAMP
+classification_upper_length_5: CAMPI
+classification_upper_length_6: CAMPIN
 color: tent
 color_capital: Tent
 color_first_letter: t
 color_first_letter_upper: T
+color_length_1: t
+color_length_2: te
+color_length_3: ten
+color_length_4: tent
+color_length_5: tent
+color_length_6: tent
+color_name: Tent
+color_no_space_length_1: t
+color_no_space_length_2: te
+color_no_space_length_3: ten
+color_no_space_length_4: tent
+color_no_space_length_5: tent
+color_no_space_length_6: tent
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TE
+color_no_space_upper_length_3: TEN
+color_no_space_upper_length_4: TENT
+color_no_space_upper_length_5: TENT
+color_no_space_upper_length_6: TENT
 color_upper: TENT
+color_upper_length_1: T
+color_upper_length_2: TE
+color_upper_length_3: TEN
+color_upper_length_4: TENT
+color_upper_length_5: TENT
+color_upper_length_6: TENT
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -26,17 +125,28 @@ directory: parts/camping_tent_tent
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camping_tent_tent
 id: camping_tent_tent
 id_no_class: tent_tent
+id_no_color: tent
 id_no_size: tent
 id_no_type: tent
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202y9gp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202y9gp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202y9gp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202y9gp
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[camping_tent_tent](none)<br>[](none)<br>[Camping Tent Tent](none)<br><br>'
@@ -52,9 +162,20 @@ md5_6_alpha_upper: 2Y9GP
 md5_6_upper: 4BA669
 name: Camping Tent Tent
 name_no_class: Tent Tent
+name_no_color: Tent
 name_no_size: Tent
 name_no_size_short: Tent
 name_no_type: Tent
+oomlout_detail_hierarchy_1: camping
+oomlout_detail_hierarchy_1_upper: CAMPING
+oomlout_detail_hierarchy_1_upper_length_4: CAMP
+oomlout_detail_hierarchy_2: tent
+oomlout_detail_hierarchy_2_upper: TENT
+oomlout_detail_hierarchy_2_upper_length_4: TENT
+oomlout_detail_hierarchy_3: tent
+oomlout_detail_hierarchy_3_upper: TENT
+oomlout_detail_hierarchy_3_upper_length_4: TENT
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_camping_tent_tent
 oomp_word: penguin trumpet cactus
 oomp_word_emoji: ':penguin: :trumpet: :cactus:'
@@ -70,13 +191,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -84,4 +211,29 @@ type: tent
 type_capital: Tent
 type_first_letter: t
 type_first_letter_upper: T
+type_length_1: t
+type_length_2: te
+type_length_3: ten
+type_length_4: tent
+type_length_5: tent
+type_length_6: tent
+type_name: Tent
+type_no_space_length_1: t
+type_no_space_length_2: te
+type_no_space_length_3: ten
+type_no_space_length_4: tent
+type_no_space_length_5: tent
+type_no_space_length_6: tent
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TE
+type_no_space_upper_length_3: TEN
+type_no_space_upper_length_4: TENT
+type_no_space_upper_length_5: TENT
+type_no_space_upper_length_6: TENT
 type_upper: TENT
+type_upper_length_1: T
+type_upper_length_2: TE
+type_upper_length_3: TEN
+type_upper_length_4: TENT
+type_upper_length_5: TENT
+type_upper_length_6: TENT

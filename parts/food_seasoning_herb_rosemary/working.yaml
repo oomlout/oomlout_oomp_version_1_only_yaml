@@ -1,0 +1,269 @@
+bip_39_word_dash_12: tuna-popular-trumpet-clean-payment-cream-cook-lamp-robust-age-purpose-alien
+bip_39_word_dash_2: tuna-popular
+bip_39_word_dash_3: tuna-popular-trumpet
+bip_39_word_new_br_12: tuna<br>popular<br>trumpet<br>clean<br>payment<br>cream<br>cook<br>lamp<br>robust<br>age<br>purpose<br>alien
+bip_39_word_new_br_2: tuna<br>popular
+bip_39_word_new_br_3: tuna<br>popular<br>trumpet
+bip_39_word_new_line_12: 'tuna
+
+  popular
+
+  trumpet
+
+  clean
+
+  payment
+
+  cream
+
+  cook
+
+  lamp
+
+  robust
+
+  age
+
+  purpose
+
+  alien'
+bip_39_word_new_line_2: 'tuna
+
+  popular'
+bip_39_word_new_line_3: 'tuna
+
+  popular
+
+  trumpet'
+bip_39_word_no_space_12: tunapopulartrumpetcleanpaymentcreamcooklamprobustagepurposealien
+bip_39_word_no_space_2: tunapopular
+bip_39_word_no_space_3: tunapopulartrumpet
+bip_39_word_space_12: tuna popular trumpet clean payment cream cook lamp robust age
+  purpose alien
+bip_39_word_space_2: tuna popular
+bip_39_word_space_3: tuna popular trumpet
+bip_39_word_underscore_12: tuna_popular_trumpet_clean_payment_cream_cook_lamp_robust_age_purpose_alien
+bip_39_word_underscore_2: tuna_popular
+bip_39_word_underscore_3: tuna_popular_trumpet
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: rosemary
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: rosemary
+description_main_capital: Rosemary
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_length_1: r
+description_main_length_2: ro
+description_main_length_3: ros
+description_main_length_4: rose
+description_main_length_5: rosem
+description_main_length_6: rosema
+description_main_name: Rosemary
+description_main_no_space_length_1: r
+description_main_no_space_length_2: ro
+description_main_no_space_length_3: ros
+description_main_no_space_length_4: rose
+description_main_no_space_length_5: rosem
+description_main_no_space_length_6: rosema
+description_main_no_space_upper_length_1: R
+description_main_no_space_upper_length_2: RO
+description_main_no_space_upper_length_3: ROS
+description_main_no_space_upper_length_4: ROSE
+description_main_no_space_upper_length_5: ROSEM
+description_main_no_space_upper_length_6: ROSEMA
+description_main_upper: ROSEMARY
+description_main_upper_length_1: R
+description_main_upper_length_2: RO
+description_main_upper_length_3: ROS
+description_main_upper_length_4: ROSE
+description_main_upper_length_5: ROSEM
+description_main_upper_length_6: ROSEMA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_rosemary
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_herb_rosemary
+id: food_seasoning_herb_rosemary
+id_no_class: seasoning_herb_rosemary
+id_no_color: rosemary
+id_no_size: rosemary
+id_no_type: herb_rosemary
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_rosemary
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_rosemary
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_rosemary
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_rosemary
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203ydoh
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203ydoh
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203ydoh
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203ydoh
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_rosemary
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_rosemary](none)<br>[](none)<br>[Food Seasoning
+  Herb Rosemary](none)<br><br>'
+markdown_short: '[food_seasoning_herb_rosemary](none)<br><br>'
+md5: 655cc135da7cc5f4cbd0d2a5d32a0f53
+md5_10: 655cc135da
+md5_10_upper: 655CC135DA
+md5_5: 655cc
+md5_5_upper: 655CC
+md5_6: 655cc1
+md5_6_alpha: 3ydoh
+md5_6_alpha_upper: 3YDOH
+md5_6_upper: 655CC1
+name: Food Seasoning Herb Rosemary
+name_no_class: Seasoning Herb Rosemary
+name_no_color: Rosemary
+name_no_size: Rosemary
+name_no_size_short: Rosemary
+name_no_type: Herb Rosemary
+name_short: Rosemary
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: herb
+oomlout_detail_hierarchy_3_upper: HERB
+oomlout_detail_hierarchy_3_upper_length_4: HERB
+oomlout_detail_hierarchy_4: rosemary
+oomlout_detail_hierarchy_4_upper: ROSEMARY
+oomlout_detail_hierarchy_4_upper_length_4: ROSE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_seasoning_herb_rosemary
+oomp_word: maple_leaf ox doughnut
+oomp_word_emoji: ':maple_leaf: :ox: :doughnut:'
+oomp_word_emoji_list:
+- ':maple_leaf:'
+- ':ox:'
+- ':doughnut:'
+oomp_word_list:
+- maple_leaf
+- ox
+- doughnut
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_length_1: h
+size_length_2: he
+size_length_3: her
+size_length_4: herb
+size_length_5: herb
+size_length_6: herb
+size_name: Herb
+size_no_space_length_1: h
+size_no_space_length_2: he
+size_no_space_length_3: her
+size_no_space_length_4: herb
+size_no_space_length_5: herb
+size_no_space_length_6: herb
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HE
+size_no_space_upper_length_3: HER
+size_no_space_upper_length_4: HERB
+size_no_space_upper_length_5: HERB
+size_no_space_upper_length_6: HERB
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+size_upper_length_1: H
+size_upper_length_2: HE
+size_upper_length_3: HER
+size_upper_length_4: HERB
+size_upper_length_5: HERB
+size_upper_length_6: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
+type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON

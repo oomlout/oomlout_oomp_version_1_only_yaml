@@ -1,23 +1,97 @@
+bip_39_word_dash_12: snack-ride-myth-rain-lucky-acid-glad-cube-energy-void-salt-acquire
+bip_39_word_dash_2: snack-ride
+bip_39_word_dash_3: snack-ride-myth
+bip_39_word_new_br_12: snack<br>ride<br>myth<br>rain<br>lucky<br>acid<br>glad<br>cube<br>energy<br>void<br>salt<br>acquire
+bip_39_word_new_br_2: snack<br>ride
+bip_39_word_new_br_3: snack<br>ride<br>myth
+bip_39_word_new_line_12: 'snack
+
+  ride
+
+  myth
+
+  rain
+
+  lucky
+
+  acid
+
+  glad
+
+  cube
+
+  energy
+
+  void
+
+  salt
+
+  acquire'
+bip_39_word_new_line_2: 'snack
+
+  ride'
+bip_39_word_new_line_3: 'snack
+
+  ride
+
+  myth'
+bip_39_word_no_space_12: snackridemythrainluckyacidgladcubeenergyvoidsaltacquire
+bip_39_word_no_space_2: snackride
+bip_39_word_no_space_3: snackridemyth
+bip_39_word_space_12: snack ride myth rain lucky acid glad cube energy void salt acquire
+bip_39_word_space_2: snack ride
+bip_39_word_space_3: snack ride myth
+bip_39_word_underscore_12: snack_ride_myth_rain_lucky_acid_glad_cube_energy_void_salt_acquire
+bip_39_word_underscore_2: snack_ride
+bip_39_word_underscore_3: snack_ride_myth
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_robot_arm
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +101,32 @@ directory: parts/category_robot_arm_denso
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_robot_arm_denso
 id: category_robot_arm_denso
 id_no_class: robot_arm_denso
+id_no_color: denso
 id_no_size: denso
 id_no_type: denso
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_denso
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_denso
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_denso
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_denso
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dunx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dunx
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201dunx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dunx
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_denso
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_robot_arm_denso](none)<br>[](none)<br>[Category Robot Arm
-    Denso](none)<br><br>'
+  Denso](none)<br><br>'
 markdown_short: '[category_robot_arm_denso](none)<br><br>'
 md5: 237d7d6250356c5007c25b11252e5e68
 md5_10: 237d7d6250
@@ -54,9 +139,20 @@ md5_6_alpha_upper: 1DUNX
 md5_6_upper: 237D7D
 name: Category Robot Arm Denso
 name_no_class: Robot Arm Denso
+name_no_color: Denso
 name_no_size: Denso
 name_no_size_short: Denso
 name_no_type: Denso
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: robot_arm
+oomlout_detail_hierarchy_2_upper: ROBOT_ARM
+oomlout_detail_hierarchy_2_upper_length_4: ROBO
+oomlout_detail_hierarchy_3: denso
+oomlout_detail_hierarchy_3_upper: DENSO
+oomlout_detail_hierarchy_3_upper_length_4: DENS
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_robot_arm_denso
 oomp_word: kiss phone phone
 oomp_word_emoji: ':kiss: :phone: :phone:'
@@ -73,7 +169,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryrobotarm
@@ -81,11 +182,61 @@ size: denso
 size_capital: Denso
 size_first_letter: d
 size_first_letter_upper: D
+size_length_1: d
+size_length_2: de
+size_length_3: den
+size_length_4: dens
+size_length_5: denso
+size_length_6: denso
+size_name: Denso
+size_no_space_length_1: d
+size_no_space_length_2: de
+size_no_space_length_3: den
+size_no_space_length_4: dens
+size_no_space_length_5: denso
+size_no_space_length_6: denso
+size_no_space_upper_length_1: D
+size_no_space_upper_length_2: DE
+size_no_space_upper_length_3: DEN
+size_no_space_upper_length_4: DENS
+size_no_space_upper_length_5: DENSO
+size_no_space_upper_length_6: DENSO
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: DENSO
+size_upper_length_1: D
+size_upper_length_2: DE
+size_upper_length_3: DEN
+size_upper_length_4: DENS
+size_upper_length_5: DENSO
+size_upper_length_6: DENSO
 type: robot_arm
 type_capital: Robot Arm
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: ro
+type_length_3: rob
+type_length_4: robo
+type_length_5: robot
+type_length_6: robot_
+type_name: Robot Arm
+type_no_space_length_1: r
+type_no_space_length_2: ro
+type_no_space_length_3: rob
+type_no_space_length_4: robo
+type_no_space_length_5: robot
+type_no_space_length_6: robota
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RO
+type_no_space_upper_length_3: ROB
+type_no_space_upper_length_4: ROBO
+type_no_space_upper_length_5: ROBOT
+type_no_space_upper_length_6: ROBOTA
 type_upper: ROBOT_ARM
+type_upper_length_1: R
+type_upper_length_2: RO
+type_upper_length_3: ROB
+type_upper_length_4: ROBO
+type_upper_length_5: ROBOT
+type_upper_length_6: ROBOT_

@@ -1,40 +1,150 @@
+bip_39_word_dash_12: file-ramp-spray-galaxy-board-gap-fix-emotion-goose-remove-private-already
+bip_39_word_dash_2: file-ramp
+bip_39_word_dash_3: file-ramp-spray
+bip_39_word_new_br_12: file<br>ramp<br>spray<br>galaxy<br>board<br>gap<br>fix<br>emotion<br>goose<br>remove<br>private<br>already
+bip_39_word_new_br_2: file<br>ramp
+bip_39_word_new_br_3: file<br>ramp<br>spray
+bip_39_word_new_line_12: 'file
+
+  ramp
+
+  spray
+
+  galaxy
+
+  board
+
+  gap
+
+  fix
+
+  emotion
+
+  goose
+
+  remove
+
+  private
+
+  already'
+bip_39_word_new_line_2: 'file
+
+  ramp'
+bip_39_word_new_line_3: 'file
+
+  ramp
+
+  spray'
+bip_39_word_no_space_12: filerampspraygalaxyboardgapfixemotiongooseremoveprivatealready
+bip_39_word_no_space_2: fileramp
+bip_39_word_no_space_3: filerampspray
+bip_39_word_space_12: file ramp spray galaxy board gap fix emotion goose remove private
+  already
+bip_39_word_space_2: file ramp
+bip_39_word_space_3: file ramp spray
+bip_39_word_underscore_12: file_ramp_spray_galaxy_board_gap_fix_emotion_goose_remove_private_already
+bip_39_word_underscore_2: file_ramp
+bip_39_word_underscore_3: file_ramp_spray
 classification: archive
 classification_capital: Archive
 classification_first_letter: a
 classification_first_letter_upper: A
+classification_length_1: a
+classification_length_2: ar
+classification_length_3: arc
+classification_length_4: arch
+classification_length_5: archi
+classification_length_6: archiv
+classification_name: Archive
+classification_no_space_length_1: a
+classification_no_space_length_2: ar
+classification_no_space_length_3: arc
+classification_no_space_length_4: arch
+classification_no_space_length_5: archi
+classification_no_space_length_6: archiv
+classification_no_space_upper_length_1: A
+classification_no_space_upper_length_2: AR
+classification_no_space_upper_length_3: ARC
+classification_no_space_upper_length_4: ARCH
+classification_no_space_upper_length_5: ARCHI
+classification_no_space_upper_length_6: ARCHIV
 classification_upper: ARCHIVE
+classification_upper_length_1: A
+classification_upper_length_2: AR
+classification_upper_length_3: ARC
+classification_upper_length_4: ARCH
+classification_upper_length_5: ARCHI
+classification_upper_length_6: ARCHIV
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: mixed
 description_main_capital: Mixed
 description_main_first_letter: m
 description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
 description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
 description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: ' '
 description_or_color_upper: ' '
 directory: parts/archive_paper_mixed
 distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/archive_paper_mixed
 id: archive_paper_mixed
 id_no_class: paper_mixed
+id_no_color: mixed
 id_no_size: mixed
 id_no_type: mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_paper_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_paper_mixed
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_paper_mixed
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_paper_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204i0dp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204i0dp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204i0dp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204i0dp
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_paper_mixed
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[archive_paper_mixed](none)<br>[](none)<br>[Archive Paper Mixed](none)<br><br>'
@@ -50,9 +160,20 @@ md5_6_alpha_upper: 4I0DP
 md5_6_upper: 73566D
 name: Archive Paper Mixed
 name_no_class: Paper Mixed
+name_no_color: Mixed
 name_no_size: Mixed
 name_no_size_short: Mixed
 name_no_type: Mixed
+oomlout_detail_hierarchy_1: archive
+oomlout_detail_hierarchy_1_upper: ARCHIVE
+oomlout_detail_hierarchy_1_upper_length_4: ARCH
+oomlout_detail_hierarchy_2: paper
+oomlout_detail_hierarchy_2_upper: PAPER
+oomlout_detail_hierarchy_2_upper_length_4: PAPE
+oomlout_detail_hierarchy_3: mixed
+oomlout_detail_hierarchy_3_upper: MIXED
+oomlout_detail_hierarchy_3_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_archive_paper_mixed
 oomp_word: flags ram shell
 oomp_word_emoji: ':flags: :ram: :shell:'
@@ -68,13 +189,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -82,4 +209,29 @@ type: paper
 type_capital: Paper
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pap
+type_length_4: pape
+type_length_5: paper
+type_length_6: paper
+type_name: Paper
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pap
+type_no_space_length_4: pape
+type_no_space_length_5: paper
+type_no_space_length_6: paper
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAP
+type_no_space_upper_length_4: PAPE
+type_no_space_upper_length_5: PAPER
+type_no_space_upper_length_6: PAPER
 type_upper: PAPER
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAP
+type_upper_length_4: PAPE
+type_upper_length_5: PAPER
+type_upper_length_6: PAPER

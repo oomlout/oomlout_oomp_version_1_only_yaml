@@ -1,23 +1,122 @@
+bip_39_word_dash_12: chief-spatial-awesome-army-jeans-wire-company-current-vehicle-seed-deal-another
+bip_39_word_dash_2: chief-spatial
+bip_39_word_dash_3: chief-spatial-awesome
+bip_39_word_new_br_12: chief<br>spatial<br>awesome<br>army<br>jeans<br>wire<br>company<br>current<br>vehicle<br>seed<br>deal<br>another
+bip_39_word_new_br_2: chief<br>spatial
+bip_39_word_new_br_3: chief<br>spatial<br>awesome
+bip_39_word_new_line_12: 'chief
+
+  spatial
+
+  awesome
+
+  army
+
+  jeans
+
+  wire
+
+  company
+
+  current
+
+  vehicle
+
+  seed
+
+  deal
+
+  another'
+bip_39_word_new_line_2: 'chief
+
+  spatial'
+bip_39_word_new_line_3: 'chief
+
+  spatial
+
+  awesome'
+bip_39_word_no_space_12: chiefspatialawesomearmyjeanswirecompanycurrentvehicleseeddealanother
+bip_39_word_no_space_2: chiefspatial
+bip_39_word_no_space_3: chiefspatialawesome
+bip_39_word_space_12: chief spatial awesome army jeans wire company current vehicle
+  seed deal another
+bip_39_word_space_2: chief spatial
+bip_39_word_space_3: chief spatial awesome
+bip_39_word_underscore_12: chief_spatial_awesome_army_jeans_wire_company_current_vehicle_seed_deal_another
+bip_39_word_underscore_2: chief_spatial
+bip_39_word_underscore_3: chief_spatial_awesome
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_craft
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_craft_bead_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_bead_tote
 id: category_craft_bead_tote
 id_no_class: craft_bead_tote
+id_no_color: tote
 id_no_size: tote
 id_no_type: bead_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205y4j4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205y4j4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205y4j4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205y4j4
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_bead_tote](none)<br>[](none)<br>[Category Craft Bead
-    Tote](none)<br><br>'
+  Tote](none)<br><br>'
 markdown_short: '[category_craft_bead_tote](none)<br><br>'
 md5: 987070bf8f3605d3f0bbd0c02134213e
 md5_10: 987070bf8f
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 5Y4J4
 md5_6_upper: '987070'
 name: Category Craft Bead Tote
 name_no_class: Craft Bead Tote
+name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Bead Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: craft
+oomlout_detail_hierarchy_2_upper: CRAFT
+oomlout_detail_hierarchy_2_upper_length_4: CRAF
+oomlout_detail_hierarchy_3: bead
+oomlout_detail_hierarchy_3_upper: BEAD
+oomlout_detail_hierarchy_3_upper_length_4: BEAD
+oomlout_detail_hierarchy_4: tote
+oomlout_detail_hierarchy_4_upper: TOTE
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_craft_bead_tote
 oomp_word: tennis squirrel squirrel
 oomp_word_emoji: ':tennis: :squirrel: :squirrel:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycraft
@@ -81,11 +210,61 @@ size: bead
 size_capital: Bead
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: be
+size_length_3: bea
+size_length_4: bead
+size_length_5: bead
+size_length_6: bead
+size_name: Bead
+size_no_space_length_1: b
+size_no_space_length_2: be
+size_no_space_length_3: bea
+size_no_space_length_4: bead
+size_no_space_length_5: bead
+size_no_space_length_6: bead
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BE
+size_no_space_upper_length_3: BEA
+size_no_space_upper_length_4: BEAD
+size_no_space_upper_length_5: BEAD
+size_no_space_upper_length_6: BEAD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BEAD
+size_upper_length_1: B
+size_upper_length_2: BE
+size_upper_length_3: BEA
+size_upper_length_4: BEAD
+size_upper_length_5: BEAD
+size_upper_length_6: BEAD
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: cr
+type_length_3: cra
+type_length_4: craf
+type_length_5: craft
+type_length_6: craft
+type_name: Craft
+type_no_space_length_1: c
+type_no_space_length_2: cr
+type_no_space_length_3: cra
+type_no_space_length_4: craf
+type_no_space_length_5: craft
+type_no_space_length_6: craft
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CR
+type_no_space_upper_length_3: CRA
+type_no_space_upper_length_4: CRAF
+type_no_space_upper_length_5: CRAFT
+type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
+type_upper_length_1: C
+type_upper_length_2: CR
+type_upper_length_3: CRA
+type_upper_length_4: CRAF
+type_upper_length_5: CRAFT
+type_upper_length_6: CRAFT

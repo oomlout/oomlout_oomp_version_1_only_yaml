@@ -1,23 +1,122 @@
+bip_39_word_dash_12: sting-relax-canyon-lamp-scheme-ritual-congress-snap-jump-dinner-pitch-already
+bip_39_word_dash_2: sting-relax
+bip_39_word_dash_3: sting-relax-canyon
+bip_39_word_new_br_12: sting<br>relax<br>canyon<br>lamp<br>scheme<br>ritual<br>congress<br>snap<br>jump<br>dinner<br>pitch<br>already
+bip_39_word_new_br_2: sting<br>relax
+bip_39_word_new_br_3: sting<br>relax<br>canyon
+bip_39_word_new_line_12: 'sting
+
+  relax
+
+  canyon
+
+  lamp
+
+  scheme
+
+  ritual
+
+  congress
+
+  snap
+
+  jump
+
+  dinner
+
+  pitch
+
+  already'
+bip_39_word_new_line_2: 'sting
+
+  relax'
+bip_39_word_new_line_3: 'sting
+
+  relax
+
+  canyon'
+bip_39_word_no_space_12: stingrelaxcanyonlampschemeritualcongresssnapjumpdinnerpitchalready
+bip_39_word_no_space_2: stingrelax
+bip_39_word_no_space_3: stingrelaxcanyon
+bip_39_word_space_12: sting relax canyon lamp scheme ritual congress snap jump dinner
+  pitch already
+bip_39_word_space_2: sting relax
+bip_39_word_space_3: sting relax canyon
+bip_39_word_underscore_12: sting_relax_canyon_lamp_scheme_ritual_congress_snap_jump_dinner_pitch_already
+bip_39_word_underscore_2: sting_relax
+bip_39_word_underscore_3: sting_relax_canyon
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: lga_12_pin_2_mm_x_2_mm
 color_capital: Lga 12 Pin 2 mm x 2 mm
 color_first_letter: l
 color_first_letter_upper: L
+color_length_1: l
+color_length_2: lg
+color_length_3: lga
+color_length_4: lga_
+color_length_5: lga_1
+color_length_6: lga_12
+color_name: Lga 12 Pin 2 mm X 2 mm
+color_no_space_length_1: l
+color_no_space_length_2: lg
+color_no_space_length_3: lga
+color_no_space_length_4: lga1
+color_no_space_length_5: lga12
+color_no_space_length_6: lga12p
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LG
+color_no_space_upper_length_3: LGA
+color_no_space_upper_length_4: LGA1
+color_no_space_upper_length_5: LGA12
+color_no_space_upper_length_6: LGA12P
 color_upper: LGA_12_PIN_2_MM_X_2_MM
+color_upper_length_1: L
+color_upper_length_2: LG
+color_upper_length_3: LGA
+color_upper_length_4: LGA_
+color_upper_length_5: LGA_1
+color_upper_length_6: LGA_12
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
 id: category_electronic_ic_lga_12_pin_2_mm_x_2_mm
 id_no_class: electronic_ic_lga_12_pin_2_mm_x_2_mm
+id_no_color: lga_12_pin_2_mm_x_2_mm
 id_no_size: lga_12_pin_2_mm_x_2_mm
 id_no_type: ic_lga_12_pin_2_mm_x_2_mm
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204hy4v
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204hy4v
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204hy4v
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204hy4v
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_lga_12_pin_2_mm_x_2_mm
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_ic_lga_12_pin_2_mm_x_2_mm](none)<br>[](none)<br>[Category
-    Electronic Ic Lga 12 Pin 2 Mm X 2 Mm](none)<br><br>'
+  Electronic Ic Lga 12 Pin 2 Mm X 2 Mm](none)<br><br>'
 markdown_short: '[category_electronic_ic_lga_12_pin_2_mm_x_2_mm](none)<br><br>'
 md5: 734b0f93c7cd45e2ea6057cc43ad46af
 md5_10: 734b0f93c7
@@ -52,11 +162,28 @@ md5_6: 734b0f
 md5_6_alpha: 4hy4v
 md5_6_alpha_upper: 4HY4V
 md5_6_upper: 734B0F
-name: Category Electronic Ic Lga 12 Pin 2 Mm X 2 Mm
-name_no_class: Electronic Ic Lga 12 Pin 2 Mm X 2 Mm
-name_no_size: Lga 12 Pin 2 Mm X 2 Mm
+name: Category Electronic IC Lga 12 Pin 2 mm X 2 mm
+name_no_class: Electronic IC Lga 12 Pin 2 mm X 2 mm
+name_no_color: Lga 12 Pin 2 mm X 2 mm
+name_no_size: Lga 12 Pin 2 mm X 2 mm
 name_no_size_short: Lga 12 Pin 2 Mm X 2 Mm
-name_no_type: Ic Lga 12 Pin 2 Mm X 2 Mm
+name_no_type: IC Lga 12 Pin 2 mm X 2 mm
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: ic
+oomlout_detail_hierarchy_3_upper: IC
+oomlout_detail_hierarchy_3_upper_length_4: IC
+oomlout_detail_hierarchy_4: lga_12_pin_2
+oomlout_detail_hierarchy_4_upper: LGA_12_PIN_2
+oomlout_detail_hierarchy_4_upper_length_4: LGA_
+oomlout_detail_hierarchy_5: mm_x_2_mm
+oomlout_detail_hierarchy_5_upper: MM_X_2_MM
+oomlout_detail_hierarchy_5_upper_length_4: MM_X
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_ic_lga_12_pin_2_mm_x_2_mm
 oomp_word: flags penguin sparkles
 oomp_word_emoji: ':flags: :penguin: :sparkles:'
@@ -73,7 +200,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -81,11 +213,61 @@ size: ic
 size_capital: Ic
 size_first_letter: i
 size_first_letter_upper: I
+size_length_1: i
+size_length_2: ic
+size_length_3: ic
+size_length_4: ic
+size_length_5: ic
+size_length_6: ic
+size_name: IC
+size_no_space_length_1: i
+size_no_space_length_2: ic
+size_no_space_length_3: ic
+size_no_space_length_4: ic
+size_no_space_length_5: ic
+size_no_space_length_6: ic
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IC
+size_no_space_upper_length_3: IC
+size_no_space_upper_length_4: IC
+size_no_space_upper_length_5: IC
+size_no_space_upper_length_6: IC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IC
+size_upper_length_1: I
+size_upper_length_2: IC
+size_upper_length_3: IC
+size_upper_length_4: IC
+size_upper_length_5: IC
+size_upper_length_6: IC
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

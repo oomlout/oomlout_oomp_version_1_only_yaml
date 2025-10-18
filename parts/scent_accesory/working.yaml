@@ -1,0 +1,212 @@
+bip_39_word_dash_12: flee-hole-stadium-state-town-into-trouble-drop-bunker-buddy-airport-august
+bip_39_word_dash_2: flee-hole
+bip_39_word_dash_3: flee-hole-stadium
+bip_39_word_new_br_12: flee<br>hole<br>stadium<br>state<br>town<br>into<br>trouble<br>drop<br>bunker<br>buddy<br>airport<br>august
+bip_39_word_new_br_2: flee<br>hole
+bip_39_word_new_br_3: flee<br>hole<br>stadium
+bip_39_word_new_line_12: 'flee
+
+  hole
+
+  stadium
+
+  state
+
+  town
+
+  into
+
+  trouble
+
+  drop
+
+  bunker
+
+  buddy
+
+  airport
+
+  august'
+bip_39_word_new_line_2: 'flee
+
+  hole'
+bip_39_word_new_line_3: 'flee
+
+  hole
+
+  stadium'
+bip_39_word_no_space_12: fleeholestadiumstatetownintotroubledropbunkerbuddyairportaugust
+bip_39_word_no_space_2: fleehole
+bip_39_word_no_space_3: fleeholestadium
+bip_39_word_space_12: flee hole stadium state town into trouble drop bunker buddy
+  airport august
+bip_39_word_space_2: flee hole
+bip_39_word_space_3: flee hole stadium
+bip_39_word_underscore_12: flee_hole_stadium_state_town_into_trouble_drop_bunker_buddy_airport_august
+bip_39_word_underscore_2: flee_hole
+bip_39_word_underscore_3: flee_hole_stadium
+classification: scent
+classification_capital: Scent
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: sc
+classification_length_3: sce
+classification_length_4: scen
+classification_length_5: scent
+classification_length_6: scent
+classification_name: Scent
+classification_no_space_length_1: s
+classification_no_space_length_2: sc
+classification_no_space_length_3: sce
+classification_no_space_length_4: scen
+classification_no_space_length_5: scent
+classification_no_space_length_6: scent
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: SC
+classification_no_space_upper_length_3: SCE
+classification_no_space_upper_length_4: SCEN
+classification_no_space_upper_length_5: SCENT
+classification_no_space_upper_length_6: SCENT
+classification_upper: SCENT
+classification_upper_length_1: S
+classification_upper_length_2: SC
+classification_upper_length_3: SCE
+classification_upper_length_4: SCEN
+classification_upper_length_5: SCENT
+classification_upper_length_6: SCENT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/scent_accesory
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/scent_accesory
+id: scent_accesory
+id_no_class: accesory
+id_no_color: accesory
+id_no_size: accesory
+id_no_type: accesory
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_accesory
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_accesory
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_accesory
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_accesory
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209fzlz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209fzlz
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209fzlz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209fzlz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_accesory
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[scent_accesory](none)<br>[](none)<br>[Scent Accesory](none)<br><br>'
+markdown_short: '[scent_accesory](none)<br><br>'
+md5: f20b0758f3437d21d7732d4da7db2ac6
+md5_10: f20b0758f3
+md5_10_upper: F20B0758F3
+md5_5: f20b0
+md5_5_upper: F20B0
+md5_6: f20b07
+md5_6_alpha: 9fzlz
+md5_6_alpha_upper: 9FZLZ
+md5_6_upper: F20B07
+name: Scent Accesory
+name_no_class: Accesory
+name_no_color: Accesory
+name_no_size: Accesory
+name_no_size_short: Accesory
+name_no_type: Accesory
+oomlout_detail_hierarchy_1: scent
+oomlout_detail_hierarchy_1_upper: SCENT
+oomlout_detail_hierarchy_1_upper_length_4: SCEN
+oomlout_detail_hierarchy_2: accesory
+oomlout_detail_hierarchy_2_upper: ACCESORY
+oomlout_detail_hierarchy_2_upper_length_4: ACCE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_scent_accesory
+oomp_word: one sunglasses cry
+oomp_word_emoji: ':one: :sunglasses: :cry:'
+oomp_word_emoji_list:
+- ':one:'
+- ':sunglasses:'
+- ':cry:'
+oomp_word_list:
+- one
+- sunglasses
+- cry
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: accesory
+type_capital: Accesory
+type_first_letter: a
+type_first_letter_upper: A
+type_length_1: a
+type_length_2: ac
+type_length_3: acc
+type_length_4: acce
+type_length_5: acces
+type_length_6: acceso
+type_name: Accesory
+type_no_space_length_1: a
+type_no_space_length_2: ac
+type_no_space_length_3: acc
+type_no_space_length_4: acce
+type_no_space_length_5: acces
+type_no_space_length_6: acceso
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AC
+type_no_space_upper_length_3: ACC
+type_no_space_upper_length_4: ACCE
+type_no_space_upper_length_5: ACCES
+type_no_space_upper_length_6: ACCESO
+type_upper: ACCESORY
+type_upper_length_1: A
+type_upper_length_2: AC
+type_upper_length_3: ACC
+type_upper_length_4: ACCE
+type_upper_length_5: ACCES
+type_upper_length_6: ACCESO

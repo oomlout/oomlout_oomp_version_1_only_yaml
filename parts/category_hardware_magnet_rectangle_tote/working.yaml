@@ -1,23 +1,146 @@
+bip_39_word_dash_12: crush-glory-give-hurry-carpet-noodle-delay-decide-anxiety-yellow-omit-agree
+bip_39_word_dash_2: crush-glory
+bip_39_word_dash_3: crush-glory-give
+bip_39_word_new_br_12: crush<br>glory<br>give<br>hurry<br>carpet<br>noodle<br>delay<br>decide<br>anxiety<br>yellow<br>omit<br>agree
+bip_39_word_new_br_2: crush<br>glory
+bip_39_word_new_br_3: crush<br>glory<br>give
+bip_39_word_new_line_12: 'crush
+
+  glory
+
+  give
+
+  hurry
+
+  carpet
+
+  noodle
+
+  delay
+
+  decide
+
+  anxiety
+
+  yellow
+
+  omit
+
+  agree'
+bip_39_word_new_line_2: 'crush
+
+  glory'
+bip_39_word_new_line_3: 'crush
+
+  glory
+
+  give'
+bip_39_word_no_space_12: crushglorygivehurrycarpetnoodledelaydecideanxietyyellowomitagree
+bip_39_word_no_space_2: crushglory
+bip_39_word_no_space_3: crushglorygive
+bip_39_word_space_12: crush glory give hurry carpet noodle delay decide anxiety yellow
+  omit agree
+bip_39_word_space_2: crush glory
+bip_39_word_space_3: crush glory give
+bip_39_word_underscore_12: crush_glory_give_hurry_carpet_noodle_delay_decide_anxiety_yellow_omit_agree
+bip_39_word_underscore_2: crush_glory
+bip_39_word_underscore_3: crush_glory_give
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: rectangle
 color_capital: Rectangle
 color_first_letter: r
 color_first_letter_upper: R
+color_length_1: r
+color_length_2: re
+color_length_3: rec
+color_length_4: rect
+color_length_5: recta
+color_length_6: rectan
+color_name: Rectangle
+color_no_space_length_1: r
+color_no_space_length_2: re
+color_no_space_length_3: rec
+color_no_space_length_4: rect
+color_no_space_length_5: recta
+color_no_space_length_6: rectan
+color_no_space_upper_length_1: R
+color_no_space_upper_length_2: RE
+color_no_space_upper_length_3: REC
+color_no_space_upper_length_4: RECT
+color_no_space_upper_length_5: RECTA
+color_no_space_upper_length_6: RECTAN
 color_upper: RECTANGLE
+color_upper_length_1: R
+color_upper_length_2: RE
+color_upper_length_3: REC
+color_upper_length_4: RECT
+color_upper_length_5: RECTA
+color_upper_length_6: RECTAN
 description: category_hardware
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_hardware_magnet_rectangle_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_magnet_rectangle_tote
 id: category_hardware_magnet_rectangle_tote
 id_no_class: hardware_magnet_rectangle_tote
+id_no_color: tote
 id_no_size: rectangle_tote
 id_no_type: magnet_rectangle_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20362gv
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20362gv
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20362gv
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20362gv
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_magnet_rectangle_tote](none)<br>[](none)<br>[Category
-    Hardware Magnet Rectangle Tote](none)<br><br>'
+  Hardware Magnet Rectangle Tote](none)<br><br>'
 markdown_short: '[category_hardware_magnet_rectangle_tote](none)<br><br>'
 md5: 5134ffc05038c73e581166fac4d8e1a8
 md5_10: 5134ffc050
@@ -54,9 +188,26 @@ md5_6_alpha_upper: 362GV
 md5_6_upper: 5134FF
 name: Category Hardware Magnet Rectangle Tote
 name_no_class: Hardware Magnet Rectangle Tote
+name_no_color: Tote
 name_no_size: Rectangle Tote
 name_no_size_short: Rectangle Tote
 name_no_type: Magnet Rectangle Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: hardware
+oomlout_detail_hierarchy_2_upper: HARDWARE
+oomlout_detail_hierarchy_2_upper_length_4: HARD
+oomlout_detail_hierarchy_3: magnet
+oomlout_detail_hierarchy_3_upper: MAGNET
+oomlout_detail_hierarchy_3_upper_length_4: MAGN
+oomlout_detail_hierarchy_4: rectangle
+oomlout_detail_hierarchy_4_upper: RECTANGLE
+oomlout_detail_hierarchy_4_upper_length_4: RECT
+oomlout_detail_hierarchy_5: tote
+oomlout_detail_hierarchy_5_upper: TOTE
+oomlout_detail_hierarchy_5_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_hardware_magnet_rectangle_tote
 oomp_word: snail mouse trident
 oomp_word_emoji: ':snail: :mouse: :trident:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhardware
@@ -81,11 +237,61 @@ size: magnet
 size_capital: Magnet
 size_first_letter: m
 size_first_letter_upper: M
+size_length_1: m
+size_length_2: ma
+size_length_3: mag
+size_length_4: magn
+size_length_5: magne
+size_length_6: magnet
+size_name: Magnet
+size_no_space_length_1: m
+size_no_space_length_2: ma
+size_no_space_length_3: mag
+size_no_space_length_4: magn
+size_no_space_length_5: magne
+size_no_space_length_6: magnet
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: MA
+size_no_space_upper_length_3: MAG
+size_no_space_upper_length_4: MAGN
+size_no_space_upper_length_5: MAGNE
+size_no_space_upper_length_6: MAGNET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MAGNET
+size_upper_length_1: M
+size_upper_length_2: MA
+size_upper_length_3: MAG
+size_upper_length_4: MAGN
+size_upper_length_5: MAGNE
+size_upper_length_6: MAGNET
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
+type_length_1: h
+type_length_2: ha
+type_length_3: har
+type_length_4: hard
+type_length_5: hardw
+type_length_6: hardwa
+type_name: Hardware
+type_no_space_length_1: h
+type_no_space_length_2: ha
+type_no_space_length_3: har
+type_no_space_length_4: hard
+type_no_space_length_5: hardw
+type_no_space_length_6: hardwa
+type_no_space_upper_length_1: H
+type_no_space_upper_length_2: HA
+type_no_space_upper_length_3: HAR
+type_no_space_upper_length_4: HARD
+type_no_space_upper_length_5: HARDW
+type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
+type_upper_length_1: H
+type_upper_length_2: HA
+type_upper_length_3: HAR
+type_upper_length_4: HARD
+type_upper_length_5: HARDW
+type_upper_length_6: HARDWA

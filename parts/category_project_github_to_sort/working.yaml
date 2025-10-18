@@ -1,23 +1,122 @@
+bip_39_word_dash_12: swarm-foot-palace-aerobic-sponsor-scare-appear-drum-satoshi-quick-wreck-antique
+bip_39_word_dash_2: swarm-foot
+bip_39_word_dash_3: swarm-foot-palace
+bip_39_word_new_br_12: swarm<br>foot<br>palace<br>aerobic<br>sponsor<br>scare<br>appear<br>drum<br>satoshi<br>quick<br>wreck<br>antique
+bip_39_word_new_br_2: swarm<br>foot
+bip_39_word_new_br_3: swarm<br>foot<br>palace
+bip_39_word_new_line_12: 'swarm
+
+  foot
+
+  palace
+
+  aerobic
+
+  sponsor
+
+  scare
+
+  appear
+
+  drum
+
+  satoshi
+
+  quick
+
+  wreck
+
+  antique'
+bip_39_word_new_line_2: 'swarm
+
+  foot'
+bip_39_word_new_line_3: 'swarm
+
+  foot
+
+  palace'
+bip_39_word_no_space_12: swarmfootpalaceaerobicsponsorscareappeardrumsatoshiquickwreckantique
+bip_39_word_no_space_2: swarmfoot
+bip_39_word_no_space_3: swarmfootpalace
+bip_39_word_space_12: swarm foot palace aerobic sponsor scare appear drum satoshi
+  quick wreck antique
+bip_39_word_space_2: swarm foot
+bip_39_word_space_3: swarm foot palace
+bip_39_word_underscore_12: swarm_foot_palace_aerobic_sponsor_scare_appear_drum_satoshi_quick_wreck_antique
+bip_39_word_underscore_2: swarm_foot
+bip_39_word_underscore_3: swarm_foot_palace
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_project
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_project_github_to_sort
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_project_github_to_sort
 id: category_project_github_to_sort
 id_no_class: project_github_to_sort
+id_no_color: tosort
 id_no_size: to_sort
 id_no_type: github_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2068q5n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2068q5n
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2068q5n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2068q5n
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_project_github_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_project_github_to_sort](none)<br>[](none)<br>[Category Project
-    Github To Sort](none)<br><br>'
+  Github To Sort](none)<br><br>'
 markdown_short: '[category_project_github_to_sort](none)<br><br>'
 md5: 9ffc6bedfb438153016930433e56bedb
 md5_10: 9ffc6bedfb
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 68Q5N
 md5_6_upper: 9FFC6B
 name: Category Project Github To Sort
 name_no_class: Project Github To Sort
+name_no_color: Tosort
 name_no_size: To Sort
 name_no_size_short: To Sort
 name_no_type: Github To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: project
+oomlout_detail_hierarchy_2_upper: PROJECT
+oomlout_detail_hierarchy_2_upper_length_4: PROJ
+oomlout_detail_hierarchy_3: github
+oomlout_detail_hierarchy_3_upper: GITHUB
+oomlout_detail_hierarchy_3_upper_length_4: GITH
+oomlout_detail_hierarchy_4: to_sort
+oomlout_detail_hierarchy_4_upper: TO_SORT
+oomlout_detail_hierarchy_4_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_project_github_to_sort
 oomp_word: diamonds up chestnut
 oomp_word_emoji: ':diamonds: :up: :chestnut:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryproject
@@ -81,11 +210,61 @@ size: github
 size_capital: Github
 size_first_letter: g
 size_first_letter_upper: G
+size_length_1: g
+size_length_2: gi
+size_length_3: git
+size_length_4: gith
+size_length_5: githu
+size_length_6: github
+size_name: Github
+size_no_space_length_1: g
+size_no_space_length_2: gi
+size_no_space_length_3: git
+size_no_space_length_4: gith
+size_no_space_length_5: githu
+size_no_space_length_6: github
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GI
+size_no_space_upper_length_3: GIT
+size_no_space_upper_length_4: GITH
+size_no_space_upper_length_5: GITHU
+size_no_space_upper_length_6: GITHUB
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: GITHUB
+size_upper_length_1: G
+size_upper_length_2: GI
+size_upper_length_3: GIT
+size_upper_length_4: GITH
+size_upper_length_5: GITHU
+size_upper_length_6: GITHUB
 type: project
 type_capital: Project
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pr
+type_length_3: pro
+type_length_4: proj
+type_length_5: proje
+type_length_6: projec
+type_name: Project
+type_no_space_length_1: p
+type_no_space_length_2: pr
+type_no_space_length_3: pro
+type_no_space_length_4: proj
+type_no_space_length_5: proje
+type_no_space_length_6: projec
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PR
+type_no_space_upper_length_3: PRO
+type_no_space_upper_length_4: PROJ
+type_no_space_upper_length_5: PROJE
+type_no_space_upper_length_6: PROJEC
 type_upper: PROJECT
+type_upper_length_1: P
+type_upper_length_2: PR
+type_upper_length_3: PRO
+type_upper_length_4: PROJ
+type_upper_length_5: PROJE
+type_upper_length_6: PROJEC

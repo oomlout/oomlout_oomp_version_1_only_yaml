@@ -1,23 +1,122 @@
+bip_39_word_dash_12: amateur-grab-dinosaur-riot-cake-execute-convince-mail-exhibit-symptom-coast-antique
+bip_39_word_dash_2: amateur-grab
+bip_39_word_dash_3: amateur-grab-dinosaur
+bip_39_word_new_br_12: amateur<br>grab<br>dinosaur<br>riot<br>cake<br>execute<br>convince<br>mail<br>exhibit<br>symptom<br>coast<br>antique
+bip_39_word_new_br_2: amateur<br>grab
+bip_39_word_new_br_3: amateur<br>grab<br>dinosaur
+bip_39_word_new_line_12: 'amateur
+
+  grab
+
+  dinosaur
+
+  riot
+
+  cake
+
+  execute
+
+  convince
+
+  mail
+
+  exhibit
+
+  symptom
+
+  coast
+
+  antique'
+bip_39_word_new_line_2: 'amateur
+
+  grab'
+bip_39_word_new_line_3: 'amateur
+
+  grab
+
+  dinosaur'
+bip_39_word_no_space_12: amateurgrabdinosaurriotcakeexecuteconvincemailexhibitsymptomcoastantique
+bip_39_word_no_space_2: amateurgrab
+bip_39_word_no_space_3: amateurgrabdinosaur
+bip_39_word_space_12: amateur grab dinosaur riot cake execute convince mail exhibit
+  symptom coast antique
+bip_39_word_space_2: amateur grab
+bip_39_word_space_3: amateur grab dinosaur
+bip_39_word_underscore_12: amateur_grab_dinosaur_riot_cake_execute_convince_mail_exhibit_symptom_coast_antique
+bip_39_word_underscore_2: amateur_grab
+bip_39_word_underscore_3: amateur_grab_dinosaur
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: camera
 color_capital: Camera
 color_first_letter: c
 color_first_letter_upper: C
+color_length_1: c
+color_length_2: ca
+color_length_3: cam
+color_length_4: came
+color_length_5: camer
+color_length_6: camera
+color_name: Camera
+color_no_space_length_1: c
+color_no_space_length_2: ca
+color_no_space_length_3: cam
+color_no_space_length_4: came
+color_no_space_length_5: camer
+color_no_space_length_6: camera
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CA
+color_no_space_upper_length_3: CAM
+color_no_space_upper_length_4: CAME
+color_no_space_upper_length_5: CAMER
+color_no_space_upper_length_6: CAMERA
 color_upper: CAMERA
+color_upper_length_1: C
+color_upper_length_2: CA
+color_upper_length_3: CAM
+color_upper_length_4: CAME
+color_upper_length_5: CAMER
+color_upper_length_6: CAMERA
 description: category_computer
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_computer_video_conferencing_camera
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer_video_conferencing_camera
 id: category_computer_video_conferencing_camera
 id_no_class: computer_video_conferencing_camera
+id_no_color: camera
 id_no_size: camera
 id_no_type: video_conferencing_camera
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2066fg7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2066fg7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2066fg7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2066fg7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_computer_video_conferencing_camera](none)<br>[](none)<br>[Category
-    Computer Video Conferencing Camera](none)<br><br>'
+  Computer Video Conferencing Camera](none)<br><br>'
 markdown_short: '[category_computer_video_conferencing_camera](none)<br><br>'
 md5: 9e59b7227c8625f13c902ba27cd9503d
 md5_10: 9e59b7227c
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 66FG7
 md5_6_upper: 9E59B7
 name: Category Computer Video Conferencing Camera
 name_no_class: Computer Video Conferencing Camera
+name_no_color: Camera
 name_no_size: Camera
 name_no_size_short: Camera
 name_no_type: Video Conferencing Camera
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: computer
+oomlout_detail_hierarchy_2_upper: COMPUTER
+oomlout_detail_hierarchy_2_upper_length_4: COMP
+oomlout_detail_hierarchy_3: video_conferencing
+oomlout_detail_hierarchy_3_upper: VIDEO_CONFERENCING
+oomlout_detail_hierarchy_3_upper_length_4: VIDE
+oomlout_detail_hierarchy_4: camera
+oomlout_detail_hierarchy_4_upper: CAMERA
+oomlout_detail_hierarchy_4_upper_length_4: CAME
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_computer_video_conferencing_camera
 oomp_word: clubs dragon pizza
 oomp_word_emoji: ':clubs: :dragon: :pizza:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycomputer
@@ -81,11 +210,61 @@ size: video_conferencing
 size_capital: Video Conferencing
 size_first_letter: v
 size_first_letter_upper: V
+size_length_1: v
+size_length_2: vi
+size_length_3: vid
+size_length_4: vide
+size_length_5: video
+size_length_6: video_
+size_name: Video Conferencing
+size_no_space_length_1: v
+size_no_space_length_2: vi
+size_no_space_length_3: vid
+size_no_space_length_4: vide
+size_no_space_length_5: video
+size_no_space_length_6: videoc
+size_no_space_upper_length_1: V
+size_no_space_upper_length_2: VI
+size_no_space_upper_length_3: VID
+size_no_space_upper_length_4: VIDE
+size_no_space_upper_length_5: VIDEO
+size_no_space_upper_length_6: VIDEOC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: VIDEO_CONFERENCING
+size_upper_length_1: V
+size_upper_length_2: VI
+size_upper_length_3: VID
+size_upper_length_4: VIDE
+size_upper_length_5: VIDEO
+size_upper_length_6: VIDEO_
 type: computer
 type_capital: Computer
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: co
+type_length_3: com
+type_length_4: comp
+type_length_5: compu
+type_length_6: comput
+type_name: Computer
+type_no_space_length_1: c
+type_no_space_length_2: co
+type_no_space_length_3: com
+type_no_space_length_4: comp
+type_no_space_length_5: compu
+type_no_space_length_6: comput
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CO
+type_no_space_upper_length_3: COM
+type_no_space_upper_length_4: COMP
+type_no_space_upper_length_5: COMPU
+type_no_space_upper_length_6: COMPUT
 type_upper: COMPUTER
+type_upper_length_1: C
+type_upper_length_2: CO
+type_upper_length_3: COM
+type_upper_length_4: COMP
+type_upper_length_5: COMPU
+type_upper_length_6: COMPUT

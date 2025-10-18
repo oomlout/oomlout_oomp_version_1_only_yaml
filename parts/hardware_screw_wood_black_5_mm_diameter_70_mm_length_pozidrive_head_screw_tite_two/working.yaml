@@ -1,0 +1,297 @@
+bip_39_word_dash_12: shift-only-dream-camera-index-fun-wire-arch-remember-bullet-genuine-adapt
+bip_39_word_dash_2: shift-only
+bip_39_word_dash_3: shift-only-dream
+bip_39_word_new_br_12: shift<br>only<br>dream<br>camera<br>index<br>fun<br>wire<br>arch<br>remember<br>bullet<br>genuine<br>adapt
+bip_39_word_new_br_2: shift<br>only
+bip_39_word_new_br_3: shift<br>only<br>dream
+bip_39_word_new_line_12: 'shift
+
+  only
+
+  dream
+
+  camera
+
+  index
+
+  fun
+
+  wire
+
+  arch
+
+  remember
+
+  bullet
+
+  genuine
+
+  adapt'
+bip_39_word_new_line_2: 'shift
+
+  only'
+bip_39_word_new_line_3: 'shift
+
+  only
+
+  dream'
+bip_39_word_no_space_12: shiftonlydreamcameraindexfunwirearchrememberbulletgenuineadapt
+bip_39_word_no_space_2: shiftonly
+bip_39_word_no_space_3: shiftonlydream
+bip_39_word_space_12: shift only dream camera index fun wire arch remember bullet
+  genuine adapt
+bip_39_word_space_2: shift only
+bip_39_word_space_3: shift only dream
+bip_39_word_underscore_12: shift_only_dream_camera_index_fun_wire_arch_remember_bullet_genuine_adapt
+bip_39_word_underscore_2: shift_only
+bip_39_word_underscore_3: shift_only_dream
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bl
+color_length_3: bla
+color_length_4: blac
+color_length_5: black
+color_length_6: black
+color_name: Black
+color_no_space_length_1: b
+color_no_space_length_2: bl
+color_no_space_length_3: bla
+color_no_space_length_4: blac
+color_no_space_length_5: black
+color_no_space_length_6: black
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BL
+color_no_space_upper_length_3: BLA
+color_no_space_upper_length_4: BLAC
+color_no_space_upper_length_5: BLACK
+color_no_space_upper_length_6: BLACK
+color_upper: BLACK
+color_upper_length_1: B
+color_upper_length_2: BL
+color_upper_length_3: BLA
+color_upper_length_4: BLAC
+color_upper_length_5: BLACK
+color_upper_length_6: BLACK
+descripion_extra: pozidrive_head
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 5_mm_diameter_70_mm_length_pozidrive_head
+description_main_capital: 5 mm Diameter 70 mm Length Pozidrive Head
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '5_'
+description_main_length_3: 5_m
+description_main_length_4: 5_mm
+description_main_length_5: 5_mm_
+description_main_length_6: 5_mm_d
+description_main_name: 5 mm Diameter 70 mm Length Pozidrive Head
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: 5m
+description_main_no_space_length_3: 5mm
+description_main_no_space_length_4: 5mmd
+description_main_no_space_length_5: 5mmdi
+description_main_no_space_length_6: 5mmdia
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: 5M
+description_main_no_space_upper_length_3: 5MM
+description_main_no_space_upper_length_4: 5MMD
+description_main_no_space_upper_length_5: 5MMDI
+description_main_no_space_upper_length_6: 5MMDIA
+description_main_upper: 5_MM_DIAMETER_70_MM_LENGTH_POZIDRIVE_HEAD
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '5_'
+description_main_upper_length_3: 5_M
+description_main_upper_length_4: 5_MM
+description_main_upper_length_5: 5_MM_
+description_main_upper_length_6: 5_MM_D
+description_only_numbers: '570'
+description_only_numbers_short: '570'
+description_or_color: B570
+description_or_color_upper: B570
+directory: parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+distributors: []
+filter: hardware_screw
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+id: hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+id_no_class: screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+id_no_color: black5mmdiameter70mmlengthpozidriveheadscrewtitetwo
+id_no_size: black5mmdiameter70mmlengthpozidriveheadscrewtitetwo
+id_no_type: black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201whon
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201whon
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201whon
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201whon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+manufacturer: screw_tite_two
+manufacturer_capital: Screw Tite Two
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_length_1: s
+manufacturer_length_2: sc
+manufacturer_length_3: scr
+manufacturer_length_4: scre
+manufacturer_length_5: screw
+manufacturer_length_6: screw_
+manufacturer_name: Screw Tite Two
+manufacturer_no_space_length_1: s
+manufacturer_no_space_length_2: sc
+manufacturer_no_space_length_3: scr
+manufacturer_no_space_length_4: scre
+manufacturer_no_space_length_5: screw
+manufacturer_no_space_length_6: screwt
+manufacturer_no_space_upper_length_1: S
+manufacturer_no_space_upper_length_2: SC
+manufacturer_no_space_upper_length_3: SCR
+manufacturer_no_space_upper_length_4: SCRE
+manufacturer_no_space_upper_length_5: SCREW
+manufacturer_no_space_upper_length_6: SCREWT
+manufacturer_upper: SCREW_TITE_TWO
+manufacturer_upper_length_1: S
+manufacturer_upper_length_2: SC
+manufacturer_upper_length_3: SCR
+manufacturer_upper_length_4: SCRE
+manufacturer_upper_length_5: SCREW
+manufacturer_upper_length_6: SCREW_
+manufacturers: []
+markdown_full: '[hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two](none)<br>[b](none)<br>[Hardware
+  Screw Wood Black 5 Mm Diameter 70 Mm Length Pozidrive Head Screw Tite Two](none)<br><br>'
+markdown_short: '[hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two](none)<br><br>'
+md5: 30c2878dad0b1f857839620a8526c62e
+md5_10: 30c2878dad
+md5_10_upper: 30C2878DAD
+md5_5: 30c28
+md5_5_upper: 30C28
+md5_6: 30c287
+md5_6_alpha: 1whon
+md5_6_alpha_upper: 1WHON
+md5_6_upper: 30C287
+name: Hardware Screw Wood Black 5 mm Diameter 70 mm Length Pozidrive Head Screw Tite
+  Two
+name_no_class: Screw Wood Black 5 mm Diameter 70 mm Length Pozidrive Head Screw Tite
+  Two
+name_no_color: Black5mmdiameter70mmlengthpozidriveheadscrewtitetwo
+name_no_size: Black5mmdiameter70mmlengthpozidriveheadscrewtitetwo
+name_no_size_short: Black5Mmdiameter70Mmlengthpozidriveheadscrewtitetwo
+name_no_type: Black 5 mm Diameter 70 mm Length Pozidrive Head Screw Tite Two
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: swood
+oomlout_detail_hierarchy_2_upper: SWOOD
+oomlout_detail_hierarchy_2_upper_length_4: SWOO
+oomlout_detail_hierarchy_3: black
+oomlout_detail_hierarchy_3_upper: BLACK
+oomlout_detail_hierarchy_3_upper_length_4: BLAC
+oomlout_detail_hierarchy_4: 70_mm_length
+oomlout_detail_hierarchy_4_upper: 70_MM_LENGTH
+oomlout_detail_hierarchy_4_upper_length_4: 70LE
+oomlout_detail_hierarchy_5: stite_two
+oomlout_detail_hierarchy_5_upper: STITE_TWO
+oomlout_detail_hierarchy_5_upper_length_4: STIT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_screw_wood_black_5_mm_diameter_70_mm_length_pozidrive_head_screw_tite_two
+oomp_word: foggy birthday toilet
+oomp_word_emoji: ':foggy: :birthday: :toilet:'
+oomp_word_emoji_list:
+- ':foggy:'
+- ':birthday:'
+- ':toilet:'
+oomp_word_list:
+- foggy
+- birthday
+- toilet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: b
+short_code_upper: B
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: screw_wood
+type_capital: Screw Wood
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_name: Screw Wood
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screww
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWW
+type_upper: SCREW_WOOD
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

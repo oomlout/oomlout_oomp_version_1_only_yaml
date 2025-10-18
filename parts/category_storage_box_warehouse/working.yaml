@@ -1,23 +1,98 @@
+bip_39_word_dash_12: moon-ostrich-minimum-oppose-dog-fiber-verify-provide-immune-craft-actress-aerobic
+bip_39_word_dash_2: moon-ostrich
+bip_39_word_dash_3: moon-ostrich-minimum
+bip_39_word_new_br_12: moon<br>ostrich<br>minimum<br>oppose<br>dog<br>fiber<br>verify<br>provide<br>immune<br>craft<br>actress<br>aerobic
+bip_39_word_new_br_2: moon<br>ostrich
+bip_39_word_new_br_3: moon<br>ostrich<br>minimum
+bip_39_word_new_line_12: 'moon
+
+  ostrich
+
+  minimum
+
+  oppose
+
+  dog
+
+  fiber
+
+  verify
+
+  provide
+
+  immune
+
+  craft
+
+  actress
+
+  aerobic'
+bip_39_word_new_line_2: 'moon
+
+  ostrich'
+bip_39_word_new_line_3: 'moon
+
+  ostrich
+
+  minimum'
+bip_39_word_no_space_12: moonostrichminimumopposedogfiberverifyprovideimmunecraftactressaerobic
+bip_39_word_no_space_2: moonostrich
+bip_39_word_no_space_3: moonostrichminimum
+bip_39_word_space_12: moon ostrich minimum oppose dog fiber verify provide immune
+  craft actress aerobic
+bip_39_word_space_2: moon ostrich
+bip_39_word_space_3: moon ostrich minimum
+bip_39_word_underscore_12: moon_ostrich_minimum_oppose_dog_fiber_verify_provide_immune_craft_actress_aerobic
+bip_39_word_underscore_2: moon_ostrich
+bip_39_word_underscore_3: moon_ostrich_minimum
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_storage
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +102,32 @@ directory: parts/category_storage_box_warehouse
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_storage_box_warehouse
 id: category_storage_box_warehouse
 id_no_class: storage_box_warehouse
+id_no_color: boxwarehouse
 id_no_size: box_warehouse
 id_no_type: box_warehouse
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202kqks
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202kqks
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202kqks
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202kqks
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_storage_box_warehouse](none)<br>[](none)<br>[Category Storage
-    Box Warehouse](none)<br><br>'
+  Box Warehouse](none)<br><br>'
 markdown_short: '[category_storage_box_warehouse](none)<br><br>'
 md5: 42058c838dacfe5556a049b91a273c7c
 md5_10: 42058c838d
@@ -54,9 +140,20 @@ md5_6_alpha_upper: 2KQKS
 md5_6_upper: 42058C
 name: Category Storage Box Warehouse
 name_no_class: Storage Box Warehouse
+name_no_color: Boxwarehouse
 name_no_size: Box Warehouse
 name_no_size_short: Box Warehouse
 name_no_type: Box Warehouse
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: storage
+oomlout_detail_hierarchy_2_upper: STORAGE
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: box_warehouse
+oomlout_detail_hierarchy_3_upper: BOX_WAREHOUSE
+oomlout_detail_hierarchy_3_upper_length_4: BOX_
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_storage_box_warehouse
 oomp_word: sheep kissing pill
 oomp_word_emoji: ':sheep: :kissing: :pill:'
@@ -73,7 +170,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorystorage
@@ -81,11 +183,61 @@ size: box_warehouse
 size_capital: Box Warehouse
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: bo
+size_length_3: box
+size_length_4: box_
+size_length_5: box_w
+size_length_6: box_wa
+size_name: Box Warehouse
+size_no_space_length_1: b
+size_no_space_length_2: bo
+size_no_space_length_3: box
+size_no_space_length_4: boxw
+size_no_space_length_5: boxwa
+size_no_space_length_6: boxwar
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BO
+size_no_space_upper_length_3: BOX
+size_no_space_upper_length_4: BOXW
+size_no_space_upper_length_5: BOXWA
+size_no_space_upper_length_6: BOXWAR
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BOX_WAREHOUSE
+size_upper_length_1: B
+size_upper_length_2: BO
+size_upper_length_3: BOX
+size_upper_length_4: BOX_
+size_upper_length_5: BOX_W
+size_upper_length_6: BOX_WA
 type: storage
 type_capital: Storage
 type_first_letter: s
 type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
 type_upper: STORAGE
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

@@ -1,23 +1,146 @@
+bip_39_word_dash_12: still-fever-lens-script-remove-life-mushroom-endorse-equip-drive-fade-aspect
+bip_39_word_dash_2: still-fever
+bip_39_word_dash_3: still-fever-lens
+bip_39_word_new_br_12: still<br>fever<br>lens<br>script<br>remove<br>life<br>mushroom<br>endorse<br>equip<br>drive<br>fade<br>aspect
+bip_39_word_new_br_2: still<br>fever
+bip_39_word_new_br_3: still<br>fever<br>lens
+bip_39_word_new_line_12: 'still
+
+  fever
+
+  lens
+
+  script
+
+  remove
+
+  life
+
+  mushroom
+
+  endorse
+
+  equip
+
+  drive
+
+  fade
+
+  aspect'
+bip_39_word_new_line_2: 'still
+
+  fever'
+bip_39_word_new_line_3: 'still
+
+  fever
+
+  lens'
+bip_39_word_no_space_12: stillfeverlensscriptremovelifemushroomendorseequipdrivefadeaspect
+bip_39_word_no_space_2: stillfever
+bip_39_word_no_space_3: stillfeverlens
+bip_39_word_space_12: still fever lens script remove life mushroom endorse equip drive
+  fade aspect
+bip_39_word_space_2: still fever
+bip_39_word_space_3: still fever lens
+bip_39_word_underscore_12: still_fever_lens_script_remove_life_mushroom_endorse_equip_drive_fade_aspect
+bip_39_word_underscore_2: still_fever
+bip_39_word_underscore_3: still_fever_lens
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: diameter_75_mm_height_109_mm_400_ml
 color_capital: Diameter 75 mm Height 109 mm 400 Ml
 color_first_letter: d
 color_first_letter_upper: D
+color_length_1: d
+color_length_2: di
+color_length_3: dia
+color_length_4: diam
+color_length_5: diame
+color_length_6: diamet
+color_name: Diameter 75 mm Height 109 mm 400 Ml
+color_no_space_length_1: d
+color_no_space_length_2: di
+color_no_space_length_3: dia
+color_no_space_length_4: diam
+color_no_space_length_5: diame
+color_no_space_length_6: diamet
+color_no_space_upper_length_1: D
+color_no_space_upper_length_2: DI
+color_no_space_upper_length_3: DIA
+color_no_space_upper_length_4: DIAM
+color_no_space_upper_length_5: DIAME
+color_no_space_upper_length_6: DIAMET
 color_upper: DIAMETER_75_MM_HEIGHT_109_MM_400_ML
+color_upper_length_1: D
+color_upper_length_2: DI
+color_upper_length_3: DIA
+color_upper_length_4: DIAM
+color_upper_length_5: DIAME
+color_upper_length_6: DIAMET
 description: category_packaging
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
 id: category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
 id_no_class: packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
+id_no_color: to_sort
 id_no_size: diameter_75_mm_height_109_mm_400_ml_to_sort
 id_no_type: tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208dhu8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208dhu8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208dhu8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208dhu8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort](none)<br>[](none)<br>[Category
-    Packaging Tin Can Diameter 75 Mm Height 109 Mm 400 Ml To Sort](none)<br><br>'
+  Packaging Tin Can Diameter 75 Mm Height 109 Mm 400 Ml To Sort](none)<br><br>'
 markdown_short: '[category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort](none)<br><br>'
 md5: d6a390d26149d23a055afc1b00555eae
 md5_10: d6a390d261
@@ -52,11 +186,28 @@ md5_6: d6a390
 md5_6_alpha: 8dhu8
 md5_6_alpha_upper: 8DHU8
 md5_6_upper: D6A390
-name: Category Packaging Tin Can Diameter 75 Mm Height 109 Mm 400 Ml To Sort
-name_no_class: Packaging Tin Can Diameter 75 Mm Height 109 Mm 400 Ml To Sort
-name_no_size: Diameter 75 Mm Height 109 Mm 400 Ml To Sort
+name: Category Packaging Tin Can Diameter 75 mm Height 109 mm 400 Ml To Sort
+name_no_class: Packaging Tin Can Diameter 75 mm Height 109 mm 400 Ml To Sort
+name_no_color: To Sort
+name_no_size: Diameter 75 mm Height 109 mm 400 Ml To Sort
 name_no_size_short: Diameter 75 Mm Height 109 Mm 400 Ml To Sort
-name_no_type: Tin Can Diameter 75 Mm Height 109 Mm 400 Ml To Sort
+name_no_type: Tin Can Diameter 75 mm Height 109 mm 400 Ml To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: packaging
+oomlout_detail_hierarchy_2_upper: PACKAGING
+oomlout_detail_hierarchy_2_upper_length_4: PACK
+oomlout_detail_hierarchy_3: tin_can
+oomlout_detail_hierarchy_3_upper: TIN_CAN
+oomlout_detail_hierarchy_3_upper_length_4: TIN_
+oomlout_detail_hierarchy_4: 75_mm_height
+oomlout_detail_hierarchy_4_upper: 75_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 75HE
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml_to_sort
 oomp_word: school pencil scissors
 oomp_word_emoji: ':school: :pencil: :scissors:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypackaging
@@ -81,11 +237,61 @@ size: tin_can
 size_capital: Tin Can
 size_first_letter: t
 size_first_letter_upper: T
+size_length_1: t
+size_length_2: ti
+size_length_3: tin
+size_length_4: tin_
+size_length_5: tin_c
+size_length_6: tin_ca
+size_name: Tin Can
+size_no_space_length_1: t
+size_no_space_length_2: ti
+size_no_space_length_3: tin
+size_no_space_length_4: tinc
+size_no_space_length_5: tinca
+size_no_space_length_6: tincan
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TI
+size_no_space_upper_length_3: TIN
+size_no_space_upper_length_4: TINC
+size_no_space_upper_length_5: TINCA
+size_no_space_upper_length_6: TINCAN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TIN_CAN
+size_upper_length_1: T
+size_upper_length_2: TI
+size_upper_length_3: TIN
+size_upper_length_4: TIN_
+size_upper_length_5: TIN_C
+size_upper_length_6: TIN_CA
 type: packaging
 type_capital: Packaging
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pac
+type_length_4: pack
+type_length_5: packa
+type_length_6: packag
+type_name: Packaging
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pac
+type_no_space_length_4: pack
+type_no_space_length_5: packa
+type_no_space_length_6: packag
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAC
+type_no_space_upper_length_4: PACK
+type_no_space_upper_length_5: PACKA
+type_no_space_upper_length_6: PACKAG
 type_upper: PACKAGING
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAC
+type_upper_length_4: PACK
+type_upper_length_5: PACKA
+type_upper_length_6: PACKAG

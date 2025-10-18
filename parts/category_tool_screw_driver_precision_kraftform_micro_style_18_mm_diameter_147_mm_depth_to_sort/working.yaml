@@ -1,23 +1,146 @@
+bip_39_word_dash_12: scatter-pond-caution-news-gossip-gesture-liar-panther-mushroom-wolf-true-anger
+bip_39_word_dash_2: scatter-pond
+bip_39_word_dash_3: scatter-pond-caution
+bip_39_word_new_br_12: scatter<br>pond<br>caution<br>news<br>gossip<br>gesture<br>liar<br>panther<br>mushroom<br>wolf<br>true<br>anger
+bip_39_word_new_br_2: scatter<br>pond
+bip_39_word_new_br_3: scatter<br>pond<br>caution
+bip_39_word_new_line_12: 'scatter
+
+  pond
+
+  caution
+
+  news
+
+  gossip
+
+  gesture
+
+  liar
+
+  panther
+
+  mushroom
+
+  wolf
+
+  true
+
+  anger'
+bip_39_word_new_line_2: 'scatter
+
+  pond'
+bip_39_word_new_line_3: 'scatter
+
+  pond
+
+  caution'
+bip_39_word_no_space_12: scatterpondcautionnewsgossipgestureliarpanthermushroomwolftrueanger
+bip_39_word_no_space_2: scatterpond
+bip_39_word_no_space_3: scatterpondcaution
+bip_39_word_space_12: scatter pond caution news gossip gesture liar panther mushroom
+  wolf true anger
+bip_39_word_space_2: scatter pond
+bip_39_word_space_3: scatter pond caution
+bip_39_word_underscore_12: scatter_pond_caution_news_gossip_gesture_liar_panther_mushroom_wolf_true_anger
+bip_39_word_underscore_2: scatter_pond
+bip_39_word_underscore_3: scatter_pond_caution
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: kraftform_micro_style_18_mm_diameter_147_mm_depth
 color_capital: Kraftform Micro Style 18 mm Diameter 147 mm Depth
 color_first_letter: k
 color_first_letter_upper: K
+color_length_1: k
+color_length_2: kr
+color_length_3: kra
+color_length_4: kraf
+color_length_5: kraft
+color_length_6: kraftf
+color_name: Kraftform Micro Style 18 mm Diameter 147 mm Depth
+color_no_space_length_1: k
+color_no_space_length_2: kr
+color_no_space_length_3: kra
+color_no_space_length_4: kraf
+color_no_space_length_5: kraft
+color_no_space_length_6: kraftf
+color_no_space_upper_length_1: K
+color_no_space_upper_length_2: KR
+color_no_space_upper_length_3: KRA
+color_no_space_upper_length_4: KRAF
+color_no_space_upper_length_5: KRAFT
+color_no_space_upper_length_6: KRAFTF
 color_upper: KRAFTFORM_MICRO_STYLE_18_MM_DIAMETER_147_MM_DEPTH
+color_upper_length_1: K
+color_upper_length_2: KR
+color_upper_length_3: KRA
+color_upper_length_4: KRAF
+color_upper_length_5: KRAFT
+color_upper_length_6: KRAFTF
 description: category_tool
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,22 +150,33 @@ directory: parts/category_tool_screw_driver_precision_kraftform_micro_style_18_m
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
 id: category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
 id_no_class: tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
+id_no_color: to_sort
 id_no_size: kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
 id_no_type: screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205gekf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205gekf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205gekf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205gekf
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort](none)<br>[](none)<br>[Category
-    Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147 Mm Depth
-    To Sort](none)<br><br>'
+  Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147 Mm Depth To
+  Sort](none)<br><br>'
 markdown_short: '[category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort](none)<br><br>'
 md5: 8bd2bf348e9fd01985b279524969f603
 md5_10: 8bd2bf348e
@@ -53,14 +187,31 @@ md5_6: 8bd2bf
 md5_6_alpha: 5gekf
 md5_6_alpha_upper: 5GEKF
 md5_6_upper: 8BD2BF
-name: Category Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147
-    Mm Depth To Sort
-name_no_class: Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147
-    Mm Depth To Sort
-name_no_size: Kraftform Micro Style 18 Mm Diameter 147 Mm Depth To Sort
+name: Category Tool Screw Driver Precision Kraftform Micro Style 18 mm Diameter 147
+  mm Depth To Sort
+name_no_class: Tool Screw Driver Precision Kraftform Micro Style 18 mm Diameter 147
+  mm Depth To Sort
+name_no_color: To Sort
+name_no_size: Kraftform Micro Style 18 mm Diameter 147 mm Depth To Sort
 name_no_size_short: Kraftform Micro Style 18 Mm Diameter 147 Mm Depth To Sort
-name_no_type: Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147 Mm Depth
-    To Sort
+name_no_type: Screw Driver Precision Kraftform Micro Style 18 mm Diameter 147 mm Depth
+  To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: tool
+oomlout_detail_hierarchy_2_upper: TOOL
+oomlout_detail_hierarchy_2_upper_length_4: TOOL
+oomlout_detail_hierarchy_3: sdriver_precision
+oomlout_detail_hierarchy_3_upper: SDRIVER_PRECISION
+oomlout_detail_hierarchy_3_upper_length_4: SDRI
+oomlout_detail_hierarchy_4: 147_mm_depth
+oomlout_detail_hierarchy_4_upper: 147_MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 147D
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_to_sort
 oomp_word: door pineapple egg
 oomp_word_emoji: ':door: :pineapple: :egg:'
@@ -77,7 +228,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorytool
@@ -85,11 +241,61 @@ size: screw_driver_precision
 size_capital: Screw Driver Precision
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sc
+size_length_3: scr
+size_length_4: scre
+size_length_5: screw
+size_length_6: screw_
+size_name: Screw Driver Precision
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: scr
+size_no_space_length_4: scre
+size_no_space_length_5: screw
+size_no_space_length_6: screwd
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCR
+size_no_space_upper_length_4: SCRE
+size_no_space_upper_length_5: SCREW
+size_no_space_upper_length_6: SCREWD
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SCREW_DRIVER_PRECISION
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCR
+size_upper_length_4: SCRE
+size_upper_length_5: SCREW
+size_upper_length_6: SCREW_
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
+type_length_1: t
+type_length_2: to
+type_length_3: too
+type_length_4: tool
+type_length_5: tool
+type_length_6: tool
+type_name: Tool
+type_no_space_length_1: t
+type_no_space_length_2: to
+type_no_space_length_3: too
+type_no_space_length_4: tool
+type_no_space_length_5: tool
+type_no_space_length_6: tool
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TO
+type_no_space_upper_length_3: TOO
+type_no_space_upper_length_4: TOOL
+type_no_space_upper_length_5: TOOL
+type_no_space_upper_length_6: TOOL
 type_upper: TOOL
+type_upper_length_1: T
+type_upper_length_2: TO
+type_upper_length_3: TOO
+type_upper_length_4: TOOL
+type_upper_length_5: TOOL
+type_upper_length_6: TOOL

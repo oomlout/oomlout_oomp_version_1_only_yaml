@@ -1,23 +1,122 @@
+bip_39_word_dash_12: cruel-empower-poet-measure-crisp-invest-hover-bacon-window-shaft-joy-add
+bip_39_word_dash_2: cruel-empower
+bip_39_word_dash_3: cruel-empower-poet
+bip_39_word_new_br_12: cruel<br>empower<br>poet<br>measure<br>crisp<br>invest<br>hover<br>bacon<br>window<br>shaft<br>joy<br>add
+bip_39_word_new_br_2: cruel<br>empower
+bip_39_word_new_br_3: cruel<br>empower<br>poet
+bip_39_word_new_line_12: 'cruel
+
+  empower
+
+  poet
+
+  measure
+
+  crisp
+
+  invest
+
+  hover
+
+  bacon
+
+  window
+
+  shaft
+
+  joy
+
+  add'
+bip_39_word_new_line_2: 'cruel
+
+  empower'
+bip_39_word_new_line_3: 'cruel
+
+  empower
+
+  poet'
+bip_39_word_no_space_12: cruelempowerpoetmeasurecrispinvesthoverbaconwindowshaftjoyadd
+bip_39_word_no_space_2: cruelempower
+bip_39_word_no_space_3: cruelempowerpoet
+bip_39_word_space_12: cruel empower poet measure crisp invest hover bacon window shaft
+  joy add
+bip_39_word_space_2: cruel empower
+bip_39_word_space_3: cruel empower poet
+bip_39_word_underscore_12: cruel_empower_poet_measure_crisp_invest_hover_bacon_window_shaft_joy_add
+bip_39_word_underscore_2: cruel_empower
+bip_39_word_underscore_3: cruel_empower_poet
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_food
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +126,28 @@ directory: parts/category_food_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_food_old
 id: category_food_old
 id_no_class: food_old
+id_no_color: old
 id_no_size: old
 id_no_type: old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201zk1d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201zk1d
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201zk1d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201zk1d
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_food_old](none)<br>[](none)<br>[Category Food Old](none)<br><br>'
@@ -53,9 +163,20 @@ md5_6_alpha_upper: 1ZK1D
 md5_6_upper: 32F131
 name: Category Food Old
 name_no_class: Food Old
+name_no_color: Old
 name_no_size: Old
 name_no_size_short: Old
 name_no_type: Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: food
+oomlout_detail_hierarchy_2_upper: FOOD
+oomlout_detail_hierarchy_2_upper_length_4: FOOD
+oomlout_detail_hierarchy_3: old
+oomlout_detail_hierarchy_3_upper: OLD
+oomlout_detail_hierarchy_3_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_food_old
 oomp_word: cat ticket ocean
 oomp_word_emoji: ':cat: :ticket: :ocean:'
@@ -72,7 +193,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryfood
@@ -80,6 +206,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -87,4 +214,29 @@ type: food
 type_capital: Food
 type_first_letter: f
 type_first_letter_upper: F
+type_length_1: f
+type_length_2: fo
+type_length_3: foo
+type_length_4: food
+type_length_5: food
+type_length_6: food
+type_name: Food
+type_no_space_length_1: f
+type_no_space_length_2: fo
+type_no_space_length_3: foo
+type_no_space_length_4: food
+type_no_space_length_5: food
+type_no_space_length_6: food
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FO
+type_no_space_upper_length_3: FOO
+type_no_space_upper_length_4: FOOD
+type_no_space_upper_length_5: FOOD
+type_no_space_upper_length_6: FOOD
 type_upper: FOOD
+type_upper_length_1: F
+type_upper_length_2: FO
+type_upper_length_3: FOO
+type_upper_length_4: FOOD
+type_upper_length_5: FOOD
+type_upper_length_6: FOOD

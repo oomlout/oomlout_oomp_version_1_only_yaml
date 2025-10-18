@@ -1,22 +1,121 @@
+bip_39_word_dash_12: rocket-airport-focus-upgrade-brand-never-reveal-false-fossil-credit-uphold-among
+bip_39_word_dash_2: rocket-airport
+bip_39_word_dash_3: rocket-airport-focus
+bip_39_word_new_br_12: rocket<br>airport<br>focus<br>upgrade<br>brand<br>never<br>reveal<br>false<br>fossil<br>credit<br>uphold<br>among
+bip_39_word_new_br_2: rocket<br>airport
+bip_39_word_new_br_3: rocket<br>airport<br>focus
+bip_39_word_new_line_12: 'rocket
+
+  airport
+
+  focus
+
+  upgrade
+
+  brand
+
+  never
+
+  reveal
+
+  false
+
+  fossil
+
+  credit
+
+  uphold
+
+  among'
+bip_39_word_new_line_2: 'rocket
+
+  airport'
+bip_39_word_new_line_3: 'rocket
+
+  airport
+
+  focus'
+bip_39_word_no_space_12: rocketairportfocusupgradebrandneverrevealfalsefossilcreditupholdamong
+bip_39_word_no_space_2: rocketairport
+bip_39_word_no_space_3: rocketairportfocus
+bip_39_word_space_12: rocket airport focus upgrade brand never reveal false fossil
+  credit uphold among
+bip_39_word_space_2: rocket airport
+bip_39_word_space_3: rocket airport focus
+bip_39_word_underscore_12: rocket_airport_focus_upgrade_brand_never_reveal_false_fossil_credit_uphold_among
+bip_39_word_underscore_2: rocket_airport
+bip_39_word_underscore_3: rocket_airport_focus
 classification: camping
 classification_capital: Camping
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cam
+classification_length_4: camp
+classification_length_5: campi
+classification_length_6: campin
+classification_name: Camping
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cam
+classification_no_space_length_4: camp
+classification_no_space_length_5: campi
+classification_no_space_length_6: campin
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAM
+classification_no_space_upper_length_4: CAMP
+classification_no_space_upper_length_5: CAMPI
+classification_no_space_upper_length_6: CAMPIN
 classification_upper: CAMPING
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAM
+classification_upper_length_4: CAMP
+classification_upper_length_5: CAMPI
+classification_upper_length_6: CAMPIN
 color: bowl
 color_capital: Bowl
 color_first_letter: b
 color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: bow
+color_length_4: bowl
+color_length_5: bowl
+color_length_6: bowl
+color_name: Bowl
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: bow
+color_no_space_length_4: bowl
+color_no_space_length_5: bowl
+color_no_space_length_6: bowl
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOW
+color_no_space_upper_length_4: BOWL
+color_no_space_upper_length_5: BOWL
+color_no_space_upper_length_6: BOWL
 color_upper: BOWL
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOW
+color_upper_length_4: BOWL
+color_upper_length_5: BOWL
+color_upper_length_6: BOWL
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -26,17 +125,28 @@ directory: parts/camping_kitchen_bowl
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camping_kitchen_bowl
 id: camping_kitchen_bowl
 id_no_class: kitchen_bowl
+id_no_color: bowl
 id_no_size: bowl
 id_no_type: bowl
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204zlvw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204zlvw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204zlvw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204zlvw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[camping_kitchen_bowl](none)<br>[](none)<br>[Camping Kitchen Bowl](none)<br><br>'
@@ -52,9 +162,20 @@ md5_6_alpha_upper: 4ZLVW
 md5_6_upper: 7FDD8C
 name: Camping Kitchen Bowl
 name_no_class: Kitchen Bowl
+name_no_color: Bowl
 name_no_size: Bowl
 name_no_size_short: Bowl
 name_no_type: Bowl
+oomlout_detail_hierarchy_1: camping
+oomlout_detail_hierarchy_1_upper: CAMPING
+oomlout_detail_hierarchy_1_upper_length_4: CAMP
+oomlout_detail_hierarchy_2: kitchen
+oomlout_detail_hierarchy_2_upper: KITCHEN
+oomlout_detail_hierarchy_2_upper_length_4: KITC
+oomlout_detail_hierarchy_3: bowl
+oomlout_detail_hierarchy_3_upper: BOWL
+oomlout_detail_hierarchy_3_upper_length_4: BOWL
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_camping_kitchen_bowl
 oomp_word: speaker stars pill
 oomp_word_emoji: ':speaker: :stars: :pill:'
@@ -70,13 +191,19 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -84,4 +211,29 @@ type: kitchen
 type_capital: Kitchen
 type_first_letter: k
 type_first_letter_upper: K
+type_length_1: k
+type_length_2: ki
+type_length_3: kit
+type_length_4: kitc
+type_length_5: kitch
+type_length_6: kitche
+type_name: Kitchen
+type_no_space_length_1: k
+type_no_space_length_2: ki
+type_no_space_length_3: kit
+type_no_space_length_4: kitc
+type_no_space_length_5: kitch
+type_no_space_length_6: kitche
+type_no_space_upper_length_1: K
+type_no_space_upper_length_2: KI
+type_no_space_upper_length_3: KIT
+type_no_space_upper_length_4: KITC
+type_no_space_upper_length_5: KITCH
+type_no_space_upper_length_6: KITCHE
 type_upper: KITCHEN
+type_upper_length_1: K
+type_upper_length_2: KI
+type_upper_length_3: KIT
+type_upper_length_4: KITC
+type_upper_length_5: KITCH
+type_upper_length_6: KITCHE

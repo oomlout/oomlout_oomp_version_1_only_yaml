@@ -1,0 +1,294 @@
+bip_39_word_dash_12: horn-rich-grant-satoshi-habit-trophy-solid-knock-pull-flame-thrive-asthma
+bip_39_word_dash_2: horn-rich
+bip_39_word_dash_3: horn-rich-grant
+bip_39_word_new_br_12: horn<br>rich<br>grant<br>satoshi<br>habit<br>trophy<br>solid<br>knock<br>pull<br>flame<br>thrive<br>asthma
+bip_39_word_new_br_2: horn<br>rich
+bip_39_word_new_br_3: horn<br>rich<br>grant
+bip_39_word_new_line_12: 'horn
+
+  rich
+
+  grant
+
+  satoshi
+
+  habit
+
+  trophy
+
+  solid
+
+  knock
+
+  pull
+
+  flame
+
+  thrive
+
+  asthma'
+bip_39_word_new_line_2: 'horn
+
+  rich'
+bip_39_word_new_line_3: 'horn
+
+  rich
+
+  grant'
+bip_39_word_no_space_12: hornrichgrantsatoshihabittrophysolidknockpullflamethriveasthma
+bip_39_word_no_space_2: hornrich
+bip_39_word_no_space_3: hornrichgrant
+bip_39_word_space_12: horn rich grant satoshi habit trophy solid knock pull flame
+  thrive asthma
+bip_39_word_space_2: horn rich
+bip_39_word_space_3: horn rich grant
+bip_39_word_underscore_12: horn_rich_grant_satoshi_habit_trophy_solid_knock_pull_flame_thrive_asthma
+bip_39_word_underscore_2: horn_rich
+bip_39_word_underscore_3: horn_rich_grant
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
+classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_inkjet_reel_mutoh_vj_1304
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+id: printer_inkjet_reel_mutoh_vj_1304
+id_no_class: inkjet_reel_mutoh_vj_1304
+id_no_color: mutohvj1304
+id_no_size: mutoh_vj_1304
+id_no_type: reel_mutoh_vj_1304
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208t45y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208t45y
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208t45y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208t45y
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+manufacturer: mutoh
+manufacturer_capital: Mutoh
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_length_1: m
+manufacturer_length_2: mu
+manufacturer_length_3: mut
+manufacturer_length_4: muto
+manufacturer_length_5: mutoh
+manufacturer_length_6: mutoh
+manufacturer_name: Mutoh
+manufacturer_no_space_length_1: m
+manufacturer_no_space_length_2: mu
+manufacturer_no_space_length_3: mut
+manufacturer_no_space_length_4: muto
+manufacturer_no_space_length_5: mutoh
+manufacturer_no_space_length_6: mutoh
+manufacturer_no_space_upper_length_1: M
+manufacturer_no_space_upper_length_2: MU
+manufacturer_no_space_upper_length_3: MUT
+manufacturer_no_space_upper_length_4: MUTO
+manufacturer_no_space_upper_length_5: MUTOH
+manufacturer_no_space_upper_length_6: MUTOH
+manufacturer_upper: MUTOH
+manufacturer_upper_length_1: M
+manufacturer_upper_length_2: MU
+manufacturer_upper_length_3: MUT
+manufacturer_upper_length_4: MUTO
+manufacturer_upper_length_5: MUTOH
+manufacturer_upper_length_6: MUTOH
+manufacturers: []
+markdown_full: '[printer_inkjet_reel_mutoh_vj_1304](none)<br>[](none)<br>[Printer
+  Inkjet Reel Mutoh Vj 1304](none)<br><br>'
+markdown_short: '[printer_inkjet_reel_mutoh_vj_1304](none)<br><br>'
+md5: e1c256156a7bd9d7a3b41bf6cb6e536c
+md5_10: e1c256156a
+md5_10_upper: E1C256156A
+md5_5: e1c25
+md5_5_upper: E1C25
+md5_6: e1c256
+md5_6_alpha: 8t45y
+md5_6_alpha_upper: 8T45Y
+md5_6_upper: E1C256
+name: Printer Inkjet Reel Mutoh Vj 1304
+name_no_class: Inkjet Reel Mutoh Vj 1304
+name_no_color: Mutohvj1304
+name_no_size: Mutoh Vj 1304
+name_no_size_short: Mutoh Vj 1304
+name_no_type: Reel Mutoh Vj 1304
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: inkjet
+oomlout_detail_hierarchy_2_upper: INKJET
+oomlout_detail_hierarchy_2_upper_length_4: INKJ
+oomlout_detail_hierarchy_3: reel
+oomlout_detail_hierarchy_3_upper: REEL
+oomlout_detail_hierarchy_3_upper_length_4: REEL
+oomlout_detail_hierarchy_4: mutoh
+oomlout_detail_hierarchy_4_upper: MUTOH
+oomlout_detail_hierarchy_4_upper_length_4: MUTO
+oomlout_detail_hierarchy_5: vj_1304
+oomlout_detail_hierarchy_5_upper: VJ_1304
+oomlout_detail_hierarchy_5_upper_length_4: VJ_1
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_printer_inkjet_reel_mutoh_vj_1304
+oomp_word: boat birthday ram
+oomp_word_emoji: ':boat: :birthday: :ram:'
+oomp_word_emoji_list:
+- ':boat:'
+- ':birthday:'
+- ':ram:'
+oomp_word_list:
+- boat
+- birthday
+- ram
+part_number: vj_1304
+part_number_capital: Vj 1304
+part_number_exact: VJ-1304
+part_number_first_letter: v
+part_number_first_letter_upper: V
+part_number_length_1: v
+part_number_length_2: vj
+part_number_length_3: vj_
+part_number_length_4: vj_1
+part_number_length_5: vj_13
+part_number_length_6: vj_130
+part_number_name: Vj 1304
+part_number_no_space_length_1: v
+part_number_no_space_length_2: vj
+part_number_no_space_length_3: vj1
+part_number_no_space_length_4: vj13
+part_number_no_space_length_5: vj130
+part_number_no_space_length_6: vj1304
+part_number_no_space_upper_length_1: V
+part_number_no_space_upper_length_2: VJ
+part_number_no_space_upper_length_3: VJ1
+part_number_no_space_upper_length_4: VJ13
+part_number_no_space_upper_length_5: VJ130
+part_number_no_space_upper_length_6: VJ1304
+part_number_upper: VJ_1304
+part_number_upper_length_1: V
+part_number_upper_length_2: VJ
+part_number_upper_length_3: VJ_
+part_number_upper_length_4: VJ_1
+part_number_upper_length_5: VJ_13
+part_number_upper_length_6: VJ_130
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Mutoh ValueJet VJ-1304
+size: reel
+size_capital: Reel
+size_first_letter: r
+size_first_letter_upper: R
+size_length_1: r
+size_length_2: re
+size_length_3: ree
+size_length_4: reel
+size_length_5: reel
+size_length_6: reel
+size_name: Reel
+size_no_space_length_1: r
+size_no_space_length_2: re
+size_no_space_length_3: ree
+size_no_space_length_4: reel
+size_no_space_length_5: reel
+size_no_space_length_6: reel
+size_no_space_upper_length_1: R
+size_no_space_upper_length_2: RE
+size_no_space_upper_length_3: REE
+size_no_space_upper_length_4: REEL
+size_no_space_upper_length_5: REEL
+size_no_space_upper_length_6: REEL
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: REEL
+size_upper_length_1: R
+size_upper_length_2: RE
+size_upper_length_3: REE
+size_upper_length_4: REEL
+size_upper_length_5: REEL
+size_upper_length_6: REEL
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: inkj
+type_length_5: inkje
+type_length_6: inkjet
+type_name: Inkjet
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: inkj
+type_no_space_length_5: inkje
+type_no_space_length_6: inkjet
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INKJ
+type_no_space_upper_length_5: INKJE
+type_no_space_upper_length_6: INKJET
+type_upper: INKJET
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INKJ
+type_upper_length_5: INKJE
+type_upper_length_6: INKJET

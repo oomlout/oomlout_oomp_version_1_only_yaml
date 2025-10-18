@@ -1,23 +1,146 @@
+bip_39_word_dash_12: live-business-symptom-about-song-village-fuel-wheat-rice-below-motor-add
+bip_39_word_dash_2: live-business
+bip_39_word_dash_3: live-business-symptom
+bip_39_word_new_br_12: live<br>business<br>symptom<br>about<br>song<br>village<br>fuel<br>wheat<br>rice<br>below<br>motor<br>add
+bip_39_word_new_br_2: live<br>business
+bip_39_word_new_br_3: live<br>business<br>symptom
+bip_39_word_new_line_12: 'live
+
+  business
+
+  symptom
+
+  about
+
+  song
+
+  village
+
+  fuel
+
+  wheat
+
+  rice
+
+  below
+
+  motor
+
+  add'
+bip_39_word_new_line_2: 'live
+
+  business'
+bip_39_word_new_line_3: 'live
+
+  business
+
+  symptom'
+bip_39_word_no_space_12: livebusinesssymptomaboutsongvillagefuelwheatricebelowmotoradd
+bip_39_word_no_space_2: livebusiness
+bip_39_word_no_space_3: livebusinesssymptom
+bip_39_word_space_12: live business symptom about song village fuel wheat rice below
+  motor add
+bip_39_word_space_2: live business
+bip_39_word_space_3: live business symptom
+bip_39_word_underscore_12: live_business_symptom_about_song_village_fuel_wheat_rice_below_motor_add
+bip_39_word_underscore_2: live_business
+bip_39_word_underscore_3: live_business_symptom
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: a8_52_mm_width_74_mm_height
 color_capital: A8.52 mm Width 74 mm Height
 color_first_letter: a
 color_first_letter_upper: A
+color_length_1: a
+color_length_2: a8
+color_length_3: a8_
+color_length_4: a8_5
+color_length_5: a8_52
+color_length_6: a8_52_
+color_name: A8 52 mm Width 74 mm Height
+color_no_space_length_1: a
+color_no_space_length_2: a8
+color_no_space_length_3: a85
+color_no_space_length_4: a852
+color_no_space_length_5: a852m
+color_no_space_length_6: a852mm
+color_no_space_upper_length_1: A
+color_no_space_upper_length_2: A8
+color_no_space_upper_length_3: A85
+color_no_space_upper_length_4: A852
+color_no_space_upper_length_5: A852M
+color_no_space_upper_length_6: A852MM
 color_upper: A8_52_MM_WIDTH_74_MM_HEIGHT
+color_upper_length_1: A
+color_upper_length_2: A8
+color_upper_length_3: A8_
+color_upper_length_4: A8_5
+color_upper_length_5: A8_52
+color_upper_length_6: A8_52_
 description: category_paper
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
 id: category_paper_sheet_a8_52_mm_width_74_mm_height_old
 id_no_class: paper_sheet_a8_52_mm_width_74_mm_height_old
+id_no_color: old
 id_no_size: a8_52_mm_width_74_mm_height_old
 id_no_type: sheet_a8_52_mm_width_74_mm_height_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201ztfp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201ztfp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201ztfp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201ztfp
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a8_52_mm_width_74_mm_height_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_paper_sheet_a8_52_mm_width_74_mm_height_old](none)<br>[](none)<br>[Category
-    Paper Sheet A8 52 Mm Width 74 Mm Height Old](none)<br><br>'
+  Paper Sheet A8 52 Mm Width 74 Mm Height Old](none)<br><br>'
 markdown_short: '[category_paper_sheet_a8_52_mm_width_74_mm_height_old](none)<br><br>'
 md5: 3320c535c9f9ebbfd0679007b907c415
 md5_10: 3320c535c9
@@ -52,11 +186,31 @@ md5_6: 3320c5
 md5_6_alpha: 1ztfp
 md5_6_alpha_upper: 1ZTFP
 md5_6_upper: 3320C5
-name: Category Paper Sheet A8 52 Mm Width 74 Mm Height Old
-name_no_class: Paper Sheet A8 52 Mm Width 74 Mm Height Old
-name_no_size: A8 52 Mm Width 74 Mm Height Old
+name: Category Paper Sheet A8 52 mm Width 74 mm Height Old
+name_no_class: Paper Sheet A8 52 mm Width 74 mm Height Old
+name_no_color: Old
+name_no_size: A8 52 mm Width 74 mm Height Old
 name_no_size_short: A8 52 Mm Width 74 Mm Height Old
-name_no_type: Sheet A8 52 Mm Width 74 Mm Height Old
+name_no_type: Sheet A8 52 mm Width 74 mm Height Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: paper
+oomlout_detail_hierarchy_2_upper: PAPER
+oomlout_detail_hierarchy_2_upper_length_4: PAPE
+oomlout_detail_hierarchy_3: sheet
+oomlout_detail_hierarchy_3_upper: SHEET
+oomlout_detail_hierarchy_3_upper_length_4: SHEE
+oomlout_detail_hierarchy_4: 52_mm_width
+oomlout_detail_hierarchy_4_upper: 52_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 52WI
+oomlout_detail_hierarchy_5: 74_mm_height
+oomlout_detail_hierarchy_5_upper: 74_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 74HE
+oomlout_detail_hierarchy_6: old
+oomlout_detail_hierarchy_6_upper: OLD
+oomlout_detail_hierarchy_6_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_paper_sheet_a8_52_mm_width_74_mm_height_old
 oomp_word: dog skull candy
 oomp_word_emoji: ':dog: :skull: :candy:'
@@ -73,7 +227,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypaper
@@ -81,11 +240,61 @@ size: sheet
 size_capital: Sheet
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sh
+size_length_3: she
+size_length_4: shee
+size_length_5: sheet
+size_length_6: sheet
+size_name: Sheet
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: she
+size_no_space_length_4: shee
+size_no_space_length_5: sheet
+size_no_space_length_6: sheet
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHE
+size_no_space_upper_length_4: SHEE
+size_no_space_upper_length_5: SHEET
+size_no_space_upper_length_6: SHEET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHEET
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHE
+size_upper_length_4: SHEE
+size_upper_length_5: SHEET
+size_upper_length_6: SHEET
 type: paper
 type_capital: Paper
 type_first_letter: p
 type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pap
+type_length_4: pape
+type_length_5: paper
+type_length_6: paper
+type_name: Paper
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pap
+type_no_space_length_4: pape
+type_no_space_length_5: paper
+type_no_space_length_6: paper
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAP
+type_no_space_upper_length_4: PAPE
+type_no_space_upper_length_5: PAPER
+type_no_space_upper_length_6: PAPER
 type_upper: PAPER
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAP
+type_upper_length_4: PAPE
+type_upper_length_5: PAPER
+type_upper_length_6: PAPER

@@ -1,22 +1,97 @@
+bip_39_word_dash_12: certain-hen-bless-select-swear-wealth-crop-response-stable-reward-mansion-analyst
+bip_39_word_dash_2: certain-hen
+bip_39_word_dash_3: certain-hen-bless
+bip_39_word_new_br_12: certain<br>hen<br>bless<br>select<br>swear<br>wealth<br>crop<br>response<br>stable<br>reward<br>mansion<br>analyst
+bip_39_word_new_br_2: certain<br>hen
+bip_39_word_new_br_3: certain<br>hen<br>bless
+bip_39_word_new_line_12: 'certain
+
+  hen
+
+  bless
+
+  select
+
+  swear
+
+  wealth
+
+  crop
+
+  response
+
+  stable
+
+  reward
+
+  mansion
+
+  analyst'
+bip_39_word_new_line_2: 'certain
+
+  hen'
+bip_39_word_new_line_3: 'certain
+
+  hen
+
+  bless'
+bip_39_word_no_space_12: certainhenblessselectswearwealthcropresponsestablerewardmansionanalyst
+bip_39_word_no_space_2: certainhen
+bip_39_word_no_space_3: certainhenbless
+bip_39_word_space_12: certain hen bless select swear wealth crop response stable reward
+  mansion analyst
+bip_39_word_space_2: certain hen
+bip_39_word_space_3: certain hen bless
+bip_39_word_underscore_12: certain_hen_bless_select_swear_wealth_crop_response_stable_reward_mansion_analyst
+bip_39_word_underscore_2: certain_hen
+bip_39_word_underscore_3: certain_hen_bless
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
+classification_length_1: b
+classification_length_2: bo
+classification_length_3: boo
+classification_length_4: book
+classification_length_5: book
+classification_length_6: book
+classification_name: Book
+classification_no_space_length_1: b
+classification_no_space_length_2: bo
+classification_no_space_length_3: boo
+classification_no_space_length_4: book
+classification_no_space_length_5: book
+classification_no_space_length_6: book
+classification_no_space_upper_length_1: B
+classification_no_space_upper_length_2: BO
+classification_no_space_upper_length_3: BOO
+classification_no_space_upper_length_4: BOOK
+classification_no_space_upper_length_5: BOOK
+classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
+classification_upper_length_1: B
+classification_upper_length_2: BO
+classification_upper_length_3: BOO
+classification_upper_length_4: BOOK
+classification_upper_length_5: BOOK
+classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -26,17 +101,28 @@ directory: parts/book_activity_puzzle
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_activity_puzzle
 id: book_activity_puzzle
 id_no_class: activity_puzzle
+id_no_color: puzzle
 id_no_size: puzzle
 id_no_type: puzzle
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_puzzle
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_puzzle
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_puzzle
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_puzzle
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2056wfi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2056wfi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2056wfi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2056wfi
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_puzzle
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_activity_puzzle](none)<br>[](none)<br>[Book Activity Puzzle](none)<br><br>'
@@ -52,9 +138,20 @@ md5_6_alpha_upper: 56WFI
 md5_6_upper: 850EAE
 name: Book Activity Puzzle
 name_no_class: Activity Puzzle
+name_no_color: Puzzle
 name_no_size: Puzzle
 name_no_size_short: Puzzle
 name_no_type: Puzzle
+oomlout_detail_hierarchy_1: book
+oomlout_detail_hierarchy_1_upper: BOOK
+oomlout_detail_hierarchy_1_upper_length_4: BOOK
+oomlout_detail_hierarchy_2: activity
+oomlout_detail_hierarchy_2_upper: ACTIVITY
+oomlout_detail_hierarchy_2_upper_length_4: ACTI
+oomlout_detail_hierarchy_3: puzzle
+oomlout_detail_hierarchy_3_upper: PUZZLE
+oomlout_detail_hierarchy_3_upper_length_4: PUZZ
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_activity_puzzle
 oomp_word: bulb cupid jeans
 oomp_word_emoji: ':bulb: :cupid: :jeans:'
@@ -70,18 +167,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: puzzle
 size_capital: Puzzle
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pu
+size_length_3: puz
+size_length_4: puzz
+size_length_5: puzzl
+size_length_6: puzzle
+size_name: Puzzle
+size_no_space_length_1: p
+size_no_space_length_2: pu
+size_no_space_length_3: puz
+size_no_space_length_4: puzz
+size_no_space_length_5: puzzl
+size_no_space_length_6: puzzle
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PU
+size_no_space_upper_length_3: PUZ
+size_no_space_upper_length_4: PUZZ
+size_no_space_upper_length_5: PUZZL
+size_no_space_upper_length_6: PUZZLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PUZZLE
+size_upper_length_1: P
+size_upper_length_2: PU
+size_upper_length_3: PUZ
+size_upper_length_4: PUZZ
+size_upper_length_5: PUZZL
+size_upper_length_6: PUZZLE
 type: activity
 type_capital: Activity
 type_first_letter: a
 type_first_letter_upper: A
+type_length_1: a
+type_length_2: ac
+type_length_3: act
+type_length_4: acti
+type_length_5: activ
+type_length_6: activi
+type_name: Activity
+type_no_space_length_1: a
+type_no_space_length_2: ac
+type_no_space_length_3: act
+type_no_space_length_4: acti
+type_no_space_length_5: activ
+type_no_space_length_6: activi
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AC
+type_no_space_upper_length_3: ACT
+type_no_space_upper_length_4: ACTI
+type_no_space_upper_length_5: ACTIV
+type_no_space_upper_length_6: ACTIVI
 type_upper: ACTIVITY
+type_upper_length_1: A
+type_upper_length_2: AC
+type_upper_length_3: ACT
+type_upper_length_4: ACTI
+type_upper_length_5: ACTIV
+type_upper_length_6: ACTIVI

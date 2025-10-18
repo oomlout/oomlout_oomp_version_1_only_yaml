@@ -1,0 +1,338 @@
+bip_39_word_dash_12: sand-umbrella-fox-unlock-define-matrix-brick-type-palace-acoustic-mammal-aim
+bip_39_word_dash_2: sand-umbrella
+bip_39_word_dash_3: sand-umbrella-fox
+bip_39_word_new_br_12: sand<br>umbrella<br>fox<br>unlock<br>define<br>matrix<br>brick<br>type<br>palace<br>acoustic<br>mammal<br>aim
+bip_39_word_new_br_2: sand<br>umbrella
+bip_39_word_new_br_3: sand<br>umbrella<br>fox
+bip_39_word_new_line_12: 'sand
+
+  umbrella
+
+  fox
+
+  unlock
+
+  define
+
+  matrix
+
+  brick
+
+  type
+
+  palace
+
+  acoustic
+
+  mammal
+
+  aim'
+bip_39_word_new_line_2: 'sand
+
+  umbrella'
+bip_39_word_new_line_3: 'sand
+
+  umbrella
+
+  fox'
+bip_39_word_no_space_12: sandumbrellafoxunlockdefinematrixbricktypepalaceacousticmammalaim
+bip_39_word_no_space_2: sandumbrella
+bip_39_word_no_space_3: sandumbrellafox
+bip_39_word_space_12: sand umbrella fox unlock define matrix brick type palace acoustic
+  mammal aim
+bip_39_word_space_2: sand umbrella
+bip_39_word_space_3: sand umbrella fox
+bip_39_word_underscore_12: sand_umbrella_fox_unlock_define_matrix_brick_type_palace_acoustic_mammal_aim
+bip_39_word_underscore_2: sand_umbrella
+bip_39_word_underscore_3: sand_umbrella_fox
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
+classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color
+color_name: Color
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: color
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLOR
+color_upper: COLOR
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR
+compatible_ink_bottles:
+- T7481
+- T7482
+- T7483
+- T7484
+description_chat_gpt: A3+ MFP with LDAP, optional HDD for forms and robust duty cycle.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+distributors: []
+features:
+- a3_copy_scan
+- duplex_adf
+- large_touchscreen
+- fax
+- security
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+id: printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+id_no_class: inkjet_a3_color_epson_workforce_wf_8510dwf
+id_no_color: epson_workforce_wf_8510dwf
+id_no_size: color_epson_workforce_wf_8510dwf
+id_no_type: a3_color_epson_workforce_wf_8510dwf
+ink_type: pigment
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203bgw0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203bgw0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203bgw0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203bgw0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+manufacturer: epson_workforce
+manufacturer_capital: Epson Workforce
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: ep
+manufacturer_length_3: eps
+manufacturer_length_4: epso
+manufacturer_length_5: epson
+manufacturer_length_6: epson_
+manufacturer_name: Epson Workforce
+manufacturer_no_space_length_1: e
+manufacturer_no_space_length_2: ep
+manufacturer_no_space_length_3: eps
+manufacturer_no_space_length_4: epso
+manufacturer_no_space_length_5: epson
+manufacturer_no_space_length_6: epsonw
+manufacturer_no_space_upper_length_1: E
+manufacturer_no_space_upper_length_2: EP
+manufacturer_no_space_upper_length_3: EPS
+manufacturer_no_space_upper_length_4: EPSO
+manufacturer_no_space_upper_length_5: EPSON
+manufacturer_no_space_upper_length_6: EPSONW
+manufacturer_upper: EPSON_WORKFORCE
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EP
+manufacturer_upper_length_3: EPS
+manufacturer_upper_length_4: EPSO
+manufacturer_upper_length_5: EPSON
+manufacturer_upper_length_6: EPSON_
+manufacturers: []
+markdown_full: '[printer_inkjet_a3_color_epson_workforce_wf_8510dwf](none)<br>[](none)<br>[Printer
+  Inkjet A3 Color Epson Workforce Wf 8510Dwf](none)<br><br>'
+markdown_short: '[printer_inkjet_a3_color_epson_workforce_wf_8510dwf](none)<br><br>'
+md5: 550d4084f9ebc376249ccee0b8bb0df9
+md5_10: 550d4084f9
+md5_10_upper: 550D4084F9
+md5_5: 550d4
+md5_5_upper: 550D4
+md5_6: 550d40
+md5_6_alpha: 3bgw0
+md5_6_alpha_upper: 3BGW0
+md5_6_upper: 550D40
+name: Printer Inkjet A3 Color Epson Workforce Wf 8510Dwf
+name_no_class: Inkjet A3 Color Epson Workforce Wf 8510Dwf
+name_no_color: Epson Workforce Wf 8510Dwf
+name_no_size: Color Epson Workforce Wf 8510Dwf
+name_no_size_short: Color Epson Workforce Wf 8510Dwf
+name_no_type: A3 Color Epson Workforce Wf 8510Dwf
+nozzle_count_black: 800
+nozzle_count_per_colour: 800
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: inkjet
+oomlout_detail_hierarchy_2_upper: INKJET
+oomlout_detail_hierarchy_2_upper_length_4: INKJ
+oomlout_detail_hierarchy_3: a3
+oomlout_detail_hierarchy_3_upper: A3
+oomlout_detail_hierarchy_3_upper_length_4: A3
+oomlout_detail_hierarchy_4: color
+oomlout_detail_hierarchy_4_upper: COLOR
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: epson_workforce
+oomlout_detail_hierarchy_5_upper: EPSON_WORKFORCE
+oomlout_detail_hierarchy_5_upper_length_4: EPSO
+oomlout_detail_hierarchy_6: wf_8510dwf
+oomlout_detail_hierarchy_6_upper: WF_8510DWF
+oomlout_detail_hierarchy_6_upper_length_4: WF_8
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_printer_inkjet_a3_color_epson_workforce_wf_8510dwf
+oomp_word: dolphin heart racehorse
+oomp_word_emoji: ':dolphin: :heart: :racehorse:'
+oomp_word_emoji_list:
+- ':dolphin:'
+- ':heart:'
+- ':racehorse:'
+oomp_word_list:
+- dolphin
+- heart
+- racehorse
+original_rrp_gbp: 799.99
+part_number: wf_8510dwf
+part_number_capital: Wf 8510Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_length_1: w
+part_number_length_2: wf
+part_number_length_3: wf_
+part_number_length_4: wf_8
+part_number_length_5: wf_85
+part_number_length_6: wf_851
+part_number_name: Wf 8510Dwf
+part_number_no_space_length_1: w
+part_number_no_space_length_2: wf
+part_number_no_space_length_3: wf8
+part_number_no_space_length_4: wf85
+part_number_no_space_length_5: wf851
+part_number_no_space_length_6: wf8510
+part_number_no_space_upper_length_1: W
+part_number_no_space_upper_length_2: WF
+part_number_no_space_upper_length_3: WF8
+part_number_no_space_upper_length_4: WF85
+part_number_no_space_upper_length_5: WF851
+part_number_no_space_upper_length_6: WF8510
+part_number_upper: WF_8510DWF
+part_number_upper_length_1: W
+part_number_upper_length_2: WF
+part_number_upper_length_3: WF_
+part_number_upper_length_4: WF_8
+part_number_upper_length_5: WF_85
+part_number_upper_length_6: WF_851
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+printhead_technology: PrecisionCore
+short_code: ''
+short_code_upper: ''
+short_name: WorkForce Pro WF-8510DWF
+size: a3
+size_capital: A3
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a3
+size_length_3: a3
+size_length_4: a3
+size_length_5: a3
+size_length_6: a3
+size_name: A3
+size_no_space_length_1: a
+size_no_space_length_2: a3
+size_no_space_length_3: a3
+size_no_space_length_4: a3
+size_no_space_length_5: a3
+size_no_space_length_6: a3
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A3
+size_no_space_upper_length_3: A3
+size_no_space_upper_length_4: A3
+size_no_space_upper_length_5: A3
+size_no_space_upper_length_6: A3
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: A3
+size_upper_length_1: A
+size_upper_length_2: A3
+size_upper_length_3: A3
+size_upper_length_4: A3
+size_upper_length_5: A3
+size_upper_length_6: A3
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: inkj
+type_length_5: inkje
+type_length_6: inkjet
+type_name: Inkjet
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: inkj
+type_no_space_length_5: inkje
+type_no_space_length_6: inkjet
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INKJ
+type_no_space_upper_length_5: INKJE
+type_no_space_upper_length_6: INKJET
+type_upper: INKJET
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INKJ
+type_upper_length_5: INKJE
+type_upper_length_6: INKJET

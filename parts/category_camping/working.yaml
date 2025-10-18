@@ -1,23 +1,98 @@
+bip_39_word_dash_12: slight-reject-good-tomorrow-ranch-fabric-nurse-trumpet-violin-little-clown-address
+bip_39_word_dash_2: slight-reject
+bip_39_word_dash_3: slight-reject-good
+bip_39_word_new_br_12: slight<br>reject<br>good<br>tomorrow<br>ranch<br>fabric<br>nurse<br>trumpet<br>violin<br>little<br>clown<br>address
+bip_39_word_new_br_2: slight<br>reject
+bip_39_word_new_br_3: slight<br>reject<br>good
+bip_39_word_new_line_12: 'slight
+
+  reject
+
+  good
+
+  tomorrow
+
+  ranch
+
+  fabric
+
+  nurse
+
+  trumpet
+
+  violin
+
+  little
+
+  clown
+
+  address'
+bip_39_word_new_line_2: 'slight
+
+  reject'
+bip_39_word_new_line_3: 'slight
+
+  reject
+
+  good'
+bip_39_word_no_space_12: slightrejectgoodtomorrowranchfabricnursetrumpetviolinlittleclownaddress
+bip_39_word_no_space_2: slightreject
+bip_39_word_no_space_3: slightrejectgood
+bip_39_word_space_12: slight reject good tomorrow ranch fabric nurse trumpet violin
+  little clown address
+bip_39_word_space_2: slight reject
+bip_39_word_space_3: slight reject good
+bip_39_word_underscore_12: slight_reject_good_tomorrow_ranch_fabric_nurse_trumpet_violin_little_clown_address
+bip_39_word_underscore_2: slight_reject
+bip_39_word_underscore_3: slight_reject_good
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_camping
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +102,28 @@ directory: parts/category_camping
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_camping
 id: category_camping
 id_no_class: camping
+id_no_color: camping
 id_no_size: camping
 id_no_type: camping
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2024c2o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2024c2o
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2024c2o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2024c2o
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_camping](none)<br>[](none)<br>[Category Camping](none)<br><br>'
@@ -53,9 +139,17 @@ md5_6_alpha_upper: 24C2O
 md5_6_upper: '365820'
 name: Category Camping
 name_no_class: Camping
+name_no_color: Camping
 name_no_size: Camping
 name_no_size_short: Camping
 name_no_type: Camping
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: camping
+oomlout_detail_hierarchy_2_upper: CAMPING
+oomlout_detail_hierarchy_2_upper_length_4: CAMP
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_camping
 oomp_word: rabbit water_buffalo skull
 oomp_word_emoji: ':rabbit: :water_buffalo: :skull:'
@@ -72,7 +166,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycamping
@@ -80,6 +179,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -87,4 +187,29 @@ type: camping
 type_capital: Camping
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: ca
+type_length_3: cam
+type_length_4: camp
+type_length_5: campi
+type_length_6: campin
+type_name: Camping
+type_no_space_length_1: c
+type_no_space_length_2: ca
+type_no_space_length_3: cam
+type_no_space_length_4: camp
+type_no_space_length_5: campi
+type_no_space_length_6: campin
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CA
+type_no_space_upper_length_3: CAM
+type_no_space_upper_length_4: CAMP
+type_no_space_upper_length_5: CAMPI
+type_no_space_upper_length_6: CAMPIN
 type_upper: CAMPING
+type_upper_length_1: C
+type_upper_length_2: CA
+type_upper_length_3: CAM
+type_upper_length_4: CAMP
+type_upper_length_5: CAMPI
+type_upper_length_6: CAMPIN

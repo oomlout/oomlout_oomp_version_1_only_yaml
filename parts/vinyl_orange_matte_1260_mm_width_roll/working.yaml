@@ -1,0 +1,241 @@
+bip_39_word_dash_12: unaware-filter-ride-pattern-glass-boring-shadow-advice-estate-apart-write-advice
+bip_39_word_dash_2: unaware-filter
+bip_39_word_dash_3: unaware-filter-ride
+bip_39_word_new_br_12: unaware<br>filter<br>ride<br>pattern<br>glass<br>boring<br>shadow<br>advice<br>estate<br>apart<br>write<br>advice
+bip_39_word_new_br_2: unaware<br>filter
+bip_39_word_new_br_3: unaware<br>filter<br>ride
+bip_39_word_new_line_12: 'unaware
+
+  filter
+
+  ride
+
+  pattern
+
+  glass
+
+  boring
+
+  shadow
+
+  advice
+
+  estate
+
+  apart
+
+  write
+
+  advice'
+bip_39_word_new_line_2: 'unaware
+
+  filter'
+bip_39_word_new_line_3: 'unaware
+
+  filter
+
+  ride'
+bip_39_word_no_space_12: unawarefilterridepatternglassboringshadowadviceestateapartwriteadvice
+bip_39_word_no_space_2: unawarefilter
+bip_39_word_no_space_3: unawarefilterride
+bip_39_word_space_12: unaware filter ride pattern glass boring shadow advice estate
+  apart write advice
+bip_39_word_space_2: unaware filter
+bip_39_word_space_3: unaware filter ride
+bip_39_word_underscore_12: unaware_filter_ride_pattern_glass_boring_shadow_advice_estate_apart_write_advice
+bip_39_word_underscore_2: unaware_filter
+bip_39_word_underscore_3: unaware_filter_ride
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vin
+classification_length_4: viny
+classification_length_5: vinyl
+classification_length_6: vinyl
+classification_name: Vinyl
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vin
+classification_no_space_length_4: viny
+classification_no_space_length_5: vinyl
+classification_no_space_length_6: vinyl
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VIN
+classification_no_space_upper_length_4: VINY
+classification_no_space_upper_length_5: VINYL
+classification_no_space_upper_length_6: VINYL
+classification_upper: VINYL
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VIN
+classification_upper_length_4: VINY
+classification_upper_length_5: VINYL
+classification_upper_length_6: VINYL
+color: orange_matte
+color_capital: Orange Matte
+color_first_letter: o
+color_first_letter_upper: O
+color_length_1: o
+color_length_2: or
+color_length_3: ora
+color_length_4: oran
+color_length_5: orang
+color_length_6: orange
+color_name: Orange Matte
+color_no_space_length_1: o
+color_no_space_length_2: or
+color_no_space_length_3: ora
+color_no_space_length_4: oran
+color_no_space_length_5: orang
+color_no_space_length_6: orange
+color_no_space_upper_length_1: O
+color_no_space_upper_length_2: OR
+color_no_space_upper_length_3: ORA
+color_no_space_upper_length_4: ORAN
+color_no_space_upper_length_5: ORANG
+color_no_space_upper_length_6: ORANGE
+color_upper: ORANGE_MATTE
+color_upper_length_1: O
+color_upper_length_2: OR
+color_upper_length_3: ORA
+color_upper_length_4: ORAN
+color_upper_length_5: ORANG
+color_upper_length_6: ORANGE
+description_extra: 1260_mm_width_roll
+description_extra_capital: 1260 mm Width Roll
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_length_1: '1'
+description_extra_length_2: '12'
+description_extra_length_3: '126'
+description_extra_length_4: '1260'
+description_extra_length_5: '1260_'
+description_extra_length_6: 1260_m
+description_extra_name: 1260 mm Width Roll
+description_extra_no_space_length_1: '1'
+description_extra_no_space_length_2: '12'
+description_extra_no_space_length_3: '126'
+description_extra_no_space_length_4: '1260'
+description_extra_no_space_length_5: 1260m
+description_extra_no_space_length_6: 1260mm
+description_extra_no_space_upper_length_1: '1'
+description_extra_no_space_upper_length_2: '12'
+description_extra_no_space_upper_length_3: '126'
+description_extra_no_space_upper_length_4: '1260'
+description_extra_no_space_upper_length_5: 1260M
+description_extra_no_space_upper_length_6: 1260MM
+description_extra_upper: 1260_MM_WIDTH_ROLL
+description_extra_upper_length_1: '1'
+description_extra_upper_length_2: '12'
+description_extra_upper_length_3: '126'
+description_extra_upper_length_4: '1260'
+description_extra_upper_length_5: '1260_'
+description_extra_upper_length_6: 1260_M
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/vinyl_orange_matte_1260_mm_width_roll
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_orange_matte_1260_mm_width_roll
+id: vinyl_orange_matte_1260_mm_width_roll
+id_no_class: orange_matte_1260_mm_width_roll
+id_no_color: orangematte1260mmwidthroll
+id_no_size: orangematte1260mmwidthroll
+id_no_type: orangematte1260mmwidthroll
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_1260_mm_width_roll
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_1260_mm_width_roll
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_1260_mm_width_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_1260_mm_width_roll
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202kow2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202kow2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202kow2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202kow2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_1260_mm_width_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_orange_matte_1260_mm_width_roll](none)<br>[](none)<br>[Vinyl
+  Orange Matte 1260 Mm Width Roll](none)<br><br>'
+markdown_short: '[vinyl_orange_matte_1260_mm_width_roll](none)<br><br>'
+md5: 41fd02926b04189867b17a1572d59f63
+md5_10: 41fd02926b
+md5_10_upper: 41FD02926B
+md5_5: 41fd0
+md5_5_upper: 41FD0
+md5_6: 41fd02
+md5_6_alpha: 2kow2
+md5_6_alpha_upper: 2KOW2
+md5_6_upper: 41FD02
+name: Vinyl Orange Matte 1260 mm Width Roll
+name_no_class: Orange Matte 1260 mm Width Roll
+name_no_color: Orangematte1260mmwidthroll
+name_no_size: Orangematte1260mmwidthroll
+name_no_size_short: Orangematte1260Mmwidthroll
+name_no_type: Orangematte1260mmwidthroll
+oomlout_detail_hierarchy_1: vinyl
+oomlout_detail_hierarchy_1_upper: VINYL
+oomlout_detail_hierarchy_1_upper_length_4: VINY
+oomlout_detail_hierarchy_2: orange_matte
+oomlout_detail_hierarchy_2_upper: ORANGE_MATTE
+oomlout_detail_hierarchy_2_upper_length_4: ORAN
+oomlout_detail_hierarchy_3: 1260_mm_width
+oomlout_detail_hierarchy_3_upper: 1260_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: '1260'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_vinyl_orange_matte_1260_mm_width_roll
+oomp_word: camel parking blush
+oomp_word_emoji: ':camel: :parking: :blush:'
+oomp_word_emoji_list:
+- ':camel:'
+- ':parking:'
+- ':blush:'
+oomp_word_list:
+- camel
+- parking
+- blush
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_name: ''
+type_upper: ''
+width: 1260 mm

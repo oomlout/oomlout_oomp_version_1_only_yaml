@@ -1,0 +1,297 @@
+bip_39_word_dash_12: unfold-switch-tool-often-reopen-front-depend-prize-rate-east-pill-alter
+bip_39_word_dash_2: unfold-switch
+bip_39_word_dash_3: unfold-switch-tool
+bip_39_word_new_br_12: unfold<br>switch<br>tool<br>often<br>reopen<br>front<br>depend<br>prize<br>rate<br>east<br>pill<br>alter
+bip_39_word_new_br_2: unfold<br>switch
+bip_39_word_new_br_3: unfold<br>switch<br>tool
+bip_39_word_new_line_12: 'unfold
+
+  switch
+
+  tool
+
+  often
+
+  reopen
+
+  front
+
+  depend
+
+  prize
+
+  rate
+
+  east
+
+  pill
+
+  alter'
+bip_39_word_new_line_2: 'unfold
+
+  switch'
+bip_39_word_new_line_3: 'unfold
+
+  switch
+
+  tool'
+bip_39_word_no_space_12: unfoldswitchtooloftenreopenfrontdependprizerateeastpillalter
+bip_39_word_no_space_2: unfoldswitch
+bip_39_word_no_space_3: unfoldswitchtool
+bip_39_word_space_12: unfold switch tool often reopen front depend prize rate east
+  pill alter
+bip_39_word_space_2: unfold switch
+bip_39_word_space_3: unfold switch tool
+bip_39_word_underscore_12: unfold_switch_tool_often_reopen_front_depend_prize_rate_east_pill_alter
+bip_39_word_underscore_2: unfold_switch
+bip_39_word_underscore_3: unfold_switch_tool
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: sh
+classification_length_3: she
+classification_length_4: shee
+classification_length_5: sheet
+classification_length_6: sheet_
+classification_name: Sheet Stock
+classification_no_space_length_1: s
+classification_no_space_length_2: sh
+classification_no_space_length_3: she
+classification_no_space_length_4: shee
+classification_no_space_length_5: sheet
+classification_no_space_length_6: sheets
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: SH
+classification_no_space_upper_length_3: SHE
+classification_no_space_upper_length_4: SHEE
+classification_no_space_upper_length_5: SHEET
+classification_no_space_upper_length_6: SHEETS
+classification_upper: SHEET_STOCK
+classification_upper_length_1: S
+classification_upper_length_2: SH
+classification_upper_length_3: SHE
+classification_upper_length_4: SHEE
+classification_upper_length_5: SHEET
+classification_upper_length_6: SHEET_
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bl
+color_length_3: blu
+color_length_4: blue
+color_length_5: blue
+color_length_6: blue
+color_name: Blue
+color_no_space_length_1: b
+color_no_space_length_2: bl
+color_no_space_length_3: blu
+color_no_space_length_4: blue
+color_no_space_length_5: blue
+color_no_space_length_6: blue
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BL
+color_no_space_upper_length_3: BLU
+color_no_space_upper_length_4: BLUE
+color_no_space_upper_length_5: BLUE
+color_no_space_upper_length_6: BLUE
+color_upper: BLUE
+color_upper_length_1: B
+color_upper_length_2: BL
+color_upper_length_3: BLU
+color_upper_length_4: BLUE
+color_upper_length_5: BLUE
+color_upper_length_6: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 600_mm_width_400_mm_height
+description_main_capital: 600 mm Width 400 mm Height
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_length_1: '6'
+description_main_length_2: '60'
+description_main_length_3: '600'
+description_main_length_4: '600_'
+description_main_length_5: 600_m
+description_main_length_6: 600_mm
+description_main_name: 600 mm Width 400 mm Height
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: '60'
+description_main_no_space_length_3: '600'
+description_main_no_space_length_4: 600m
+description_main_no_space_length_5: 600mm
+description_main_no_space_length_6: 600mmw
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: '60'
+description_main_no_space_upper_length_3: '600'
+description_main_no_space_upper_length_4: 600M
+description_main_no_space_upper_length_5: 600MM
+description_main_no_space_upper_length_6: 600MMW
+description_main_upper: 600_MM_WIDTH_400_MM_HEIGHT
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '60'
+description_main_upper_length_3: '600'
+description_main_upper_length_4: '600_'
+description_main_upper_length_5: 600_M
+description_main_upper_length_6: 600_MM
+description_only_numbers: '600400'
+description_only_numbers_short: 600k
+description_or_color: B600k
+description_or_color_upper: B600K
+directory: parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+id: sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+id_no_class: acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+id_no_color: 600_mm_width_400_mm_height
+id_no_size: blue_600_mm_width_400_mm_height
+id_no_type: 6mm_depth_blue_600_mm_width_400_mm_height
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204nk41
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204nk41
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204nk41
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204nk41
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height](none)<br>[l](none)<br>[Sheet
+  Stock Acrylic 6Mm Depth Blue 600 Mm Width 400 Mm Height](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height](none)<br><br>'
+md5: 7749916d91ab475d755b399bc9770f69
+md5_10: 7749916d91
+md5_10_upper: 7749916D91
+md5_5: '77499'
+md5_5_upper: '77499'
+md5_6: '774991'
+md5_6_alpha: 4nk41
+md5_6_alpha_upper: 4NK41
+md5_6_upper: '774991'
+name: Sheet Stock Acrylic 6mm Depth Blue 600 mm Width 400 mm Height
+name_no_class: Acrylic 6mm Depth Blue 600 mm Width 400 mm Height
+name_no_color: 600 mm Width 400 mm Height
+name_no_size: Blue 600 mm Width 400 mm Height
+name_no_size_short: Blue 600 Mm Width 400 Mm Height
+name_no_type: 6mm Depth Blue 600 mm Width 400 mm Height
+oomlout_detail_hierarchy_1: sheet_stock
+oomlout_detail_hierarchy_1_upper: SHEET_STOCK
+oomlout_detail_hierarchy_1_upper_length_4: SHEE
+oomlout_detail_hierarchy_2: acrylic
+oomlout_detail_hierarchy_2_upper: ACRYLIC
+oomlout_detail_hierarchy_2_upper_length_4: ACRY
+oomlout_detail_hierarchy_3: 6mm_depth
+oomlout_detail_hierarchy_3_upper: 6MM_DEPTH
+oomlout_detail_hierarchy_3_upper_length_4: 6MM_
+oomlout_detail_hierarchy_4: blue
+oomlout_detail_hierarchy_4_upper: BLUE
+oomlout_detail_hierarchy_4_upper_length_4: BLUE
+oomlout_detail_hierarchy_5: 600_mm_width
+oomlout_detail_hierarchy_5_upper: 600_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 600W
+oomlout_detail_hierarchy_6: 400_mm_height
+oomlout_detail_hierarchy_6_upper: 400_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 400H
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height
+oomp_word: gift hatching_chick pushpin
+oomp_word_emoji: ':gift: :hatching_chick: :pushpin:'
+oomp_word_emoji_list:
+- ':gift:'
+- ':hatching_chick:'
+- ':pushpin:'
+oomp_word_list:
+- gift
+- hatching_chick
+- pushpin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: l
+short_code_upper: L
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_length_1: '6'
+size_length_2: 6m
+size_length_3: 6mm
+size_length_4: 6mm_
+size_length_5: 6mm_d
+size_length_6: 6mm_de
+size_name: 6mm Depth
+size_no_space_length_1: '6'
+size_no_space_length_2: 6m
+size_no_space_length_3: 6mm
+size_no_space_length_4: 6mmd
+size_no_space_length_5: 6mmde
+size_no_space_length_6: 6mmdep
+size_no_space_upper_length_1: '6'
+size_no_space_upper_length_2: 6M
+size_no_space_upper_length_3: 6MM
+size_no_space_upper_length_4: 6MMD
+size_no_space_upper_length_5: 6MMDE
+size_no_space_upper_length_6: 6MMDEP
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+size_upper_length_1: '6'
+size_upper_length_2: 6M
+size_upper_length_3: 6MM
+size_upper_length_4: 6MM_
+size_upper_length_5: 6MM_D
+size_upper_length_6: 6MM_DE
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_length_1: a
+type_length_2: ac
+type_length_3: acr
+type_length_4: acry
+type_length_5: acryl
+type_length_6: acryli
+type_name: Acrylic
+type_no_space_length_1: a
+type_no_space_length_2: ac
+type_no_space_length_3: acr
+type_no_space_length_4: acry
+type_no_space_length_5: acryl
+type_no_space_length_6: acryli
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AC
+type_no_space_upper_length_3: ACR
+type_no_space_upper_length_4: ACRY
+type_no_space_upper_length_5: ACRYL
+type_no_space_upper_length_6: ACRYLI
+type_upper: ACRYLIC
+type_upper_length_1: A
+type_upper_length_2: AC
+type_upper_length_3: ACR
+type_upper_length_4: ACRY
+type_upper_length_5: ACRYL
+type_upper_length_6: ACRYLI

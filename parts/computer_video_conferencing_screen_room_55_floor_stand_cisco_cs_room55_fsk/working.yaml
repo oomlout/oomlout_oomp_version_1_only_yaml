@@ -1,0 +1,322 @@
+bip_39_word_dash_12: blanket-stairs-shuffle-hurdle-stadium-chaos-buddy-drum-upgrade-luggage-add-abuse
+bip_39_word_dash_2: blanket-stairs
+bip_39_word_dash_3: blanket-stairs-shuffle
+bip_39_word_new_br_12: blanket<br>stairs<br>shuffle<br>hurdle<br>stadium<br>chaos<br>buddy<br>drum<br>upgrade<br>luggage<br>add<br>abuse
+bip_39_word_new_br_2: blanket<br>stairs
+bip_39_word_new_br_3: blanket<br>stairs<br>shuffle
+bip_39_word_new_line_12: 'blanket
+
+  stairs
+
+  shuffle
+
+  hurdle
+
+  stadium
+
+  chaos
+
+  buddy
+
+  drum
+
+  upgrade
+
+  luggage
+
+  add
+
+  abuse'
+bip_39_word_new_line_2: 'blanket
+
+  stairs'
+bip_39_word_new_line_3: 'blanket
+
+  stairs
+
+  shuffle'
+bip_39_word_no_space_12: blanketstairsshufflehurdlestadiumchaosbuddydrumupgradeluggageaddabuse
+bip_39_word_no_space_2: blanketstairs
+bip_39_word_no_space_3: blanketstairsshuffle
+bip_39_word_space_12: blanket stairs shuffle hurdle stadium chaos buddy drum upgrade
+  luggage add abuse
+bip_39_word_space_2: blanket stairs
+bip_39_word_space_3: blanket stairs shuffle
+bip_39_word_underscore_12: blanket_stairs_shuffle_hurdle_stadium_chaos_buddy_drum_upgrade_luggage_add_abuse
+bip_39_word_underscore_2: blanket_stairs
+bip_39_word_underscore_3: blanket_stairs_shuffle
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: co
+classification_length_3: com
+classification_length_4: comp
+classification_length_5: compu
+classification_length_6: comput
+classification_name: Computer
+classification_no_space_length_1: c
+classification_no_space_length_2: co
+classification_no_space_length_3: com
+classification_no_space_length_4: comp
+classification_no_space_length_5: compu
+classification_no_space_length_6: comput
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CO
+classification_no_space_upper_length_3: COM
+classification_no_space_upper_length_4: COMP
+classification_no_space_upper_length_5: COMPU
+classification_no_space_upper_length_6: COMPUT
+classification_upper: COMPUTER
+classification_upper_length_1: C
+classification_upper_length_2: CO
+classification_upper_length_3: COM
+classification_upper_length_4: COMP
+classification_upper_length_5: COMPU
+classification_upper_length_6: COMPUT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: room_55_floor_stand
+description_main_capital: Room 55 Floor Stand
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_length_1: r
+description_main_length_2: ro
+description_main_length_3: roo
+description_main_length_4: room
+description_main_length_5: room_
+description_main_length_6: room_5
+description_main_name: Room 55 Floor Stand
+description_main_no_space_length_1: r
+description_main_no_space_length_2: ro
+description_main_no_space_length_3: roo
+description_main_no_space_length_4: room
+description_main_no_space_length_5: room5
+description_main_no_space_length_6: room55
+description_main_no_space_upper_length_1: R
+description_main_no_space_upper_length_2: RO
+description_main_no_space_upper_length_3: ROO
+description_main_no_space_upper_length_4: ROOM
+description_main_no_space_upper_length_5: ROOM5
+description_main_no_space_upper_length_6: ROOM55
+description_main_upper: ROOM_55_FLOOR_STAND
+description_main_upper_length_1: R
+description_main_upper_length_2: RO
+description_main_upper_length_3: ROO
+description_main_upper_length_4: ROOM
+description_main_upper_length_5: ROOM_
+description_main_upper_length_6: ROOM_5
+description_only_numbers: '55'
+description_only_numbers_short: '55'
+description_or_color: '55'
+description_or_color_upper: '55'
+directory: parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+id: computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+id_no_class: video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+id_no_color: room55floorstandciscocsroom55fsk
+id_no_size: room_55_floor_stand_cisco_cs_room55_fsk
+id_no_type: screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_2_name: link_github
+link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20pbhd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20pbhd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20pbhd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20pbhd
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_length_1: c
+manufacturer_length_2: ci
+manufacturer_length_3: cis
+manufacturer_length_4: cisc
+manufacturer_length_5: cisco
+manufacturer_length_6: cisco
+manufacturer_name: Cisco
+manufacturer_no_space_length_1: c
+manufacturer_no_space_length_2: ci
+manufacturer_no_space_length_3: cis
+manufacturer_no_space_length_4: cisc
+manufacturer_no_space_length_5: cisco
+manufacturer_no_space_length_6: cisco
+manufacturer_no_space_upper_length_1: C
+manufacturer_no_space_upper_length_2: CI
+manufacturer_no_space_upper_length_3: CIS
+manufacturer_no_space_upper_length_4: CISC
+manufacturer_no_space_upper_length_5: CISCO
+manufacturer_no_space_upper_length_6: CISCO
+manufacturer_upper: CISCO
+manufacturer_upper_length_1: C
+manufacturer_upper_length_2: CI
+manufacturer_upper_length_3: CIS
+manufacturer_upper_length_4: CISC
+manufacturer_upper_length_5: CISCO
+manufacturer_upper_length_6: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk](none)<br>[](none)<br>[Computer
+  Video Conferencing Screen Room 55 Floor Stand Cisco Cs Room55 Fsk](none)<br><br>'
+markdown_short: '[computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk](none)<br><br>'
+md5: 12066137754383ac9969f6f98ef510ba
+md5_10: '1206613775'
+md5_10_upper: '1206613775'
+md5_5: '12066'
+md5_5_upper: '12066'
+md5_6: '120661'
+md5_6_alpha: pbhd
+md5_6_alpha_upper: PBHD
+md5_6_upper: '120661'
+name: Computer Video Conferencing Screen Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_class: Video Conferencing Screen Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_color: Room55Floorstandciscocsroom55Fsk
+name_no_size: Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_size_short: Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_type: Screen Room 55 Floor Stand Cisco Cs Room55 Fsk
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: video_conferencing
+oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
+oomlout_detail_hierarchy_2_upper_length_4: VIDE
+oomlout_detail_hierarchy_3: screen
+oomlout_detail_hierarchy_3_upper: SCREEN
+oomlout_detail_hierarchy_3_upper_length_4: SCRE
+oomlout_detail_hierarchy_4: room_55_floor_stand
+oomlout_detail_hierarchy_4_upper: ROOM_55_FLOOR_STAND
+oomlout_detail_hierarchy_4_upper_length_4: ROOM
+oomlout_detail_hierarchy_5: cisco
+oomlout_detail_hierarchy_5_upper: CISCO
+oomlout_detail_hierarchy_5_upper_length_4: CISC
+oomlout_detail_hierarchy_6: cs_room55_fsk
+oomlout_detail_hierarchy_6_upper: CS_ROOM55_FSK
+oomlout_detail_hierarchy_6_upper_length_4: CS_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+oomp_word: anger sleeping bouquet
+oomp_word_emoji: ':anger: :sleeping: :bouquet:'
+oomp_word_emoji_list:
+- ':anger:'
+- ':sleeping:'
+- ':bouquet:'
+oomp_word_list:
+- anger
+- sleeping
+- bouquet
+part_number: cs_room55_fsk
+part_number_capital: Cs Room55 Fsk
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_length_1: c
+part_number_length_2: cs
+part_number_length_3: cs_
+part_number_length_4: cs_r
+part_number_length_5: cs_ro
+part_number_length_6: cs_roo
+part_number_name: Cs Room55 Fsk
+part_number_no_space_length_1: c
+part_number_no_space_length_2: cs
+part_number_no_space_length_3: csr
+part_number_no_space_length_4: csro
+part_number_no_space_length_5: csroo
+part_number_no_space_length_6: csroom
+part_number_no_space_upper_length_1: C
+part_number_no_space_upper_length_2: CS
+part_number_no_space_upper_length_3: CSR
+part_number_no_space_upper_length_4: CSRO
+part_number_no_space_upper_length_5: CSROO
+part_number_no_space_upper_length_6: CSROOM
+part_number_upper: CS_ROOM55_FSK
+part_number_upper_length_1: C
+part_number_upper_length_2: CS
+part_number_upper_length_3: CS_
+part_number_upper_length_4: CS_R
+part_number_upper_length_5: CS_RO
+part_number_upper_length_6: CS_ROO
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: screen
+size_capital: Screen
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sc
+size_length_3: scr
+size_length_4: scre
+size_length_5: scree
+size_length_6: screen
+size_name: Screen
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: scr
+size_no_space_length_4: scre
+size_no_space_length_5: scree
+size_no_space_length_6: screen
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCR
+size_no_space_upper_length_4: SCRE
+size_no_space_upper_length_5: SCREE
+size_no_space_upper_length_6: SCREEN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREEN
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCR
+size_upper_length_4: SCRE
+size_upper_length_5: SCREE
+size_upper_length_6: SCREEN
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vid
+type_length_4: vide
+type_length_5: video
+type_length_6: video_
+type_name: Video Conferencing
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vid
+type_no_space_length_4: vide
+type_no_space_length_5: video
+type_no_space_length_6: videoc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VID
+type_no_space_upper_length_4: VIDE
+type_no_space_upper_length_5: VIDEO
+type_no_space_upper_length_6: VIDEOC
+type_upper: VIDEO_CONFERENCING
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VID
+type_upper_length_4: VIDE
+type_upper_length_5: VIDEO
+type_upper_length_6: VIDEO_

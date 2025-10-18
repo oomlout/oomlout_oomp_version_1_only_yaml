@@ -1,23 +1,122 @@
+bip_39_word_dash_12: master-remain-cake-voyage-feature-creek-custom-access-boat-practice-sense-advance
+bip_39_word_dash_2: master-remain
+bip_39_word_dash_3: master-remain-cake
+bip_39_word_new_br_12: master<br>remain<br>cake<br>voyage<br>feature<br>creek<br>custom<br>access<br>boat<br>practice<br>sense<br>advance
+bip_39_word_new_br_2: master<br>remain
+bip_39_word_new_br_3: master<br>remain<br>cake
+bip_39_word_new_line_12: 'master
+
+  remain
+
+  cake
+
+  voyage
+
+  feature
+
+  creek
+
+  custom
+
+  access
+
+  boat
+
+  practice
+
+  sense
+
+  advance'
+bip_39_word_new_line_2: 'master
+
+  remain'
+bip_39_word_new_line_3: 'master
+
+  remain
+
+  cake'
+bip_39_word_no_space_12: masterremaincakevoyagefeaturecreekcustomaccessboatpracticesenseadvance
+bip_39_word_no_space_2: masterremain
+bip_39_word_no_space_3: masterremaincake
+bip_39_word_space_12: master remain cake voyage feature creek custom access boat practice
+  sense advance
+bip_39_word_space_2: master remain
+bip_39_word_space_3: master remain cake
+bip_39_word_underscore_12: master_remain_cake_voyage_feature_creek_custom_access_boat_practice_sense_advance
+bip_39_word_underscore_2: master_remain
+bip_39_word_underscore_3: master_remain_cake
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_hardware
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_hardware_washer_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_washer_old
 id: category_hardware_washer_old
 id_no_class: hardware_washer_old
+id_no_color: old
 id_no_size: old
 id_no_type: washer_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202h8kq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202h8kq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202h8kq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202h8kq
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_washer_old](none)<br>[](none)<br>[Category Hardware
-    Washer Old](none)<br><br>'
+  Washer Old](none)<br><br>'
 markdown_short: '[category_hardware_washer_old](none)<br><br>'
 md5: 3f87aa58c60146d0ccaa1f6040ad6445
 md5_10: 3f87aa58c6
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 2H8KQ
 md5_6_upper: 3F87AA
 name: Category Hardware Washer Old
 name_no_class: Hardware Washer Old
+name_no_color: Old
 name_no_size: Old
 name_no_size_short: Old
 name_no_type: Washer Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: hardware
+oomlout_detail_hierarchy_2_upper: HARDWARE
+oomlout_detail_hierarchy_2_upper_length_4: HARD
+oomlout_detail_hierarchy_3: washer
+oomlout_detail_hierarchy_3_upper: WASHER
+oomlout_detail_hierarchy_3_upper_length_4: WASH
+oomlout_detail_hierarchy_4: old
+oomlout_detail_hierarchy_4_upper: OLD
+oomlout_detail_hierarchy_4_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_hardware_washer_old
 oomp_word: horse toilet lipstick
 oomp_word_emoji: ':horse: :toilet: :lipstick:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhardware
@@ -81,11 +210,61 @@ size: washer
 size_capital: Washer
 size_first_letter: w
 size_first_letter_upper: W
+size_length_1: w
+size_length_2: wa
+size_length_3: was
+size_length_4: wash
+size_length_5: washe
+size_length_6: washer
+size_name: Washer
+size_no_space_length_1: w
+size_no_space_length_2: wa
+size_no_space_length_3: was
+size_no_space_length_4: wash
+size_no_space_length_5: washe
+size_no_space_length_6: washer
+size_no_space_upper_length_1: W
+size_no_space_upper_length_2: WA
+size_no_space_upper_length_3: WAS
+size_no_space_upper_length_4: WASH
+size_no_space_upper_length_5: WASHE
+size_no_space_upper_length_6: WASHER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: WASHER
+size_upper_length_1: W
+size_upper_length_2: WA
+size_upper_length_3: WAS
+size_upper_length_4: WASH
+size_upper_length_5: WASHE
+size_upper_length_6: WASHER
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
+type_length_1: h
+type_length_2: ha
+type_length_3: har
+type_length_4: hard
+type_length_5: hardw
+type_length_6: hardwa
+type_name: Hardware
+type_no_space_length_1: h
+type_no_space_length_2: ha
+type_no_space_length_3: har
+type_no_space_length_4: hard
+type_no_space_length_5: hardw
+type_no_space_length_6: hardwa
+type_no_space_upper_length_1: H
+type_no_space_upper_length_2: HA
+type_no_space_upper_length_3: HAR
+type_no_space_upper_length_4: HARD
+type_no_space_upper_length_5: HARDW
+type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
+type_upper_length_1: H
+type_upper_length_2: HA
+type_upper_length_3: HAR
+type_upper_length_4: HARD
+type_upper_length_5: HARDW
+type_upper_length_6: HARDWA

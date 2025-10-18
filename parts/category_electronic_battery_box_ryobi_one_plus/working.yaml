@@ -1,23 +1,122 @@
+bip_39_word_dash_12: west-legal-differ-theory-gadget-mutual-pattern-dance-sense-harvest-throw-also
+bip_39_word_dash_2: west-legal
+bip_39_word_dash_3: west-legal-differ
+bip_39_word_new_br_12: west<br>legal<br>differ<br>theory<br>gadget<br>mutual<br>pattern<br>dance<br>sense<br>harvest<br>throw<br>also
+bip_39_word_new_br_2: west<br>legal
+bip_39_word_new_br_3: west<br>legal<br>differ
+bip_39_word_new_line_12: 'west
+
+  legal
+
+  differ
+
+  theory
+
+  gadget
+
+  mutual
+
+  pattern
+
+  dance
+
+  sense
+
+  harvest
+
+  throw
+
+  also'
+bip_39_word_new_line_2: 'west
+
+  legal'
+bip_39_word_new_line_3: 'west
+
+  legal
+
+  differ'
+bip_39_word_no_space_12: westlegaldiffertheorygadgetmutualpatterndancesenseharvestthrowalso
+bip_39_word_no_space_2: westlegal
+bip_39_word_no_space_3: westlegaldiffer
+bip_39_word_space_12: west legal differ theory gadget mutual pattern dance sense harvest
+  throw also
+bip_39_word_space_2: west legal
+bip_39_word_space_3: west legal differ
+bip_39_word_underscore_12: west_legal_differ_theory_gadget_mutual_pattern_dance_sense_harvest_throw_also
+bip_39_word_underscore_2: west_legal
+bip_39_word_underscore_3: west_legal_differ
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ryobi_one_plus
 color_capital: Ryobi One Plus
 color_first_letter: r
 color_first_letter_upper: R
+color_length_1: r
+color_length_2: ry
+color_length_3: ryo
+color_length_4: ryob
+color_length_5: ryobi
+color_length_6: ryobi_
+color_name: Ryobi One Plus
+color_no_space_length_1: r
+color_no_space_length_2: ry
+color_no_space_length_3: ryo
+color_no_space_length_4: ryob
+color_no_space_length_5: ryobi
+color_no_space_length_6: ryobio
+color_no_space_upper_length_1: R
+color_no_space_upper_length_2: RY
+color_no_space_upper_length_3: RYO
+color_no_space_upper_length_4: RYOB
+color_no_space_upper_length_5: RYOBI
+color_no_space_upper_length_6: RYOBIO
 color_upper: RYOBI_ONE_PLUS
+color_upper_length_1: R
+color_upper_length_2: RY
+color_upper_length_3: RYO
+color_upper_length_4: RYOB
+color_upper_length_5: RYOBI
+color_upper_length_6: RYOBI_
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_electronic_battery_box_ryobi_one_plus
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
 id: category_electronic_battery_box_ryobi_one_plus
 id_no_class: electronic_battery_box_ryobi_one_plus
+id_no_color: ryobi_one_plus
 id_no_size: ryobi_one_plus
 id_no_type: battery_box_ryobi_one_plus
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204levu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204levu
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204levu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204levu
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_battery_box_ryobi_one_plus](none)<br>[](none)<br>[Category
-    Electronic Battery Box Ryobi One Plus](none)<br><br>'
+  Electronic Battery Box Ryobi One Plus](none)<br><br>'
 markdown_short: '[category_electronic_battery_box_ryobi_one_plus](none)<br><br>'
 md5: 75c29a5e1e37542a48af5e047b9fdfcb
 md5_10: 75c29a5e1e
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 4LEVU
 md5_6_upper: 75C29A
 name: Category Electronic Battery Box Ryobi One Plus
 name_no_class: Electronic Battery Box Ryobi One Plus
+name_no_color: Ryobi One Plus
 name_no_size: Ryobi One Plus
 name_no_size_short: Ryobi One Plus
 name_no_type: Battery Box Ryobi One Plus
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: battery_box
+oomlout_detail_hierarchy_3_upper: BATTERY_BOX
+oomlout_detail_hierarchy_3_upper_length_4: BATT
+oomlout_detail_hierarchy_4: ryobi_one_plus
+oomlout_detail_hierarchy_4_upper: RYOBI_ONE_PLUS
+oomlout_detail_hierarchy_4_upper_length_4: RYOB
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_battery_box_ryobi_one_plus
 oomp_word: ghost birthday golf
 oomp_word_emoji: ':ghost: :birthday: :golf:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -81,11 +210,61 @@ size: battery_box
 size_capital: Battery Box
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: ba
+size_length_3: bat
+size_length_4: batt
+size_length_5: batte
+size_length_6: batter
+size_name: Battery Box
+size_no_space_length_1: b
+size_no_space_length_2: ba
+size_no_space_length_3: bat
+size_no_space_length_4: batt
+size_no_space_length_5: batte
+size_no_space_length_6: batter
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BA
+size_no_space_upper_length_3: BAT
+size_no_space_upper_length_4: BATT
+size_no_space_upper_length_5: BATTE
+size_no_space_upper_length_6: BATTER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BATTERY_BOX
+size_upper_length_1: B
+size_upper_length_2: BA
+size_upper_length_3: BAT
+size_upper_length_4: BATT
+size_upper_length_5: BATTE
+size_upper_length_6: BATTER
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

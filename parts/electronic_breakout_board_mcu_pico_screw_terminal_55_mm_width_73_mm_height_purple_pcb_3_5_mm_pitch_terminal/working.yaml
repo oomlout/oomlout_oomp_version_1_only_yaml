@@ -1,0 +1,465 @@
+bip_39_word_dash_12: aisle-where-income-rely-special-art-ship-tape-canyon-dust-rigid-age
+bip_39_word_dash_2: aisle-where
+bip_39_word_dash_3: aisle-where-income
+bip_39_word_new_br_12: aisle<br>where<br>income<br>rely<br>special<br>art<br>ship<br>tape<br>canyon<br>dust<br>rigid<br>age
+bip_39_word_new_br_2: aisle<br>where
+bip_39_word_new_br_3: aisle<br>where<br>income
+bip_39_word_new_line_12: 'aisle
+
+  where
+
+  income
+
+  rely
+
+  special
+
+  art
+
+  ship
+
+  tape
+
+  canyon
+
+  dust
+
+  rigid
+
+  age'
+bip_39_word_new_line_2: 'aisle
+
+  where'
+bip_39_word_new_line_3: 'aisle
+
+  where
+
+  income'
+bip_39_word_no_space_12: aislewhereincomerelyspecialartshiptapecanyondustrigidage
+bip_39_word_no_space_2: aislewhere
+bip_39_word_no_space_3: aislewhereincome
+bip_39_word_space_12: aisle where income rely special art ship tape canyon dust rigid
+  age
+bip_39_word_space_2: aisle where
+bip_39_word_space_3: aisle where income
+bip_39_word_underscore_12: aisle_where_income_rely_special_art_ship_tape_canyon_dust_rigid_age
+bip_39_word_underscore_2: aisle_where
+bip_39_word_underscore_3: aisle_where_income
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: screw_terminal
+color_capital: Screw Terminal
+color_first_letter: s
+color_first_letter_upper: S
+color_length_1: s
+color_length_2: sc
+color_length_3: scr
+color_length_4: scre
+color_length_5: screw
+color_length_6: screw_
+color_name: Screw Terminal
+color_no_space_length_1: s
+color_no_space_length_2: sc
+color_no_space_length_3: scr
+color_no_space_length_4: scre
+color_no_space_length_5: screw
+color_no_space_length_6: screwt
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SC
+color_no_space_upper_length_3: SCR
+color_no_space_upper_length_4: SCRE
+color_no_space_upper_length_5: SCREW
+color_no_space_upper_length_6: SCREWT
+color_upper: SCREW_TERMINAL
+color_upper_length_1: S
+color_upper_length_2: SC
+color_upper_length_3: SCR
+color_upper_length_4: SCRE
+color_upper_length_5: SCREW
+color_upper_length_6: SCREW_
+description: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+description_main_capital: 55 mm Width 73 mm Height Purple Pcb 3.5 mm Pitch Terminal
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '55'
+description_main_length_3: '55_'
+description_main_length_4: 55_m
+description_main_length_5: 55_mm
+description_main_length_6: 55_mm_
+description_main_name: 55 mm Width 73 mm Height Purple PCB 3 5 mm Pitch Terminal
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: '55'
+description_main_no_space_length_3: 55m
+description_main_no_space_length_4: 55mm
+description_main_no_space_length_5: 55mmw
+description_main_no_space_length_6: 55mmwi
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: '55'
+description_main_no_space_upper_length_3: 55M
+description_main_no_space_upper_length_4: 55MM
+description_main_no_space_upper_length_5: 55MMW
+description_main_no_space_upper_length_6: 55MMWI
+description_main_upper: 55_MM_WIDTH_73_MM_HEIGHT_PURPLE_PCB_3_5_MM_PITCH_TERMINAL
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '55'
+description_main_upper_length_3: '55_'
+description_main_upper_length_4: 55_M
+description_main_upper_length_5: 55_MM
+description_main_upper_length_6: 55_MM_
+description_only_numbers: '557335'
+description_only_numbers_short: 557k
+description_or_color: S557k
+description_or_color_upper: S557K
+directory: parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+id: electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+id_no_class: breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+id_no_color: 55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+id_no_size: screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+id_no_type: pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+kicad_reference: BB
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030slt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030slt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030slt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030slt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal](none)<br>[pc](none)<br>[Electronic
+  Breakout Board Mcu Pico Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm
+  Pitch Terminal](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal](none)<br><br>'
+md5: 4d73d1110eddd8c033687b56e53e902d
+md5_10: 4d73d1110e
+md5_10_upper: 4D73D1110E
+md5_5: 4d73d
+md5_5_upper: 4D73D
+md5_6: 4d73d1
+md5_6_alpha: 30slt
+md5_6_alpha_upper: 30SLT
+md5_6_upper: 4D73D1
+name: Electronic Breakout Board MCU Pico Screw Terminal 55 mm Width 73 mm Height Purple
+  PCB 3 5 mm Pitch Terminal
+name_no_class: Breakout Board MCU Pico Screw Terminal 55 mm Width 73 mm Height Purple
+  PCB 3 5 mm Pitch Terminal
+name_no_color: 55 mm Width 73 mm Height Purple PCB 3 5 mm Pitch Terminal
+name_no_size: Screw Terminal 55 mm Width 73 mm Height Purple PCB 3 5 mm Pitch Terminal
+name_no_size_short: Screw Terminal 55 Mm Width 73 Mm Height Purple Pcb 3 5 Mm Pitch
+  Terminal
+name_no_type: Pico Screw Terminal 55 mm Width 73 mm Height Purple PCB 3 5 mm Pitch
+  Terminal
+notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: breakout_board_mcu
+oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MCU
+oomlout_detail_hierarchy_2_upper_length_4: BREA
+oomlout_detail_hierarchy_3: pico
+oomlout_detail_hierarchy_3_upper: PICO
+oomlout_detail_hierarchy_3_upper_length_4: PICO
+oomlout_detail_hierarchy_4: sterminal
+oomlout_detail_hierarchy_4_upper: STERMINAL
+oomlout_detail_hierarchy_4_upper_length_4: STER
+oomlout_detail_hierarchy_5: 55_mm_width
+oomlout_detail_hierarchy_5_upper: 55_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 55WI
+oomlout_detail_hierarchy_6: 73_mm_height
+oomlout_detail_hierarchy_6_upper: 73_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 73HE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_breakout_board_mcu_pico_screw_terminal_55_mm_width_73_mm_height_purple_pcb_3_5_mm_pitch_terminal
+oomp_word: bug flags pear
+oomp_word_emoji: ':bug: :flags: :pear:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':flags:'
+- ':pear:'
+oomp_word_list:
+- bug
+- flags
+- pear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+pins:
+  pin_1:
+    name: gp0
+    number: '1'
+    type: signal
+  pin_10:
+    name: gp7
+    number: '10'
+    type: signal
+  pin_11:
+    name: gp8
+    number: '11'
+    type: signal
+  pin_12:
+    name: gp9
+    number: '12'
+    type: signal
+  pin_13:
+    name: gnd
+    number: '13'
+    type: signal
+  pin_14:
+    name: gp10
+    number: '14'
+    type: signal
+  pin_15:
+    name: gp11
+    number: '15'
+    type: signal
+  pin_16:
+    name: gp12
+    number: '16'
+    type: signal
+  pin_17:
+    name: gp13
+    number: '17'
+    type: power
+  pin_18:
+    name: gnd
+    number: '18'
+    type: signal
+  pin_19:
+    name: gp14
+    number: '19'
+    type: signal
+  pin_2:
+    name: gp1
+    number: '2'
+    type: signal
+  pin_20:
+    name: gp15
+    number: '20'
+    type: signal
+  pin_21:
+    name: gp16
+    number: '21'
+    type: signal
+  pin_22:
+    name: gp17
+    number: '22'
+    type: signal
+  pin_23:
+    name: gnd
+    number: '23'
+    type: signal
+  pin_24:
+    name: gp18
+    number: '24'
+    type: signal
+  pin_25:
+    name: gp19
+    number: '25'
+    type: signal
+  pin_26:
+    name: gp20
+    number: '26'
+    type: signal
+  pin_27:
+    name: gp21
+    number: '27'
+    type: power
+  pin_28:
+    name: gnd
+    number: '28'
+    type: signal
+  pin_29:
+    name: gp22
+    number: '29'
+    type: gnd
+  pin_3:
+    name: gnd
+    number: '3'
+    type: signal
+  pin_30:
+    name: run
+    number: '30'
+    type: power
+  pin_31:
+    name: a0
+    number: '31'
+    type: signal
+  pin_32:
+    name: a1
+    number: '32'
+    type: signal
+  pin_33:
+    name: gnd_adc
+    number: '33'
+    type: signal
+  pin_34:
+    name: a2
+    number: '34'
+    type: signal
+  pin_35:
+    name: vref
+    number: '35'
+    type: signal
+  pin_36:
+    name: 3v3_out
+    number: '36'
+    type: signal
+  pin_37:
+    name: 3v3_enable
+    number: '37'
+    type: signal
+  pin_38:
+    name: gnd
+    number: '38'
+    type: signal
+  pin_39:
+    name: vsys
+    number: '39'
+    type: signal
+  pin_4:
+    name: gp2
+    number: '4'
+    type: power
+  pin_40:
+    name: vbus
+    number: '40'
+    type: signal
+  pin_5:
+    name: gp3
+    number: '5'
+    type: signal
+  pin_6:
+    name: gp4
+    number: '6'
+    type: signal
+  pin_7:
+    name: gp5
+    number: '7'
+    type: signal
+  pin_8:
+    name: gnd
+    number: '8'
+    type: signal
+  pin_9:
+    name: gp6
+    number: '9'
+    type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: pc
+short_code_upper: PC
+short_name: ''
+size: pico
+size_capital: Pico
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pi
+size_length_3: pic
+size_length_4: pico
+size_length_5: pico
+size_length_6: pico
+size_name: Pico
+size_no_space_length_1: p
+size_no_space_length_2: pi
+size_no_space_length_3: pic
+size_no_space_length_4: pico
+size_no_space_length_5: pico
+size_no_space_length_6: pico
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PI
+size_no_space_upper_length_3: PIC
+size_no_space_upper_length_4: PICO
+size_no_space_upper_length_5: PICO
+size_no_space_upper_length_6: PICO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PICO
+size_upper_length_1: P
+size_upper_length_2: PI
+size_upper_length_3: PIC
+size_upper_length_4: PICO
+size_upper_length_5: PICO
+size_upper_length_6: PICO
+type: breakout_board_mcu
+type_capital: Breakout Board Mcu
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: br
+type_length_3: bre
+type_length_4: brea
+type_length_5: break
+type_length_6: breako
+type_name: Breakout Board MCU
+type_no_space_length_1: b
+type_no_space_length_2: br
+type_no_space_length_3: bre
+type_no_space_length_4: brea
+type_no_space_length_5: break
+type_no_space_length_6: breako
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BR
+type_no_space_upper_length_3: BRE
+type_no_space_upper_length_4: BREA
+type_no_space_upper_length_5: BREAK
+type_no_space_upper_length_6: BREAKO
+type_upper: BREAKOUT_BOARD_MCU
+type_upper_length_1: B
+type_upper_length_2: BR
+type_upper_length_3: BRE
+type_upper_length_4: BREA
+type_upper_length_5: BREAK
+type_upper_length_6: BREAKO

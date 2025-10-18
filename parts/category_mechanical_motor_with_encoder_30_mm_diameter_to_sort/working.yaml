@@ -1,23 +1,146 @@
+bip_39_word_dash_12: spread-verify-south-absent-surface-sense-body-prize-paddle-drop-wealth-access
+bip_39_word_dash_2: spread-verify
+bip_39_word_dash_3: spread-verify-south
+bip_39_word_new_br_12: spread<br>verify<br>south<br>absent<br>surface<br>sense<br>body<br>prize<br>paddle<br>drop<br>wealth<br>access
+bip_39_word_new_br_2: spread<br>verify
+bip_39_word_new_br_3: spread<br>verify<br>south
+bip_39_word_new_line_12: 'spread
+
+  verify
+
+  south
+
+  absent
+
+  surface
+
+  sense
+
+  body
+
+  prize
+
+  paddle
+
+  drop
+
+  wealth
+
+  access'
+bip_39_word_new_line_2: 'spread
+
+  verify'
+bip_39_word_new_line_3: 'spread
+
+  verify
+
+  south'
+bip_39_word_no_space_12: spreadverifysouthabsentsurfacesensebodyprizepaddledropwealthaccess
+bip_39_word_no_space_2: spreadverify
+bip_39_word_no_space_3: spreadverifysouth
+bip_39_word_space_12: spread verify south absent surface sense body prize paddle drop
+  wealth access
+bip_39_word_space_2: spread verify
+bip_39_word_space_3: spread verify south
+bip_39_word_underscore_12: spread_verify_south_absent_surface_sense_body_prize_paddle_drop_wealth_access
+bip_39_word_underscore_2: spread_verify
+bip_39_word_underscore_3: spread_verify_south
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: 30_mm_diameter
 color_capital: 30 mm Diameter
 color_first_letter: '3'
 color_first_letter_upper: '3'
+color_length_1: '3'
+color_length_2: '30'
+color_length_3: '30_'
+color_length_4: 30_m
+color_length_5: 30_mm
+color_length_6: 30_mm_
+color_name: 30 mm Diameter
+color_no_space_length_1: '3'
+color_no_space_length_2: '30'
+color_no_space_length_3: 30m
+color_no_space_length_4: 30mm
+color_no_space_length_5: 30mmd
+color_no_space_length_6: 30mmdi
+color_no_space_upper_length_1: '3'
+color_no_space_upper_length_2: '30'
+color_no_space_upper_length_3: 30M
+color_no_space_upper_length_4: 30MM
+color_no_space_upper_length_5: 30MMD
+color_no_space_upper_length_6: 30MMDI
 color_upper: 30_MM_DIAMETER
+color_upper_length_1: '3'
+color_upper_length_2: '30'
+color_upper_length_3: '30_'
+color_upper_length_4: 30_M
+color_upper_length_5: 30_MM
+color_upper_length_6: 30_MM_
 description: category_mechanical
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
 id: category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
 id_no_class: mechanical_motor_with_encoder_30_mm_diameter_to_sort
+id_no_color: to_sort
 id_no_size: 30_mm_diameter_to_sort
 id_no_type: motor_with_encoder_30_mm_diameter_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ute8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ute8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20ute8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ute8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_mechanical_motor_with_encoder_30_mm_diameter_to_sort](none)<br>[](none)<br>[Category
-    Mechanical Motor With Encoder 30 Mm Diameter To Sort](none)<br><br>'
+  Mechanical Motor With Encoder 30 Mm Diameter To Sort](none)<br><br>'
 markdown_short: '[category_mechanical_motor_with_encoder_30_mm_diameter_to_sort](none)<br><br>'
 md5: 15f050dcf6ab431f0f6d100ba07cae98
 md5_10: 15f050dcf6
@@ -52,11 +186,28 @@ md5_6: 15f050
 md5_6_alpha: ute8
 md5_6_alpha_upper: UTE8
 md5_6_upper: 15F050
-name: Category Mechanical Motor With Encoder 30 Mm Diameter To Sort
-name_no_class: Mechanical Motor With Encoder 30 Mm Diameter To Sort
-name_no_size: 30 Mm Diameter To Sort
+name: Category Mechanical Motor With Encoder 30 mm Diameter To Sort
+name_no_class: Mechanical Motor With Encoder 30 mm Diameter To Sort
+name_no_color: To Sort
+name_no_size: 30 mm Diameter To Sort
 name_no_size_short: 30 Mm Diameter To Sort
-name_no_type: Motor With Encoder 30 Mm Diameter To Sort
+name_no_type: Motor With Encoder 30 mm Diameter To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: mechanical
+oomlout_detail_hierarchy_2_upper: MECHANICAL
+oomlout_detail_hierarchy_2_upper_length_4: MECH
+oomlout_detail_hierarchy_3: motor_with_encoder
+oomlout_detail_hierarchy_3_upper: MOTOR_WITH_ENCODER
+oomlout_detail_hierarchy_3_upper_length_4: MOTO
+oomlout_detail_hierarchy_4: 30_mm_diameter
+oomlout_detail_hierarchy_4_upper: 30_MM_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 30DI
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_mechanical_motor_with_encoder_30_mm_diameter_to_sort
 oomp_word: poop train beetle
 oomp_word_emoji: ':poop: :train: :beetle:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorymechanical
@@ -81,11 +237,61 @@ size: motor_with_encoder
 size_capital: Motor With Encoder
 size_first_letter: m
 size_first_letter_upper: M
+size_length_1: m
+size_length_2: mo
+size_length_3: mot
+size_length_4: moto
+size_length_5: motor
+size_length_6: motor_
+size_name: Motor With Encoder
+size_no_space_length_1: m
+size_no_space_length_2: mo
+size_no_space_length_3: mot
+size_no_space_length_4: moto
+size_no_space_length_5: motor
+size_no_space_length_6: motorw
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: MO
+size_no_space_upper_length_3: MOT
+size_no_space_upper_length_4: MOTO
+size_no_space_upper_length_5: MOTOR
+size_no_space_upper_length_6: MOTORW
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MOTOR_WITH_ENCODER
+size_upper_length_1: M
+size_upper_length_2: MO
+size_upper_length_3: MOT
+size_upper_length_4: MOTO
+size_upper_length_5: MOTOR
+size_upper_length_6: MOTOR_
 type: mechanical
 type_capital: Mechanical
 type_first_letter: m
 type_first_letter_upper: M
+type_length_1: m
+type_length_2: me
+type_length_3: mec
+type_length_4: mech
+type_length_5: mecha
+type_length_6: mechan
+type_name: Mechanical
+type_no_space_length_1: m
+type_no_space_length_2: me
+type_no_space_length_3: mec
+type_no_space_length_4: mech
+type_no_space_length_5: mecha
+type_no_space_length_6: mechan
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: ME
+type_no_space_upper_length_3: MEC
+type_no_space_upper_length_4: MECH
+type_no_space_upper_length_5: MECHA
+type_no_space_upper_length_6: MECHAN
 type_upper: MECHANICAL
+type_upper_length_1: M
+type_upper_length_2: ME
+type_upper_length_3: MEC
+type_upper_length_4: MECH
+type_upper_length_5: MECHA
+type_upper_length_6: MECHAN

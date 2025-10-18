@@ -1,23 +1,122 @@
+bip_39_word_dash_12: when-able-amount-child-burger-drill-dose-accuse-shadow-imitate-category-above
+bip_39_word_dash_2: when-able
+bip_39_word_dash_3: when-able-amount
+bip_39_word_new_br_12: when<br>able<br>amount<br>child<br>burger<br>drill<br>dose<br>accuse<br>shadow<br>imitate<br>category<br>above
+bip_39_word_new_br_2: when<br>able
+bip_39_word_new_br_3: when<br>able<br>amount
+bip_39_word_new_line_12: 'when
+
+  able
+
+  amount
+
+  child
+
+  burger
+
+  drill
+
+  dose
+
+  accuse
+
+  shadow
+
+  imitate
+
+  category
+
+  above'
+bip_39_word_new_line_2: 'when
+
+  able'
+bip_39_word_new_line_3: 'when
+
+  able
+
+  amount'
+bip_39_word_no_space_12: whenableamountchildburgerdrilldoseaccuseshadowimitatecategoryabove
+bip_39_word_no_space_2: whenable
+bip_39_word_no_space_3: whenableamount
+bip_39_word_space_12: when able amount child burger drill dose accuse shadow imitate
+  category above
+bip_39_word_space_2: when able
+bip_39_word_space_3: when able amount
+bip_39_word_underscore_12: when_able_amount_child_burger_drill_dose_accuse_shadow_imitate_category_above
+bip_39_word_underscore_2: when_able
+bip_39_word_underscore_3: when_able_amount
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_tool
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_tool_syringe_to_sort
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_tool_syringe_to_sort
 id: category_tool_syringe_to_sort
 id_no_class: tool_syringe_to_sort
+id_no_color: tosort
 id_no_size: to_sort
 id_no_type: syringe_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_syringe_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_syringe_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_syringe_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_syringe_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20bmu4
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20bmu4
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20bmu4
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20bmu4
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_syringe_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_tool_syringe_to_sort](none)<br>[](none)<br>[Category Tool
-    Syringe To Sort](none)<br><br>'
+  Syringe To Sort](none)<br><br>'
 markdown_short: '[category_tool_syringe_to_sort](none)<br><br>'
 md5: 08485c5e2601a8310b8f527e100017d1
 md5_10: 08485c5e26
@@ -54,9 +164,23 @@ md5_6_alpha_upper: BMU4
 md5_6_upper: 08485C
 name: Category Tool Syringe To Sort
 name_no_class: Tool Syringe To Sort
+name_no_color: Tosort
 name_no_size: To Sort
 name_no_size_short: To Sort
 name_no_type: Syringe To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: tool
+oomlout_detail_hierarchy_2_upper: TOOL
+oomlout_detail_hierarchy_2_upper_length_4: TOOL
+oomlout_detail_hierarchy_3: syringe
+oomlout_detail_hierarchy_3_upper: SYRINGE
+oomlout_detail_hierarchy_3_upper_length_4: SYRI
+oomlout_detail_hierarchy_4: to_sort
+oomlout_detail_hierarchy_4_upper: TO_SORT
+oomlout_detail_hierarchy_4_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_tool_syringe_to_sort
 oomp_word: scream hatched_chick ox
 oomp_word_emoji: ':scream: :hatched_chick: :ox:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorytool
@@ -81,11 +210,61 @@ size: syringe
 size_capital: Syringe
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: sy
+size_length_3: syr
+size_length_4: syri
+size_length_5: syrin
+size_length_6: syring
+size_name: Syringe
+size_no_space_length_1: s
+size_no_space_length_2: sy
+size_no_space_length_3: syr
+size_no_space_length_4: syri
+size_no_space_length_5: syrin
+size_no_space_length_6: syring
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SY
+size_no_space_upper_length_3: SYR
+size_no_space_upper_length_4: SYRI
+size_no_space_upper_length_5: SYRIN
+size_no_space_upper_length_6: SYRING
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SYRINGE
+size_upper_length_1: S
+size_upper_length_2: SY
+size_upper_length_3: SYR
+size_upper_length_4: SYRI
+size_upper_length_5: SYRIN
+size_upper_length_6: SYRING
 type: tool
 type_capital: Tool
 type_first_letter: t
 type_first_letter_upper: T
+type_length_1: t
+type_length_2: to
+type_length_3: too
+type_length_4: tool
+type_length_5: tool
+type_length_6: tool
+type_name: Tool
+type_no_space_length_1: t
+type_no_space_length_2: to
+type_no_space_length_3: too
+type_no_space_length_4: tool
+type_no_space_length_5: tool
+type_no_space_length_6: tool
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TO
+type_no_space_upper_length_3: TOO
+type_no_space_upper_length_4: TOOL
+type_no_space_upper_length_5: TOOL
+type_no_space_upper_length_6: TOOL
 type_upper: TOOL
+type_upper_length_1: T
+type_upper_length_2: TO
+type_upper_length_3: TOO
+type_upper_length_4: TOOL
+type_upper_length_5: TOOL
+type_upper_length_6: TOOL

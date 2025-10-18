@@ -1,22 +1,97 @@
+bip_39_word_dash_12: leaf-wood-usage-today-drift-tourist-kingdom-wool-ridge-call-box-ask
+bip_39_word_dash_2: leaf-wood
+bip_39_word_dash_3: leaf-wood-usage
+bip_39_word_new_br_12: leaf<br>wood<br>usage<br>today<br>drift<br>tourist<br>kingdom<br>wool<br>ridge<br>call<br>box<br>ask
+bip_39_word_new_br_2: leaf<br>wood
+bip_39_word_new_br_3: leaf<br>wood<br>usage
+bip_39_word_new_line_12: 'leaf
+
+  wood
+
+  usage
+
+  today
+
+  drift
+
+  tourist
+
+  kingdom
+
+  wool
+
+  ridge
+
+  call
+
+  box
+
+  ask'
+bip_39_word_new_line_2: 'leaf
+
+  wood'
+bip_39_word_new_line_3: 'leaf
+
+  wood
+
+  usage'
+bip_39_word_no_space_12: leafwoodusagetodaydrifttouristkingdomwoolridgecallboxask
+bip_39_word_no_space_2: leafwood
+bip_39_word_no_space_3: leafwoodusage
+bip_39_word_space_12: leaf wood usage today drift tourist kingdom wool ridge call
+  box ask
+bip_39_word_space_2: leaf wood
+bip_39_word_space_3: leaf wood usage
+bip_39_word_underscore_12: leaf_wood_usage_today_drift_tourist_kingdom_wool_ridge_call_box_ask
+bip_39_word_underscore_2: leaf_wood
+bip_39_word_underscore_3: leaf_wood_usage
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
+classification_length_1: b
+classification_length_2: bo
+classification_length_3: boo
+classification_length_4: book
+classification_length_5: book
+classification_length_6: book
+classification_name: Book
+classification_no_space_length_1: b
+classification_no_space_length_2: bo
+classification_no_space_length_3: boo
+classification_no_space_length_4: book
+classification_no_space_length_5: book
+classification_no_space_length_6: book
+classification_no_space_upper_length_1: B
+classification_no_space_upper_length_2: BO
+classification_no_space_upper_length_3: BOO
+classification_no_space_upper_length_4: BOOK
+classification_no_space_upper_length_5: BOOK
+classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
+classification_upper_length_1: B
+classification_upper_length_2: BO
+classification_upper_length_3: BOO
+classification_upper_length_4: BOOK
+classification_upper_length_5: BOOK
+classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -26,17 +101,28 @@ directory: parts/book_chapter_princess
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_chapter_princess
 id: book_chapter_princess
 id_no_class: chapter_princess
+id_no_color: princess
 id_no_size: princess
 id_no_type: princess
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_princess
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_princess
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_princess
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_princess
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208a2vc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208a2vc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208a2vc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208a2vc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_princess
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_chapter_princess](none)<br>[](none)<br>[Book Chapter Princess](none)<br><br>'
@@ -52,9 +138,20 @@ md5_6_alpha_upper: 8A2VC
 md5_6_upper: D43508
 name: Book Chapter Princess
 name_no_class: Chapter Princess
+name_no_color: Princess
 name_no_size: Princess
 name_no_size_short: Princess
 name_no_type: Princess
+oomlout_detail_hierarchy_1: book
+oomlout_detail_hierarchy_1_upper: BOOK
+oomlout_detail_hierarchy_1_upper_length_4: BOOK
+oomlout_detail_hierarchy_2: chapter
+oomlout_detail_hierarchy_2_upper: CHAPTER
+oomlout_detail_hierarchy_2_upper_length_4: CHAP
+oomlout_detail_hierarchy_3: princess
+oomlout_detail_hierarchy_3_upper: PRINCESS
+oomlout_detail_hierarchy_3_upper_length_4: PRIN
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_chapter_princess
 oomp_word: corn hamster scream
 oomp_word_emoji: ':corn: :hamster: :scream:'
@@ -70,18 +167,73 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: princess
 size_capital: Princess
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pr
+size_length_3: pri
+size_length_4: prin
+size_length_5: princ
+size_length_6: prince
+size_name: Princess
+size_no_space_length_1: p
+size_no_space_length_2: pr
+size_no_space_length_3: pri
+size_no_space_length_4: prin
+size_no_space_length_5: princ
+size_no_space_length_6: prince
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PR
+size_no_space_upper_length_3: PRI
+size_no_space_upper_length_4: PRIN
+size_no_space_upper_length_5: PRINC
+size_no_space_upper_length_6: PRINCE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PRINCESS
+size_upper_length_1: P
+size_upper_length_2: PR
+size_upper_length_3: PRI
+size_upper_length_4: PRIN
+size_upper_length_5: PRINC
+size_upper_length_6: PRINCE
 type: chapter
 type_capital: Chapter
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: ch
+type_length_3: cha
+type_length_4: chap
+type_length_5: chapt
+type_length_6: chapte
+type_name: Chapter
+type_no_space_length_1: c
+type_no_space_length_2: ch
+type_no_space_length_3: cha
+type_no_space_length_4: chap
+type_no_space_length_5: chapt
+type_no_space_length_6: chapte
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CH
+type_no_space_upper_length_3: CHA
+type_no_space_upper_length_4: CHAP
+type_no_space_upper_length_5: CHAPT
+type_no_space_upper_length_6: CHAPTE
 type_upper: CHAPTER
+type_upper_length_1: C
+type_upper_length_2: CH
+type_upper_length_3: CHA
+type_upper_length_4: CHAP
+type_upper_length_5: CHAPT
+type_upper_length_6: CHAPTE

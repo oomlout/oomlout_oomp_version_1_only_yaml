@@ -1,23 +1,146 @@
+bip_39_word_dash_12: cook-bubble-slush-cheese-alley-woman-picnic-knife-expose-situate-tennis-all
+bip_39_word_dash_2: cook-bubble
+bip_39_word_dash_3: cook-bubble-slush
+bip_39_word_new_br_12: cook<br>bubble<br>slush<br>cheese<br>alley<br>woman<br>picnic<br>knife<br>expose<br>situate<br>tennis<br>all
+bip_39_word_new_br_2: cook<br>bubble
+bip_39_word_new_br_3: cook<br>bubble<br>slush
+bip_39_word_new_line_12: 'cook
+
+  bubble
+
+  slush
+
+  cheese
+
+  alley
+
+  woman
+
+  picnic
+
+  knife
+
+  expose
+
+  situate
+
+  tennis
+
+  all'
+bip_39_word_new_line_2: 'cook
+
+  bubble'
+bip_39_word_new_line_3: 'cook
+
+  bubble
+
+  slush'
+bip_39_word_no_space_12: cookbubbleslushcheesealleywomanpicnicknifeexposesituatetennisall
+bip_39_word_no_space_2: cookbubble
+bip_39_word_no_space_3: cookbubbleslush
+bip_39_word_space_12: cook bubble slush cheese alley woman picnic knife expose situate
+  tennis all
+bip_39_word_space_2: cook bubble
+bip_39_word_space_3: cook bubble slush
+bip_39_word_underscore_12: cook_bubble_slush_cheese_alley_woman_picnic_knife_expose_situate_tennis_all
+bip_39_word_underscore_2: cook_bubble
+bip_39_word_underscore_3: cook_bubble_slush
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: 68_mm_width
 color_capital: 68 mm Width
 color_first_letter: '6'
 color_first_letter_upper: '6'
+color_length_1: '6'
+color_length_2: '68'
+color_length_3: '68_'
+color_length_4: 68_m
+color_length_5: 68_mm
+color_length_6: 68_mm_
+color_name: 68 mm Width
+color_no_space_length_1: '6'
+color_no_space_length_2: '68'
+color_no_space_length_3: 68m
+color_no_space_length_4: 68mm
+color_no_space_length_5: 68mmw
+color_no_space_length_6: 68mmwi
+color_no_space_upper_length_1: '6'
+color_no_space_upper_length_2: '68'
+color_no_space_upper_length_3: 68M
+color_no_space_upper_length_4: 68MM
+color_no_space_upper_length_5: 68MMW
+color_no_space_upper_length_6: 68MMWI
 color_upper: 68_MM_WIDTH
+color_upper_length_1: '6'
+color_upper_length_2: '68'
+color_upper_length_3: '68_'
+color_upper_length_4: 68_M
+color_upper_length_5: 68_MM
+color_upper_length_6: 68_MM_
 description: category_electrical
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_s
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
 id: category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
 id_no_class: electrical_light_fixing_hardware_hook_68_mm_width_to_sort
+id_no_color: to_sort
 id_no_size: 68_mm_width_to_sort
 id_no_type: light_fixing_hardware_hook_68_mm_width_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2041q42
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2041q42
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2041q42
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2041q42
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort](none)<br>[](none)<br>[Category
-    Electrical Light Fixing Hardware Hook 68 Mm Width To Sort](none)<br><br>'
+  Electrical Light Fixing Hardware Hook 68 Mm Width To Sort](none)<br><br>'
 markdown_short: '[category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort](none)<br><br>'
 md5: 67be726a857bb487f38342739887517d
 md5_10: 67be726a85
@@ -52,11 +186,28 @@ md5_6: 67be72
 md5_6_alpha: 41q42
 md5_6_alpha_upper: 41Q42
 md5_6_upper: 67BE72
-name: Category Electrical Light Fixing Hardware Hook 68 Mm Width To Sort
-name_no_class: Electrical Light Fixing Hardware Hook 68 Mm Width To Sort
-name_no_size: 68 Mm Width To Sort
+name: Category Electrical Light Fixing Hardware Hook 68 mm Width To Sort
+name_no_class: Electrical Light Fixing Hardware Hook 68 mm Width To Sort
+name_no_color: To Sort
+name_no_size: 68 mm Width To Sort
 name_no_size_short: 68 Mm Width To Sort
-name_no_type: Light Fixing Hardware Hook 68 Mm Width To Sort
+name_no_type: Light Fixing Hardware Hook 68 mm Width To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electrical
+oomlout_detail_hierarchy_2_upper: ELECTRICAL
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: light_fixing_hardware_hook
+oomlout_detail_hierarchy_3_upper: LIGHT_FIXING_HARDWARE_HOOK
+oomlout_detail_hierarchy_3_upper_length_4: LIGH
+oomlout_detail_hierarchy_4: 68_mm_width
+oomlout_detail_hierarchy_4_upper: 68_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 68WI
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electrical_light_fixing_hardware_hook_68_mm_width_to_sort
 oomp_word: herb ramen dolls
 oomp_word_emoji: ':herb: :ramen: :dolls:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectrical
@@ -81,11 +237,61 @@ size: light_fixing_hardware_hook
 size_capital: Light Fixing Hardware Hook
 size_first_letter: l
 size_first_letter_upper: L
+size_length_1: l
+size_length_2: li
+size_length_3: lig
+size_length_4: ligh
+size_length_5: light
+size_length_6: light_
+size_name: Light Fixing Hardware Hook
+size_no_space_length_1: l
+size_no_space_length_2: li
+size_no_space_length_3: lig
+size_no_space_length_4: ligh
+size_no_space_length_5: light
+size_no_space_length_6: lightf
+size_no_space_upper_length_1: L
+size_no_space_upper_length_2: LI
+size_no_space_upper_length_3: LIG
+size_no_space_upper_length_4: LIGH
+size_no_space_upper_length_5: LIGHT
+size_no_space_upper_length_6: LIGHTF
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: LIGHT_FIXING_HARDWARE_HOOK
+size_upper_length_1: L
+size_upper_length_2: LI
+size_upper_length_3: LIG
+size_upper_length_4: LIGH
+size_upper_length_5: LIGHT
+size_upper_length_6: LIGHT_
 type: electrical
 type_capital: Electrical
 type_first_letter: e
 type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electrical
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRICAL
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

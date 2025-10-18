@@ -1,0 +1,294 @@
+bip_39_word_dash_12: crime-alert-evidence-milk-square-gorilla-napkin-recipe-express-option-hover-act
+bip_39_word_dash_2: crime-alert
+bip_39_word_dash_3: crime-alert-evidence
+bip_39_word_new_br_12: crime<br>alert<br>evidence<br>milk<br>square<br>gorilla<br>napkin<br>recipe<br>express<br>option<br>hover<br>act
+bip_39_word_new_br_2: crime<br>alert
+bip_39_word_new_br_3: crime<br>alert<br>evidence
+bip_39_word_new_line_12: 'crime
+
+  alert
+
+  evidence
+
+  milk
+
+  square
+
+  gorilla
+
+  napkin
+
+  recipe
+
+  express
+
+  option
+
+  hover
+
+  act'
+bip_39_word_new_line_2: 'crime
+
+  alert'
+bip_39_word_new_line_3: 'crime
+
+  alert
+
+  evidence'
+bip_39_word_no_space_12: crimealertevidencemilksquaregorillanapkinrecipeexpressoptionhoveract
+bip_39_word_no_space_2: crimealert
+bip_39_word_no_space_3: crimealertevidence
+bip_39_word_space_12: crime alert evidence milk square gorilla napkin recipe express
+  option hover act
+bip_39_word_space_2: crime alert
+bip_39_word_space_3: crime alert evidence
+bip_39_word_underscore_12: crime_alert_evidence_milk_square_gorilla_napkin_recipe_express_option_hover_act
+bip_39_word_underscore_2: crime_alert
+bip_39_word_underscore_3: crime_alert_evidence
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: extender
+color_capital: Extender
+color_first_letter: e
+color_first_letter_upper: E
+color_length_1: e
+color_length_2: ex
+color_length_3: ext
+color_length_4: exte
+color_length_5: exten
+color_length_6: extend
+color_name: Extender
+color_no_space_length_1: e
+color_no_space_length_2: ex
+color_no_space_length_3: ext
+color_no_space_length_4: exte
+color_no_space_length_5: exten
+color_no_space_length_6: extend
+color_no_space_upper_length_1: E
+color_no_space_upper_length_2: EX
+color_no_space_upper_length_3: EXT
+color_no_space_upper_length_4: EXTE
+color_no_space_upper_length_5: EXTEN
+color_no_space_upper_length_6: EXTEND
+color_upper: EXTENDER
+color_upper_length_1: E
+color_upper_length_2: EX
+color_upper_length_3: EXT
+color_upper_length_4: EXTE
+color_upper_length_5: EXTEN
+color_upper_length_6: EXTEND
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: to_rj45_ethernet_socket
+description_main_capital: To Rj45 Ethernet Socket
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: to
+description_main_length_3: to_
+description_main_length_4: to_r
+description_main_length_5: to_rj
+description_main_length_6: to_rj4
+description_main_name: To Rj45 Ethernet Socket
+description_main_no_space_length_1: t
+description_main_no_space_length_2: to
+description_main_no_space_length_3: tor
+description_main_no_space_length_4: torj
+description_main_no_space_length_5: torj4
+description_main_no_space_length_6: torj45
+description_main_no_space_upper_length_1: T
+description_main_no_space_upper_length_2: TO
+description_main_no_space_upper_length_3: TOR
+description_main_no_space_upper_length_4: TORJ
+description_main_no_space_upper_length_5: TORJ4
+description_main_no_space_upper_length_6: TORJ45
+description_main_upper: TO_RJ45_ETHERNET_SOCKET
+description_main_upper_length_1: T
+description_main_upper_length_2: TO
+description_main_upper_length_3: TO_
+description_main_upper_length_4: TO_R
+description_main_upper_length_5: TO_RJ
+description_main_upper_length_6: TO_RJ4
+description_only_numbers: '45'
+description_only_numbers_short: '45'
+description_or_color: E45
+description_or_color_upper: E45
+directory: parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+id: electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+id_no_class: wire_cable_adapter_extender_to_rj45_ethernet_socket
+id_no_color: to_rj45_ethernet_socket
+id_no_size: extender_to_rj45_ethernet_socket
+id_no_type: adapter_extender_to_rj45_ethernet_socket
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201il7q
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201il7q
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201il7q
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201il7q
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket](none)<br>[](none)<br>[Electronic
+  Wire Cable Adapter Extender To Rj45 Ethernet Socket](none)<br><br>'
+markdown_short: '[electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket](none)<br><br>'
+md5: 26dce6ea86b3b25d92e9b8c89b81899c
+md5_10: 26dce6ea86
+md5_10_upper: 26DCE6EA86
+md5_5: 26dce
+md5_5_upper: 26DCE
+md5_6: 26dce6
+md5_6_alpha: 1il7q
+md5_6_alpha_upper: 1IL7Q
+md5_6_upper: 26DCE6
+name: Electronic Wire Cable Adapter Extender To Rj45 Ethernet Socket
+name_no_class: Wire Cable Adapter Extender To Rj45 Ethernet Socket
+name_no_color: To Rj45 Ethernet Socket
+name_no_size: Extender To Rj45 Ethernet Socket
+name_no_size_short: Extender To Rj45 Ethernet Socket
+name_no_type: Adapter Extender To Rj45 Ethernet Socket
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: wire_cable
+oomlout_detail_hierarchy_2_upper: WIRE_CABLE
+oomlout_detail_hierarchy_2_upper_length_4: WIRE
+oomlout_detail_hierarchy_3: adapter
+oomlout_detail_hierarchy_3_upper: ADAPTER
+oomlout_detail_hierarchy_3_upper_length_4: ADAP
+oomlout_detail_hierarchy_4: extender
+oomlout_detail_hierarchy_4_upper: EXTENDER
+oomlout_detail_hierarchy_4_upper_length_4: EXTE
+oomlout_detail_hierarchy_5: to_rj45_ethernet_socket
+oomlout_detail_hierarchy_5_upper: TO_RJ45_ETHERNET_SOCKET
+oomlout_detail_hierarchy_5_upper_length_4: TO_R
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_wire_cable_adapter_extender_to_rj45_ethernet_socket
+oomp_word: eyes factory airplane
+oomp_word_emoji: ':eyes: :factory: :airplane:'
+oomp_word_emoji_list:
+- ':eyes:'
+- ':factory:'
+- ':airplane:'
+oomp_word_list:
+- eyes
+- factory
+- airplane
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: adapter
+size_capital: Adapter
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: ad
+size_length_3: ada
+size_length_4: adap
+size_length_5: adapt
+size_length_6: adapte
+size_name: Adapter
+size_no_space_length_1: a
+size_no_space_length_2: ad
+size_no_space_length_3: ada
+size_no_space_length_4: adap
+size_no_space_length_5: adapt
+size_no_space_length_6: adapte
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: AD
+size_no_space_upper_length_3: ADA
+size_no_space_upper_length_4: ADAP
+size_no_space_upper_length_5: ADAPT
+size_no_space_upper_length_6: ADAPTE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ADAPTER
+size_upper_length_1: A
+size_upper_length_2: AD
+size_upper_length_3: ADA
+size_upper_length_4: ADAP
+size_upper_length_5: ADAPT
+size_upper_length_6: ADAPTE
+type: wire_cable
+type_capital: Wire Cable
+type_first_letter: w
+type_first_letter_upper: W
+type_length_1: w
+type_length_2: wi
+type_length_3: wir
+type_length_4: wire
+type_length_5: wire_
+type_length_6: wire_c
+type_name: Wire Cable
+type_no_space_length_1: w
+type_no_space_length_2: wi
+type_no_space_length_3: wir
+type_no_space_length_4: wire
+type_no_space_length_5: wirec
+type_no_space_length_6: wireca
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WI
+type_no_space_upper_length_3: WIR
+type_no_space_upper_length_4: WIRE
+type_no_space_upper_length_5: WIREC
+type_no_space_upper_length_6: WIRECA
+type_upper: WIRE_CABLE
+type_upper_length_1: W
+type_upper_length_2: WI
+type_upper_length_3: WIR
+type_upper_length_4: WIRE
+type_upper_length_5: WIRE_
+type_upper_length_6: WIRE_C

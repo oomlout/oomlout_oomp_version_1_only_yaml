@@ -1,23 +1,146 @@
+bip_39_word_dash_12: mosquito-dice-cinnamon-expire-glow-blind-sense-invest-buzz-sample-ketchup-assault
+bip_39_word_dash_2: mosquito-dice
+bip_39_word_dash_3: mosquito-dice-cinnamon
+bip_39_word_new_br_12: mosquito<br>dice<br>cinnamon<br>expire<br>glow<br>blind<br>sense<br>invest<br>buzz<br>sample<br>ketchup<br>assault
+bip_39_word_new_br_2: mosquito<br>dice
+bip_39_word_new_br_3: mosquito<br>dice<br>cinnamon
+bip_39_word_new_line_12: 'mosquito
+
+  dice
+
+  cinnamon
+
+  expire
+
+  glow
+
+  blind
+
+  sense
+
+  invest
+
+  buzz
+
+  sample
+
+  ketchup
+
+  assault'
+bip_39_word_new_line_2: 'mosquito
+
+  dice'
+bip_39_word_new_line_3: 'mosquito
+
+  dice
+
+  cinnamon'
+bip_39_word_no_space_12: mosquitodicecinnamonexpireglowblindsenseinvestbuzzsampleketchupassault
+bip_39_word_no_space_2: mosquitodice
+bip_39_word_no_space_3: mosquitodicecinnamon
+bip_39_word_space_12: mosquito dice cinnamon expire glow blind sense invest buzz sample
+  ketchup assault
+bip_39_word_space_2: mosquito dice
+bip_39_word_space_3: mosquito dice cinnamon
+bip_39_word_underscore_12: mosquito_dice_cinnamon_expire_glow_blind_sense_invest_buzz_sample_ketchup_assault
+bip_39_word_underscore_2: mosquito_dice
+bip_39_word_underscore_3: mosquito_dice_cinnamon
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: t_shirt
 color_capital: T Shirt
 color_first_letter: t
 color_first_letter_upper: T
+color_length_1: t
+color_length_2: t_
+color_length_3: t_s
+color_length_4: t_sh
+color_length_5: t_shi
+color_length_6: t_shir
+color_name: T Shirt
+color_no_space_length_1: t
+color_no_space_length_2: ts
+color_no_space_length_3: tsh
+color_no_space_length_4: tshi
+color_no_space_length_5: tshir
+color_no_space_length_6: tshirt
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TS
+color_no_space_upper_length_3: TSH
+color_no_space_upper_length_4: TSHI
+color_no_space_upper_length_5: TSHIR
+color_no_space_upper_length_6: TSHIRT
 color_upper: T_SHIRT
+color_upper_length_1: T
+color_upper_length_2: T_
+color_upper_length_3: T_S
+color_upper_length_4: T_SH
+color_upper_length_5: T_SHI
+color_upper_length_6: T_SHIR
 description: category_clothes
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_clothes_item_t_shirt_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_clothes_item_t_shirt_tote
 id: category_clothes_item_t_shirt_tote
 id_no_class: clothes_item_t_shirt_tote
+id_no_color: tote
 id_no_size: t_shirt_tote
 id_no_type: item_t_shirt_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208gqun
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208gqun
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208gqun
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208gqun
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_clothes_item_t_shirt_tote](none)<br>[](none)<br>[Category
-    Clothes Item T Shirt Tote](none)<br><br>'
+  Clothes Item T Shirt Tote](none)<br><br>'
 markdown_short: '[category_clothes_item_t_shirt_tote](none)<br><br>'
 md5: d8f3efc0fc75f8785f31e506520f5c80
 md5_10: d8f3efc0fc
@@ -54,9 +188,26 @@ md5_6_alpha_upper: 8GQUN
 md5_6_upper: D8F3EF
 name: Category Clothes Item T Shirt Tote
 name_no_class: Clothes Item T Shirt Tote
+name_no_color: Tote
 name_no_size: T Shirt Tote
 name_no_size_short: T Shirt Tote
 name_no_type: Item T Shirt Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: clothes
+oomlout_detail_hierarchy_2_upper: CLOTHES
+oomlout_detail_hierarchy_2_upper_length_4: CLOT
+oomlout_detail_hierarchy_3: item
+oomlout_detail_hierarchy_3_upper: ITEM
+oomlout_detail_hierarchy_3_upper_length_4: ITEM
+oomlout_detail_hierarchy_4: t_shirt
+oomlout_detail_hierarchy_4_upper: T_SHIRT
+oomlout_detail_hierarchy_4_upper_length_4: T_SH
+oomlout_detail_hierarchy_5: tote
+oomlout_detail_hierarchy_5_upper: TOTE
+oomlout_detail_hierarchy_5_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_clothes_item_t_shirt_tote
 oomp_word: hospital two truck
 oomp_word_emoji: ':hospital: :two: :truck:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryclothes
@@ -81,11 +237,61 @@ size: item
 size_capital: Item
 size_first_letter: i
 size_first_letter_upper: I
+size_length_1: i
+size_length_2: it
+size_length_3: ite
+size_length_4: item
+size_length_5: item
+size_length_6: item
+size_name: Item
+size_no_space_length_1: i
+size_no_space_length_2: it
+size_no_space_length_3: ite
+size_no_space_length_4: item
+size_no_space_length_5: item
+size_no_space_length_6: item
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IT
+size_no_space_upper_length_3: ITE
+size_no_space_upper_length_4: ITEM
+size_no_space_upper_length_5: ITEM
+size_no_space_upper_length_6: ITEM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ITEM
+size_upper_length_1: I
+size_upper_length_2: IT
+size_upper_length_3: ITE
+size_upper_length_4: ITEM
+size_upper_length_5: ITEM
+size_upper_length_6: ITEM
 type: clothes
 type_capital: Clothes
 type_first_letter: c
 type_first_letter_upper: C
+type_length_1: c
+type_length_2: cl
+type_length_3: clo
+type_length_4: clot
+type_length_5: cloth
+type_length_6: clothe
+type_name: Clothes
+type_no_space_length_1: c
+type_no_space_length_2: cl
+type_no_space_length_3: clo
+type_no_space_length_4: clot
+type_no_space_length_5: cloth
+type_no_space_length_6: clothe
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CL
+type_no_space_upper_length_3: CLO
+type_no_space_upper_length_4: CLOT
+type_no_space_upper_length_5: CLOTH
+type_no_space_upper_length_6: CLOTHE
 type_upper: CLOTHES
+type_upper_length_1: C
+type_upper_length_2: CL
+type_upper_length_3: CLO
+type_upper_length_4: CLOT
+type_upper_length_5: CLOTH
+type_upper_length_6: CLOTHE

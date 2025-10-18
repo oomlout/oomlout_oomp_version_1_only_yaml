@@ -1,23 +1,146 @@
+bip_39_word_dash_12: spike-clump-anxiety-resemble-sunset-help-pave-hover-short-vessel-era-attack
+bip_39_word_dash_2: spike-clump
+bip_39_word_dash_3: spike-clump-anxiety
+bip_39_word_new_br_12: spike<br>clump<br>anxiety<br>resemble<br>sunset<br>help<br>pave<br>hover<br>short<br>vessel<br>era<br>attack
+bip_39_word_new_br_2: spike<br>clump
+bip_39_word_new_br_3: spike<br>clump<br>anxiety
+bip_39_word_new_line_12: 'spike
+
+  clump
+
+  anxiety
+
+  resemble
+
+  sunset
+
+  help
+
+  pave
+
+  hover
+
+  short
+
+  vessel
+
+  era
+
+  attack'
+bip_39_word_new_line_2: 'spike
+
+  clump'
+bip_39_word_new_line_3: 'spike
+
+  clump
+
+  anxiety'
+bip_39_word_no_space_12: spikeclumpanxietyresemblesunsethelppavehovershortvesseleraattack
+bip_39_word_no_space_2: spikeclump
+bip_39_word_no_space_3: spikeclumpanxiety
+bip_39_word_space_12: spike clump anxiety resemble sunset help pave hover short vessel
+  era attack
+bip_39_word_space_2: spike clump
+bip_39_word_space_3: spike clump anxiety
+bip_39_word_underscore_12: spike_clump_anxiety_resemble_sunset_help_pave_hover_short_vessel_era_attack
+bip_39_word_underscore_2: spike_clump
+bip_39_word_underscore_3: spike_clump_anxiety
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: '0402'
 color_capital: '0402'
 color_first_letter: '0'
 color_first_letter_upper: '0'
+color_length_1: '0'
+color_length_2: '04'
+color_length_3: '040'
+color_length_4: '0402'
+color_length_5: '0402'
+color_length_6: '0402'
+color_name: '0402'
+color_no_space_length_1: '0'
+color_no_space_length_2: '04'
+color_no_space_length_3: '040'
+color_no_space_length_4: '0402'
+color_no_space_length_5: '0402'
+color_no_space_length_6: '0402'
+color_no_space_upper_length_1: '0'
+color_no_space_upper_length_2: '04'
+color_no_space_upper_length_3: '040'
+color_no_space_upper_length_4: '0402'
+color_no_space_upper_length_5: '0402'
+color_no_space_upper_length_6: '0402'
 color_upper: '0402'
+color_upper_length_1: '0'
+color_upper_length_2: '04'
+color_upper_length_3: '040'
+color_upper_length_4: '0402'
+color_upper_length_5: '0402'
+color_upper_length_6: '0402'
 description: category_electronic
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_electronic_capacitor_0402_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_capacitor_0402_old
 id: category_electronic_capacitor_0402_old
 id_no_class: electronic_capacitor_0402_old
+id_no_color: old
 id_no_size: 0402_old
 id_no_type: capacitor_0402_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208zwsc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208zwsc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208zwsc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208zwsc
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_capacitor_0402_old](none)<br>[](none)<br>[Category
-    Electronic Capacitor 0402 Old](none)<br><br>'
+  Electronic Capacitor 0402 Old](none)<br><br>'
 markdown_short: '[category_electronic_capacitor_0402_old](none)<br><br>'
 md5: e698bcc6366e7431ac6ccb74140b168e
 md5_10: e698bcc636
@@ -54,9 +188,26 @@ md5_6_alpha_upper: 8ZWSC
 md5_6_upper: E698BC
 name: Category Electronic Capacitor 0402 Old
 name_no_class: Electronic Capacitor 0402 Old
+name_no_color: Old
 name_no_size: 0402 Old
 name_no_size_short: 0402 Old
 name_no_type: Capacitor 0402 Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: capacitor
+oomlout_detail_hierarchy_3_upper: CAPACITOR
+oomlout_detail_hierarchy_3_upper_length_4: CAPA
+oomlout_detail_hierarchy_4: '0402'
+oomlout_detail_hierarchy_4_upper: '0402'
+oomlout_detail_hierarchy_4_upper_length_4: '0402'
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_capacitor_0402_old
 oomp_word: airplane tennis sushi
 oomp_word_emoji: ':airplane: :tennis: :sushi:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -81,11 +237,61 @@ size: capacitor
 size_capital: Capacitor
 size_first_letter: c
 size_first_letter_upper: C
+size_length_1: c
+size_length_2: ca
+size_length_3: cap
+size_length_4: capa
+size_length_5: capac
+size_length_6: capaci
+size_name: Capacitor
+size_no_space_length_1: c
+size_no_space_length_2: ca
+size_no_space_length_3: cap
+size_no_space_length_4: capa
+size_no_space_length_5: capac
+size_no_space_length_6: capaci
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CA
+size_no_space_upper_length_3: CAP
+size_no_space_upper_length_4: CAPA
+size_no_space_upper_length_5: CAPAC
+size_no_space_upper_length_6: CAPACI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CAPACITOR
+size_upper_length_1: C
+size_upper_length_2: CA
+size_upper_length_3: CAP
+size_upper_length_4: CAPA
+size_upper_length_5: CAPAC
+size_upper_length_6: CAPACI
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

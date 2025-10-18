@@ -1,23 +1,146 @@
+bip_39_word_dash_12: pen-inspire-young-stay-defy-size-detect-brain-margin-secret-suffer-auto
+bip_39_word_dash_2: pen-inspire
+bip_39_word_dash_3: pen-inspire-young
+bip_39_word_new_br_12: pen<br>inspire<br>young<br>stay<br>defy<br>size<br>detect<br>brain<br>margin<br>secret<br>suffer<br>auto
+bip_39_word_new_br_2: pen<br>inspire
+bip_39_word_new_br_3: pen<br>inspire<br>young
+bip_39_word_new_line_12: 'pen
+
+  inspire
+
+  young
+
+  stay
+
+  defy
+
+  size
+
+  detect
+
+  brain
+
+  margin
+
+  secret
+
+  suffer
+
+  auto'
+bip_39_word_new_line_2: 'pen
+
+  inspire'
+bip_39_word_new_line_3: 'pen
+
+  inspire
+
+  young'
+bip_39_word_no_space_12: peninspireyoungstaydefysizedetectbrainmarginsecretsufferauto
+bip_39_word_no_space_2: peninspire
+bip_39_word_no_space_3: peninspireyoung
+bip_39_word_space_12: pen inspire young stay defy size detect brain margin secret
+  suffer auto
+bip_39_word_space_2: pen inspire
+bip_39_word_space_3: pen inspire young
+bip_39_word_underscore_12: pen_inspire_young_stay_defy_size_detect_brain_margin_secret_suffer_auto
+bip_39_word_underscore_2: pen_inspire
+bip_39_word_underscore_3: pen_inspire_young
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: mounting_plate_side
 color_capital: Mounting Plate Side
 color_first_letter: m
 color_first_letter_upper: M
+color_length_1: m
+color_length_2: mo
+color_length_3: mou
+color_length_4: moun
+color_length_5: mount
+color_length_6: mounti
+color_name: Mounting Plate Side
+color_no_space_length_1: m
+color_no_space_length_2: mo
+color_no_space_length_3: mou
+color_no_space_length_4: moun
+color_no_space_length_5: mount
+color_no_space_length_6: mounti
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: MO
+color_no_space_upper_length_3: MOU
+color_no_space_upper_length_4: MOUN
+color_no_space_upper_length_5: MOUNT
+color_no_space_upper_length_6: MOUNTI
 color_upper: MOUNTING_PLATE_SIDE
+color_upper_length_1: M
+color_upper_length_2: MO
+color_upper_length_3: MOU
+color_upper_length_4: MOUN
+color_upper_length_5: MOUNT
+color_upper_length_6: MOUNTI
 description: category_oobb
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_oobb_part_mounting_plate_side_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_oobb_part_mounting_plate_side_old
 id: category_oobb_part_mounting_plate_side_old
 id_no_class: oobb_part_mounting_plate_side_old
+id_no_color: old
 id_no_size: mounting_plate_side_old
 id_no_type: part_mounting_plate_side_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_side_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_side_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_side_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_side_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209qqgg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209qqgg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209qqgg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209qqgg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_mounting_plate_side_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_oobb_part_mounting_plate_side_old](none)<br>[](none)<br>[Category
-    Oobb Part Mounting Plate Side Old](none)<br><br>'
+  Oobb Part Mounting Plate Side Old](none)<br><br>'
 markdown_short: '[category_oobb_part_mounting_plate_side_old](none)<br><br>'
 md5: f9b170a43f1ae78f279cdd4ffe9d5513
 md5_10: f9b170a43f
@@ -54,9 +188,26 @@ md5_6_alpha_upper: 9QQGG
 md5_6_upper: F9B170
 name: Category Oobb Part Mounting Plate Side Old
 name_no_class: Oobb Part Mounting Plate Side Old
+name_no_color: Old
 name_no_size: Mounting Plate Side Old
 name_no_size_short: Mounting Plate Side Old
 name_no_type: Part Mounting Plate Side Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: oobb
+oomlout_detail_hierarchy_2_upper: OOBB
+oomlout_detail_hierarchy_2_upper_length_4: OOBB
+oomlout_detail_hierarchy_3: part
+oomlout_detail_hierarchy_3_upper: PART
+oomlout_detail_hierarchy_3_upper_length_4: PART
+oomlout_detail_hierarchy_4: mounting_plate_side
+oomlout_detail_hierarchy_4_upper: MOUNTING_PLATE_SIDE
+oomlout_detail_hierarchy_4_upper_length_4: MOUN
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_oobb_part_mounting_plate_side_old
 oomp_word: eight briefcase squirrel
 oomp_word_emoji: ':eight: :briefcase: :squirrel:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryoobb
@@ -81,11 +237,61 @@ size: part
 size_capital: Part
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pa
+size_length_3: par
+size_length_4: part
+size_length_5: part
+size_length_6: part
+size_name: Part
+size_no_space_length_1: p
+size_no_space_length_2: pa
+size_no_space_length_3: par
+size_no_space_length_4: part
+size_no_space_length_5: part
+size_no_space_length_6: part
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PA
+size_no_space_upper_length_3: PAR
+size_no_space_upper_length_4: PART
+size_no_space_upper_length_5: PART
+size_no_space_upper_length_6: PART
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PART
+size_upper_length_1: P
+size_upper_length_2: PA
+size_upper_length_3: PAR
+size_upper_length_4: PART
+size_upper_length_5: PART
+size_upper_length_6: PART
 type: oobb
 type_capital: Oobb
 type_first_letter: o
 type_first_letter_upper: O
+type_length_1: o
+type_length_2: oo
+type_length_3: oob
+type_length_4: oobb
+type_length_5: oobb
+type_length_6: oobb
+type_name: Oobb
+type_no_space_length_1: o
+type_no_space_length_2: oo
+type_no_space_length_3: oob
+type_no_space_length_4: oobb
+type_no_space_length_5: oobb
+type_no_space_length_6: oobb
+type_no_space_upper_length_1: O
+type_no_space_upper_length_2: OO
+type_no_space_upper_length_3: OOB
+type_no_space_upper_length_4: OOBB
+type_no_space_upper_length_5: OOBB
+type_no_space_upper_length_6: OOBB
 type_upper: OOBB
+type_upper_length_1: O
+type_upper_length_2: OO
+type_upper_length_3: OOB
+type_upper_length_4: OOBB
+type_upper_length_5: OOBB
+type_upper_length_6: OOBB

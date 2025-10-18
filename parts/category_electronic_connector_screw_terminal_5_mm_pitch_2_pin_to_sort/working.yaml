@@ -1,23 +1,146 @@
+bip_39_word_dash_12: toddler-ramp-figure-isolate-sponsor-cake-hill-rude-either-extra-avoid-album
+bip_39_word_dash_2: toddler-ramp
+bip_39_word_dash_3: toddler-ramp-figure
+bip_39_word_new_br_12: toddler<br>ramp<br>figure<br>isolate<br>sponsor<br>cake<br>hill<br>rude<br>either<br>extra<br>avoid<br>album
+bip_39_word_new_br_2: toddler<br>ramp
+bip_39_word_new_br_3: toddler<br>ramp<br>figure
+bip_39_word_new_line_12: 'toddler
+
+  ramp
+
+  figure
+
+  isolate
+
+  sponsor
+
+  cake
+
+  hill
+
+  rude
+
+  either
+
+  extra
+
+  avoid
+
+  album'
+bip_39_word_new_line_2: 'toddler
+
+  ramp'
+bip_39_word_new_line_3: 'toddler
+
+  ramp
+
+  figure'
+bip_39_word_no_space_12: toddlerrampfigureisolatesponsorcakehillrudeeitherextraavoidalbum
+bip_39_word_no_space_2: toddlerramp
+bip_39_word_no_space_3: toddlerrampfigure
+bip_39_word_space_12: toddler ramp figure isolate sponsor cake hill rude either extra
+  avoid album
+bip_39_word_space_2: toddler ramp
+bip_39_word_space_3: toddler ramp figure
+bip_39_word_underscore_12: toddler_ramp_figure_isolate_sponsor_cake_hill_rude_either_extra_avoid_album
+bip_39_word_underscore_2: toddler_ramp
+bip_39_word_underscore_3: toddler_ramp_figure
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: screw_terminal_5_mm_pitch_2_pin
 color_capital: Screw Terminal 5 mm Pitch 2 Pin
 color_first_letter: s
 color_first_letter_upper: S
+color_length_1: s
+color_length_2: sc
+color_length_3: scr
+color_length_4: scre
+color_length_5: screw
+color_length_6: screw_
+color_name: Screw Terminal 5 mm Pitch 2 Pin
+color_no_space_length_1: s
+color_no_space_length_2: sc
+color_no_space_length_3: scr
+color_no_space_length_4: scre
+color_no_space_length_5: screw
+color_no_space_length_6: screwt
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SC
+color_no_space_upper_length_3: SCR
+color_no_space_upper_length_4: SCRE
+color_no_space_upper_length_5: SCREW
+color_no_space_upper_length_6: SCREWT
 color_upper: SCREW_TERMINAL_5_MM_PITCH_2_PIN
+color_upper_length_1: S
+color_upper_length_2: SC
+color_upper_length_3: SCR
+color_upper_length_4: SCRE
+color_upper_length_5: SCREW
+color_upper_length_6: SCREW_
 description: category_electronic
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_t
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
 id: category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
 id_no_class: electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
+id_no_color: to_sort
 id_no_size: screw_terminal_5_mm_pitch_2_pin_to_sort
 id_no_type: connector_screw_terminal_5_mm_pitch_2_pin_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203o7pw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203o7pw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203o7pw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203o7pw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort](none)<br>[](none)<br>[Category
-    Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin To Sort](none)<br><br>'
+  Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin To Sort](none)<br><br>'
 markdown_short: '[category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort](none)<br><br>'
 md5: 5e20144238bced7481693768ac2c5f1b
 md5_10: 5e20144238
@@ -52,11 +186,31 @@ md5_6: 5e2014
 md5_6_alpha: 3o7pw
 md5_6_alpha_upper: 3O7PW
 md5_6_upper: 5E2014
-name: Category Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin To Sort
-name_no_class: Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin To Sort
-name_no_size: Screw Terminal 5 Mm Pitch 2 Pin To Sort
+name: Category Electronic Connector Screw Terminal 5 mm Pitch 2 Pin To Sort
+name_no_class: Electronic Connector Screw Terminal 5 mm Pitch 2 Pin To Sort
+name_no_color: To Sort
+name_no_size: Screw Terminal 5 mm Pitch 2 Pin To Sort
 name_no_size_short: Screw Terminal 5 Mm Pitch 2 Pin To Sort
-name_no_type: Connector Screw Terminal 5 Mm Pitch 2 Pin To Sort
+name_no_type: Connector Screw Terminal 5 mm Pitch 2 Pin To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: connector
+oomlout_detail_hierarchy_3_upper: CONNECTOR
+oomlout_detail_hierarchy_3_upper_length_4: CONN
+oomlout_detail_hierarchy_4: sterminal_5_mm_pitch
+oomlout_detail_hierarchy_4_upper: STERMINAL_5_MM_PITCH
+oomlout_detail_hierarchy_4_upper_length_4: STER
+oomlout_detail_hierarchy_5: 2_pin
+oomlout_detail_hierarchy_5_upper: 2_PIN
+oomlout_detail_hierarchy_5_upper_length_4: 2_PI
+oomlout_detail_hierarchy_6: to_sort
+oomlout_detail_hierarchy_6_upper: TO_SORT
+oomlout_detail_hierarchy_6_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_connector_screw_terminal_5_mm_pitch_2_pin_to_sort
 oomp_word: crocodile skull fire
 oomp_word_emoji: ':crocodile: :skull: :fire:'
@@ -73,7 +227,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -81,11 +240,61 @@ size: connector
 size_capital: Connector
 size_first_letter: c
 size_first_letter_upper: C
+size_length_1: c
+size_length_2: co
+size_length_3: con
+size_length_4: conn
+size_length_5: conne
+size_length_6: connec
+size_name: Connector
+size_no_space_length_1: c
+size_no_space_length_2: co
+size_no_space_length_3: con
+size_no_space_length_4: conn
+size_no_space_length_5: conne
+size_no_space_length_6: connec
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CO
+size_no_space_upper_length_3: CON
+size_no_space_upper_length_4: CONN
+size_no_space_upper_length_5: CONNE
+size_no_space_upper_length_6: CONNEC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CONNECTOR
+size_upper_length_1: C
+size_upper_length_2: CO
+size_upper_length_3: CON
+size_upper_length_4: CONN
+size_upper_length_5: CONNE
+size_upper_length_6: CONNEC
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

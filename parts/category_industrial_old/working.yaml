@@ -1,23 +1,122 @@
+bip_39_word_dash_12: able-minimum-master-renew-unaware-affair-mad-miss-human-error-attract-abuse
+bip_39_word_dash_2: able-minimum
+bip_39_word_dash_3: able-minimum-master
+bip_39_word_new_br_12: able<br>minimum<br>master<br>renew<br>unaware<br>affair<br>mad<br>miss<br>human<br>error<br>attract<br>abuse
+bip_39_word_new_br_2: able<br>minimum
+bip_39_word_new_br_3: able<br>minimum<br>master
+bip_39_word_new_line_12: 'able
+
+  minimum
+
+  master
+
+  renew
+
+  unaware
+
+  affair
+
+  mad
+
+  miss
+
+  human
+
+  error
+
+  attract
+
+  abuse'
+bip_39_word_new_line_2: 'able
+
+  minimum'
+bip_39_word_new_line_3: 'able
+
+  minimum
+
+  master'
+bip_39_word_no_space_12: ableminimummasterrenewunawareaffairmadmisshumanerrorattractabuse
+bip_39_word_no_space_2: ableminimum
+bip_39_word_no_space_3: ableminimummaster
+bip_39_word_space_12: able minimum master renew unaware affair mad miss human error
+  attract abuse
+bip_39_word_space_2: able minimum
+bip_39_word_space_3: able minimum master
+bip_39_word_underscore_12: able_minimum_master_renew_unaware_affair_mad_miss_human_error_attract_abuse
+bip_39_word_underscore_2: able_minimum
+bip_39_word_underscore_3: able_minimum_master
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_industrial
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_industrial_old
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_industrial_old
 id: category_industrial_old
 id_no_class: industrial_old
+id_no_color: old
 id_no_size: old
 id_no_type: old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_old
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20pg2b
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20pg2b
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20pg2b
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20pg2b
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_industrial_old](none)<br>[](none)<br>[Category Industrial
-    Old](none)<br><br>'
+  Old](none)<br><br>'
 markdown_short: '[category_industrial_old](none)<br><br>'
 md5: 121d9333768dd0b411763b6311634002
 md5_10: 121d933376
@@ -54,9 +164,20 @@ md5_6_alpha_upper: PG2B
 md5_6_upper: 121D93
 name: Category Industrial Old
 name_no_class: Industrial Old
+name_no_color: Old
 name_no_size: Old
 name_no_size_short: Old
 name_no_type: Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: industrial
+oomlout_detail_hierarchy_2_upper: INDUSTRIAL
+oomlout_detail_hierarchy_2_upper_length_4: INDU
+oomlout_detail_hierarchy_3: old
+oomlout_detail_hierarchy_3_upper: OLD
+oomlout_detail_hierarchy_3_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_industrial_old
 oomp_word: anger baby books
 oomp_word_emoji: ':anger: :baby: :books:'
@@ -73,7 +194,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryindustrial
@@ -81,6 +207,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -88,4 +215,29 @@ type: industrial
 type_capital: Industrial
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ind
+type_length_4: indu
+type_length_5: indus
+type_length_6: indust
+type_name: Industrial
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ind
+type_no_space_length_4: indu
+type_no_space_length_5: indus
+type_no_space_length_6: indust
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: IND
+type_no_space_upper_length_4: INDU
+type_no_space_upper_length_5: INDUS
+type_no_space_upper_length_6: INDUST
 type_upper: INDUSTRIAL
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: IND
+type_upper_length_4: INDU
+type_upper_length_5: INDUS
+type_upper_length_6: INDUST

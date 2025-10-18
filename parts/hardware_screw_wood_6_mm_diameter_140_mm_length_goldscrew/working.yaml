@@ -1,0 +1,267 @@
+bip_39_word_dash_12: high-beauty-myself-zero-armor-jacket-pact-pen-earn-soul-unknown-annual
+bip_39_word_dash_2: high-beauty
+bip_39_word_dash_3: high-beauty-myself
+bip_39_word_new_br_12: high<br>beauty<br>myself<br>zero<br>armor<br>jacket<br>pact<br>pen<br>earn<br>soul<br>unknown<br>annual
+bip_39_word_new_br_2: high<br>beauty
+bip_39_word_new_br_3: high<br>beauty<br>myself
+bip_39_word_new_line_12: 'high
+
+  beauty
+
+  myself
+
+  zero
+
+  armor
+
+  jacket
+
+  pact
+
+  pen
+
+  earn
+
+  soul
+
+  unknown
+
+  annual'
+bip_39_word_new_line_2: 'high
+
+  beauty'
+bip_39_word_new_line_3: 'high
+
+  beauty
+
+  myself'
+bip_39_word_no_space_12: highbeautymyselfzeroarmorjacketpactpenearnsoulunknownannual
+bip_39_word_no_space_2: highbeauty
+bip_39_word_no_space_3: highbeautymyself
+bip_39_word_space_12: high beauty myself zero armor jacket pact pen earn soul unknown
+  annual
+bip_39_word_space_2: high beauty
+bip_39_word_space_3: high beauty myself
+bip_39_word_underscore_12: high_beauty_myself_zero_armor_jacket_pact_pen_earn_soul_unknown_annual
+bip_39_word_underscore_2: high_beauty
+bip_39_word_underscore_3: high_beauty_myself
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 6_mm_diameter_140_mm_length
+description_main_capital: 6 mm Diameter 140 mm Length
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_length_1: '6'
+description_main_length_2: '6_'
+description_main_length_3: 6_m
+description_main_length_4: 6_mm
+description_main_length_5: 6_mm_
+description_main_length_6: 6_mm_d
+description_main_name: 6 mm Diameter 140 mm Length
+description_main_no_space_length_1: '6'
+description_main_no_space_length_2: 6m
+description_main_no_space_length_3: 6mm
+description_main_no_space_length_4: 6mmd
+description_main_no_space_length_5: 6mmdi
+description_main_no_space_length_6: 6mmdia
+description_main_no_space_upper_length_1: '6'
+description_main_no_space_upper_length_2: 6M
+description_main_no_space_upper_length_3: 6MM
+description_main_no_space_upper_length_4: 6MMD
+description_main_no_space_upper_length_5: 6MMDI
+description_main_no_space_upper_length_6: 6MMDIA
+description_main_upper: 6_MM_DIAMETER_140_MM_LENGTH
+description_main_upper_length_1: '6'
+description_main_upper_length_2: '6_'
+description_main_upper_length_3: 6_M
+description_main_upper_length_4: 6_MM
+description_main_upper_length_5: 6_MM_
+description_main_upper_length_6: 6_MM_D
+description_only_numbers: '6140'
+description_only_numbers_short: 6k1
+description_or_color: 6k1
+description_or_color_upper: 6K1
+directory: parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+id: hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+id_no_class: screw_wood_6_mm_diameter_140_mm_length_goldscrew
+id_no_color: 6mmdiameter140mmlengthgoldscrew
+id_no_size: 6mmdiameter140mmlengthgoldscrew
+id_no_type: 6_mm_diameter_140_mm_length_goldscrew
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205xb77
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205xb77
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205xb77
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205xb77
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+manufacturer: goldscrew
+manufacturer_capital: Goldscrew
+manufacturer_first_letter: g
+manufacturer_first_letter_upper: G
+manufacturer_length_1: g
+manufacturer_length_2: go
+manufacturer_length_3: gol
+manufacturer_length_4: gold
+manufacturer_length_5: golds
+manufacturer_length_6: goldsc
+manufacturer_name: Goldscrew
+manufacturer_no_space_length_1: g
+manufacturer_no_space_length_2: go
+manufacturer_no_space_length_3: gol
+manufacturer_no_space_length_4: gold
+manufacturer_no_space_length_5: golds
+manufacturer_no_space_length_6: goldsc
+manufacturer_no_space_upper_length_1: G
+manufacturer_no_space_upper_length_2: GO
+manufacturer_no_space_upper_length_3: GOL
+manufacturer_no_space_upper_length_4: GOLD
+manufacturer_no_space_upper_length_5: GOLDS
+manufacturer_no_space_upper_length_6: GOLDSC
+manufacturer_upper: GOLDSCREW
+manufacturer_upper_length_1: G
+manufacturer_upper_length_2: GO
+manufacturer_upper_length_3: GOL
+manufacturer_upper_length_4: GOLD
+manufacturer_upper_length_5: GOLDS
+manufacturer_upper_length_6: GOLDSC
+manufacturers: []
+markdown_full: '[hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew](none)<br>[](none)<br>[Hardware
+  Screw Wood 6 Mm Diameter 140 Mm Length Goldscrew](none)<br><br>'
+markdown_short: '[hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew](none)<br><br>'
+md5: 97dbf3ea2aa273d5dc05fffb2484eb5c
+md5_10: 97dbf3ea2a
+md5_10_upper: 97DBF3EA2A
+md5_5: 97dbf
+md5_5_upper: 97DBF
+md5_6: 97dbf3
+md5_6_alpha: 5xb77
+md5_6_alpha_upper: 5XB77
+md5_6_upper: 97DBF3
+name: Hardware Screw Wood 6 mm Diameter 140 mm Length Goldscrew
+name_no_class: Screw Wood 6 mm Diameter 140 mm Length Goldscrew
+name_no_color: 6mmdiameter140mmlengthgoldscrew
+name_no_size: 6mmdiameter140mmlengthgoldscrew
+name_no_size_short: 6Mmdiameter140Mmlengthgoldscrew
+name_no_type: 6 mm Diameter 140 mm Length Goldscrew
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: swood
+oomlout_detail_hierarchy_2_upper: SWOOD
+oomlout_detail_hierarchy_2_upper_length_4: SWOO
+oomlout_detail_hierarchy_3: 140_mm_length
+oomlout_detail_hierarchy_3_upper: 140_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 140L
+oomlout_detail_hierarchy_4: goldscrew
+oomlout_detail_hierarchy_4_upper: GOLDSCREW
+oomlout_detail_hierarchy_4_upper_length_4: GOLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_screw_wood_6_mm_diameter_140_mm_length_goldscrew
+oomp_word: baseball tent two
+oomp_word_emoji: ':baseball: :tent: :two:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':tent:'
+- ':two:'
+oomp_word_list:
+- baseball
+- tent
+- two
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: screw_wood
+type_capital: Screw Wood
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screw_
+type_name: Screw Wood
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screww
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWW
+type_upper: SCREW_WOOD
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREW_

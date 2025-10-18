@@ -1,23 +1,122 @@
+bip_39_word_dash_12: when-museum-gossip-bulk-maid-need-flip-uniform-update-output-auto-assume
+bip_39_word_dash_2: when-museum
+bip_39_word_dash_3: when-museum-gossip
+bip_39_word_new_br_12: when<br>museum<br>gossip<br>bulk<br>maid<br>need<br>flip<br>uniform<br>update<br>output<br>auto<br>assume
+bip_39_word_new_br_2: when<br>museum
+bip_39_word_new_br_3: when<br>museum<br>gossip
+bip_39_word_new_line_12: 'when
+
+  museum
+
+  gossip
+
+  bulk
+
+  maid
+
+  need
+
+  flip
+
+  uniform
+
+  update
+
+  output
+
+  auto
+
+  assume'
+bip_39_word_new_line_2: 'when
+
+  museum'
+bip_39_word_new_line_3: 'when
+
+  museum
+
+  gossip'
+bip_39_word_no_space_12: whenmuseumgossipbulkmaidneedflipuniformupdateoutputautoassume
+bip_39_word_no_space_2: whenmuseum
+bip_39_word_no_space_3: whenmuseumgossip
+bip_39_word_space_12: when museum gossip bulk maid need flip uniform update output
+  auto assume
+bip_39_word_space_2: when museum
+bip_39_word_space_3: when museum gossip
+bip_39_word_underscore_12: when_museum_gossip_bulk_maid_need_flip_uniform_update_output_auto_assume
+bip_39_word_underscore_2: when_museum
+bip_39_word_underscore_3: when_museum_gossip
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: roland
 color_capital: Roland
 color_first_letter: r
 color_first_letter_upper: R
+color_length_1: r
+color_length_2: ro
+color_length_3: rol
+color_length_4: rola
+color_length_5: rolan
+color_length_6: roland
+color_name: Roland
+color_no_space_length_1: r
+color_no_space_length_2: ro
+color_no_space_length_3: rol
+color_no_space_length_4: rola
+color_no_space_length_5: rolan
+color_no_space_length_6: roland
+color_no_space_upper_length_1: R
+color_no_space_upper_length_2: RO
+color_no_space_upper_length_3: ROL
+color_no_space_upper_length_4: ROLA
+color_no_space_upper_length_5: ROLAN
+color_no_space_upper_length_6: ROLAND
 color_upper: ROLAND
+color_upper_length_1: R
+color_upper_length_2: RO
+color_upper_length_3: ROL
+color_upper_length_4: ROLA
+color_upper_length_5: ROLAN
+color_upper_length_6: ROLAND
 description: category_vinyl_cutter
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_vinyl_cutter_vinyl_cutter_roland
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland
 id: category_vinyl_cutter_vinyl_cutter_roland
 id_no_class: vinyl_cutter_vinyl_cutter_roland
+id_no_color: roland
 id_no_size: roland
 id_no_type: roland
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208o087
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208o087
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208o087
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208o087
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_vinyl_cutter_vinyl_cutter_roland](none)<br>[](none)<br>[Category
-    Vinyl Cutter Vinyl Cutter Roland](none)<br><br>'
+  Vinyl Cutter Vinyl Cutter Roland](none)<br><br>'
 markdown_short: '[category_vinyl_cutter_vinyl_cutter_roland](none)<br><br>'
 md5: de1f275f74ed6b224f4301e0c9e46fd1
 md5_10: de1f275f74
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 8O087
 md5_6_upper: DE1F27
 name: Category Vinyl Cutter Vinyl Cutter Roland
 name_no_class: Vinyl Cutter Vinyl Cutter Roland
+name_no_color: Roland
 name_no_size: Roland
 name_no_size_short: Roland
 name_no_type: Roland
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: vinyl_cutter
+oomlout_detail_hierarchy_2_upper: VINYL_CUTTER
+oomlout_detail_hierarchy_2_upper_length_4: VINY
+oomlout_detail_hierarchy_3: vinyl_cutter
+oomlout_detail_hierarchy_3_upper: VINYL_CUTTER
+oomlout_detail_hierarchy_3_upper_length_4: VINY
+oomlout_detail_hierarchy_4: roland
+oomlout_detail_hierarchy_4_upper: ROLAND
+oomlout_detail_hierarchy_4_upper_length_4: ROLA
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_vinyl_cutter_vinyl_cutter_roland
 oomp_word: rainbow princess nose
 oomp_word_emoji: ':rainbow: :princess: :nose:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryvinylcutter
@@ -81,11 +210,61 @@ size: vinyl_cutter
 size_capital: Vinyl Cutter
 size_first_letter: v
 size_first_letter_upper: V
+size_length_1: v
+size_length_2: vi
+size_length_3: vin
+size_length_4: viny
+size_length_5: vinyl
+size_length_6: vinyl_
+size_name: Vinyl Cutter
+size_no_space_length_1: v
+size_no_space_length_2: vi
+size_no_space_length_3: vin
+size_no_space_length_4: viny
+size_no_space_length_5: vinyl
+size_no_space_length_6: vinylc
+size_no_space_upper_length_1: V
+size_no_space_upper_length_2: VI
+size_no_space_upper_length_3: VIN
+size_no_space_upper_length_4: VINY
+size_no_space_upper_length_5: VINYL
+size_no_space_upper_length_6: VINYLC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: VINYL_CUTTER
+size_upper_length_1: V
+size_upper_length_2: VI
+size_upper_length_3: VIN
+size_upper_length_4: VINY
+size_upper_length_5: VINYL
+size_upper_length_6: VINYL_
 type: vinyl_cutter
 type_capital: Vinyl Cutter
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vin
+type_length_4: viny
+type_length_5: vinyl
+type_length_6: vinyl_
+type_name: Vinyl Cutter
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vin
+type_no_space_length_4: viny
+type_no_space_length_5: vinyl
+type_no_space_length_6: vinylc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VIN
+type_no_space_upper_length_4: VINY
+type_no_space_upper_length_5: VINYL
+type_no_space_upper_length_6: VINYLC
 type_upper: VINYL_CUTTER
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VIN
+type_upper_length_4: VINY
+type_upper_length_5: VINYL
+type_upper_length_6: VINYL_

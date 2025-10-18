@@ -1,23 +1,146 @@
+bip_39_word_dash_12: sun-reopen-provide-unfair-circle-figure-mix-sausage-mix-tower-sample-alter
+bip_39_word_dash_2: sun-reopen
+bip_39_word_dash_3: sun-reopen-provide
+bip_39_word_new_br_12: sun<br>reopen<br>provide<br>unfair<br>circle<br>figure<br>mix<br>sausage<br>mix<br>tower<br>sample<br>alter
+bip_39_word_new_br_2: sun<br>reopen
+bip_39_word_new_br_3: sun<br>reopen<br>provide
+bip_39_word_new_line_12: 'sun
+
+  reopen
+
+  provide
+
+  unfair
+
+  circle
+
+  figure
+
+  mix
+
+  sausage
+
+  mix
+
+  tower
+
+  sample
+
+  alter'
+bip_39_word_new_line_2: 'sun
+
+  reopen'
+bip_39_word_new_line_3: 'sun
+
+  reopen
+
+  provide'
+bip_39_word_no_space_12: sunreopenprovideunfaircirclefiguremixsausagemixtowersamplealter
+bip_39_word_no_space_2: sunreopen
+bip_39_word_no_space_3: sunreopenprovide
+bip_39_word_space_12: sun reopen provide unfair circle figure mix sausage mix tower
+  sample alter
+bip_39_word_space_2: sun reopen
+bip_39_word_space_3: sun reopen provide
+bip_39_word_underscore_12: sun_reopen_provide_unfair_circle_figure_mix_sausage_mix_tower_sample_alter
+bip_39_word_underscore_2: sun_reopen
+bip_39_word_underscore_3: sun_reopen_provide
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: 13_mm
 color_capital: 13 mm
 color_first_letter: '1'
 color_first_letter_upper: '1'
+color_length_1: '1'
+color_length_2: '13'
+color_length_3: '13_'
+color_length_4: 13_m
+color_length_5: 13_mm
+color_length_6: 13_mm
+color_name: 13 mm
+color_no_space_length_1: '1'
+color_no_space_length_2: '13'
+color_no_space_length_3: 13m
+color_no_space_length_4: 13mm
+color_no_space_length_5: 13mm
+color_no_space_length_6: 13mm
+color_no_space_upper_length_1: '1'
+color_no_space_upper_length_2: '13'
+color_no_space_upper_length_3: 13M
+color_no_space_upper_length_4: 13MM
+color_no_space_upper_length_5: 13MM
+color_no_space_upper_length_6: 13MM
 color_upper: 13_MM
+color_upper_length_1: '1'
+color_upper_length_2: '13'
+color_upper_length_3: '13_'
+color_upper_length_4: 13_M
+color_upper_length_5: 13_MM
+color_upper_length_6: 13_MM
 description: category_hardware
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_hardware_ball_bearing_13_mm_tote
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_ball_bearing_13_mm_tote
 id: category_hardware_ball_bearing_13_mm_tote
 id_no_class: hardware_ball_bearing_13_mm_tote
+id_no_color: tote
 id_no_size: 13_mm_tote
 id_no_type: ball_bearing_13_mm_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_13_mm_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_13_mm_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_13_mm_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_13_mm_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204nuih
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204nuih
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204nuih
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204nuih
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_13_mm_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_ball_bearing_13_mm_tote](none)<br>[](none)<br>[Category
-    Hardware Ball Bearing 13 Mm Tote](none)<br><br>'
+  Hardware Ball Bearing 13 Mm Tote](none)<br><br>'
 markdown_short: '[category_hardware_ball_bearing_13_mm_tote](none)<br><br>'
 md5: 777e398c70bfb1c158149ed159ed9eca
 md5_10: 777e398c70
@@ -52,11 +186,28 @@ md5_6: 777e39
 md5_6_alpha: 4nuih
 md5_6_alpha_upper: 4NUIH
 md5_6_upper: 777E39
-name: Category Hardware Ball Bearing 13 Mm Tote
-name_no_class: Hardware Ball Bearing 13 Mm Tote
-name_no_size: 13 Mm Tote
+name: Category Hardware Ball Bearing 13 mm Tote
+name_no_class: Hardware Ball Bearing 13 mm Tote
+name_no_color: Tote
+name_no_size: 13 mm Tote
 name_no_size_short: 13 Mm Tote
-name_no_type: Ball Bearing 13 Mm Tote
+name_no_type: Ball Bearing 13 mm Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: hardware
+oomlout_detail_hierarchy_2_upper: HARDWARE
+oomlout_detail_hierarchy_2_upper_length_4: HARD
+oomlout_detail_hierarchy_3: ball_bearing
+oomlout_detail_hierarchy_3_upper: BALL_BEARING
+oomlout_detail_hierarchy_3_upper_length_4: BALL
+oomlout_detail_hierarchy_4: 13_mm
+oomlout_detail_hierarchy_4_upper: 13_MM
+oomlout_detail_hierarchy_4_upper_length_4: 13_M
+oomlout_detail_hierarchy_5: tote
+oomlout_detail_hierarchy_5_upper: TOTE
+oomlout_detail_hierarchy_5_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_hardware_ball_bearing_13_mm_tote
 oomp_word: gift fax tiger
 oomp_word_emoji: ':gift: :fax: :tiger:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhardware
@@ -81,11 +237,61 @@ size: ball_bearing
 size_capital: Ball Bearing
 size_first_letter: b
 size_first_letter_upper: B
+size_length_1: b
+size_length_2: ba
+size_length_3: bal
+size_length_4: ball
+size_length_5: ball_
+size_length_6: ball_b
+size_name: Ball Bearing
+size_no_space_length_1: b
+size_no_space_length_2: ba
+size_no_space_length_3: bal
+size_no_space_length_4: ball
+size_no_space_length_5: ballb
+size_no_space_length_6: ballbe
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BA
+size_no_space_upper_length_3: BAL
+size_no_space_upper_length_4: BALL
+size_no_space_upper_length_5: BALLB
+size_no_space_upper_length_6: BALLBE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BALL_BEARING
+size_upper_length_1: B
+size_upper_length_2: BA
+size_upper_length_3: BAL
+size_upper_length_4: BALL
+size_upper_length_5: BALL_
+size_upper_length_6: BALL_B
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
+type_length_1: h
+type_length_2: ha
+type_length_3: har
+type_length_4: hard
+type_length_5: hardw
+type_length_6: hardwa
+type_name: Hardware
+type_no_space_length_1: h
+type_no_space_length_2: ha
+type_no_space_length_3: har
+type_no_space_length_4: hard
+type_no_space_length_5: hardw
+type_no_space_length_6: hardwa
+type_no_space_upper_length_1: H
+type_no_space_upper_length_2: HA
+type_no_space_upper_length_3: HAR
+type_no_space_upper_length_4: HARD
+type_no_space_upper_length_5: HARDW
+type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
+type_upper_length_1: H
+type_upper_length_2: HA
+type_upper_length_3: HAR
+type_upper_length_4: HARD
+type_upper_length_5: HARDW
+type_upper_length_6: HARDWA

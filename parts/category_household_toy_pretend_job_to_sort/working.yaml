@@ -1,23 +1,122 @@
+bip_39_word_dash_12: excuse-east-bubble-nest-answer-tunnel-raven-bridge-employ-genre-myth-amused
+bip_39_word_dash_2: excuse-east
+bip_39_word_dash_3: excuse-east-bubble
+bip_39_word_new_br_12: excuse<br>east<br>bubble<br>nest<br>answer<br>tunnel<br>raven<br>bridge<br>employ<br>genre<br>myth<br>amused
+bip_39_word_new_br_2: excuse<br>east
+bip_39_word_new_br_3: excuse<br>east<br>bubble
+bip_39_word_new_line_12: 'excuse
+
+  east
+
+  bubble
+
+  nest
+
+  answer
+
+  tunnel
+
+  raven
+
+  bridge
+
+  employ
+
+  genre
+
+  myth
+
+  amused'
+bip_39_word_new_line_2: 'excuse
+
+  east'
+bip_39_word_new_line_3: 'excuse
+
+  east
+
+  bubble'
+bip_39_word_no_space_12: excuseeastbubblenestanswertunnelravenbridgeemploygenremythamused
+bip_39_word_no_space_2: excuseeast
+bip_39_word_no_space_3: excuseeastbubble
+bip_39_word_space_12: excuse east bubble nest answer tunnel raven bridge employ genre
+  myth amused
+bip_39_word_space_2: excuse east
+bip_39_word_space_3: excuse east bubble
+bip_39_word_underscore_12: excuse_east_bubble_nest_answer_tunnel_raven_bridge_employ_genre_myth_amused
+bip_39_word_underscore_2: excuse_east
+bip_39_word_underscore_3: excuse_east_bubble
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_household_toy
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_household_toy_pretend_job_to_sort
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_toy_pretend_job_to_sort
 id: category_household_toy_pretend_job_to_sort
 id_no_class: household_toy_pretend_job_to_sort
+id_no_color: tosort
 id_no_size: to_sort
 id_no_type: pretend_job_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job_to_sort
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20547q0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20547q0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20547q0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20547q0
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_household_toy_pretend_job_to_sort](none)<br>[](none)<br>[Category
-    Household Toy Pretend Job To Sort](none)<br><br>'
+  Household Toy Pretend Job To Sort](none)<br><br>'
 markdown_short: '[category_household_toy_pretend_job_to_sort](none)<br><br>'
 md5: 83251842471bd64faa04d9483a916a78
 md5_10: '8325184247'
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 547Q0
 md5_6_upper: '832518'
 name: Category Household Toy Pretend Job To Sort
 name_no_class: Household Toy Pretend Job To Sort
+name_no_color: Tosort
 name_no_size: To Sort
 name_no_size_short: To Sort
 name_no_type: Pretend Job To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: household_toy
+oomlout_detail_hierarchy_2_upper: HOUSEHOLD_TOY
+oomlout_detail_hierarchy_2_upper_length_4: HOUS
+oomlout_detail_hierarchy_3: pretend_job
+oomlout_detail_hierarchy_3_upper: PRETEND_JOB
+oomlout_detail_hierarchy_3_upper_length_4: PRET
+oomlout_detail_hierarchy_4: to_sort
+oomlout_detail_hierarchy_4_upper: TO_SORT
+oomlout_detail_hierarchy_4_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_household_toy_pretend_job_to_sort
 oomp_word: lock ear hand
 oomp_word_emoji: ':lock: :ear: :hand:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhouseholdtoy
@@ -81,11 +210,61 @@ size: pretend_job
 size_capital: Pretend Job
 size_first_letter: p
 size_first_letter_upper: P
+size_length_1: p
+size_length_2: pr
+size_length_3: pre
+size_length_4: pret
+size_length_5: prete
+size_length_6: preten
+size_name: Pretend Job
+size_no_space_length_1: p
+size_no_space_length_2: pr
+size_no_space_length_3: pre
+size_no_space_length_4: pret
+size_no_space_length_5: prete
+size_no_space_length_6: preten
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PR
+size_no_space_upper_length_3: PRE
+size_no_space_upper_length_4: PRET
+size_no_space_upper_length_5: PRETE
+size_no_space_upper_length_6: PRETEN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PRETEND_JOB
+size_upper_length_1: P
+size_upper_length_2: PR
+size_upper_length_3: PRE
+size_upper_length_4: PRET
+size_upper_length_5: PRETE
+size_upper_length_6: PRETEN
 type: household_toy
 type_capital: Household Toy
 type_first_letter: h
 type_first_letter_upper: H
+type_length_1: h
+type_length_2: ho
+type_length_3: hou
+type_length_4: hous
+type_length_5: house
+type_length_6: househ
+type_name: Household Toy
+type_no_space_length_1: h
+type_no_space_length_2: ho
+type_no_space_length_3: hou
+type_no_space_length_4: hous
+type_no_space_length_5: house
+type_no_space_length_6: househ
+type_no_space_upper_length_1: H
+type_no_space_upper_length_2: HO
+type_no_space_upper_length_3: HOU
+type_no_space_upper_length_4: HOUS
+type_no_space_upper_length_5: HOUSE
+type_no_space_upper_length_6: HOUSEH
 type_upper: HOUSEHOLD_TOY
+type_upper_length_1: H
+type_upper_length_2: HO
+type_upper_length_3: HOU
+type_upper_length_4: HOUS
+type_upper_length_5: HOUSE
+type_upper_length_6: HOUSEH

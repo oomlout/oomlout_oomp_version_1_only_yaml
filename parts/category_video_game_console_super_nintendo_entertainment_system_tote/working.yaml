@@ -1,23 +1,122 @@
+bip_39_word_dash_12: control-original-anger-project-sun-coconut-maze-cruise-wolf-friend-shrimp-asthma
+bip_39_word_dash_2: control-original
+bip_39_word_dash_3: control-original-anger
+bip_39_word_new_br_12: control<br>original<br>anger<br>project<br>sun<br>coconut<br>maze<br>cruise<br>wolf<br>friend<br>shrimp<br>asthma
+bip_39_word_new_br_2: control<br>original
+bip_39_word_new_br_3: control<br>original<br>anger
+bip_39_word_new_line_12: 'control
+
+  original
+
+  anger
+
+  project
+
+  sun
+
+  coconut
+
+  maze
+
+  cruise
+
+  wolf
+
+  friend
+
+  shrimp
+
+  asthma'
+bip_39_word_new_line_2: 'control
+
+  original'
+bip_39_word_new_line_3: 'control
+
+  original
+
+  anger'
+bip_39_word_no_space_12: controloriginalangerprojectsuncoconutmazecruisewolffriendshrimpasthma
+bip_39_word_no_space_2: controloriginal
+bip_39_word_no_space_3: controloriginalanger
+bip_39_word_space_12: control original anger project sun coconut maze cruise wolf
+  friend shrimp asthma
+bip_39_word_space_2: control original
+bip_39_word_space_3: control original anger
+bip_39_word_underscore_12: control_original_anger_project_sun_coconut_maze_cruise_wolf_friend_shrimp_asthma
+bip_39_word_underscore_2: control_original
+bip_39_word_underscore_3: control_original_anger
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_video_game_console
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_video_game_console_super_nintendo_entertainment_system
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_tote
 id: category_video_game_console_super_nintendo_entertainment_system_tote
 id_no_class: video_game_console_super_nintendo_entertainment_system_tote
+id_no_color: tote
 id_no_size: tote
 id_no_type: super_nintendo_entertainment_system_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_tote
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208stw7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208stw7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208stw7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208stw7
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_video_game_console_super_nintendo_entertainment_system_tote](none)<br>[](none)<br>[Category
-    Video Game Console Super Nintendo Entertainment System Tote](none)<br><br>'
+  Video Game Console Super Nintendo Entertainment System Tote](none)<br><br>'
 markdown_short: '[category_video_game_console_super_nintendo_entertainment_system_tote](none)<br><br>'
 md5: e18e573fe634b130b3ecaac01167297b
 md5_10: e18e573fe6
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 8STW7
 md5_6_upper: E18E57
 name: Category Video Game Console Super Nintendo Entertainment System Tote
 name_no_class: Video Game Console Super Nintendo Entertainment System Tote
+name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Super Nintendo Entertainment System Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: video_game_console
+oomlout_detail_hierarchy_2_upper: VIDEO_GAME_CONSOLE
+oomlout_detail_hierarchy_2_upper_length_4: VIDE
+oomlout_detail_hierarchy_3: super_nintendo_entertainment_system
+oomlout_detail_hierarchy_3_upper: SUPER_NINTENDO_ENTERTAINMENT_SYSTEM
+oomlout_detail_hierarchy_3_upper_length_4: SUPE
+oomlout_detail_hierarchy_4: tote
+oomlout_detail_hierarchy_4_upper: TOTE
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_video_game_console_super_nintendo_entertainment_system_tote
 oomp_word: boat clipboard rat
 oomp_word_emoji: ':boat: :clipboard: :rat:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryvideogameconsole
@@ -81,11 +210,61 @@ size: super_nintendo_entertainment_system
 size_capital: Super Nintendo Entertainment System
 size_first_letter: s
 size_first_letter_upper: S
+size_length_1: s
+size_length_2: su
+size_length_3: sup
+size_length_4: supe
+size_length_5: super
+size_length_6: super_
+size_name: Super Nintendo Entertainment System
+size_no_space_length_1: s
+size_no_space_length_2: su
+size_no_space_length_3: sup
+size_no_space_length_4: supe
+size_no_space_length_5: super
+size_no_space_length_6: supern
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SU
+size_no_space_upper_length_3: SUP
+size_no_space_upper_length_4: SUPE
+size_no_space_upper_length_5: SUPER
+size_no_space_upper_length_6: SUPERN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SUPER_NINTENDO_ENTERTAINMENT_SYSTEM
+size_upper_length_1: S
+size_upper_length_2: SU
+size_upper_length_3: SUP
+size_upper_length_4: SUPE
+size_upper_length_5: SUPER
+size_upper_length_6: SUPER_
 type: video_game_console
 type_capital: Video Game Console
 type_first_letter: v
 type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vid
+type_length_4: vide
+type_length_5: video
+type_length_6: video_
+type_name: Video Game Console
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vid
+type_no_space_length_4: vide
+type_no_space_length_5: video
+type_no_space_length_6: videog
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VID
+type_no_space_upper_length_4: VIDE
+type_no_space_upper_length_5: VIDEO
+type_no_space_upper_length_6: VIDEOG
 type_upper: VIDEO_GAME_CONSOLE
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VID
+type_upper_length_4: VIDE
+type_upper_length_5: VIDEO
+type_upper_length_6: VIDEO_

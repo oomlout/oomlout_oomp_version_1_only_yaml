@@ -1,0 +1,361 @@
+bip_39_word_dash_12: monkey-gather-rent-crater-inner-wash-crowd-ordinary-degree-evil-sponsor-acoustic
+bip_39_word_dash_2: monkey-gather
+bip_39_word_dash_3: monkey-gather-rent
+bip_39_word_new_br_12: monkey<br>gather<br>rent<br>crater<br>inner<br>wash<br>crowd<br>ordinary<br>degree<br>evil<br>sponsor<br>acoustic
+bip_39_word_new_br_2: monkey<br>gather
+bip_39_word_new_br_3: monkey<br>gather<br>rent
+bip_39_word_new_line_12: 'monkey
+
+  gather
+
+  rent
+
+  crater
+
+  inner
+
+  wash
+
+  crowd
+
+  ordinary
+
+  degree
+
+  evil
+
+  sponsor
+
+  acoustic'
+bip_39_word_new_line_2: 'monkey
+
+  gather'
+bip_39_word_new_line_3: 'monkey
+
+  gather
+
+  rent'
+bip_39_word_no_space_12: monkeygatherrentcraterinnerwashcrowdordinarydegreeevilsponsoracoustic
+bip_39_word_no_space_2: monkeygather
+bip_39_word_no_space_3: monkeygatherrent
+bip_39_word_space_12: monkey gather rent crater inner wash crowd ordinary degree evil
+  sponsor acoustic
+bip_39_word_space_2: monkey gather
+bip_39_word_space_3: monkey gather rent
+bip_39_word_underscore_12: monkey_gather_rent_crater_inner_wash_crowd_ordinary_degree_evil_sponsor_acoustic
+bip_39_word_underscore_2: monkey_gather
+bip_39_word_underscore_3: monkey_gather_rent
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: co
+classification_length_3: com
+classification_length_4: comp
+classification_length_5: compu
+classification_length_6: comput
+classification_name: Computer
+classification_no_space_length_1: c
+classification_no_space_length_2: co
+classification_no_space_length_3: com
+classification_no_space_length_4: comp
+classification_no_space_length_5: compu
+classification_no_space_length_6: comput
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CO
+classification_no_space_upper_length_3: COM
+classification_no_space_upper_length_4: COMP
+classification_no_space_upper_length_5: COMPU
+classification_no_space_upper_length_6: COMPUT
+classification_upper: COMPUTER
+classification_upper_length_1: C
+classification_upper_length_2: CO
+classification_upper_length_3: COM
+classification_upper_length_4: COMP
+classification_upper_length_5: COMPU
+classification_upper_length_6: COMPUT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: 950_mm_width_120_mm_height_103_mm_depth
+description_extra_capital: 950 mm Width 120 mm Height 103 mm Depth
+description_extra_first_letter: '9'
+description_extra_first_letter_upper: '9'
+description_extra_length_1: '9'
+description_extra_length_2: '95'
+description_extra_length_3: '950'
+description_extra_length_4: '950_'
+description_extra_length_5: 950_m
+description_extra_length_6: 950_mm
+description_extra_name: 950 mm Width 120 mm Height 103 mm Depth
+description_extra_no_space_length_1: '9'
+description_extra_no_space_length_2: '95'
+description_extra_no_space_length_3: '950'
+description_extra_no_space_length_4: 950m
+description_extra_no_space_length_5: 950mm
+description_extra_no_space_length_6: 950mmw
+description_extra_no_space_upper_length_1: '9'
+description_extra_no_space_upper_length_2: '95'
+description_extra_no_space_upper_length_3: '950'
+description_extra_no_space_upper_length_4: 950M
+description_extra_no_space_upper_length_5: 950MM
+description_extra_no_space_upper_length_6: 950MMW
+description_extra_upper: 950_MM_WIDTH_120_MM_HEIGHT_103_MM_DEPTH
+description_extra_upper_length_1: '9'
+description_extra_upper_length_2: '95'
+description_extra_upper_length_3: '950'
+description_extra_upper_length_4: '950_'
+description_extra_upper_length_5: 950_M
+description_extra_upper_length_6: 950_MM
+description_main: quad_camera
+description_main_capital: Quad Camera
+description_main_first_letter: q
+description_main_first_letter_upper: Q
+description_main_length_1: q
+description_main_length_2: qu
+description_main_length_3: qua
+description_main_length_4: quad
+description_main_length_5: quad_
+description_main_length_6: quad_c
+description_main_name: Quad Camera
+description_main_no_space_length_1: q
+description_main_no_space_length_2: qu
+description_main_no_space_length_3: qua
+description_main_no_space_length_4: quad
+description_main_no_space_length_5: quadc
+description_main_no_space_length_6: quadca
+description_main_no_space_upper_length_1: Q
+description_main_no_space_upper_length_2: QU
+description_main_no_space_upper_length_3: QUA
+description_main_no_space_upper_length_4: QUAD
+description_main_no_space_upper_length_5: QUADC
+description_main_no_space_upper_length_6: QUADCA
+description_main_upper: QUAD_CAMERA
+description_main_upper_length_1: Q
+description_main_upper_length_2: QU
+description_main_upper_length_3: QUA
+description_main_upper_length_4: QUAD
+description_main_upper_length_5: QUAD_
+description_main_upper_length_6: QUAD_C
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id: computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id_no_class: video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id_no_color: quadcamera950mmwidth120mmheight103mmdepthciscottc810
+id_no_size: quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id_no_type: camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_2_name: link_github
+link_distributor_cisco: https://www.webex.com/us/en/devices/cameras/cisco-quad-camera.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201b9ar
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201b9ar
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201b9ar
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201b9ar
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_length_1: c
+manufacturer_length_2: ci
+manufacturer_length_3: cis
+manufacturer_length_4: cisc
+manufacturer_length_5: cisco
+manufacturer_length_6: cisco
+manufacturer_name: Cisco
+manufacturer_no_space_length_1: c
+manufacturer_no_space_length_2: ci
+manufacturer_no_space_length_3: cis
+manufacturer_no_space_length_4: cisc
+manufacturer_no_space_length_5: cisco
+manufacturer_no_space_length_6: cisco
+manufacturer_no_space_upper_length_1: C
+manufacturer_no_space_upper_length_2: CI
+manufacturer_no_space_upper_length_3: CIS
+manufacturer_no_space_upper_length_4: CISC
+manufacturer_no_space_upper_length_5: CISCO
+manufacturer_no_space_upper_length_6: CISCO
+manufacturer_upper: CISCO
+manufacturer_upper_length_1: C
+manufacturer_upper_length_2: CI
+manufacturer_upper_length_3: CIS
+manufacturer_upper_length_4: CISC
+manufacturer_upper_length_5: CISCO
+manufacturer_upper_length_6: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10](none)<br>[](none)<br>[Computer
+  Video Conferencing Camera And Speaker Quad Camera 950 Mm Width 120 Mm Height 103
+  Mm Depth Cisco Ttc8 10](none)<br><br>'
+markdown_short: '[computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10](none)<br><br>'
+md5: 21a4d379ce9c468bddba33296c981c79
+md5_10: 21a4d379ce
+md5_10_upper: 21A4D379CE
+md5_5: 21a4d
+md5_5_upper: 21A4D
+md5_6: 21a4d3
+md5_6_alpha: 1b9ar
+md5_6_alpha_upper: 1B9AR
+md5_6_upper: 21A4D3
+name: Computer Video Conferencing Camera And Speaker Quad Camera 950 mm Width 120
+  mm Height 103 mm Depth Cisco Ttc8 10
+name_no_class: Video Conferencing Camera And Speaker Quad Camera 950 mm Width 120
+  mm Height 103 mm Depth Cisco Ttc8 10
+name_no_color: Quadcamera950mmwidth120mmheight103mmdepthciscottc810
+name_no_size: Quad Camera 950 mm Width 120 mm Height 103 mm Depth Cisco Ttc8 10
+name_no_size_short: Quad Camera 950 Mm Width 120 Mm Height 103 Mm Depth Cisco Ttc8
+  10
+name_no_type: Camera And Speaker Quad Camera 950 mm Width 120 mm Height 103 mm Depth
+  Cisco Ttc8 10
+oomlout_detail_hierarchy_1: computer
+oomlout_detail_hierarchy_1_upper: COMPUTER
+oomlout_detail_hierarchy_1_upper_length_4: COMP
+oomlout_detail_hierarchy_2: video_conferencing
+oomlout_detail_hierarchy_2_upper: VIDEO_CONFERENCING
+oomlout_detail_hierarchy_2_upper_length_4: VIDE
+oomlout_detail_hierarchy_3: camera_and_speaker
+oomlout_detail_hierarchy_3_upper: CAMERA_AND_SPEAKER
+oomlout_detail_hierarchy_3_upper_length_4: CAME
+oomlout_detail_hierarchy_4: quad_camera
+oomlout_detail_hierarchy_4_upper: QUAD_CAMERA
+oomlout_detail_hierarchy_4_upper_length_4: QUAD
+oomlout_detail_hierarchy_5: 950_mm_width
+oomlout_detail_hierarchy_5_upper: 950_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 950W
+oomlout_detail_hierarchy_6: 120_mm_height
+oomlout_detail_hierarchy_6_upper: 120_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 120H
+oomlout_detail_hierarchy_7: 103_mm_depth
+oomlout_detail_hierarchy_7_upper: 103_MM_DEPTH
+oomlout_detail_hierarchy_7_upper_length_4: 103D
+oomlout_detail_hierarchy_8: cisco
+oomlout_detail_hierarchy_8_upper: CISCO
+oomlout_detail_hierarchy_8_upper_length_4: CISC
+oomlout_detail_hierarchy_9: ttc8_10
+oomlout_detail_hierarchy_9_upper: TTC8_10
+oomlout_detail_hierarchy_9_upper_length_4: TTC8
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+oomp_word: feet book tomato
+oomp_word_emoji: ':feet: :book: :tomato:'
+oomp_word_emoji_list:
+- ':feet:'
+- ':book:'
+- ':tomato:'
+oomp_word_list:
+- feet
+- book
+- tomato
+part_number: ttc8_10
+part_number_capital: Ttc8.10
+part_number_exact: TTC8-10
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_length_1: t
+part_number_length_2: tt
+part_number_length_3: ttc
+part_number_length_4: ttc8
+part_number_length_5: ttc8_
+part_number_length_6: ttc8_1
+part_number_name: Ttc8 10
+part_number_no_space_length_1: t
+part_number_no_space_length_2: tt
+part_number_no_space_length_3: ttc
+part_number_no_space_length_4: ttc8
+part_number_no_space_length_5: ttc81
+part_number_no_space_length_6: ttc810
+part_number_no_space_upper_length_1: T
+part_number_no_space_upper_length_2: TT
+part_number_no_space_upper_length_3: TTC
+part_number_no_space_upper_length_4: TTC8
+part_number_no_space_upper_length_5: TTC81
+part_number_no_space_upper_length_6: TTC810
+part_number_upper: TTC8_10
+part_number_upper_length_1: T
+part_number_upper_length_2: TT
+part_number_upper_length_3: TTC
+part_number_upper_length_4: TTC8
+part_number_upper_length_5: TTC8_
+part_number_upper_length_6: TTC8_1
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: camera_and_speaker
+size_capital: Camera And Speaker
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: ca
+size_length_3: cam
+size_length_4: came
+size_length_5: camer
+size_length_6: camera
+size_name: Camera And Speaker
+size_no_space_length_1: c
+size_no_space_length_2: ca
+size_no_space_length_3: cam
+size_no_space_length_4: came
+size_no_space_length_5: camer
+size_no_space_length_6: camera
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CA
+size_no_space_upper_length_3: CAM
+size_no_space_upper_length_4: CAME
+size_no_space_upper_length_5: CAMER
+size_no_space_upper_length_6: CAMERA
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAMERA_AND_SPEAKER
+size_upper_length_1: C
+size_upper_length_2: CA
+size_upper_length_3: CAM
+size_upper_length_4: CAME
+size_upper_length_5: CAMER
+size_upper_length_6: CAMERA
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_length_1: v
+type_length_2: vi
+type_length_3: vid
+type_length_4: vide
+type_length_5: video
+type_length_6: video_
+type_name: Video Conferencing
+type_no_space_length_1: v
+type_no_space_length_2: vi
+type_no_space_length_3: vid
+type_no_space_length_4: vide
+type_no_space_length_5: video
+type_no_space_length_6: videoc
+type_no_space_upper_length_1: V
+type_no_space_upper_length_2: VI
+type_no_space_upper_length_3: VID
+type_no_space_upper_length_4: VIDE
+type_no_space_upper_length_5: VIDEO
+type_no_space_upper_length_6: VIDEOC
+type_upper: VIDEO_CONFERENCING
+type_upper_length_1: V
+type_upper_length_2: VI
+type_upper_length_3: VID
+type_upper_length_4: VIDE
+type_upper_length_5: VIDEO
+type_upper_length_6: VIDEO_

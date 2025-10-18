@@ -1,23 +1,98 @@
+bip_39_word_dash_12: immune-panel-midnight-pyramid-yard-elite-miss-decade-father-sausage-remove-apple
+bip_39_word_dash_2: immune-panel
+bip_39_word_dash_3: immune-panel-midnight
+bip_39_word_new_br_12: immune<br>panel<br>midnight<br>pyramid<br>yard<br>elite<br>miss<br>decade<br>father<br>sausage<br>remove<br>apple
+bip_39_word_new_br_2: immune<br>panel
+bip_39_word_new_br_3: immune<br>panel<br>midnight
+bip_39_word_new_line_12: 'immune
+
+  panel
+
+  midnight
+
+  pyramid
+
+  yard
+
+  elite
+
+  miss
+
+  decade
+
+  father
+
+  sausage
+
+  remove
+
+  apple'
+bip_39_word_new_line_2: 'immune
+
+  panel'
+bip_39_word_new_line_3: 'immune
+
+  panel
+
+  midnight'
+bip_39_word_no_space_12: immunepanelmidnightpyramidyardelitemissdecadefathersausageremoveapple
+bip_39_word_no_space_2: immunepanel
+bip_39_word_no_space_3: immunepanelmidnight
+bip_39_word_space_12: immune panel midnight pyramid yard elite miss decade father
+  sausage remove apple
+bip_39_word_space_2: immune panel
+bip_39_word_space_3: immune panel midnight
+bip_39_word_underscore_12: immune_panel_midnight_pyramid_yard_elite_miss_decade_father_sausage_remove_apple
+bip_39_word_underscore_2: immune_panel
+bip_39_word_underscore_3: immune_panel_midnight
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +102,32 @@ directory: parts/category_electronic_dc_to_dc_converter
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_dc_to_dc_converter
 id: category_electronic_dc_to_dc_converter
 id_no_class: electronic_dc_to_dc_converter
+id_no_color: dctodcconverter
 id_no_size: dc_to_dc_converter
 id_no_type: dc_to_dc_converter
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206osfj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206osfj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206osfj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206osfj
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_dc_to_dc_converter](none)<br>[](none)<br>[Category
-    Electronic Dc To Dc Converter](none)<br><br>'
+  Electronic Dc To Dc Converter](none)<br><br>'
 markdown_short: '[category_electronic_dc_to_dc_converter](none)<br><br>'
 md5: ab6befea9d3891b9207f6af118e7e38d
 md5_10: ab6befea9d
@@ -54,9 +140,20 @@ md5_6_alpha_upper: 6OSFJ
 md5_6_upper: AB6BEF
 name: Category Electronic Dc To Dc Converter
 name_no_class: Electronic Dc To Dc Converter
+name_no_color: Dctodcconverter
 name_no_size: Dc To Dc Converter
 name_no_size_short: Dc To Dc Converter
 name_no_type: Dc To Dc Converter
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: dc_to_dc_converter
+oomlout_detail_hierarchy_3_upper: DC_TO_DC_CONVERTER
+oomlout_detail_hierarchy_3_upper_length_4: DC_T
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_dc_to_dc_converter
 oomp_word: boot chestnut truck
 oomp_word_emoji: ':boot: :chestnut: :truck:'
@@ -73,7 +170,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -81,11 +183,61 @@ size: dc_to_dc_converter
 size_capital: Dc To Dc Converter
 size_first_letter: d
 size_first_letter_upper: D
+size_length_1: d
+size_length_2: dc
+size_length_3: dc_
+size_length_4: dc_t
+size_length_5: dc_to
+size_length_6: dc_to_
+size_name: Dc To Dc Converter
+size_no_space_length_1: d
+size_no_space_length_2: dc
+size_no_space_length_3: dct
+size_no_space_length_4: dcto
+size_no_space_length_5: dctod
+size_no_space_length_6: dctodc
+size_no_space_upper_length_1: D
+size_no_space_upper_length_2: DC
+size_no_space_upper_length_3: DCT
+size_no_space_upper_length_4: DCTO
+size_no_space_upper_length_5: DCTOD
+size_no_space_upper_length_6: DCTODC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: DC_TO_DC_CONVERTER
+size_upper_length_1: D
+size_upper_length_2: DC
+size_upper_length_3: DC_
+size_upper_length_4: DC_T
+size_upper_length_5: DC_TO
+size_upper_length_6: DC_TO_
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

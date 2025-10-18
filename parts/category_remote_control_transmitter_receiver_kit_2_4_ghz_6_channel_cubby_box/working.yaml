@@ -1,23 +1,146 @@
+bip_39_word_dash_12: embrace-ring-toss-boil-alley-worth-cram-belt-hollow-attend-inmate-apple
+bip_39_word_dash_2: embrace-ring
+bip_39_word_dash_3: embrace-ring-toss
+bip_39_word_new_br_12: embrace<br>ring<br>toss<br>boil<br>alley<br>worth<br>cram<br>belt<br>hollow<br>attend<br>inmate<br>apple
+bip_39_word_new_br_2: embrace<br>ring
+bip_39_word_new_br_3: embrace<br>ring<br>toss
+bip_39_word_new_line_12: 'embrace
+
+  ring
+
+  toss
+
+  boil
+
+  alley
+
+  worth
+
+  cram
+
+  belt
+
+  hollow
+
+  attend
+
+  inmate
+
+  apple'
+bip_39_word_new_line_2: 'embrace
+
+  ring'
+bip_39_word_new_line_3: 'embrace
+
+  ring
+
+  toss'
+bip_39_word_no_space_12: embraceringtossboilalleyworthcrambelthollowattendinmateapple
+bip_39_word_no_space_2: embracering
+bip_39_word_no_space_3: embraceringtoss
+bip_39_word_space_12: embrace ring toss boil alley worth cram belt hollow attend inmate
+  apple
+bip_39_word_space_2: embrace ring
+bip_39_word_space_3: embrace ring toss
+bip_39_word_underscore_12: embrace_ring_toss_boil_alley_worth_cram_belt_hollow_attend_inmate_apple
+bip_39_word_underscore_2: embrace_ring
+bip_39_word_underscore_3: embrace_ring_toss
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: 2_4_ghz_6_channel
 color_capital: 2.4 Ghz 6 Channel
 color_first_letter: '2'
 color_first_letter_upper: '2'
+color_length_1: '2'
+color_length_2: '2_'
+color_length_3: '2_4'
+color_length_4: '2_4_'
+color_length_5: 2_4_g
+color_length_6: 2_4_gh
+color_name: 2 4 Ghz 6 Channel
+color_no_space_length_1: '2'
+color_no_space_length_2: '24'
+color_no_space_length_3: 24g
+color_no_space_length_4: 24gh
+color_no_space_length_5: 24ghz
+color_no_space_length_6: 24ghz6
+color_no_space_upper_length_1: '2'
+color_no_space_upper_length_2: '24'
+color_no_space_upper_length_3: 24G
+color_no_space_upper_length_4: 24GH
+color_no_space_upper_length_5: 24GHZ
+color_no_space_upper_length_6: 24GHZ6
 color_upper: 2_4_GHZ_6_CHANNEL
+color_upper_length_1: '2'
+color_upper_length_2: '2_'
+color_upper_length_3: '2_4'
+color_upper_length_4: '2_4_'
+color_upper_length_5: 2_4_G
+color_upper_length_6: 2_4_GH
 description: category_remote_control
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cu
+description_extra_length_3: cub
+description_extra_length_4: cubb
+description_extra_length_5: cubby
+description_extra_length_6: cubby_
+description_extra_name: Cubby Box
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cu
+description_extra_no_space_length_3: cub
+description_extra_no_space_length_4: cubb
+description_extra_no_space_length_5: cubby
+description_extra_no_space_length_6: cubbyb
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CU
+description_extra_no_space_upper_length_3: CUB
+description_extra_no_space_upper_length_4: CUBB
+description_extra_no_space_upper_length_5: CUBBY
+description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CU
+description_extra_upper_length_3: CUB
+description_extra_upper_length_4: CUBB
+description_extra_upper_length_5: CUBBY
+description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +150,32 @@ directory: parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_chan
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
 id: category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
 id_no_class: remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
+id_no_color: cubby_box
 id_no_size: 2_4_ghz_6_channel_cubby_box
 id_no_type: transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206o2gz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206o2gz
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206o2gz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206o2gz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box](none)<br>[](none)<br>[Category
-    Remote Control Transmitter Receiver Kit 2 4 Ghz 6 Channel Cubby Box](none)<br><br>'
+  Remote Control Transmitter Receiver Kit 2 4 Ghz 6 Channel Cubby Box](none)<br><br>'
 markdown_short: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box](none)<br><br>'
 md5: aae883a36714e647f7834191cb6e8244
 md5_10: aae883a367
@@ -54,9 +188,26 @@ md5_6_alpha_upper: 6O2GZ
 md5_6_upper: AAE883
 name: Category Remote Control Transmitter Receiver Kit 2 4 Ghz 6 Channel Cubby Box
 name_no_class: Remote Control Transmitter Receiver Kit 2 4 Ghz 6 Channel Cubby Box
+name_no_color: Cubby Box
 name_no_size: 2 4 Ghz 6 Channel Cubby Box
 name_no_size_short: 2 4 Ghz 6 Channel Cubby Box
 name_no_type: Transmitter Receiver Kit 2 4 Ghz 6 Channel Cubby Box
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: remote_control
+oomlout_detail_hierarchy_2_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_2_upper_length_4: REMO
+oomlout_detail_hierarchy_3: transmitter_receiver_kit
+oomlout_detail_hierarchy_3_upper: TRANSMITTER_RECEIVER_KIT
+oomlout_detail_hierarchy_3_upper_length_4: TRAN
+oomlout_detail_hierarchy_4: 2_4_ghz_6_channel
+oomlout_detail_hierarchy_4_upper: 2_4_GHZ_6_CHANNEL
+oomlout_detail_hierarchy_4_upper_length_4: '2_4_'
+oomlout_detail_hierarchy_5: cubby_box
+oomlout_detail_hierarchy_5_upper: CUBBY_BOX
+oomlout_detail_hierarchy_5_upper_length_4: CUBB
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_cubby_box
 oomp_word: lipstick tram lock
 oomp_word_emoji: ':lipstick: :tram: :lock:'
@@ -73,7 +224,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryremotecontrol
@@ -81,11 +237,61 @@ size: transmitter_receiver_kit
 size_capital: Transmitter Receiver Kit
 size_first_letter: t
 size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tra
+size_length_4: tran
+size_length_5: trans
+size_length_6: transm
+size_name: Transmitter Receiver Kit
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tra
+size_no_space_length_4: tran
+size_no_space_length_5: trans
+size_no_space_length_6: transm
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRA
+size_no_space_upper_length_4: TRAN
+size_no_space_upper_length_5: TRANS
+size_no_space_upper_length_6: TRANSM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TRANSMITTER_RECEIVER_KIT
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRA
+size_upper_length_4: TRAN
+size_upper_length_5: TRANS
+size_upper_length_6: TRANSM
 type: remote_control
 type_capital: Remote Control
 type_first_letter: r
 type_first_letter_upper: R
+type_length_1: r
+type_length_2: re
+type_length_3: rem
+type_length_4: remo
+type_length_5: remot
+type_length_6: remote
+type_name: Remote Control
+type_no_space_length_1: r
+type_no_space_length_2: re
+type_no_space_length_3: rem
+type_no_space_length_4: remo
+type_no_space_length_5: remot
+type_no_space_length_6: remote
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RE
+type_no_space_upper_length_3: REM
+type_no_space_upper_length_4: REMO
+type_no_space_upper_length_5: REMOT
+type_no_space_upper_length_6: REMOTE
 type_upper: REMOTE_CONTROL
+type_upper_length_1: R
+type_upper_length_2: RE
+type_upper_length_3: REM
+type_upper_length_4: REMO
+type_upper_length_5: REMOT
+type_upper_length_6: REMOTE

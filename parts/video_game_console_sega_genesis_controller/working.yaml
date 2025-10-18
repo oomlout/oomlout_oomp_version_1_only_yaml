@@ -1,0 +1,238 @@
+bip_39_word_dash_12: slender-differ-industry-staff-maple-dress-skate-scene-law-artefact-bone-access
+bip_39_word_dash_2: slender-differ
+bip_39_word_dash_3: slender-differ-industry
+bip_39_word_new_br_12: slender<br>differ<br>industry<br>staff<br>maple<br>dress<br>skate<br>scene<br>law<br>artefact<br>bone<br>access
+bip_39_word_new_br_2: slender<br>differ
+bip_39_word_new_br_3: slender<br>differ<br>industry
+bip_39_word_new_line_12: 'slender
+
+  differ
+
+  industry
+
+  staff
+
+  maple
+
+  dress
+
+  skate
+
+  scene
+
+  law
+
+  artefact
+
+  bone
+
+  access'
+bip_39_word_new_line_2: 'slender
+
+  differ'
+bip_39_word_new_line_3: 'slender
+
+  differ
+
+  industry'
+bip_39_word_no_space_12: slenderdifferindustrystaffmapledressskatescenelawartefactboneaccess
+bip_39_word_no_space_2: slenderdiffer
+bip_39_word_no_space_3: slenderdifferindustry
+bip_39_word_space_12: slender differ industry staff maple dress skate scene law artefact
+  bone access
+bip_39_word_space_2: slender differ
+bip_39_word_space_3: slender differ industry
+bip_39_word_underscore_12: slender_differ_industry_staff_maple_dress_skate_scene_law_artefact_bone_access
+bip_39_word_underscore_2: slender_differ
+bip_39_word_underscore_3: slender_differ_industry
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vid
+classification_length_4: vide
+classification_length_5: video
+classification_length_6: video_
+classification_name: Video Game Console
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vid
+classification_no_space_length_4: vide
+classification_no_space_length_5: video
+classification_no_space_length_6: videog
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VID
+classification_no_space_upper_length_4: VIDE
+classification_no_space_upper_length_5: VIDEO
+classification_no_space_upper_length_6: VIDEOG
+classification_upper: VIDEO_GAME_CONSOLE
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VID
+classification_upper_length_4: VIDE
+classification_upper_length_5: VIDEO
+classification_upper_length_6: VIDEO_
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: co
+description_main_length_3: con
+description_main_length_4: cont
+description_main_length_5: contr
+description_main_length_6: contro
+description_main_name: Controller
+description_main_no_space_length_1: c
+description_main_no_space_length_2: co
+description_main_no_space_length_3: con
+description_main_no_space_length_4: cont
+description_main_no_space_length_5: contr
+description_main_no_space_length_6: contro
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CO
+description_main_no_space_upper_length_3: CON
+description_main_no_space_upper_length_4: CONT
+description_main_no_space_upper_length_5: CONTR
+description_main_no_space_upper_length_6: CONTRO
+description_main_upper: CONTROLLER
+description_main_upper_length_1: C
+description_main_upper_length_2: CO
+description_main_upper_length_3: CON
+description_main_upper_length_4: CONT
+description_main_upper_length_5: CONTR
+description_main_upper_length_6: CONTRO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_sega_genesis_controller
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_sega_genesis_controller
+id: video_game_console_sega_genesis_controller
+id_no_class: sega_genesis_controller
+id_no_color: controller
+id_no_size: controller
+id_no_type: controller
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_sega_genesis_controller
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_sega_genesis_controller
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_sega_genesis_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_sega_genesis_controller
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20sdc3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20sdc3
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20sdc3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20sdc3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_sega_genesis_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_sega_genesis_controller](none)<br>[](none)<br>[Video
+  Game Console Sega Genesis Controller](none)<br><br>'
+markdown_short: '[video_game_console_sega_genesis_controller](none)<br><br>'
+md5: 1432833befc099410ac3cd40e64f765a
+md5_10: 1432833bef
+md5_10_upper: 1432833BEF
+md5_5: '14328'
+md5_5_upper: '14328'
+md5_6: '143283'
+md5_6_alpha: sdc3
+md5_6_alpha_upper: SDC3
+md5_6_upper: '143283'
+name: Video Game Console Sega Genesis Controller
+name_no_class: Sega Genesis Controller
+name_no_color: Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Controller
+oomlout_detail_hierarchy_1: video_game_console
+oomlout_detail_hierarchy_1_upper: VIDEO_GAME_CONSOLE
+oomlout_detail_hierarchy_1_upper_length_4: VIDE
+oomlout_detail_hierarchy_2: sega_genesis
+oomlout_detail_hierarchy_2_upper: SEGA_GENESIS
+oomlout_detail_hierarchy_2_upper_length_4: SEGA
+oomlout_detail_hierarchy_3: controller
+oomlout_detail_hierarchy_3_upper: CONTROLLER
+oomlout_detail_hierarchy_3_upper_length_4: CONT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_video_game_console_sega_genesis_controller
+oomp_word: fire cat lock
+oomp_word_emoji: ':fire: :cat: :lock:'
+oomp_word_emoji_list:
+- ':fire:'
+- ':cat:'
+- ':lock:'
+oomp_word_list:
+- fire
+- cat
+- lock
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sega_genesis
+type_capital: Sega Genesis
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: seg
+type_length_4: sega
+type_length_5: sega_
+type_length_6: sega_g
+type_name: Sega Genesis
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: seg
+type_no_space_length_4: sega
+type_no_space_length_5: segag
+type_no_space_length_6: segage
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEG
+type_no_space_upper_length_4: SEGA
+type_no_space_upper_length_5: SEGAG
+type_no_space_upper_length_6: SEGAGE
+type_upper: SEGA_GENESIS
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEG
+type_upper_length_4: SEGA
+type_upper_length_5: SEGA_
+type_upper_length_6: SEGA_G

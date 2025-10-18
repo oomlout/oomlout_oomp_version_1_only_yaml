@@ -1,23 +1,98 @@
+bip_39_word_dash_12: grape-work-broom-slogan-echo-stereo-there-police-rabbit-mesh-tip-assault
+bip_39_word_dash_2: grape-work
+bip_39_word_dash_3: grape-work-broom
+bip_39_word_new_br_12: grape<br>work<br>broom<br>slogan<br>echo<br>stereo<br>there<br>police<br>rabbit<br>mesh<br>tip<br>assault
+bip_39_word_new_br_2: grape<br>work
+bip_39_word_new_br_3: grape<br>work<br>broom
+bip_39_word_new_line_12: 'grape
+
+  work
+
+  broom
+
+  slogan
+
+  echo
+
+  stereo
+
+  there
+
+  police
+
+  rabbit
+
+  mesh
+
+  tip
+
+  assault'
+bip_39_word_new_line_2: 'grape
+
+  work'
+bip_39_word_new_line_3: 'grape
+
+  work
+
+  broom'
+bip_39_word_no_space_12: grapeworkbroomsloganechostereotherepolicerabbitmeshtipassault
+bip_39_word_no_space_2: grapework
+bip_39_word_no_space_3: grapeworkbroom
+bip_39_word_space_12: grape work broom slogan echo stereo there police rabbit mesh
+  tip assault
+bip_39_word_space_2: grape work
+bip_39_word_space_3: grape work broom
+bip_39_word_underscore_12: grape_work_broom_slogan_echo_stereo_there_police_rabbit_mesh_tip_assault
+bip_39_word_underscore_2: grape_work
+bip_39_word_underscore_3: grape_work_broom
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
+color_name: ''
 color_upper: ''
 description: category_industrial
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,17 +102,28 @@ directory: parts/category_industrial
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_industrial
 id: category_industrial
 id_no_class: industrial
+id_no_color: industrial
 id_no_size: industrial
 id_no_type: industrial
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208hw6a
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208hw6a
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208hw6a
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208hw6a
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_industrial](none)<br>[](none)<br>[Category Industrial](none)<br><br>'
@@ -53,9 +139,17 @@ md5_6_alpha_upper: 8HW6A
 md5_6_upper: D9C522
 name: Category Industrial
 name_no_class: Industrial
+name_no_color: Industrial
 name_no_size: Industrial
 name_no_size_short: Industrial
 name_no_type: Industrial
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: industrial
+oomlout_detail_hierarchy_2_upper: INDUSTRIAL
+oomlout_detail_hierarchy_2_upper_length_4: INDU
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_industrial
 oomp_word: bank candy lips
 oomp_word_emoji: ':bank: :candy: :lips:'
@@ -72,7 +166,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryindustrial
@@ -80,6 +179,7 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
+size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -87,4 +187,29 @@ type: industrial
 type_capital: Industrial
 type_first_letter: i
 type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ind
+type_length_4: indu
+type_length_5: indus
+type_length_6: indust
+type_name: Industrial
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ind
+type_no_space_length_4: indu
+type_no_space_length_5: indus
+type_no_space_length_6: indust
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: IND
+type_no_space_upper_length_4: INDU
+type_no_space_upper_length_5: INDUS
+type_no_space_upper_length_6: INDUST
 type_upper: INDUSTRIAL
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: IND
+type_upper_length_4: INDU
+type_upper_length_5: INDUS
+type_upper_length_6: INDUST

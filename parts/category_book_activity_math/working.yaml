@@ -1,23 +1,122 @@
+bip_39_word_dash_12: october-scout-shift-original-flock-unusual-debris-time-mimic-sibling-west-armed
+bip_39_word_dash_2: october-scout
+bip_39_word_dash_3: october-scout-shift
+bip_39_word_new_br_12: october<br>scout<br>shift<br>original<br>flock<br>unusual<br>debris<br>time<br>mimic<br>sibling<br>west<br>armed
+bip_39_word_new_br_2: october<br>scout
+bip_39_word_new_br_3: october<br>scout<br>shift
+bip_39_word_new_line_12: 'october
+
+  scout
+
+  shift
+
+  original
+
+  flock
+
+  unusual
+
+  debris
+
+  time
+
+  mimic
+
+  sibling
+
+  west
+
+  armed'
+bip_39_word_new_line_2: 'october
+
+  scout'
+bip_39_word_new_line_3: 'october
+
+  scout
+
+  shift'
+bip_39_word_no_space_12: octoberscoutshiftoriginalflockunusualdebristimemimicsiblingwestarmed
+bip_39_word_no_space_2: octoberscout
+bip_39_word_no_space_3: octoberscoutshift
+bip_39_word_space_12: october scout shift original flock unusual debris time mimic
+  sibling west armed
+bip_39_word_space_2: october scout
+bip_39_word_space_3: october scout shift
+bip_39_word_underscore_12: october_scout_shift_original_flock_unusual_debris_time_mimic_sibling_west_armed
+bip_39_word_underscore_2: october_scout
+bip_39_word_underscore_3: october_scout_shift
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
 color: math
 color_capital: Math
 color_first_letter: m
 color_first_letter_upper: M
+color_length_1: m
+color_length_2: ma
+color_length_3: mat
+color_length_4: math
+color_length_5: math
+color_length_6: math
+color_name: Math
+color_no_space_length_1: m
+color_no_space_length_2: ma
+color_no_space_length_3: mat
+color_no_space_length_4: math
+color_no_space_length_5: math
+color_no_space_length_6: math
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: MA
+color_no_space_upper_length_3: MAT
+color_no_space_upper_length_4: MATH
+color_no_space_upper_length_5: MATH
+color_no_space_upper_length_6: MATH
 color_upper: MATH
+color_upper_length_1: M
+color_upper_length_2: MA
+color_upper_length_3: MAT
+color_upper_length_4: MATH
+color_upper_length_5: MATH
+color_upper_length_6: MATH
 description: category_book
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
+description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
+description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -27,21 +126,32 @@ directory: parts/category_book_activity_math
 distributors: []
 filter: ''
 from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_book_activity_math
 id: category_book_activity_math
 id_no_class: book_activity_math
+id_no_color: math
 id_no_size: math
 id_no_type: activity_math
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
+link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207etbl
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207etbl
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207etbl
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207etbl
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
+manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_book_activity_math](none)<br>[](none)<br>[Category Book
-    Activity Math](none)<br><br>'
+  Activity Math](none)<br><br>'
 markdown_short: '[category_book_activity_math](none)<br><br>'
 md5: bdf2f1ec66e2470fb92ca9cb8bb054c8
 md5_10: bdf2f1ec66
@@ -54,9 +164,23 @@ md5_6_alpha_upper: 7ETBL
 md5_6_upper: BDF2F1
 name: Category Book Activity Math
 name_no_class: Book Activity Math
+name_no_color: Math
 name_no_size: Math
 name_no_size_short: Math
 name_no_type: Activity Math
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: book
+oomlout_detail_hierarchy_2_upper: BOOK
+oomlout_detail_hierarchy_2_upper_length_4: BOOK
+oomlout_detail_hierarchy_3: activity
+oomlout_detail_hierarchy_3_upper: ACTIVITY
+oomlout_detail_hierarchy_3_upper_length_4: ACTI
+oomlout_detail_hierarchy_4: math
+oomlout_detail_hierarchy_4_upper: MATH
+oomlout_detail_hierarchy_4_upper_length_4: MATH
+oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_book_activity_math
 oomp_word: rice one ticket
 oomp_word_emoji: ':rice: :one: :ticket:'
@@ -73,7 +197,12 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
+part_number_name: ''
 part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorybook
@@ -81,11 +210,61 @@ size: activity
 size_capital: Activity
 size_first_letter: a
 size_first_letter_upper: A
+size_length_1: a
+size_length_2: ac
+size_length_3: act
+size_length_4: acti
+size_length_5: activ
+size_length_6: activi
+size_name: Activity
+size_no_space_length_1: a
+size_no_space_length_2: ac
+size_no_space_length_3: act
+size_no_space_length_4: acti
+size_no_space_length_5: activ
+size_no_space_length_6: activi
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: AC
+size_no_space_upper_length_3: ACT
+size_no_space_upper_length_4: ACTI
+size_no_space_upper_length_5: ACTIV
+size_no_space_upper_length_6: ACTIVI
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ACTIVITY
+size_upper_length_1: A
+size_upper_length_2: AC
+size_upper_length_3: ACT
+size_upper_length_4: ACTI
+size_upper_length_5: ACTIV
+size_upper_length_6: ACTIVI
 type: book
 type_capital: Book
 type_first_letter: b
 type_first_letter_upper: B
+type_length_1: b
+type_length_2: bo
+type_length_3: boo
+type_length_4: book
+type_length_5: book
+type_length_6: book
+type_name: Book
+type_no_space_length_1: b
+type_no_space_length_2: bo
+type_no_space_length_3: boo
+type_no_space_length_4: book
+type_no_space_length_5: book
+type_no_space_length_6: book
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BO
+type_no_space_upper_length_3: BOO
+type_no_space_upper_length_4: BOOK
+type_no_space_upper_length_5: BOOK
+type_no_space_upper_length_6: BOOK
 type_upper: BOOK
+type_upper_length_1: B
+type_upper_length_2: BO
+type_upper_length_3: BOO
+type_upper_length_4: BOOK
+type_upper_length_5: BOOK
+type_upper_length_6: BOOK
