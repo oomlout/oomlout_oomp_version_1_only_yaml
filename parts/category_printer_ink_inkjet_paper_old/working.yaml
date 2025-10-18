@@ -1,146 +1,23 @@
-bip_39_word_dash_12: indoor-hope-salute-marine-forward-stand-lunar-cherry-weather-suspect-walnut-attack
-bip_39_word_dash_2: indoor-hope
-bip_39_word_dash_3: indoor-hope-salute
-bip_39_word_new_br_12: indoor<br>hope<br>salute<br>marine<br>forward<br>stand<br>lunar<br>cherry<br>weather<br>suspect<br>walnut<br>attack
-bip_39_word_new_br_2: indoor<br>hope
-bip_39_word_new_br_3: indoor<br>hope<br>salute
-bip_39_word_new_line_12: 'indoor
-
-  hope
-
-  salute
-
-  marine
-
-  forward
-
-  stand
-
-  lunar
-
-  cherry
-
-  weather
-
-  suspect
-
-  walnut
-
-  attack'
-bip_39_word_new_line_2: 'indoor
-
-  hope'
-bip_39_word_new_line_3: 'indoor
-
-  hope
-
-  salute'
-bip_39_word_no_space_12: indoorhopesalutemarineforwardstandlunarcherryweathersuspectwalnutattack
-bip_39_word_no_space_2: indoorhope
-bip_39_word_no_space_3: indoorhopesalute
-bip_39_word_space_12: indoor hope salute marine forward stand lunar cherry weather
-  suspect walnut attack
-bip_39_word_space_2: indoor hope
-bip_39_word_space_3: indoor hope salute
-bip_39_word_underscore_12: indoor_hope_salute_marine_forward_stand_lunar_cherry_weather_suspect_walnut_attack
-bip_39_word_underscore_2: indoor_hope
-bip_39_word_underscore_3: indoor_hope_salute
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: inkjet_paper
 color_capital: Inkjet Paper
 color_first_letter: i
 color_first_letter_upper: I
-color_length_1: i
-color_length_2: in
-color_length_3: ink
-color_length_4: inkj
-color_length_5: inkje
-color_length_6: inkjet
-color_name: Inkjet Paper
-color_no_space_length_1: i
-color_no_space_length_2: in
-color_no_space_length_3: ink
-color_no_space_length_4: inkj
-color_no_space_length_5: inkje
-color_no_space_length_6: inkjet
-color_no_space_upper_length_1: I
-color_no_space_upper_length_2: IN
-color_no_space_upper_length_3: INK
-color_no_space_upper_length_4: INKJ
-color_no_space_upper_length_5: INKJE
-color_no_space_upper_length_6: INKJET
 color_upper: INKJET_PAPER
-color_upper_length_1: I
-color_upper_length_2: IN
-color_upper_length_3: INK
-color_upper_length_4: INKJ
-color_upper_length_5: INKJE
-color_upper_length_6: INKJET
 description: category_printer
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_printer_ink_inkjet_paper_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_printer_ink_inkjet_paper_old
 id: category_printer_ink_inkjet_paper_old
 id_no_class: printer_ink_inkjet_paper_old
-id_no_color: old
 id_no_size: inkjet_paper_old
 id_no_type: ink_inkjet_paper_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_paper_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_paper_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_paper_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_paper_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2091s52
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2091s52
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2091s52
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2091s52
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_paper_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_printer_ink_inkjet_paper_old](none)<br>[](none)<br>[Category
-  Printer Ink Inkjet Paper Old](none)<br><br>'
+    Printer Ink Inkjet Paper Old](none)<br><br>'
 markdown_short: '[category_printer_ink_inkjet_paper_old](none)<br><br>'
 md5: e7edb6b7c52770a3522de8817d9b5b98
 md5_10: e7edb6b7c5
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 91S52
 md5_6_upper: E7EDB6
 name: Category Printer Ink Inkjet Paper Old
 name_no_class: Printer Ink Inkjet Paper Old
-name_no_color: Old
 name_no_size: Inkjet Paper Old
 name_no_size_short: Inkjet Paper Old
 name_no_type: Ink Inkjet Paper Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: printer
-oomlout_detail_hierarchy_2_upper: PRINTER
-oomlout_detail_hierarchy_2_upper_length_4: PRIN
-oomlout_detail_hierarchy_3: ink
-oomlout_detail_hierarchy_3_upper: INK
-oomlout_detail_hierarchy_3_upper_length_4: INK
-oomlout_detail_hierarchy_4: inkjet_paper
-oomlout_detail_hierarchy_4_upper: INKJET_PAPER
-oomlout_detail_hierarchy_4_upper_length_4: INKJ
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_printer_ink_inkjet_paper_old
 oomp_word: helicopter bus beer
 oomp_word_emoji: ':helicopter: :bus: :beer:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryprinter
@@ -237,61 +81,11 @@ size: ink
 size_capital: Ink
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: in
-size_length_3: ink
-size_length_4: ink
-size_length_5: ink
-size_length_6: ink
-size_name: Ink
-size_no_space_length_1: i
-size_no_space_length_2: in
-size_no_space_length_3: ink
-size_no_space_length_4: ink
-size_no_space_length_5: ink
-size_no_space_length_6: ink
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IN
-size_no_space_upper_length_3: INK
-size_no_space_upper_length_4: INK
-size_no_space_upper_length_5: INK
-size_no_space_upper_length_6: INK
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: INK
-size_upper_length_1: I
-size_upper_length_2: IN
-size_upper_length_3: INK
-size_upper_length_4: INK
-size_upper_length_5: INK
-size_upper_length_6: INK
 type: printer
 type_capital: Printer
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pr
-type_length_3: pri
-type_length_4: prin
-type_length_5: print
-type_length_6: printe
-type_name: Printer
-type_no_space_length_1: p
-type_no_space_length_2: pr
-type_no_space_length_3: pri
-type_no_space_length_4: prin
-type_no_space_length_5: print
-type_no_space_length_6: printe
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PR
-type_no_space_upper_length_3: PRI
-type_no_space_upper_length_4: PRIN
-type_no_space_upper_length_5: PRINT
-type_no_space_upper_length_6: PRINTE
 type_upper: PRINTER
-type_upper_length_1: P
-type_upper_length_2: PR
-type_upper_length_3: PRI
-type_upper_length_4: PRIN
-type_upper_length_5: PRINT
-type_upper_length_6: PRINTE

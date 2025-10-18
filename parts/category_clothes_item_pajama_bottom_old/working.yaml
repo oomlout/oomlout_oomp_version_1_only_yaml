@@ -1,146 +1,23 @@
-bip_39_word_dash_12: orient-badge-honey-forward-lyrics-prefer-buyer-puzzle-remember-tail-loan-arctic
-bip_39_word_dash_2: orient-badge
-bip_39_word_dash_3: orient-badge-honey
-bip_39_word_new_br_12: orient<br>badge<br>honey<br>forward<br>lyrics<br>prefer<br>buyer<br>puzzle<br>remember<br>tail<br>loan<br>arctic
-bip_39_word_new_br_2: orient<br>badge
-bip_39_word_new_br_3: orient<br>badge<br>honey
-bip_39_word_new_line_12: 'orient
-
-  badge
-
-  honey
-
-  forward
-
-  lyrics
-
-  prefer
-
-  buyer
-
-  puzzle
-
-  remember
-
-  tail
-
-  loan
-
-  arctic'
-bip_39_word_new_line_2: 'orient
-
-  badge'
-bip_39_word_new_line_3: 'orient
-
-  badge
-
-  honey'
-bip_39_word_no_space_12: orientbadgehoneyforwardlyricspreferbuyerpuzzleremembertailloanarctic
-bip_39_word_no_space_2: orientbadge
-bip_39_word_no_space_3: orientbadgehoney
-bip_39_word_space_12: orient badge honey forward lyrics prefer buyer puzzle remember
-  tail loan arctic
-bip_39_word_space_2: orient badge
-bip_39_word_space_3: orient badge honey
-bip_39_word_underscore_12: orient_badge_honey_forward_lyrics_prefer_buyer_puzzle_remember_tail_loan_arctic
-bip_39_word_underscore_2: orient_badge
-bip_39_word_underscore_3: orient_badge_honey
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: pajama_bottom
 color_capital: Pajama Bottom
 color_first_letter: p
 color_first_letter_upper: P
-color_length_1: p
-color_length_2: pa
-color_length_3: paj
-color_length_4: paja
-color_length_5: pajam
-color_length_6: pajama
-color_name: Pajama Bottom
-color_no_space_length_1: p
-color_no_space_length_2: pa
-color_no_space_length_3: paj
-color_no_space_length_4: paja
-color_no_space_length_5: pajam
-color_no_space_length_6: pajama
-color_no_space_upper_length_1: P
-color_no_space_upper_length_2: PA
-color_no_space_upper_length_3: PAJ
-color_no_space_upper_length_4: PAJA
-color_no_space_upper_length_5: PAJAM
-color_no_space_upper_length_6: PAJAMA
 color_upper: PAJAMA_BOTTOM
-color_upper_length_1: P
-color_upper_length_2: PA
-color_upper_length_3: PAJ
-color_upper_length_4: PAJA
-color_upper_length_5: PAJAM
-color_upper_length_6: PAJAMA
 description: category_clothes
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_clothes_item_pajama_bottom_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_clothes_item_pajama_bottom_old
 id: category_clothes_item_pajama_bottom_old
 id_no_class: clothes_item_pajama_bottom_old
-id_no_color: old
 id_no_size: pajama_bottom_old
 id_no_type: item_pajama_bottom_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_pajama_bottom_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_pajama_bottom_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_pajama_bottom_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_pajama_bottom_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206zgvr
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206zgvr
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206zgvr
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206zgvr
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_pajama_bottom_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_clothes_item_pajama_bottom_old](none)<br>[](none)<br>[Category
-  Clothes Item Pajama Bottom Old](none)<br><br>'
+    Clothes Item Pajama Bottom Old](none)<br><br>'
 markdown_short: '[category_clothes_item_pajama_bottom_old](none)<br><br>'
 md5: b3063755adaee3eea742b5bcda445ce4
 md5_10: b3063755ad
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 6ZGVR
 md5_6_upper: B30637
 name: Category Clothes Item Pajama Bottom Old
 name_no_class: Clothes Item Pajama Bottom Old
-name_no_color: Old
 name_no_size: Pajama Bottom Old
 name_no_size_short: Pajama Bottom Old
 name_no_type: Item Pajama Bottom Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: clothes
-oomlout_detail_hierarchy_2_upper: CLOTHES
-oomlout_detail_hierarchy_2_upper_length_4: CLOT
-oomlout_detail_hierarchy_3: item
-oomlout_detail_hierarchy_3_upper: ITEM
-oomlout_detail_hierarchy_3_upper_length_4: ITEM
-oomlout_detail_hierarchy_4: pajama_bottom
-oomlout_detail_hierarchy_4_upper: PAJAMA_BOTTOM
-oomlout_detail_hierarchy_4_upper_length_4: PAJA
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_clothes_item_pajama_bottom_old
 oomp_word: eyeglasses sleeping wolf
 oomp_word_emoji: ':eyeglasses: :sleeping: :wolf:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryclothes
@@ -237,61 +81,11 @@ size: item
 size_capital: Item
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: it
-size_length_3: ite
-size_length_4: item
-size_length_5: item
-size_length_6: item
-size_name: Item
-size_no_space_length_1: i
-size_no_space_length_2: it
-size_no_space_length_3: ite
-size_no_space_length_4: item
-size_no_space_length_5: item
-size_no_space_length_6: item
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IT
-size_no_space_upper_length_3: ITE
-size_no_space_upper_length_4: ITEM
-size_no_space_upper_length_5: ITEM
-size_no_space_upper_length_6: ITEM
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ITEM
-size_upper_length_1: I
-size_upper_length_2: IT
-size_upper_length_3: ITE
-size_upper_length_4: ITEM
-size_upper_length_5: ITEM
-size_upper_length_6: ITEM
 type: clothes
 type_capital: Clothes
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cl
-type_length_3: clo
-type_length_4: clot
-type_length_5: cloth
-type_length_6: clothe
-type_name: Clothes
-type_no_space_length_1: c
-type_no_space_length_2: cl
-type_no_space_length_3: clo
-type_no_space_length_4: clot
-type_no_space_length_5: cloth
-type_no_space_length_6: clothe
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CL
-type_no_space_upper_length_3: CLO
-type_no_space_upper_length_4: CLOT
-type_no_space_upper_length_5: CLOTH
-type_no_space_upper_length_6: CLOTHE
 type_upper: CLOTHES
-type_upper_length_1: C
-type_upper_length_2: CL
-type_upper_length_3: CLO
-type_upper_length_4: CLOT
-type_upper_length_5: CLOTH
-type_upper_length_6: CLOTHE

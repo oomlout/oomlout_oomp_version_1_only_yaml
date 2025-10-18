@@ -1,146 +1,23 @@
-bip_39_word_dash_12: title-degree-copy-valid-nominee-history-since-multiply-crawl-apology-merry-all
-bip_39_word_dash_2: title-degree
-bip_39_word_dash_3: title-degree-copy
-bip_39_word_new_br_12: title<br>degree<br>copy<br>valid<br>nominee<br>history<br>since<br>multiply<br>crawl<br>apology<br>merry<br>all
-bip_39_word_new_br_2: title<br>degree
-bip_39_word_new_br_3: title<br>degree<br>copy
-bip_39_word_new_line_12: 'title
-
-  degree
-
-  copy
-
-  valid
-
-  nominee
-
-  history
-
-  since
-
-  multiply
-
-  crawl
-
-  apology
-
-  merry
-
-  all'
-bip_39_word_new_line_2: 'title
-
-  degree'
-bip_39_word_new_line_3: 'title
-
-  degree
-
-  copy'
-bip_39_word_no_space_12: titledegreecopyvalidnomineehistorysincemultiplycrawlapologymerryall
-bip_39_word_no_space_2: titledegree
-bip_39_word_no_space_3: titledegreecopy
-bip_39_word_space_12: title degree copy valid nominee history since multiply crawl
-  apology merry all
-bip_39_word_space_2: title degree
-bip_39_word_space_3: title degree copy
-bip_39_word_underscore_12: title_degree_copy_valid_nominee_history_since_multiply_crawl_apology_merry_all
-bip_39_word_underscore_2: title_degree
-bip_39_word_underscore_3: title_degree_copy
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ssop_20
 color_capital: Ssop 20
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: ss
-color_length_3: sso
-color_length_4: ssop
-color_length_5: ssop_
-color_length_6: ssop_2
-color_name: Ssop 20
-color_no_space_length_1: s
-color_no_space_length_2: ss
-color_no_space_length_3: sso
-color_no_space_length_4: ssop
-color_no_space_length_5: ssop2
-color_no_space_length_6: ssop20
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: SS
-color_no_space_upper_length_3: SSO
-color_no_space_upper_length_4: SSOP
-color_no_space_upper_length_5: SSOP2
-color_no_space_upper_length_6: SSOP20
 color_upper: SSOP_20
-color_upper_length_1: S
-color_upper_length_2: SS
-color_upper_length_3: SSO
-color_upper_length_4: SSOP
-color_upper_length_5: SSOP_
-color_upper_length_6: SSOP_2
 description: category_electronic
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_electronic_ic_ssop_20_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_ic_ssop_20_cubby_box
 id: category_electronic_ic_ssop_20_cubby_box
 id_no_class: electronic_ic_ssop_20_cubby_box
-id_no_color: cubby_box
 id_no_size: ssop_20_cubby_box
 id_no_type: ic_ssop_20_cubby_box
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20_cubby_box
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20_cubby_box
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20_cubby_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20_cubby_box
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2040t36
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2040t36
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2040t36
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2040t36
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_ic_ssop_20_cubby_box](none)<br>[](none)<br>[Category
-  Electronic Ic Ssop 20 Cubby Box](none)<br><br>'
+    Electronic Ic Ssop 20 Cubby Box](none)<br><br>'
 markdown_short: '[category_electronic_ic_ssop_20_cubby_box](none)<br><br>'
 md5: 6717429995917925b0caff0c600e7717
 md5_10: '6717429995'
@@ -186,28 +52,11 @@ md5_6: '671742'
 md5_6_alpha: 40t36
 md5_6_alpha_upper: 40T36
 md5_6_upper: '671742'
-name: Category Electronic IC Ssop 20 Cubby Box
-name_no_class: Electronic IC Ssop 20 Cubby Box
-name_no_color: Cubby Box
+name: Category Electronic Ic Ssop 20 Cubby Box
+name_no_class: Electronic Ic Ssop 20 Cubby Box
 name_no_size: Ssop 20 Cubby Box
 name_no_size_short: Ssop 20 Cubby Box
-name_no_type: IC Ssop 20 Cubby Box
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: ic
-oomlout_detail_hierarchy_3_upper: IC
-oomlout_detail_hierarchy_3_upper_length_4: IC
-oomlout_detail_hierarchy_4: ssop_20
-oomlout_detail_hierarchy_4_upper: SSOP_20
-oomlout_detail_hierarchy_4_upper_length_4: SSOP
-oomlout_detail_hierarchy_5: cubby_box
-oomlout_detail_hierarchy_5_upper: CUBBY_BOX
-oomlout_detail_hierarchy_5_upper_length_4: CUBB
-oomlout_oomp_utility_custom_data_manipulation: true
+name_no_type: Ic Ssop 20 Cubby Box
 oomp_key: oomp_category_electronic_ic_ssop_20_cubby_box
 oomp_word: herb thumbsdown sheep
 oomp_word_emoji: ':herb: :thumbsdown: :sheep:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -237,61 +81,11 @@ size: ic
 size_capital: Ic
 size_first_letter: i
 size_first_letter_upper: I
-size_length_1: i
-size_length_2: ic
-size_length_3: ic
-size_length_4: ic
-size_length_5: ic
-size_length_6: ic
-size_name: IC
-size_no_space_length_1: i
-size_no_space_length_2: ic
-size_no_space_length_3: ic
-size_no_space_length_4: ic
-size_no_space_length_5: ic
-size_no_space_length_6: ic
-size_no_space_upper_length_1: I
-size_no_space_upper_length_2: IC
-size_no_space_upper_length_3: IC
-size_no_space_upper_length_4: IC
-size_no_space_upper_length_5: IC
-size_no_space_upper_length_6: IC
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: IC
-size_upper_length_1: I
-size_upper_length_2: IC
-size_upper_length_3: IC
-size_upper_length_4: IC
-size_upper_length_5: IC
-size_upper_length_6: IC
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

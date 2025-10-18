@@ -1,146 +1,23 @@
-bip_39_word_dash_12: hockey-build-cake-spread-slice-grape-tongue-enjoy-rigid-journey-acquire-autumn
-bip_39_word_dash_2: hockey-build
-bip_39_word_dash_3: hockey-build-cake
-bip_39_word_new_br_12: hockey<br>build<br>cake<br>spread<br>slice<br>grape<br>tongue<br>enjoy<br>rigid<br>journey<br>acquire<br>autumn
-bip_39_word_new_br_2: hockey<br>build
-bip_39_word_new_br_3: hockey<br>build<br>cake
-bip_39_word_new_line_12: 'hockey
-
-  build
-
-  cake
-
-  spread
-
-  slice
-
-  grape
-
-  tongue
-
-  enjoy
-
-  rigid
-
-  journey
-
-  acquire
-
-  autumn'
-bip_39_word_new_line_2: 'hockey
-
-  build'
-bip_39_word_new_line_3: 'hockey
-
-  build
-
-  cake'
-bip_39_word_no_space_12: hockeybuildcakespreadslicegrapetongueenjoyrigidjourneyacquireautumn
-bip_39_word_no_space_2: hockeybuild
-bip_39_word_no_space_3: hockeybuildcake
-bip_39_word_space_12: hockey build cake spread slice grape tongue enjoy rigid journey
-  acquire autumn
-bip_39_word_space_2: hockey build
-bip_39_word_space_3: hockey build cake
-bip_39_word_underscore_12: hockey_build_cake_spread_slice_grape_tongue_enjoy_rigid_journey_acquire_autumn
-bip_39_word_underscore_2: hockey_build
-bip_39_word_underscore_3: hockey_build_cake
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: inkjet
 color_capital: Inkjet
 color_first_letter: i
 color_first_letter_upper: I
-color_length_1: i
-color_length_2: in
-color_length_3: ink
-color_length_4: inkj
-color_length_5: inkje
-color_length_6: inkjet
-color_name: Inkjet
-color_no_space_length_1: i
-color_no_space_length_2: in
-color_no_space_length_3: ink
-color_no_space_length_4: inkj
-color_no_space_length_5: inkje
-color_no_space_length_6: inkjet
-color_no_space_upper_length_1: I
-color_no_space_upper_length_2: IN
-color_no_space_upper_length_3: INK
-color_no_space_upper_length_4: INKJ
-color_no_space_upper_length_5: INKJE
-color_no_space_upper_length_6: INKJET
 color_upper: INKJET
-color_upper_length_1: I
-color_upper_length_2: IN
-color_upper_length_3: INK
-color_upper_length_4: INKJ
-color_upper_length_5: INKJE
-color_upper_length_6: INKJET
 description: category_task
 description_extra: cubby_box
 description_extra_capital: Cubby Box
 description_extra_first_letter: c
 description_extra_first_letter_upper: C
-description_extra_length_1: c
-description_extra_length_2: cu
-description_extra_length_3: cub
-description_extra_length_4: cubb
-description_extra_length_5: cubby
-description_extra_length_6: cubby_
-description_extra_name: Cubby Box
-description_extra_no_space_length_1: c
-description_extra_no_space_length_2: cu
-description_extra_no_space_length_3: cub
-description_extra_no_space_length_4: cubb
-description_extra_no_space_length_5: cubby
-description_extra_no_space_length_6: cubbyb
-description_extra_no_space_upper_length_1: C
-description_extra_no_space_upper_length_2: CU
-description_extra_no_space_upper_length_3: CUB
-description_extra_no_space_upper_length_4: CUBB
-description_extra_no_space_upper_length_5: CUBBY
-description_extra_no_space_upper_length_6: CUBBYB
 description_extra_upper: CUBBY_BOX
-description_extra_upper_length_1: C
-description_extra_upper_length_2: CU
-description_extra_upper_length_3: CUB
-description_extra_upper_length_4: CUBB
-description_extra_upper_length_5: CUBBY
-description_extra_upper_length_6: CUBBY_
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_task_printer_inkjet_cubby_box
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_task_printer_inkjet_cubby_box
 id: category_task_printer_inkjet_cubby_box
 id_no_class: task_printer_inkjet_cubby_box
-id_no_color: cubby_box
 id_no_size: inkjet_cubby_box
 id_no_type: printer_inkjet_cubby_box
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_cubby_box
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_cubby_box
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_cubby_box
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_cubby_box
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209r6u6
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209r6u6
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209r6u6
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209r6u6
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_cubby_box
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_task_printer_inkjet_cubby_box](none)<br>[](none)<br>[Category
-  Task Printer Inkjet Cubby Box](none)<br><br>'
+    Task Printer Inkjet Cubby Box](none)<br><br>'
 markdown_short: '[category_task_printer_inkjet_cubby_box](none)<br><br>'
 md5: fa045e1dcf4abc8d9765bd3040877363
 md5_10: fa045e1dcf
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 9R6U6
 md5_6_upper: FA045E
 name: Category Task Printer Inkjet Cubby Box
 name_no_class: Task Printer Inkjet Cubby Box
-name_no_color: Cubby Box
 name_no_size: Inkjet Cubby Box
 name_no_size_short: Inkjet Cubby Box
 name_no_type: Printer Inkjet Cubby Box
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: task
-oomlout_detail_hierarchy_2_upper: TASK
-oomlout_detail_hierarchy_2_upper_length_4: TASK
-oomlout_detail_hierarchy_3: printer
-oomlout_detail_hierarchy_3_upper: PRINTER
-oomlout_detail_hierarchy_3_upper_length_4: PRIN
-oomlout_detail_hierarchy_4: inkjet
-oomlout_detail_hierarchy_4_upper: INKJET
-oomlout_detail_hierarchy_4_upper_length_4: INKJ
-oomlout_detail_hierarchy_5: cubby_box
-oomlout_detail_hierarchy_5_upper: CUBBY_BOX
-oomlout_detail_hierarchy_5_upper_length_4: CUBB
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_task_printer_inkjet_cubby_box
 oomp_word: nine wink crocodile
 oomp_word_emoji: ':nine: :wink: :crocodile:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorytask
@@ -237,61 +81,11 @@ size: printer
 size_capital: Printer
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pr
-size_length_3: pri
-size_length_4: prin
-size_length_5: print
-size_length_6: printe
-size_name: Printer
-size_no_space_length_1: p
-size_no_space_length_2: pr
-size_no_space_length_3: pri
-size_no_space_length_4: prin
-size_no_space_length_5: print
-size_no_space_length_6: printe
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PR
-size_no_space_upper_length_3: PRI
-size_no_space_upper_length_4: PRIN
-size_no_space_upper_length_5: PRINT
-size_no_space_upper_length_6: PRINTE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PRINTER
-size_upper_length_1: P
-size_upper_length_2: PR
-size_upper_length_3: PRI
-size_upper_length_4: PRIN
-size_upper_length_5: PRINT
-size_upper_length_6: PRINTE
 type: task
 type_capital: Task
 type_first_letter: t
 type_first_letter_upper: T
-type_length_1: t
-type_length_2: ta
-type_length_3: tas
-type_length_4: task
-type_length_5: task
-type_length_6: task
-type_name: Task
-type_no_space_length_1: t
-type_no_space_length_2: ta
-type_no_space_length_3: tas
-type_no_space_length_4: task
-type_no_space_length_5: task
-type_no_space_length_6: task
-type_no_space_upper_length_1: T
-type_no_space_upper_length_2: TA
-type_no_space_upper_length_3: TAS
-type_no_space_upper_length_4: TASK
-type_no_space_upper_length_5: TASK
-type_no_space_upper_length_6: TASK
 type_upper: TASK
-type_upper_length_1: T
-type_upper_length_2: TA
-type_upper_length_3: TAS
-type_upper_length_4: TASK
-type_upper_length_5: TASK
-type_upper_length_6: TASK

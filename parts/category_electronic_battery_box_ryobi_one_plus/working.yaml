@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ryobi_one_plus
+color_capital: Ryobi One Plus
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RYOBI_ONE_PLUS
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_electronic_battery_box_ryobi_one_plus
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_box_ryobi_one_plus
+id_no_class: electronic_battery_box_ryobi_one_plus
+id_no_size: ryobi_one_plus
+id_no_type: battery_box_ryobi_one_plus
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_box_ryobi_one_plus](none)<br>[](none)<br>[Category
+    Electronic Battery Box Ryobi One Plus](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_ryobi_one_plus](none)<br><br>'
+md5: 75c29a5e1e37542a48af5e047b9fdfcb
+md5_10: 75c29a5e1e
+md5_10_upper: 75C29A5E1E
+md5_5: 75c29
+md5_5_upper: 75C29
+md5_6: 75c29a
+md5_6_alpha: 4levu
+md5_6_alpha_upper: 4LEVU
+md5_6_upper: 75C29A
+name: Category Electronic Battery Box Ryobi One Plus
+name_no_class: Electronic Battery Box Ryobi One Plus
+name_no_size: Ryobi One Plus
+name_no_size_short: Ryobi One Plus
+name_no_type: Battery Box Ryobi One Plus
+oomp_key: oomp_category_electronic_battery_box_ryobi_one_plus
+oomp_word: ghost birthday golf
+oomp_word_emoji: ':ghost: :birthday: :golf:'
+oomp_word_emoji_list:
+- ':ghost:'
+- ':birthday:'
+- ':golf:'
+oomp_word_list:
+- ghost
+- birthday
+- golf
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery_box
+size_capital: Battery Box
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY_BOX
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

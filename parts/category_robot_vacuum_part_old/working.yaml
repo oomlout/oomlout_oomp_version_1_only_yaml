@@ -1,122 +1,23 @@
-bip_39_word_dash_12: attack-remove-oil-mixed-index-burden-draft-normal-bachelor-ensure-dilemma-argue
-bip_39_word_dash_2: attack-remove
-bip_39_word_dash_3: attack-remove-oil
-bip_39_word_new_br_12: attack<br>remove<br>oil<br>mixed<br>index<br>burden<br>draft<br>normal<br>bachelor<br>ensure<br>dilemma<br>argue
-bip_39_word_new_br_2: attack<br>remove
-bip_39_word_new_br_3: attack<br>remove<br>oil
-bip_39_word_new_line_12: 'attack
-
-  remove
-
-  oil
-
-  mixed
-
-  index
-
-  burden
-
-  draft
-
-  normal
-
-  bachelor
-
-  ensure
-
-  dilemma
-
-  argue'
-bip_39_word_new_line_2: 'attack
-
-  remove'
-bip_39_word_new_line_3: 'attack
-
-  remove
-
-  oil'
-bip_39_word_no_space_12: attackremoveoilmixedindexburdendraftnormalbachelorensuredilemmaargue
-bip_39_word_no_space_2: attackremove
-bip_39_word_no_space_3: attackremoveoil
-bip_39_word_space_12: attack remove oil mixed index burden draft normal bachelor ensure
-  dilemma argue
-bip_39_word_space_2: attack remove
-bip_39_word_space_3: attack remove oil
-bip_39_word_underscore_12: attack_remove_oil_mixed_index_burden_draft_normal_bachelor_ensure_dilemma_argue
-bip_39_word_underscore_2: attack_remove
-bip_39_word_underscore_3: attack_remove_oil
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_robot_vacuum
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,32 +27,21 @@ directory: parts/category_robot_vacuum_part_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_robot_vacuum_part_old
 id: category_robot_vacuum_part_old
 id_no_class: robot_vacuum_part_old
-id_no_color: old
 id_no_size: old
 id_no_type: part_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207751u
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207751u
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207751u
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207751u
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_part_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_robot_vacuum_part_old](none)<br>[](none)<br>[Category Robot
-  Vacuum Part Old](none)<br><br>'
+    Vacuum Part Old](none)<br><br>'
 markdown_short: '[category_robot_vacuum_part_old](none)<br><br>'
 md5: b87c52d08996283c7a3968e333ad7873
 md5_10: b87c52d089
@@ -164,23 +54,9 @@ md5_6_alpha_upper: 7751U
 md5_6_upper: B87C52
 name: Category Robot Vacuum Part Old
 name_no_class: Robot Vacuum Part Old
-name_no_color: Old
 name_no_size: Old
 name_no_size_short: Old
 name_no_type: Part Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: robot_vacuum
-oomlout_detail_hierarchy_2_upper: ROBOT_VACUUM
-oomlout_detail_hierarchy_2_upper_length_4: ROBO
-oomlout_detail_hierarchy_3: part
-oomlout_detail_hierarchy_3_upper: PART
-oomlout_detail_hierarchy_3_upper_length_4: PART
-oomlout_detail_hierarchy_4: old
-oomlout_detail_hierarchy_4_upper: OLD
-oomlout_detail_hierarchy_4_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_robot_vacuum_part_old
 oomp_word: hamburger tv octopus
 oomp_word_emoji: ':hamburger: :tv: :octopus:'
@@ -197,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryrobotvacuum
@@ -210,61 +81,11 @@ size: part
 size_capital: Part
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: par
-size_length_4: part
-size_length_5: part
-size_length_6: part
-size_name: Part
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: par
-size_no_space_length_4: part
-size_no_space_length_5: part
-size_no_space_length_6: part
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAR
-size_no_space_upper_length_4: PART
-size_no_space_upper_length_5: PART
-size_no_space_upper_length_6: PART
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PART
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAR
-size_upper_length_4: PART
-size_upper_length_5: PART
-size_upper_length_6: PART
 type: robot_vacuum
 type_capital: Robot Vacuum
 type_first_letter: r
 type_first_letter_upper: R
-type_length_1: r
-type_length_2: ro
-type_length_3: rob
-type_length_4: robo
-type_length_5: robot
-type_length_6: robot_
-type_name: Robot Vacuum
-type_no_space_length_1: r
-type_no_space_length_2: ro
-type_no_space_length_3: rob
-type_no_space_length_4: robo
-type_no_space_length_5: robot
-type_no_space_length_6: robotv
-type_no_space_upper_length_1: R
-type_no_space_upper_length_2: RO
-type_no_space_upper_length_3: ROB
-type_no_space_upper_length_4: ROBO
-type_no_space_upper_length_5: ROBOT
-type_no_space_upper_length_6: ROBOTV
 type_upper: ROBOT_VACUUM
-type_upper_length_1: R
-type_upper_length_2: RO
-type_upper_length_3: ROB
-type_upper_length_4: ROBO
-type_upper_length_5: ROBOT
-type_upper_length_6: ROBOT_

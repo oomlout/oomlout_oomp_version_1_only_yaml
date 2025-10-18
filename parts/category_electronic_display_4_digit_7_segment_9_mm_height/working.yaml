@@ -1,122 +1,23 @@
-bip_39_word_dash_12: actor-receive-world-call-identify-young-never-between-tennis-audit-kitten-aim
-bip_39_word_dash_2: actor-receive
-bip_39_word_dash_3: actor-receive-world
-bip_39_word_new_br_12: actor<br>receive<br>world<br>call<br>identify<br>young<br>never<br>between<br>tennis<br>audit<br>kitten<br>aim
-bip_39_word_new_br_2: actor<br>receive
-bip_39_word_new_br_3: actor<br>receive<br>world
-bip_39_word_new_line_12: 'actor
-
-  receive
-
-  world
-
-  call
-
-  identify
-
-  young
-
-  never
-
-  between
-
-  tennis
-
-  audit
-
-  kitten
-
-  aim'
-bip_39_word_new_line_2: 'actor
-
-  receive'
-bip_39_word_new_line_3: 'actor
-
-  receive
-
-  world'
-bip_39_word_no_space_12: actorreceiveworldcallidentifyyoungneverbetweentennisauditkittenaim
-bip_39_word_no_space_2: actorreceive
-bip_39_word_no_space_3: actorreceiveworld
-bip_39_word_space_12: actor receive world call identify young never between tennis
-  audit kitten aim
-bip_39_word_space_2: actor receive
-bip_39_word_space_3: actor receive world
-bip_39_word_underscore_12: actor_receive_world_call_identify_young_never_between_tennis_audit_kitten_aim
-bip_39_word_underscore_2: actor_receive
-bip_39_word_underscore_3: actor_receive_world
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 4_digit_7_segment_9_mm_height
 color_capital: 4 Digit 7 Segment 9 mm Height
 color_first_letter: '4'
 color_first_letter_upper: '4'
-color_length_1: '4'
-color_length_2: '4_'
-color_length_3: 4_d
-color_length_4: 4_di
-color_length_5: 4_dig
-color_length_6: 4_digi
-color_name: 4 Digit 7 Segment 9 mm Height
-color_no_space_length_1: '4'
-color_no_space_length_2: 4d
-color_no_space_length_3: 4di
-color_no_space_length_4: 4dig
-color_no_space_length_5: 4digi
-color_no_space_length_6: 4digit
-color_no_space_upper_length_1: '4'
-color_no_space_upper_length_2: 4D
-color_no_space_upper_length_3: 4DI
-color_no_space_upper_length_4: 4DIG
-color_no_space_upper_length_5: 4DIGI
-color_no_space_upper_length_6: 4DIGIT
 color_upper: 4_DIGIT_7_SEGMENT_9_MM_HEIGHT
-color_upper_length_1: '4'
-color_upper_length_2: '4_'
-color_upper_length_3: 4_D
-color_upper_length_4: 4_DI
-color_upper_length_5: 4_DIG
-color_upper_length_6: 4_DIGI
 description: category_electronic
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,32 +27,21 @@ directory: parts/category_electronic_display_4_digit_7_segment_9_mm_height
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_display_4_digit_7_segment_9_mm_height
 id: category_electronic_display_4_digit_7_segment_9_mm_height
 id_no_class: electronic_display_4_digit_7_segment_9_mm_height
-id_no_color: 4_digit_7_segment_9_mm_height
 id_no_size: 4_digit_7_segment_9_mm_height
 id_no_type: display_4_digit_7_segment_9_mm_height
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_display_4_digit_7_segment_9_mm_height
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_display_4_digit_7_segment_9_mm_height
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_display_4_digit_7_segment_9_mm_height
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_display_4_digit_7_segment_9_mm_height
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203bceb
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203bceb
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203bceb
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203bceb
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_display_4_digit_7_segment_9_mm_height
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_display_4_digit_7_segment_9_mm_height](none)<br>[](none)<br>[Category
-  Electronic Display 4 Digit 7 Segment 9 Mm Height](none)<br><br>'
+    Electronic Display 4 Digit 7 Segment 9 Mm Height](none)<br><br>'
 markdown_short: '[category_electronic_display_4_digit_7_segment_9_mm_height](none)<br><br>'
 md5: 54f683c6f915b2a3fd384207fb6ce015
 md5_10: 54f683c6f9
@@ -162,25 +52,11 @@ md5_6: 54f683
 md5_6_alpha: 3bceb
 md5_6_alpha_upper: 3BCEB
 md5_6_upper: 54F683
-name: Category Electronic Display 4 Digit 7 Segment 9 mm Height
-name_no_class: Electronic Display 4 Digit 7 Segment 9 mm Height
-name_no_color: 4 Digit 7 Segment 9 mm Height
-name_no_size: 4 Digit 7 Segment 9 mm Height
+name: Category Electronic Display 4 Digit 7 Segment 9 Mm Height
+name_no_class: Electronic Display 4 Digit 7 Segment 9 Mm Height
+name_no_size: 4 Digit 7 Segment 9 Mm Height
 name_no_size_short: 4 Digit 7 Segment 9 Mm Height
-name_no_type: Display 4 Digit 7 Segment 9 mm Height
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: display
-oomlout_detail_hierarchy_3_upper: DISPLAY
-oomlout_detail_hierarchy_3_upper_length_4: DISP
-oomlout_detail_hierarchy_4: 9_mm_height
-oomlout_detail_hierarchy_4_upper: 9_MM_HEIGHT
-oomlout_detail_hierarchy_4_upper_length_4: 9HEI
-oomlout_oomp_utility_custom_data_manipulation: true
+name_no_type: Display 4 Digit 7 Segment 9 Mm Height
 oomp_key: oomp_category_electronic_display_4_digit_7_segment_9_mm_height
 oomp_word: whale five lock
 oomp_word_emoji: ':whale: :five: :lock:'
@@ -197,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -210,61 +81,11 @@ size: display
 size_capital: Display
 size_first_letter: d
 size_first_letter_upper: D
-size_length_1: d
-size_length_2: di
-size_length_3: dis
-size_length_4: disp
-size_length_5: displ
-size_length_6: displa
-size_name: Display
-size_no_space_length_1: d
-size_no_space_length_2: di
-size_no_space_length_3: dis
-size_no_space_length_4: disp
-size_no_space_length_5: displ
-size_no_space_length_6: displa
-size_no_space_upper_length_1: D
-size_no_space_upper_length_2: DI
-size_no_space_upper_length_3: DIS
-size_no_space_upper_length_4: DISP
-size_no_space_upper_length_5: DISPL
-size_no_space_upper_length_6: DISPLA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: DISPLAY
-size_upper_length_1: D
-size_upper_length_2: DI
-size_upper_length_3: DIS
-size_upper_length_4: DISP
-size_upper_length_5: DISPL
-size_upper_length_6: DISPLA
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: daring-enact-try-hollow-depart-relax-cruel-jump-about-tunnel-boss-alpha
-bip_39_word_dash_2: daring-enact
-bip_39_word_dash_3: daring-enact-try
-bip_39_word_new_br_12: daring<br>enact<br>try<br>hollow<br>depart<br>relax<br>cruel<br>jump<br>about<br>tunnel<br>boss<br>alpha
-bip_39_word_new_br_2: daring<br>enact
-bip_39_word_new_br_3: daring<br>enact<br>try
-bip_39_word_new_line_12: 'daring
-
-  enact
-
-  try
-
-  hollow
-
-  depart
-
-  relax
-
-  cruel
-
-  jump
-
-  about
-
-  tunnel
-
-  boss
-
-  alpha'
-bip_39_word_new_line_2: 'daring
-
-  enact'
-bip_39_word_new_line_3: 'daring
-
-  enact
-
-  try'
-bip_39_word_no_space_12: daringenacttryhollowdepartrelaxcrueljumpabouttunnelbossalpha
-bip_39_word_no_space_2: daringenact
-bip_39_word_no_space_3: daringenacttry
-bip_39_word_space_12: daring enact try hollow depart relax cruel jump about tunnel
-  boss alpha
-bip_39_word_space_2: daring enact
-bip_39_word_space_3: daring enact try
-bip_39_word_underscore_12: daring_enact_try_hollow_depart_relax_cruel_jump_about_tunnel_boss_alpha
-bip_39_word_underscore_2: daring_enact
-bip_39_word_underscore_3: daring_enact_try
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 670_ml
 color_capital: 670 Ml
 color_first_letter: '6'
 color_first_letter_upper: '6'
-color_length_1: '6'
-color_length_2: '67'
-color_length_3: '670'
-color_length_4: '670_'
-color_length_5: 670_m
-color_length_6: 670_ml
-color_name: 670 Ml
-color_no_space_length_1: '6'
-color_no_space_length_2: '67'
-color_no_space_length_3: '670'
-color_no_space_length_4: 670m
-color_no_space_length_5: 670ml
-color_no_space_length_6: 670ml
-color_no_space_upper_length_1: '6'
-color_no_space_upper_length_2: '67'
-color_no_space_upper_length_3: '670'
-color_no_space_upper_length_4: 670M
-color_no_space_upper_length_5: 670ML
-color_no_space_upper_length_6: 670ML
 color_upper: 670_ML
-color_upper_length_1: '6'
-color_upper_length_2: '67'
-color_upper_length_3: '670'
-color_upper_length_4: '670_'
-color_upper_length_5: 670_M
-color_upper_length_6: 670_ML
 description: category_packaging
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_packaging_takeaway_container_circle_670_ml_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_takeaway_container_circle_670_ml_old
 id: category_packaging_takeaway_container_circle_670_ml_old
 id_no_class: packaging_takeaway_container_circle_670_ml_old
-id_no_color: old
 id_no_size: 670_ml_old
 id_no_type: takeaway_container_circle_670_ml_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_670_ml_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_670_ml_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_670_ml_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_670_ml_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204dlyy
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204dlyy
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204dlyy
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204dlyy
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_670_ml_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_packaging_takeaway_container_circle_670_ml_old](none)<br>[](none)<br>[Category
-  Packaging Takeaway Container Circle 670 Ml Old](none)<br><br>'
+    Packaging Takeaway Container Circle 670 Ml Old](none)<br><br>'
 markdown_short: '[category_packaging_takeaway_container_circle_670_ml_old](none)<br><br>'
 md5: 70347aa00378e692d41d66cfd3d259bc
 md5_10: 70347aa003
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 4DLYY
 md5_6_upper: 70347A
 name: Category Packaging Takeaway Container Circle 670 Ml Old
 name_no_class: Packaging Takeaway Container Circle 670 Ml Old
-name_no_color: Old
 name_no_size: 670 Ml Old
 name_no_size_short: 670 Ml Old
 name_no_type: Takeaway Container Circle 670 Ml Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: packaging
-oomlout_detail_hierarchy_2_upper: PACKAGING
-oomlout_detail_hierarchy_2_upper_length_4: PACK
-oomlout_detail_hierarchy_3: takeaway_container_circle
-oomlout_detail_hierarchy_3_upper: TAKEAWAY_CONTAINER_CIRCLE
-oomlout_detail_hierarchy_3_upper_length_4: TAKE
-oomlout_detail_hierarchy_4: 670_ml
-oomlout_detail_hierarchy_4_upper: 670_ML
-oomlout_detail_hierarchy_4_upper_length_4: '670_'
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_packaging_takeaway_container_circle_670_ml_old
 oomp_word: squirrel mouse camera
 oomp_word_emoji: ':squirrel: :mouse: :camera:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypackaging
@@ -237,61 +81,11 @@ size: takeaway_container_circle
 size_capital: Takeaway Container Circle
 size_first_letter: t
 size_first_letter_upper: T
-size_length_1: t
-size_length_2: ta
-size_length_3: tak
-size_length_4: take
-size_length_5: takea
-size_length_6: takeaw
-size_name: Takeaway Container Circle
-size_no_space_length_1: t
-size_no_space_length_2: ta
-size_no_space_length_3: tak
-size_no_space_length_4: take
-size_no_space_length_5: takea
-size_no_space_length_6: takeaw
-size_no_space_upper_length_1: T
-size_no_space_upper_length_2: TA
-size_no_space_upper_length_3: TAK
-size_no_space_upper_length_4: TAKE
-size_no_space_upper_length_5: TAKEA
-size_no_space_upper_length_6: TAKEAW
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: TAKEAWAY_CONTAINER_CIRCLE
-size_upper_length_1: T
-size_upper_length_2: TA
-size_upper_length_3: TAK
-size_upper_length_4: TAKE
-size_upper_length_5: TAKEA
-size_upper_length_6: TAKEAW
 type: packaging
 type_capital: Packaging
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pac
-type_length_4: pack
-type_length_5: packa
-type_length_6: packag
-type_name: Packaging
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pac
-type_no_space_length_4: pack
-type_no_space_length_5: packa
-type_no_space_length_6: packag
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAC
-type_no_space_upper_length_4: PACK
-type_no_space_upper_length_5: PACKA
-type_no_space_upper_length_6: PACKAG
 type_upper: PACKAGING
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAC
-type_upper_length_4: PACK
-type_upper_length_5: PACKA
-type_upper_length_6: PACKAG

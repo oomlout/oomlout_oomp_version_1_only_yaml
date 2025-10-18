@@ -1,146 +1,23 @@
-bip_39_word_dash_12: prison-nuclear-kid-poem-member-lecture-swim-shiver-rhythm-garlic-fox-all
-bip_39_word_dash_2: prison-nuclear
-bip_39_word_dash_3: prison-nuclear-kid
-bip_39_word_new_br_12: prison<br>nuclear<br>kid<br>poem<br>member<br>lecture<br>swim<br>shiver<br>rhythm<br>garlic<br>fox<br>all
-bip_39_word_new_br_2: prison<br>nuclear
-bip_39_word_new_br_3: prison<br>nuclear<br>kid
-bip_39_word_new_line_12: 'prison
-
-  nuclear
-
-  kid
-
-  poem
-
-  member
-
-  lecture
-
-  swim
-
-  shiver
-
-  rhythm
-
-  garlic
-
-  fox
-
-  all'
-bip_39_word_new_line_2: 'prison
-
-  nuclear'
-bip_39_word_new_line_3: 'prison
-
-  nuclear
-
-  kid'
-bip_39_word_no_space_12: prisonnuclearkidpoemmemberlectureswimshiverrhythmgarlicfoxall
-bip_39_word_no_space_2: prisonnuclear
-bip_39_word_no_space_3: prisonnuclearkid
-bip_39_word_space_12: prison nuclear kid poem member lecture swim shiver rhythm garlic
-  fox all
-bip_39_word_space_2: prison nuclear
-bip_39_word_space_3: prison nuclear kid
-bip_39_word_underscore_12: prison_nuclear_kid_poem_member_lecture_swim_shiver_rhythm_garlic_fox_all
-bip_39_word_underscore_2: prison_nuclear
-bip_39_word_underscore_3: prison_nuclear_kid
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: power
 color_capital: Power
 color_first_letter: p
 color_first_letter_upper: P
-color_length_1: p
-color_length_2: po
-color_length_3: pow
-color_length_4: powe
-color_length_5: power
-color_length_6: power
-color_name: Power
-color_no_space_length_1: p
-color_no_space_length_2: po
-color_no_space_length_3: pow
-color_no_space_length_4: powe
-color_no_space_length_5: power
-color_no_space_length_6: power
-color_no_space_upper_length_1: P
-color_no_space_upper_length_2: PO
-color_no_space_upper_length_3: POW
-color_no_space_upper_length_4: POWE
-color_no_space_upper_length_5: POWER
-color_no_space_upper_length_6: POWER
 color_upper: POWER
-color_upper_length_1: P
-color_upper_length_2: PO
-color_upper_length_3: POW
-color_upper_length_4: POWE
-color_upper_length_5: POWER
-color_upper_length_6: POWER
 description: category_computer
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_computer_cable_power_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_computer_cable_power_old
 id: category_computer_cable_power_old
 id_no_class: computer_cable_power_old
-id_no_color: old
 id_no_size: power_old
 id_no_type: cable_power_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_power_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_power_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_power_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_power_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2040adz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2040adz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2040adz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2040adz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_power_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_computer_cable_power_old](none)<br>[](none)<br>[Category
-  Computer Cable Power Old](none)<br><br>'
+    Computer Cable Power Old](none)<br><br>'
 markdown_short: '[category_computer_cable_power_old](none)<br><br>'
 md5: 66b897f5c6c63b7dfc456a70f4a5d558
 md5_10: 66b897f5c6
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 40ADZ
 md5_6_upper: 66B897
 name: Category Computer Cable Power Old
 name_no_class: Computer Cable Power Old
-name_no_color: Old
 name_no_size: Power Old
 name_no_size_short: Power Old
 name_no_type: Cable Power Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: computer
-oomlout_detail_hierarchy_2_upper: COMPUTER
-oomlout_detail_hierarchy_2_upper_length_4: COMP
-oomlout_detail_hierarchy_3: cable
-oomlout_detail_hierarchy_3_upper: CABLE
-oomlout_detail_hierarchy_3_upper_length_4: CABL
-oomlout_detail_hierarchy_4: power
-oomlout_detail_hierarchy_4_upper: POWER
-oomlout_detail_hierarchy_4_upper_length_4: POWE
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_computer_cable_power_old
 oomp_word: leaves hamburger baseball
 oomp_word_emoji: ':leaves: :hamburger: :baseball:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycomputer
@@ -237,61 +81,11 @@ size: cable
 size_capital: Cable
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: ca
-size_length_3: cab
-size_length_4: cabl
-size_length_5: cable
-size_length_6: cable
-size_name: Cable
-size_no_space_length_1: c
-size_no_space_length_2: ca
-size_no_space_length_3: cab
-size_no_space_length_4: cabl
-size_no_space_length_5: cable
-size_no_space_length_6: cable
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CA
-size_no_space_upper_length_3: CAB
-size_no_space_upper_length_4: CABL
-size_no_space_upper_length_5: CABLE
-size_no_space_upper_length_6: CABLE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: CABLE
-size_upper_length_1: C
-size_upper_length_2: CA
-size_upper_length_3: CAB
-size_upper_length_4: CABL
-size_upper_length_5: CABLE
-size_upper_length_6: CABLE
 type: computer
 type_capital: Computer
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: com
-type_length_4: comp
-type_length_5: compu
-type_length_6: comput
-type_name: Computer
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: com
-type_no_space_length_4: comp
-type_no_space_length_5: compu
-type_no_space_length_6: comput
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COM
-type_no_space_upper_length_4: COMP
-type_no_space_upper_length_5: COMPU
-type_no_space_upper_length_6: COMPUT
 type_upper: COMPUTER
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COM
-type_upper_length_4: COMP
-type_upper_length_5: COMPU
-type_upper_length_6: COMPUT

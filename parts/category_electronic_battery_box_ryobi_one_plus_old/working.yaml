@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ryobi_one_plus
+color_capital: Ryobi One Plus
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RYOBI_ONE_PLUS
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_electronic_battery_box_ryobi_one_plus_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_box_ryobi_one_plus_old
+id_no_class: electronic_battery_box_ryobi_one_plus_old
+id_no_size: ryobi_one_plus_old
+id_no_type: battery_box_ryobi_one_plus_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_ryobi_one_plus_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_box_ryobi_one_plus_old](none)<br>[](none)<br>[Category
+    Electronic Battery Box Ryobi One Plus Old](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_ryobi_one_plus_old](none)<br><br>'
+md5: 09778b8f31437f10d0bb01b7cc7c1931
+md5_10: 09778b8f31
+md5_10_upper: 09778B8F31
+md5_5: 09778
+md5_5_upper: 09778
+md5_6: 09778b
+md5_6_alpha: daq3
+md5_6_alpha_upper: DAQ3
+md5_6_upper: 09778B
+name: Category Electronic Battery Box Ryobi One Plus Old
+name_no_class: Electronic Battery Box Ryobi One Plus Old
+name_no_size: Ryobi One Plus Old
+name_no_size_short: Ryobi One Plus Old
+name_no_type: Battery Box Ryobi One Plus Old
+oomp_key: oomp_category_electronic_battery_box_ryobi_one_plus_old
+oomp_word: angry gift door
+oomp_word_emoji: ':angry: :gift: :door:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':gift:'
+- ':door:'
+oomp_word_list:
+- angry
+- gift
+- door
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery_box
+size_capital: Battery Box
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY_BOX
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

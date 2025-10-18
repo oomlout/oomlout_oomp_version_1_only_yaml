@@ -1,122 +1,23 @@
-bip_39_word_dash_12: work-maple-shrug-tonight-inside-swim-cry-census-sleep-draft-box-allow
-bip_39_word_dash_2: work-maple
-bip_39_word_dash_3: work-maple-shrug
-bip_39_word_new_br_12: work<br>maple<br>shrug<br>tonight<br>inside<br>swim<br>cry<br>census<br>sleep<br>draft<br>box<br>allow
-bip_39_word_new_br_2: work<br>maple
-bip_39_word_new_br_3: work<br>maple<br>shrug
-bip_39_word_new_line_12: 'work
-
-  maple
-
-  shrug
-
-  tonight
-
-  inside
-
-  swim
-
-  cry
-
-  census
-
-  sleep
-
-  draft
-
-  box
-
-  allow'
-bip_39_word_new_line_2: 'work
-
-  maple'
-bip_39_word_new_line_3: 'work
-
-  maple
-
-  shrug'
-bip_39_word_no_space_12: workmapleshrugtonightinsideswimcrycensussleepdraftboxallow
-bip_39_word_no_space_2: workmaple
-bip_39_word_no_space_3: workmapleshrug
-bip_39_word_space_12: work maple shrug tonight inside swim cry census sleep draft
-  box allow
-bip_39_word_space_2: work maple
-bip_39_word_space_3: work maple shrug
-bip_39_word_underscore_12: work_maple_shrug_tonight_inside_swim_cry_census_sleep_draft_box_allow
-bip_39_word_underscore_2: work_maple
-bip_39_word_underscore_3: work_maple_shrug
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_household_camping
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,32 +27,21 @@ directory: parts/category_household_camping_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_camping_tote
 id: category_household_camping_tote
 id_no_class: household_camping_tote
-id_no_color: tote
 id_no_size: tote
 id_no_type: tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20456og
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20456og
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20456og
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20456og
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_household_camping_tote](none)<br>[](none)<br>[Category Household
-  Camping Tote](none)<br><br>'
+    Camping Tote](none)<br><br>'
 markdown_short: '[category_household_camping_tote](none)<br><br>'
 md5: 6a35107e592546a76fba9e498ea1e7ec
 md5_10: 6a35107e59
@@ -164,20 +54,9 @@ md5_6_alpha_upper: 456OG
 md5_6_upper: 6A3510
 name: Category Household Camping Tote
 name_no_class: Household Camping Tote
-name_no_color: Tote
 name_no_size: Tote
 name_no_size_short: Tote
 name_no_type: Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: household_camping
-oomlout_detail_hierarchy_2_upper: HOUSEHOLD_CAMPING
-oomlout_detail_hierarchy_2_upper_length_4: HOUS
-oomlout_detail_hierarchy_3: tote
-oomlout_detail_hierarchy_3_upper: TOTE
-oomlout_detail_hierarchy_3_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_household_camping_tote
 oomp_word: palm_tree hamster star
 oomp_word_emoji: ':palm_tree: :hamster: :star:'
@@ -194,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhouseholdcamping
@@ -207,7 +81,6 @@ size: ''
 size_capital: ''
 size_first_letter: ''
 size_first_letter_upper: ''
-size_name: ''
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: ''
@@ -215,29 +88,4 @@ type: household_camping
 type_capital: Household Camping
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ho
-type_length_3: hou
-type_length_4: hous
-type_length_5: house
-type_length_6: househ
-type_name: Household Camping
-type_no_space_length_1: h
-type_no_space_length_2: ho
-type_no_space_length_3: hou
-type_no_space_length_4: hous
-type_no_space_length_5: house
-type_no_space_length_6: househ
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HO
-type_no_space_upper_length_3: HOU
-type_no_space_upper_length_4: HOUS
-type_no_space_upper_length_5: HOUSE
-type_no_space_upper_length_6: HOUSEH
 type_upper: HOUSEHOLD_CAMPING
-type_upper_length_1: H
-type_upper_length_2: HO
-type_upper_length_3: HOU
-type_upper_length_4: HOUS
-type_upper_length_5: HOUSE
-type_upper_length_6: HOUSEH

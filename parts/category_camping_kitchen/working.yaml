@@ -1,98 +1,23 @@
-bip_39_word_dash_12: school-rebel-step-ignore-swing-fee-exile-combine-record-cloud-marble-arrest
-bip_39_word_dash_2: school-rebel
-bip_39_word_dash_3: school-rebel-step
-bip_39_word_new_br_12: school<br>rebel<br>step<br>ignore<br>swing<br>fee<br>exile<br>combine<br>record<br>cloud<br>marble<br>arrest
-bip_39_word_new_br_2: school<br>rebel
-bip_39_word_new_br_3: school<br>rebel<br>step
-bip_39_word_new_line_12: 'school
-
-  rebel
-
-  step
-
-  ignore
-
-  swing
-
-  fee
-
-  exile
-
-  combine
-
-  record
-
-  cloud
-
-  marble
-
-  arrest'
-bip_39_word_new_line_2: 'school
-
-  rebel'
-bip_39_word_new_line_3: 'school
-
-  rebel
-
-  step'
-bip_39_word_no_space_12: schoolrebelstepignoreswingfeeexilecombinerecordcloudmarblearrest
-bip_39_word_no_space_2: schoolrebel
-bip_39_word_no_space_3: schoolrebelstep
-bip_39_word_space_12: school rebel step ignore swing fee exile combine record cloud
-  marble arrest
-bip_39_word_space_2: school rebel
-bip_39_word_space_3: school rebel step
-bip_39_word_underscore_12: school_rebel_step_ignore_swing_fee_exile_combine_record_cloud_marble_arrest
-bip_39_word_underscore_2: school_rebel
-bip_39_word_underscore_3: school_rebel_step
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description: category_camping
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -102,32 +27,21 @@ directory: parts/category_camping_kitchen
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_camping_kitchen
 id: category_camping_kitchen
 id_no_class: camping_kitchen
-id_no_color: kitchen
 id_no_size: kitchen
 id_no_type: kitchen
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_kitchen
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_kitchen
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_kitchen
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_kitchen
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207rm16
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207rm16
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207rm16
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207rm16
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_kitchen
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_camping_kitchen](none)<br>[](none)<br>[Category Camping
-  Kitchen](none)<br><br>'
+    Kitchen](none)<br><br>'
 markdown_short: '[category_camping_kitchen](none)<br><br>'
 md5: c70f4afd9e2de9f5526e070daaecce06
 md5_10: c70f4afd9e
@@ -140,20 +54,9 @@ md5_6_alpha_upper: 7RM16
 md5_6_upper: C70F4A
 name: Category Camping Kitchen
 name_no_class: Camping Kitchen
-name_no_color: Kitchen
 name_no_size: Kitchen
 name_no_size_short: Kitchen
 name_no_type: Kitchen
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: camping
-oomlout_detail_hierarchy_2_upper: CAMPING
-oomlout_detail_hierarchy_2_upper_length_4: CAMP
-oomlout_detail_hierarchy_3: kitchen
-oomlout_detail_hierarchy_3_upper: KITCHEN
-oomlout_detail_hierarchy_3_upper_length_4: KITC
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_camping_kitchen
 oomp_word: honey_pot sparkles chicken
 oomp_word_emoji: ':honey_pot: :sparkles: :chicken:'
@@ -170,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycamping
@@ -183,61 +81,11 @@ size: kitchen
 size_capital: Kitchen
 size_first_letter: k
 size_first_letter_upper: K
-size_length_1: k
-size_length_2: ki
-size_length_3: kit
-size_length_4: kitc
-size_length_5: kitch
-size_length_6: kitche
-size_name: Kitchen
-size_no_space_length_1: k
-size_no_space_length_2: ki
-size_no_space_length_3: kit
-size_no_space_length_4: kitc
-size_no_space_length_5: kitch
-size_no_space_length_6: kitche
-size_no_space_upper_length_1: K
-size_no_space_upper_length_2: KI
-size_no_space_upper_length_3: KIT
-size_no_space_upper_length_4: KITC
-size_no_space_upper_length_5: KITCH
-size_no_space_upper_length_6: KITCHE
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: KITCHEN
-size_upper_length_1: K
-size_upper_length_2: KI
-size_upper_length_3: KIT
-size_upper_length_4: KITC
-size_upper_length_5: KITCH
-size_upper_length_6: KITCHE
 type: camping
 type_capital: Camping
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: ca
-type_length_3: cam
-type_length_4: camp
-type_length_5: campi
-type_length_6: campin
-type_name: Camping
-type_no_space_length_1: c
-type_no_space_length_2: ca
-type_no_space_length_3: cam
-type_no_space_length_4: camp
-type_no_space_length_5: campi
-type_no_space_length_6: campin
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CA
-type_no_space_upper_length_3: CAM
-type_no_space_upper_length_4: CAMP
-type_no_space_upper_length_5: CAMPI
-type_no_space_upper_length_6: CAMPIN
 type_upper: CAMPING
-type_upper_length_1: C
-type_upper_length_2: CA
-type_upper_length_3: CAM
-type_upper_length_4: CAMP
-type_upper_length_5: CAMPI
-type_upper_length_6: CAMPIN

@@ -1,97 +1,22 @@
-bip_39_word_dash_12: key-favorite-solar-verb-top-wear-shock-pulp-balcony-across-universe-above
-bip_39_word_dash_2: key-favorite
-bip_39_word_dash_3: key-favorite-solar
-bip_39_word_new_br_12: key<br>favorite<br>solar<br>verb<br>top<br>wear<br>shock<br>pulp<br>balcony<br>across<br>universe<br>above
-bip_39_word_new_br_2: key<br>favorite
-bip_39_word_new_br_3: key<br>favorite<br>solar
-bip_39_word_new_line_12: 'key
-
-  favorite
-
-  solar
-
-  verb
-
-  top
-
-  wear
-
-  shock
-
-  pulp
-
-  balcony
-
-  across
-
-  universe
-
-  above'
-bip_39_word_new_line_2: 'key
-
-  favorite'
-bip_39_word_new_line_3: 'key
-
-  favorite
-
-  solar'
-bip_39_word_no_space_12: keyfavoritesolarverbtopwearshockpulpbalconyacrossuniverseabove
-bip_39_word_no_space_2: keyfavorite
-bip_39_word_no_space_3: keyfavoritesolar
-bip_39_word_space_12: key favorite solar verb top wear shock pulp balcony across universe
-  above
-bip_39_word_space_2: key favorite
-bip_39_word_space_3: key favorite solar
-bip_39_word_underscore_12: key_favorite_solar_verb_top_wear_shock_pulp_balcony_across_universe_above
-bip_39_word_underscore_2: key_favorite
-bip_39_word_underscore_3: key_favorite_solar
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,28 +26,17 @@ directory: parts/book_cook_meat
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_cook_meat
 id: book_cook_meat
 id_no_class: cook_meat
-id_no_color: meat
 id_no_size: meat
 id_no_type: meat
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20dugw
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20dugw
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20dugw
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20dugw
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_cook_meat](none)<br>[](none)<br>[Book Cook Meat](none)<br><br>'
@@ -138,20 +52,9 @@ md5_6_alpha_upper: DUGW
 md5_6_upper: 09DB80
 name: Book Cook Meat
 name_no_class: Cook Meat
-name_no_color: Meat
 name_no_size: Meat
 name_no_size_short: Meat
 name_no_type: Meat
-oomlout_detail_hierarchy_1: book
-oomlout_detail_hierarchy_1_upper: BOOK
-oomlout_detail_hierarchy_1_upper_length_4: BOOK
-oomlout_detail_hierarchy_2: cook
-oomlout_detail_hierarchy_2_upper: COOK
-oomlout_detail_hierarchy_2_upper_length_4: COOK
-oomlout_detail_hierarchy_3: meat
-oomlout_detail_hierarchy_3_upper: MEAT
-oomlout_detail_hierarchy_3_upper_length_4: MEAT
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_cook_meat
 oomp_word: angry tent hourglass
 oomp_word_emoji: ':angry: :tent: :hourglass:'
@@ -167,73 +70,18 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: meat
 size_capital: Meat
 size_first_letter: m
 size_first_letter_upper: M
-size_length_1: m
-size_length_2: me
-size_length_3: mea
-size_length_4: meat
-size_length_5: meat
-size_length_6: meat
-size_name: Meat
-size_no_space_length_1: m
-size_no_space_length_2: me
-size_no_space_length_3: mea
-size_no_space_length_4: meat
-size_no_space_length_5: meat
-size_no_space_length_6: meat
-size_no_space_upper_length_1: M
-size_no_space_upper_length_2: ME
-size_no_space_upper_length_3: MEA
-size_no_space_upper_length_4: MEAT
-size_no_space_upper_length_5: MEAT
-size_no_space_upper_length_6: MEAT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: MEAT
-size_upper_length_1: M
-size_upper_length_2: ME
-size_upper_length_3: MEA
-size_upper_length_4: MEAT
-size_upper_length_5: MEAT
-size_upper_length_6: MEAT
 type: cook
 type_capital: Cook
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: coo
-type_length_4: cook
-type_length_5: cook
-type_length_6: cook
-type_name: Cook
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: coo
-type_no_space_length_4: cook
-type_no_space_length_5: cook
-type_no_space_length_6: cook
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COO
-type_no_space_upper_length_4: COOK
-type_no_space_upper_length_5: COOK
-type_no_space_upper_length_6: COOK
 type_upper: COOK
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COO
-type_upper_length_4: COOK
-type_upper_length_5: COOK
-type_upper_length_6: COOK

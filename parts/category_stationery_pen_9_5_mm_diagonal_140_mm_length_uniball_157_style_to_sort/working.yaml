@@ -1,146 +1,23 @@
-bip_39_word_dash_12: bacon-say-omit-venture-trap-explain-lottery-board-develop-melody-hamster-artefact
-bip_39_word_dash_2: bacon-say
-bip_39_word_dash_3: bacon-say-omit
-bip_39_word_new_br_12: bacon<br>say<br>omit<br>venture<br>trap<br>explain<br>lottery<br>board<br>develop<br>melody<br>hamster<br>artefact
-bip_39_word_new_br_2: bacon<br>say
-bip_39_word_new_br_3: bacon<br>say<br>omit
-bip_39_word_new_line_12: 'bacon
-
-  say
-
-  omit
-
-  venture
-
-  trap
-
-  explain
-
-  lottery
-
-  board
-
-  develop
-
-  melody
-
-  hamster
-
-  artefact'
-bip_39_word_new_line_2: 'bacon
-
-  say'
-bip_39_word_new_line_3: 'bacon
-
-  say
-
-  omit'
-bip_39_word_no_space_12: baconsayomitventuretrapexplainlotteryboarddevelopmelodyhamsterartefact
-bip_39_word_no_space_2: baconsay
-bip_39_word_no_space_3: baconsayomit
-bip_39_word_space_12: bacon say omit venture trap explain lottery board develop melody
-  hamster artefact
-bip_39_word_space_2: bacon say
-bip_39_word_space_3: bacon say omit
-bip_39_word_underscore_12: bacon_say_omit_venture_trap_explain_lottery_board_develop_melody_hamster_artefact
-bip_39_word_underscore_2: bacon_say
-bip_39_word_underscore_3: bacon_say_omit
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 9_5_mm_diagonal_140_mm_length_uniball_157_style
 color_capital: 9.5 mm Diagonal 140 mm Length Uniball 157 Style
 color_first_letter: '9'
 color_first_letter_upper: '9'
-color_length_1: '9'
-color_length_2: '9_'
-color_length_3: '9_5'
-color_length_4: '9_5_'
-color_length_5: 9_5_m
-color_length_6: 9_5_mm
-color_name: 9 5 mm Diagonal 140 mm Length Uniball 157 Style
-color_no_space_length_1: '9'
-color_no_space_length_2: '95'
-color_no_space_length_3: 95m
-color_no_space_length_4: 95mm
-color_no_space_length_5: 95mmd
-color_no_space_length_6: 95mmdi
-color_no_space_upper_length_1: '9'
-color_no_space_upper_length_2: '95'
-color_no_space_upper_length_3: 95M
-color_no_space_upper_length_4: 95MM
-color_no_space_upper_length_5: 95MMD
-color_no_space_upper_length_6: 95MMDI
 color_upper: 9_5_MM_DIAGONAL_140_MM_LENGTH_UNIBALL_157_STYLE
-color_upper_length_1: '9'
-color_upper_length_2: '9_'
-color_upper_length_3: '9_5'
-color_upper_length_4: '9_5_'
-color_upper_length_5: 9_5_M
-color_upper_length_6: 9_5_MM
 description: category_stationery
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: to_
-description_extra_length_4: to_s
-description_extra_length_5: to_so
-description_extra_length_6: to_sor
-description_extra_name: To Sort
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tos
-description_extra_no_space_length_4: toso
-description_extra_no_space_length_5: tosor
-description_extra_no_space_length_6: tosort
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOS
-description_extra_no_space_upper_length_4: TOSO
-description_extra_no_space_upper_length_5: TOSOR
-description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TO_
-description_extra_upper_length_4: TO_S
-description_extra_upper_length_5: TO_SO
-description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_1
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
 id: category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
 id_no_class: stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
-id_no_color: to_sort
 id_no_size: 9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
 id_no_type: pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2082ici
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2082ici
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2082ici
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2082ici
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort](none)<br>[](none)<br>[Category
-  Stationery Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort](none)<br><br>'
+    Stationery Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort](none)<br><br>'
 markdown_short: '[category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort](none)<br><br>'
 md5: ced162a1e418b0814273af2534eff88a
 md5_10: ced162a1e4
@@ -186,28 +52,11 @@ md5_6: ced162
 md5_6_alpha: 82ici
 md5_6_alpha_upper: 82ICI
 md5_6_upper: CED162
-name: Category Stationery Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style To Sort
-name_no_class: Stationery Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style To Sort
-name_no_color: To Sort
-name_no_size: 9 5 mm Diagonal 140 mm Length Uniball 157 Style To Sort
+name: Category Stationery Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort
+name_no_class: Stationery Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort
+name_no_size: 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort
 name_no_size_short: 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort
-name_no_type: Pen 9 5 mm Diagonal 140 mm Length Uniball 157 Style To Sort
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: stationery
-oomlout_detail_hierarchy_2_upper: STATIONERY
-oomlout_detail_hierarchy_2_upper_length_4: STAT
-oomlout_detail_hierarchy_3: pen
-oomlout_detail_hierarchy_3_upper: PEN
-oomlout_detail_hierarchy_3_upper_length_4: PEN
-oomlout_detail_hierarchy_4: 140_mm_length
-oomlout_detail_hierarchy_4_upper: 140_MM_LENGTH
-oomlout_detail_hierarchy_4_upper_length_4: 140L
-oomlout_detail_hierarchy_5: to_sort
-oomlout_detail_hierarchy_5_upper: TO_SORT
-oomlout_detail_hierarchy_5_upper_length_4: TO_S
-oomlout_oomp_utility_custom_data_manipulation: true
+name_no_type: Pen 9 5 Mm Diagonal 140 Mm Length Uniball 157 Style To Sort
 oomp_key: oomp_category_stationery_pen_9_5_mm_diagonal_140_mm_length_uniball_157_style_to_sort
 oomp_word: peach pear tulip
 oomp_word_emoji: ':peach: :pear: :tulip:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorystationery
@@ -237,61 +81,11 @@ size: pen
 size_capital: Pen
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pe
-size_length_3: pen
-size_length_4: pen
-size_length_5: pen
-size_length_6: pen
-size_name: Pen
-size_no_space_length_1: p
-size_no_space_length_2: pe
-size_no_space_length_3: pen
-size_no_space_length_4: pen
-size_no_space_length_5: pen
-size_no_space_length_6: pen
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PE
-size_no_space_upper_length_3: PEN
-size_no_space_upper_length_4: PEN
-size_no_space_upper_length_5: PEN
-size_no_space_upper_length_6: PEN
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PEN
-size_upper_length_1: P
-size_upper_length_2: PE
-size_upper_length_3: PEN
-size_upper_length_4: PEN
-size_upper_length_5: PEN
-size_upper_length_6: PEN
 type: stationery
 type_capital: Stationery
 type_first_letter: s
 type_first_letter_upper: S
-type_length_1: s
-type_length_2: st
-type_length_3: sta
-type_length_4: stat
-type_length_5: stati
-type_length_6: statio
-type_name: Stationery
-type_no_space_length_1: s
-type_no_space_length_2: st
-type_no_space_length_3: sta
-type_no_space_length_4: stat
-type_no_space_length_5: stati
-type_no_space_length_6: statio
-type_no_space_upper_length_1: S
-type_no_space_upper_length_2: ST
-type_no_space_upper_length_3: STA
-type_no_space_upper_length_4: STAT
-type_no_space_upper_length_5: STATI
-type_no_space_upper_length_6: STATIO
 type_upper: STATIONERY
-type_upper_length_1: S
-type_upper_length_2: ST
-type_upper_length_3: STA
-type_upper_length_4: STAT
-type_upper_length_5: STATI
-type_upper_length_6: STATIO

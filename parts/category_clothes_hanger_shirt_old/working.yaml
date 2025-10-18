@@ -1,146 +1,23 @@
-bip_39_word_dash_12: sauce-loud-mule-beach-find-belt-junior-enact-transfer-word-relief-age
-bip_39_word_dash_2: sauce-loud
-bip_39_word_dash_3: sauce-loud-mule
-bip_39_word_new_br_12: sauce<br>loud<br>mule<br>beach<br>find<br>belt<br>junior<br>enact<br>transfer<br>word<br>relief<br>age
-bip_39_word_new_br_2: sauce<br>loud
-bip_39_word_new_br_3: sauce<br>loud<br>mule
-bip_39_word_new_line_12: 'sauce
-
-  loud
-
-  mule
-
-  beach
-
-  find
-
-  belt
-
-  junior
-
-  enact
-
-  transfer
-
-  word
-
-  relief
-
-  age'
-bip_39_word_new_line_2: 'sauce
-
-  loud'
-bip_39_word_new_line_3: 'sauce
-
-  loud
-
-  mule'
-bip_39_word_no_space_12: sauceloudmulebeachfindbeltjuniorenacttransferwordreliefage
-bip_39_word_no_space_2: sauceloud
-bip_39_word_no_space_3: sauceloudmule
-bip_39_word_space_12: sauce loud mule beach find belt junior enact transfer word relief
-  age
-bip_39_word_space_2: sauce loud
-bip_39_word_space_3: sauce loud mule
-bip_39_word_underscore_12: sauce_loud_mule_beach_find_belt_junior_enact_transfer_word_relief_age
-bip_39_word_underscore_2: sauce_loud
-bip_39_word_underscore_3: sauce_loud_mule
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: shirt
 color_capital: Shirt
 color_first_letter: s
 color_first_letter_upper: S
-color_length_1: s
-color_length_2: sh
-color_length_3: shi
-color_length_4: shir
-color_length_5: shirt
-color_length_6: shirt
-color_name: Shirt
-color_no_space_length_1: s
-color_no_space_length_2: sh
-color_no_space_length_3: shi
-color_no_space_length_4: shir
-color_no_space_length_5: shirt
-color_no_space_length_6: shirt
-color_no_space_upper_length_1: S
-color_no_space_upper_length_2: SH
-color_no_space_upper_length_3: SHI
-color_no_space_upper_length_4: SHIR
-color_no_space_upper_length_5: SHIRT
-color_no_space_upper_length_6: SHIRT
 color_upper: SHIRT
-color_upper_length_1: S
-color_upper_length_2: SH
-color_upper_length_3: SHI
-color_upper_length_4: SHIR
-color_upper_length_5: SHIRT
-color_upper_length_6: SHIRT
 description: category_clothes
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_clothes_hanger_shirt_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_clothes_hanger_shirt_old
 id: category_clothes_hanger_shirt_old
 id_no_class: clothes_hanger_shirt_old
-id_no_color: old
 id_no_size: shirt_old
 id_no_type: hanger_shirt_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030qtb
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030qtb
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030qtb
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030qtb
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_clothes_hanger_shirt_old](none)<br>[](none)<br>[Category
-  Clothes Hanger Shirt Old](none)<br><br>'
+    Clothes Hanger Shirt Old](none)<br><br>'
 markdown_short: '[category_clothes_hanger_shirt_old](none)<br><br>'
 md5: 4d6abf5f39496f2453ab513722a10dfc
 md5_10: 4d6abf5f39
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 30QTB
 md5_6_upper: 4D6ABF
 name: Category Clothes Hanger Shirt Old
 name_no_class: Clothes Hanger Shirt Old
-name_no_color: Old
 name_no_size: Shirt Old
 name_no_size_short: Shirt Old
 name_no_type: Hanger Shirt Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: clothes
-oomlout_detail_hierarchy_2_upper: CLOTHES
-oomlout_detail_hierarchy_2_upper_length_4: CLOT
-oomlout_detail_hierarchy_3: hanger
-oomlout_detail_hierarchy_3_upper: HANGER
-oomlout_detail_hierarchy_3_upper_length_4: HANG
-oomlout_detail_hierarchy_4: shirt
-oomlout_detail_hierarchy_4_upper: SHIRT
-oomlout_detail_hierarchy_4_upper_length_4: SHIR
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_clothes_hanger_shirt_old
 oomp_word: bug palm_tree egg
 oomp_word_emoji: ':bug: :palm_tree: :egg:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryclothes
@@ -237,61 +81,11 @@ size: hanger
 size_capital: Hanger
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: ha
-size_length_3: han
-size_length_4: hang
-size_length_5: hange
-size_length_6: hanger
-size_name: Hanger
-size_no_space_length_1: h
-size_no_space_length_2: ha
-size_no_space_length_3: han
-size_no_space_length_4: hang
-size_no_space_length_5: hange
-size_no_space_length_6: hanger
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HA
-size_no_space_upper_length_3: HAN
-size_no_space_upper_length_4: HANG
-size_no_space_upper_length_5: HANGE
-size_no_space_upper_length_6: HANGER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HANGER
-size_upper_length_1: H
-size_upper_length_2: HA
-size_upper_length_3: HAN
-size_upper_length_4: HANG
-size_upper_length_5: HANGE
-size_upper_length_6: HANGER
 type: clothes
 type_capital: Clothes
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cl
-type_length_3: clo
-type_length_4: clot
-type_length_5: cloth
-type_length_6: clothe
-type_name: Clothes
-type_no_space_length_1: c
-type_no_space_length_2: cl
-type_no_space_length_3: clo
-type_no_space_length_4: clot
-type_no_space_length_5: cloth
-type_no_space_length_6: clothe
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CL
-type_no_space_upper_length_3: CLO
-type_no_space_upper_length_4: CLOT
-type_no_space_upper_length_5: CLOTH
-type_no_space_upper_length_6: CLOTHE
 type_upper: CLOTHES
-type_upper_length_1: C
-type_upper_length_2: CL
-type_upper_length_3: CLO
-type_upper_length_4: CLOT
-type_upper_length_5: CLOTH
-type_upper_length_6: CLOTHE

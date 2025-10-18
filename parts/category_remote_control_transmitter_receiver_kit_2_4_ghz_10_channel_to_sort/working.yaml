@@ -1,0 +1,91 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 2_4_ghz_10_channel
+color_capital: 2.4 Ghz 10 Channel
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: 2_4_GHZ_10_CHANNEL
+description: category_remote_control
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+id_no_class: remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+id_no_size: 2_4_ghz_10_channel_to_sort
+id_no_type: transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort](none)<br>[](none)<br>[Category
+    Remote Control Transmitter Receiver Kit 2 4 Ghz 10 Channel To Sort](none)<br><br>'
+markdown_short: '[category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort](none)<br><br>'
+md5: e94845ecf60ba8eb5d2fe9d2cc557608
+md5_10: e94845ecf6
+md5_10_upper: E94845ECF6
+md5_5: e9484
+md5_5_upper: E9484
+md5_6: e94845
+md5_6_alpha: 93olh
+md5_6_alpha_upper: 93OLH
+md5_6_upper: E94845
+name: Category Remote Control Transmitter Receiver Kit 2 4 Ghz 10 Channel To Sort
+name_no_class: Remote Control Transmitter Receiver Kit 2 4 Ghz 10 Channel To Sort
+name_no_size: 2 4 Ghz 10 Channel To Sort
+name_no_size_short: 2 4 Ghz 10 Channel To Sort
+name_no_type: Transmitter Receiver Kit 2 4 Ghz 10 Channel To Sort
+oomp_key: oomp_category_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_to_sort
+oomp_word: bike hatched_chick snake
+oomp_word_emoji: ':bike: :hatched_chick: :snake:'
+oomp_word_emoji_list:
+- ':bike:'
+- ':hatched_chick:'
+- ':snake:'
+oomp_word_list:
+- bike
+- hatched_chick
+- snake
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryremotecontrol
+size: transmitter_receiver_kit
+size_capital: Transmitter Receiver Kit
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRANSMITTER_RECEIVER_KIT
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

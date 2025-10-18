@@ -1,146 +1,23 @@
-bip_39_word_dash_12: river-elegant-try-vivid-provide-toe-dry-first-supreme-twice-toddler-auction
-bip_39_word_dash_2: river-elegant
-bip_39_word_dash_3: river-elegant-try
-bip_39_word_new_br_12: river<br>elegant<br>try<br>vivid<br>provide<br>toe<br>dry<br>first<br>supreme<br>twice<br>toddler<br>auction
-bip_39_word_new_br_2: river<br>elegant
-bip_39_word_new_br_3: river<br>elegant<br>try
-bip_39_word_new_line_12: 'river
-
-  elegant
-
-  try
-
-  vivid
-
-  provide
-
-  toe
-
-  dry
-
-  first
-
-  supreme
-
-  twice
-
-  toddler
-
-  auction'
-bip_39_word_new_line_2: 'river
-
-  elegant'
-bip_39_word_new_line_3: 'river
-
-  elegant
-
-  try'
-bip_39_word_no_space_12: rivereleganttryvividprovidetoedryfirstsupremetwicetoddlerauction
-bip_39_word_no_space_2: riverelegant
-bip_39_word_no_space_3: rivereleganttry
-bip_39_word_space_12: river elegant try vivid provide toe dry first supreme twice
-  toddler auction
-bip_39_word_space_2: river elegant
-bip_39_word_space_3: river elegant try
-bip_39_word_underscore_12: river_elegant_try_vivid_provide_toe_dry_first_supreme_twice_toddler_auction
-bip_39_word_underscore_2: river_elegant
-bip_39_word_underscore_3: river_elegant_try
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: bolt
 color_capital: Bolt
 color_first_letter: b
 color_first_letter_upper: B
-color_length_1: b
-color_length_2: bo
-color_length_3: bol
-color_length_4: bolt
-color_length_5: bolt
-color_length_6: bolt
-color_name: Bolt
-color_no_space_length_1: b
-color_no_space_length_2: bo
-color_no_space_length_3: bol
-color_no_space_length_4: bolt
-color_no_space_length_5: bolt
-color_no_space_length_6: bolt
-color_no_space_upper_length_1: B
-color_no_space_upper_length_2: BO
-color_no_space_upper_length_3: BOL
-color_no_space_upper_length_4: BOLT
-color_no_space_upper_length_5: BOLT
-color_no_space_upper_length_6: BOLT
 color_upper: BOLT
-color_upper_length_1: B
-color_upper_length_2: BO
-color_upper_length_3: BOL
-color_upper_length_4: BOLT
-color_upper_length_5: BOLT
-color_upper_length_6: BOLT
 description: category_oobb
 description_extra: tote
 description_extra_capital: Tote
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: tot
-description_extra_length_4: tote
-description_extra_length_5: tote
-description_extra_length_6: tote
-description_extra_name: Tote
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tot
-description_extra_no_space_length_4: tote
-description_extra_no_space_length_5: tote
-description_extra_no_space_length_6: tote
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOT
-description_extra_no_space_upper_length_4: TOTE
-description_extra_no_space_upper_length_5: TOTE
-description_extra_no_space_upper_length_6: TOTE
 description_extra_upper: TOTE
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TOT
-description_extra_upper_length_4: TOTE
-description_extra_upper_length_5: TOTE
-description_extra_upper_length_6: TOTE
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_oobb_part_bolt_tote
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_oobb_part_bolt_tote
 id: category_oobb_part_bolt_tote
 id_no_class: oobb_part_bolt_tote
-id_no_color: tote
 id_no_size: bolt_tote
 id_no_type: part_bolt_tote
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ct16
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ct16
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209ct16
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ct16
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_oobb_part_bolt_tote
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_oobb_part_bolt_tote](none)<br>[](none)<br>[Category Oobb
-  Part Bolt Tote](none)<br><br>'
+    Part Bolt Tote](none)<br><br>'
 markdown_short: '[category_oobb_part_bolt_tote](none)<br><br>'
 md5: efc6fad6cf5768778e567f53d3d1e5d6
 md5_10: efc6fad6cf
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 9CT16
 md5_6_upper: EFC6FA
 name: Category Oobb Part Bolt Tote
 name_no_class: Oobb Part Bolt Tote
-name_no_color: Tote
 name_no_size: Bolt Tote
 name_no_size_short: Bolt Tote
 name_no_type: Part Bolt Tote
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: oobb
-oomlout_detail_hierarchy_2_upper: OOBB
-oomlout_detail_hierarchy_2_upper_length_4: OOBB
-oomlout_detail_hierarchy_3: part
-oomlout_detail_hierarchy_3_upper: PART
-oomlout_detail_hierarchy_3_upper_length_4: PART
-oomlout_detail_hierarchy_4: bolt
-oomlout_detail_hierarchy_4_upper: BOLT
-oomlout_detail_hierarchy_4_upper_length_4: BOLT
-oomlout_detail_hierarchy_5: tote
-oomlout_detail_hierarchy_5_upper: TOTE
-oomlout_detail_hierarchy_5_upper_length_4: TOTE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_oobb_part_bolt_tote
 oomp_word: truck lollipop nine
 oomp_word_emoji: ':truck: :lollipop: :nine:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryoobb
@@ -237,61 +81,11 @@ size: part
 size_capital: Part
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: par
-size_length_4: part
-size_length_5: part
-size_length_6: part
-size_name: Part
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: par
-size_no_space_length_4: part
-size_no_space_length_5: part
-size_no_space_length_6: part
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAR
-size_no_space_upper_length_4: PART
-size_no_space_upper_length_5: PART
-size_no_space_upper_length_6: PART
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PART
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAR
-size_upper_length_4: PART
-size_upper_length_5: PART
-size_upper_length_6: PART
 type: oobb
 type_capital: Oobb
 type_first_letter: o
 type_first_letter_upper: O
-type_length_1: o
-type_length_2: oo
-type_length_3: oob
-type_length_4: oobb
-type_length_5: oobb
-type_length_6: oobb
-type_name: Oobb
-type_no_space_length_1: o
-type_no_space_length_2: oo
-type_no_space_length_3: oob
-type_no_space_length_4: oobb
-type_no_space_length_5: oobb
-type_no_space_length_6: oobb
-type_no_space_upper_length_1: O
-type_no_space_upper_length_2: OO
-type_no_space_upper_length_3: OOB
-type_no_space_upper_length_4: OOBB
-type_no_space_upper_length_5: OOBB
-type_no_space_upper_length_6: OOBB
 type_upper: OOBB
-type_upper_length_1: O
-type_upper_length_2: OO
-type_upper_length_3: OOB
-type_upper_length_4: OOBB
-type_upper_length_5: OOBB
-type_upper_length_6: OOBB

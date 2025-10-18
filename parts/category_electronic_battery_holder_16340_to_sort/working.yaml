@@ -1,146 +1,23 @@
-bip_39_word_dash_12: conduct-dress-humor-cruel-unfold-blanket-endorse-lake-phrase-exit-relax-alley
-bip_39_word_dash_2: conduct-dress
-bip_39_word_dash_3: conduct-dress-humor
-bip_39_word_new_br_12: conduct<br>dress<br>humor<br>cruel<br>unfold<br>blanket<br>endorse<br>lake<br>phrase<br>exit<br>relax<br>alley
-bip_39_word_new_br_2: conduct<br>dress
-bip_39_word_new_br_3: conduct<br>dress<br>humor
-bip_39_word_new_line_12: 'conduct
-
-  dress
-
-  humor
-
-  cruel
-
-  unfold
-
-  blanket
-
-  endorse
-
-  lake
-
-  phrase
-
-  exit
-
-  relax
-
-  alley'
-bip_39_word_new_line_2: 'conduct
-
-  dress'
-bip_39_word_new_line_3: 'conduct
-
-  dress
-
-  humor'
-bip_39_word_no_space_12: conductdresshumorcruelunfoldblanketendorselakephraseexitrelaxalley
-bip_39_word_no_space_2: conductdress
-bip_39_word_no_space_3: conductdresshumor
-bip_39_word_space_12: conduct dress humor cruel unfold blanket endorse lake phrase
-  exit relax alley
-bip_39_word_space_2: conduct dress
-bip_39_word_space_3: conduct dress humor
-bip_39_word_underscore_12: conduct_dress_humor_cruel_unfold_blanket_endorse_lake_phrase_exit_relax_alley
-bip_39_word_underscore_2: conduct_dress
-bip_39_word_underscore_3: conduct_dress_humor
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: '16340'
 color_capital: '16340'
 color_first_letter: '1'
 color_first_letter_upper: '1'
-color_length_1: '1'
-color_length_2: '16'
-color_length_3: '163'
-color_length_4: '1634'
-color_length_5: '16340'
-color_length_6: '16340'
-color_name: '16340'
-color_no_space_length_1: '1'
-color_no_space_length_2: '16'
-color_no_space_length_3: '163'
-color_no_space_length_4: '1634'
-color_no_space_length_5: '16340'
-color_no_space_length_6: '16340'
-color_no_space_upper_length_1: '1'
-color_no_space_upper_length_2: '16'
-color_no_space_upper_length_3: '163'
-color_no_space_upper_length_4: '1634'
-color_no_space_upper_length_5: '16340'
-color_no_space_upper_length_6: '16340'
 color_upper: '16340'
-color_upper_length_1: '1'
-color_upper_length_2: '16'
-color_upper_length_3: '163'
-color_upper_length_4: '1634'
-color_upper_length_5: '16340'
-color_upper_length_6: '16340'
 description: category_electronic
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: to_
-description_extra_length_4: to_s
-description_extra_length_5: to_so
-description_extra_length_6: to_sor
-description_extra_name: To Sort
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tos
-description_extra_no_space_length_4: toso
-description_extra_no_space_length_5: tosor
-description_extra_no_space_length_6: tosort
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOS
-description_extra_no_space_upper_length_4: TOSO
-description_extra_no_space_upper_length_5: TOSOR
-description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TO_
-description_extra_upper_length_4: TO_S
-description_extra_upper_length_5: TO_SO
-description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_electronic_battery_holder_16340_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_holder_16340_to_sort
 id: category_electronic_battery_holder_16340_to_sort
 id_no_class: electronic_battery_holder_16340_to_sort
-id_no_color: to_sort
 id_no_size: 16340_to_sort
 id_no_type: battery_holder_16340_to_sort
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_to_sort
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_to_sort
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_to_sort
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20442kz
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20442kz
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20442kz
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20442kz
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_holder_16340_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_battery_holder_16340_to_sort](none)<br>[](none)<br>[Category
-  Electronic Battery Holder 16340 To Sort](none)<br><br>'
+    Electronic Battery Holder 16340 To Sort](none)<br><br>'
 markdown_short: '[category_electronic_battery_holder_16340_to_sort](none)<br><br>'
 md5: 696a13fd1e7ca9385d769348de10a976
 md5_10: 696a13fd1e
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 442KZ
 md5_6_upper: 696A13
 name: Category Electronic Battery Holder 16340 To Sort
 name_no_class: Electronic Battery Holder 16340 To Sort
-name_no_color: To Sort
 name_no_size: 16340 To Sort
 name_no_size_short: 16340 To Sort
 name_no_type: Battery Holder 16340 To Sort
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: battery_holder
-oomlout_detail_hierarchy_3_upper: BATTERY_HOLDER
-oomlout_detail_hierarchy_3_upper_length_4: BATT
-oomlout_detail_hierarchy_4: '16340'
-oomlout_detail_hierarchy_4_upper: '16340'
-oomlout_detail_hierarchy_4_upper_length_4: '1634'
-oomlout_detail_hierarchy_5: to_sort
-oomlout_detail_hierarchy_5_upper: TO_SORT
-oomlout_detail_hierarchy_5_upper_length_4: TO_S
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_electronic_battery_holder_16340_to_sort
 oomp_word: cactus palm_tree question
 oomp_word_emoji: ':cactus: :palm_tree: :question:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -237,61 +81,11 @@ size: battery_holder
 size_capital: Battery Holder
 size_first_letter: b
 size_first_letter_upper: B
-size_length_1: b
-size_length_2: ba
-size_length_3: bat
-size_length_4: batt
-size_length_5: batte
-size_length_6: batter
-size_name: Battery Holder
-size_no_space_length_1: b
-size_no_space_length_2: ba
-size_no_space_length_3: bat
-size_no_space_length_4: batt
-size_no_space_length_5: batte
-size_no_space_length_6: batter
-size_no_space_upper_length_1: B
-size_no_space_upper_length_2: BA
-size_no_space_upper_length_3: BAT
-size_no_space_upper_length_4: BATT
-size_no_space_upper_length_5: BATTE
-size_no_space_upper_length_6: BATTER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: BATTERY_HOLDER
-size_upper_length_1: B
-size_upper_length_2: BA
-size_upper_length_3: BAT
-size_upper_length_4: BATT
-size_upper_length_5: BATTE
-size_upper_length_6: BATTER
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

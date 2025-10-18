@@ -1,0 +1,93 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: brushed_style_dual_motor_tank
+color_capital: Brushed Style Dual Motor Tank
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BRUSHED_STYLE_DUAL_MOTOR_TANK
+description: category_remote_control
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+id_no_class: remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+id_no_size: brushed_style_dual_motor_tank_tote
+id_no_type: electronic_speed_controller_brushed_style_dual_motor_tank_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote](none)<br>[](none)<br>[Category
+    Remote Control Electronic Speed Controller Brushed Style Dual Motor Tank Tote](none)<br><br>'
+markdown_short: '[category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote](none)<br><br>'
+md5: 25d3919791778b7e80f34c8ffbfa4946
+md5_10: 25d3919791
+md5_10_upper: 25D3919791
+md5_5: 25d39
+md5_5_upper: 25D39
+md5_6: 25d391
+md5_6_alpha: 1h4sx
+md5_6_alpha_upper: 1H4SX
+md5_6_upper: 25D391
+name: Category Remote Control Electronic Speed Controller Brushed Style Dual Motor
+    Tank Tote
+name_no_class: Remote Control Electronic Speed Controller Brushed Style Dual Motor
+    Tank Tote
+name_no_size: Brushed Style Dual Motor Tank Tote
+name_no_size_short: Brushed Style Dual Motor Tank Tote
+name_no_type: Electronic Speed Controller Brushed Style Dual Motor Tank Tote
+oomp_key: oomp_category_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_tote
+oomp_word: ear tomato pushpin
+oomp_word_emoji: ':ear: :tomato: :pushpin:'
+oomp_word_emoji_list:
+- ':ear:'
+- ':tomato:'
+- ':pushpin:'
+oomp_word_list:
+- ear
+- tomato
+- pushpin
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryremotecontrol
+size: electronic_speed_controller
+size_capital: Electronic Speed Controller
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELECTRONIC_SPEED_CONTROLLER
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

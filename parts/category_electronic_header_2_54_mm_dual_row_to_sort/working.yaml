@@ -1,146 +1,23 @@
-bip_39_word_dash_12: rude-actual-final-hen-fantasy-motion-fatigue-habit-kangaroo-stock-student-author
-bip_39_word_dash_2: rude-actual
-bip_39_word_dash_3: rude-actual-final
-bip_39_word_new_br_12: rude<br>actual<br>final<br>hen<br>fantasy<br>motion<br>fatigue<br>habit<br>kangaroo<br>stock<br>student<br>author
-bip_39_word_new_br_2: rude<br>actual
-bip_39_word_new_br_3: rude<br>actual<br>final
-bip_39_word_new_line_12: 'rude
-
-  actual
-
-  final
-
-  hen
-
-  fantasy
-
-  motion
-
-  fatigue
-
-  habit
-
-  kangaroo
-
-  stock
-
-  student
-
-  author'
-bip_39_word_new_line_2: 'rude
-
-  actual'
-bip_39_word_new_line_3: 'rude
-
-  actual
-
-  final'
-bip_39_word_no_space_12: rudeactualfinalhenfantasymotionfatiguehabitkangaroostockstudentauthor
-bip_39_word_no_space_2: rudeactual
-bip_39_word_no_space_3: rudeactualfinal
-bip_39_word_space_12: rude actual final hen fantasy motion fatigue habit kangaroo
-  stock student author
-bip_39_word_space_2: rude actual
-bip_39_word_space_3: rude actual final
-bip_39_word_underscore_12: rude_actual_final_hen_fantasy_motion_fatigue_habit_kangaroo_stock_student_author
-bip_39_word_underscore_2: rude_actual
-bip_39_word_underscore_3: rude_actual_final
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 2_54_mm_dual_row
 color_capital: 2.54 mm Dual Row
 color_first_letter: '2'
 color_first_letter_upper: '2'
-color_length_1: '2'
-color_length_2: '2_'
-color_length_3: '2_5'
-color_length_4: '2_54'
-color_length_5: '2_54_'
-color_length_6: 2_54_m
-color_name: 2 54 mm Dual Row
-color_no_space_length_1: '2'
-color_no_space_length_2: '25'
-color_no_space_length_3: '254'
-color_no_space_length_4: 254m
-color_no_space_length_5: 254mm
-color_no_space_length_6: 254mmd
-color_no_space_upper_length_1: '2'
-color_no_space_upper_length_2: '25'
-color_no_space_upper_length_3: '254'
-color_no_space_upper_length_4: 254M
-color_no_space_upper_length_5: 254MM
-color_no_space_upper_length_6: 254MMD
 color_upper: 2_54_MM_DUAL_ROW
-color_upper_length_1: '2'
-color_upper_length_2: '2_'
-color_upper_length_3: '2_5'
-color_upper_length_4: '2_54'
-color_upper_length_5: '2_54_'
-color_upper_length_6: 2_54_M
 description: category_electronic
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: to_
-description_extra_length_4: to_s
-description_extra_length_5: to_so
-description_extra_length_6: to_sor
-description_extra_name: To Sort
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tos
-description_extra_no_space_length_4: toso
-description_extra_no_space_length_5: tosor
-description_extra_no_space_length_6: tosort
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOS
-description_extra_no_space_upper_length_4: TOSO
-description_extra_no_space_upper_length_5: TOSOR
-description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TO_
-description_extra_upper_length_4: TO_S
-description_extra_upper_length_5: TO_SO
-description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_electronic_header_2_54_mm_dual_row_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_header_2_54_mm_dual_row_to_sort
 id: category_electronic_header_2_54_mm_dual_row_to_sort
 id_no_class: electronic_header_2_54_mm_dual_row_to_sort
-id_no_color: to_sort
 id_no_size: 2_54_mm_dual_row_to_sort
 id_no_type: header_2_54_mm_dual_row_to_sort
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_dual_row_to_sort
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_dual_row_to_sort
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_dual_row_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_dual_row_to_sort
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209nwtx
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209nwtx
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209nwtx
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209nwtx
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_dual_row_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_electronic_header_2_54_mm_dual_row_to_sort](none)<br>[](none)<br>[Category
-  Electronic Header 2 54 Mm Dual Row To Sort](none)<br><br>'
+    Electronic Header 2 54 Mm Dual Row To Sort](none)<br><br>'
 markdown_short: '[category_electronic_header_2_54_mm_dual_row_to_sort](none)<br><br>'
 md5: f7aef583cc682a7a412986b2ad00bde7
 md5_10: f7aef583cc
@@ -186,28 +52,11 @@ md5_6: f7aef5
 md5_6_alpha: 9nwtx
 md5_6_alpha_upper: 9NWTX
 md5_6_upper: F7AEF5
-name: Category Electronic Header 2 54 mm Dual Row To Sort
-name_no_class: Electronic Header 2 54 mm Dual Row To Sort
-name_no_color: To Sort
-name_no_size: 2 54 mm Dual Row To Sort
+name: Category Electronic Header 2 54 Mm Dual Row To Sort
+name_no_class: Electronic Header 2 54 Mm Dual Row To Sort
+name_no_size: 2 54 Mm Dual Row To Sort
 name_no_size_short: 2 54 Mm Dual Row To Sort
-name_no_type: Header 2 54 mm Dual Row To Sort
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: electronic
-oomlout_detail_hierarchy_2_upper: ELECTRONIC
-oomlout_detail_hierarchy_2_upper_length_4: ELEC
-oomlout_detail_hierarchy_3: header
-oomlout_detail_hierarchy_3_upper: HEADER
-oomlout_detail_hierarchy_3_upper_length_4: HEAD
-oomlout_detail_hierarchy_4: 2_54_mm_dual_row
-oomlout_detail_hierarchy_4_upper: 2_54_MM_DUAL_ROW
-oomlout_detail_hierarchy_4_upper_length_4: '2_54'
-oomlout_detail_hierarchy_5: to_sort
-oomlout_detail_hierarchy_5_upper: TO_SORT
-oomlout_detail_hierarchy_5_upper_length_4: TO_S
-oomlout_oomp_utility_custom_data_manipulation: true
+name_no_type: Header 2 54 Mm Dual Row To Sort
 oomp_key: oomp_category_electronic_header_2_54_mm_dual_row_to_sort
 oomp_word: six jeans four
 oomp_word_emoji: ':six: :jeans: :four:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryelectronic
@@ -237,61 +81,11 @@ size: header
 size_capital: Header
 size_first_letter: h
 size_first_letter_upper: H
-size_length_1: h
-size_length_2: he
-size_length_3: hea
-size_length_4: head
-size_length_5: heade
-size_length_6: header
-size_name: Header
-size_no_space_length_1: h
-size_no_space_length_2: he
-size_no_space_length_3: hea
-size_no_space_length_4: head
-size_no_space_length_5: heade
-size_no_space_length_6: header
-size_no_space_upper_length_1: H
-size_no_space_upper_length_2: HE
-size_no_space_upper_length_3: HEA
-size_no_space_upper_length_4: HEAD
-size_no_space_upper_length_5: HEADE
-size_no_space_upper_length_6: HEADER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: HEADER
-size_upper_length_1: H
-size_upper_length_2: HE
-size_upper_length_3: HEA
-size_upper_length_4: HEAD
-size_upper_length_5: HEADE
-size_upper_length_6: HEADER
 type: electronic
 type_capital: Electronic
 type_first_letter: e
 type_first_letter_upper: E
-type_length_1: e
-type_length_2: el
-type_length_3: ele
-type_length_4: elec
-type_length_5: elect
-type_length_6: electr
-type_name: Electronic
-type_no_space_length_1: e
-type_no_space_length_2: el
-type_no_space_length_3: ele
-type_no_space_length_4: elec
-type_no_space_length_5: elect
-type_no_space_length_6: electr
-type_no_space_upper_length_1: E
-type_no_space_upper_length_2: EL
-type_no_space_upper_length_3: ELE
-type_no_space_upper_length_4: ELEC
-type_no_space_upper_length_5: ELECT
-type_no_space_upper_length_6: ELECTR
 type_upper: ELECTRONIC
-type_upper_length_1: E
-type_upper_length_2: EL
-type_upper_length_3: ELE
-type_upper_length_4: ELEC
-type_upper_length_5: ELECT
-type_upper_length_6: ELECTR

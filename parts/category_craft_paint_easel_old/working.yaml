@@ -1,146 +1,23 @@
-bip_39_word_dash_12: festival-world-security-narrow-vessel-film-say-smart-submit-equip-waste-armor
-bip_39_word_dash_2: festival-world
-bip_39_word_dash_3: festival-world-security
-bip_39_word_new_br_12: festival<br>world<br>security<br>narrow<br>vessel<br>film<br>say<br>smart<br>submit<br>equip<br>waste<br>armor
-bip_39_word_new_br_2: festival<br>world
-bip_39_word_new_br_3: festival<br>world<br>security
-bip_39_word_new_line_12: 'festival
-
-  world
-
-  security
-
-  narrow
-
-  vessel
-
-  film
-
-  say
-
-  smart
-
-  submit
-
-  equip
-
-  waste
-
-  armor'
-bip_39_word_new_line_2: 'festival
-
-  world'
-bip_39_word_new_line_3: 'festival
-
-  world
-
-  security'
-bip_39_word_no_space_12: festivalworldsecuritynarrowvesselfilmsaysmartsubmitequipwastearmor
-bip_39_word_no_space_2: festivalworld
-bip_39_word_no_space_3: festivalworldsecurity
-bip_39_word_space_12: festival world security narrow vessel film say smart submit
-  equip waste armor
-bip_39_word_space_2: festival world
-bip_39_word_space_3: festival world security
-bip_39_word_underscore_12: festival_world_security_narrow_vessel_film_say_smart_submit_equip_waste_armor
-bip_39_word_underscore_2: festival_world
-bip_39_word_underscore_3: festival_world_security
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: easel
 color_capital: Easel
 color_first_letter: e
 color_first_letter_upper: E
-color_length_1: e
-color_length_2: ea
-color_length_3: eas
-color_length_4: ease
-color_length_5: easel
-color_length_6: easel
-color_name: Easel
-color_no_space_length_1: e
-color_no_space_length_2: ea
-color_no_space_length_3: eas
-color_no_space_length_4: ease
-color_no_space_length_5: easel
-color_no_space_length_6: easel
-color_no_space_upper_length_1: E
-color_no_space_upper_length_2: EA
-color_no_space_upper_length_3: EAS
-color_no_space_upper_length_4: EASE
-color_no_space_upper_length_5: EASEL
-color_no_space_upper_length_6: EASEL
 color_upper: EASEL
-color_upper_length_1: E
-color_upper_length_2: EA
-color_upper_length_3: EAS
-color_upper_length_4: EASE
-color_upper_length_5: EASEL
-color_upper_length_6: EASEL
 description: category_craft
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_craft_paint_easel_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_paint_easel_old
 id: category_craft_paint_easel_old
 id_no_class: craft_paint_easel_old
-id_no_color: old
 id_no_size: easel_old
 id_no_type: paint_easel_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_easel_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_easel_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_easel_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_easel_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207hlqr
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207hlqr
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207hlqr
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207hlqr
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_easel_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_craft_paint_easel_old](none)<br>[](none)<br>[Category Craft
-  Paint Easel Old](none)<br><br>'
+    Paint Easel Old](none)<br><br>'
 markdown_short: '[category_craft_paint_easel_old](none)<br><br>'
 md5: bfef530ec0cc97fd5979893185bf6aa9
 md5_10: bfef530ec0
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 7HLQR
 md5_6_upper: BFEF53
 name: Category Craft Paint Easel Old
 name_no_class: Craft Paint Easel Old
-name_no_color: Old
 name_no_size: Easel Old
 name_no_size_short: Easel Old
 name_no_type: Paint Easel Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: craft
-oomlout_detail_hierarchy_2_upper: CRAFT
-oomlout_detail_hierarchy_2_upper_length_4: CRAF
-oomlout_detail_hierarchy_3: paint
-oomlout_detail_hierarchy_3_upper: PAINT
-oomlout_detail_hierarchy_3_upper_length_4: PAIN
-oomlout_detail_hierarchy_4: easel
-oomlout_detail_hierarchy_4_upper: EASEL
-oomlout_detail_hierarchy_4_upper_length_4: EASE
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_craft_paint_easel_old
 oomp_word: egg truck fish
 oomp_word_emoji: ':egg: :truck: :fish:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorycraft
@@ -237,61 +81,11 @@ size: paint
 size_capital: Paint
 size_first_letter: p
 size_first_letter_upper: P
-size_length_1: p
-size_length_2: pa
-size_length_3: pai
-size_length_4: pain
-size_length_5: paint
-size_length_6: paint
-size_name: Paint
-size_no_space_length_1: p
-size_no_space_length_2: pa
-size_no_space_length_3: pai
-size_no_space_length_4: pain
-size_no_space_length_5: paint
-size_no_space_length_6: paint
-size_no_space_upper_length_1: P
-size_no_space_upper_length_2: PA
-size_no_space_upper_length_3: PAI
-size_no_space_upper_length_4: PAIN
-size_no_space_upper_length_5: PAINT
-size_no_space_upper_length_6: PAINT
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: PAINT
-size_upper_length_1: P
-size_upper_length_2: PA
-size_upper_length_3: PAI
-size_upper_length_4: PAIN
-size_upper_length_5: PAINT
-size_upper_length_6: PAINT
 type: craft
 type_capital: Craft
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: cr
-type_length_3: cra
-type_length_4: craf
-type_length_5: craft
-type_length_6: craft
-type_name: Craft
-type_no_space_length_1: c
-type_no_space_length_2: cr
-type_no_space_length_3: cra
-type_no_space_length_4: craf
-type_no_space_length_5: craft
-type_no_space_length_6: craft
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CR
-type_no_space_upper_length_3: CRA
-type_no_space_upper_length_4: CRAF
-type_no_space_upper_length_5: CRAFT
-type_no_space_upper_length_6: CRAFT
 type_upper: CRAFT
-type_upper_length_1: C
-type_upper_length_2: CR
-type_upper_length_3: CRA
-type_upper_length_4: CRAF
-type_upper_length_5: CRAFT
-type_upper_length_6: CRAFT

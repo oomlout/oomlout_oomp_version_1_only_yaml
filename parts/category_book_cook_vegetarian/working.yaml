@@ -1,122 +1,23 @@
-bip_39_word_dash_12: prosper-room-cousin-glad-joke-predict-brown-congress-sauce-fiction-type-argue
-bip_39_word_dash_2: prosper-room
-bip_39_word_dash_3: prosper-room-cousin
-bip_39_word_new_br_12: prosper<br>room<br>cousin<br>glad<br>joke<br>predict<br>brown<br>congress<br>sauce<br>fiction<br>type<br>argue
-bip_39_word_new_br_2: prosper<br>room
-bip_39_word_new_br_3: prosper<br>room<br>cousin
-bip_39_word_new_line_12: 'prosper
-
-  room
-
-  cousin
-
-  glad
-
-  joke
-
-  predict
-
-  brown
-
-  congress
-
-  sauce
-
-  fiction
-
-  type
-
-  argue'
-bip_39_word_new_line_2: 'prosper
-
-  room'
-bip_39_word_new_line_3: 'prosper
-
-  room
-
-  cousin'
-bip_39_word_no_space_12: prosperroomcousingladjokepredictbrowncongresssaucefictiontypeargue
-bip_39_word_no_space_2: prosperroom
-bip_39_word_no_space_3: prosperroomcousin
-bip_39_word_space_12: prosper room cousin glad joke predict brown congress sauce fiction
-  type argue
-bip_39_word_space_2: prosper room
-bip_39_word_space_3: prosper room cousin
-bip_39_word_underscore_12: prosper_room_cousin_glad_joke_predict_brown_congress_sauce_fiction_type_argue
-bip_39_word_underscore_2: prosper_room
-bip_39_word_underscore_3: prosper_room_cousin
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: vegetarian
 color_capital: Vegetarian
 color_first_letter: v
 color_first_letter_upper: V
-color_length_1: v
-color_length_2: ve
-color_length_3: veg
-color_length_4: vege
-color_length_5: veget
-color_length_6: vegeta
-color_name: Vegetarian
-color_no_space_length_1: v
-color_no_space_length_2: ve
-color_no_space_length_3: veg
-color_no_space_length_4: vege
-color_no_space_length_5: veget
-color_no_space_length_6: vegeta
-color_no_space_upper_length_1: V
-color_no_space_upper_length_2: VE
-color_no_space_upper_length_3: VEG
-color_no_space_upper_length_4: VEGE
-color_no_space_upper_length_5: VEGET
-color_no_space_upper_length_6: VEGETA
 color_upper: VEGETARIAN
-color_upper_length_1: V
-color_upper_length_2: VE
-color_upper_length_3: VEG
-color_upper_length_4: VEGE
-color_upper_length_5: VEGET
-color_upper_length_6: VEGETA
 description: category_book
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -126,32 +27,21 @@ directory: parts/category_book_cook_vegetarian
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_book_cook_vegetarian
 id: category_book_cook_vegetarian
 id_no_class: book_cook_vegetarian
-id_no_color: vegetarian
 id_no_size: vegetarian
 id_no_type: cook_vegetarian
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20791n9
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20791n9
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20791n9
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20791n9
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_book_cook_vegetarian](none)<br>[](none)<br>[Category Book
-  Cook Vegetarian](none)<br><br>'
+    Cook Vegetarian](none)<br><br>'
 markdown_short: '[category_book_cook_vegetarian](none)<br><br>'
 md5: b9d79575fc2f03a2a6bc262862eefd64
 md5_10: b9d79575fc
@@ -164,23 +54,9 @@ md5_6_alpha_upper: 791N9
 md5_6_upper: B9D795
 name: Category Book Cook Vegetarian
 name_no_class: Book Cook Vegetarian
-name_no_color: Vegetarian
 name_no_size: Vegetarian
 name_no_size_short: Vegetarian
 name_no_type: Cook Vegetarian
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: book
-oomlout_detail_hierarchy_2_upper: BOOK
-oomlout_detail_hierarchy_2_upper_length_4: BOOK
-oomlout_detail_hierarchy_3: cook
-oomlout_detail_hierarchy_3_upper: COOK
-oomlout_detail_hierarchy_3_upper_length_4: COOK
-oomlout_detail_hierarchy_4: vegetarian
-oomlout_detail_hierarchy_4_upper: VEGETARIAN
-oomlout_detail_hierarchy_4_upper_length_4: VEGE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_book_cook_vegetarian
 oomp_word: fries office telescope
 oomp_word_emoji: ':fries: :office: :telescope:'
@@ -197,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorybook
@@ -210,61 +81,11 @@ size: cook
 size_capital: Cook
 size_first_letter: c
 size_first_letter_upper: C
-size_length_1: c
-size_length_2: co
-size_length_3: coo
-size_length_4: cook
-size_length_5: cook
-size_length_6: cook
-size_name: Cook
-size_no_space_length_1: c
-size_no_space_length_2: co
-size_no_space_length_3: coo
-size_no_space_length_4: cook
-size_no_space_length_5: cook
-size_no_space_length_6: cook
-size_no_space_upper_length_1: C
-size_no_space_upper_length_2: CO
-size_no_space_upper_length_3: COO
-size_no_space_upper_length_4: COOK
-size_no_space_upper_length_5: COOK
-size_no_space_upper_length_6: COOK
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: COOK
-size_upper_length_1: C
-size_upper_length_2: CO
-size_upper_length_3: COO
-size_upper_length_4: COOK
-size_upper_length_5: COOK
-size_upper_length_6: COOK
 type: book
 type_capital: Book
 type_first_letter: b
 type_first_letter_upper: B
-type_length_1: b
-type_length_2: bo
-type_length_3: boo
-type_length_4: book
-type_length_5: book
-type_length_6: book
-type_name: Book
-type_no_space_length_1: b
-type_no_space_length_2: bo
-type_no_space_length_3: boo
-type_no_space_length_4: book
-type_no_space_length_5: book
-type_no_space_length_6: book
-type_no_space_upper_length_1: B
-type_no_space_upper_length_2: BO
-type_no_space_upper_length_3: BOO
-type_no_space_upper_length_4: BOOK
-type_no_space_upper_length_5: BOOK
-type_no_space_upper_length_6: BOOK
 type_upper: BOOK
-type_upper_length_1: B
-type_upper_length_2: BO
-type_upper_length_3: BOO
-type_upper_length_4: BOOK
-type_upper_length_5: BOOK
-type_upper_length_6: BOOK

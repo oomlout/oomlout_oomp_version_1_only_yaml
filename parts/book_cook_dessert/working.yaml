@@ -1,97 +1,22 @@
-bip_39_word_dash_12: cute-orchard-shaft-orange-slush-physical-addict-relief-length-practice-clump-around
-bip_39_word_dash_2: cute-orchard
-bip_39_word_dash_3: cute-orchard-shaft
-bip_39_word_new_br_12: cute<br>orchard<br>shaft<br>orange<br>slush<br>physical<br>addict<br>relief<br>length<br>practice<br>clump<br>around
-bip_39_word_new_br_2: cute<br>orchard
-bip_39_word_new_br_3: cute<br>orchard<br>shaft
-bip_39_word_new_line_12: 'cute
-
-  orchard
-
-  shaft
-
-  orange
-
-  slush
-
-  physical
-
-  addict
-
-  relief
-
-  length
-
-  practice
-
-  clump
-
-  around'
-bip_39_word_new_line_2: 'cute
-
-  orchard'
-bip_39_word_new_line_3: 'cute
-
-  orchard
-
-  shaft'
-bip_39_word_no_space_12: cuteorchardshaftorangeslushphysicaladdictrelieflengthpracticeclumparound
-bip_39_word_no_space_2: cuteorchard
-bip_39_word_no_space_3: cuteorchardshaft
-bip_39_word_space_12: cute orchard shaft orange slush physical addict relief length
-  practice clump around
-bip_39_word_space_2: cute orchard
-bip_39_word_space_3: cute orchard shaft
-bip_39_word_underscore_12: cute_orchard_shaft_orange_slush_physical_addict_relief_length_practice_clump_around
-bip_39_word_underscore_2: cute_orchard
-bip_39_word_underscore_3: cute_orchard_shaft
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,28 +26,17 @@ directory: parts/book_cook_dessert
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_cook_dessert
 id: book_cook_dessert
 id_no_class: cook_dessert
-id_no_color: dessert
 id_no_size: dessert
 id_no_type: dessert
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_dessert
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_dessert
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_dessert
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_dessert
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207kzoq
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207kzoq
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207kzoq
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207kzoq
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_dessert
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_cook_dessert](none)<br>[](none)<br>[Book Cook Dessert](none)<br><br>'
@@ -138,20 +52,9 @@ md5_6_alpha_upper: 7KZOQ
 md5_6_upper: C258AA
 name: Book Cook Dessert
 name_no_class: Cook Dessert
-name_no_color: Dessert
 name_no_size: Dessert
 name_no_size_short: Dessert
 name_no_type: Dessert
-oomlout_detail_hierarchy_1: book
-oomlout_detail_hierarchy_1_upper: BOOK
-oomlout_detail_hierarchy_1_upper_length_4: BOOK
-oomlout_detail_hierarchy_2: cook
-oomlout_detail_hierarchy_2_upper: COOK
-oomlout_detail_hierarchy_2_upper_length_4: COOK
-oomlout_detail_hierarchy_3: dessert
-oomlout_detail_hierarchy_3_upper: DESSERT
-oomlout_detail_hierarchy_3_upper_length_4: DESS
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_cook_dessert
 oomp_word: birthday water_buffalo lipstick
 oomp_word_emoji: ':birthday: :water_buffalo: :lipstick:'
@@ -167,73 +70,18 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: dessert
 size_capital: Dessert
 size_first_letter: d
 size_first_letter_upper: D
-size_length_1: d
-size_length_2: de
-size_length_3: des
-size_length_4: dess
-size_length_5: desse
-size_length_6: desser
-size_name: Dessert
-size_no_space_length_1: d
-size_no_space_length_2: de
-size_no_space_length_3: des
-size_no_space_length_4: dess
-size_no_space_length_5: desse
-size_no_space_length_6: desser
-size_no_space_upper_length_1: D
-size_no_space_upper_length_2: DE
-size_no_space_upper_length_3: DES
-size_no_space_upper_length_4: DESS
-size_no_space_upper_length_5: DESSE
-size_no_space_upper_length_6: DESSER
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: DESSERT
-size_upper_length_1: D
-size_upper_length_2: DE
-size_upper_length_3: DES
-size_upper_length_4: DESS
-size_upper_length_5: DESSE
-size_upper_length_6: DESSER
 type: cook
 type_capital: Cook
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: coo
-type_length_4: cook
-type_length_5: cook
-type_length_6: cook
-type_name: Cook
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: coo
-type_no_space_length_4: cook
-type_no_space_length_5: cook
-type_no_space_length_6: cook
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COO
-type_no_space_upper_length_4: COOK
-type_no_space_upper_length_5: COOK
-type_no_space_upper_length_6: COOK
 type_upper: COOK
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COO
-type_upper_length_4: COOK
-type_upper_length_5: COOK
-type_upper_length_6: COOK

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: vocal-tube-slush-argue-phone-fog-rude-coffee-envelope-beach-penalty-arrest
-bip_39_word_dash_2: vocal-tube
-bip_39_word_dash_3: vocal-tube-slush
-bip_39_word_new_br_12: vocal<br>tube<br>slush<br>argue<br>phone<br>fog<br>rude<br>coffee<br>envelope<br>beach<br>penalty<br>arrest
-bip_39_word_new_br_2: vocal<br>tube
-bip_39_word_new_br_3: vocal<br>tube<br>slush
-bip_39_word_new_line_12: 'vocal
-
-  tube
-
-  slush
-
-  argue
-
-  phone
-
-  fog
-
-  rude
-
-  coffee
-
-  envelope
-
-  beach
-
-  penalty
-
-  arrest'
-bip_39_word_new_line_2: 'vocal
-
-  tube'
-bip_39_word_new_line_3: 'vocal
-
-  tube
-
-  slush'
-bip_39_word_no_space_12: vocaltubeslusharguephonefogrudecoffeeenvelopebeachpenaltyarrest
-bip_39_word_no_space_2: vocaltube
-bip_39_word_no_space_3: vocaltubeslush
-bip_39_word_space_12: vocal tube slush argue phone fog rude coffee envelope beach
-  penalty arrest
-bip_39_word_space_2: vocal tube
-bip_39_word_space_3: vocal tube slush
-bip_39_word_underscore_12: vocal_tube_slush_argue_phone_fog_rude_coffee_envelope_beach_penalty_arrest
-bip_39_word_underscore_2: vocal_tube
-bip_39_word_underscore_3: vocal_tube_slush
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: art_paper
 color_capital: Art Paper
 color_first_letter: a
 color_first_letter_upper: A
-color_length_1: a
-color_length_2: ar
-color_length_3: art
-color_length_4: art_
-color_length_5: art_p
-color_length_6: art_pa
-color_name: Art Paper
-color_no_space_length_1: a
-color_no_space_length_2: ar
-color_no_space_length_3: art
-color_no_space_length_4: artp
-color_no_space_length_5: artpa
-color_no_space_length_6: artpap
-color_no_space_upper_length_1: A
-color_no_space_upper_length_2: AR
-color_no_space_upper_length_3: ART
-color_no_space_upper_length_4: ARTP
-color_no_space_upper_length_5: ARTPA
-color_no_space_upper_length_6: ARTPAP
 color_upper: ART_PAPER
-color_upper_length_1: A
-color_upper_length_2: AR
-color_upper_length_3: ART
-color_upper_length_4: ART_
-color_upper_length_5: ART_P
-color_upper_length_6: ART_PA
 description: category_paper
 description_extra: to_sort
 description_extra_capital: To Sort
 description_extra_first_letter: t
 description_extra_first_letter_upper: T
-description_extra_length_1: t
-description_extra_length_2: to
-description_extra_length_3: to_
-description_extra_length_4: to_s
-description_extra_length_5: to_so
-description_extra_length_6: to_sor
-description_extra_name: To Sort
-description_extra_no_space_length_1: t
-description_extra_no_space_length_2: to
-description_extra_no_space_length_3: tos
-description_extra_no_space_length_4: toso
-description_extra_no_space_length_5: tosor
-description_extra_no_space_length_6: tosort
-description_extra_no_space_upper_length_1: T
-description_extra_no_space_upper_length_2: TO
-description_extra_no_space_upper_length_3: TOS
-description_extra_no_space_upper_length_4: TOSO
-description_extra_no_space_upper_length_5: TOSOR
-description_extra_no_space_upper_length_6: TOSORT
 description_extra_upper: TO_SORT
-description_extra_upper_length_1: T
-description_extra_upper_length_2: TO
-description_extra_upper_length_3: TO_
-description_extra_upper_length_4: TO_S
-description_extra_upper_length_5: TO_SO
-description_extra_upper_length_6: TO_SOR
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_paper_sheet_art_paper_to_sort
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_sheet_art_paper_to_sort
 id: category_paper_sheet_art_paper_to_sort
 id_no_class: paper_sheet_art_paper_to_sort
-id_no_color: art_to_sort
 id_no_size: art_to_sort
 id_no_type: sheet_art_to_sort
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_art_paper_to_sort
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_art_paper_to_sort
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_art_paper_to_sort
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_art_paper_to_sort
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207rwn8
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207rwn8
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207rwn8
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207rwn8
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_art_paper_to_sort
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_paper_sheet_art_paper_to_sort](none)<br>[](none)<br>[Category
-  Paper Sheet Art Paper To Sort](none)<br><br>'
+    Paper Sheet Art Paper To Sort](none)<br><br>'
 markdown_short: '[category_paper_sheet_art_paper_to_sort](none)<br><br>'
 md5: c74504da5e2d379d6951c0b998ba87aa
 md5_10: c74504da5e
@@ -188,26 +54,9 @@ md5_6_alpha_upper: 7RWN8
 md5_6_upper: C74504
 name: Category Paper Sheet Art Paper To Sort
 name_no_class: Paper Sheet Art Paper To Sort
-name_no_color: Art To Sort
 name_no_size: Art To Sort
 name_no_size_short: Art To Sort
 name_no_type: Sheet Art To Sort
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: paper
-oomlout_detail_hierarchy_2_upper: PAPER
-oomlout_detail_hierarchy_2_upper_length_4: PAPE
-oomlout_detail_hierarchy_3: sheet
-oomlout_detail_hierarchy_3_upper: SHEET
-oomlout_detail_hierarchy_3_upper_length_4: SHEE
-oomlout_detail_hierarchy_4: art_paper
-oomlout_detail_hierarchy_4_upper: ART_PAPER
-oomlout_detail_hierarchy_4_upper_length_4: ART_
-oomlout_detail_hierarchy_5: to_sort
-oomlout_detail_hierarchy_5_upper: TO_SORT
-oomlout_detail_hierarchy_5_upper_length_4: TO_S
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_category_paper_sheet_art_paper_to_sort
 oomp_word: honey_pot snake wink
 oomp_word_emoji: ':honey_pot: :snake: :wink:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categorypaper
@@ -237,61 +81,11 @@ size: sheet
 size_capital: Sheet
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sh
-size_length_3: she
-size_length_4: shee
-size_length_5: sheet
-size_length_6: sheet
-size_name: Sheet
-size_no_space_length_1: s
-size_no_space_length_2: sh
-size_no_space_length_3: she
-size_no_space_length_4: shee
-size_no_space_length_5: sheet
-size_no_space_length_6: sheet
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SH
-size_no_space_upper_length_3: SHE
-size_no_space_upper_length_4: SHEE
-size_no_space_upper_length_5: SHEET
-size_no_space_upper_length_6: SHEET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHEET
-size_upper_length_1: S
-size_upper_length_2: SH
-size_upper_length_3: SHE
-size_upper_length_4: SHEE
-size_upper_length_5: SHEET
-size_upper_length_6: SHEET
 type: paper
 type_capital: Paper
 type_first_letter: p
 type_first_letter_upper: P
-type_length_1: p
-type_length_2: pa
-type_length_3: pap
-type_length_4: pape
-type_length_5: paper
-type_length_6: paper
-type_name: Paper
-type_no_space_length_1: p
-type_no_space_length_2: pa
-type_no_space_length_3: pap
-type_no_space_length_4: pape
-type_no_space_length_5: paper
-type_no_space_length_6: paper
-type_no_space_upper_length_1: P
-type_no_space_upper_length_2: PA
-type_no_space_upper_length_3: PAP
-type_no_space_upper_length_4: PAPE
-type_no_space_upper_length_5: PAPER
-type_no_space_upper_length_6: PAPER
 type_upper: PAPER
-type_upper_length_1: P
-type_upper_length_2: PA
-type_upper_length_3: PAP
-type_upper_length_4: PAPE
-type_upper_length_5: PAPER
-type_upper_length_6: PAPER

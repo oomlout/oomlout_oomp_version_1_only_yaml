@@ -1,97 +1,22 @@
-bip_39_word_dash_12: ability-person-clever-hero-surge-bone-tortoise-tumble-smart-absorb-lens-around
-bip_39_word_dash_2: ability-person
-bip_39_word_dash_3: ability-person-clever
-bip_39_word_new_br_12: ability<br>person<br>clever<br>hero<br>surge<br>bone<br>tortoise<br>tumble<br>smart<br>absorb<br>lens<br>around
-bip_39_word_new_br_2: ability<br>person
-bip_39_word_new_br_3: ability<br>person<br>clever
-bip_39_word_new_line_12: 'ability
-
-  person
-
-  clever
-
-  hero
-
-  surge
-
-  bone
-
-  tortoise
-
-  tumble
-
-  smart
-
-  absorb
-
-  lens
-
-  around'
-bip_39_word_new_line_2: 'ability
-
-  person'
-bip_39_word_new_line_3: 'ability
-
-  person
-
-  clever'
-bip_39_word_no_space_12: abilitypersoncleverherosurgebonetortoisetumblesmartabsorblensaround
-bip_39_word_no_space_2: abilityperson
-bip_39_word_no_space_3: abilitypersonclever
-bip_39_word_space_12: ability person clever hero surge bone tortoise tumble smart
-  absorb lens around
-bip_39_word_space_2: ability person
-bip_39_word_space_3: ability person clever
-bip_39_word_underscore_12: ability_person_clever_hero_surge_bone_tortoise_tumble_smart_absorb_lens_around
-bip_39_word_underscore_2: ability_person
-bip_39_word_underscore_3: ability_person_clever
 classification: book
 classification_capital: Book
 classification_first_letter: b
 classification_first_letter_upper: B
-classification_length_1: b
-classification_length_2: bo
-classification_length_3: boo
-classification_length_4: book
-classification_length_5: book
-classification_length_6: book
-classification_name: Book
-classification_no_space_length_1: b
-classification_no_space_length_2: bo
-classification_no_space_length_3: boo
-classification_no_space_length_4: book
-classification_no_space_length_5: book
-classification_no_space_length_6: book
-classification_no_space_upper_length_1: B
-classification_no_space_upper_length_2: BO
-classification_no_space_upper_length_3: BOO
-classification_no_space_upper_length_4: BOOK
-classification_no_space_upper_length_5: BOOK
-classification_no_space_upper_length_6: BOOK
 classification_upper: BOOK
-classification_upper_length_1: B
-classification_upper_length_2: BO
-classification_upper_length_3: BOO
-classification_upper_length_4: BOOK
-classification_upper_length_5: BOOK
-classification_upper_length_6: BOOK
 color: ''
 color_capital: ''
 color_first_letter: ''
 color_first_letter_upper: ''
-color_name: ''
 color_upper: ''
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
-description_extra_name: ''
 description_extra_upper: ''
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -101,28 +26,17 @@ directory: parts/book_cook_vegetarian
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_cook_vegetarian
 id: book_cook_vegetarian
 id_no_class: cook_vegetarian
-id_no_color: vegetarian
 id_no_size: vegetarian
 id_no_type: vegetarian
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207lwsg
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207lwsg
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207lwsg
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207lwsg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[book_cook_vegetarian](none)<br>[](none)<br>[Book Cook Vegetarian](none)<br><br>'
@@ -138,20 +52,9 @@ md5_6_alpha_upper: 7LWSG
 md5_6_upper: C30040
 name: Book Cook Vegetarian
 name_no_class: Cook Vegetarian
-name_no_color: Vegetarian
 name_no_size: Vegetarian
 name_no_size_short: Vegetarian
 name_no_type: Vegetarian
-oomlout_detail_hierarchy_1: book
-oomlout_detail_hierarchy_1_upper: BOOK
-oomlout_detail_hierarchy_1_upper_length_4: BOOK
-oomlout_detail_hierarchy_2: cook
-oomlout_detail_hierarchy_2_upper: COOK
-oomlout_detail_hierarchy_2_upper_length_4: COOK
-oomlout_detail_hierarchy_3: vegetarian
-oomlout_detail_hierarchy_3_upper: VEGETARIAN
-oomlout_detail_hierarchy_3_upper_length_4: VEGE
-oomlout_oomp_utility_custom_data_manipulation: true
 oomp_key: oomp_book_cook_vegetarian
 oomp_word: cake bowtie racehorse
 oomp_word_emoji: ':cake: :bowtie: :racehorse:'
@@ -167,73 +70,18 @@ part_number: ''
 part_number_capital: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 size: vegetarian
 size_capital: Vegetarian
 size_first_letter: v
 size_first_letter_upper: V
-size_length_1: v
-size_length_2: ve
-size_length_3: veg
-size_length_4: vege
-size_length_5: veget
-size_length_6: vegeta
-size_name: Vegetarian
-size_no_space_length_1: v
-size_no_space_length_2: ve
-size_no_space_length_3: veg
-size_no_space_length_4: vege
-size_no_space_length_5: veget
-size_no_space_length_6: vegeta
-size_no_space_upper_length_1: V
-size_no_space_upper_length_2: VE
-size_no_space_upper_length_3: VEG
-size_no_space_upper_length_4: VEGE
-size_no_space_upper_length_5: VEGET
-size_no_space_upper_length_6: VEGETA
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: VEGETARIAN
-size_upper_length_1: V
-size_upper_length_2: VE
-size_upper_length_3: VEG
-size_upper_length_4: VEGE
-size_upper_length_5: VEGET
-size_upper_length_6: VEGETA
 type: cook
 type_capital: Cook
 type_first_letter: c
 type_first_letter_upper: C
-type_length_1: c
-type_length_2: co
-type_length_3: coo
-type_length_4: cook
-type_length_5: cook
-type_length_6: cook
-type_name: Cook
-type_no_space_length_1: c
-type_no_space_length_2: co
-type_no_space_length_3: coo
-type_no_space_length_4: cook
-type_no_space_length_5: cook
-type_no_space_length_6: cook
-type_no_space_upper_length_1: C
-type_no_space_upper_length_2: CO
-type_no_space_upper_length_3: COO
-type_no_space_upper_length_4: COOK
-type_no_space_upper_length_5: COOK
-type_no_space_upper_length_6: COOK
 type_upper: COOK
-type_upper_length_1: C
-type_upper_length_2: CO
-type_upper_length_3: COO
-type_upper_length_4: COOK
-type_upper_length_5: COOK
-type_upper_length_6: COOK

@@ -1,146 +1,23 @@
-bip_39_word_dash_12: tourist-stick-gift-able-giant-pioneer-turtle-skate-convince-lizard-version-amazing
-bip_39_word_dash_2: tourist-stick
-bip_39_word_dash_3: tourist-stick-gift
-bip_39_word_new_br_12: tourist<br>stick<br>gift<br>able<br>giant<br>pioneer<br>turtle<br>skate<br>convince<br>lizard<br>version<br>amazing
-bip_39_word_new_br_2: tourist<br>stick
-bip_39_word_new_br_3: tourist<br>stick<br>gift
-bip_39_word_new_line_12: 'tourist
-
-  stick
-
-  gift
-
-  able
-
-  giant
-
-  pioneer
-
-  turtle
-
-  skate
-
-  convince
-
-  lizard
-
-  version
-
-  amazing'
-bip_39_word_new_line_2: 'tourist
-
-  stick'
-bip_39_word_new_line_3: 'tourist
-
-  stick
-
-  gift'
-bip_39_word_no_space_12: touriststickgiftablegiantpioneerturtleskateconvincelizardversionamazing
-bip_39_word_no_space_2: touriststick
-bip_39_word_no_space_3: touriststickgift
-bip_39_word_space_12: tourist stick gift able giant pioneer turtle skate convince
-  lizard version amazing
-bip_39_word_space_2: tourist stick
-bip_39_word_space_3: tourist stick gift
-bip_39_word_underscore_12: tourist_stick_gift_able_giant_pioneer_turtle_skate_convince_lizard_version_amazing
-bip_39_word_underscore_2: tourist_stick
-bip_39_word_underscore_3: tourist_stick_gift
 classification: category
 classification_capital: Category
 classification_first_letter: c
 classification_first_letter_upper: C
-classification_length_1: c
-classification_length_2: ca
-classification_length_3: cat
-classification_length_4: cate
-classification_length_5: categ
-classification_length_6: catego
-classification_name: Category
-classification_no_space_length_1: c
-classification_no_space_length_2: ca
-classification_no_space_length_3: cat
-classification_no_space_length_4: cate
-classification_no_space_length_5: categ
-classification_no_space_length_6: catego
-classification_no_space_upper_length_1: C
-classification_no_space_upper_length_2: CA
-classification_no_space_upper_length_3: CAT
-classification_no_space_upper_length_4: CATE
-classification_no_space_upper_length_5: CATEG
-classification_no_space_upper_length_6: CATEGO
 classification_upper: CATEGORY
-classification_upper_length_1: C
-classification_upper_length_2: CA
-classification_upper_length_3: CAT
-classification_upper_length_4: CATE
-classification_upper_length_5: CATEG
-classification_upper_length_6: CATEGO
 color: 5_mm
 color_capital: 5 mm
 color_first_letter: '5'
 color_first_letter_upper: '5'
-color_length_1: '5'
-color_length_2: '5_'
-color_length_3: 5_m
-color_length_4: 5_mm
-color_length_5: 5_mm
-color_length_6: 5_mm
-color_name: 5 mm
-color_no_space_length_1: '5'
-color_no_space_length_2: 5m
-color_no_space_length_3: 5mm
-color_no_space_length_4: 5mm
-color_no_space_length_5: 5mm
-color_no_space_length_6: 5mm
-color_no_space_upper_length_1: '5'
-color_no_space_upper_length_2: 5M
-color_no_space_upper_length_3: 5MM
-color_no_space_upper_length_4: 5MM
-color_no_space_upper_length_5: 5MM
-color_no_space_upper_length_6: 5MM
 color_upper: 5_MM
-color_upper_length_1: '5'
-color_upper_length_2: '5_'
-color_upper_length_3: 5_M
-color_upper_length_4: 5_MM
-color_upper_length_5: 5_MM
-color_upper_length_6: 5_MM
 description: category_hardware
 description_extra: old
 description_extra_capital: Old
 description_extra_first_letter: o
 description_extra_first_letter_upper: O
-description_extra_length_1: o
-description_extra_length_2: ol
-description_extra_length_3: old
-description_extra_length_4: old
-description_extra_length_5: old
-description_extra_length_6: old
-description_extra_name: Old
-description_extra_no_space_length_1: o
-description_extra_no_space_length_2: ol
-description_extra_no_space_length_3: old
-description_extra_no_space_length_4: old
-description_extra_no_space_length_5: old
-description_extra_no_space_length_6: old
-description_extra_no_space_upper_length_1: O
-description_extra_no_space_upper_length_2: OL
-description_extra_no_space_upper_length_3: OLD
-description_extra_no_space_upper_length_4: OLD
-description_extra_no_space_upper_length_5: OLD
-description_extra_no_space_upper_length_6: OLD
 description_extra_upper: OLD
-description_extra_upper_length_1: O
-description_extra_upper_length_2: OL
-description_extra_upper_length_3: OLD
-description_extra_upper_length_4: OLD
-description_extra_upper_length_5: OLD
-description_extra_upper_length_6: OLD
 description_main: ''
 description_main_capital: ''
 description_main_first_letter: ''
 description_main_first_letter_upper: ''
-description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
@@ -150,32 +27,21 @@ directory: parts/category_hardware_shelf_support_peg_5_mm_old
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_hardware_shelf_support_peg_5_mm_old
 id: category_hardware_shelf_support_peg_5_mm_old
 id_no_class: hardware_shelf_support_peg_5_mm_old
-id_no_color: old
 id_no_size: 5_mm_old
 id_no_type: shelf_support_peg_5_mm_old
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg_5_mm_old
-link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg_5_mm_old
-link_2_name: link_github
 link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg_5_mm_old
 link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg_5_mm_old
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204wucg
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204wucg
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204wucg
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204wucg
 link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_shelf_support_peg_5_mm_old
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
 manufacturer_first_letter_upper: ''
-manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
 markdown_full: '[category_hardware_shelf_support_peg_5_mm_old](none)<br>[](none)<br>[Category
-  Hardware Shelf Support Peg 5 Mm Old](none)<br><br>'
+    Hardware Shelf Support Peg 5 Mm Old](none)<br><br>'
 markdown_short: '[category_hardware_shelf_support_peg_5_mm_old](none)<br><br>'
 md5: 7de5a0b17cca1d5e94b0d004c3b56f2f
 md5_10: 7de5a0b17c
@@ -186,28 +52,11 @@ md5_6: 7de5a0
 md5_6_alpha: 4wucg
 md5_6_alpha_upper: 4WUCG
 md5_6_upper: 7DE5A0
-name: Category Hardware Shelf Support Peg 5 mm Old
-name_no_class: Hardware Shelf Support Peg 5 mm Old
-name_no_color: Old
-name_no_size: 5 mm Old
+name: Category Hardware Shelf Support Peg 5 Mm Old
+name_no_class: Hardware Shelf Support Peg 5 Mm Old
+name_no_size: 5 Mm Old
 name_no_size_short: 5 Mm Old
-name_no_type: Shelf Support Peg 5 mm Old
-oomlout_detail_hierarchy_1: category
-oomlout_detail_hierarchy_1_upper: CATEGORY
-oomlout_detail_hierarchy_1_upper_length_4: CATE
-oomlout_detail_hierarchy_2: hardware
-oomlout_detail_hierarchy_2_upper: HARDWARE
-oomlout_detail_hierarchy_2_upper_length_4: HARD
-oomlout_detail_hierarchy_3: shelf_support_peg
-oomlout_detail_hierarchy_3_upper: SHELF_SUPPORT_PEG
-oomlout_detail_hierarchy_3_upper_length_4: SHEL
-oomlout_detail_hierarchy_4: 5_mm
-oomlout_detail_hierarchy_4_upper: 5_MM
-oomlout_detail_hierarchy_4_upper_length_4: 5_MM
-oomlout_detail_hierarchy_5: old
-oomlout_detail_hierarchy_5_upper: OLD
-oomlout_detail_hierarchy_5_upper_length_4: OLD
-oomlout_oomp_utility_custom_data_manipulation: true
+name_no_type: Shelf Support Peg 5 Mm Old
 oomp_key: oomp_category_hardware_shelf_support_peg_5_mm_old
 oomp_word: phone rocket ring
 oomp_word_emoji: ':phone: :rocket: :ring:'
@@ -224,12 +73,7 @@ part_number_capital: ''
 part_number_exact: ''
 part_number_first_letter: ''
 part_number_first_letter_upper: ''
-part_number_name: ''
 part_number_upper: ''
-price_1_name: orbital_fasteners
-price_2_name: accu
-price_3_name: amazon
-price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
 short_name: Categoryhardware
@@ -237,61 +81,11 @@ size: shelf_support_peg
 size_capital: Shelf Support Peg
 size_first_letter: s
 size_first_letter_upper: S
-size_length_1: s
-size_length_2: sh
-size_length_3: she
-size_length_4: shel
-size_length_5: shelf
-size_length_6: shelf_
-size_name: Shelf Support Peg
-size_no_space_length_1: s
-size_no_space_length_2: sh
-size_no_space_length_3: she
-size_no_space_length_4: shel
-size_no_space_length_5: shelf
-size_no_space_length_6: shelfs
-size_no_space_upper_length_1: S
-size_no_space_upper_length_2: SH
-size_no_space_upper_length_3: SHE
-size_no_space_upper_length_4: SHEL
-size_no_space_upper_length_5: SHELF
-size_no_space_upper_length_6: SHELFS
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
 size_upper: SHELF_SUPPORT_PEG
-size_upper_length_1: S
-size_upper_length_2: SH
-size_upper_length_3: SHE
-size_upper_length_4: SHEL
-size_upper_length_5: SHELF
-size_upper_length_6: SHELF_
 type: hardware
 type_capital: Hardware
 type_first_letter: h
 type_first_letter_upper: H
-type_length_1: h
-type_length_2: ha
-type_length_3: har
-type_length_4: hard
-type_length_5: hardw
-type_length_6: hardwa
-type_name: Hardware
-type_no_space_length_1: h
-type_no_space_length_2: ha
-type_no_space_length_3: har
-type_no_space_length_4: hard
-type_no_space_length_5: hardw
-type_no_space_length_6: hardwa
-type_no_space_upper_length_1: H
-type_no_space_upper_length_2: HA
-type_no_space_upper_length_3: HAR
-type_no_space_upper_length_4: HARD
-type_no_space_upper_length_5: HARDW
-type_no_space_upper_length_6: HARDWA
 type_upper: HARDWARE
-type_upper_length_1: H
-type_upper_length_2: HA
-type_upper_length_3: HAR
-type_upper_length_4: HARD
-type_upper_length_5: HARDW
-type_upper_length_6: HARDWA
