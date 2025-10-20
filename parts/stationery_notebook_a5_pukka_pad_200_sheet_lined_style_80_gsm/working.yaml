@@ -1,0 +1,296 @@
+bip_39_word_dash_12: note-narrow-neither-recall-cloth-antenna-fire-laugh-vintage-garlic-upon-actor
+bip_39_word_dash_2: note-narrow
+bip_39_word_dash_3: note-narrow-neither
+bip_39_word_new_br_12: note<br>narrow<br>neither<br>recall<br>cloth<br>antenna<br>fire<br>laugh<br>vintage<br>garlic<br>upon<br>actor
+bip_39_word_new_br_2: note<br>narrow
+bip_39_word_new_br_3: note<br>narrow<br>neither
+bip_39_word_new_line_12: 'note
+
+  narrow
+
+  neither
+
+  recall
+
+  cloth
+
+  antenna
+
+  fire
+
+  laugh
+
+  vintage
+
+  garlic
+
+  upon
+
+  actor'
+bip_39_word_new_line_2: 'note
+
+  narrow'
+bip_39_word_new_line_3: 'note
+
+  narrow
+
+  neither'
+bip_39_word_no_space_12: notenarrowneitherrecallclothantennafirelaughvintagegarlicuponactor
+bip_39_word_no_space_2: notenarrow
+bip_39_word_no_space_3: notenarrowneither
+bip_39_word_space_12: note narrow neither recall cloth antenna fire laugh vintage
+  garlic upon actor
+bip_39_word_space_2: note narrow
+bip_39_word_space_3: note narrow neither
+bip_39_word_underscore_12: note_narrow_neither_recall_cloth_antenna_fire_laugh_vintage_garlic_upon_actor
+bip_39_word_underscore_2: note_narrow
+bip_39_word_underscore_3: note_narrow_neither
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
+classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
+color: pukka_pad
+color_capital: Pukka Pad
+color_first_letter: p
+color_first_letter_upper: P
+color_length_1: p
+color_length_2: pu
+color_length_3: puk
+color_length_4: pukk
+color_length_5: pukka
+color_length_6: pukka_
+color_name: Pukka Pad
+color_no_space_length_1: p
+color_no_space_length_2: pu
+color_no_space_length_3: puk
+color_no_space_length_4: pukk
+color_no_space_length_5: pukka
+color_no_space_length_6: pukkap
+color_no_space_upper_length_1: P
+color_no_space_upper_length_2: PU
+color_no_space_upper_length_3: PUK
+color_no_space_upper_length_4: PUKK
+color_no_space_upper_length_5: PUKKA
+color_no_space_upper_length_6: PUKKAP
+color_upper: PUKKA_PAD
+color_upper_length_1: P
+color_upper_length_2: PU
+color_upper_length_3: PUK
+color_upper_length_4: PUKK
+color_upper_length_5: PUKKA
+color_upper_length_6: PUKKA_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 200_sheet_lined_style_80_gsm
+description_main_capital: 200 Sheet Lined Style 80 Gsm
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '20'
+description_main_length_3: '200'
+description_main_length_4: '200_'
+description_main_length_5: 200_s
+description_main_length_6: 200_sh
+description_main_name: 200 Sheet Lined Style 80 Gsm
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '20'
+description_main_no_space_length_3: '200'
+description_main_no_space_length_4: 200s
+description_main_no_space_length_5: 200sh
+description_main_no_space_length_6: 200she
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '20'
+description_main_no_space_upper_length_3: '200'
+description_main_no_space_upper_length_4: 200S
+description_main_no_space_upper_length_5: 200SH
+description_main_no_space_upper_length_6: 200SHE
+description_main_upper: 200_SHEET_LINED_STYLE_80_GSM
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '20'
+description_main_upper_length_3: '200'
+description_main_upper_length_4: '200_'
+description_main_upper_length_5: 200_S
+description_main_upper_length_6: 200_SH
+description_only_numbers: '20080'
+description_only_numbers_short: 20k
+description_or_color: P20k
+description_or_color_upper: P20K
+directory: parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+id: stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+id_no_class: notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+id_no_color: 200_sheet_lined_style_80_gsm
+id_no_size: pukka_pad_200_sheet_lined_style_80_gsm
+id_no_type: a5_pukka_pad_200_sheet_lined_style_80_gsm
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201pm8n
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201pm8n
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201pm8n
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201pm8n
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm](none)<br>[](none)<br>[Stationery
+  Notebook A5 Pukka Pad 200 Sheet Lined Style 80 Gsm](none)<br><br>'
+markdown_short: '[stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm](none)<br><br>'
+md5: 2bddd7f7a17d8ae42715eb372864c4b5
+md5_10: 2bddd7f7a1
+md5_10_upper: 2BDDD7F7A1
+md5_5: 2bddd
+md5_5_upper: 2BDDD
+md5_6: 2bddd7
+md5_6_alpha: 1pm8n
+md5_6_alpha_upper: 1PM8N
+md5_6_upper: 2BDDD7
+name: Stationery Notebook A5 Pukka Pad 200 Sheet Lined Style 80 Gsm
+name_no_class: Notebook A5 Pukka Pad 200 Sheet Lined Style 80 Gsm
+name_no_color: 200 Sheet Lined Style 80 Gsm
+name_no_size: Pukka Pad 200 Sheet Lined Style 80 Gsm
+name_no_size_short: Pukka Pad 200 Sheet Lined Style 80 Gsm
+name_no_type: A5 Pukka Pad 200 Sheet Lined Style 80 Gsm
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: notebook
+oomlout_detail_hierarchy_2_upper: NOTEBOOK
+oomlout_detail_hierarchy_2_upper_length_4: NOTE
+oomlout_detail_hierarchy_3: a5
+oomlout_detail_hierarchy_3_upper: A5
+oomlout_detail_hierarchy_3_upper_length_4: A5
+oomlout_detail_hierarchy_4: pukka_pad
+oomlout_detail_hierarchy_4_upper: PUKKA_PAD
+oomlout_detail_hierarchy_4_upper_length_4: PUKK
+oomlout_detail_hierarchy_5: 200_sheet_lined_style
+oomlout_detail_hierarchy_5_upper: 200_SHEET_LINED_STYLE
+oomlout_detail_hierarchy_5_upper_length_4: '200_'
+oomlout_detail_hierarchy_6: 80_gsm
+oomlout_detail_hierarchy_6_upper: 80_GSM
+oomlout_detail_hierarchy_6_upper_length_4: 80_G
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_stationery_notebook_a5_pukka_pad_200_sheet_lined_style_80_gsm
+oomp_word: cloud stars office
+oomp_word_emoji: ':cloud: :stars: :office:'
+oomp_word_emoji_list:
+- ':cloud:'
+- ':stars:'
+- ':office:'
+oomp_word_list:
+- cloud
+- stars
+- office
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: a5
+size_capital: A5
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a5
+size_length_3: a5
+size_length_4: a5
+size_length_5: a5
+size_length_6: a5
+size_name: A5
+size_no_space_length_1: a
+size_no_space_length_2: a5
+size_no_space_length_3: a5
+size_no_space_length_4: a5
+size_no_space_length_5: a5
+size_no_space_length_6: a5
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A5
+size_no_space_upper_length_3: A5
+size_no_space_upper_length_4: A5
+size_no_space_upper_length_5: A5
+size_no_space_upper_length_6: A5
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: A5
+size_upper_length_1: A
+size_upper_length_2: A5
+size_upper_length_3: A5
+size_upper_length_4: A5
+size_upper_length_5: A5
+size_upper_length_6: A5
+type: notebook
+type_capital: Notebook
+type_first_letter: n
+type_first_letter_upper: N
+type_length_1: n
+type_length_2: 'no'
+type_length_3: not
+type_length_4: note
+type_length_5: noteb
+type_length_6: notebo
+type_name: Notebook
+type_no_space_length_1: n
+type_no_space_length_2: 'no'
+type_no_space_length_3: not
+type_no_space_length_4: note
+type_no_space_length_5: noteb
+type_no_space_length_6: notebo
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: 'NO'
+type_no_space_upper_length_3: NOT
+type_no_space_upper_length_4: NOTE
+type_no_space_upper_length_5: NOTEB
+type_no_space_upper_length_6: NOTEBO
+type_upper: NOTEBOOK
+type_upper_length_1: N
+type_upper_length_2: 'NO'
+type_upper_length_3: NOT
+type_upper_length_4: NOTE
+type_upper_length_5: NOTEB
+type_upper_length_6: NOTEBO

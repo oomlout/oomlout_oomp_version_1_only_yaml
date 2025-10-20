@@ -1,0 +1,294 @@
+bip_39_word_dash_12: festival-crawl-arctic-satoshi-letter-ozone-group-isolate-token-foot-belt-airport
+bip_39_word_dash_2: festival-crawl
+bip_39_word_dash_3: festival-crawl-arctic
+bip_39_word_new_br_12: festival<br>crawl<br>arctic<br>satoshi<br>letter<br>ozone<br>group<br>isolate<br>token<br>foot<br>belt<br>airport
+bip_39_word_new_br_2: festival<br>crawl
+bip_39_word_new_br_3: festival<br>crawl<br>arctic
+bip_39_word_new_line_12: 'festival
+
+  crawl
+
+  arctic
+
+  satoshi
+
+  letter
+
+  ozone
+
+  group
+
+  isolate
+
+  token
+
+  foot
+
+  belt
+
+  airport'
+bip_39_word_new_line_2: 'festival
+
+  crawl'
+bip_39_word_new_line_3: 'festival
+
+  crawl
+
+  arctic'
+bip_39_word_no_space_12: festivalcrawlarcticsatoshiletterozonegroupisolatetokenfootbeltairport
+bip_39_word_no_space_2: festivalcrawl
+bip_39_word_no_space_3: festivalcrawlarctic
+bip_39_word_space_12: festival crawl arctic satoshi letter ozone group isolate token
+  foot belt airport
+bip_39_word_space_2: festival crawl
+bip_39_word_space_3: festival crawl arctic
+bip_39_word_underscore_12: festival_crawl_arctic_satoshi_letter_ozone_group_isolate_token_foot_belt_airport
+bip_39_word_underscore_2: festival_crawl
+bip_39_word_underscore_3: festival_crawl_arctic
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_length_1: l
+color_length_2: la
+color_length_3: lar
+color_length_4: larg
+color_length_5: large
+color_length_6: large
+color_name: Large
+color_no_space_length_1: l
+color_no_space_length_2: la
+color_no_space_length_3: lar
+color_no_space_length_4: larg
+color_no_space_length_5: large
+color_no_space_length_6: large
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LA
+color_no_space_upper_length_3: LAR
+color_no_space_upper_length_4: LARG
+color_no_space_upper_length_5: LARGE
+color_no_space_upper_length_6: LARGE
+color_upper: LARGE
+color_upper_length_1: L
+color_upper_length_2: LA
+color_upper_length_3: LAR
+color_upper_length_4: LARG
+color_upper_length_5: LARGE
+color_upper_length_6: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: gray
+description_main_capital: Gray
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_length_1: g
+description_main_length_2: gr
+description_main_length_3: gra
+description_main_length_4: gray
+description_main_length_5: gray
+description_main_length_6: gray
+description_main_name: Gray
+description_main_no_space_length_1: g
+description_main_no_space_length_2: gr
+description_main_no_space_length_3: gra
+description_main_no_space_length_4: gray
+description_main_no_space_length_5: gray
+description_main_no_space_length_6: gray
+description_main_no_space_upper_length_1: G
+description_main_no_space_upper_length_2: GR
+description_main_no_space_upper_length_3: GRA
+description_main_no_space_upper_length_4: GRAY
+description_main_no_space_upper_length_5: GRAY
+description_main_no_space_upper_length_6: GRAY
+description_main_upper: GRAY
+description_main_upper_length_1: G
+description_main_upper_length_2: GR
+description_main_upper_length_3: GRA
+description_main_upper_length_4: GRAY
+description_main_upper_length_5: GRAY
+description_main_upper_length_6: GRAY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_gloves_large_gray
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_gloves_large_gray
+id: clothes_item_gloves_large_gray
+id_no_class: item_gloves_large_gray
+id_no_color: gray
+id_no_size: large_gray
+id_no_type: gloves_large_gray
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_gray
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_gray
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_gray
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_gray
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203fu8m
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203fu8m
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203fu8m
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203fu8m
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_gray
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_large_gray](none)<br>[](none)<br>[Clothes Item
+  Gloves Large Gray](none)<br><br>'
+markdown_short: '[clothes_item_gloves_large_gray](none)<br><br>'
+md5: 5829d6bf1f768cde7a404bf6164caaa9
+md5_10: 5829d6bf1f
+md5_10_upper: 5829D6BF1F
+md5_5: 5829d
+md5_5_upper: 5829D
+md5_6: 5829d6
+md5_6_alpha: 3fu8m
+md5_6_alpha_upper: 3FU8M
+md5_6_upper: 5829D6
+name: Clothes Item Gloves Large Gray
+name_no_class: Item Gloves Large Gray
+name_no_color: Gray
+name_no_size: Large Gray
+name_no_size_short: Large Gray
+name_no_type: Gloves Large Gray
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: gloves
+oomlout_detail_hierarchy_3_upper: GLOVES
+oomlout_detail_hierarchy_3_upper_length_4: GLOV
+oomlout_detail_hierarchy_4: large
+oomlout_detail_hierarchy_4_upper: LARGE
+oomlout_detail_hierarchy_4_upper_length_4: LARG
+oomlout_detail_hierarchy_5: gray
+oomlout_detail_hierarchy_5_upper: GRAY
+oomlout_detail_hierarchy_5_upper_length_4: GRAY
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_gloves_large_gray
+oomp_word: water_buffalo sunny school
+oomp_word_emoji: ':water_buffalo: :sunny: :school:'
+oomp_word_emoji_list:
+- ':water_buffalo:'
+- ':sunny:'
+- ':school:'
+oomp_word_list:
+- water_buffalo
+- sunny
+- school
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_length_1: g
+size_length_2: gl
+size_length_3: glo
+size_length_4: glov
+size_length_5: glove
+size_length_6: gloves
+size_name: Gloves
+size_no_space_length_1: g
+size_no_space_length_2: gl
+size_no_space_length_3: glo
+size_no_space_length_4: glov
+size_no_space_length_5: glove
+size_no_space_length_6: gloves
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GL
+size_no_space_upper_length_3: GLO
+size_no_space_upper_length_4: GLOV
+size_no_space_upper_length_5: GLOVE
+size_no_space_upper_length_6: GLOVES
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+size_upper_length_1: G
+size_upper_length_2: GL
+size_upper_length_3: GLO
+size_upper_length_4: GLOV
+size_upper_length_5: GLOVE
+size_upper_length_6: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

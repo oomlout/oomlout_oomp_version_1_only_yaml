@@ -1,0 +1,294 @@
+bip_39_word_dash_12: industry-dragon-universe-happy-quick-help-spare-top-leopard-melody-winter-answer
+bip_39_word_dash_2: industry-dragon
+bip_39_word_dash_3: industry-dragon-universe
+bip_39_word_new_br_12: industry<br>dragon<br>universe<br>happy<br>quick<br>help<br>spare<br>top<br>leopard<br>melody<br>winter<br>answer
+bip_39_word_new_br_2: industry<br>dragon
+bip_39_word_new_br_3: industry<br>dragon<br>universe
+bip_39_word_new_line_12: 'industry
+
+  dragon
+
+  universe
+
+  happy
+
+  quick
+
+  help
+
+  spare
+
+  top
+
+  leopard
+
+  melody
+
+  winter
+
+  answer'
+bip_39_word_new_line_2: 'industry
+
+  dragon'
+bip_39_word_new_line_3: 'industry
+
+  dragon
+
+  universe'
+bip_39_word_no_space_12: industrydragonuniversehappyquickhelpsparetopleopardmelodywinteranswer
+bip_39_word_no_space_2: industrydragon
+bip_39_word_no_space_3: industrydragonuniverse
+bip_39_word_space_12: industry dragon universe happy quick help spare top leopard
+  melody winter answer
+bip_39_word_space_2: industry dragon
+bip_39_word_space_3: industry dragon universe
+bip_39_word_underscore_12: industry_dragon_universe_happy_quick_help_spare_top_leopard_melody_winter_answer
+bip_39_word_underscore_2: industry_dragon
+bip_39_word_underscore_3: industry_dragon_universe
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_length_1: d
+color_length_2: do
+color_length_3: dou
+color_length_4: doub
+color_length_5: doubl
+color_length_6: double
+color_name: Double Extra Large
+color_no_space_length_1: d
+color_no_space_length_2: do
+color_no_space_length_3: dou
+color_no_space_length_4: doub
+color_no_space_length_5: doubl
+color_no_space_length_6: double
+color_no_space_upper_length_1: D
+color_no_space_upper_length_2: DO
+color_no_space_upper_length_3: DOU
+color_no_space_upper_length_4: DOUB
+color_no_space_upper_length_5: DOUBL
+color_no_space_upper_length_6: DOUBLE
+color_upper: DOUBLE_EXTRA_LARGE
+color_upper_length_1: D
+color_upper_length_2: DO
+color_upper_length_3: DOU
+color_upper_length_4: DOUB
+color_upper_length_5: DOUBL
+color_upper_length_6: DOUBLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: beige
+description_main_capital: Beige
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: be
+description_main_length_3: bei
+description_main_length_4: beig
+description_main_length_5: beige
+description_main_length_6: beige
+description_main_name: Beige
+description_main_no_space_length_1: b
+description_main_no_space_length_2: be
+description_main_no_space_length_3: bei
+description_main_no_space_length_4: beig
+description_main_no_space_length_5: beige
+description_main_no_space_length_6: beige
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BE
+description_main_no_space_upper_length_3: BEI
+description_main_no_space_upper_length_4: BEIG
+description_main_no_space_upper_length_5: BEIGE
+description_main_no_space_upper_length_6: BEIGE
+description_main_upper: BEIGE
+description_main_upper_length_1: B
+description_main_upper_length_2: BE
+description_main_upper_length_3: BEI
+description_main_upper_length_4: BEIG
+description_main_upper_length_5: BEIGE
+description_main_upper_length_6: BEIGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_belt_double_extra_large_beige
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_belt_double_extra_large_beige
+id: clothes_item_belt_double_extra_large_beige
+id_no_class: item_belt_double_extra_large_beige
+id_no_color: beige
+id_no_size: double_extra_large_beige
+id_no_type: belt_double_extra_large_beige
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_double_extra_large_beige
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_double_extra_large_beige
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_double_extra_large_beige
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_double_extra_large_beige
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206331e
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206331e
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206331e
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206331e
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_double_extra_large_beige
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_belt_double_extra_large_beige](none)<br>[](none)<br>[Clothes
+  Item Belt Double Extra Large Beige](none)<br><br>'
+markdown_short: '[clothes_item_belt_double_extra_large_beige](none)<br><br>'
+md5: 9bf822a402e4fa0dac57d68fdb908399
+md5_10: 9bf822a402
+md5_10_upper: 9BF822A402
+md5_5: 9bf82
+md5_5_upper: 9BF82
+md5_6: 9bf822
+md5_6_alpha: 6331e
+md5_6_alpha_upper: 6331E
+md5_6_upper: 9BF822
+name: Clothes Item Belt Double Extra Large Beige
+name_no_class: Item Belt Double Extra Large Beige
+name_no_color: Beige
+name_no_size: Double Extra Large Beige
+name_no_size_short: Double Extra Large Beige
+name_no_type: Belt Double Extra Large Beige
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: belt
+oomlout_detail_hierarchy_3_upper: BELT
+oomlout_detail_hierarchy_3_upper_length_4: BELT
+oomlout_detail_hierarchy_4: double_extra_large
+oomlout_detail_hierarchy_4_upper: DOUBLE_EXTRA_LARGE
+oomlout_detail_hierarchy_4_upper_length_4: DOUB
+oomlout_detail_hierarchy_5: beige
+oomlout_detail_hierarchy_5_upper: BEIGE
+oomlout_detail_hierarchy_5_upper_length_4: BEIG
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_belt_double_extra_large_beige
+oomp_word: ski seven lips
+oomp_word_emoji: ':ski: :seven: :lips:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':seven:'
+- ':lips:'
+oomp_word_list:
+- ski
+- seven
+- lips
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: belt
+size_capital: Belt
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: be
+size_length_3: bel
+size_length_4: belt
+size_length_5: belt
+size_length_6: belt
+size_name: Belt
+size_no_space_length_1: b
+size_no_space_length_2: be
+size_no_space_length_3: bel
+size_no_space_length_4: belt
+size_no_space_length_5: belt
+size_no_space_length_6: belt
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BE
+size_no_space_upper_length_3: BEL
+size_no_space_upper_length_4: BELT
+size_no_space_upper_length_5: BELT
+size_no_space_upper_length_6: BELT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BELT
+size_upper_length_1: B
+size_upper_length_2: BE
+size_upper_length_3: BEL
+size_upper_length_4: BELT
+size_upper_length_5: BELT
+size_upper_length_6: BELT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

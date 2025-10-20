@@ -1,0 +1,294 @@
+bip_39_word_dash_12: shoot-fancy-draw-auction-capable-derive-movie-neither-crime-record-trouble-army
+bip_39_word_dash_2: shoot-fancy
+bip_39_word_dash_3: shoot-fancy-draw
+bip_39_word_new_br_12: shoot<br>fancy<br>draw<br>auction<br>capable<br>derive<br>movie<br>neither<br>crime<br>record<br>trouble<br>army
+bip_39_word_new_br_2: shoot<br>fancy
+bip_39_word_new_br_3: shoot<br>fancy<br>draw
+bip_39_word_new_line_12: 'shoot
+
+  fancy
+
+  draw
+
+  auction
+
+  capable
+
+  derive
+
+  movie
+
+  neither
+
+  crime
+
+  record
+
+  trouble
+
+  army'
+bip_39_word_new_line_2: 'shoot
+
+  fancy'
+bip_39_word_new_line_3: 'shoot
+
+  fancy
+
+  draw'
+bip_39_word_no_space_12: shootfancydrawauctioncapablederivemovieneithercrimerecordtroublearmy
+bip_39_word_no_space_2: shootfancy
+bip_39_word_no_space_3: shootfancydraw
+bip_39_word_space_12: shoot fancy draw auction capable derive movie neither crime
+  record trouble army
+bip_39_word_space_2: shoot fancy
+bip_39_word_space_3: shoot fancy draw
+bip_39_word_underscore_12: shoot_fancy_draw_auction_capable_derive_movie_neither_crime_record_trouble_army
+bip_39_word_underscore_2: shoot_fancy
+bip_39_word_underscore_3: shoot_fancy_draw
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: me
+color_length_3: med
+color_length_4: medi
+color_length_5: mediu
+color_length_6: medium
+color_name: Medium
+color_no_space_length_1: m
+color_no_space_length_2: me
+color_no_space_length_3: med
+color_no_space_length_4: medi
+color_no_space_length_5: mediu
+color_no_space_length_6: medium
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: ME
+color_no_space_upper_length_3: MED
+color_no_space_upper_length_4: MEDI
+color_no_space_upper_length_5: MEDIU
+color_no_space_upper_length_6: MEDIUM
+color_upper: MEDIUM
+color_upper_length_1: M
+color_upper_length_2: ME
+color_upper_length_3: MED
+color_upper_length_4: MEDI
+color_upper_length_5: MEDIU
+color_upper_length_6: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_length_1: l
+description_main_length_2: li
+description_main_length_3: lim
+description_main_length_4: lime
+description_main_length_5: lime
+description_main_length_6: lime
+description_main_name: Lime
+description_main_no_space_length_1: l
+description_main_no_space_length_2: li
+description_main_no_space_length_3: lim
+description_main_no_space_length_4: lime
+description_main_no_space_length_5: lime
+description_main_no_space_length_6: lime
+description_main_no_space_upper_length_1: L
+description_main_no_space_upper_length_2: LI
+description_main_no_space_upper_length_3: LIM
+description_main_no_space_upper_length_4: LIME
+description_main_no_space_upper_length_5: LIME
+description_main_no_space_upper_length_6: LIME
+description_main_upper: LIME
+description_main_upper_length_1: L
+description_main_upper_length_2: LI
+description_main_upper_length_3: LIM
+description_main_upper_length_4: LIME
+description_main_upper_length_5: LIME
+description_main_upper_length_6: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_swimwear_medium_lime
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_swimwear_medium_lime
+id: clothes_item_swimwear_medium_lime
+id_no_class: item_swimwear_medium_lime
+id_no_color: lime
+id_no_size: medium_lime
+id_no_type: swimwear_medium_lime
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207k94c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207k94c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207k94c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207k94c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_medium_lime](none)<br>[](none)<br>[Clothes
+  Item Swimwear Medium Lime](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_medium_lime](none)<br><br>'
+md5: c1d22cf19c94321ced90f0ee84d4be34
+md5_10: c1d22cf19c
+md5_10_upper: C1D22CF19C
+md5_5: c1d22
+md5_5_upper: C1D22
+md5_6: c1d22c
+md5_6_alpha: 7k94c
+md5_6_alpha_upper: 7K94C
+md5_6_upper: C1D22C
+name: Clothes Item Swimwear Medium Lime
+name_no_class: Item Swimwear Medium Lime
+name_no_color: Lime
+name_no_size: Medium Lime
+name_no_size_short: Medium Lime
+name_no_type: Swimwear Medium Lime
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: swimwear
+oomlout_detail_hierarchy_3_upper: SWIMWEAR
+oomlout_detail_hierarchy_3_upper_length_4: SWIM
+oomlout_detail_hierarchy_4: medium
+oomlout_detail_hierarchy_4_upper: MEDIUM
+oomlout_detail_hierarchy_4_upper_length_4: MEDI
+oomlout_detail_hierarchy_5: lime
+oomlout_detail_hierarchy_5_upper: LIME
+oomlout_detail_hierarchy_5_upper_length_4: LIME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_swimwear_medium_lime
+oomp_word: doughnut pineapple snowflake
+oomp_word_emoji: ':doughnut: :pineapple: :snowflake:'
+oomp_word_emoji_list:
+- ':doughnut:'
+- ':pineapple:'
+- ':snowflake:'
+oomp_word_list:
+- doughnut
+- pineapple
+- snowflake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sw
+size_length_3: swi
+size_length_4: swim
+size_length_5: swimw
+size_length_6: swimwe
+size_name: Swimwear
+size_no_space_length_1: s
+size_no_space_length_2: sw
+size_no_space_length_3: swi
+size_no_space_length_4: swim
+size_no_space_length_5: swimw
+size_no_space_length_6: swimwe
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SW
+size_no_space_upper_length_3: SWI
+size_no_space_upper_length_4: SWIM
+size_no_space_upper_length_5: SWIMW
+size_no_space_upper_length_6: SWIMWE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+size_upper_length_1: S
+size_upper_length_2: SW
+size_upper_length_3: SWI
+size_upper_length_4: SWIM
+size_upper_length_5: SWIMW
+size_upper_length_6: SWIMWE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

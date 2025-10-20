@@ -1,0 +1,267 @@
+bip_39_word_dash_12: medal-sister-check-fever-nominee-text-soccer-melody-melody-fall-fluid-athlete
+bip_39_word_dash_2: medal-sister
+bip_39_word_dash_3: medal-sister-check
+bip_39_word_new_br_12: medal<br>sister<br>check<br>fever<br>nominee<br>text<br>soccer<br>melody<br>melody<br>fall<br>fluid<br>athlete
+bip_39_word_new_br_2: medal<br>sister
+bip_39_word_new_br_3: medal<br>sister<br>check
+bip_39_word_new_line_12: 'medal
+
+  sister
+
+  check
+
+  fever
+
+  nominee
+
+  text
+
+  soccer
+
+  melody
+
+  melody
+
+  fall
+
+  fluid
+
+  athlete'
+bip_39_word_new_line_2: 'medal
+
+  sister'
+bip_39_word_new_line_3: 'medal
+
+  sister
+
+  check'
+bip_39_word_no_space_12: medalsistercheckfevernomineetextsoccermelodymelodyfallfluidathlete
+bip_39_word_no_space_2: medalsister
+bip_39_word_no_space_3: medalsistercheck
+bip_39_word_space_12: medal sister check fever nominee text soccer melody melody fall
+  fluid athlete
+bip_39_word_space_2: medal sister
+bip_39_word_space_3: medal sister check
+bip_39_word_underscore_12: medal_sister_check_fever_nominee_text_soccer_melody_melody_fall_fluid_athlete
+bip_39_word_underscore_2: medal_sister
+bip_39_word_underscore_3: medal_sister_check
+classification: robot_dog
+classification_capital: Robot Dog
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_length_1: r
+classification_length_2: ro
+classification_length_3: rob
+classification_length_4: robo
+classification_length_5: robot
+classification_length_6: robot_
+classification_name: Robot Dog
+classification_no_space_length_1: r
+classification_no_space_length_2: ro
+classification_no_space_length_3: rob
+classification_no_space_length_4: robo
+classification_no_space_length_5: robot
+classification_no_space_length_6: robotd
+classification_no_space_upper_length_1: R
+classification_no_space_upper_length_2: RO
+classification_no_space_upper_length_3: ROB
+classification_no_space_upper_length_4: ROBO
+classification_no_space_upper_length_5: ROBOT
+classification_no_space_upper_length_6: ROBOTD
+classification_upper: ROBOT_DOG
+classification_upper_length_1: R
+classification_upper_length_2: RO
+classification_upper_length_3: ROB
+classification_upper_length_4: ROBO
+classification_upper_length_5: ROBOT
+classification_upper_length_6: ROBOT_
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: co
+description_main_length_3: con
+description_main_length_4: cont
+description_main_length_5: contr
+description_main_length_6: contro
+description_main_name: Controller
+description_main_no_space_length_1: c
+description_main_no_space_length_2: co
+description_main_no_space_length_3: con
+description_main_no_space_length_4: cont
+description_main_no_space_length_5: contr
+description_main_no_space_length_6: contro
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CO
+description_main_no_space_upper_length_3: CON
+description_main_no_space_upper_length_4: CONT
+description_main_no_space_upper_length_5: CONTR
+description_main_no_space_upper_length_6: CONTRO
+description_main_upper: CONTROLLER
+description_main_upper_length_1: C
+description_main_upper_length_2: CO
+description_main_upper_length_3: CON
+description_main_upper_length_4: CONT
+description_main_upper_length_5: CONTR
+description_main_upper_length_6: CONTRO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/robot_dog_unitree_go2_controller
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/robot_dog_unitree_go2_controller
+id: robot_dog_unitree_go2_controller
+id_no_class: unitree_go2_controller
+id_no_color: controller
+id_no_size: controller
+id_no_type: go2_controller
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208ufro
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208ufro
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208ufro
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208ufro
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[robot_dog_unitree_go2_controller](none)<br>[](none)<br>[Robot Dog
+  Unitree Go2 Controller](none)<br><br>'
+markdown_short: '[robot_dog_unitree_go2_controller](none)<br><br>'
+md5: e2b3548c548a99bb7ecaf5564e326452
+md5_10: e2b3548c54
+md5_10_upper: E2B3548C54
+md5_5: e2b35
+md5_5_upper: E2B35
+md5_6: e2b354
+md5_6_alpha: 8ufro
+md5_6_alpha_upper: 8UFRO
+md5_6_upper: E2B354
+name: Robot Dog Unitree Go2 Controller
+name_no_class: Unitree Go2 Controller
+name_no_color: Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Go2 Controller
+oomlout_detail_hierarchy_1: robot_dog
+oomlout_detail_hierarchy_1_upper: ROBOT_DOG
+oomlout_detail_hierarchy_1_upper_length_4: ROBO
+oomlout_detail_hierarchy_2: unitree
+oomlout_detail_hierarchy_2_upper: UNITREE
+oomlout_detail_hierarchy_2_upper_length_4: UNIT
+oomlout_detail_hierarchy_3: go2
+oomlout_detail_hierarchy_3_upper: GO2
+oomlout_detail_hierarchy_3_upper_length_4: GO2
+oomlout_detail_hierarchy_4: controller
+oomlout_detail_hierarchy_4_upper: CONTROLLER
+oomlout_detail_hierarchy_4_upper_length_4: CONT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_robot_dog_unitree_go2_controller
+oomp_word: sailboat eyeglasses whale
+oomp_word_emoji: ':sailboat: :eyeglasses: :whale:'
+oomp_word_emoji_list:
+- ':sailboat:'
+- ':eyeglasses:'
+- ':whale:'
+oomp_word_list:
+- sailboat
+- eyeglasses
+- whale
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: go2
+size_capital: Go2
+size_first_letter: g
+size_first_letter_upper: G
+size_length_1: g
+size_length_2: go
+size_length_3: go2
+size_length_4: go2
+size_length_5: go2
+size_length_6: go2
+size_name: Go2
+size_no_space_length_1: g
+size_no_space_length_2: go
+size_no_space_length_3: go2
+size_no_space_length_4: go2
+size_no_space_length_5: go2
+size_no_space_length_6: go2
+size_no_space_upper_length_1: G
+size_no_space_upper_length_2: GO
+size_no_space_upper_length_3: GO2
+size_no_space_upper_length_4: GO2
+size_no_space_upper_length_5: GO2
+size_no_space_upper_length_6: GO2
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: GO2
+size_upper_length_1: G
+size_upper_length_2: GO
+size_upper_length_3: GO2
+size_upper_length_4: GO2
+size_upper_length_5: GO2
+size_upper_length_6: GO2
+type: unitree
+type_capital: Unitree
+type_first_letter: u
+type_first_letter_upper: U
+type_length_1: u
+type_length_2: un
+type_length_3: uni
+type_length_4: unit
+type_length_5: unitr
+type_length_6: unitre
+type_name: Unitree
+type_no_space_length_1: u
+type_no_space_length_2: un
+type_no_space_length_3: uni
+type_no_space_length_4: unit
+type_no_space_length_5: unitr
+type_no_space_length_6: unitre
+type_no_space_upper_length_1: U
+type_no_space_upper_length_2: UN
+type_no_space_upper_length_3: UNI
+type_no_space_upper_length_4: UNIT
+type_no_space_upper_length_5: UNITR
+type_no_space_upper_length_6: UNITRE
+type_upper: UNITREE
+type_upper_length_1: U
+type_upper_length_2: UN
+type_upper_length_3: UNI
+type_upper_length_4: UNIT
+type_upper_length_5: UNITR
+type_upper_length_6: UNITRE

@@ -1,0 +1,294 @@
+bip_39_word_dash_12: arrest-dry-fan-meadow-caution-unfold-equip-cup-fortune-run-proud-arrow
+bip_39_word_dash_2: arrest-dry
+bip_39_word_dash_3: arrest-dry-fan
+bip_39_word_new_br_12: arrest<br>dry<br>fan<br>meadow<br>caution<br>unfold<br>equip<br>cup<br>fortune<br>run<br>proud<br>arrow
+bip_39_word_new_br_2: arrest<br>dry
+bip_39_word_new_br_3: arrest<br>dry<br>fan
+bip_39_word_new_line_12: 'arrest
+
+  dry
+
+  fan
+
+  meadow
+
+  caution
+
+  unfold
+
+  equip
+
+  cup
+
+  fortune
+
+  run
+
+  proud
+
+  arrow'
+bip_39_word_new_line_2: 'arrest
+
+  dry'
+bip_39_word_new_line_3: 'arrest
+
+  dry
+
+  fan'
+bip_39_word_no_space_12: arrestdryfanmeadowcautionunfoldequipcupfortunerunproudarrow
+bip_39_word_no_space_2: arrestdry
+bip_39_word_no_space_3: arrestdryfan
+bip_39_word_space_12: arrest dry fan meadow caution unfold equip cup fortune run proud
+  arrow
+bip_39_word_space_2: arrest dry
+bip_39_word_space_3: arrest dry fan
+bip_39_word_underscore_12: arrest_dry_fan_meadow_caution_unfold_equip_cup_fortune_run_proud_arrow
+bip_39_word_underscore_2: arrest_dry
+bip_39_word_underscore_3: arrest_dry_fan
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_length_1: s
+color_length_2: sm
+color_length_3: sma
+color_length_4: smal
+color_length_5: small
+color_length_6: small
+color_name: Small
+color_no_space_length_1: s
+color_no_space_length_2: sm
+color_no_space_length_3: sma
+color_no_space_length_4: smal
+color_no_space_length_5: small
+color_no_space_length_6: small
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SM
+color_no_space_upper_length_3: SMA
+color_no_space_upper_length_4: SMAL
+color_no_space_upper_length_5: SMALL
+color_no_space_upper_length_6: SMALL
+color_upper: SMALL
+color_upper_length_1: S
+color_upper_length_2: SM
+color_upper_length_3: SMA
+color_upper_length_4: SMAL
+color_upper_length_5: SMALL
+color_upper_length_6: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: brown
+description_main_capital: Brown
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: br
+description_main_length_3: bro
+description_main_length_4: brow
+description_main_length_5: brown
+description_main_length_6: brown
+description_main_name: Brown
+description_main_no_space_length_1: b
+description_main_no_space_length_2: br
+description_main_no_space_length_3: bro
+description_main_no_space_length_4: brow
+description_main_no_space_length_5: brown
+description_main_no_space_length_6: brown
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BR
+description_main_no_space_upper_length_3: BRO
+description_main_no_space_upper_length_4: BROW
+description_main_no_space_upper_length_5: BROWN
+description_main_no_space_upper_length_6: BROWN
+description_main_upper: BROWN
+description_main_upper_length_1: B
+description_main_upper_length_2: BR
+description_main_upper_length_3: BRO
+description_main_upper_length_4: BROW
+description_main_upper_length_5: BROWN
+description_main_upper_length_6: BROWN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_scarf_small_brown
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_scarf_small_brown
+id: clothes_item_scarf_small_brown
+id_no_class: item_scarf_small_brown
+id_no_color: brown
+id_no_size: small_brown
+id_no_type: scarf_small_brown
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_small_brown
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_small_brown
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_small_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_small_brown
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xmzz
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xmzz
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207xmzz
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xmzz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_small_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_scarf_small_brown](none)<br>[](none)<br>[Clothes Item
+  Scarf Small Brown](none)<br><br>'
+markdown_short: '[clothes_item_scarf_small_brown](none)<br><br>'
+md5: cb59af52dc35a987b492589aa590e863
+md5_10: cb59af52dc
+md5_10_upper: CB59AF52DC
+md5_5: cb59a
+md5_5_upper: CB59A
+md5_6: cb59af
+md5_6_alpha: 7xmzz
+md5_6_alpha_upper: 7XMZZ
+md5_6_upper: CB59AF
+name: Clothes Item Scarf Small Brown
+name_no_class: Item Scarf Small Brown
+name_no_color: Brown
+name_no_size: Small Brown
+name_no_size_short: Small Brown
+name_no_type: Scarf Small Brown
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: scarf
+oomlout_detail_hierarchy_3_upper: SCARF
+oomlout_detail_hierarchy_3_upper_length_4: SCAR
+oomlout_detail_hierarchy_4: small
+oomlout_detail_hierarchy_4_upper: SMALL
+oomlout_detail_hierarchy_4_upper_length_4: SMAL
+oomlout_detail_hierarchy_5: brown
+oomlout_detail_hierarchy_5_upper: BROWN
+oomlout_detail_hierarchy_5_upper_length_4: BROW
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_scarf_small_brown
+oomp_word: grapes dragon tophat
+oomp_word_emoji: ':grapes: :dragon: :tophat:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':dragon:'
+- ':tophat:'
+oomp_word_list:
+- grapes
+- dragon
+- tophat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: scarf
+size_capital: Scarf
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sc
+size_length_3: sca
+size_length_4: scar
+size_length_5: scarf
+size_length_6: scarf
+size_name: Scarf
+size_no_space_length_1: s
+size_no_space_length_2: sc
+size_no_space_length_3: sca
+size_no_space_length_4: scar
+size_no_space_length_5: scarf
+size_no_space_length_6: scarf
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SC
+size_no_space_upper_length_3: SCA
+size_no_space_upper_length_4: SCAR
+size_no_space_upper_length_5: SCARF
+size_no_space_upper_length_6: SCARF
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCARF
+size_upper_length_1: S
+size_upper_length_2: SC
+size_upper_length_3: SCA
+size_upper_length_4: SCAR
+size_upper_length_5: SCARF
+size_upper_length_6: SCARF
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

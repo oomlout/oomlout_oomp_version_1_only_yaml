@@ -1,50 +1,50 @@
-bip_39_word_dash_12: fancy-ability-marriage-cruel-width-abuse-rude-sort-sadness-puppy-mail-auction
-bip_39_word_dash_2: fancy-ability
-bip_39_word_dash_3: fancy-ability-marriage
-bip_39_word_new_br_12: fancy<br>ability<br>marriage<br>cruel<br>width<br>abuse<br>rude<br>sort<br>sadness<br>puppy<br>mail<br>auction
-bip_39_word_new_br_2: fancy<br>ability
-bip_39_word_new_br_3: fancy<br>ability<br>marriage
-bip_39_word_new_line_12: 'fancy
+bip_39_word_dash_12: drip-verify-tortoise-wait-fiction-cheese-focus-maze-sun-only-lumber-angry
+bip_39_word_dash_2: drip-verify
+bip_39_word_dash_3: drip-verify-tortoise
+bip_39_word_new_br_12: drip<br>verify<br>tortoise<br>wait<br>fiction<br>cheese<br>focus<br>maze<br>sun<br>only<br>lumber<br>angry
+bip_39_word_new_br_2: drip<br>verify
+bip_39_word_new_br_3: drip<br>verify<br>tortoise
+bip_39_word_new_line_12: 'drip
 
-  ability
+  verify
 
-  marriage
+  tortoise
 
-  cruel
+  wait
 
-  width
+  fiction
 
-  abuse
+  cheese
 
-  rude
+  focus
 
-  sort
+  maze
 
-  sadness
+  sun
 
-  puppy
+  only
 
-  mail
+  lumber
 
-  auction'
-bip_39_word_new_line_2: 'fancy
+  angry'
+bip_39_word_new_line_2: 'drip
 
-  ability'
-bip_39_word_new_line_3: 'fancy
+  verify'
+bip_39_word_new_line_3: 'drip
 
-  ability
+  verify
 
-  marriage'
-bip_39_word_no_space_12: fancyabilitymarriagecruelwidthabuserudesortsadnesspuppymailauction
-bip_39_word_no_space_2: fancyability
-bip_39_word_no_space_3: fancyabilitymarriage
-bip_39_word_space_12: fancy ability marriage cruel width abuse rude sort sadness puppy
-  mail auction
-bip_39_word_space_2: fancy ability
-bip_39_word_space_3: fancy ability marriage
-bip_39_word_underscore_12: fancy_ability_marriage_cruel_width_abuse_rude_sort_sadness_puppy_mail_auction
-bip_39_word_underscore_2: fancy_ability
-bip_39_word_underscore_3: fancy_ability_marriage
+  tortoise'
+bip_39_word_no_space_12: dripverifytortoisewaitfictioncheesefocusmazesunonlylumberangry
+bip_39_word_no_space_2: dripverify
+bip_39_word_no_space_3: dripverifytortoise
+bip_39_word_space_12: drip verify tortoise wait fiction cheese focus maze sun only
+  lumber angry
+bip_39_word_space_2: drip verify
+bip_39_word_space_3: drip verify tortoise
+bip_39_word_underscore_12: drip_verify_tortoise_wait_fiction_cheese_focus_maze_sun_only_lumber_angry
+bip_39_word_underscore_2: drip_verify
+bip_39_word_underscore_3: drip_verify_tortoise
 classification: category
 classification_capital: Category
 classification_first_letter: c
@@ -75,23 +75,23 @@ classification_upper_length_3: CAT
 classification_upper_length_4: CATE
 classification_upper_length_5: CATEG
 classification_upper_length_6: CATEGO
-color: A5
+color: a5
 color_capital: A5
-color_first_letter: A
+color_first_letter: a
 color_first_letter_upper: A
-color_length_1: A
-color_length_2: A5
-color_length_3: A5
-color_length_4: A5
-color_length_5: A5
-color_length_6: A5
+color_length_1: a
+color_length_2: a5
+color_length_3: a5
+color_length_4: a5
+color_length_5: a5
+color_length_6: a5
 color_name: A5
-color_no_space_length_1: A
-color_no_space_length_2: A5
-color_no_space_length_3: A5
-color_no_space_length_4: A5
-color_no_space_length_5: A5
-color_no_space_length_6: A5
+color_no_space_length_1: a
+color_no_space_length_2: a5
+color_no_space_length_3: a5
+color_no_space_length_4: a5
+color_no_space_length_5: a5
+color_no_space_length_6: a5
 color_no_space_upper_length_1: A
 color_no_space_upper_length_2: A5
 color_no_space_upper_length_3: A5
@@ -122,27 +122,27 @@ description_only_numbers: ''
 description_only_numbers_short: ' '
 description_or_color: 'A '
 description_or_color_upper: 'A '
-directory: parts/category_stationery_notebook_A5
+directory: parts/category_stationery_notebook_a5
 distributors: []
 filter: ''
 from_yaml: false
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_notebook_A5
-id: category_stationery_notebook_A5
-id_no_class: stationery_notebook_A5
-id_no_color: A5
-id_no_size: A5
-id_no_type: notebook_A5
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_stationery_notebook_a5
+id: category_stationery_notebook_a5
+id_no_class: stationery_notebook_a5
+id_no_color: a5
+id_no_size: a5
+id_no_type: notebook_a5
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
 link_2_name: link_github
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209bs6j
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209bs6j
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209bs6j
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209bs6j
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205kx5y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205kx5y
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205kx5y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205kx5y
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
 manufacturer: ''
 manufacturer_capital: ''
 manufacturer_first_letter: ''
@@ -150,18 +150,18 @@ manufacturer_first_letter_upper: ''
 manufacturer_name: ''
 manufacturer_upper: ''
 manufacturers: []
-markdown_full: '[category_stationery_notebook_A5](none)<br>[](none)<br>[Category Stationery
+markdown_full: '[category_stationery_notebook_a5](none)<br>[](none)<br>[Category Stationery
   Notebook A5](none)<br><br>'
-markdown_short: '[category_stationery_notebook_A5](none)<br><br>'
-md5: ef0c6b85efcf979c04fd634910800a97
-md5_10: ef0c6b85ef
-md5_10_upper: EF0C6B85EF
-md5_5: ef0c6
-md5_5_upper: EF0C6
-md5_6: ef0c6b
-md5_6_alpha: 9bs6j
-md5_6_alpha_upper: 9BS6J
-md5_6_upper: EF0C6B
+markdown_short: '[category_stationery_notebook_a5](none)<br><br>'
+md5: 8f09e6c6ca898b449caaef67cb3caa19
+md5_10: 8f09e6c6ca
+md5_10_upper: 8F09E6C6CA
+md5_5: 8f09e
+md5_5_upper: 8F09E
+md5_6: 8f09e6
+md5_6_alpha: 5kx5y
+md5_6_alpha_upper: 5KX5Y
+md5_6_upper: 8F09E6
 name: Category Stationery Notebook A5
 name_no_class: Stationery Notebook A5
 name_no_color: A5
@@ -177,21 +177,21 @@ oomlout_detail_hierarchy_2_upper_length_4: STAT
 oomlout_detail_hierarchy_3: notebook
 oomlout_detail_hierarchy_3_upper: NOTEBOOK
 oomlout_detail_hierarchy_3_upper_length_4: NOTE
-oomlout_detail_hierarchy_4: A5
+oomlout_detail_hierarchy_4: a5
 oomlout_detail_hierarchy_4_upper: A5
 oomlout_detail_hierarchy_4_upper_length_4: A5
 oomlout_oomp_utility_custom_data_manipulation: true
-oomp_key: oomp_category_stationery_notebook_A5
-oomp_word: truck alien chestnut
-oomp_word_emoji: ':truck: :alien: :chestnut:'
+oomp_key: oomp_category_stationery_notebook_a5
+oomp_word: calendar angry airplane
+oomp_word_emoji: ':calendar: :angry: :airplane:'
 oomp_word_emoji_list:
-- ':truck:'
-- ':alien:'
-- ':chestnut:'
+- ':calendar:'
+- ':angry:'
+- ':airplane:'
 oomp_word_list:
-- truck
-- alien
-- chestnut
+- calendar
+- angry
+- airplane
 part_number: ''
 part_number_capital: ''
 part_number_exact: ''

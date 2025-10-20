@@ -1,0 +1,294 @@
+bip_39_word_dash_12: arrest-venue-amused-wing-nice-country-two-blush-rate-various-vacant-agent
+bip_39_word_dash_2: arrest-venue
+bip_39_word_dash_3: arrest-venue-amused
+bip_39_word_new_br_12: arrest<br>venue<br>amused<br>wing<br>nice<br>country<br>two<br>blush<br>rate<br>various<br>vacant<br>agent
+bip_39_word_new_br_2: arrest<br>venue
+bip_39_word_new_br_3: arrest<br>venue<br>amused
+bip_39_word_new_line_12: 'arrest
+
+  venue
+
+  amused
+
+  wing
+
+  nice
+
+  country
+
+  two
+
+  blush
+
+  rate
+
+  various
+
+  vacant
+
+  agent'
+bip_39_word_new_line_2: 'arrest
+
+  venue'
+bip_39_word_new_line_3: 'arrest
+
+  venue
+
+  amused'
+bip_39_word_no_space_12: arrestvenueamusedwingnicecountrytwoblushratevariousvacantagent
+bip_39_word_no_space_2: arrestvenue
+bip_39_word_no_space_3: arrestvenueamused
+bip_39_word_space_12: arrest venue amused wing nice country two blush rate various
+  vacant agent
+bip_39_word_space_2: arrest venue
+bip_39_word_space_3: arrest venue amused
+bip_39_word_underscore_12: arrest_venue_amused_wing_nice_country_two_blush_rate_various_vacant_agent
+bip_39_word_underscore_2: arrest_venue
+bip_39_word_underscore_3: arrest_venue_amused
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: me
+color_length_3: med
+color_length_4: medi
+color_length_5: mediu
+color_length_6: medium
+color_name: Medium
+color_no_space_length_1: m
+color_no_space_length_2: me
+color_no_space_length_3: med
+color_no_space_length_4: medi
+color_no_space_length_5: mediu
+color_no_space_length_6: medium
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: ME
+color_no_space_upper_length_3: MED
+color_no_space_upper_length_4: MEDI
+color_no_space_upper_length_5: MEDIU
+color_no_space_upper_length_6: MEDIUM
+color_upper: MEDIUM
+color_upper_length_1: M
+color_upper_length_2: ME
+color_upper_length_3: MED
+color_upper_length_4: MEDI
+color_upper_length_5: MEDIU
+color_upper_length_6: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_length_1: r
+description_main_length_2: re
+description_main_length_3: red
+description_main_length_4: red
+description_main_length_5: red
+description_main_length_6: red
+description_main_name: Red
+description_main_no_space_length_1: r
+description_main_no_space_length_2: re
+description_main_no_space_length_3: red
+description_main_no_space_length_4: red
+description_main_no_space_length_5: red
+description_main_no_space_length_6: red
+description_main_no_space_upper_length_1: R
+description_main_no_space_upper_length_2: RE
+description_main_no_space_upper_length_3: RED
+description_main_no_space_upper_length_4: RED
+description_main_no_space_upper_length_5: RED
+description_main_no_space_upper_length_6: RED
+description_main_upper: RED
+description_main_upper_length_1: R
+description_main_upper_length_2: RE
+description_main_upper_length_3: RED
+description_main_upper_length_4: RED
+description_main_upper_length_5: RED
+description_main_upper_length_6: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_sweater_medium_red
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_sweater_medium_red
+id: clothes_item_sweater_medium_red
+id_no_class: item_sweater_medium_red
+id_no_color: red
+id_no_size: medium_red
+id_no_type: sweater_medium_red
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_red
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_red
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_red
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20347b0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20347b0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20347b0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20347b0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweater_medium_red](none)<br>[](none)<br>[Clothes Item
+  Sweater Medium Red](none)<br><br>'
+markdown_short: '[clothes_item_sweater_medium_red](none)<br><br>'
+md5: 4fe0fc6591189d74c44abfba107c9863
+md5_10: 4fe0fc6591
+md5_10_upper: 4FE0FC6591
+md5_5: 4fe0f
+md5_5_upper: 4FE0F
+md5_6: 4fe0fc
+md5_6_alpha: 347b0
+md5_6_alpha_upper: 347B0
+md5_6_upper: 4FE0FC
+name: Clothes Item Sweater Medium Red
+name_no_class: Item Sweater Medium Red
+name_no_color: Red
+name_no_size: Medium Red
+name_no_size_short: Medium Red
+name_no_type: Sweater Medium Red
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: sweater
+oomlout_detail_hierarchy_3_upper: SWEATER
+oomlout_detail_hierarchy_3_upper_length_4: SWEA
+oomlout_detail_hierarchy_4: medium
+oomlout_detail_hierarchy_4_upper: MEDIUM
+oomlout_detail_hierarchy_4_upper_length_4: MEDI
+oomlout_detail_hierarchy_5: red
+oomlout_detail_hierarchy_5_upper: RED
+oomlout_detail_hierarchy_5_upper_length_4: RED
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_sweater_medium_red
+oomp_word: ant ship up
+oomp_word_emoji: ':ant: :ship: :up:'
+oomp_word_emoji_list:
+- ':ant:'
+- ':ship:'
+- ':up:'
+oomp_word_list:
+- ant
+- ship
+- up
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: sweater
+size_capital: Sweater
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sw
+size_length_3: swe
+size_length_4: swea
+size_length_5: sweat
+size_length_6: sweate
+size_name: Sweater
+size_no_space_length_1: s
+size_no_space_length_2: sw
+size_no_space_length_3: swe
+size_no_space_length_4: swea
+size_no_space_length_5: sweat
+size_no_space_length_6: sweate
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SW
+size_no_space_upper_length_3: SWE
+size_no_space_upper_length_4: SWEA
+size_no_space_upper_length_5: SWEAT
+size_no_space_upper_length_6: SWEATE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATER
+size_upper_length_1: S
+size_upper_length_2: SW
+size_upper_length_3: SWE
+size_upper_length_4: SWEA
+size_upper_length_5: SWEAT
+size_upper_length_6: SWEATE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

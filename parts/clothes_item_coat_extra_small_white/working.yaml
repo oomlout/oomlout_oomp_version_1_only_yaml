@@ -1,0 +1,294 @@
+bip_39_word_dash_12: walk-honey-raise-desk-marble-aim-series-erase-message-kangaroo-history-aerobic
+bip_39_word_dash_2: walk-honey
+bip_39_word_dash_3: walk-honey-raise
+bip_39_word_new_br_12: walk<br>honey<br>raise<br>desk<br>marble<br>aim<br>series<br>erase<br>message<br>kangaroo<br>history<br>aerobic
+bip_39_word_new_br_2: walk<br>honey
+bip_39_word_new_br_3: walk<br>honey<br>raise
+bip_39_word_new_line_12: 'walk
+
+  honey
+
+  raise
+
+  desk
+
+  marble
+
+  aim
+
+  series
+
+  erase
+
+  message
+
+  kangaroo
+
+  history
+
+  aerobic'
+bip_39_word_new_line_2: 'walk
+
+  honey'
+bip_39_word_new_line_3: 'walk
+
+  honey
+
+  raise'
+bip_39_word_no_space_12: walkhoneyraisedeskmarbleaimserieserasemessagekangaroohistoryaerobic
+bip_39_word_no_space_2: walkhoney
+bip_39_word_no_space_3: walkhoneyraise
+bip_39_word_space_12: walk honey raise desk marble aim series erase message kangaroo
+  history aerobic
+bip_39_word_space_2: walk honey
+bip_39_word_space_3: walk honey raise
+bip_39_word_underscore_12: walk_honey_raise_desk_marble_aim_series_erase_message_kangaroo_history_aerobic
+bip_39_word_underscore_2: walk_honey
+bip_39_word_underscore_3: walk_honey_raise
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_length_1: e
+color_length_2: ex
+color_length_3: ext
+color_length_4: extr
+color_length_5: extra
+color_length_6: extra_
+color_name: Extra Small
+color_no_space_length_1: e
+color_no_space_length_2: ex
+color_no_space_length_3: ext
+color_no_space_length_4: extr
+color_no_space_length_5: extra
+color_no_space_length_6: extras
+color_no_space_upper_length_1: E
+color_no_space_upper_length_2: EX
+color_no_space_upper_length_3: EXT
+color_no_space_upper_length_4: EXTR
+color_no_space_upper_length_5: EXTRA
+color_no_space_upper_length_6: EXTRAS
+color_upper: EXTRA_SMALL
+color_upper_length_1: E
+color_upper_length_2: EX
+color_upper_length_3: EXT
+color_upper_length_4: EXTR
+color_upper_length_5: EXTRA
+color_upper_length_6: EXTRA_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_length_1: w
+description_main_length_2: wh
+description_main_length_3: whi
+description_main_length_4: whit
+description_main_length_5: white
+description_main_length_6: white
+description_main_name: White
+description_main_no_space_length_1: w
+description_main_no_space_length_2: wh
+description_main_no_space_length_3: whi
+description_main_no_space_length_4: whit
+description_main_no_space_length_5: white
+description_main_no_space_length_6: white
+description_main_no_space_upper_length_1: W
+description_main_no_space_upper_length_2: WH
+description_main_no_space_upper_length_3: WHI
+description_main_no_space_upper_length_4: WHIT
+description_main_no_space_upper_length_5: WHITE
+description_main_no_space_upper_length_6: WHITE
+description_main_upper: WHITE
+description_main_upper_length_1: W
+description_main_upper_length_2: WH
+description_main_upper_length_3: WHI
+description_main_upper_length_4: WHIT
+description_main_upper_length_5: WHITE
+description_main_upper_length_6: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_coat_extra_small_white
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_coat_extra_small_white
+id: clothes_item_coat_extra_small_white
+id_no_class: item_coat_extra_small_white
+id_no_color: white
+id_no_size: extra_small_white
+id_no_type: coat_extra_small_white
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_white
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_white
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_white
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202lw7y
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202lw7y
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202lw7y
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202lw7y
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_extra_small_white](none)<br>[](none)<br>[Clothes
+  Item Coat Extra Small White](none)<br><br>'
+markdown_short: '[clothes_item_coat_extra_small_white](none)<br><br>'
+md5: 42d85e645f4c78801543d3bf625b4fb4
+md5_10: 42d85e645f
+md5_10_upper: 42D85E645F
+md5_5: 42d85
+md5_5_upper: 42D85
+md5_6: 42d85e
+md5_6_alpha: 2lw7y
+md5_6_alpha_upper: 2LW7Y
+md5_6_upper: 42D85E
+name: Clothes Item Coat Extra Small White
+name_no_class: Item Coat Extra Small White
+name_no_color: White
+name_no_size: Extra Small White
+name_no_size_short: Extra Small White
+name_no_type: Coat Extra Small White
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: coat
+oomlout_detail_hierarchy_3_upper: COAT
+oomlout_detail_hierarchy_3_upper_length_4: COAT
+oomlout_detail_hierarchy_4: extra_small
+oomlout_detail_hierarchy_4_upper: EXTRA_SMALL
+oomlout_detail_hierarchy_4_upper_length_4: EXTR
+oomlout_detail_hierarchy_5: white
+oomlout_detail_hierarchy_5_upper: WHITE
+oomlout_detail_hierarchy_5_upper_length_4: WHIT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_coat_extra_small_white
+oomp_word: sheep hospital crocodile
+oomp_word_emoji: ':sheep: :hospital: :crocodile:'
+oomp_word_emoji_list:
+- ':sheep:'
+- ':hospital:'
+- ':crocodile:'
+oomp_word_list:
+- sheep
+- hospital
+- crocodile
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: co
+size_length_3: coa
+size_length_4: coat
+size_length_5: coat
+size_length_6: coat
+size_name: Coat
+size_no_space_length_1: c
+size_no_space_length_2: co
+size_no_space_length_3: coa
+size_no_space_length_4: coat
+size_no_space_length_5: coat
+size_no_space_length_6: coat
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CO
+size_no_space_upper_length_3: COA
+size_no_space_upper_length_4: COAT
+size_no_space_upper_length_5: COAT
+size_no_space_upper_length_6: COAT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+size_upper_length_1: C
+size_upper_length_2: CO
+size_upper_length_3: COA
+size_upper_length_4: COAT
+size_upper_length_5: COAT
+size_upper_length_6: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

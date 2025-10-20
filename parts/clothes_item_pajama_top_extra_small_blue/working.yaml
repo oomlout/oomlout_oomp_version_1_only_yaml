@@ -1,0 +1,294 @@
+bip_39_word_dash_12: dirt-forest-festival-opera-guitar-comic-flat-upper-armed-pair-subject-around
+bip_39_word_dash_2: dirt-forest
+bip_39_word_dash_3: dirt-forest-festival
+bip_39_word_new_br_12: dirt<br>forest<br>festival<br>opera<br>guitar<br>comic<br>flat<br>upper<br>armed<br>pair<br>subject<br>around
+bip_39_word_new_br_2: dirt<br>forest
+bip_39_word_new_br_3: dirt<br>forest<br>festival
+bip_39_word_new_line_12: 'dirt
+
+  forest
+
+  festival
+
+  opera
+
+  guitar
+
+  comic
+
+  flat
+
+  upper
+
+  armed
+
+  pair
+
+  subject
+
+  around'
+bip_39_word_new_line_2: 'dirt
+
+  forest'
+bip_39_word_new_line_3: 'dirt
+
+  forest
+
+  festival'
+bip_39_word_no_space_12: dirtforestfestivaloperaguitarcomicflatupperarmedpairsubjectaround
+bip_39_word_no_space_2: dirtforest
+bip_39_word_no_space_3: dirtforestfestival
+bip_39_word_space_12: dirt forest festival opera guitar comic flat upper armed pair
+  subject around
+bip_39_word_space_2: dirt forest
+bip_39_word_space_3: dirt forest festival
+bip_39_word_underscore_12: dirt_forest_festival_opera_guitar_comic_flat_upper_armed_pair_subject_around
+bip_39_word_underscore_2: dirt_forest
+bip_39_word_underscore_3: dirt_forest_festival
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_length_1: e
+color_length_2: ex
+color_length_3: ext
+color_length_4: extr
+color_length_5: extra
+color_length_6: extra_
+color_name: Extra Small
+color_no_space_length_1: e
+color_no_space_length_2: ex
+color_no_space_length_3: ext
+color_no_space_length_4: extr
+color_no_space_length_5: extra
+color_no_space_length_6: extras
+color_no_space_upper_length_1: E
+color_no_space_upper_length_2: EX
+color_no_space_upper_length_3: EXT
+color_no_space_upper_length_4: EXTR
+color_no_space_upper_length_5: EXTRA
+color_no_space_upper_length_6: EXTRAS
+color_upper: EXTRA_SMALL
+color_upper_length_1: E
+color_upper_length_2: EX
+color_upper_length_3: EXT
+color_upper_length_4: EXTR
+color_upper_length_5: EXTRA
+color_upper_length_6: EXTRA_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: blue
+description_main_capital: Blue
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: bl
+description_main_length_3: blu
+description_main_length_4: blue
+description_main_length_5: blue
+description_main_length_6: blue
+description_main_name: Blue
+description_main_no_space_length_1: b
+description_main_no_space_length_2: bl
+description_main_no_space_length_3: blu
+description_main_no_space_length_4: blue
+description_main_no_space_length_5: blue
+description_main_no_space_length_6: blue
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BL
+description_main_no_space_upper_length_3: BLU
+description_main_no_space_upper_length_4: BLUE
+description_main_no_space_upper_length_5: BLUE
+description_main_no_space_upper_length_6: BLUE
+description_main_upper: BLUE
+description_main_upper_length_1: B
+description_main_upper_length_2: BL
+description_main_upper_length_3: BLU
+description_main_upper_length_4: BLUE
+description_main_upper_length_5: BLUE
+description_main_upper_length_6: BLUE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_pajama_top_extra_small_blue
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_pajama_top_extra_small_blue
+id: clothes_item_pajama_top_extra_small_blue
+id_no_class: item_pajama_top_extra_small_blue
+id_no_color: blue
+id_no_size: extra_small_blue
+id_no_type: pajama_top_extra_small_blue
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_blue
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_blue
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_blue
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207mvhj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207mvhj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207mvhj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207mvhj
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_extra_small_blue](none)<br>[](none)<br>[Clothes
+  Item Pajama Top Extra Small Blue](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_extra_small_blue](none)<br><br>'
+md5: c3afe7c05eef0b10b933e9b4aa56c9f5
+md5_10: c3afe7c05e
+md5_10_upper: C3AFE7C05E
+md5_5: c3afe
+md5_5_upper: C3AFE
+md5_6: c3afe7
+md5_6_alpha: 7mvhj
+md5_6_alpha_upper: 7MVHJ
+md5_6_upper: C3AFE7
+name: Clothes Item Pajama Top Extra Small Blue
+name_no_class: Item Pajama Top Extra Small Blue
+name_no_color: Blue
+name_no_size: Extra Small Blue
+name_no_size_short: Extra Small Blue
+name_no_type: Pajama Top Extra Small Blue
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: pajama_top
+oomlout_detail_hierarchy_3_upper: PAJAMA_TOP
+oomlout_detail_hierarchy_3_upper_length_4: PAJA
+oomlout_detail_hierarchy_4: extra_small
+oomlout_detail_hierarchy_4_upper: EXTRA_SMALL
+oomlout_detail_hierarchy_4_upper_length_4: EXTR
+oomlout_detail_hierarchy_5: blue
+oomlout_detail_hierarchy_5_upper: BLUE
+oomlout_detail_hierarchy_5_upper_length_4: BLUE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_pajama_top_extra_small_blue
+oomp_word: cake tophat helicopter
+oomp_word_emoji: ':cake: :tophat: :helicopter:'
+oomp_word_emoji_list:
+- ':cake:'
+- ':tophat:'
+- ':helicopter:'
+oomp_word_list:
+- cake
+- tophat
+- helicopter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pa
+size_length_3: paj
+size_length_4: paja
+size_length_5: pajam
+size_length_6: pajama
+size_name: Pajama Top
+size_no_space_length_1: p
+size_no_space_length_2: pa
+size_no_space_length_3: paj
+size_no_space_length_4: paja
+size_no_space_length_5: pajam
+size_no_space_length_6: pajama
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PA
+size_no_space_upper_length_3: PAJ
+size_no_space_upper_length_4: PAJA
+size_no_space_upper_length_5: PAJAM
+size_no_space_upper_length_6: PAJAMA
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+size_upper_length_1: P
+size_upper_length_2: PA
+size_upper_length_3: PAJ
+size_upper_length_4: PAJA
+size_upper_length_5: PAJAM
+size_upper_length_6: PAJAMA
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

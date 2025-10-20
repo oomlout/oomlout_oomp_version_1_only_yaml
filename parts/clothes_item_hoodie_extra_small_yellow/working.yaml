@@ -1,0 +1,294 @@
+bip_39_word_dash_12: mail-danger-raccoon-kitchen-ensure-club-love-hidden-slush-dog-bid-adult
+bip_39_word_dash_2: mail-danger
+bip_39_word_dash_3: mail-danger-raccoon
+bip_39_word_new_br_12: mail<br>danger<br>raccoon<br>kitchen<br>ensure<br>club<br>love<br>hidden<br>slush<br>dog<br>bid<br>adult
+bip_39_word_new_br_2: mail<br>danger
+bip_39_word_new_br_3: mail<br>danger<br>raccoon
+bip_39_word_new_line_12: 'mail
+
+  danger
+
+  raccoon
+
+  kitchen
+
+  ensure
+
+  club
+
+  love
+
+  hidden
+
+  slush
+
+  dog
+
+  bid
+
+  adult'
+bip_39_word_new_line_2: 'mail
+
+  danger'
+bip_39_word_new_line_3: 'mail
+
+  danger
+
+  raccoon'
+bip_39_word_no_space_12: maildangerraccoonkitchenensureclublovehiddenslushdogbidadult
+bip_39_word_no_space_2: maildanger
+bip_39_word_no_space_3: maildangerraccoon
+bip_39_word_space_12: mail danger raccoon kitchen ensure club love hidden slush dog
+  bid adult
+bip_39_word_space_2: mail danger
+bip_39_word_space_3: mail danger raccoon
+bip_39_word_underscore_12: mail_danger_raccoon_kitchen_ensure_club_love_hidden_slush_dog_bid_adult
+bip_39_word_underscore_2: mail_danger
+bip_39_word_underscore_3: mail_danger_raccoon
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_length_1: e
+color_length_2: ex
+color_length_3: ext
+color_length_4: extr
+color_length_5: extra
+color_length_6: extra_
+color_name: Extra Small
+color_no_space_length_1: e
+color_no_space_length_2: ex
+color_no_space_length_3: ext
+color_no_space_length_4: extr
+color_no_space_length_5: extra
+color_no_space_length_6: extras
+color_no_space_upper_length_1: E
+color_no_space_upper_length_2: EX
+color_no_space_upper_length_3: EXT
+color_no_space_upper_length_4: EXTR
+color_no_space_upper_length_5: EXTRA
+color_no_space_upper_length_6: EXTRAS
+color_upper: EXTRA_SMALL
+color_upper_length_1: E
+color_upper_length_2: EX
+color_upper_length_3: EXT
+color_upper_length_4: EXTR
+color_upper_length_5: EXTRA
+color_upper_length_6: EXTRA_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: yellow
+description_main_capital: Yellow
+description_main_first_letter: y
+description_main_first_letter_upper: Y
+description_main_length_1: y
+description_main_length_2: ye
+description_main_length_3: yel
+description_main_length_4: yell
+description_main_length_5: yello
+description_main_length_6: yellow
+description_main_name: Yellow
+description_main_no_space_length_1: y
+description_main_no_space_length_2: ye
+description_main_no_space_length_3: yel
+description_main_no_space_length_4: yell
+description_main_no_space_length_5: yello
+description_main_no_space_length_6: yellow
+description_main_no_space_upper_length_1: Y
+description_main_no_space_upper_length_2: YE
+description_main_no_space_upper_length_3: YEL
+description_main_no_space_upper_length_4: YELL
+description_main_no_space_upper_length_5: YELLO
+description_main_no_space_upper_length_6: YELLOW
+description_main_upper: YELLOW
+description_main_upper_length_1: Y
+description_main_upper_length_2: YE
+description_main_upper_length_3: YEL
+description_main_upper_length_4: YELL
+description_main_upper_length_5: YELLO
+description_main_upper_length_6: YELLOW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_hoodie_extra_small_yellow
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_hoodie_extra_small_yellow
+id: clothes_item_hoodie_extra_small_yellow
+id_no_class: item_hoodie_extra_small_yellow
+id_no_color: yellow
+id_no_size: extra_small_yellow
+id_no_type: hoodie_extra_small_yellow
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_yellow
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_yellow
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_yellow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_yellow
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202cis0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202cis0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202cis0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202cis0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_yellow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_extra_small_yellow](none)<br>[](none)<br>[Clothes
+  Item Hoodie Extra Small Yellow](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_extra_small_yellow](none)<br><br>'
+md5: 3c2c1026626b708cb0a5a7b1608ddc31
+md5_10: 3c2c102662
+md5_10_upper: 3C2C102662
+md5_5: 3c2c1
+md5_5_upper: 3C2C1
+md5_6: 3c2c10
+md5_6_alpha: 2cis0
+md5_6_alpha_upper: 2CIS0
+md5_6_upper: 3C2C10
+name: Clothes Item Hoodie Extra Small Yellow
+name_no_class: Item Hoodie Extra Small Yellow
+name_no_color: Yellow
+name_no_size: Extra Small Yellow
+name_no_size_short: Extra Small Yellow
+name_no_type: Hoodie Extra Small Yellow
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: hoodie
+oomlout_detail_hierarchy_3_upper: HOODIE
+oomlout_detail_hierarchy_3_upper_length_4: HOOD
+oomlout_detail_hierarchy_4: extra_small
+oomlout_detail_hierarchy_4_upper: EXTRA_SMALL
+oomlout_detail_hierarchy_4_upper_length_4: EXTR
+oomlout_detail_hierarchy_5: yellow
+oomlout_detail_hierarchy_5_upper: YELLOW
+oomlout_detail_hierarchy_5_upper_length_4: YELL
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_hoodie_extra_small_yellow
+oomp_word: pig snowflake star
+oomp_word_emoji: ':pig: :snowflake: :star:'
+oomp_word_emoji_list:
+- ':pig:'
+- ':snowflake:'
+- ':star:'
+oomp_word_list:
+- pig
+- snowflake
+- star
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_length_1: h
+size_length_2: ho
+size_length_3: hoo
+size_length_4: hood
+size_length_5: hoodi
+size_length_6: hoodie
+size_name: Hoodie
+size_no_space_length_1: h
+size_no_space_length_2: ho
+size_no_space_length_3: hoo
+size_no_space_length_4: hood
+size_no_space_length_5: hoodi
+size_no_space_length_6: hoodie
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HO
+size_no_space_upper_length_3: HOO
+size_no_space_upper_length_4: HOOD
+size_no_space_upper_length_5: HOODI
+size_no_space_upper_length_6: HOODIE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+size_upper_length_1: H
+size_upper_length_2: HO
+size_upper_length_3: HOO
+size_upper_length_4: HOOD
+size_upper_length_5: HOODI
+size_upper_length_6: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

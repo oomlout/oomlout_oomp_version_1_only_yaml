@@ -1,0 +1,294 @@
+bip_39_word_dash_12: tomato-dust-focus-nut-face-kiss-trade-injury-figure-slogan-diamond-author
+bip_39_word_dash_2: tomato-dust
+bip_39_word_dash_3: tomato-dust-focus
+bip_39_word_new_br_12: tomato<br>dust<br>focus<br>nut<br>face<br>kiss<br>trade<br>injury<br>figure<br>slogan<br>diamond<br>author
+bip_39_word_new_br_2: tomato<br>dust
+bip_39_word_new_br_3: tomato<br>dust<br>focus
+bip_39_word_new_line_12: 'tomato
+
+  dust
+
+  focus
+
+  nut
+
+  face
+
+  kiss
+
+  trade
+
+  injury
+
+  figure
+
+  slogan
+
+  diamond
+
+  author'
+bip_39_word_new_line_2: 'tomato
+
+  dust'
+bip_39_word_new_line_3: 'tomato
+
+  dust
+
+  focus'
+bip_39_word_no_space_12: tomatodustfocusnutfacekisstradeinjuryfigureslogandiamondauthor
+bip_39_word_no_space_2: tomatodust
+bip_39_word_no_space_3: tomatodustfocus
+bip_39_word_space_12: tomato dust focus nut face kiss trade injury figure slogan diamond
+  author
+bip_39_word_space_2: tomato dust
+bip_39_word_space_3: tomato dust focus
+bip_39_word_underscore_12: tomato_dust_focus_nut_face_kiss_trade_injury_figure_slogan_diamond_author
+bip_39_word_underscore_2: tomato_dust
+bip_39_word_underscore_3: tomato_dust_focus
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_length_1: l
+color_length_2: la
+color_length_3: lar
+color_length_4: larg
+color_length_5: large
+color_length_6: large
+color_name: Large
+color_no_space_length_1: l
+color_no_space_length_2: la
+color_no_space_length_3: lar
+color_no_space_length_4: larg
+color_no_space_length_5: large
+color_no_space_length_6: large
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LA
+color_no_space_upper_length_3: LAR
+color_no_space_upper_length_4: LARG
+color_no_space_upper_length_5: LARGE
+color_no_space_upper_length_6: LARGE
+color_upper: LARGE
+color_upper_length_1: L
+color_upper_length_2: LA
+color_upper_length_3: LAR
+color_upper_length_4: LARG
+color_upper_length_5: LARGE
+color_upper_length_6: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_length_1: o
+description_main_length_2: or
+description_main_length_3: ora
+description_main_length_4: oran
+description_main_length_5: orang
+description_main_length_6: orange
+description_main_name: Orange
+description_main_no_space_length_1: o
+description_main_no_space_length_2: or
+description_main_no_space_length_3: ora
+description_main_no_space_length_4: oran
+description_main_no_space_length_5: orang
+description_main_no_space_length_6: orange
+description_main_no_space_upper_length_1: O
+description_main_no_space_upper_length_2: OR
+description_main_no_space_upper_length_3: ORA
+description_main_no_space_upper_length_4: ORAN
+description_main_no_space_upper_length_5: ORANG
+description_main_no_space_upper_length_6: ORANGE
+description_main_upper: ORANGE
+description_main_upper_length_1: O
+description_main_upper_length_2: OR
+description_main_upper_length_3: ORA
+description_main_upper_length_4: ORAN
+description_main_upper_length_5: ORANG
+description_main_upper_length_6: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_pajama_top_large_orange
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_pajama_top_large_orange
+id: clothes_item_pajama_top_large_orange
+id_no_class: item_pajama_top_large_orange
+id_no_color: orange
+id_no_size: large_orange
+id_no_type: pajama_top_large_orange
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_orange
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_orange
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_orange
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209m7w2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209m7w2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209m7w2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209m7w2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_large_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_large_orange](none)<br>[](none)<br>[Clothes
+  Item Pajama Top Large Orange](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_large_orange](none)<br><br>'
+md5: f67a72fab0743cd5eb28c97ab4511720
+md5_10: f67a72fab0
+md5_10_upper: F67A72FAB0
+md5_5: f67a7
+md5_5_upper: F67A7
+md5_6: f67a72
+md5_6_alpha: 9m7w2
+md5_6_alpha_upper: 9M7W2
+md5_6_upper: F67A72
+name: Clothes Item Pajama Top Large Orange
+name_no_class: Item Pajama Top Large Orange
+name_no_color: Orange
+name_no_size: Large Orange
+name_no_size_short: Large Orange
+name_no_type: Pajama Top Large Orange
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: pajama_top
+oomlout_detail_hierarchy_3_upper: PAJAMA_TOP
+oomlout_detail_hierarchy_3_upper_length_4: PAJA
+oomlout_detail_hierarchy_4: large
+oomlout_detail_hierarchy_4_upper: LARGE
+oomlout_detail_hierarchy_4_upper_length_4: LARG
+oomlout_detail_hierarchy_5: orange
+oomlout_detail_hierarchy_5_upper: ORANGE
+oomlout_detail_hierarchy_5_upper_length_4: ORAN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_pajama_top_large_orange
+oomp_word: five camera dolls
+oomp_word_emoji: ':five: :camera: :dolls:'
+oomp_word_emoji_list:
+- ':five:'
+- ':camera:'
+- ':dolls:'
+oomp_word_list:
+- five
+- camera
+- dolls
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pa
+size_length_3: paj
+size_length_4: paja
+size_length_5: pajam
+size_length_6: pajama
+size_name: Pajama Top
+size_no_space_length_1: p
+size_no_space_length_2: pa
+size_no_space_length_3: paj
+size_no_space_length_4: paja
+size_no_space_length_5: pajam
+size_no_space_length_6: pajama
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PA
+size_no_space_upper_length_3: PAJ
+size_no_space_upper_length_4: PAJA
+size_no_space_upper_length_5: PAJAM
+size_no_space_upper_length_6: PAJAMA
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+size_upper_length_1: P
+size_upper_length_2: PA
+size_upper_length_3: PAJ
+size_upper_length_4: PAJA
+size_upper_length_5: PAJAM
+size_upper_length_6: PAJAMA
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM
