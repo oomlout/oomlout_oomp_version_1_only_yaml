@@ -1,50 +1,50 @@
-bip_39_word_dash_12: actress-boost-hurdle-barely-motion-prefer-half-laundry-zero-crystal-arrow-acid
-bip_39_word_dash_2: actress-boost
-bip_39_word_dash_3: actress-boost-hurdle
-bip_39_word_new_br_12: actress<br>boost<br>hurdle<br>barely<br>motion<br>prefer<br>half<br>laundry<br>zero<br>crystal<br>arrow<br>acid
-bip_39_word_new_br_2: actress<br>boost
-bip_39_word_new_br_3: actress<br>boost<br>hurdle
-bip_39_word_new_line_12: 'actress
+bip_39_word_dash_12: amused-they-click-increase-slice-vivid-practice-broccoli-magic-hen-hen-amused
+bip_39_word_dash_2: amused-they
+bip_39_word_dash_3: amused-they-click
+bip_39_word_new_br_12: amused<br>they<br>click<br>increase<br>slice<br>vivid<br>practice<br>broccoli<br>magic<br>hen<br>hen<br>amused
+bip_39_word_new_br_2: amused<br>they
+bip_39_word_new_br_3: amused<br>they<br>click
+bip_39_word_new_line_12: 'amused
 
-  boost
+  they
 
-  hurdle
+  click
 
-  barely
+  increase
 
-  motion
+  slice
 
-  prefer
+  vivid
 
-  half
+  practice
 
-  laundry
+  broccoli
 
-  zero
+  magic
 
-  crystal
+  hen
 
-  arrow
+  hen
 
-  acid'
-bip_39_word_new_line_2: 'actress
+  amused'
+bip_39_word_new_line_2: 'amused
 
-  boost'
-bip_39_word_new_line_3: 'actress
+  they'
+bip_39_word_new_line_3: 'amused
 
-  boost
+  they
 
-  hurdle'
-bip_39_word_no_space_12: actressboosthurdlebarelymotionpreferhalflaundryzerocrystalarrowacid
-bip_39_word_no_space_2: actressboost
-bip_39_word_no_space_3: actressboosthurdle
-bip_39_word_space_12: actress boost hurdle barely motion prefer half laundry zero
-  crystal arrow acid
-bip_39_word_space_2: actress boost
-bip_39_word_space_3: actress boost hurdle
-bip_39_word_underscore_12: actress_boost_hurdle_barely_motion_prefer_half_laundry_zero_crystal_arrow_acid
-bip_39_word_underscore_2: actress_boost
-bip_39_word_underscore_3: actress_boost_hurdle
+  click'
+bip_39_word_no_space_12: amusedtheyclickincreaseslicevividpracticebroccolimagichenhenamused
+bip_39_word_no_space_2: amusedthey
+bip_39_word_no_space_3: amusedtheyclick
+bip_39_word_space_12: amused they click increase slice vivid practice broccoli magic
+  hen hen amused
+bip_39_word_space_2: amused they
+bip_39_word_space_3: amused they click
+bip_39_word_underscore_12: amused_they_click_increase_slice_vivid_practice_broccoli_magic_hen_hen_amused
+bip_39_word_underscore_2: amused_they
+bip_39_word_underscore_3: amused_they_click
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
@@ -75,12 +75,36 @@ classification_upper_length_3: PRI
 classification_upper_length_4: PRIN
 classification_upper_length_5: PRINT
 classification_upper_length_6: PRINTE
-color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_name: ''
-color_upper: ''
+color: color_8
+color_capital: Color 8
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color_
+color_name: Color 8
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: color8
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLOR8
+color_upper: COLOR_8
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -95,27 +119,27 @@ description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: ' '
-description_or_color_upper: ' '
-directory: parts/printer_inkjet_a2_epson_stylus_pro_4800
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
-id: printer_inkjet_a2_epson_stylus_pro_4800
-id_no_class: inkjet_a2_epson_stylus_pro_4800
-id_no_color: epsonstyluspro4800
-id_no_size: epson_stylus_pro_4800
-id_no_type: a2_epson_stylus_pro_4800
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
+id: printer_inkjet_a2_color_8_epson_stylus_pro_4800
+id_no_class: inkjet_a2_color_8_epson_stylus_pro_4800
+id_no_color: epson_stylus_pro_4800
+id_no_size: color_8_epson_stylus_pro_4800
+id_no_type: a2_color_8_epson_stylus_pro_4800
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
 link_2_name: link_github
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2016a19
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2016a19
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2016a19
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2016a19
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_epson_stylus_pro_4800
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2053s62
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2053s62
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2053s62
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2053s62
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a2_color_8_epson_stylus_pro_4800
 manufacturer: epson
 manufacturer_capital: Epson
 manufacturer_first_letter: e
@@ -147,24 +171,24 @@ manufacturer_upper_length_4: EPSO
 manufacturer_upper_length_5: EPSON
 manufacturer_upper_length_6: EPSON
 manufacturers: []
-markdown_full: '[printer_inkjet_a2_epson_stylus_pro_4800](none)<br>[](none)<br>[Printer
-  Inkjet A2 Epson Stylus Pro 4800](none)<br><br>'
-markdown_short: '[printer_inkjet_a2_epson_stylus_pro_4800](none)<br><br>'
-md5: 1e194d57fd7dad0ea7482128df066816
-md5_10: 1e194d57fd
-md5_10_upper: 1E194D57FD
-md5_5: 1e194
-md5_5_upper: 1E194
-md5_6: 1e194d
-md5_6_alpha: 16a19
-md5_6_alpha_upper: 16A19
-md5_6_upper: 1E194D
-name: Printer Inkjet A2 Epson Stylus Pro 4800
-name_no_class: Inkjet A2 Epson Stylus Pro 4800
-name_no_color: Epsonstyluspro4800
-name_no_size: Epson Stylus Pro 4800
-name_no_size_short: Epson Stylus Pro 4800
-name_no_type: A2 Epson Stylus Pro 4800
+markdown_full: '[printer_inkjet_a2_color_8_epson_stylus_pro_4800](none)<br>[](none)<br>[Printer
+  Inkjet A2 Color 8 Epson Stylus Pro 4800](none)<br><br>'
+markdown_short: '[printer_inkjet_a2_color_8_epson_stylus_pro_4800](none)<br><br>'
+md5: 82d65acc2e1c752fd4e5b72a55782041
+md5_10: 82d65acc2e
+md5_10_upper: 82D65ACC2E
+md5_5: 82d65
+md5_5_upper: 82D65
+md5_6: 82d65a
+md5_6_alpha: 53s62
+md5_6_alpha_upper: 53S62
+md5_6_upper: 82D65A
+name: Printer Inkjet A2 Color 8 Epson Stylus Pro 4800
+name_no_class: Inkjet A2 Color 8 Epson Stylus Pro 4800
+name_no_color: Epson Stylus Pro 4800
+name_no_size: Color 8 Epson Stylus Pro 4800
+name_no_size_short: Color 8 Epson Stylus Pro 4800
+name_no_type: A2 Color 8 Epson Stylus Pro 4800
 oomlout_detail_hierarchy_1: printer
 oomlout_detail_hierarchy_1_upper: PRINTER
 oomlout_detail_hierarchy_1_upper_length_4: PRIN
@@ -174,24 +198,27 @@ oomlout_detail_hierarchy_2_upper_length_4: INKJ
 oomlout_detail_hierarchy_3: a2
 oomlout_detail_hierarchy_3_upper: A2
 oomlout_detail_hierarchy_3_upper_length_4: A2
-oomlout_detail_hierarchy_4: epson
-oomlout_detail_hierarchy_4_upper: EPSON
-oomlout_detail_hierarchy_4_upper_length_4: EPSO
-oomlout_detail_hierarchy_5: stylus_pro_4800
-oomlout_detail_hierarchy_5_upper: STYLUS_PRO_4800
-oomlout_detail_hierarchy_5_upper_length_4: STYL
+oomlout_detail_hierarchy_4: color_8
+oomlout_detail_hierarchy_4_upper: COLOR_8
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: epson
+oomlout_detail_hierarchy_5_upper: EPSON
+oomlout_detail_hierarchy_5_upper_length_4: EPSO
+oomlout_detail_hierarchy_6: stylus_pro_4800
+oomlout_detail_hierarchy_6_upper: STYLUS_PRO_4800
+oomlout_detail_hierarchy_6_upper_length_4: STYL
 oomlout_oomp_utility_custom_data_manipulation: true
-oomp_key: oomp_printer_inkjet_a2_epson_stylus_pro_4800
-oomp_word: angel pray bug
-oomp_word_emoji: ':angel: :pray: :bug:'
+oomp_key: oomp_printer_inkjet_a2_color_8_epson_stylus_pro_4800
+oomp_word: radio school goat
+oomp_word_emoji: ':radio: :school: :goat:'
 oomp_word_emoji_list:
-- ':angel:'
-- ':pray:'
-- ':bug:'
+- ':radio:'
+- ':school:'
+- ':goat:'
 oomp_word_list:
-- angel
-- pray
-- bug
+- radio
+- school
+- goat
 part_number: stylus_pro_4800
 part_number_capital: Stylus Pro 4800
 part_number_exact: Stylus Pro 4800

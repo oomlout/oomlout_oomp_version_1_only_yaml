@@ -1,50 +1,50 @@
-bip_39_word_dash_12: rough-next-raise-title-hen-category-bottom-decade-tiny-increase-tone-animal
-bip_39_word_dash_2: rough-next
-bip_39_word_dash_3: rough-next-raise
-bip_39_word_new_br_12: rough<br>next<br>raise<br>title<br>hen<br>category<br>bottom<br>decade<br>tiny<br>increase<br>tone<br>animal
-bip_39_word_new_br_2: rough<br>next
-bip_39_word_new_br_3: rough<br>next<br>raise
-bip_39_word_new_line_12: 'rough
+bip_39_word_dash_12: clinic-recall-runway-practice-punch-addict-scorpion-skin-monkey-scorpion-rely-accident
+bip_39_word_dash_2: clinic-recall
+bip_39_word_dash_3: clinic-recall-runway
+bip_39_word_new_br_12: clinic<br>recall<br>runway<br>practice<br>punch<br>addict<br>scorpion<br>skin<br>monkey<br>scorpion<br>rely<br>accident
+bip_39_word_new_br_2: clinic<br>recall
+bip_39_word_new_br_3: clinic<br>recall<br>runway
+bip_39_word_new_line_12: 'clinic
 
-  next
+  recall
 
-  raise
+  runway
 
-  title
+  practice
 
-  hen
+  punch
 
-  category
+  addict
 
-  bottom
+  scorpion
 
-  decade
+  skin
 
-  tiny
+  monkey
 
-  increase
+  scorpion
 
-  tone
+  rely
 
-  animal'
-bip_39_word_new_line_2: 'rough
+  accident'
+bip_39_word_new_line_2: 'clinic
 
-  next'
-bip_39_word_new_line_3: 'rough
+  recall'
+bip_39_word_new_line_3: 'clinic
 
-  next
+  recall
 
-  raise'
-bip_39_word_no_space_12: roughnextraisetitlehencategorybottomdecadetinyincreasetoneanimal
-bip_39_word_no_space_2: roughnext
-bip_39_word_no_space_3: roughnextraise
-bip_39_word_space_12: rough next raise title hen category bottom decade tiny increase
-  tone animal
-bip_39_word_space_2: rough next
-bip_39_word_space_3: rough next raise
-bip_39_word_underscore_12: rough_next_raise_title_hen_category_bottom_decade_tiny_increase_tone_animal
-bip_39_word_underscore_2: rough_next
-bip_39_word_underscore_3: rough_next_raise
+  runway'
+bip_39_word_no_space_12: clinicrecallrunwaypracticepunchaddictscorpionskinmonkeyscorpionrelyaccident
+bip_39_word_no_space_2: clinicrecall
+bip_39_word_no_space_3: clinicrecallrunway
+bip_39_word_space_12: clinic recall runway practice punch addict scorpion skin monkey
+  scorpion rely accident
+bip_39_word_space_2: clinic recall
+bip_39_word_space_3: clinic recall runway
+bip_39_word_underscore_12: clinic_recall_runway_practice_punch_addict_scorpion_skin_monkey_scorpion_rely_accident
+bip_39_word_underscore_2: clinic_recall
+bip_39_word_underscore_3: clinic_recall_runway
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
@@ -75,12 +75,36 @@ classification_upper_length_3: PRI
 classification_upper_length_4: PRIN
 classification_upper_length_5: PRINT
 classification_upper_length_6: PRINTE
-color: ''
-color_capital: ''
-color_first_letter: ''
-color_first_letter_upper: ''
-color_name: ''
-color_upper: ''
+color: color_4
+color_capital: Color 4
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color_
+color_name: Color 4
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: color4
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLOR4
+color_upper: COLOR_4
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR_
 description_extra: ''
 description_extra_capital: ''
 description_extra_first_letter: ''
@@ -95,27 +119,27 @@ description_main_name: ''
 description_main_upper: ''
 description_only_numbers: ''
 description_only_numbers_short: ' '
-description_or_color: ' '
-description_or_color_upper: ' '
-directory: parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
-id: printer_inkjet_reel_hewlett_packard_designjet_650c
-id_no_class: inkjet_reel_hewlett_packard_designjet_650c
-id_no_color: hewlettpackarddesignjet650c
-id_no_size: hewlett_packard_designjet_650c
-id_no_type: reel_hewlett_packard_designjet_650c
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+id: printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+id_no_class: inkjet_reel_color_4_hewlett_packard_designjet_650c
+id_no_color: hewlett_packard_designjet_650c
+id_no_size: color_4_hewlett_packard_designjet_650c
+id_no_type: reel_color_4_hewlett_packard_designjet_650c
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
 link_2_name: link_github
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205orz0
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205orz0
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205orz0
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205orz0
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_hewlett_packard_designjet_650c
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ww6o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ww6o
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20ww6o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ww6o
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
 manufacturer: hewlett_packard
 manufacturer_capital: Hewlett Packard
 manufacturer_first_letter: h
@@ -147,24 +171,24 @@ manufacturer_upper_length_4: HEWL
 manufacturer_upper_length_5: HEWLE
 manufacturer_upper_length_6: HEWLET
 manufacturers: []
-markdown_full: '[printer_inkjet_reel_hewlett_packard_designjet_650c](none)<br>[](none)<br>[Printer
-  Inkjet Reel Hewlett Packard Designjet 650C](none)<br><br>'
-markdown_short: '[printer_inkjet_reel_hewlett_packard_designjet_650c](none)<br><br>'
-md5: 91c89caf1338834890b59e2f626555e2
-md5_10: 91c89caf13
-md5_10_upper: 91C89CAF13
-md5_5: 91c89
-md5_5_upper: 91C89
-md5_6: 91c89c
-md5_6_alpha: 5orz0
-md5_6_alpha_upper: 5ORZ0
-md5_6_upper: 91C89C
-name: Printer Inkjet Reel Hewlett Packard Designjet 650C
-name_no_class: Inkjet Reel Hewlett Packard Designjet 650C
-name_no_color: Hewlettpackarddesignjet650C
-name_no_size: Hewlett Packard Designjet 650C
-name_no_size_short: Hewlett Packard Designjet 650C
-name_no_type: Reel Hewlett Packard Designjet 650C
+markdown_full: '[printer_inkjet_reel_color_4_hewlett_packard_designjet_650c](none)<br>[](none)<br>[Printer
+  Inkjet Reel Color 4 Hewlett Packard Designjet 650C](none)<br><br>'
+markdown_short: '[printer_inkjet_reel_color_4_hewlett_packard_designjet_650c](none)<br><br>'
+md5: 176af04c79ca98240d56ea977aecd959
+md5_10: 176af04c79
+md5_10_upper: 176AF04C79
+md5_5: 176af
+md5_5_upper: 176AF
+md5_6: 176af0
+md5_6_alpha: ww6o
+md5_6_alpha_upper: WW6O
+md5_6_upper: 176AF0
+name: Printer Inkjet Reel Color 4 Hewlett Packard Designjet 650C
+name_no_class: Inkjet Reel Color 4 Hewlett Packard Designjet 650C
+name_no_color: Hewlett Packard Designjet 650C
+name_no_size: Color 4 Hewlett Packard Designjet 650C
+name_no_size_short: Color 4 Hewlett Packard Designjet 650C
+name_no_type: Reel Color 4 Hewlett Packard Designjet 650C
 oomlout_detail_hierarchy_1: printer
 oomlout_detail_hierarchy_1_upper: PRINTER
 oomlout_detail_hierarchy_1_upper_length_4: PRIN
@@ -174,24 +198,27 @@ oomlout_detail_hierarchy_2_upper_length_4: INKJ
 oomlout_detail_hierarchy_3: reel
 oomlout_detail_hierarchy_3_upper: REEL
 oomlout_detail_hierarchy_3_upper_length_4: REEL
-oomlout_detail_hierarchy_4: hewlett_packard
-oomlout_detail_hierarchy_4_upper: HEWLETT_PACKARD
-oomlout_detail_hierarchy_4_upper_length_4: HEWL
-oomlout_detail_hierarchy_5: designjet_650c
-oomlout_detail_hierarchy_5_upper: DESIGNJET_650C
-oomlout_detail_hierarchy_5_upper_length_4: DESI
+oomlout_detail_hierarchy_4: color_4
+oomlout_detail_hierarchy_4_upper: COLOR_4
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: hewlett_packard
+oomlout_detail_hierarchy_5_upper: HEWLETT_PACKARD
+oomlout_detail_hierarchy_5_upper_length_4: HEWL
+oomlout_detail_hierarchy_6: designjet_650c
+oomlout_detail_hierarchy_6_upper: DESIGNJET_650C
+oomlout_detail_hierarchy_6_upper_length_4: DESI
 oomlout_oomp_utility_custom_data_manipulation: true
-oomp_key: oomp_printer_inkjet_reel_hewlett_packard_designjet_650c
-oomp_word: pushpin apple spades
-oomp_word_emoji: ':pushpin: :apple: :spades:'
+oomp_key: oomp_printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+oomp_word: thumbsdown palm_tree train
+oomp_word_emoji: ':thumbsdown: :palm_tree: :train:'
 oomp_word_emoji_list:
-- ':pushpin:'
-- ':apple:'
-- ':spades:'
+- ':thumbsdown:'
+- ':palm_tree:'
+- ':train:'
 oomp_word_list:
-- pushpin
-- apple
-- spades
+- thumbsdown
+- palm_tree
+- train
 part_number: designjet_650c
 part_number_capital: Designjet 650C
 part_number_exact: Designjet 650C

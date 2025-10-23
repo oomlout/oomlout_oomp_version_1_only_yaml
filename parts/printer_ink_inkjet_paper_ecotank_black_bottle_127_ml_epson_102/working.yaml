@@ -1,50 +1,50 @@
-bip_39_word_dash_12: arrive-sister-seven-jewel-student-lawn-flavor-bridge-modify-robust-clay-addict
-bip_39_word_dash_2: arrive-sister
-bip_39_word_dash_3: arrive-sister-seven
-bip_39_word_new_br_12: arrive<br>sister<br>seven<br>jewel<br>student<br>lawn<br>flavor<br>bridge<br>modify<br>robust<br>clay<br>addict
-bip_39_word_new_br_2: arrive<br>sister
-bip_39_word_new_br_3: arrive<br>sister<br>seven
-bip_39_word_new_line_12: 'arrive
+bip_39_word_dash_12: piano-core-shuffle-clerk-subway-wrap-collect-shell-when-dismiss-prison-age
+bip_39_word_dash_2: piano-core
+bip_39_word_dash_3: piano-core-shuffle
+bip_39_word_new_br_12: piano<br>core<br>shuffle<br>clerk<br>subway<br>wrap<br>collect<br>shell<br>when<br>dismiss<br>prison<br>age
+bip_39_word_new_br_2: piano<br>core
+bip_39_word_new_br_3: piano<br>core<br>shuffle
+bip_39_word_new_line_12: 'piano
 
-  sister
+  core
 
-  seven
+  shuffle
 
-  jewel
+  clerk
 
-  student
+  subway
 
-  lawn
+  wrap
 
-  flavor
+  collect
 
-  bridge
+  shell
 
-  modify
+  when
 
-  robust
+  dismiss
 
-  clay
+  prison
 
-  addict'
-bip_39_word_new_line_2: 'arrive
+  age'
+bip_39_word_new_line_2: 'piano
 
-  sister'
-bip_39_word_new_line_3: 'arrive
+  core'
+bip_39_word_new_line_3: 'piano
 
-  sister
+  core
 
-  seven'
-bip_39_word_no_space_12: arrivesistersevenjewelstudentlawnflavorbridgemodifyrobustclayaddict
-bip_39_word_no_space_2: arrivesister
-bip_39_word_no_space_3: arrivesisterseven
-bip_39_word_space_12: arrive sister seven jewel student lawn flavor bridge modify
-  robust clay addict
-bip_39_word_space_2: arrive sister
-bip_39_word_space_3: arrive sister seven
-bip_39_word_underscore_12: arrive_sister_seven_jewel_student_lawn_flavor_bridge_modify_robust_clay_addict
-bip_39_word_underscore_2: arrive_sister
-bip_39_word_underscore_3: arrive_sister_seven
+  shuffle'
+bip_39_word_no_space_12: pianocoreshuffleclerksubwaywrapcollectshellwhendismissprisonage
+bip_39_word_no_space_2: pianocore
+bip_39_word_no_space_3: pianocoreshuffle
+bip_39_word_space_12: piano core shuffle clerk subway wrap collect shell when dismiss
+  prison age
+bip_39_word_space_2: piano core
+bip_39_word_space_3: piano core shuffle
+bip_39_word_underscore_12: piano_core_shuffle_clerk_subway_wrap_collect_shell_when_dismiss_prison_age
+bip_39_word_underscore_2: piano_core
+bip_39_word_underscore_3: piano_core_shuffle
 classification: printer
 classification_capital: Printer
 classification_first_letter: p
@@ -111,65 +111,65 @@ description_extra_first_letter: ''
 description_extra_first_letter_upper: ''
 description_extra_name: ''
 description_extra_upper: ''
-description_main: cyan_bottle_70_ml
-description_main_capital: Cyan Bottle 70 Ml
-description_main_first_letter: c
-description_main_first_letter_upper: C
-description_main_length_1: c
-description_main_length_2: cy
-description_main_length_3: cya
-description_main_length_4: cyan
-description_main_length_5: cyan_
-description_main_length_6: cyan_b
-description_main_name: Cyan Bottle 70 Ml
-description_main_no_space_length_1: c
-description_main_no_space_length_2: cy
-description_main_no_space_length_3: cya
-description_main_no_space_length_4: cyan
-description_main_no_space_length_5: cyanb
-description_main_no_space_length_6: cyanbo
-description_main_no_space_upper_length_1: C
-description_main_no_space_upper_length_2: CY
-description_main_no_space_upper_length_3: CYA
-description_main_no_space_upper_length_4: CYAN
-description_main_no_space_upper_length_5: CYANB
-description_main_no_space_upper_length_6: CYANBO
-description_main_upper: CYAN_BOTTLE_70_ML
-description_main_upper_length_1: C
-description_main_upper_length_2: CY
-description_main_upper_length_3: CYA
-description_main_upper_length_4: CYAN
-description_main_upper_length_5: CYAN_
-description_main_upper_length_6: CYAN_B
-description_only_numbers: '70'
-description_only_numbers_short: '70'
-description_or_color: E70
-description_or_color_upper: E70
-directory: parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
+description_main: black_bottle_127_ml
+description_main_capital: Black Bottle 127 Ml
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: bl
+description_main_length_3: bla
+description_main_length_4: blac
+description_main_length_5: black
+description_main_length_6: black_
+description_main_name: Black Bottle 127 Ml
+description_main_no_space_length_1: b
+description_main_no_space_length_2: bl
+description_main_no_space_length_3: bla
+description_main_no_space_length_4: blac
+description_main_no_space_length_5: black
+description_main_no_space_length_6: blackb
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BL
+description_main_no_space_upper_length_3: BLA
+description_main_no_space_upper_length_4: BLAC
+description_main_no_space_upper_length_5: BLACK
+description_main_no_space_upper_length_6: BLACKB
+description_main_upper: BLACK_BOTTLE_127_ML
+description_main_upper_length_1: B
+description_main_upper_length_2: BL
+description_main_upper_length_3: BLA
+description_main_upper_length_4: BLAC
+description_main_upper_length_5: BLACK
+description_main_upper_length_6: BLACK_
+description_only_numbers: '127'
+description_only_numbers_short: '127'
+description_or_color: E127
+description_or_color_upper: E127
+directory: parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
 distributor_amazon: B08BXSR45Z
 distributors: []
-github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-id: printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-id_no_class: ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-id_no_color: cyan_bottle_70_ml_102
-id_no_size: ecotank_cyan_bottle_70_ml_102
-id_no_type: epson_ecotank_cyan_bottle_70_ml_epson_102
-link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+id: printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+id_no_class: ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+id_no_color: black_bottle_127_ml_epson_102
+id_no_size: ecotank_black_bottle_127_ml_epson_102
+id_no_type: inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
 link_1_name: link_main
-link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
 link_2_name: link_github
 link_3: https://www.amazon.co.uk/dp/B08BXSR45Z
 link_3_name: link_distributor_amazon
 link_buy_1: https://www.amazon.co.uk/dp/B08BXSR45Z
 link_buy_1_name: link_distributor_amazon
 link_distributor_amazon: https://www.amazon.co.uk/dp/B08BXSR45Z
-link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2021i7i
-link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2021i7i
-link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2021i7i
-link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2021i7i
-link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030mq7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030mq7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030mq7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030mq7
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
 manufacturer: epson
 manufacturer_capital: Epson
 manufacturer_first_letter: e
@@ -201,39 +201,39 @@ manufacturer_upper_length_4: EPSO
 manufacturer_upper_length_5: EPSON
 manufacturer_upper_length_6: EPSON
 manufacturers: []
-markdown_full: '[printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102](none)<br>[](none)<br>[Printer
-  Ink Epson Ecotank Cyan Bottle 70 Ml Epson 102](none)<br><br>'
-markdown_short: '[printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102](none)<br><br>'
-md5: 34546ed4751bcb15f86bb77f89726064
-md5_10: 34546ed475
-md5_10_upper: 34546ED475
-md5_5: '34546'
-md5_5_upper: '34546'
-md5_6: 34546e
-md5_6_alpha: 21i7i
-md5_6_alpha_upper: 21I7I
-md5_6_upper: 34546E
-name: Printer Ink Epson Ecotank Cyan Bottle 70 Ml Epson 102
-name_no_class: Ink Epson Ecotank Cyan Bottle 70 Ml Epson 102
-name_no_color: Cyan Bottle 70 Ml 102
-name_no_size: Ecotank Cyan Bottle 70 Ml 102
-name_no_size_short: Ecotank Cyan Bottle 70 Ml 102
-name_no_type: Epson Ecotank Cyan Bottle 70 Ml Epson 102
+markdown_full: '[printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102](none)<br>[](none)<br>[Printer
+  Ink Inkjet Paper Ecotank Black Bottle 127 Ml Epson 102](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102](none)<br><br>'
+md5: 4d560fd7d1c565b3f86c12a78ecc1520
+md5_10: 4d560fd7d1
+md5_10_upper: 4D560FD7D1
+md5_5: 4d560
+md5_5_upper: 4D560
+md5_6: 4d560f
+md5_6_alpha: 30mq7
+md5_6_alpha_upper: 30MQ7
+md5_6_upper: 4D560F
+name: Printer Ink Inkjet Paper Ecotank Black Bottle 127 Ml Epson 102
+name_no_class: Ink Inkjet Paper Ecotank Black Bottle 127 Ml Epson 102
+name_no_color: Black Bottle 127 Ml Epson 102
+name_no_size: Ecotank Black Bottle 127 Ml Epson 102
+name_no_size_short: Ecotank Black Bottle 127 Ml Epson 102
+name_no_type: Inkjet Paper Ecotank Black Bottle 127 Ml Epson 102
 oomlout_detail_hierarchy_1: printer
 oomlout_detail_hierarchy_1_upper: PRINTER
 oomlout_detail_hierarchy_1_upper_length_4: PRIN
 oomlout_detail_hierarchy_2: ink
 oomlout_detail_hierarchy_2_upper: INK
 oomlout_detail_hierarchy_2_upper_length_4: INK
-oomlout_detail_hierarchy_3: epson
-oomlout_detail_hierarchy_3_upper: EPSON
-oomlout_detail_hierarchy_3_upper_length_4: EPSO
+oomlout_detail_hierarchy_3: inkjet_paper
+oomlout_detail_hierarchy_3_upper: INKJET_PAPER
+oomlout_detail_hierarchy_3_upper_length_4: INKJ
 oomlout_detail_hierarchy_4: ecotank
 oomlout_detail_hierarchy_4_upper: ECOTANK
 oomlout_detail_hierarchy_4_upper_length_4: ECOT
-oomlout_detail_hierarchy_5: cyan_bottle_70_ml
-oomlout_detail_hierarchy_5_upper: CYAN_BOTTLE_70_ML
-oomlout_detail_hierarchy_5_upper_length_4: CYAN
+oomlout_detail_hierarchy_5: black_bottle_127_ml
+oomlout_detail_hierarchy_5_upper: BLACK_BOTTLE_127_ML
+oomlout_detail_hierarchy_5_upper_length_4: BLAC
 oomlout_detail_hierarchy_6: epson
 oomlout_detail_hierarchy_6_upper: EPSON
 oomlout_detail_hierarchy_6_upper_length_4: EPSO
@@ -241,17 +241,17 @@ oomlout_detail_hierarchy_7: '102'
 oomlout_detail_hierarchy_7_upper: '102'
 oomlout_detail_hierarchy_7_upper_length_4: '102'
 oomlout_oomp_utility_custom_data_manipulation: true
-oomp_key: oomp_printer_ink_epson_ecotank_cyan_bottle_70_ml_epson_102
-oomp_word: mouse whale new_moon
-oomp_word_emoji: ':mouse: :whale: :new_moon:'
+oomp_key: oomp_printer_ink_inkjet_paper_ecotank_black_bottle_127_ml_epson_102
+oomp_word: bug ram sparkles
+oomp_word_emoji: ':bug: :ram: :sparkles:'
 oomp_word_emoji_list:
-- ':mouse:'
-- ':whale:'
-- ':new_moon:'
+- ':bug:'
+- ':ram:'
+- ':sparkles:'
 oomp_word_list:
-- mouse
-- whale
-- new_moon
+- bug
+- ram
+- sparkles
 part_number: '102'
 part_number_capital: '102'
 part_number_exact: '102'
@@ -289,38 +289,38 @@ price_3_name: amazon
 price_4_name: aliexpress
 short_code: ''
 short_code_upper: ''
-size: epson
-size_capital: Epson
-size_first_letter: e
-size_first_letter_upper: E
-size_length_1: e
-size_length_2: ep
-size_length_3: eps
-size_length_4: epso
-size_length_5: epson
-size_length_6: epson
-size_name: Epson
-size_no_space_length_1: e
-size_no_space_length_2: ep
-size_no_space_length_3: eps
-size_no_space_length_4: epso
-size_no_space_length_5: epson
-size_no_space_length_6: epson
-size_no_space_upper_length_1: E
-size_no_space_upper_length_2: EP
-size_no_space_upper_length_3: EPS
-size_no_space_upper_length_4: EPSO
-size_no_space_upper_length_5: EPSON
-size_no_space_upper_length_6: EPSON
+size: inkjet_paper
+size_capital: Inkjet Paper
+size_first_letter: i
+size_first_letter_upper: I
+size_length_1: i
+size_length_2: in
+size_length_3: ink
+size_length_4: inkj
+size_length_5: inkje
+size_length_6: inkjet
+size_name: Inkjet Paper
+size_no_space_length_1: i
+size_no_space_length_2: in
+size_no_space_length_3: ink
+size_no_space_length_4: inkj
+size_no_space_length_5: inkje
+size_no_space_length_6: inkjet
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IN
+size_no_space_upper_length_3: INK
+size_no_space_upper_length_4: INKJ
+size_no_space_upper_length_5: INKJE
+size_no_space_upper_length_6: INKJET
 size_only_numbers: ''
 size_only_numbers_no_zeros: ''
-size_upper: EPSON
-size_upper_length_1: E
-size_upper_length_2: EP
-size_upper_length_3: EPS
-size_upper_length_4: EPSO
-size_upper_length_5: EPSON
-size_upper_length_6: EPSON
+size_upper: INKJET_PAPER
+size_upper_length_1: I
+size_upper_length_2: IN
+size_upper_length_3: INK
+size_upper_length_4: INKJ
+size_upper_length_5: INKJE
+size_upper_length_6: INKJET
 type: ink
 type_capital: Ink
 type_first_letter: i
