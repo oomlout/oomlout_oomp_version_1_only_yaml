@@ -1,0 +1,238 @@
+bip_39_word_dash_12: staff-insane-dragon-profit-trend-vendor-bachelor-gadget-sweet-issue-foster-adjust
+bip_39_word_dash_2: staff-insane
+bip_39_word_dash_3: staff-insane-dragon
+bip_39_word_new_br_12: staff<br>insane<br>dragon<br>profit<br>trend<br>vendor<br>bachelor<br>gadget<br>sweet<br>issue<br>foster<br>adjust
+bip_39_word_new_br_2: staff<br>insane
+bip_39_word_new_br_3: staff<br>insane<br>dragon
+bip_39_word_new_line_12: 'staff
+
+  insane
+
+  dragon
+
+  profit
+
+  trend
+
+  vendor
+
+  bachelor
+
+  gadget
+
+  sweet
+
+  issue
+
+  foster
+
+  adjust'
+bip_39_word_new_line_2: 'staff
+
+  insane'
+bip_39_word_new_line_3: 'staff
+
+  insane
+
+  dragon'
+bip_39_word_no_space_12: staffinsanedragonprofittrendvendorbachelorgadgetsweetissuefosteradjust
+bip_39_word_no_space_2: staffinsane
+bip_39_word_no_space_3: staffinsanedragon
+bip_39_word_space_12: staff insane dragon profit trend vendor bachelor gadget sweet
+  issue foster adjust
+bip_39_word_space_2: staff insane
+bip_39_word_space_3: staff insane dragon
+bip_39_word_underscore_12: staff_insane_dragon_profit_trend_vendor_bachelor_gadget_sweet_issue_foster_adjust
+bip_39_word_underscore_2: staff_insane
+bip_39_word_underscore_3: staff_insane_dragon
+classification: industrial
+classification_capital: Industrial
+classification_first_letter: i
+classification_first_letter_upper: I
+classification_length_1: i
+classification_length_2: in
+classification_length_3: ind
+classification_length_4: indu
+classification_length_5: indus
+classification_length_6: indust
+classification_name: Industrial
+classification_no_space_length_1: i
+classification_no_space_length_2: in
+classification_no_space_length_3: ind
+classification_no_space_length_4: indu
+classification_no_space_length_5: indus
+classification_no_space_length_6: indust
+classification_no_space_upper_length_1: I
+classification_no_space_upper_length_2: IN
+classification_no_space_upper_length_3: IND
+classification_no_space_upper_length_4: INDU
+classification_no_space_upper_length_5: INDUS
+classification_no_space_upper_length_6: INDUST
+classification_upper: INDUSTRIAL
+classification_upper_length_1: I
+classification_upper_length_2: IN
+classification_upper_length_3: IND
+classification_upper_length_4: INDU
+classification_upper_length_5: INDUS
+classification_upper_length_6: INDUST
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
+description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/industrial_wire_chain_mixed
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/industrial_wire_chain_mixed
+id: industrial_wire_chain_mixed
+id_no_class: wire_chain_mixed
+id_no_color: mixed
+id_no_size: mixed
+id_no_type: mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/industrial_wire_chain_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/industrial_wire_chain_mixed
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/industrial_wire_chain_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/industrial_wire_chain_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2027o65
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2027o65
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2027o65
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2027o65
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/industrial_wire_chain_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[industrial_wire_chain_mixed](none)<br>[](none)<br>[Industrial Wire
+  Chain Mixed](none)<br><br>'
+markdown_short: '[industrial_wire_chain_mixed](none)<br><br>'
+md5: 38b81daedd5ea227c8f40abc841d3ea0
+md5_10: 38b81daedd
+md5_10_upper: 38B81DAEDD
+md5_5: 38b81
+md5_5_upper: 38B81
+md5_6: 38b81d
+md5_6_alpha: 27o65
+md5_6_alpha_upper: 27O65
+md5_6_upper: 38B81D
+name: Industrial Wire Chain Mixed
+name_no_class: Wire Chain Mixed
+name_no_color: Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomlout_detail_hierarchy_1: industrial
+oomlout_detail_hierarchy_1_upper: INDUSTRIAL
+oomlout_detail_hierarchy_1_upper_length_4: INDU
+oomlout_detail_hierarchy_2: wire_chain
+oomlout_detail_hierarchy_2_upper: WIRE_CHAIN
+oomlout_detail_hierarchy_2_upper_length_4: WIRE
+oomlout_detail_hierarchy_3: mixed
+oomlout_detail_hierarchy_3_upper: MIXED
+oomlout_detail_hierarchy_3_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_industrial_wire_chain_mixed
+oomp_word: frog hamburger baby
+oomp_word_emoji: ':frog: :hamburger: :baby:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':hamburger:'
+- ':baby:'
+oomp_word_list:
+- frog
+- hamburger
+- baby
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: wire_chain
+type_capital: Wire Chain
+type_first_letter: w
+type_first_letter_upper: W
+type_length_1: w
+type_length_2: wi
+type_length_3: wir
+type_length_4: wire
+type_length_5: wire_
+type_length_6: wire_c
+type_name: Wire Chain
+type_no_space_length_1: w
+type_no_space_length_2: wi
+type_no_space_length_3: wir
+type_no_space_length_4: wire
+type_no_space_length_5: wirec
+type_no_space_length_6: wirech
+type_no_space_upper_length_1: W
+type_no_space_upper_length_2: WI
+type_no_space_upper_length_3: WIR
+type_no_space_upper_length_4: WIRE
+type_no_space_upper_length_5: WIREC
+type_no_space_upper_length_6: WIRECH
+type_upper: WIRE_CHAIN
+type_upper_length_1: W
+type_upper_length_2: WI
+type_upper_length_3: WIR
+type_upper_length_4: WIRE
+type_upper_length_5: WIRE_
+type_upper_length_6: WIRE_C
