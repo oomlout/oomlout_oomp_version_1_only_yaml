@@ -1,0 +1,239 @@
+bip_39_word_dash_12: verb-bid-affair-review-heavy-genre-better-paper-weapon-tackle-cart-admit
+bip_39_word_dash_2: verb-bid
+bip_39_word_dash_3: verb-bid-affair
+bip_39_word_new_br_12: verb<br>bid<br>affair<br>review<br>heavy<br>genre<br>better<br>paper<br>weapon<br>tackle<br>cart<br>admit
+bip_39_word_new_br_2: verb<br>bid
+bip_39_word_new_br_3: verb<br>bid<br>affair
+bip_39_word_new_line_12: 'verb
+
+  bid
+
+  affair
+
+  review
+
+  heavy
+
+  genre
+
+  better
+
+  paper
+
+  weapon
+
+  tackle
+
+  cart
+
+  admit'
+bip_39_word_new_line_2: 'verb
+
+  bid'
+bip_39_word_new_line_3: 'verb
+
+  bid
+
+  affair'
+bip_39_word_no_space_12: verbbidaffairreviewheavygenrebetterpaperweapontacklecartadmit
+bip_39_word_no_space_2: verbbid
+bip_39_word_no_space_3: verbbidaffair
+bip_39_word_space_12: verb bid affair review heavy genre better paper weapon tackle
+  cart admit
+bip_39_word_space_2: verb bid
+bip_39_word_space_3: verb bid affair
+bip_39_word_underscore_12: verb_bid_affair_review_heavy_genre_better_paper_weapon_tackle_cart_admit
+bip_39_word_underscore_2: verb_bid
+bip_39_word_underscore_3: verb_bid_affair
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cam
+classification_length_4: camp
+classification_length_5: campi
+classification_length_6: campin
+classification_name: Camping
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cam
+classification_no_space_length_4: camp
+classification_no_space_length_5: campi
+classification_no_space_length_6: campin
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAM
+classification_no_space_upper_length_4: CAMP
+classification_no_space_upper_length_5: CAMPI
+classification_no_space_upper_length_6: CAMPIN
+classification_upper: CAMPING
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAM
+classification_upper_length_4: CAMP
+classification_upper_length_5: CAMPI
+classification_upper_length_6: CAMPIN
+color: utensils
+color_capital: Utensils
+color_first_letter: u
+color_first_letter_upper: U
+color_length_1: u
+color_length_2: ut
+color_length_3: ute
+color_length_4: uten
+color_length_5: utens
+color_length_6: utensi
+color_name: Utensils
+color_no_space_length_1: u
+color_no_space_length_2: ut
+color_no_space_length_3: ute
+color_no_space_length_4: uten
+color_no_space_length_5: utens
+color_no_space_length_6: utensi
+color_no_space_upper_length_1: U
+color_no_space_upper_length_2: UT
+color_no_space_upper_length_3: UTE
+color_no_space_upper_length_4: UTEN
+color_no_space_upper_length_5: UTENS
+color_no_space_upper_length_6: UTENSI
+color_upper: UTENSILS
+color_upper_length_1: U
+color_upper_length_2: UT
+color_upper_length_3: UTE
+color_upper_length_4: UTEN
+color_upper_length_5: UTENS
+color_upper_length_6: UTENSI
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/camping_kitchen_utensils
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/camping_kitchen_utensils
+id: camping_kitchen_utensils
+id_no_class: kitchen_utensils
+id_no_color: utensils
+id_no_size: utensils
+id_no_type: utensils
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029ut3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029ut3
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2029ut3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029ut3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_utensils](none)<br>[](none)<br>[Camping Kitchen Utensils](none)<br><br>'
+markdown_short: '[camping_kitchen_utensils](none)<br><br>'
+md5: 3a463747c29fe2b184353b8808858794
+md5_10: 3a463747c2
+md5_10_upper: 3A463747C2
+md5_5: 3a463
+md5_5_upper: 3A463
+md5_6: 3a4637
+md5_6_alpha: 29ut3
+md5_6_alpha_upper: 29UT3
+md5_6_upper: 3A4637
+name: Camping Kitchen Utensils
+name_no_class: Kitchen Utensils
+name_no_color: Utensils
+name_no_size: Utensils
+name_no_size_short: Utensils
+name_no_type: Utensils
+oomlout_detail_hierarchy_1: camping
+oomlout_detail_hierarchy_1_upper: CAMPING
+oomlout_detail_hierarchy_1_upper_length_4: CAMP
+oomlout_detail_hierarchy_2: kitchen
+oomlout_detail_hierarchy_2_upper: KITCHEN
+oomlout_detail_hierarchy_2_upper_length_4: KITC
+oomlout_detail_hierarchy_3: utensils
+oomlout_detail_hierarchy_3_upper: UTENSILS
+oomlout_detail_hierarchy_3_upper_length_4: UTEN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_camping_kitchen_utensils
+oomp_word: koala bird wolf
+oomp_word_emoji: ':koala: :bird: :wolf:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':bird:'
+- ':wolf:'
+oomp_word_list:
+- koala
+- bird
+- wolf
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_length_1: k
+type_length_2: ki
+type_length_3: kit
+type_length_4: kitc
+type_length_5: kitch
+type_length_6: kitche
+type_name: Kitchen
+type_no_space_length_1: k
+type_no_space_length_2: ki
+type_no_space_length_3: kit
+type_no_space_length_4: kitc
+type_no_space_length_5: kitch
+type_no_space_length_6: kitche
+type_no_space_upper_length_1: K
+type_no_space_upper_length_2: KI
+type_no_space_upper_length_3: KIT
+type_no_space_upper_length_4: KITC
+type_no_space_upper_length_5: KITCH
+type_no_space_upper_length_6: KITCHE
+type_upper: KITCHEN
+type_upper_length_1: K
+type_upper_length_2: KI
+type_upper_length_3: KIT
+type_upper_length_4: KITC
+type_upper_length_5: KITCH
+type_upper_length_6: KITCHE

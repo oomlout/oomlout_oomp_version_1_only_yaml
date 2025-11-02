@@ -1,0 +1,297 @@
+bip_39_word_dash_12: truth-accuse-banner-scrap-pitch-wrong-gesture-logic-limb-combine-spy-answer
+bip_39_word_dash_2: truth-accuse
+bip_39_word_dash_3: truth-accuse-banner
+bip_39_word_new_br_12: truth<br>accuse<br>banner<br>scrap<br>pitch<br>wrong<br>gesture<br>logic<br>limb<br>combine<br>spy<br>answer
+bip_39_word_new_br_2: truth<br>accuse
+bip_39_word_new_br_3: truth<br>accuse<br>banner
+bip_39_word_new_line_12: 'truth
+
+  accuse
+
+  banner
+
+  scrap
+
+  pitch
+
+  wrong
+
+  gesture
+
+  logic
+
+  limb
+
+  combine
+
+  spy
+
+  answer'
+bip_39_word_new_line_2: 'truth
+
+  accuse'
+bip_39_word_new_line_3: 'truth
+
+  accuse
+
+  banner'
+bip_39_word_no_space_12: truthaccusebannerscrappitchwronggesturelogiclimbcombinespyanswer
+bip_39_word_no_space_2: truthaccuse
+bip_39_word_no_space_3: truthaccusebanner
+bip_39_word_space_12: truth accuse banner scrap pitch wrong gesture logic limb combine
+  spy answer
+bip_39_word_space_2: truth accuse
+bip_39_word_space_3: truth accuse banner
+bip_39_word_underscore_12: truth_accuse_banner_scrap_pitch_wrong_gesture_logic_limb_combine_spy_answer
+bip_39_word_underscore_2: truth_accuse
+bip_39_word_underscore_3: truth_accuse_banner
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 50_mm_diameter_round_style
+color_capital: 50 mm Diameter Round Style
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_length_1: '5'
+color_length_2: '50'
+color_length_3: '50_'
+color_length_4: 50_m
+color_length_5: 50_mm
+color_length_6: 50_mm_
+color_name: 50 mm Diameter Round Style
+color_no_space_length_1: '5'
+color_no_space_length_2: '50'
+color_no_space_length_3: 50m
+color_no_space_length_4: 50mm
+color_no_space_length_5: 50mmd
+color_no_space_length_6: 50mmdi
+color_no_space_upper_length_1: '5'
+color_no_space_upper_length_2: '50'
+color_no_space_upper_length_3: 50M
+color_no_space_upper_length_4: 50MM
+color_no_space_upper_length_5: 50MMD
+color_no_space_upper_length_6: 50MMDI
+color_upper: 50_MM_DIAMETER_ROUND_STYLE
+color_upper_length_1: '5'
+color_upper_length_2: '50'
+color_upper_length_3: '50_'
+color_upper_length_4: 50_M
+color_upper_length_5: 50_MM
+color_upper_length_6: 50_MM_
+description: category_packaging
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cu
+description_extra_length_3: cub
+description_extra_length_4: cubb
+description_extra_length_5: cubby
+description_extra_length_6: cubby_
+description_extra_name: Cubby Box
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cu
+description_extra_no_space_length_3: cub
+description_extra_no_space_length_4: cubb
+description_extra_no_space_length_5: cubby
+description_extra_no_space_length_6: cubbyb
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CU
+description_extra_no_space_upper_length_3: CUB
+description_extra_no_space_upper_length_4: CUBB
+description_extra_no_space_upper_length_5: CUBBY
+description_extra_no_space_upper_length_6: CUBBYB
+description_extra_upper: CUBBY_BOX
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CU
+description_extra_upper_length_3: CUB
+description_extra_upper_length_4: CUBB
+description_extra_upper_length_5: CUBBY
+description_extra_upper_length_6: CUBBY_
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+id: category_packaging_label_50_mm_diameter_round_style_cubby_box
+id_no_class: packaging_label_50_mm_diameter_round_style_cubby_box
+id_no_color: cubby_box
+id_no_size: 50_mm_diameter_round_style_cubby_box
+id_no_type: label_50_mm_diameter_round_style_cubby_box
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2062mx7
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2062mx7
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2062mx7
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2062mx7
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_mm_diameter_round_style_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_label_50_mm_diameter_round_style_cubby_box](none)<br>[](none)<br>[Category
+  Packaging Label 50 Mm Diameter Round Style Cubby Box](none)<br><br>'
+markdown_short: '[category_packaging_label_50_mm_diameter_round_style_cubby_box](none)<br><br>'
+md5: 9ba68b7c0e838c2ffad2cc1624806f4e
+md5_10: 9ba68b7c0e
+md5_10_upper: 9BA68B7C0E
+md5_5: 9ba68
+md5_5_upper: 9BA68
+md5_6: 9ba68b
+md5_6_alpha: 62mx7
+md5_6_alpha_upper: 62MX7
+md5_6_upper: 9BA68B
+name: Category Packaging Label 50 mm Diameter Round Style Cubby Box
+name_no_class: Packaging Label 50 mm Diameter Round Style Cubby Box
+name_no_color: Cubby Box
+name_no_size: 50 mm Diameter Round Style Cubby Box
+name_no_size_short: 50 Mm Diameter Round Style Cubby Box
+name_no_type: Label 50 mm Diameter Round Style Cubby Box
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: packaging
+oomlout_detail_hierarchy_2_upper: PACKAGING
+oomlout_detail_hierarchy_2_upper_length_4: PACK
+oomlout_detail_hierarchy_3: label
+oomlout_detail_hierarchy_3_upper: LABEL
+oomlout_detail_hierarchy_3_upper_length_4: LABE
+oomlout_detail_hierarchy_4: 50_mm_diameter_round_style
+oomlout_detail_hierarchy_4_upper: 50_MM_DIAMETER_ROUND_STYLE
+oomlout_detail_hierarchy_4_upper_length_4: 50DI
+oomlout_detail_hierarchy_5: cubby_box
+oomlout_detail_hierarchy_5_upper: CUBBY_BOX
+oomlout_detail_hierarchy_5_upper_length_4: CUBB
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_packaging_label_50_mm_diameter_round_style_cubby_box
+oomp_word: ski trumpet door
+oomp_word_emoji: ':ski: :trumpet: :door:'
+oomp_word_emoji_list:
+- ':ski:'
+- ':trumpet:'
+- ':door:'
+oomp_word_list:
+- ski
+- trumpet
+- door
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: label
+size_capital: Label
+size_first_letter: l
+size_first_letter_upper: L
+size_length_1: l
+size_length_2: la
+size_length_3: lab
+size_length_4: labe
+size_length_5: label
+size_length_6: label
+size_name: Label
+size_no_space_length_1: l
+size_no_space_length_2: la
+size_no_space_length_3: lab
+size_no_space_length_4: labe
+size_no_space_length_5: label
+size_no_space_length_6: label
+size_no_space_upper_length_1: L
+size_no_space_upper_length_2: LA
+size_no_space_upper_length_3: LAB
+size_no_space_upper_length_4: LABE
+size_no_space_upper_length_5: LABEL
+size_no_space_upper_length_6: LABEL
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LABEL
+size_upper_length_1: L
+size_upper_length_2: LA
+size_upper_length_3: LAB
+size_upper_length_4: LABE
+size_upper_length_5: LABEL
+size_upper_length_6: LABEL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pac
+type_length_4: pack
+type_length_5: packa
+type_length_6: packag
+type_name: Packaging
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pac
+type_no_space_length_4: pack
+type_no_space_length_5: packa
+type_no_space_length_6: packag
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAC
+type_no_space_upper_length_4: PACK
+type_no_space_upper_length_5: PACKA
+type_no_space_upper_length_6: PACKAG
+type_upper: PACKAGING
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAC
+type_upper_length_4: PACK
+type_upper_length_5: PACKA
+type_upper_length_6: PACKAG

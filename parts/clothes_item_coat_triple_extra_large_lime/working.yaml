@@ -1,0 +1,294 @@
+bip_39_word_dash_12: moment-damage-eternal-sleep-tonight-orchard-wise-myself-balcony-price-wet-avocado
+bip_39_word_dash_2: moment-damage
+bip_39_word_dash_3: moment-damage-eternal
+bip_39_word_new_br_12: moment<br>damage<br>eternal<br>sleep<br>tonight<br>orchard<br>wise<br>myself<br>balcony<br>price<br>wet<br>avocado
+bip_39_word_new_br_2: moment<br>damage
+bip_39_word_new_br_3: moment<br>damage<br>eternal
+bip_39_word_new_line_12: 'moment
+
+  damage
+
+  eternal
+
+  sleep
+
+  tonight
+
+  orchard
+
+  wise
+
+  myself
+
+  balcony
+
+  price
+
+  wet
+
+  avocado'
+bip_39_word_new_line_2: 'moment
+
+  damage'
+bip_39_word_new_line_3: 'moment
+
+  damage
+
+  eternal'
+bip_39_word_no_space_12: momentdamageeternalsleeptonightorchardwisemyselfbalconypricewetavocado
+bip_39_word_no_space_2: momentdamage
+bip_39_word_no_space_3: momentdamageeternal
+bip_39_word_space_12: moment damage eternal sleep tonight orchard wise myself balcony
+  price wet avocado
+bip_39_word_space_2: moment damage
+bip_39_word_space_3: moment damage eternal
+bip_39_word_underscore_12: moment_damage_eternal_sleep_tonight_orchard_wise_myself_balcony_price_wet_avocado
+bip_39_word_underscore_2: moment_damage
+bip_39_word_underscore_3: moment_damage_eternal
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: triple_extra_large
+color_capital: Triple Extra Large
+color_first_letter: t
+color_first_letter_upper: T
+color_length_1: t
+color_length_2: tr
+color_length_3: tri
+color_length_4: trip
+color_length_5: tripl
+color_length_6: triple
+color_name: Triple Extra Large
+color_no_space_length_1: t
+color_no_space_length_2: tr
+color_no_space_length_3: tri
+color_no_space_length_4: trip
+color_no_space_length_5: tripl
+color_no_space_length_6: triple
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TR
+color_no_space_upper_length_3: TRI
+color_no_space_upper_length_4: TRIP
+color_no_space_upper_length_5: TRIPL
+color_no_space_upper_length_6: TRIPLE
+color_upper: TRIPLE_EXTRA_LARGE
+color_upper_length_1: T
+color_upper_length_2: TR
+color_upper_length_3: TRI
+color_upper_length_4: TRIP
+color_upper_length_5: TRIPL
+color_upper_length_6: TRIPLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_length_1: l
+description_main_length_2: li
+description_main_length_3: lim
+description_main_length_4: lime
+description_main_length_5: lime
+description_main_length_6: lime
+description_main_name: Lime
+description_main_no_space_length_1: l
+description_main_no_space_length_2: li
+description_main_no_space_length_3: lim
+description_main_no_space_length_4: lime
+description_main_no_space_length_5: lime
+description_main_no_space_length_6: lime
+description_main_no_space_upper_length_1: L
+description_main_no_space_upper_length_2: LI
+description_main_no_space_upper_length_3: LIM
+description_main_no_space_upper_length_4: LIME
+description_main_no_space_upper_length_5: LIME
+description_main_no_space_upper_length_6: LIME
+description_main_upper: LIME
+description_main_upper_length_1: L
+description_main_upper_length_2: LI
+description_main_upper_length_3: LIM
+description_main_upper_length_4: LIME
+description_main_upper_length_5: LIME
+description_main_upper_length_6: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/clothes_item_coat_triple_extra_large_lime
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_coat_triple_extra_large_lime
+id: clothes_item_coat_triple_extra_large_lime
+id_no_class: item_coat_triple_extra_large_lime
+id_no_color: lime
+id_no_size: triple_extra_large_lime
+id_no_type: coat_triple_extra_large_lime
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_triple_extra_large_lime
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_triple_extra_large_lime
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_triple_extra_large_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_triple_extra_large_lime
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ziui
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ziui
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209ziui
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ziui
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_triple_extra_large_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_triple_extra_large_lime](none)<br>[](none)<br>[Clothes
+  Item Coat Triple Extra Large Lime](none)<br><br>'
+markdown_short: '[clothes_item_coat_triple_extra_large_lime](none)<br><br>'
+md5: fff32a988e925f8e70724cb29b0dc477
+md5_10: fff32a988e
+md5_10_upper: FFF32A988E
+md5_5: fff32
+md5_5_upper: FFF32
+md5_6: fff32a
+md5_6_alpha: 9ziui
+md5_6_alpha_upper: 9ZIUI
+md5_6_upper: FFF32A
+name: Clothes Item Coat Triple Extra Large Lime
+name_no_class: Item Coat Triple Extra Large Lime
+name_no_color: Lime
+name_no_size: Triple Extra Large Lime
+name_no_size_short: Triple Extra Large Lime
+name_no_type: Coat Triple Extra Large Lime
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: coat
+oomlout_detail_hierarchy_3_upper: COAT
+oomlout_detail_hierarchy_3_upper_length_4: COAT
+oomlout_detail_hierarchy_4: triple_extra_large
+oomlout_detail_hierarchy_4_upper: TRIPLE_EXTRA_LARGE
+oomlout_detail_hierarchy_4_upper_length_4: TRIP
+oomlout_detail_hierarchy_5: lime
+oomlout_detail_hierarchy_5_upper: LIME
+oomlout_detail_hierarchy_5_upper_length_4: LIME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_coat_triple_extra_large_lime
+oomp_word: trident two umbrella
+oomp_word_emoji: ':trident: :two: :umbrella:'
+oomp_word_emoji_list:
+- ':trident:'
+- ':two:'
+- ':umbrella:'
+oomp_word_list:
+- trident
+- two
+- umbrella
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: co
+size_length_3: coa
+size_length_4: coat
+size_length_5: coat
+size_length_6: coat
+size_name: Coat
+size_no_space_length_1: c
+size_no_space_length_2: co
+size_no_space_length_3: coa
+size_no_space_length_4: coat
+size_no_space_length_5: coat
+size_no_space_length_6: coat
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CO
+size_no_space_upper_length_3: COA
+size_no_space_upper_length_4: COAT
+size_no_space_upper_length_5: COAT
+size_no_space_upper_length_6: COAT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+size_upper_length_1: C
+size_upper_length_2: CO
+size_upper_length_3: COA
+size_upper_length_4: COAT
+size_upper_length_5: COAT
+size_upper_length_6: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

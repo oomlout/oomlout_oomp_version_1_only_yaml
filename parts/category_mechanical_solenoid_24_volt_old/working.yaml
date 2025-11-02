@@ -1,0 +1,297 @@
+bip_39_word_dash_12: federal-program-canyon-mother-system-flip-twin-travel-unique-bacon-spice-already
+bip_39_word_dash_2: federal-program
+bip_39_word_dash_3: federal-program-canyon
+bip_39_word_new_br_12: federal<br>program<br>canyon<br>mother<br>system<br>flip<br>twin<br>travel<br>unique<br>bacon<br>spice<br>already
+bip_39_word_new_br_2: federal<br>program
+bip_39_word_new_br_3: federal<br>program<br>canyon
+bip_39_word_new_line_12: 'federal
+
+  program
+
+  canyon
+
+  mother
+
+  system
+
+  flip
+
+  twin
+
+  travel
+
+  unique
+
+  bacon
+
+  spice
+
+  already'
+bip_39_word_new_line_2: 'federal
+
+  program'
+bip_39_word_new_line_3: 'federal
+
+  program
+
+  canyon'
+bip_39_word_no_space_12: federalprogramcanyonmothersystemfliptwintraveluniquebaconspicealready
+bip_39_word_no_space_2: federalprogram
+bip_39_word_no_space_3: federalprogramcanyon
+bip_39_word_space_12: federal program canyon mother system flip twin travel unique
+  bacon spice already
+bip_39_word_space_2: federal program
+bip_39_word_space_3: federal program canyon
+bip_39_word_underscore_12: federal_program_canyon_mother_system_flip_twin_travel_unique_bacon_spice_already
+bip_39_word_underscore_2: federal_program
+bip_39_word_underscore_3: federal_program_canyon
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 24_volt
+color_capital: 24 Volt
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_length_1: '2'
+color_length_2: '24'
+color_length_3: '24_'
+color_length_4: 24_v
+color_length_5: 24_vo
+color_length_6: 24_vol
+color_name: 24 Volt
+color_no_space_length_1: '2'
+color_no_space_length_2: '24'
+color_no_space_length_3: 24v
+color_no_space_length_4: 24vo
+color_no_space_length_5: 24vol
+color_no_space_length_6: 24volt
+color_no_space_upper_length_1: '2'
+color_no_space_upper_length_2: '24'
+color_no_space_upper_length_3: 24V
+color_no_space_upper_length_4: 24VO
+color_no_space_upper_length_5: 24VOL
+color_no_space_upper_length_6: 24VOLT
+color_upper: 24_VOLT
+color_upper_length_1: '2'
+color_upper_length_2: '24'
+color_upper_length_3: '24_'
+color_upper_length_4: 24_V
+color_upper_length_5: 24_VO
+color_upper_length_6: 24_VOL
+description: category_mechanical
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_mechanical_solenoid_24_volt_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_solenoid_24_volt_old
+id: category_mechanical_solenoid_24_volt_old
+id_no_class: mechanical_solenoid_24_volt_old
+id_no_color: old
+id_no_size: 24_volt_old
+id_no_type: solenoid_24_volt_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_24_volt_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_24_volt_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_24_volt_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_24_volt_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204ific
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204ific
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204ific
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204ific
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_24_volt_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_solenoid_24_volt_old](none)<br>[](none)<br>[Category
+  Mechanical Solenoid 24 Volt Old](none)<br><br>'
+markdown_short: '[category_mechanical_solenoid_24_volt_old](none)<br><br>'
+md5: 73a304576ce79d6d646e690243aafaa3
+md5_10: 73a304576c
+md5_10_upper: 73A304576C
+md5_5: 73a30
+md5_5_upper: 73A30
+md5_6: 73a304
+md5_6_alpha: 4ific
+md5_6_alpha_upper: 4IFIC
+md5_6_upper: 73A304
+name: Category Mechanical Solenoid 24 Volt Old
+name_no_class: Mechanical Solenoid 24 Volt Old
+name_no_color: Old
+name_no_size: 24 Volt Old
+name_no_size_short: 24 Volt Old
+name_no_type: Solenoid 24 Volt Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: mechanical
+oomlout_detail_hierarchy_2_upper: MECHANICAL
+oomlout_detail_hierarchy_2_upper_length_4: MECH
+oomlout_detail_hierarchy_3: solenoid
+oomlout_detail_hierarchy_3_upper: SOLENOID
+oomlout_detail_hierarchy_3_upper_length_4: SOLE
+oomlout_detail_hierarchy_4: 24_volt
+oomlout_detail_hierarchy_4_upper: 24_VOLT
+oomlout_detail_hierarchy_4_upper_length_4: 24_V
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_mechanical_solenoid_24_volt_old
+oomp_word: flags pencil wink
+oomp_word_emoji: ':flags: :pencil: :wink:'
+oomp_word_emoji_list:
+- ':flags:'
+- ':pencil:'
+- ':wink:'
+oomp_word_list:
+- flags
+- pencil
+- wink
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: solenoid
+size_capital: Solenoid
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: sol
+size_length_4: sole
+size_length_5: solen
+size_length_6: soleno
+size_name: Solenoid
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: sol
+size_no_space_length_4: sole
+size_no_space_length_5: solen
+size_no_space_length_6: soleno
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOL
+size_no_space_upper_length_4: SOLE
+size_no_space_upper_length_5: SOLEN
+size_no_space_upper_length_6: SOLENO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOLENOID
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOL
+size_upper_length_4: SOLE
+size_upper_length_5: SOLEN
+size_upper_length_6: SOLENO
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: me
+type_length_3: mec
+type_length_4: mech
+type_length_5: mecha
+type_length_6: mechan
+type_name: Mechanical
+type_no_space_length_1: m
+type_no_space_length_2: me
+type_no_space_length_3: mec
+type_no_space_length_4: mech
+type_no_space_length_5: mecha
+type_no_space_length_6: mechan
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: ME
+type_no_space_upper_length_3: MEC
+type_no_space_upper_length_4: MECH
+type_no_space_upper_length_5: MECHA
+type_no_space_upper_length_6: MECHAN
+type_upper: MECHANICAL
+type_upper_length_1: M
+type_upper_length_2: ME
+type_upper_length_3: MEC
+type_upper_length_4: MECH
+type_upper_length_5: MECHA
+type_upper_length_6: MECHAN

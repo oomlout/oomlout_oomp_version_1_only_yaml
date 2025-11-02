@@ -1,0 +1,323 @@
+bip_39_word_dash_12: guess-potato-pig-idle-aim-mention-leaf-boat-office-depth-wear-all
+bip_39_word_dash_2: guess-potato
+bip_39_word_dash_3: guess-potato-pig
+bip_39_word_new_br_12: guess<br>potato<br>pig<br>idle<br>aim<br>mention<br>leaf<br>boat<br>office<br>depth<br>wear<br>all
+bip_39_word_new_br_2: guess<br>potato
+bip_39_word_new_br_3: guess<br>potato<br>pig
+bip_39_word_new_line_12: 'guess
+
+  potato
+
+  pig
+
+  idle
+
+  aim
+
+  mention
+
+  leaf
+
+  boat
+
+  office
+
+  depth
+
+  wear
+
+  all'
+bip_39_word_new_line_2: 'guess
+
+  potato'
+bip_39_word_new_line_3: 'guess
+
+  potato
+
+  pig'
+bip_39_word_no_space_12: guesspotatopigidleaimmentionleafboatofficedepthwearall
+bip_39_word_no_space_2: guesspotato
+bip_39_word_no_space_3: guesspotatopig
+bip_39_word_space_12: guess potato pig idle aim mention leaf boat office depth wear
+  all
+bip_39_word_space_2: guess potato
+bip_39_word_space_3: guess potato pig
+bip_39_word_underscore_12: guess_potato_pig_idle_aim_mention_leaf_boat_office_depth_wear_all
+bip_39_word_underscore_2: guess_potato
+bip_39_word_underscore_3: guess_potato_pig
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pac
+classification_length_4: pack
+classification_length_5: packa
+classification_length_6: packag
+classification_name: Packaging
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pac
+classification_no_space_length_4: pack
+classification_no_space_length_5: packa
+classification_no_space_length_6: packag
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAC
+classification_no_space_upper_length_4: PACK
+classification_no_space_upper_length_5: PACKA
+classification_no_space_upper_length_6: PACKAG
+classification_upper: PACKAGING
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAC
+classification_upper_length_4: PACK
+classification_upper_length_5: PACKA
+classification_upper_length_6: PACKAG
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_length_1: w
+color_length_2: wh
+color_length_3: whi
+color_length_4: whit
+color_length_5: white
+color_length_6: white
+color_name: White
+color_no_space_length_1: w
+color_no_space_length_2: wh
+color_no_space_length_3: whi
+color_no_space_length_4: whit
+color_no_space_length_5: white
+color_no_space_length_6: white
+color_no_space_upper_length_1: W
+color_no_space_upper_length_2: WH
+color_no_space_upper_length_3: WHI
+color_no_space_upper_length_4: WHIT
+color_no_space_upper_length_5: WHITE
+color_no_space_upper_length_6: WHITE
+color_upper: WHITE
+color_upper_length_1: W
+color_upper_length_2: WH
+color_upper_length_3: WHI
+color_upper_length_4: WHIT
+color_upper_length_5: WHITE
+color_upper_length_6: WHITE
+description_extra: direct_thermal_style
+description_extra_capital: Direct Thermal Style
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_length_1: d
+description_extra_length_2: di
+description_extra_length_3: dir
+description_extra_length_4: dire
+description_extra_length_5: direc
+description_extra_length_6: direct
+description_extra_name: Direct Thermal Style
+description_extra_no_space_length_1: d
+description_extra_no_space_length_2: di
+description_extra_no_space_length_3: dir
+description_extra_no_space_length_4: dire
+description_extra_no_space_length_5: direc
+description_extra_no_space_length_6: direct
+description_extra_no_space_upper_length_1: D
+description_extra_no_space_upper_length_2: DI
+description_extra_no_space_upper_length_3: DIR
+description_extra_no_space_upper_length_4: DIRE
+description_extra_no_space_upper_length_5: DIREC
+description_extra_no_space_upper_length_6: DIRECT
+description_extra_upper: DIRECT_THERMAL_STYLE
+description_extra_upper_length_1: D
+description_extra_upper_length_2: DI
+description_extra_upper_length_3: DIR
+description_extra_upper_length_4: DIRE
+description_extra_upper_length_5: DIREC
+description_extra_upper_length_6: DIRECT
+description_main: paper
+description_main_capital: Paper
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: pa
+description_main_length_3: pap
+description_main_length_4: pape
+description_main_length_5: paper
+description_main_length_6: paper
+description_main_name: Paper
+description_main_no_space_length_1: p
+description_main_no_space_length_2: pa
+description_main_no_space_length_3: pap
+description_main_no_space_length_4: pape
+description_main_no_space_length_5: paper
+description_main_no_space_length_6: paper
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PA
+description_main_no_space_upper_length_3: PAP
+description_main_no_space_upper_length_4: PAPE
+description_main_no_space_upper_length_5: PAPER
+description_main_no_space_upper_length_6: PAPER
+description_main_upper: PAPER
+description_main_upper_length_1: P
+description_main_upper_length_2: PA
+description_main_upper_length_3: PAP
+description_main_upper_length_4: PAPE
+description_main_upper_length_5: PAPER
+description_main_upper_length_6: PAPER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+id: packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+id_no_class: label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+id_no_color: paper_direct_thermal_style
+id_no_size: white_paper_direct_thermal_style
+id_no_type: 101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2042026
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2042026
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2042026
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2042026
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style](none)<br>[w](none)<br>[Packaging
+  Label 101 6 Mm Width 101 6 Mm Length White Paper Direct Thermal Style](none)<br><br>'
+markdown_short: '[packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style](none)<br><br>'
+md5: 67f0cecccc18cfd62c02a70b492a333b
+md5_10: 67f0cecccc
+md5_10_upper: 67F0CECCCC
+md5_5: 67f0c
+md5_5_upper: 67F0C
+md5_6: 67f0ce
+md5_6_alpha: '42026'
+md5_6_alpha_upper: '42026'
+md5_6_upper: 67F0CE
+name: Packaging Label 101 6 mm Width 101 6 mm Length White Paper Direct Thermal Style
+name_no_class: Label 101 6 mm Width 101 6 mm Length White Paper Direct Thermal Style
+name_no_color: Paper Direct Thermal Style
+name_no_size: White Paper Direct Thermal Style
+name_no_size_short: White Paper Direct Thermal Style
+name_no_type: 101 6 mm Width 101 6 mm Length White Paper Direct Thermal Style
+oomlout_detail_hierarchy_1: packaging
+oomlout_detail_hierarchy_1_upper: PACKAGING
+oomlout_detail_hierarchy_1_upper_length_4: PACK
+oomlout_detail_hierarchy_2: label
+oomlout_detail_hierarchy_2_upper: LABEL
+oomlout_detail_hierarchy_2_upper_length_4: LABE
+oomlout_detail_hierarchy_3: 6_mm_width
+oomlout_detail_hierarchy_3_upper: 6_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 6WID
+oomlout_detail_hierarchy_4: 6_mm_length
+oomlout_detail_hierarchy_4_upper: 6_MM_LENGTH
+oomlout_detail_hierarchy_4_upper_length_4: 6LEN
+oomlout_detail_hierarchy_5: white
+oomlout_detail_hierarchy_5_upper: WHITE
+oomlout_detail_hierarchy_5_upper_length_4: WHIT
+oomlout_detail_hierarchy_6: paper
+oomlout_detail_hierarchy_6_upper: PAPER
+oomlout_detail_hierarchy_6_upper_length_4: PAPE
+oomlout_detail_hierarchy_7: direct_thermal_style
+oomlout_detail_hierarchy_7_upper: DIRECT_THERMAL_STYLE
+oomlout_detail_hierarchy_7_upper_length_4: DIRE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_packaging_label_101_6_mm_width_101_6_mm_length_white_paper_direct_thermal_style
+oomp_word: herb train peach
+oomp_word_emoji: ':herb: :train: :peach:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':train:'
+- ':peach:'
+oomp_word_list:
+- herb
+- train
+- peach
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: w
+short_code_upper: W
+short_name: ''
+size: 101_6_mm_width_101_6_mm_length
+size_capital: 101.6 mm Width 101.6 mm Length
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '10'
+size_length_3: '101'
+size_length_4: '101_'
+size_length_5: '101_6'
+size_length_6: '101_6_'
+size_name: 101 6 mm Width 101 6 mm Length
+size_no_space_length_1: '1'
+size_no_space_length_2: '10'
+size_no_space_length_3: '101'
+size_no_space_length_4: '1016'
+size_no_space_length_5: 1016m
+size_no_space_length_6: 1016mm
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '10'
+size_no_space_upper_length_3: '101'
+size_no_space_upper_length_4: '1016'
+size_no_space_upper_length_5: 1016M
+size_no_space_upper_length_6: 1016MM
+size_only_numbers: '10161016'
+size_only_numbers_no_zeros: '116116'
+size_upper: 101_6_MM_WIDTH_101_6_MM_LENGTH
+size_upper_length_1: '1'
+size_upper_length_2: '10'
+size_upper_length_3: '101'
+size_upper_length_4: '101_'
+size_upper_length_5: '101_6'
+size_upper_length_6: '101_6_'
+type: label
+type_capital: Label
+type_first_letter: l
+type_first_letter_upper: L
+type_length_1: l
+type_length_2: la
+type_length_3: lab
+type_length_4: labe
+type_length_5: label
+type_length_6: label
+type_name: Label
+type_no_space_length_1: l
+type_no_space_length_2: la
+type_no_space_length_3: lab
+type_no_space_length_4: labe
+type_no_space_length_5: label
+type_no_space_length_6: label
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LA
+type_no_space_upper_length_3: LAB
+type_no_space_upper_length_4: LABE
+type_no_space_upper_length_5: LABEL
+type_no_space_upper_length_6: LABEL
+type_upper: LABEL
+type_upper_length_1: L
+type_upper_length_2: LA
+type_upper_length_3: LAB
+type_upper_length_4: LABE
+type_upper_length_5: LABEL
+type_upper_length_6: LABEL

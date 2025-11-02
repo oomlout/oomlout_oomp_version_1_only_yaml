@@ -1,0 +1,297 @@
+bip_39_word_dash_12: dawn-guard-consider-kiwi-nest-gas-fat-label-mass-awful-sadness-absurd
+bip_39_word_dash_2: dawn-guard
+bip_39_word_dash_3: dawn-guard-consider
+bip_39_word_new_br_12: dawn<br>guard<br>consider<br>kiwi<br>nest<br>gas<br>fat<br>label<br>mass<br>awful<br>sadness<br>absurd
+bip_39_word_new_br_2: dawn<br>guard
+bip_39_word_new_br_3: dawn<br>guard<br>consider
+bip_39_word_new_line_12: 'dawn
+
+  guard
+
+  consider
+
+  kiwi
+
+  nest
+
+  gas
+
+  fat
+
+  label
+
+  mass
+
+  awful
+
+  sadness
+
+  absurd'
+bip_39_word_new_line_2: 'dawn
+
+  guard'
+bip_39_word_new_line_3: 'dawn
+
+  guard
+
+  consider'
+bip_39_word_no_space_12: dawnguardconsiderkiwinestgasfatlabelmassawfulsadnessabsurd
+bip_39_word_no_space_2: dawnguard
+bip_39_word_no_space_3: dawnguardconsider
+bip_39_word_space_12: dawn guard consider kiwi nest gas fat label mass awful sadness
+  absurd
+bip_39_word_space_2: dawn guard
+bip_39_word_space_3: dawn guard consider
+bip_39_word_underscore_12: dawn_guard_consider_kiwi_nest_gas_fat_label_mass_awful_sadness_absurd
+bip_39_word_underscore_2: dawn_guard
+bip_39_word_underscore_3: dawn_guard_consider
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: brio
+color_capital: Brio
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: br
+color_length_3: bri
+color_length_4: brio
+color_length_5: brio
+color_length_6: brio
+color_name: Brio
+color_no_space_length_1: b
+color_no_space_length_2: br
+color_no_space_length_3: bri
+color_no_space_length_4: brio
+color_no_space_length_5: brio
+color_no_space_length_6: brio
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BR
+color_no_space_upper_length_3: BRI
+color_no_space_upper_length_4: BRIO
+color_no_space_upper_length_5: BRIO
+color_no_space_upper_length_6: BRIO
+color_upper: BRIO
+color_upper_length_1: B
+color_upper_length_2: BR
+color_upper_length_3: BRI
+color_upper_length_4: BRIO
+color_upper_length_5: BRIO
+color_upper_length_6: BRIO
+description: category_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_toy_building_brio_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_toy_building_brio_old
+id: category_toy_building_brio_old
+id_no_class: toy_building_brio_old
+id_no_color: old
+id_no_size: brio_old
+id_no_type: building_brio_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20ok3o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20ok3o
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20ok3o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20ok3o
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_building_brio_old](none)<br>[](none)<br>[Category Toy
+  Building Brio Old](none)<br><br>'
+markdown_short: '[category_toy_building_brio_old](none)<br><br>'
+md5: 117bc42c447c2a6d804a47b65e99d1bf
+md5_10: 117bc42c44
+md5_10_upper: 117BC42C44
+md5_5: 117bc
+md5_5_upper: 117BC
+md5_6: 117bc4
+md5_6_alpha: ok3o
+md5_6_alpha_upper: OK3O
+md5_6_upper: 117BC4
+name: Category Toy Building Brio Old
+name_no_class: Toy Building Brio Old
+name_no_color: Old
+name_no_size: Brio Old
+name_no_size_short: Brio Old
+name_no_type: Building Brio Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: toy
+oomlout_detail_hierarchy_2_upper: TOY
+oomlout_detail_hierarchy_2_upper_length_4: TOY
+oomlout_detail_hierarchy_3: building
+oomlout_detail_hierarchy_3_upper: BUILDING
+oomlout_detail_hierarchy_3_upper_length_4: BUIL
+oomlout_detail_hierarchy_4: brio
+oomlout_detail_hierarchy_4_upper: BRIO
+oomlout_detail_hierarchy_4_upper_length_4: BRIO
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_toy_building_brio_old
+oomp_word: dizzy computer cookie
+oomp_word_emoji: ':dizzy: :computer: :cookie:'
+oomp_word_emoji_list:
+- ':dizzy:'
+- ':computer:'
+- ':cookie:'
+oomp_word_list:
+- dizzy
+- computer
+- cookie
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: building
+size_capital: Building
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: bu
+size_length_3: bui
+size_length_4: buil
+size_length_5: build
+size_length_6: buildi
+size_name: Building
+size_no_space_length_1: b
+size_no_space_length_2: bu
+size_no_space_length_3: bui
+size_no_space_length_4: buil
+size_no_space_length_5: build
+size_no_space_length_6: buildi
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BU
+size_no_space_upper_length_3: BUI
+size_no_space_upper_length_4: BUIL
+size_no_space_upper_length_5: BUILD
+size_no_space_upper_length_6: BUILDI
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING
+size_upper_length_1: B
+size_upper_length_2: BU
+size_upper_length_3: BUI
+size_upper_length_4: BUIL
+size_upper_length_5: BUILD
+size_upper_length_6: BUILDI
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_length_1: t
+type_length_2: to
+type_length_3: toy
+type_length_4: toy
+type_length_5: toy
+type_length_6: toy
+type_name: Toy
+type_no_space_length_1: t
+type_no_space_length_2: to
+type_no_space_length_3: toy
+type_no_space_length_4: toy
+type_no_space_length_5: toy
+type_no_space_length_6: toy
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TO
+type_no_space_upper_length_3: TOY
+type_no_space_upper_length_4: TOY
+type_no_space_upper_length_5: TOY
+type_no_space_upper_length_6: TOY
+type_upper: TOY
+type_upper_length_1: T
+type_upper_length_2: TO
+type_upper_length_3: TOY
+type_upper_length_4: TOY
+type_upper_length_5: TOY
+type_upper_length_6: TOY

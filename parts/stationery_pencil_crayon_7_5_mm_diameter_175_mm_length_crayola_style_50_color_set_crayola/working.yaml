@@ -1,0 +1,301 @@
+bip_39_word_dash_12: unveil-august-soda-fringe-bench-sugar-pipe-awesome-tell-obtain-daughter-anchor
+bip_39_word_dash_2: unveil-august
+bip_39_word_dash_3: unveil-august-soda
+bip_39_word_new_br_12: unveil<br>august<br>soda<br>fringe<br>bench<br>sugar<br>pipe<br>awesome<br>tell<br>obtain<br>daughter<br>anchor
+bip_39_word_new_br_2: unveil<br>august
+bip_39_word_new_br_3: unveil<br>august<br>soda
+bip_39_word_new_line_12: 'unveil
+
+  august
+
+  soda
+
+  fringe
+
+  bench
+
+  sugar
+
+  pipe
+
+  awesome
+
+  tell
+
+  obtain
+
+  daughter
+
+  anchor'
+bip_39_word_new_line_2: 'unveil
+
+  august'
+bip_39_word_new_line_3: 'unveil
+
+  august
+
+  soda'
+bip_39_word_no_space_12: unveilaugustsodafringebenchsugarpipeawesometellobtaindaughteranchor
+bip_39_word_no_space_2: unveilaugust
+bip_39_word_no_space_3: unveilaugustsoda
+bip_39_word_space_12: unveil august soda fringe bench sugar pipe awesome tell obtain
+  daughter anchor
+bip_39_word_space_2: unveil august
+bip_39_word_space_3: unveil august soda
+bip_39_word_underscore_12: unveil_august_soda_fringe_bench_sugar_pipe_awesome_tell_obtain_daughter_anchor
+bip_39_word_underscore_2: unveil_august
+bip_39_word_underscore_3: unveil_august_soda
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
+classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: crayola_style_50_color_set
+description_extra_capital: Crayola Style 50 Color Set
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cr
+description_extra_length_3: cra
+description_extra_length_4: cray
+description_extra_length_5: crayo
+description_extra_length_6: crayol
+description_extra_name: Crayola Style 50 Color Set
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cr
+description_extra_no_space_length_3: cra
+description_extra_no_space_length_4: cray
+description_extra_no_space_length_5: crayo
+description_extra_no_space_length_6: crayol
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CR
+description_extra_no_space_upper_length_3: CRA
+description_extra_no_space_upper_length_4: CRAY
+description_extra_no_space_upper_length_5: CRAYO
+description_extra_no_space_upper_length_6: CRAYOL
+description_extra_upper: CRAYOLA_STYLE_50_COLOR_SET
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CR
+description_extra_upper_length_3: CRA
+description_extra_upper_length_4: CRAY
+description_extra_upper_length_5: CRAYO
+description_extra_upper_length_6: CRAYOL
+description_main: 7_5_mm_diameter_175_mm_length
+description_main_capital: 7.5 mm Diameter 175 mm Length
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_length_1: '7'
+description_main_length_2: '7_'
+description_main_length_3: '7_5'
+description_main_length_4: '7_5_'
+description_main_length_5: 7_5_m
+description_main_length_6: 7_5_mm
+description_main_name: 7 5 mm Diameter 175 mm Length
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: '75'
+description_main_no_space_length_3: 75m
+description_main_no_space_length_4: 75mm
+description_main_no_space_length_5: 75mmd
+description_main_no_space_length_6: 75mmdi
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: '75'
+description_main_no_space_upper_length_3: 75M
+description_main_no_space_upper_length_4: 75MM
+description_main_no_space_upper_length_5: 75MMD
+description_main_no_space_upper_length_6: 75MMDI
+description_main_upper: 7_5_MM_DIAMETER_175_MM_LENGTH
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '7_'
+description_main_upper_length_3: '7_5'
+description_main_upper_length_4: '7_5_'
+description_main_upper_length_5: 7_5_M
+description_main_upper_length_6: 7_5_MM
+description_only_numbers: '75175'
+description_only_numbers_short: 75k
+description_or_color: 75k
+description_or_color_upper: 75K
+directory: parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+distributor_part_number_amazon: B00000J0S3
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+id: stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+id_no_class: pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+id_no_color: 75mmdiameter175mmlengthcrayolastyle50colorsetcrayola
+id_no_size: 75mmdiameter175mmlengthcrayolastyle50colorsetcrayola
+id_no_type: 7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B00000J0S3
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B00000J0S3
+link_buy_1_name: link_distributor_amazon
+link_distributor_amazon: https://www.amazon.co.uk/dp/B00000J0S3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2058u5i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2058u5i
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2058u5i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2058u5i
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+manufacturer: crayola
+manufacturer_capital: Crayola
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_length_1: c
+manufacturer_length_2: cr
+manufacturer_length_3: cra
+manufacturer_length_4: cray
+manufacturer_length_5: crayo
+manufacturer_length_6: crayol
+manufacturer_name: Crayola
+manufacturer_no_space_length_1: c
+manufacturer_no_space_length_2: cr
+manufacturer_no_space_length_3: cra
+manufacturer_no_space_length_4: cray
+manufacturer_no_space_length_5: crayo
+manufacturer_no_space_length_6: crayol
+manufacturer_no_space_upper_length_1: C
+manufacturer_no_space_upper_length_2: CR
+manufacturer_no_space_upper_length_3: CRA
+manufacturer_no_space_upper_length_4: CRAY
+manufacturer_no_space_upper_length_5: CRAYO
+manufacturer_no_space_upper_length_6: CRAYOL
+manufacturer_upper: CRAYOLA
+manufacturer_upper_length_1: C
+manufacturer_upper_length_2: CR
+manufacturer_upper_length_3: CRA
+manufacturer_upper_length_4: CRAY
+manufacturer_upper_length_5: CRAYO
+manufacturer_upper_length_6: CRAYOL
+manufacturers: []
+markdown_full: '[stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola](none)<br>[](none)<br>[Stationery
+  Pencil Crayon 7 5 Mm Diameter 175 Mm Length Crayola Style 50 Color Set Crayola](none)<br><br>'
+markdown_short: '[stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola](none)<br><br>'
+md5: 866fa626f61094ab630a85d19c43cf73
+md5_10: 866fa626f6
+md5_10_upper: 866FA626F6
+md5_5: 866fa
+md5_5_upper: 866FA
+md5_6: 866fa6
+md5_6_alpha: 58u5i
+md5_6_alpha_upper: 58U5I
+md5_6_upper: 866FA6
+name: Stationery Pencil Crayon 7 5 mm Diameter 175 mm Length Crayola Style 50 Color
+  Set Crayola
+name_no_class: Pencil Crayon 7 5 mm Diameter 175 mm Length Crayola Style 50 Color
+  Set Crayola
+name_no_color: 75mmdiameter175mmlengthcrayolastyle50Colorsetcrayola
+name_no_size: 75mmdiameter175mmlengthcrayolastyle50Colorsetcrayola
+name_no_size_short: 75Mmdiameter175Mmlengthcrayolastyle50Colorsetcrayola
+name_no_type: 7 5 mm Diameter 175 mm Length Crayola Style 50 Color Set Crayola
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: pencil_crayon
+oomlout_detail_hierarchy_2_upper: PENCIL_CRAYON
+oomlout_detail_hierarchy_2_upper_length_4: PENC
+oomlout_detail_hierarchy_3: 175_mm_length
+oomlout_detail_hierarchy_3_upper: 175_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 175L
+oomlout_detail_hierarchy_4: crayola_style_50_color_set
+oomlout_detail_hierarchy_4_upper: CRAYOLA_STYLE_50_COLOR_SET
+oomlout_detail_hierarchy_4_upper_length_4: CRAY
+oomlout_detail_hierarchy_5: crayola
+oomlout_detail_hierarchy_5_upper: CRAYOLA
+oomlout_detail_hierarchy_5_upper_length_4: CRAY
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+oomp_word: bath moon trumpet
+oomp_word_emoji: ':bath: :moon: :trumpet:'
+oomp_word_emoji_list:
+- ':bath:'
+- ':moon:'
+- ':trumpet:'
+oomp_word_list:
+- bath
+- moon
+- trumpet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pencil_crayon
+type_capital: Pencil Crayon
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pe
+type_length_3: pen
+type_length_4: penc
+type_length_5: penci
+type_length_6: pencil
+type_name: Pencil Crayon
+type_no_space_length_1: p
+type_no_space_length_2: pe
+type_no_space_length_3: pen
+type_no_space_length_4: penc
+type_no_space_length_5: penci
+type_no_space_length_6: pencil
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PE
+type_no_space_upper_length_3: PEN
+type_no_space_upper_length_4: PENC
+type_no_space_upper_length_5: PENCI
+type_no_space_upper_length_6: PENCIL
+type_upper: PENCIL_CRAYON
+type_upper_length_1: P
+type_upper_length_2: PE
+type_upper_length_3: PEN
+type_upper_length_4: PENC
+type_upper_length_5: PENCI
+type_upper_length_6: PENCIL

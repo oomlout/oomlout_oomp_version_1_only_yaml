@@ -1,0 +1,296 @@
+bip_39_word_dash_12: extend-area-erode-climb-wealth-trim-chief-identify-impact-limb-width-attack
+bip_39_word_dash_2: extend-area
+bip_39_word_dash_3: extend-area-erode
+bip_39_word_new_br_12: extend<br>area<br>erode<br>climb<br>wealth<br>trim<br>chief<br>identify<br>impact<br>limb<br>width<br>attack
+bip_39_word_new_br_2: extend<br>area
+bip_39_word_new_br_3: extend<br>area<br>erode
+bip_39_word_new_line_12: 'extend
+
+  area
+
+  erode
+
+  climb
+
+  wealth
+
+  trim
+
+  chief
+
+  identify
+
+  impact
+
+  limb
+
+  width
+
+  attack'
+bip_39_word_new_line_2: 'extend
+
+  area'
+bip_39_word_new_line_3: 'extend
+
+  area
+
+  erode'
+bip_39_word_no_space_12: extendareaerodeclimbwealthtrimchiefidentifyimpactlimbwidthattack
+bip_39_word_no_space_2: extendarea
+bip_39_word_no_space_3: extendareaerode
+bip_39_word_space_12: extend area erode climb wealth trim chief identify impact limb
+  width attack
+bip_39_word_space_2: extend area
+bip_39_word_space_3: extend area erode
+bip_39_word_underscore_12: extend_area_erode_climb_wealth_trim_chief_identify_impact_limb_width_attack
+bip_39_word_underscore_2: extend_area
+bip_39_word_underscore_3: extend_area_erode
+classification: oobb
+classification_capital: Oobb
+classification_first_letter: o
+classification_first_letter_upper: O
+classification_length_1: o
+classification_length_2: oo
+classification_length_3: oob
+classification_length_4: oobb
+classification_length_5: oobb
+classification_length_6: oobb
+classification_name: Oobb
+classification_no_space_length_1: o
+classification_no_space_length_2: oo
+classification_no_space_length_3: oob
+classification_no_space_length_4: oobb
+classification_no_space_length_5: oobb
+classification_no_space_length_6: oobb
+classification_no_space_upper_length_1: O
+classification_no_space_upper_length_2: OO
+classification_no_space_upper_length_3: OOB
+classification_no_space_upper_length_4: OOBB
+classification_no_space_upper_length_5: OOBB
+classification_no_space_upper_length_6: OOBB
+classification_upper: OOBB
+classification_upper_length_1: O
+classification_upper_length_2: OO
+classification_upper_length_3: OOB
+classification_upper_length_4: OOBB
+classification_upper_length_5: OOBB
+classification_upper_length_6: OOBB
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: doughnut_2.5_extra
+description_extra_capital: Doughnut 2.5 Extra
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_length_1: d
+description_extra_length_2: do
+description_extra_length_3: dou
+description_extra_length_4: doug
+description_extra_length_5: dough
+description_extra_length_6: doughn
+description_extra_name: Doughnut 2.5 Extra
+description_extra_no_space_length_1: d
+description_extra_no_space_length_2: do
+description_extra_no_space_length_3: dou
+description_extra_no_space_length_4: doug
+description_extra_no_space_length_5: dough
+description_extra_no_space_length_6: doughn
+description_extra_no_space_upper_length_1: D
+description_extra_no_space_upper_length_2: DO
+description_extra_no_space_upper_length_3: DOU
+description_extra_no_space_upper_length_4: DOUG
+description_extra_no_space_upper_length_5: DOUGH
+description_extra_no_space_upper_length_6: DOUGHN
+description_extra_upper: DOUGHNUT_2.5_EXTRA
+description_extra_upper_length_1: D
+description_extra_upper_length_2: DO
+description_extra_upper_length_3: DOU
+description_extra_upper_length_4: DOUG
+description_extra_upper_length_5: DOUGH
+description_extra_upper_length_6: DOUGHN
+description_main: 19_diameter_3_mm_depth
+description_main_capital: 19 Diameter 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '19'
+description_main_length_3: '19_'
+description_main_length_4: 19_d
+description_main_length_5: 19_di
+description_main_length_6: 19_dia
+description_main_name: 19 Diameter 3 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '19'
+description_main_no_space_length_3: 19d
+description_main_no_space_length_4: 19di
+description_main_no_space_length_5: 19dia
+description_main_no_space_length_6: 19diam
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '19'
+description_main_no_space_upper_length_3: 19D
+description_main_no_space_upper_length_4: 19DI
+description_main_no_space_upper_length_5: 19DIA
+description_main_no_space_upper_length_6: 19DIAM
+description_main_upper: 19_DIAMETER_3_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '19'
+description_main_upper_length_3: '19_'
+description_main_upper_length_4: 19_D
+description_main_upper_length_5: 19_DI
+description_main_upper_length_6: 19_DIA
+description_only_numbers: '193'
+description_only_numbers_short: '193'
+description_or_color: '193'
+description_or_color_upper: '193'
+directory: parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+id: oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_class: part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_color: 19diameter3mmdepthdoughnut2.5extra
+id_no_size: 19_diameter_3_mm_depth_doughnut_2.5_extra
+id_no_type: circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2091tpc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2091tpc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2091tpc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2091tpc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra](none)<br>[](none)<br>[Oobb
+  Part Circle 19 Diameter 3 Mm Depth Doughnut 2.5 Extra](none)<br><br>'
+markdown_short: '[oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra](none)<br><br>'
+md5: e7f5a0738e7084fba2fc12b09902d287
+md5_10: e7f5a0738e
+md5_10_upper: E7F5A0738E
+md5_5: e7f5a
+md5_5_upper: E7F5A
+md5_6: e7f5a0
+md5_6_alpha: 91tpc
+md5_6_alpha_upper: 91TPC
+md5_6_upper: E7F5A0
+name: Oobb Part Circle 19 Diameter 3 mm Depth Doughnut 2.5 Extra
+name_no_class: Part Circle 19 Diameter 3 mm Depth Doughnut 2.5 Extra
+name_no_color: 19Diameter3mmdepthdoughnut2.5Extra
+name_no_size: 19 Diameter 3 mm Depth Doughnut 2.5 Extra
+name_no_size_short: 19 Diameter 3 Mm Depth Doughnut 2.5 Extra
+name_no_type: Circle 19 Diameter 3 mm Depth Doughnut 2.5 Extra
+oomlout_detail_hierarchy_1: oobb
+oomlout_detail_hierarchy_1_upper: OOBB
+oomlout_detail_hierarchy_1_upper_length_4: OOBB
+oomlout_detail_hierarchy_2: part
+oomlout_detail_hierarchy_2_upper: PART
+oomlout_detail_hierarchy_2_upper_length_4: PART
+oomlout_detail_hierarchy_3: circle
+oomlout_detail_hierarchy_3_upper: CIRCLE
+oomlout_detail_hierarchy_3_upper_length_4: CIRC
+oomlout_detail_hierarchy_4: 19_diameter
+oomlout_detail_hierarchy_4_upper: 19_DIAMETER
+oomlout_detail_hierarchy_4_upper_length_4: 19_D
+oomlout_detail_hierarchy_5: 3_mm_depth
+oomlout_detail_hierarchy_5_upper: 3_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 3DEP
+oomlout_detail_hierarchy_6: doughnut_2.5_extra
+oomlout_detail_hierarchy_6_upper: DOUGHNUT_2.5_EXTRA
+oomlout_detail_hierarchy_6_upper_length_4: DOUG
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_oobb_part_circle_19_diameter_3_mm_depth_doughnut_2.5_extra
+oomp_word: helicopter four ring
+oomp_word_emoji: ':helicopter: :four: :ring:'
+oomp_word_emoji_list:
+- ':helicopter:'
+- ':four:'
+- ':ring:'
+oomp_word_list:
+- helicopter
+- four
+- ring
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: circle
+size_capital: Circle
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: ci
+size_length_3: cir
+size_length_4: circ
+size_length_5: circl
+size_length_6: circle
+size_name: Circle
+size_no_space_length_1: c
+size_no_space_length_2: ci
+size_no_space_length_3: cir
+size_no_space_length_4: circ
+size_no_space_length_5: circl
+size_no_space_length_6: circle
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CI
+size_no_space_upper_length_3: CIR
+size_no_space_upper_length_4: CIRC
+size_no_space_upper_length_5: CIRCL
+size_no_space_upper_length_6: CIRCLE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CIRCLE
+size_upper_length_1: C
+size_upper_length_2: CI
+size_upper_length_3: CIR
+size_upper_length_4: CIRC
+size_upper_length_5: CIRCL
+size_upper_length_6: CIRCLE
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: par
+type_length_4: part
+type_length_5: part
+type_length_6: part
+type_name: Part
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: par
+type_no_space_length_4: part
+type_no_space_length_5: part
+type_no_space_length_6: part
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAR
+type_no_space_upper_length_4: PART
+type_no_space_upper_length_5: PART
+type_no_space_upper_length_6: PART
+type_upper: PART
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAR
+type_upper_length_4: PART
+type_upper_length_5: PART
+type_upper_length_6: PART

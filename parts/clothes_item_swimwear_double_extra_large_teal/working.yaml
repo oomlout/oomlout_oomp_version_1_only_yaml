@@ -1,0 +1,294 @@
+bip_39_word_dash_12: version-rare-tool-column-weapon-paddle-step-company-unaware-liberty-powder-artwork
+bip_39_word_dash_2: version-rare
+bip_39_word_dash_3: version-rare-tool
+bip_39_word_new_br_12: version<br>rare<br>tool<br>column<br>weapon<br>paddle<br>step<br>company<br>unaware<br>liberty<br>powder<br>artwork
+bip_39_word_new_br_2: version<br>rare
+bip_39_word_new_br_3: version<br>rare<br>tool
+bip_39_word_new_line_12: 'version
+
+  rare
+
+  tool
+
+  column
+
+  weapon
+
+  paddle
+
+  step
+
+  company
+
+  unaware
+
+  liberty
+
+  powder
+
+  artwork'
+bip_39_word_new_line_2: 'version
+
+  rare'
+bip_39_word_new_line_3: 'version
+
+  rare
+
+  tool'
+bip_39_word_no_space_12: versionraretoolcolumnweaponpaddlestepcompanyunawarelibertypowderartwork
+bip_39_word_no_space_2: versionrare
+bip_39_word_no_space_3: versionraretool
+bip_39_word_space_12: version rare tool column weapon paddle step company unaware
+  liberty powder artwork
+bip_39_word_space_2: version rare
+bip_39_word_space_3: version rare tool
+bip_39_word_underscore_12: version_rare_tool_column_weapon_paddle_step_company_unaware_liberty_powder_artwork
+bip_39_word_underscore_2: version_rare
+bip_39_word_underscore_3: version_rare_tool
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_length_1: d
+color_length_2: do
+color_length_3: dou
+color_length_4: doub
+color_length_5: doubl
+color_length_6: double
+color_name: Double Extra Large
+color_no_space_length_1: d
+color_no_space_length_2: do
+color_no_space_length_3: dou
+color_no_space_length_4: doub
+color_no_space_length_5: doubl
+color_no_space_length_6: double
+color_no_space_upper_length_1: D
+color_no_space_upper_length_2: DO
+color_no_space_upper_length_3: DOU
+color_no_space_upper_length_4: DOUB
+color_no_space_upper_length_5: DOUBL
+color_no_space_upper_length_6: DOUBLE
+color_upper: DOUBLE_EXTRA_LARGE
+color_upper_length_1: D
+color_upper_length_2: DO
+color_upper_length_3: DOU
+color_upper_length_4: DOUB
+color_upper_length_5: DOUBL
+color_upper_length_6: DOUBLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: te
+description_main_length_3: tea
+description_main_length_4: teal
+description_main_length_5: teal
+description_main_length_6: teal
+description_main_name: Teal
+description_main_no_space_length_1: t
+description_main_no_space_length_2: te
+description_main_no_space_length_3: tea
+description_main_no_space_length_4: teal
+description_main_no_space_length_5: teal
+description_main_no_space_length_6: teal
+description_main_no_space_upper_length_1: T
+description_main_no_space_upper_length_2: TE
+description_main_no_space_upper_length_3: TEA
+description_main_no_space_upper_length_4: TEAL
+description_main_no_space_upper_length_5: TEAL
+description_main_no_space_upper_length_6: TEAL
+description_main_upper: TEAL
+description_main_upper_length_1: T
+description_main_upper_length_2: TE
+description_main_upper_length_3: TEA
+description_main_upper_length_4: TEAL
+description_main_upper_length_5: TEAL
+description_main_upper_length_6: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_swimwear_double_extra_large_teal
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_swimwear_double_extra_large_teal
+id: clothes_item_swimwear_double_extra_large_teal
+id_no_class: item_swimwear_double_extra_large_teal
+id_no_color: teal
+id_no_size: double_extra_large_teal
+id_no_type: swimwear_double_extra_large_teal
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_double_extra_large_teal
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_double_extra_large_teal
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_double_extra_large_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_double_extra_large_teal
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2088u3k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2088u3k
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2088u3k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2088u3k
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_double_extra_large_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_double_extra_large_teal](none)<br>[](none)<br>[Clothes
+  Item Swimwear Double Extra Large Teal](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_double_extra_large_teal](none)<br><br>'
+md5: d352603f632e9aae7b7c22ddc96c8796
+md5_10: d352603f63
+md5_10_upper: D352603F63
+md5_5: d3526
+md5_5_upper: D3526
+md5_6: d35260
+md5_6_alpha: 88u3k
+md5_6_alpha_upper: 88U3K
+md5_6_upper: D35260
+name: Clothes Item Swimwear Double Extra Large Teal
+name_no_class: Item Swimwear Double Extra Large Teal
+name_no_color: Teal
+name_no_size: Double Extra Large Teal
+name_no_size_short: Double Extra Large Teal
+name_no_type: Swimwear Double Extra Large Teal
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: swimwear
+oomlout_detail_hierarchy_3_upper: SWIMWEAR
+oomlout_detail_hierarchy_3_upper_length_4: SWIM
+oomlout_detail_hierarchy_4: double_extra_large
+oomlout_detail_hierarchy_4_upper: DOUBLE_EXTRA_LARGE
+oomlout_detail_hierarchy_4_upper_length_4: DOUB
+oomlout_detail_hierarchy_5: teal
+oomlout_detail_hierarchy_5_upper: TEAL
+oomlout_detail_hierarchy_5_upper_length_4: TEAL
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_swimwear_double_extra_large_teal
+oomp_word: tomato octopus poodle
+oomp_word_emoji: ':tomato: :octopus: :poodle:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':octopus:'
+- ':poodle:'
+oomp_word_list:
+- tomato
+- octopus
+- poodle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sw
+size_length_3: swi
+size_length_4: swim
+size_length_5: swimw
+size_length_6: swimwe
+size_name: Swimwear
+size_no_space_length_1: s
+size_no_space_length_2: sw
+size_no_space_length_3: swi
+size_no_space_length_4: swim
+size_no_space_length_5: swimw
+size_no_space_length_6: swimwe
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SW
+size_no_space_upper_length_3: SWI
+size_no_space_upper_length_4: SWIM
+size_no_space_upper_length_5: SWIMW
+size_no_space_upper_length_6: SWIMWE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+size_upper_length_1: S
+size_upper_length_2: SW
+size_upper_length_3: SWI
+size_upper_length_4: SWIM
+size_upper_length_5: SWIMW
+size_upper_length_6: SWIMWE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

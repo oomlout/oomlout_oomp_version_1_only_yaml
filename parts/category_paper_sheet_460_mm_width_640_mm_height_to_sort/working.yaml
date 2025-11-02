@@ -1,0 +1,300 @@
+bip_39_word_dash_12: today-february-matrix-pigeon-cheap-window-dinosaur-sing-wasp-thunder-churn-aunt
+bip_39_word_dash_2: today-february
+bip_39_word_dash_3: today-february-matrix
+bip_39_word_new_br_12: today<br>february<br>matrix<br>pigeon<br>cheap<br>window<br>dinosaur<br>sing<br>wasp<br>thunder<br>churn<br>aunt
+bip_39_word_new_br_2: today<br>february
+bip_39_word_new_br_3: today<br>february<br>matrix
+bip_39_word_new_line_12: 'today
+
+  february
+
+  matrix
+
+  pigeon
+
+  cheap
+
+  window
+
+  dinosaur
+
+  sing
+
+  wasp
+
+  thunder
+
+  churn
+
+  aunt'
+bip_39_word_new_line_2: 'today
+
+  february'
+bip_39_word_new_line_3: 'today
+
+  february
+
+  matrix'
+bip_39_word_no_space_12: todayfebruarymatrixpigeoncheapwindowdinosaursingwaspthunderchurnaunt
+bip_39_word_no_space_2: todayfebruary
+bip_39_word_no_space_3: todayfebruarymatrix
+bip_39_word_space_12: today february matrix pigeon cheap window dinosaur sing wasp
+  thunder churn aunt
+bip_39_word_space_2: today february
+bip_39_word_space_3: today february matrix
+bip_39_word_underscore_12: today_february_matrix_pigeon_cheap_window_dinosaur_sing_wasp_thunder_churn_aunt
+bip_39_word_underscore_2: today_february
+bip_39_word_underscore_3: today_february_matrix
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 460_mm_width_640_mm_height
+color_capital: 460 mm Width 640 mm Height
+color_first_letter: '4'
+color_first_letter_upper: '4'
+color_length_1: '4'
+color_length_2: '46'
+color_length_3: '460'
+color_length_4: '460_'
+color_length_5: 460_m
+color_length_6: 460_mm
+color_name: 460 mm Width 640 mm Height
+color_no_space_length_1: '4'
+color_no_space_length_2: '46'
+color_no_space_length_3: '460'
+color_no_space_length_4: 460m
+color_no_space_length_5: 460mm
+color_no_space_length_6: 460mmw
+color_no_space_upper_length_1: '4'
+color_no_space_upper_length_2: '46'
+color_no_space_upper_length_3: '460'
+color_no_space_upper_length_4: 460M
+color_no_space_upper_length_5: 460MM
+color_no_space_upper_length_6: 460MMW
+color_upper: 460_MM_WIDTH_640_MM_HEIGHT
+color_upper_length_1: '4'
+color_upper_length_2: '46'
+color_upper_length_3: '460'
+color_upper_length_4: '460_'
+color_upper_length_5: 460_M
+color_upper_length_6: 460_MM
+description: category_paper
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
+description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '4 '
+description_or_color_upper: '4 '
+directory: parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+id: category_paper_sheet_460_mm_width_640_mm_height_to_sort
+id_no_class: paper_sheet_460_mm_width_640_mm_height_to_sort
+id_no_color: to_sort
+id_no_size: 460_mm_width_640_mm_height_to_sort
+id_no_type: sheet_460_mm_width_640_mm_height_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209j6pk
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209j6pk
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209j6pk
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209j6pk
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_460_mm_width_640_mm_height_to_sort](none)<br>[](none)<br>[Category
+  Paper Sheet 460 Mm Width 640 Mm Height To Sort](none)<br><br>'
+markdown_short: '[category_paper_sheet_460_mm_width_640_mm_height_to_sort](none)<br><br>'
+md5: f451b867bcc947cfed937a4b1255171a
+md5_10: f451b867bc
+md5_10_upper: F451B867BC
+md5_5: f451b
+md5_5_upper: F451B
+md5_6: f451b8
+md5_6_alpha: 9j6pk
+md5_6_alpha_upper: 9J6PK
+md5_6_upper: F451B8
+name: Category Paper Sheet 460 mm Width 640 mm Height To Sort
+name_no_class: Paper Sheet 460 mm Width 640 mm Height To Sort
+name_no_color: To Sort
+name_no_size: 460 mm Width 640 mm Height To Sort
+name_no_size_short: 460 Mm Width 640 Mm Height To Sort
+name_no_type: Sheet 460 mm Width 640 mm Height To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: paper
+oomlout_detail_hierarchy_2_upper: PAPER
+oomlout_detail_hierarchy_2_upper_length_4: PAPE
+oomlout_detail_hierarchy_3: sheet
+oomlout_detail_hierarchy_3_upper: SHEET
+oomlout_detail_hierarchy_3_upper_length_4: SHEE
+oomlout_detail_hierarchy_4: 460_mm_width
+oomlout_detail_hierarchy_4_upper: 460_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 460W
+oomlout_detail_hierarchy_5: 640_mm_height
+oomlout_detail_hierarchy_5_upper: 640_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 640H
+oomlout_detail_hierarchy_6: to_sort
+oomlout_detail_hierarchy_6_upper: TO_SORT
+oomlout_detail_hierarchy_6_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_paper_sheet_460_mm_width_640_mm_height_to_sort
+oomp_word: three snail hamburger
+oomp_word_emoji: ':three: :snail: :hamburger:'
+oomp_word_emoji_list:
+- ':three:'
+- ':snail:'
+- ':hamburger:'
+oomp_word_list:
+- three
+- snail
+- hamburger
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sh
+size_length_3: she
+size_length_4: shee
+size_length_5: sheet
+size_length_6: sheet
+size_name: Sheet
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: she
+size_no_space_length_4: shee
+size_no_space_length_5: sheet
+size_no_space_length_6: sheet
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHE
+size_no_space_upper_length_4: SHEE
+size_no_space_upper_length_5: SHEET
+size_no_space_upper_length_6: SHEET
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHE
+size_upper_length_4: SHEE
+size_upper_length_5: SHEET
+size_upper_length_6: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pap
+type_length_4: pape
+type_length_5: paper
+type_length_6: paper
+type_name: Paper
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pap
+type_no_space_length_4: pape
+type_no_space_length_5: paper
+type_no_space_length_6: paper
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAP
+type_no_space_upper_length_4: PAPE
+type_no_space_upper_length_5: PAPER
+type_no_space_upper_length_6: PAPER
+type_upper: PAPER
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAP
+type_upper_length_4: PAPE
+type_upper_length_5: PAPER
+type_upper_length_6: PAPER

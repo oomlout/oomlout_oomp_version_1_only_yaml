@@ -1,0 +1,295 @@
+bip_39_word_dash_12: december-letter-citizen-loyal-hospital-unknown-spend-bounce-bike-loan-roast-achieve
+bip_39_word_dash_2: december-letter
+bip_39_word_dash_3: december-letter-citizen
+bip_39_word_new_br_12: december<br>letter<br>citizen<br>loyal<br>hospital<br>unknown<br>spend<br>bounce<br>bike<br>loan<br>roast<br>achieve
+bip_39_word_new_br_2: december<br>letter
+bip_39_word_new_br_3: december<br>letter<br>citizen
+bip_39_word_new_line_12: 'december
+
+  letter
+
+  citizen
+
+  loyal
+
+  hospital
+
+  unknown
+
+  spend
+
+  bounce
+
+  bike
+
+  loan
+
+  roast
+
+  achieve'
+bip_39_word_new_line_2: 'december
+
+  letter'
+bip_39_word_new_line_3: 'december
+
+  letter
+
+  citizen'
+bip_39_word_no_space_12: decemberlettercitizenloyalhospitalunknownspendbouncebikeloanroastachieve
+bip_39_word_no_space_2: decemberletter
+bip_39_word_no_space_3: decemberlettercitizen
+bip_39_word_space_12: december letter citizen loyal hospital unknown spend bounce
+  bike loan roast achieve
+bip_39_word_space_2: december letter
+bip_39_word_space_3: december letter citizen
+bip_39_word_underscore_12: december_letter_citizen_loyal_hospital_unknown_spend_bounce_bike_loan_roast_achieve
+bip_39_word_underscore_2: december_letter
+bip_39_word_underscore_3: december_letter_citizen
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_length_1: g
+classification_length_2: ga
+classification_length_3: gar
+classification_length_4: gard
+classification_length_5: garde
+classification_length_6: garden
+classification_name: Garden
+classification_no_space_length_1: g
+classification_no_space_length_2: ga
+classification_no_space_length_3: gar
+classification_no_space_length_4: gard
+classification_no_space_length_5: garde
+classification_no_space_length_6: garden
+classification_no_space_upper_length_1: G
+classification_no_space_upper_length_2: GA
+classification_no_space_upper_length_3: GAR
+classification_no_space_upper_length_4: GARD
+classification_no_space_upper_length_5: GARDE
+classification_no_space_upper_length_6: GARDEN
+classification_upper: GARDEN
+classification_upper_length_1: G
+classification_upper_length_2: GA
+classification_upper_length_3: GAR
+classification_upper_length_4: GARD
+classification_upper_length_5: GARDE
+classification_upper_length_6: GARDEN
+color: palm
+color_capital: Palm
+color_first_letter: p
+color_first_letter_upper: P
+color_length_1: p
+color_length_2: pa
+color_length_3: pal
+color_length_4: palm
+color_length_5: palm
+color_length_6: palm
+color_name: Palm
+color_no_space_length_1: p
+color_no_space_length_2: pa
+color_no_space_length_3: pal
+color_no_space_length_4: palm
+color_no_space_length_5: palm
+color_no_space_length_6: palm
+color_no_space_upper_length_1: P
+color_no_space_upper_length_2: PA
+color_no_space_upper_length_3: PAL
+color_no_space_upper_length_4: PALM
+color_no_space_upper_length_5: PALM
+color_no_space_upper_length_6: PALM
+color_upper: PALM
+color_upper_length_1: P
+color_upper_length_2: PA
+color_upper_length_3: PAL
+color_upper_length_4: PALM
+color_upper_length_5: PALM
+color_upper_length_6: PALM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: trachycarpus_fortunei
+description_main_capital: Trachycarpus Fortunei
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: tr
+description_main_length_3: tra
+description_main_length_4: trac
+description_main_length_5: trach
+description_main_length_6: trachy
+description_main_name: Trachycarpus Fortunei
+description_main_no_space_length_1: t
+description_main_no_space_length_2: tr
+description_main_no_space_length_3: tra
+description_main_no_space_length_4: trac
+description_main_no_space_length_5: trach
+description_main_no_space_length_6: trachy
+description_main_no_space_upper_length_1: T
+description_main_no_space_upper_length_2: TR
+description_main_no_space_upper_length_3: TRA
+description_main_no_space_upper_length_4: TRAC
+description_main_no_space_upper_length_5: TRACH
+description_main_no_space_upper_length_6: TRACHY
+description_main_upper: TRACHYCARPUS_FORTUNEI
+description_main_upper_length_1: T
+description_main_upper_length_2: TR
+description_main_upper_length_3: TRA
+description_main_upper_length_4: TRAC
+description_main_upper_length_5: TRACH
+description_main_upper_length_6: TRACHY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/garden_plant_tree_palm_trachycarpus_fortunei
+distributor_sutton_seeds: '105005'
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+id: garden_plant_tree_palm_trachycarpus_fortunei
+id_no_class: plant_tree_palm_trachycarpus_fortunei
+id_no_color: trachycarpus_fortunei
+id_no_size: palm_trachycarpus_fortunei
+id_no_type: tree_palm_trachycarpus_fortunei
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+link_2_name: link_github
+link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/trachycarpus-fortunei-seeds_mh13516
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015dsw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015dsw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2015dsw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015dsw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_tree_palm_trachycarpus_fortunei](none)<br>[](none)<br>[Garden
+  Plant Tree Palm Trachycarpus Fortunei](none)<br><br>'
+markdown_short: '[garden_plant_tree_palm_trachycarpus_fortunei](none)<br><br>'
+md5: 1d7620c0b11a7a2bb7b6f84852a021c5
+md5_10: 1d7620c0b1
+md5_10_upper: 1D7620C0B1
+md5_5: 1d762
+md5_5_upper: 1D762
+md5_6: 1d7620
+md5_6_alpha: 15dsw
+md5_6_alpha_upper: 15DSW
+md5_6_upper: 1D7620
+name: Garden Plant Tree Palm Trachycarpus Fortunei
+name_no_class: Plant Tree Palm Trachycarpus Fortunei
+name_no_color: Trachycarpus Fortunei
+name_no_size: Palm Trachycarpus Fortunei
+name_no_size_short: Palm Trachycarpus Fortunei
+name_no_type: Tree Palm Trachycarpus Fortunei
+oomlout_detail_hierarchy_1: garden
+oomlout_detail_hierarchy_1_upper: GARDEN
+oomlout_detail_hierarchy_1_upper_length_4: GARD
+oomlout_detail_hierarchy_2: plant
+oomlout_detail_hierarchy_2_upper: PLANT
+oomlout_detail_hierarchy_2_upper_length_4: PLAN
+oomlout_detail_hierarchy_3: tree
+oomlout_detail_hierarchy_3_upper: TREE
+oomlout_detail_hierarchy_3_upper_length_4: TREE
+oomlout_detail_hierarchy_4: palm
+oomlout_detail_hierarchy_4_upper: PALM
+oomlout_detail_hierarchy_4_upper_length_4: PALM
+oomlout_detail_hierarchy_5: trachycarpus_fortunei
+oomlout_detail_hierarchy_5_upper: TRACHYCARPUS_FORTUNEI
+oomlout_detail_hierarchy_5_upper_length_4: TRAC
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_garden_plant_tree_palm_trachycarpus_fortunei
+oomp_word: baby santa skull
+oomp_word_emoji: ':baby: :santa: :skull:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':santa:'
+- ':skull:'
+oomp_word_list:
+- baby
+- santa
+- skull
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tree
+size_capital: Tree
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: tr
+size_length_3: tre
+size_length_4: tree
+size_length_5: tree
+size_length_6: tree
+size_name: Tree
+size_no_space_length_1: t
+size_no_space_length_2: tr
+size_no_space_length_3: tre
+size_no_space_length_4: tree
+size_no_space_length_5: tree
+size_no_space_length_6: tree
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TR
+size_no_space_upper_length_3: TRE
+size_no_space_upper_length_4: TREE
+size_no_space_upper_length_5: TREE
+size_no_space_upper_length_6: TREE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TREE
+size_upper_length_1: T
+size_upper_length_2: TR
+size_upper_length_3: TRE
+size_upper_length_4: TREE
+size_upper_length_5: TREE
+size_upper_length_6: TREE
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pl
+type_length_3: pla
+type_length_4: plan
+type_length_5: plant
+type_length_6: plant
+type_name: Plant
+type_no_space_length_1: p
+type_no_space_length_2: pl
+type_no_space_length_3: pla
+type_no_space_length_4: plan
+type_no_space_length_5: plant
+type_no_space_length_6: plant
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PL
+type_no_space_upper_length_3: PLA
+type_no_space_upper_length_4: PLAN
+type_no_space_upper_length_5: PLANT
+type_no_space_upper_length_6: PLANT
+type_upper: PLANT
+type_upper_length_1: P
+type_upper_length_2: PL
+type_upper_length_3: PLA
+type_upper_length_4: PLAN
+type_upper_length_5: PLANT
+type_upper_length_6: PLANT

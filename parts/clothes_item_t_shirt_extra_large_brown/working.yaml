@@ -1,0 +1,294 @@
+bip_39_word_dash_12: combine-shaft-ritual-coil-auto-million-scatter-riot-letter-shine-october-age
+bip_39_word_dash_2: combine-shaft
+bip_39_word_dash_3: combine-shaft-ritual
+bip_39_word_new_br_12: combine<br>shaft<br>ritual<br>coil<br>auto<br>million<br>scatter<br>riot<br>letter<br>shine<br>october<br>age
+bip_39_word_new_br_2: combine<br>shaft
+bip_39_word_new_br_3: combine<br>shaft<br>ritual
+bip_39_word_new_line_12: 'combine
+
+  shaft
+
+  ritual
+
+  coil
+
+  auto
+
+  million
+
+  scatter
+
+  riot
+
+  letter
+
+  shine
+
+  october
+
+  age'
+bip_39_word_new_line_2: 'combine
+
+  shaft'
+bip_39_word_new_line_3: 'combine
+
+  shaft
+
+  ritual'
+bip_39_word_no_space_12: combineshaftritualcoilautomillionscatterriotlettershineoctoberage
+bip_39_word_no_space_2: combineshaft
+bip_39_word_no_space_3: combineshaftritual
+bip_39_word_space_12: combine shaft ritual coil auto million scatter riot letter shine
+  october age
+bip_39_word_space_2: combine shaft
+bip_39_word_space_3: combine shaft ritual
+bip_39_word_underscore_12: combine_shaft_ritual_coil_auto_million_scatter_riot_letter_shine_october_age
+bip_39_word_underscore_2: combine_shaft
+bip_39_word_underscore_3: combine_shaft_ritual
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_length_1: e
+color_length_2: ex
+color_length_3: ext
+color_length_4: extr
+color_length_5: extra
+color_length_6: extra_
+color_name: Extra Large
+color_no_space_length_1: e
+color_no_space_length_2: ex
+color_no_space_length_3: ext
+color_no_space_length_4: extr
+color_no_space_length_5: extra
+color_no_space_length_6: extral
+color_no_space_upper_length_1: E
+color_no_space_upper_length_2: EX
+color_no_space_upper_length_3: EXT
+color_no_space_upper_length_4: EXTR
+color_no_space_upper_length_5: EXTRA
+color_no_space_upper_length_6: EXTRAL
+color_upper: EXTRA_LARGE
+color_upper_length_1: E
+color_upper_length_2: EX
+color_upper_length_3: EXT
+color_upper_length_4: EXTR
+color_upper_length_5: EXTRA
+color_upper_length_6: EXTRA_
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: brown
+description_main_capital: Brown
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: br
+description_main_length_3: bro
+description_main_length_4: brow
+description_main_length_5: brown
+description_main_length_6: brown
+description_main_name: Brown
+description_main_no_space_length_1: b
+description_main_no_space_length_2: br
+description_main_no_space_length_3: bro
+description_main_no_space_length_4: brow
+description_main_no_space_length_5: brown
+description_main_no_space_length_6: brown
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BR
+description_main_no_space_upper_length_3: BRO
+description_main_no_space_upper_length_4: BROW
+description_main_no_space_upper_length_5: BROWN
+description_main_no_space_upper_length_6: BROWN
+description_main_upper: BROWN
+description_main_upper_length_1: B
+description_main_upper_length_2: BR
+description_main_upper_length_3: BRO
+description_main_upper_length_4: BROW
+description_main_upper_length_5: BROWN
+description_main_upper_length_6: BROWN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_t_shirt_extra_large_brown
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_t_shirt_extra_large_brown
+id: clothes_item_t_shirt_extra_large_brown
+id_no_class: item_t_shirt_extra_large_brown
+id_no_color: brown
+id_no_size: extra_large_brown
+id_no_type: t_shirt_extra_large_brown
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_brown
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_brown
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_brown
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2030fn5
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2030fn5
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2030fn5
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2030fn5
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_extra_large_brown](none)<br>[](none)<br>[Clothes
+  Item T Shirt Extra Large Brown](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_extra_large_brown](none)<br><br>'
+md5: 4d32317c04ba380e3287c2d57531396f
+md5_10: 4d32317c04
+md5_10_upper: 4D32317C04
+md5_5: 4d323
+md5_5_upper: 4D323
+md5_6: 4d3231
+md5_6_alpha: 30fn5
+md5_6_alpha_upper: 30FN5
+md5_6_upper: 4D3231
+name: Clothes Item T Shirt Extra Large Brown
+name_no_class: Item T Shirt Extra Large Brown
+name_no_color: Brown
+name_no_size: Extra Large Brown
+name_no_size_short: Extra Large Brown
+name_no_type: T Shirt Extra Large Brown
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: t_shirt
+oomlout_detail_hierarchy_3_upper: T_SHIRT
+oomlout_detail_hierarchy_3_upper_length_4: T_SH
+oomlout_detail_hierarchy_4: extra_large
+oomlout_detail_hierarchy_4_upper: EXTRA_LARGE
+oomlout_detail_hierarchy_4_upper_length_4: EXTR
+oomlout_detail_hierarchy_5: brown
+oomlout_detail_hierarchy_5_upper: BROWN
+oomlout_detail_hierarchy_5_upper_length_4: BROW
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_t_shirt_extra_large_brown
+oomp_word: bug cat ocean
+oomp_word_emoji: ':bug: :cat: :ocean:'
+oomp_word_emoji_list:
+- ':bug:'
+- ':cat:'
+- ':ocean:'
+oomp_word_list:
+- bug
+- cat
+- ocean
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: t_
+size_length_3: t_s
+size_length_4: t_sh
+size_length_5: t_shi
+size_length_6: t_shir
+size_name: T Shirt
+size_no_space_length_1: t
+size_no_space_length_2: ts
+size_no_space_length_3: tsh
+size_no_space_length_4: tshi
+size_no_space_length_5: tshir
+size_no_space_length_6: tshirt
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TS
+size_no_space_upper_length_3: TSH
+size_no_space_upper_length_4: TSHI
+size_no_space_upper_length_5: TSHIR
+size_no_space_upper_length_6: TSHIRT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+size_upper_length_1: T
+size_upper_length_2: T_
+size_upper_length_3: T_S
+size_upper_length_4: T_SH
+size_upper_length_5: T_SHI
+size_upper_length_6: T_SHIR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

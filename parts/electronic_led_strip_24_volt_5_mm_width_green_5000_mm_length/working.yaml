@@ -1,0 +1,301 @@
+bip_39_word_dash_12: vast-provide-lottery-damage-state-hunt-pitch-country-cash-shift-amount-adjust
+bip_39_word_dash_2: vast-provide
+bip_39_word_dash_3: vast-provide-lottery
+bip_39_word_new_br_12: vast<br>provide<br>lottery<br>damage<br>state<br>hunt<br>pitch<br>country<br>cash<br>shift<br>amount<br>adjust
+bip_39_word_new_br_2: vast<br>provide
+bip_39_word_new_br_3: vast<br>provide<br>lottery
+bip_39_word_new_line_12: 'vast
+
+  provide
+
+  lottery
+
+  damage
+
+  state
+
+  hunt
+
+  pitch
+
+  country
+
+  cash
+
+  shift
+
+  amount
+
+  adjust'
+bip_39_word_new_line_2: 'vast
+
+  provide'
+bip_39_word_new_line_3: 'vast
+
+  provide
+
+  lottery'
+bip_39_word_no_space_12: vastprovidelotterydamagestatehuntpitchcountrycashshiftamountadjust
+bip_39_word_no_space_2: vastprovide
+bip_39_word_no_space_3: vastprovidelottery
+bip_39_word_space_12: vast provide lottery damage state hunt pitch country cash shift
+  amount adjust
+bip_39_word_space_2: vast provide
+bip_39_word_space_3: vast provide lottery
+bip_39_word_underscore_12: vast_provide_lottery_damage_state_hunt_pitch_country_cash_shift_amount_adjust
+bip_39_word_underscore_2: vast_provide
+bip_39_word_underscore_3: vast_provide_lottery
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_length_1: g
+color_length_2: gr
+color_length_3: gre
+color_length_4: gree
+color_length_5: green
+color_length_6: green
+color_name: Green
+color_no_space_length_1: g
+color_no_space_length_2: gr
+color_no_space_length_3: gre
+color_no_space_length_4: gree
+color_no_space_length_5: green
+color_no_space_length_6: green
+color_no_space_upper_length_1: G
+color_no_space_upper_length_2: GR
+color_no_space_upper_length_3: GRE
+color_no_space_upper_length_4: GREE
+color_no_space_upper_length_5: GREEN
+color_no_space_upper_length_6: GREEN
+color_upper: GREEN
+color_upper_length_1: G
+color_upper_length_2: GR
+color_upper_length_3: GRE
+color_upper_length_4: GREE
+color_upper_length_5: GREEN
+color_upper_length_6: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 5000_mm_length
+description_main_capital: 5000 mm Length
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '50'
+description_main_length_3: '500'
+description_main_length_4: '5000'
+description_main_length_5: '5000_'
+description_main_length_6: 5000_m
+description_main_name: 5000 mm Length
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: '50'
+description_main_no_space_length_3: '500'
+description_main_no_space_length_4: '5000'
+description_main_no_space_length_5: 5000m
+description_main_no_space_length_6: 5000mm
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: '50'
+description_main_no_space_upper_length_3: '500'
+description_main_no_space_upper_length_4: '5000'
+description_main_no_space_upper_length_5: 5000M
+description_main_no_space_upper_length_6: 5000MM
+description_main_upper: 5000_MM_LENGTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '50'
+description_main_upper_length_3: '500'
+description_main_upper_length_4: '5000'
+description_main_upper_length_5: '5000_'
+description_main_upper_length_6: 5000_M
+description_only_numbers: '5000'
+description_only_numbers_short: 5k
+description_or_color: G5k
+description_or_color_upper: G5K
+directory: parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+id: electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+id_no_class: led_strip_24_volt_5_mm_width_green_5000_mm_length
+id_no_color: 5000_mm_length
+id_no_size: green_5000_mm_length
+id_no_type: strip_24_volt_5_mm_width_green_5000_mm_length
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+link_2_name: link_github
+link_3: https://www.aliexpress.com/item/1005007532172895.html
+link_3_name: link_distributor_aliexpress
+link_buy_1: https://www.aliexpress.com/item/1005007532172895.html
+link_buy_1_name: link_distributor_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2026r01
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2026r01
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2026r01
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2026r01
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length](none)<br>[lg](none)<br>[Electronic
+  Led Strip 24 Volt 5 Mm Width Green 5000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length](none)<br><br>'
+md5: 381031711a3114b1bdea6371082b3f8d
+md5_10: 381031711a
+md5_10_upper: 381031711A
+md5_5: '38103'
+md5_5_upper: '38103'
+md5_6: '381031'
+md5_6_alpha: 26r01
+md5_6_alpha_upper: 26R01
+md5_6_upper: '381031'
+name: Electronic LED Strip 24 Volt 5 mm Width Green 5000 mm Length
+name_no_class: LED Strip 24 Volt 5 mm Width Green 5000 mm Length
+name_no_color: 5000 mm Length
+name_no_size: Green 5000 mm Length
+name_no_size_short: Green 5k Mm Length
+name_no_type: Strip 24 Volt 5 mm Width Green 5000 mm Length
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: led
+oomlout_detail_hierarchy_2_upper: LED
+oomlout_detail_hierarchy_2_upper_length_4: LED
+oomlout_detail_hierarchy_3: 5_mm_width
+oomlout_detail_hierarchy_3_upper: 5_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 5WID
+oomlout_detail_hierarchy_4: green
+oomlout_detail_hierarchy_4_upper: GREEN
+oomlout_detail_hierarchy_4_upper_length_4: GREE
+oomlout_detail_hierarchy_5: 5000_mm_length
+oomlout_detail_hierarchy_5_upper: 5000_MM_LENGTH
+oomlout_detail_hierarchy_5_upper_length_4: '5000'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_led_strip_24_volt_5_mm_width_green_5000_mm_length
+oomp_word: frog star ocean
+oomp_word_emoji: ':frog: :star: :ocean:'
+oomp_word_emoji_list:
+- ':frog:'
+- ':star:'
+- ':ocean:'
+oomp_word_list:
+- frog
+- star
+- ocean
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: lg
+short_code_upper: LG
+short_name: Strip 24 Volt 5 Mm Width Green5000 Mm Length Led
+size: strip_24_volt_5_mm_width
+size_capital: Strip 24 Volt 5 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: str
+size_length_4: stri
+size_length_5: strip
+size_length_6: strip_
+size_name: Strip 24 Volt 5 mm Width
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: str
+size_no_space_length_4: stri
+size_no_space_length_5: strip
+size_no_space_length_6: strip2
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STR
+size_no_space_upper_length_4: STRI
+size_no_space_upper_length_5: STRIP
+size_no_space_upper_length_6: STRIP2
+size_only_numbers: '245'
+size_only_numbers_no_zeros: '245'
+size_upper: STRIP_24_VOLT_5_MM_WIDTH
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STR
+size_upper_length_4: STRI
+size_upper_length_5: STRIP
+size_upper_length_6: STRIP_
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_length_1: l
+type_length_2: le
+type_length_3: led
+type_length_4: led
+type_length_5: led
+type_length_6: led
+type_name: LED
+type_no_space_length_1: l
+type_no_space_length_2: le
+type_no_space_length_3: led
+type_no_space_length_4: led
+type_no_space_length_5: led
+type_no_space_length_6: led
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LE
+type_no_space_upper_length_3: LED
+type_no_space_upper_length_4: LED
+type_no_space_upper_length_5: LED
+type_no_space_upper_length_6: LED
+type_upper: LED
+type_upper_length_1: L
+type_upper_length_2: LE
+type_upper_length_3: LED
+type_upper_length_4: LED
+type_upper_length_5: LED
+type_upper_length_6: LED

@@ -1,0 +1,297 @@
+bip_39_word_dash_12: coin-equal-clay-diet-shuffle-top-rely-bless-diesel-series-mistake-adapt
+bip_39_word_dash_2: coin-equal
+bip_39_word_dash_3: coin-equal-clay
+bip_39_word_new_br_12: coin<br>equal<br>clay<br>diet<br>shuffle<br>top<br>rely<br>bless<br>diesel<br>series<br>mistake<br>adapt
+bip_39_word_new_br_2: coin<br>equal
+bip_39_word_new_br_3: coin<br>equal<br>clay
+bip_39_word_new_line_12: 'coin
+
+  equal
+
+  clay
+
+  diet
+
+  shuffle
+
+  top
+
+  rely
+
+  bless
+
+  diesel
+
+  series
+
+  mistake
+
+  adapt'
+bip_39_word_new_line_2: 'coin
+
+  equal'
+bip_39_word_new_line_3: 'coin
+
+  equal
+
+  clay'
+bip_39_word_no_space_12: coinequalclaydietshuffletoprelyblessdieselseriesmistakeadapt
+bip_39_word_no_space_2: coinequal
+bip_39_word_no_space_3: coinequalclay
+bip_39_word_space_12: coin equal clay diet shuffle top rely bless diesel series mistake
+  adapt
+bip_39_word_space_2: coin equal
+bip_39_word_space_3: coin equal clay
+bip_39_word_underscore_12: coin_equal_clay_diet_shuffle_top_rely_bless_diesel_series_mistake_adapt
+bip_39_word_underscore_2: coin_equal
+bip_39_word_underscore_3: coin_equal_clay
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: quarter_watt_through_hole
+color_capital: Quarter Watt Through Hole
+color_first_letter: q
+color_first_letter_upper: Q
+color_length_1: q
+color_length_2: qu
+color_length_3: qua
+color_length_4: quar
+color_length_5: quart
+color_length_6: quarte
+color_name: Quarter Watt Through Hole
+color_no_space_length_1: q
+color_no_space_length_2: qu
+color_no_space_length_3: qua
+color_no_space_length_4: quar
+color_no_space_length_5: quart
+color_no_space_length_6: quarte
+color_no_space_upper_length_1: Q
+color_no_space_upper_length_2: QU
+color_no_space_upper_length_3: QUA
+color_no_space_upper_length_4: QUAR
+color_no_space_upper_length_5: QUART
+color_no_space_upper_length_6: QUARTE
+color_upper: QUARTER_WATT_THROUGH_HOLE
+color_upper_length_1: Q
+color_upper_length_2: QU
+color_upper_length_3: QUA
+color_upper_length_4: QUAR
+color_upper_length_5: QUART
+color_upper_length_6: QUARTE
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
+description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Q '
+description_or_color_upper: 'Q '
+directory: parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+id: category_electronic_resistor_quarter_watt_through_hole_to_sort
+id_no_class: electronic_resistor_quarter_watt_through_hole_to_sort
+id_no_color: to_sort
+id_no_size: quarter_watt_through_hole_to_sort
+id_no_type: resistor_quarter_watt_through_hole_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201wzch
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201wzch
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201wzch
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201wzch
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_resistor_quarter_watt_through_hole_to_sort](none)<br>[](none)<br>[Category
+  Electronic Resistor Quarter Watt Through Hole To Sort](none)<br><br>'
+markdown_short: '[category_electronic_resistor_quarter_watt_through_hole_to_sort](none)<br><br>'
+md5: 311bf101ec17b6af93e3b3da5453016b
+md5_10: 311bf101ec
+md5_10_upper: 311BF101EC
+md5_5: 311bf
+md5_5_upper: 311BF
+md5_6: 311bf1
+md5_6_alpha: 1wzch
+md5_6_alpha_upper: 1WZCH
+md5_6_upper: 311BF1
+name: Category Electronic Resistor Quarter Watt Through Hole To Sort
+name_no_class: Electronic Resistor Quarter Watt Through Hole To Sort
+name_no_color: To Sort
+name_no_size: Quarter Watt Through Hole To Sort
+name_no_size_short: Quarter Watt Through Hole To Sort
+name_no_type: Resistor Quarter Watt Through Hole To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: resistor
+oomlout_detail_hierarchy_3_upper: RESISTOR
+oomlout_detail_hierarchy_3_upper_length_4: RESI
+oomlout_detail_hierarchy_4: quarter_watt_through_hole
+oomlout_detail_hierarchy_4_upper: QUARTER_WATT_THROUGH_HOLE
+oomlout_detail_hierarchy_4_upper_length_4: QUAR
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_electronic_resistor_quarter_watt_through_hole_to_sort
+oomp_word: ocean muscle ticket
+oomp_word_emoji: ':ocean: :muscle: :ticket:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':muscle:'
+- ':ticket:'
+oomp_word_list:
+- ocean
+- muscle
+- ticket
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: resistor
+size_capital: Resistor
+size_first_letter: r
+size_first_letter_upper: R
+size_length_1: r
+size_length_2: re
+size_length_3: res
+size_length_4: resi
+size_length_5: resis
+size_length_6: resist
+size_name: Resistor
+size_no_space_length_1: r
+size_no_space_length_2: re
+size_no_space_length_3: res
+size_no_space_length_4: resi
+size_no_space_length_5: resis
+size_no_space_length_6: resist
+size_no_space_upper_length_1: R
+size_no_space_upper_length_2: RE
+size_no_space_upper_length_3: RES
+size_no_space_upper_length_4: RESI
+size_no_space_upper_length_5: RESIS
+size_no_space_upper_length_6: RESIST
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RESISTOR
+size_upper_length_1: R
+size_upper_length_2: RE
+size_upper_length_3: RES
+size_upper_length_4: RESI
+size_upper_length_5: RESIS
+size_upper_length_6: RESIST
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

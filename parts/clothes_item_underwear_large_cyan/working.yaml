@@ -1,0 +1,294 @@
+bip_39_word_dash_12: view-soldier-dignity-antenna-bar-design-modify-invest-approve-toddler-cushion-approve
+bip_39_word_dash_2: view-soldier
+bip_39_word_dash_3: view-soldier-dignity
+bip_39_word_new_br_12: view<br>soldier<br>dignity<br>antenna<br>bar<br>design<br>modify<br>invest<br>approve<br>toddler<br>cushion<br>approve
+bip_39_word_new_br_2: view<br>soldier
+bip_39_word_new_br_3: view<br>soldier<br>dignity
+bip_39_word_new_line_12: 'view
+
+  soldier
+
+  dignity
+
+  antenna
+
+  bar
+
+  design
+
+  modify
+
+  invest
+
+  approve
+
+  toddler
+
+  cushion
+
+  approve'
+bip_39_word_new_line_2: 'view
+
+  soldier'
+bip_39_word_new_line_3: 'view
+
+  soldier
+
+  dignity'
+bip_39_word_no_space_12: viewsoldierdignityantennabardesignmodifyinvestapprovetoddlercushionapprove
+bip_39_word_no_space_2: viewsoldier
+bip_39_word_no_space_3: viewsoldierdignity
+bip_39_word_space_12: view soldier dignity antenna bar design modify invest approve
+  toddler cushion approve
+bip_39_word_space_2: view soldier
+bip_39_word_space_3: view soldier dignity
+bip_39_word_underscore_12: view_soldier_dignity_antenna_bar_design_modify_invest_approve_toddler_cushion_approve
+bip_39_word_underscore_2: view_soldier
+bip_39_word_underscore_3: view_soldier_dignity
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_length_1: l
+color_length_2: la
+color_length_3: lar
+color_length_4: larg
+color_length_5: large
+color_length_6: large
+color_name: Large
+color_no_space_length_1: l
+color_no_space_length_2: la
+color_no_space_length_3: lar
+color_no_space_length_4: larg
+color_no_space_length_5: large
+color_no_space_length_6: large
+color_no_space_upper_length_1: L
+color_no_space_upper_length_2: LA
+color_no_space_upper_length_3: LAR
+color_no_space_upper_length_4: LARG
+color_no_space_upper_length_5: LARGE
+color_no_space_upper_length_6: LARGE
+color_upper: LARGE
+color_upper_length_1: L
+color_upper_length_2: LA
+color_upper_length_3: LAR
+color_upper_length_4: LARG
+color_upper_length_5: LARGE
+color_upper_length_6: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: cyan
+description_main_capital: Cyan
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: cy
+description_main_length_3: cya
+description_main_length_4: cyan
+description_main_length_5: cyan
+description_main_length_6: cyan
+description_main_name: Cyan
+description_main_no_space_length_1: c
+description_main_no_space_length_2: cy
+description_main_no_space_length_3: cya
+description_main_no_space_length_4: cyan
+description_main_no_space_length_5: cyan
+description_main_no_space_length_6: cyan
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CY
+description_main_no_space_upper_length_3: CYA
+description_main_no_space_upper_length_4: CYAN
+description_main_no_space_upper_length_5: CYAN
+description_main_no_space_upper_length_6: CYAN
+description_main_upper: CYAN
+description_main_upper_length_1: C
+description_main_upper_length_2: CY
+description_main_upper_length_3: CYA
+description_main_upper_length_4: CYAN
+description_main_upper_length_5: CYAN
+description_main_upper_length_6: CYAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_underwear_large_cyan
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_underwear_large_cyan
+id: clothes_item_underwear_large_cyan
+id_no_class: item_underwear_large_cyan
+id_no_color: cyan
+id_no_size: large_cyan
+id_no_type: underwear_large_cyan
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_large_cyan
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_large_cyan
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_large_cyan
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_large_cyan
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206q77c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206q77c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206q77c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206q77c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_large_cyan
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_underwear_large_cyan](none)<br>[](none)<br>[Clothes
+  Item Underwear Large Cyan](none)<br><br>'
+markdown_short: '[clothes_item_underwear_large_cyan](none)<br><br>'
+md5: ac6cf8d85675f1d4ef09309c7c33a79f
+md5_10: ac6cf8d856
+md5_10_upper: AC6CF8D856
+md5_5: ac6cf
+md5_5_upper: AC6CF
+md5_6: ac6cf8
+md5_6_alpha: 6q77c
+md5_6_alpha_upper: 6Q77C
+md5_6_upper: AC6CF8
+name: Clothes Item Underwear Large Cyan
+name_no_class: Item Underwear Large Cyan
+name_no_color: Cyan
+name_no_size: Large Cyan
+name_no_size_short: Large Cyan
+name_no_type: Underwear Large Cyan
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: underwear
+oomlout_detail_hierarchy_3_upper: UNDERWEAR
+oomlout_detail_hierarchy_3_upper_length_4: UNDE
+oomlout_detail_hierarchy_4: large
+oomlout_detail_hierarchy_4_upper: LARGE
+oomlout_detail_hierarchy_4_upper_length_4: LARG
+oomlout_detail_hierarchy_5: cyan
+oomlout_detail_hierarchy_5_upper: CYAN
+oomlout_detail_hierarchy_5_upper_length_4: CYAN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_underwear_large_cyan
+oomp_word: shirt blossom seven
+oomp_word_emoji: ':shirt: :blossom: :seven:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':blossom:'
+- ':seven:'
+oomp_word_list:
+- shirt
+- blossom
+- seven
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: underwear
+size_capital: Underwear
+size_first_letter: u
+size_first_letter_upper: U
+size_length_1: u
+size_length_2: un
+size_length_3: und
+size_length_4: unde
+size_length_5: under
+size_length_6: underw
+size_name: Underwear
+size_no_space_length_1: u
+size_no_space_length_2: un
+size_no_space_length_3: und
+size_no_space_length_4: unde
+size_no_space_length_5: under
+size_no_space_length_6: underw
+size_no_space_upper_length_1: U
+size_no_space_upper_length_2: UN
+size_no_space_upper_length_3: UND
+size_no_space_upper_length_4: UNDE
+size_no_space_upper_length_5: UNDER
+size_no_space_upper_length_6: UNDERW
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: UNDERWEAR
+size_upper_length_1: U
+size_upper_length_2: UN
+size_upper_length_3: UND
+size_upper_length_4: UNDE
+size_upper_length_5: UNDER
+size_upper_length_6: UNDERW
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

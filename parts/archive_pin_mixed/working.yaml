@@ -1,0 +1,237 @@
+bip_39_word_dash_12: tribe-witness-kidney-start-cannon-fragile-hand-special-final-scan-bean-autumn
+bip_39_word_dash_2: tribe-witness
+bip_39_word_dash_3: tribe-witness-kidney
+bip_39_word_new_br_12: tribe<br>witness<br>kidney<br>start<br>cannon<br>fragile<br>hand<br>special<br>final<br>scan<br>bean<br>autumn
+bip_39_word_new_br_2: tribe<br>witness
+bip_39_word_new_br_3: tribe<br>witness<br>kidney
+bip_39_word_new_line_12: 'tribe
+
+  witness
+
+  kidney
+
+  start
+
+  cannon
+
+  fragile
+
+  hand
+
+  special
+
+  final
+
+  scan
+
+  bean
+
+  autumn'
+bip_39_word_new_line_2: 'tribe
+
+  witness'
+bip_39_word_new_line_3: 'tribe
+
+  witness
+
+  kidney'
+bip_39_word_no_space_12: tribewitnesskidneystartcannonfragilehandspecialfinalscanbeanautumn
+bip_39_word_no_space_2: tribewitness
+bip_39_word_no_space_3: tribewitnesskidney
+bip_39_word_space_12: tribe witness kidney start cannon fragile hand special final
+  scan bean autumn
+bip_39_word_space_2: tribe witness
+bip_39_word_space_3: tribe witness kidney
+bip_39_word_underscore_12: tribe_witness_kidney_start_cannon_fragile_hand_special_final_scan_bean_autumn
+bip_39_word_underscore_2: tribe_witness
+bip_39_word_underscore_3: tribe_witness_kidney
+classification: archive
+classification_capital: Archive
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_length_1: a
+classification_length_2: ar
+classification_length_3: arc
+classification_length_4: arch
+classification_length_5: archi
+classification_length_6: archiv
+classification_name: Archive
+classification_no_space_length_1: a
+classification_no_space_length_2: ar
+classification_no_space_length_3: arc
+classification_no_space_length_4: arch
+classification_no_space_length_5: archi
+classification_no_space_length_6: archiv
+classification_no_space_upper_length_1: A
+classification_no_space_upper_length_2: AR
+classification_no_space_upper_length_3: ARC
+classification_no_space_upper_length_4: ARCH
+classification_no_space_upper_length_5: ARCHI
+classification_no_space_upper_length_6: ARCHIV
+classification_upper: ARCHIVE
+classification_upper_length_1: A
+classification_upper_length_2: AR
+classification_upper_length_3: ARC
+classification_upper_length_4: ARCH
+classification_upper_length_5: ARCHI
+classification_upper_length_6: ARCHIV
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
+description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/archive_pin_mixed
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/archive_pin_mixed
+id: archive_pin_mixed
+id_no_class: pin_mixed
+id_no_color: mixed
+id_no_size: mixed
+id_no_type: mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209rdps
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209rdps
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209rdps
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209rdps
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[archive_pin_mixed](none)<br>[](none)<br>[Archive Pin Mixed](none)<br><br>'
+markdown_short: '[archive_pin_mixed](none)<br><br>'
+md5: fa27300ab4d0ed197190bd4af4ff2f42
+md5_10: fa27300ab4
+md5_10_upper: FA27300AB4
+md5_5: fa273
+md5_5_upper: FA273
+md5_6: fa2730
+md5_6_alpha: 9rdps
+md5_6_alpha_upper: 9RDPS
+md5_6_upper: FA2730
+name: Archive Pin Mixed
+name_no_class: Pin Mixed
+name_no_color: Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomlout_detail_hierarchy_1: archive
+oomlout_detail_hierarchy_1_upper: ARCHIVE
+oomlout_detail_hierarchy_1_upper_length_4: ARCH
+oomlout_detail_hierarchy_2: pin
+oomlout_detail_hierarchy_2_upper: PIN
+oomlout_detail_hierarchy_2_upper_length_4: PIN
+oomlout_detail_hierarchy_3: mixed
+oomlout_detail_hierarchy_3_upper: MIXED
+oomlout_detail_hierarchy_3_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_archive_pin_mixed
+oomp_word: nine nose foggy
+oomp_word_emoji: ':nine: :nose: :foggy:'
+oomp_word_emoji_list:
+- ':nine:'
+- ':nose:'
+- ':foggy:'
+oomp_word_list:
+- nine
+- nose
+- foggy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pin
+type_capital: Pin
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pi
+type_length_3: pin
+type_length_4: pin
+type_length_5: pin
+type_length_6: pin
+type_name: Pin
+type_no_space_length_1: p
+type_no_space_length_2: pi
+type_no_space_length_3: pin
+type_no_space_length_4: pin
+type_no_space_length_5: pin
+type_no_space_length_6: pin
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PI
+type_no_space_upper_length_3: PIN
+type_no_space_upper_length_4: PIN
+type_no_space_upper_length_5: PIN
+type_no_space_upper_length_6: PIN
+type_upper: PIN
+type_upper_length_1: P
+type_upper_length_2: PI
+type_upper_length_3: PIN
+type_upper_length_4: PIN
+type_upper_length_5: PIN
+type_upper_length_6: PIN

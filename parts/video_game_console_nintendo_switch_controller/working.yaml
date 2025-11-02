@@ -1,0 +1,238 @@
+bip_39_word_dash_12: assume-chase-much-pave-caution-plastic-supply-myth-fly-camera-umbrella-arrive
+bip_39_word_dash_2: assume-chase
+bip_39_word_dash_3: assume-chase-much
+bip_39_word_new_br_12: assume<br>chase<br>much<br>pave<br>caution<br>plastic<br>supply<br>myth<br>fly<br>camera<br>umbrella<br>arrive
+bip_39_word_new_br_2: assume<br>chase
+bip_39_word_new_br_3: assume<br>chase<br>much
+bip_39_word_new_line_12: 'assume
+
+  chase
+
+  much
+
+  pave
+
+  caution
+
+  plastic
+
+  supply
+
+  myth
+
+  fly
+
+  camera
+
+  umbrella
+
+  arrive'
+bip_39_word_new_line_2: 'assume
+
+  chase'
+bip_39_word_new_line_3: 'assume
+
+  chase
+
+  much'
+bip_39_word_no_space_12: assumechasemuchpavecautionplasticsupplymythflycameraumbrellaarrive
+bip_39_word_no_space_2: assumechase
+bip_39_word_no_space_3: assumechasemuch
+bip_39_word_space_12: assume chase much pave caution plastic supply myth fly camera
+  umbrella arrive
+bip_39_word_space_2: assume chase
+bip_39_word_space_3: assume chase much
+bip_39_word_underscore_12: assume_chase_much_pave_caution_plastic_supply_myth_fly_camera_umbrella_arrive
+bip_39_word_underscore_2: assume_chase
+bip_39_word_underscore_3: assume_chase_much
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vid
+classification_length_4: vide
+classification_length_5: video
+classification_length_6: video_
+classification_name: Video Game Console
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vid
+classification_no_space_length_4: vide
+classification_no_space_length_5: video
+classification_no_space_length_6: videog
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VID
+classification_no_space_upper_length_4: VIDE
+classification_no_space_upper_length_5: VIDEO
+classification_no_space_upper_length_6: VIDEOG
+classification_upper: VIDEO_GAME_CONSOLE
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VID
+classification_upper_length_4: VIDE
+classification_upper_length_5: VIDEO
+classification_upper_length_6: VIDEO_
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: co
+description_main_length_3: con
+description_main_length_4: cont
+description_main_length_5: contr
+description_main_length_6: contro
+description_main_name: Controller
+description_main_no_space_length_1: c
+description_main_no_space_length_2: co
+description_main_no_space_length_3: con
+description_main_no_space_length_4: cont
+description_main_no_space_length_5: contr
+description_main_no_space_length_6: contro
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CO
+description_main_no_space_upper_length_3: CON
+description_main_no_space_upper_length_4: CONT
+description_main_no_space_upper_length_5: CONTR
+description_main_no_space_upper_length_6: CONTRO
+description_main_upper: CONTROLLER
+description_main_upper_length_1: C
+description_main_upper_length_2: CO
+description_main_upper_length_3: CON
+description_main_upper_length_4: CONT
+description_main_upper_length_5: CONTR
+description_main_upper_length_6: CONTRO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_nintendo_switch_controller
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/video_game_console_nintendo_switch_controller
+id: video_game_console_nintendo_switch_controller
+id_no_class: nintendo_switch_controller
+id_no_color: controller
+id_no_size: controller
+id_no_type: controller
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207vivc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207vivc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207vivc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207vivc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_nintendo_switch_controller](none)<br>[](none)<br>[Video
+  Game Console Nintendo Switch Controller](none)<br><br>'
+markdown_short: '[video_game_console_nintendo_switch_controller](none)<br><br>'
+md5: c9d8482acf929b3a98125a192209a86f
+md5_10: c9d8482acf
+md5_10_upper: C9D8482ACF
+md5_5: c9d84
+md5_5_upper: C9D84
+md5_6: c9d848
+md5_6_alpha: 7vivc
+md5_6_alpha_upper: 7VIVC
+md5_6_upper: C9D848
+name: Video Game Console Nintendo Switch Controller
+name_no_class: Nintendo Switch Controller
+name_no_color: Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Controller
+oomlout_detail_hierarchy_1: video_game_console
+oomlout_detail_hierarchy_1_upper: VIDEO_GAME_CONSOLE
+oomlout_detail_hierarchy_1_upper_length_4: VIDE
+oomlout_detail_hierarchy_2: nintendo_switch
+oomlout_detail_hierarchy_2_upper: NINTENDO_SWITCH
+oomlout_detail_hierarchy_2_upper_length_4: NINT
+oomlout_detail_hierarchy_3: controller
+oomlout_detail_hierarchy_3_upper: CONTROLLER
+oomlout_detail_hierarchy_3_upper_length_4: CONT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_video_game_console_nintendo_switch_controller
+oomp_word: lemon hospital hatched_chick
+oomp_word_emoji: ':lemon: :hospital: :hatched_chick:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':hospital:'
+- ':hatched_chick:'
+oomp_word_list:
+- lemon
+- hospital
+- hatched_chick
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: nintendo_switch
+type_capital: Nintendo Switch
+type_first_letter: n
+type_first_letter_upper: N
+type_length_1: n
+type_length_2: ni
+type_length_3: nin
+type_length_4: nint
+type_length_5: ninte
+type_length_6: ninten
+type_name: Nintendo Switch
+type_no_space_length_1: n
+type_no_space_length_2: ni
+type_no_space_length_3: nin
+type_no_space_length_4: nint
+type_no_space_length_5: ninte
+type_no_space_length_6: ninten
+type_no_space_upper_length_1: N
+type_no_space_upper_length_2: NI
+type_no_space_upper_length_3: NIN
+type_no_space_upper_length_4: NINT
+type_no_space_upper_length_5: NINTE
+type_no_space_upper_length_6: NINTEN
+type_upper: NINTENDO_SWITCH
+type_upper_length_1: N
+type_upper_length_2: NI
+type_upper_length_3: NIN
+type_upper_length_4: NINT
+type_upper_length_5: NINTE
+type_upper_length_6: NINTEN

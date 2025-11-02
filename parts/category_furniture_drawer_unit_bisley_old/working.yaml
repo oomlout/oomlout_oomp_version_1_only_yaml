@@ -1,0 +1,297 @@
+bip_39_word_dash_12: raw-kangaroo-deliver-tiger-luggage-brick-plug-offer-rocket-success-harvest-art
+bip_39_word_dash_2: raw-kangaroo
+bip_39_word_dash_3: raw-kangaroo-deliver
+bip_39_word_new_br_12: raw<br>kangaroo<br>deliver<br>tiger<br>luggage<br>brick<br>plug<br>offer<br>rocket<br>success<br>harvest<br>art
+bip_39_word_new_br_2: raw<br>kangaroo
+bip_39_word_new_br_3: raw<br>kangaroo<br>deliver
+bip_39_word_new_line_12: 'raw
+
+  kangaroo
+
+  deliver
+
+  tiger
+
+  luggage
+
+  brick
+
+  plug
+
+  offer
+
+  rocket
+
+  success
+
+  harvest
+
+  art'
+bip_39_word_new_line_2: 'raw
+
+  kangaroo'
+bip_39_word_new_line_3: 'raw
+
+  kangaroo
+
+  deliver'
+bip_39_word_no_space_12: rawkangaroodelivertigerluggagebrickplugofferrocketsuccessharvestart
+bip_39_word_no_space_2: rawkangaroo
+bip_39_word_no_space_3: rawkangaroodeliver
+bip_39_word_space_12: raw kangaroo deliver tiger luggage brick plug offer rocket success
+  harvest art
+bip_39_word_space_2: raw kangaroo
+bip_39_word_space_3: raw kangaroo deliver
+bip_39_word_underscore_12: raw_kangaroo_deliver_tiger_luggage_brick_plug_offer_rocket_success_harvest_art
+bip_39_word_underscore_2: raw_kangaroo
+bip_39_word_underscore_3: raw_kangaroo_deliver
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: bisley
+color_capital: Bisley
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bi
+color_length_3: bis
+color_length_4: bisl
+color_length_5: bisle
+color_length_6: bisley
+color_name: Bisley
+color_no_space_length_1: b
+color_no_space_length_2: bi
+color_no_space_length_3: bis
+color_no_space_length_4: bisl
+color_no_space_length_5: bisle
+color_no_space_length_6: bisley
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BI
+color_no_space_upper_length_3: BIS
+color_no_space_upper_length_4: BISL
+color_no_space_upper_length_5: BISLE
+color_no_space_upper_length_6: BISLEY
+color_upper: BISLEY
+color_upper_length_1: B
+color_upper_length_2: BI
+color_upper_length_3: BIS
+color_upper_length_4: BISL
+color_upper_length_5: BISLE
+color_upper_length_6: BISLEY
+description: category_furniture
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_furniture_drawer_unit_bisley_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_furniture_drawer_unit_bisley_old
+id: category_furniture_drawer_unit_bisley_old
+id_no_class: furniture_drawer_unit_bisley_old
+id_no_color: old
+id_no_size: bisley_old
+id_no_type: drawer_unit_bisley_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_drawer_unit_bisley_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_drawer_unit_bisley_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_drawer_unit_bisley_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_drawer_unit_bisley_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207zpiu
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207zpiu
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207zpiu
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207zpiu
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_drawer_unit_bisley_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_drawer_unit_bisley_old](none)<br>[](none)<br>[Category
+  Furniture Drawer Unit Bisley Old](none)<br><br>'
+markdown_short: '[category_furniture_drawer_unit_bisley_old](none)<br><br>'
+md5: ccd2f615db9974d86ec26e1e741e6594
+md5_10: ccd2f615db
+md5_10_upper: CCD2F615DB
+md5_5: ccd2f
+md5_5_upper: CCD2F
+md5_6: ccd2f6
+md5_6_alpha: 7zpiu
+md5_6_alpha_upper: 7ZPIU
+md5_6_upper: CCD2F6
+name: Category Furniture Drawer Unit Bisley Old
+name_no_class: Furniture Drawer Unit Bisley Old
+name_no_color: Old
+name_no_size: Bisley Old
+name_no_size_short: Bisley Old
+name_no_type: Drawer Unit Bisley Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: furniture
+oomlout_detail_hierarchy_2_upper: FURNITURE
+oomlout_detail_hierarchy_2_upper_length_4: FURN
+oomlout_detail_hierarchy_3: drawer_unit
+oomlout_detail_hierarchy_3_upper: DRAWER_UNIT
+oomlout_detail_hierarchy_3_upper_length_4: DRAW
+oomlout_detail_hierarchy_4: bisley
+oomlout_detail_hierarchy_4_upper: BISLEY
+oomlout_detail_hierarchy_4_upper_length_4: BISL
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_furniture_drawer_unit_bisley_old
+oomp_word: watermelon pineapple five
+oomp_word_emoji: ':watermelon: :pineapple: :five:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':pineapple:'
+- ':five:'
+oomp_word_list:
+- watermelon
+- pineapple
+- five
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: drawer_unit
+size_capital: Drawer Unit
+size_first_letter: d
+size_first_letter_upper: D
+size_length_1: d
+size_length_2: dr
+size_length_3: dra
+size_length_4: draw
+size_length_5: drawe
+size_length_6: drawer
+size_name: Drawer Unit
+size_no_space_length_1: d
+size_no_space_length_2: dr
+size_no_space_length_3: dra
+size_no_space_length_4: draw
+size_no_space_length_5: drawe
+size_no_space_length_6: drawer
+size_no_space_upper_length_1: D
+size_no_space_upper_length_2: DR
+size_no_space_upper_length_3: DRA
+size_no_space_upper_length_4: DRAW
+size_no_space_upper_length_5: DRAWE
+size_no_space_upper_length_6: DRAWER
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRAWER_UNIT
+size_upper_length_1: D
+size_upper_length_2: DR
+size_upper_length_3: DRA
+size_upper_length_4: DRAW
+size_upper_length_5: DRAWE
+size_upper_length_6: DRAWER
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_length_1: f
+type_length_2: fu
+type_length_3: fur
+type_length_4: furn
+type_length_5: furni
+type_length_6: furnit
+type_name: Furniture
+type_no_space_length_1: f
+type_no_space_length_2: fu
+type_no_space_length_3: fur
+type_no_space_length_4: furn
+type_no_space_length_5: furni
+type_no_space_length_6: furnit
+type_no_space_upper_length_1: F
+type_no_space_upper_length_2: FU
+type_no_space_upper_length_3: FUR
+type_no_space_upper_length_4: FURN
+type_no_space_upper_length_5: FURNI
+type_no_space_upper_length_6: FURNIT
+type_upper: FURNITURE
+type_upper_length_1: F
+type_upper_length_2: FU
+type_upper_length_3: FUR
+type_upper_length_4: FURN
+type_upper_length_5: FURNI
+type_upper_length_6: FURNIT

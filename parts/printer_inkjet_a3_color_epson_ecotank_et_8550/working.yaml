@@ -1,0 +1,336 @@
+bip_39_word_dash_12: rent-crawl-lonely-famous-word-zoo-divorce-mesh-solar-timber-cat-admit
+bip_39_word_dash_2: rent-crawl
+bip_39_word_dash_3: rent-crawl-lonely
+bip_39_word_new_br_12: rent<br>crawl<br>lonely<br>famous<br>word<br>zoo<br>divorce<br>mesh<br>solar<br>timber<br>cat<br>admit
+bip_39_word_new_br_2: rent<br>crawl
+bip_39_word_new_br_3: rent<br>crawl<br>lonely
+bip_39_word_new_line_12: 'rent
+
+  crawl
+
+  lonely
+
+  famous
+
+  word
+
+  zoo
+
+  divorce
+
+  mesh
+
+  solar
+
+  timber
+
+  cat
+
+  admit'
+bip_39_word_new_line_2: 'rent
+
+  crawl'
+bip_39_word_new_line_3: 'rent
+
+  crawl
+
+  lonely'
+bip_39_word_no_space_12: rentcrawllonelyfamouswordzoodivorcemeshsolartimbercatadmit
+bip_39_word_no_space_2: rentcrawl
+bip_39_word_no_space_3: rentcrawllonely
+bip_39_word_space_12: rent crawl lonely famous word zoo divorce mesh solar timber
+  cat admit
+bip_39_word_space_2: rent crawl
+bip_39_word_space_3: rent crawl lonely
+bip_39_word_underscore_12: rent_crawl_lonely_famous_word_zoo_divorce_mesh_solar_timber_cat_admit
+bip_39_word_underscore_2: rent_crawl
+bip_39_word_underscore_3: rent_crawl_lonely
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pr
+classification_length_3: pri
+classification_length_4: prin
+classification_length_5: print
+classification_length_6: printe
+classification_name: Printer
+classification_no_space_length_1: p
+classification_no_space_length_2: pr
+classification_no_space_length_3: pri
+classification_no_space_length_4: prin
+classification_no_space_length_5: print
+classification_no_space_length_6: printe
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PR
+classification_no_space_upper_length_3: PRI
+classification_no_space_upper_length_4: PRIN
+classification_no_space_upper_length_5: PRINT
+classification_no_space_upper_length_6: PRINTE
+classification_upper: PRINTER
+classification_upper_length_1: P
+classification_upper_length_2: PR
+classification_upper_length_3: PRI
+classification_upper_length_4: PRIN
+classification_upper_length_5: PRINT
+classification_upper_length_6: PRINTE
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: co
+color_length_3: col
+color_length_4: colo
+color_length_5: color
+color_length_6: color
+color_name: Color
+color_no_space_length_1: c
+color_no_space_length_2: co
+color_no_space_length_3: col
+color_no_space_length_4: colo
+color_no_space_length_5: color
+color_no_space_length_6: color
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CO
+color_no_space_upper_length_3: COL
+color_no_space_upper_length_4: COLO
+color_no_space_upper_length_5: COLOR
+color_no_space_upper_length_6: COLOR
+color_upper: COLOR
+color_upper_length_1: C
+color_upper_length_2: CO
+color_upper_length_3: COL
+color_upper_length_4: COLO
+color_upper_length_5: COLOR
+color_upper_length_6: COLOR
+compatible_ink_bottles:
+- '114'
+description_chat_gpt: A3+ photo 6-colour all-in-one (pigment BK + dye PBK, C, M, Y,
+  Gray).
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+distributors: []
+features:
+- duplex
+- sd_slot
+- touchscreen
+- wifi
+- cd_dvd_print
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+id: printer_inkjet_a3_color_epson_ecotank_et_8550
+id_no_class: inkjet_a3_color_epson_ecotank_et_8550
+id_no_color: epson_ecotank_et_8550
+id_no_size: color_epson_ecotank_et_8550
+id_no_type: a3_color_epson_ecotank_et_8550
+ink_type: mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2029v3s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2029v3s
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2029v3s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2029v3s
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a3_color_epson_ecotank_et_8550
+manufacturer: epson_ecotank
+manufacturer_capital: Epson Ecotank
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: ep
+manufacturer_length_3: eps
+manufacturer_length_4: epso
+manufacturer_length_5: epson
+manufacturer_length_6: epson_
+manufacturer_name: Epson Ecotank
+manufacturer_no_space_length_1: e
+manufacturer_no_space_length_2: ep
+manufacturer_no_space_length_3: eps
+manufacturer_no_space_length_4: epso
+manufacturer_no_space_length_5: epson
+manufacturer_no_space_length_6: epsone
+manufacturer_no_space_upper_length_1: E
+manufacturer_no_space_upper_length_2: EP
+manufacturer_no_space_upper_length_3: EPS
+manufacturer_no_space_upper_length_4: EPSO
+manufacturer_no_space_upper_length_5: EPSON
+manufacturer_no_space_upper_length_6: EPSONE
+manufacturer_upper: EPSON_ECOTANK
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EP
+manufacturer_upper_length_3: EPS
+manufacturer_upper_length_4: EPSO
+manufacturer_upper_length_5: EPSON
+manufacturer_upper_length_6: EPSON_
+manufacturers: []
+markdown_full: '[printer_inkjet_a3_color_epson_ecotank_et_8550](none)<br>[](none)<br>[Printer
+  Inkjet A3 Color Epson Ecotank Et 8550](none)<br><br>'
+markdown_short: '[printer_inkjet_a3_color_epson_ecotank_et_8550](none)<br><br>'
+md5: 3a47b88e738bc803fffeb52b074cadb2
+md5_10: 3a47b88e73
+md5_10_upper: 3A47B88E73
+md5_5: 3a47b
+md5_5_upper: 3A47B
+md5_6: 3a47b8
+md5_6_alpha: 29v3s
+md5_6_alpha_upper: 29V3S
+md5_6_upper: 3A47B8
+name: Printer Inkjet A3 Color Epson Ecotank Et 8550
+name_no_class: Inkjet A3 Color Epson Ecotank Et 8550
+name_no_color: Epson Ecotank Et 8550
+name_no_size: Color Epson Ecotank Et 8550
+name_no_size_short: Color Epson Ecotank Et 8550
+name_no_type: A3 Color Epson Ecotank Et 8550
+nozzle_count_black: 360
+nozzle_count_per_colour: 360
+oomlout_detail_hierarchy_1: printer
+oomlout_detail_hierarchy_1_upper: PRINTER
+oomlout_detail_hierarchy_1_upper_length_4: PRIN
+oomlout_detail_hierarchy_2: inkjet
+oomlout_detail_hierarchy_2_upper: INKJET
+oomlout_detail_hierarchy_2_upper_length_4: INKJ
+oomlout_detail_hierarchy_3: a3
+oomlout_detail_hierarchy_3_upper: A3
+oomlout_detail_hierarchy_3_upper_length_4: A3
+oomlout_detail_hierarchy_4: color
+oomlout_detail_hierarchy_4_upper: COLOR
+oomlout_detail_hierarchy_4_upper_length_4: COLO
+oomlout_detail_hierarchy_5: epson_ecotank
+oomlout_detail_hierarchy_5_upper: EPSON_ECOTANK
+oomlout_detail_hierarchy_5_upper_length_4: EPSO
+oomlout_detail_hierarchy_6: et_8550
+oomlout_detail_hierarchy_6_upper: ET_8550
+oomlout_detail_hierarchy_6_upper_length_4: ET_8
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_printer_inkjet_a3_color_epson_ecotank_et_8550
+oomp_word: koala baby_chick hamburger
+oomp_word_emoji: ':koala: :baby_chick: :hamburger:'
+oomp_word_emoji_list:
+- ':koala:'
+- ':baby_chick:'
+- ':hamburger:'
+oomp_word_list:
+- koala
+- baby_chick
+- hamburger
+original_rrp_gbp: 799.0
+part_number: et_8550
+part_number_capital: Et 8550
+part_number_first_letter: e
+part_number_first_letter_upper: E
+part_number_length_1: e
+part_number_length_2: et
+part_number_length_3: et_
+part_number_length_4: et_8
+part_number_length_5: et_85
+part_number_length_6: et_855
+part_number_name: Et 8550
+part_number_no_space_length_1: e
+part_number_no_space_length_2: et
+part_number_no_space_length_3: et8
+part_number_no_space_length_4: et85
+part_number_no_space_length_5: et855
+part_number_no_space_length_6: et8550
+part_number_no_space_upper_length_1: E
+part_number_no_space_upper_length_2: ET
+part_number_no_space_upper_length_3: ET8
+part_number_no_space_upper_length_4: ET85
+part_number_no_space_upper_length_5: ET855
+part_number_no_space_upper_length_6: ET8550
+part_number_upper: ET_8550
+part_number_upper_length_1: E
+part_number_upper_length_2: ET
+part_number_upper_length_3: ET_
+part_number_upper_length_4: ET_8
+part_number_upper_length_5: ET_85
+part_number_upper_length_6: ET_855
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: EcoTank ET-8550
+size: a3
+size_capital: A3
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a3
+size_length_3: a3
+size_length_4: a3
+size_length_5: a3
+size_length_6: a3
+size_name: A3
+size_no_space_length_1: a
+size_no_space_length_2: a3
+size_no_space_length_3: a3
+size_no_space_length_4: a3
+size_no_space_length_5: a3
+size_no_space_length_6: a3
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A3
+size_no_space_upper_length_3: A3
+size_no_space_upper_length_4: A3
+size_no_space_upper_length_5: A3
+size_no_space_upper_length_6: A3
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: A3
+size_upper_length_1: A
+size_upper_length_2: A3
+size_upper_length_3: A3
+size_upper_length_4: A3
+size_upper_length_5: A3
+size_upper_length_6: A3
+total_colours: 6
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: ink
+type_length_4: inkj
+type_length_5: inkje
+type_length_6: inkjet
+type_name: Inkjet
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: ink
+type_no_space_length_4: inkj
+type_no_space_length_5: inkje
+type_no_space_length_6: inkjet
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INK
+type_no_space_upper_length_4: INKJ
+type_no_space_upper_length_5: INKJE
+type_no_space_upper_length_6: INKJET
+type_upper: INKJET
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INK
+type_upper_length_4: INKJ
+type_upper_length_5: INKJE
+type_upper_length_6: INKJET

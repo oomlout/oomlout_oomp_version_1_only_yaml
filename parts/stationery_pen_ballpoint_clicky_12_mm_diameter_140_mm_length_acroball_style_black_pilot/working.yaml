@@ -1,0 +1,295 @@
+bip_39_word_dash_12: faculty-sleep-absent-put-spin-finish-girl-misery-language-clutch-tackle-annual
+bip_39_word_dash_2: faculty-sleep
+bip_39_word_dash_3: faculty-sleep-absent
+bip_39_word_new_br_12: faculty<br>sleep<br>absent<br>put<br>spin<br>finish<br>girl<br>misery<br>language<br>clutch<br>tackle<br>annual
+bip_39_word_new_br_2: faculty<br>sleep
+bip_39_word_new_br_3: faculty<br>sleep<br>absent
+bip_39_word_new_line_12: 'faculty
+
+  sleep
+
+  absent
+
+  put
+
+  spin
+
+  finish
+
+  girl
+
+  misery
+
+  language
+
+  clutch
+
+  tackle
+
+  annual'
+bip_39_word_new_line_2: 'faculty
+
+  sleep'
+bip_39_word_new_line_3: 'faculty
+
+  sleep
+
+  absent'
+bip_39_word_no_space_12: facultysleepabsentputspinfinishgirlmiserylanguageclutchtackleannual
+bip_39_word_no_space_2: facultysleep
+bip_39_word_no_space_3: facultysleepabsent
+bip_39_word_space_12: faculty sleep absent put spin finish girl misery language clutch
+  tackle annual
+bip_39_word_space_2: faculty sleep
+bip_39_word_space_3: faculty sleep absent
+bip_39_word_underscore_12: faculty_sleep_absent_put_spin_finish_girl_misery_language_clutch_tackle_annual
+bip_39_word_underscore_2: faculty_sleep
+bip_39_word_underscore_3: faculty_sleep_absent
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
+classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_length_1: b
+description_main_length_2: bl
+description_main_length_3: bla
+description_main_length_4: blac
+description_main_length_5: black
+description_main_length_6: black
+description_main_name: Black
+description_main_no_space_length_1: b
+description_main_no_space_length_2: bl
+description_main_no_space_length_3: bla
+description_main_no_space_length_4: blac
+description_main_no_space_length_5: black
+description_main_no_space_length_6: black
+description_main_no_space_upper_length_1: B
+description_main_no_space_upper_length_2: BL
+description_main_no_space_upper_length_3: BLA
+description_main_no_space_upper_length_4: BLAC
+description_main_no_space_upper_length_5: BLACK
+description_main_no_space_upper_length_6: BLACK
+description_main_upper: BLACK
+description_main_upper_length_1: B
+description_main_upper_length_2: BL
+description_main_upper_length_3: BLA
+description_main_upper_length_4: BLAC
+description_main_upper_length_5: BLACK
+description_main_upper_length_6: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+id: stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+id_no_class: pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+id_no_color: blackpilot
+id_no_size: black_pilot
+id_no_type: 12_mm_diameter_140_mm_length_acroball_style_black_pilot
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205x4i3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205x4i3
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205x4i3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205x4i3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+manufacturer: pilot
+manufacturer_capital: Pilot
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_length_1: p
+manufacturer_length_2: pi
+manufacturer_length_3: pil
+manufacturer_length_4: pilo
+manufacturer_length_5: pilot
+manufacturer_length_6: pilot
+manufacturer_name: Pilot
+manufacturer_no_space_length_1: p
+manufacturer_no_space_length_2: pi
+manufacturer_no_space_length_3: pil
+manufacturer_no_space_length_4: pilo
+manufacturer_no_space_length_5: pilot
+manufacturer_no_space_length_6: pilot
+manufacturer_no_space_upper_length_1: P
+manufacturer_no_space_upper_length_2: PI
+manufacturer_no_space_upper_length_3: PIL
+manufacturer_no_space_upper_length_4: PILO
+manufacturer_no_space_upper_length_5: PILOT
+manufacturer_no_space_upper_length_6: PILOT
+manufacturer_upper: PILOT
+manufacturer_upper_length_1: P
+manufacturer_upper_length_2: PI
+manufacturer_upper_length_3: PIL
+manufacturer_upper_length_4: PILO
+manufacturer_upper_length_5: PILOT
+manufacturer_upper_length_6: PILOT
+manufacturers: []
+markdown_full: '[stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot](none)<br>[](none)<br>[Stationery
+  Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball Style Black Pilot](none)<br><br>'
+markdown_short: '[stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot](none)<br><br>'
+md5: 97ba0b23e78dac495c68faec0172ca8d
+md5_10: 97ba0b23e7
+md5_10_upper: 97BA0B23E7
+md5_5: 97ba0
+md5_5_upper: 97BA0
+md5_6: 97ba0b
+md5_6_alpha: 5x4i3
+md5_6_alpha_upper: 5X4I3
+md5_6_upper: 97BA0B
+name: Stationery Pen Ballpoint Clicky 12 mm Diameter 140 mm Length Acroball Style
+  Black Pilot
+name_no_class: Pen Ballpoint Clicky 12 mm Diameter 140 mm Length Acroball Style Black
+  Pilot
+name_no_color: Blackpilot
+name_no_size: Black Pilot
+name_no_size_short: Black Pilot
+name_no_type: 12 mm Diameter 140 mm Length Acroball Style Black Pilot
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: pen_ballpoint_clicky
+oomlout_detail_hierarchy_2_upper: PEN_BALLPOINT_CLICKY
+oomlout_detail_hierarchy_2_upper_length_4: PEN_
+oomlout_detail_hierarchy_3: 140_mm_length
+oomlout_detail_hierarchy_3_upper: 140_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 140L
+oomlout_detail_hierarchy_4: black
+oomlout_detail_hierarchy_4_upper: BLACK
+oomlout_detail_hierarchy_4_upper_length_4: BLAC
+oomlout_detail_hierarchy_5: pilot
+oomlout_detail_hierarchy_5_upper: PILOT
+oomlout_detail_hierarchy_5_upper_length_4: PILO
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_black_pilot
+oomp_word: baseball spaghetti sunglasses
+oomp_word_emoji: ':baseball: :spaghetti: :sunglasses:'
+oomp_word_emoji_list:
+- ':baseball:'
+- ':spaghetti:'
+- ':sunglasses:'
+oomp_word_list:
+- baseball
+- spaghetti
+- sunglasses
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 12_mm_diameter_140_mm_length_acroball_style
+size_capital: 12 mm Diameter 140 mm Length Acroball Style
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_length_1: '1'
+size_length_2: '12'
+size_length_3: '12_'
+size_length_4: 12_m
+size_length_5: 12_mm
+size_length_6: 12_mm_
+size_name: 12 mm Diameter 140 mm Length Acroball Style
+size_no_space_length_1: '1'
+size_no_space_length_2: '12'
+size_no_space_length_3: 12m
+size_no_space_length_4: 12mm
+size_no_space_length_5: 12mmd
+size_no_space_length_6: 12mmdi
+size_no_space_upper_length_1: '1'
+size_no_space_upper_length_2: '12'
+size_no_space_upper_length_3: 12M
+size_no_space_upper_length_4: 12MM
+size_no_space_upper_length_5: 12MMD
+size_no_space_upper_length_6: 12MMDI
+size_only_numbers: '12140'
+size_only_numbers_no_zeros: '1214'
+size_upper: 12_MM_DIAMETER_140_MM_LENGTH_ACROBALL_STYLE
+size_upper_length_1: '1'
+size_upper_length_2: '12'
+size_upper_length_3: '12_'
+size_upper_length_4: 12_M
+size_upper_length_5: 12_MM
+size_upper_length_6: 12_MM_
+type: pen_ballpoint_clicky
+type_capital: Pen Ballpoint Clicky
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pe
+type_length_3: pen
+type_length_4: pen_
+type_length_5: pen_b
+type_length_6: pen_ba
+type_name: Pen Ballpoint Clicky
+type_no_space_length_1: p
+type_no_space_length_2: pe
+type_no_space_length_3: pen
+type_no_space_length_4: penb
+type_no_space_length_5: penba
+type_no_space_length_6: penbal
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PE
+type_no_space_upper_length_3: PEN
+type_no_space_upper_length_4: PENB
+type_no_space_upper_length_5: PENBA
+type_no_space_upper_length_6: PENBAL
+type_upper: PEN_BALLPOINT_CLICKY
+type_upper_length_1: P
+type_upper_length_2: PE
+type_upper_length_3: PEN
+type_upper_length_4: PEN_
+type_upper_length_5: PEN_B
+type_upper_length_6: PEN_BA

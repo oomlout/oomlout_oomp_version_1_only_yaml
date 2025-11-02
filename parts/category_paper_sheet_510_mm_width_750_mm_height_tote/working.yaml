@@ -1,0 +1,300 @@
+bip_39_word_dash_12: useful-tortoise-knock-riot-close-unaware-furnace-aware-oval-decorate-moment-adapt
+bip_39_word_dash_2: useful-tortoise
+bip_39_word_dash_3: useful-tortoise-knock
+bip_39_word_new_br_12: useful<br>tortoise<br>knock<br>riot<br>close<br>unaware<br>furnace<br>aware<br>oval<br>decorate<br>moment<br>adapt
+bip_39_word_new_br_2: useful<br>tortoise
+bip_39_word_new_br_3: useful<br>tortoise<br>knock
+bip_39_word_new_line_12: 'useful
+
+  tortoise
+
+  knock
+
+  riot
+
+  close
+
+  unaware
+
+  furnace
+
+  aware
+
+  oval
+
+  decorate
+
+  moment
+
+  adapt'
+bip_39_word_new_line_2: 'useful
+
+  tortoise'
+bip_39_word_new_line_3: 'useful
+
+  tortoise
+
+  knock'
+bip_39_word_no_space_12: usefultortoiseknockriotcloseunawarefurnaceawareovaldecoratemomentadapt
+bip_39_word_no_space_2: usefultortoise
+bip_39_word_no_space_3: usefultortoiseknock
+bip_39_word_space_12: useful tortoise knock riot close unaware furnace aware oval
+  decorate moment adapt
+bip_39_word_space_2: useful tortoise
+bip_39_word_space_3: useful tortoise knock
+bip_39_word_underscore_12: useful_tortoise_knock_riot_close_unaware_furnace_aware_oval_decorate_moment_adapt
+bip_39_word_underscore_2: useful_tortoise
+bip_39_word_underscore_3: useful_tortoise_knock
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 510_mm_width_750_mm_height
+color_capital: 510 mm Width 750 mm Height
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_length_1: '5'
+color_length_2: '51'
+color_length_3: '510'
+color_length_4: '510_'
+color_length_5: 510_m
+color_length_6: 510_mm
+color_name: 510 mm Width 750 mm Height
+color_no_space_length_1: '5'
+color_no_space_length_2: '51'
+color_no_space_length_3: '510'
+color_no_space_length_4: 510m
+color_no_space_length_5: 510mm
+color_no_space_length_6: 510mmw
+color_no_space_upper_length_1: '5'
+color_no_space_upper_length_2: '51'
+color_no_space_upper_length_3: '510'
+color_no_space_upper_length_4: 510M
+color_no_space_upper_length_5: 510MM
+color_no_space_upper_length_6: 510MMW
+color_upper: 510_MM_WIDTH_750_MM_HEIGHT
+color_upper_length_1: '5'
+color_upper_length_2: '51'
+color_upper_length_3: '510'
+color_upper_length_4: '510_'
+color_upper_length_5: 510_M
+color_upper_length_6: 510_MM
+description: category_paper
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
+description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+id: category_paper_sheet_510_mm_width_750_mm_height_tote
+id_no_class: paper_sheet_510_mm_width_750_mm_height_tote
+id_no_color: tote
+id_no_size: 510_mm_width_750_mm_height_tote
+id_no_type: sheet_510_mm_width_750_mm_height_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201wzpq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201wzpq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201wzpq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201wzpq
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_510_mm_width_750_mm_height_tote](none)<br>[](none)<br>[Category
+  Paper Sheet 510 Mm Width 750 Mm Height Tote](none)<br><br>'
+markdown_short: '[category_paper_sheet_510_mm_width_750_mm_height_tote](none)<br><br>'
+md5: 311dce44ed104bcbb195dba2f7b9677f
+md5_10: 311dce44ed
+md5_10_upper: 311DCE44ED
+md5_5: 311dc
+md5_5_upper: 311DC
+md5_6: 311dce
+md5_6_alpha: 1wzpq
+md5_6_alpha_upper: 1WZPQ
+md5_6_upper: 311DCE
+name: Category Paper Sheet 510 mm Width 750 mm Height Tote
+name_no_class: Paper Sheet 510 mm Width 750 mm Height Tote
+name_no_color: Tote
+name_no_size: 510 mm Width 750 mm Height Tote
+name_no_size_short: 510 Mm Width 750 Mm Height Tote
+name_no_type: Sheet 510 mm Width 750 mm Height Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: paper
+oomlout_detail_hierarchy_2_upper: PAPER
+oomlout_detail_hierarchy_2_upper_length_4: PAPE
+oomlout_detail_hierarchy_3: sheet
+oomlout_detail_hierarchy_3_upper: SHEET
+oomlout_detail_hierarchy_3_upper_length_4: SHEE
+oomlout_detail_hierarchy_4: 510_mm_width
+oomlout_detail_hierarchy_4_upper: 510_MM_WIDTH
+oomlout_detail_hierarchy_4_upper_length_4: 510W
+oomlout_detail_hierarchy_5: 750_mm_height
+oomlout_detail_hierarchy_5_upper: 750_MM_HEIGHT
+oomlout_detail_hierarchy_5_upper_length_4: 750H
+oomlout_detail_hierarchy_6: tote
+oomlout_detail_hierarchy_6_upper: TOTE
+oomlout_detail_hierarchy_6_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_paper_sheet_510_mm_width_750_mm_height_tote
+oomp_word: ocean baby peach
+oomp_word_emoji: ':ocean: :baby: :peach:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':baby:'
+- ':peach:'
+oomp_word_list:
+- ocean
+- baby
+- peach
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sh
+size_length_3: she
+size_length_4: shee
+size_length_5: sheet
+size_length_6: sheet
+size_name: Sheet
+size_no_space_length_1: s
+size_no_space_length_2: sh
+size_no_space_length_3: she
+size_no_space_length_4: shee
+size_no_space_length_5: sheet
+size_no_space_length_6: sheet
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SH
+size_no_space_upper_length_3: SHE
+size_no_space_upper_length_4: SHEE
+size_no_space_upper_length_5: SHEET
+size_no_space_upper_length_6: SHEET
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+size_upper_length_1: S
+size_upper_length_2: SH
+size_upper_length_3: SHE
+size_upper_length_4: SHEE
+size_upper_length_5: SHEET
+size_upper_length_6: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pap
+type_length_4: pape
+type_length_5: paper
+type_length_6: paper
+type_name: Paper
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pap
+type_no_space_length_4: pape
+type_no_space_length_5: paper
+type_no_space_length_6: paper
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAP
+type_no_space_upper_length_4: PAPE
+type_no_space_upper_length_5: PAPER
+type_no_space_upper_length_6: PAPER
+type_upper: PAPER
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAP
+type_upper_length_4: PAPE
+type_upper_length_5: PAPER
+type_upper_length_6: PAPER

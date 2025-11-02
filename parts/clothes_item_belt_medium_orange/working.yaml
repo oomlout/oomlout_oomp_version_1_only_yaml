@@ -1,0 +1,294 @@
+bip_39_word_dash_12: economy-tank-pigeon-rabbit-chronic-connect-client-garment-fine-broccoli-patch-artwork
+bip_39_word_dash_2: economy-tank
+bip_39_word_dash_3: economy-tank-pigeon
+bip_39_word_new_br_12: economy<br>tank<br>pigeon<br>rabbit<br>chronic<br>connect<br>client<br>garment<br>fine<br>broccoli<br>patch<br>artwork
+bip_39_word_new_br_2: economy<br>tank
+bip_39_word_new_br_3: economy<br>tank<br>pigeon
+bip_39_word_new_line_12: 'economy
+
+  tank
+
+  pigeon
+
+  rabbit
+
+  chronic
+
+  connect
+
+  client
+
+  garment
+
+  fine
+
+  broccoli
+
+  patch
+
+  artwork'
+bip_39_word_new_line_2: 'economy
+
+  tank'
+bip_39_word_new_line_3: 'economy
+
+  tank
+
+  pigeon'
+bip_39_word_no_space_12: economytankpigeonrabbitchronicconnectclientgarmentfinebroccolipatchartwork
+bip_39_word_no_space_2: economytank
+bip_39_word_no_space_3: economytankpigeon
+bip_39_word_space_12: economy tank pigeon rabbit chronic connect client garment fine
+  broccoli patch artwork
+bip_39_word_space_2: economy tank
+bip_39_word_space_3: economy tank pigeon
+bip_39_word_underscore_12: economy_tank_pigeon_rabbit_chronic_connect_client_garment_fine_broccoli_patch_artwork
+bip_39_word_underscore_2: economy_tank
+bip_39_word_underscore_3: economy_tank_pigeon
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: me
+color_length_3: med
+color_length_4: medi
+color_length_5: mediu
+color_length_6: medium
+color_name: Medium
+color_no_space_length_1: m
+color_no_space_length_2: me
+color_no_space_length_3: med
+color_no_space_length_4: medi
+color_no_space_length_5: mediu
+color_no_space_length_6: medium
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: ME
+color_no_space_upper_length_3: MED
+color_no_space_upper_length_4: MEDI
+color_no_space_upper_length_5: MEDIU
+color_no_space_upper_length_6: MEDIUM
+color_upper: MEDIUM
+color_upper_length_1: M
+color_upper_length_2: ME
+color_upper_length_3: MED
+color_upper_length_4: MEDI
+color_upper_length_5: MEDIU
+color_upper_length_6: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_length_1: o
+description_main_length_2: or
+description_main_length_3: ora
+description_main_length_4: oran
+description_main_length_5: orang
+description_main_length_6: orange
+description_main_name: Orange
+description_main_no_space_length_1: o
+description_main_no_space_length_2: or
+description_main_no_space_length_3: ora
+description_main_no_space_length_4: oran
+description_main_no_space_length_5: orang
+description_main_no_space_length_6: orange
+description_main_no_space_upper_length_1: O
+description_main_no_space_upper_length_2: OR
+description_main_no_space_upper_length_3: ORA
+description_main_no_space_upper_length_4: ORAN
+description_main_no_space_upper_length_5: ORANG
+description_main_no_space_upper_length_6: ORANGE
+description_main_upper: ORANGE
+description_main_upper_length_1: O
+description_main_upper_length_2: OR
+description_main_upper_length_3: ORA
+description_main_upper_length_4: ORAN
+description_main_upper_length_5: ORANG
+description_main_upper_length_6: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_belt_medium_orange
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_belt_medium_orange
+id: clothes_item_belt_medium_orange
+id_no_class: item_belt_medium_orange
+id_no_color: orange
+id_no_size: medium_orange
+id_no_type: belt_medium_orange
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_medium_orange
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_medium_orange
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_medium_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_medium_orange
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2088qrr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2088qrr
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2088qrr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2088qrr
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_medium_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_belt_medium_orange](none)<br>[](none)<br>[Clothes Item
+  Belt Medium Orange](none)<br><br>'
+markdown_short: '[clothes_item_belt_medium_orange](none)<br><br>'
+md5: d341871ab65fe558bc943b0349776a31
+md5_10: d341871ab6
+md5_10_upper: D341871AB6
+md5_5: d3418
+md5_5_upper: D3418
+md5_6: d34187
+md5_6_alpha: 88qrr
+md5_6_alpha_upper: 88QRR
+md5_6_upper: D34187
+name: Clothes Item Belt Medium Orange
+name_no_class: Item Belt Medium Orange
+name_no_color: Orange
+name_no_size: Medium Orange
+name_no_size_short: Medium Orange
+name_no_type: Belt Medium Orange
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: belt
+oomlout_detail_hierarchy_3_upper: BELT
+oomlout_detail_hierarchy_3_upper_length_4: BELT
+oomlout_detail_hierarchy_4: medium
+oomlout_detail_hierarchy_4_upper: MEDIUM
+oomlout_detail_hierarchy_4_upper_length_4: MEDI
+oomlout_detail_hierarchy_5: orange
+oomlout_detail_hierarchy_5_upper: ORANGE
+oomlout_detail_hierarchy_5_upper_length_4: ORAN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_belt_medium_orange
+oomp_word: tomato camel toilet
+oomp_word_emoji: ':tomato: :camel: :toilet:'
+oomp_word_emoji_list:
+- ':tomato:'
+- ':camel:'
+- ':toilet:'
+oomp_word_list:
+- tomato
+- camel
+- toilet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: belt
+size_capital: Belt
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: be
+size_length_3: bel
+size_length_4: belt
+size_length_5: belt
+size_length_6: belt
+size_name: Belt
+size_no_space_length_1: b
+size_no_space_length_2: be
+size_no_space_length_3: bel
+size_no_space_length_4: belt
+size_no_space_length_5: belt
+size_no_space_length_6: belt
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BE
+size_no_space_upper_length_3: BEL
+size_no_space_upper_length_4: BELT
+size_no_space_upper_length_5: BELT
+size_no_space_upper_length_6: BELT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BELT
+size_upper_length_1: B
+size_upper_length_2: BE
+size_upper_length_3: BEL
+size_upper_length_4: BELT
+size_upper_length_5: BELT
+size_upper_length_6: BELT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

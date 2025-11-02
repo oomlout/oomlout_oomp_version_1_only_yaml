@@ -1,0 +1,297 @@
+bip_39_word_dash_12: fringe-rate-color-castle-target-drift-liar-deposit-protect-daughter-spread-asset
+bip_39_word_dash_2: fringe-rate
+bip_39_word_dash_3: fringe-rate-color
+bip_39_word_new_br_12: fringe<br>rate<br>color<br>castle<br>target<br>drift<br>liar<br>deposit<br>protect<br>daughter<br>spread<br>asset
+bip_39_word_new_br_2: fringe<br>rate
+bip_39_word_new_br_3: fringe<br>rate<br>color
+bip_39_word_new_line_12: 'fringe
+
+  rate
+
+  color
+
+  castle
+
+  target
+
+  drift
+
+  liar
+
+  deposit
+
+  protect
+
+  daughter
+
+  spread
+
+  asset'
+bip_39_word_new_line_2: 'fringe
+
+  rate'
+bip_39_word_new_line_3: 'fringe
+
+  rate
+
+  color'
+bip_39_word_no_space_12: fringeratecolorcastletargetdriftliardepositprotectdaughterspreadasset
+bip_39_word_no_space_2: fringerate
+bip_39_word_no_space_3: fringeratecolor
+bip_39_word_space_12: fringe rate color castle target drift liar deposit protect daughter
+  spread asset
+bip_39_word_space_2: fringe rate
+bip_39_word_space_3: fringe rate color
+bip_39_word_underscore_12: fringe_rate_color_castle_target_drift_liar_deposit_protect_daughter_spread_asset
+bip_39_word_underscore_2: fringe_rate
+bip_39_word_underscore_3: fringe_rate_color
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: jumper
+color_capital: Jumper
+color_first_letter: j
+color_first_letter_upper: J
+color_length_1: j
+color_length_2: ju
+color_length_3: jum
+color_length_4: jump
+color_length_5: jumpe
+color_length_6: jumper
+color_name: Jumper
+color_no_space_length_1: j
+color_no_space_length_2: ju
+color_no_space_length_3: jum
+color_no_space_length_4: jump
+color_no_space_length_5: jumpe
+color_no_space_length_6: jumper
+color_no_space_upper_length_1: J
+color_no_space_upper_length_2: JU
+color_no_space_upper_length_3: JUM
+color_no_space_upper_length_4: JUMP
+color_no_space_upper_length_5: JUMPE
+color_no_space_upper_length_6: JUMPER
+color_upper: JUMPER
+color_upper_length_1: J
+color_upper_length_2: JU
+color_upper_length_3: JUM
+color_upper_length_4: JUMP
+color_upper_length_5: JUMPE
+color_upper_length_6: JUMPER
+description: category_clothes
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
+description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'J '
+description_or_color_upper: 'J '
+directory: parts/category_clothes_item_jumper_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_clothes_item_jumper_to_sort
+id: category_clothes_item_jumper_to_sort
+id_no_class: clothes_item_jumper_to_sort
+id_no_color: to_sort
+id_no_size: jumper_to_sort
+id_no_type: item_jumper_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_to_sort
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208kj65
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208kj65
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208kj65
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208kj65
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_jumper_to_sort](none)<br>[](none)<br>[Category
+  Clothes Item Jumper To Sort](none)<br><br>'
+markdown_short: '[category_clothes_item_jumper_to_sort](none)<br><br>'
+md5: dba60df5653b10190b6ef2385b6c8ae8
+md5_10: dba60df565
+md5_10_upper: DBA60DF565
+md5_5: dba60
+md5_5_upper: DBA60
+md5_6: dba60d
+md5_6_alpha: 8kj65
+md5_6_alpha_upper: 8KJ65
+md5_6_upper: DBA60D
+name: Category Clothes Item Jumper To Sort
+name_no_class: Clothes Item Jumper To Sort
+name_no_color: To Sort
+name_no_size: Jumper To Sort
+name_no_size_short: Jumper To Sort
+name_no_type: Item Jumper To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: clothes
+oomlout_detail_hierarchy_2_upper: CLOTHES
+oomlout_detail_hierarchy_2_upper_length_4: CLOT
+oomlout_detail_hierarchy_3: item
+oomlout_detail_hierarchy_3_upper: ITEM
+oomlout_detail_hierarchy_3_upper_length_4: ITEM
+oomlout_detail_hierarchy_4: jumper
+oomlout_detail_hierarchy_4_upper: JUMPER
+oomlout_detail_hierarchy_4_upper_length_4: JUMP
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_clothes_item_jumper_to_sort
+oomp_word: tent trumpet heart
+oomp_word_emoji: ':tent: :trumpet: :heart:'
+oomp_word_emoji_list:
+- ':tent:'
+- ':trumpet:'
+- ':heart:'
+oomp_word_list:
+- tent
+- trumpet
+- heart
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_length_1: i
+size_length_2: it
+size_length_3: ite
+size_length_4: item
+size_length_5: item
+size_length_6: item
+size_name: Item
+size_no_space_length_1: i
+size_no_space_length_2: it
+size_no_space_length_3: ite
+size_no_space_length_4: item
+size_no_space_length_5: item
+size_no_space_length_6: item
+size_no_space_upper_length_1: I
+size_no_space_upper_length_2: IT
+size_no_space_upper_length_3: ITE
+size_no_space_upper_length_4: ITEM
+size_no_space_upper_length_5: ITEM
+size_no_space_upper_length_6: ITEM
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+size_upper_length_1: I
+size_upper_length_2: IT
+size_upper_length_3: ITE
+size_upper_length_4: ITEM
+size_upper_length_5: ITEM
+size_upper_length_6: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: cl
+type_length_3: clo
+type_length_4: clot
+type_length_5: cloth
+type_length_6: clothe
+type_name: Clothes
+type_no_space_length_1: c
+type_no_space_length_2: cl
+type_no_space_length_3: clo
+type_no_space_length_4: clot
+type_no_space_length_5: cloth
+type_no_space_length_6: clothe
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CL
+type_no_space_upper_length_3: CLO
+type_no_space_upper_length_4: CLOT
+type_no_space_upper_length_5: CLOTH
+type_no_space_upper_length_6: CLOTHE
+type_upper: CLOTHES
+type_upper_length_1: C
+type_upper_length_2: CL
+type_upper_length_3: CLO
+type_upper_length_4: CLOT
+type_upper_length_5: CLOTH
+type_upper_length_6: CLOTHE

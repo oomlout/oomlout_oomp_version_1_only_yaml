@@ -1,0 +1,270 @@
+bip_39_word_dash_12: this-lumber-claw-galaxy-name-task-skirt-evil-roof-robust-visa-adult
+bip_39_word_dash_2: this-lumber
+bip_39_word_dash_3: this-lumber-claw
+bip_39_word_new_br_12: this<br>lumber<br>claw<br>galaxy<br>name<br>task<br>skirt<br>evil<br>roof<br>robust<br>visa<br>adult
+bip_39_word_new_br_2: this<br>lumber
+bip_39_word_new_br_3: this<br>lumber<br>claw
+bip_39_word_new_line_12: 'this
+
+  lumber
+
+  claw
+
+  galaxy
+
+  name
+
+  task
+
+  skirt
+
+  evil
+
+  roof
+
+  robust
+
+  visa
+
+  adult'
+bip_39_word_new_line_2: 'this
+
+  lumber'
+bip_39_word_new_line_3: 'this
+
+  lumber
+
+  claw'
+bip_39_word_no_space_12: thislumberclawgalaxynametaskskirtevilroofrobustvisaadult
+bip_39_word_no_space_2: thislumber
+bip_39_word_no_space_3: thislumberclaw
+bip_39_word_space_12: this lumber claw galaxy name task skirt evil roof robust visa
+  adult
+bip_39_word_space_2: this lumber
+bip_39_word_space_3: this lumber claw
+bip_39_word_underscore_12: this_lumber_claw_galaxy_name_task_skirt_evil_roof_robust_visa_adult
+bip_39_word_underscore_2: this_lumber
+bip_39_word_underscore_3: this_lumber_claw
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_mechanical
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cu
+description_extra_length_3: cub
+description_extra_length_4: cubb
+description_extra_length_5: cubby
+description_extra_length_6: cubby_
+description_extra_name: Cubby Box
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cu
+description_extra_no_space_length_3: cub
+description_extra_no_space_length_4: cubb
+description_extra_no_space_length_5: cubby
+description_extra_no_space_length_6: cubbyb
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CU
+description_extra_no_space_upper_length_3: CUB
+description_extra_no_space_upper_length_4: CUBB
+description_extra_no_space_upper_length_5: CUBBY
+description_extra_no_space_upper_length_6: CUBBYB
+description_extra_upper: CUBBY_BOX
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CU
+description_extra_upper_length_3: CUB
+description_extra_upper_length_4: CUBB
+description_extra_upper_length_5: CUBBY
+description_extra_upper_length_6: CUBBY_
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_mechanical_timing_belt_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_timing_belt_cubby_box
+id: category_mechanical_timing_belt_cubby_box
+id_no_class: mechanical_timing_belt_cubby_box
+id_no_color: cubbybox
+id_no_size: cubby_box
+id_no_type: timing_belt_cubby_box
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_cubby_box
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_cubby_box
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_cubby_box
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202eyr2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202eyr2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202eyr2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202eyr2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_belt_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_timing_belt_cubby_box](none)<br>[](none)<br>[Category
+  Mechanical Timing Belt Cubby Box](none)<br><br>'
+markdown_short: '[category_mechanical_timing_belt_cubby_box](none)<br><br>'
+md5: 3de96ed5dd4df957784965ee54213f06
+md5_10: 3de96ed5dd
+md5_10_upper: 3DE96ED5DD
+md5_5: 3de96
+md5_5_upper: 3DE96
+md5_6: 3de96e
+md5_6_alpha: 2eyr2
+md5_6_alpha_upper: 2EYR2
+md5_6_upper: 3DE96E
+name: Category Mechanical Timing Belt Cubby Box
+name_no_class: Mechanical Timing Belt Cubby Box
+name_no_color: Cubbybox
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Timing Belt Cubby Box
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: mechanical
+oomlout_detail_hierarchy_2_upper: MECHANICAL
+oomlout_detail_hierarchy_2_upper_length_4: MECH
+oomlout_detail_hierarchy_3: timing_belt
+oomlout_detail_hierarchy_3_upper: TIMING_BELT
+oomlout_detail_hierarchy_3_upper_length_4: TIMI
+oomlout_detail_hierarchy_4: cubby_box
+oomlout_detail_hierarchy_4_upper: CUBBY_BOX
+oomlout_detail_hierarchy_4_upper_length_4: CUBB
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_mechanical_timing_belt_cubby_box
+oomp_word: cow bike new_moon
+oomp_word_emoji: ':cow: :bike: :new_moon:'
+oomp_word_emoji_list:
+- ':cow:'
+- ':bike:'
+- ':new_moon:'
+oomp_word_list:
+- cow
+- bike
+- new_moon
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: timing_belt
+size_capital: Timing Belt
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: ti
+size_length_3: tim
+size_length_4: timi
+size_length_5: timin
+size_length_6: timing
+size_name: Timing Belt
+size_no_space_length_1: t
+size_no_space_length_2: ti
+size_no_space_length_3: tim
+size_no_space_length_4: timi
+size_no_space_length_5: timin
+size_no_space_length_6: timing
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TI
+size_no_space_upper_length_3: TIM
+size_no_space_upper_length_4: TIMI
+size_no_space_upper_length_5: TIMIN
+size_no_space_upper_length_6: TIMING
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIMING_BELT
+size_upper_length_1: T
+size_upper_length_2: TI
+size_upper_length_3: TIM
+size_upper_length_4: TIMI
+size_upper_length_5: TIMIN
+size_upper_length_6: TIMING
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: me
+type_length_3: mec
+type_length_4: mech
+type_length_5: mecha
+type_length_6: mechan
+type_name: Mechanical
+type_no_space_length_1: m
+type_no_space_length_2: me
+type_no_space_length_3: mec
+type_no_space_length_4: mech
+type_no_space_length_5: mecha
+type_no_space_length_6: mechan
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: ME
+type_no_space_upper_length_3: MEC
+type_no_space_upper_length_4: MECH
+type_no_space_upper_length_5: MECHA
+type_no_space_upper_length_6: MECHAN
+type_upper: MECHANICAL
+type_upper_length_1: M
+type_upper_length_2: ME
+type_upper_length_3: MEC
+type_upper_length_4: MECH
+type_upper_length_5: MECHA
+type_upper_length_6: MECHAN

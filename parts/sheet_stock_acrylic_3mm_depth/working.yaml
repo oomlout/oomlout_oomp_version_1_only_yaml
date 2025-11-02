@@ -1,0 +1,240 @@
+bip_39_word_dash_12: list-tunnel-explain-nephew-flavor-raw-rural-hover-motor-fan-smoke-action
+bip_39_word_dash_2: list-tunnel
+bip_39_word_dash_3: list-tunnel-explain
+bip_39_word_new_br_12: list<br>tunnel<br>explain<br>nephew<br>flavor<br>raw<br>rural<br>hover<br>motor<br>fan<br>smoke<br>action
+bip_39_word_new_br_2: list<br>tunnel
+bip_39_word_new_br_3: list<br>tunnel<br>explain
+bip_39_word_new_line_12: 'list
+
+  tunnel
+
+  explain
+
+  nephew
+
+  flavor
+
+  raw
+
+  rural
+
+  hover
+
+  motor
+
+  fan
+
+  smoke
+
+  action'
+bip_39_word_new_line_2: 'list
+
+  tunnel'
+bip_39_word_new_line_3: 'list
+
+  tunnel
+
+  explain'
+bip_39_word_no_space_12: listtunnelexplainnephewflavorrawruralhovermotorfansmokeaction
+bip_39_word_no_space_2: listtunnel
+bip_39_word_no_space_3: listtunnelexplain
+bip_39_word_space_12: list tunnel explain nephew flavor raw rural hover motor fan
+  smoke action
+bip_39_word_space_2: list tunnel
+bip_39_word_space_3: list tunnel explain
+bip_39_word_underscore_12: list_tunnel_explain_nephew_flavor_raw_rural_hover_motor_fan_smoke_action
+bip_39_word_underscore_2: list_tunnel
+bip_39_word_underscore_3: list_tunnel_explain
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: sh
+classification_length_3: she
+classification_length_4: shee
+classification_length_5: sheet
+classification_length_6: sheet_
+classification_name: Sheet Stock
+classification_no_space_length_1: s
+classification_no_space_length_2: sh
+classification_no_space_length_3: she
+classification_no_space_length_4: shee
+classification_no_space_length_5: sheet
+classification_no_space_length_6: sheets
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: SH
+classification_no_space_upper_length_3: SHE
+classification_no_space_upper_length_4: SHEE
+classification_no_space_upper_length_5: SHEET
+classification_no_space_upper_length_6: SHEETS
+classification_upper: SHEET_STOCK
+classification_upper_length_1: S
+classification_upper_length_2: SH
+classification_upper_length_3: SHE
+classification_upper_length_4: SHEE
+classification_upper_length_5: SHEET
+classification_upper_length_6: SHEET_
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/sheet_stock_acrylic_3mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/sheet_stock_acrylic_3mm_depth
+id: sheet_stock_acrylic_3mm_depth
+id_no_class: acrylic_3mm_depth
+id_no_color: 3mmdepth
+id_no_size: 3mm_depth
+id_no_type: 3mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201mfmc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201mfmc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201mfmc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201mfmc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth](none)<br>[](none)<br>[Sheet Stock
+  Acrylic 3Mm Depth](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth](none)<br><br>'
+md5: 299994b4836e77b2ca2c5944a13aa413
+md5_10: 299994b483
+md5_10_upper: 299994B483
+md5_5: '29999'
+md5_5_upper: '29999'
+md5_6: '299994'
+md5_6_alpha: 1mfmc
+md5_6_alpha_upper: 1MFMC
+md5_6_upper: '299994'
+name: Sheet Stock Acrylic 3mm Depth
+name_no_class: Acrylic 3mm Depth
+name_no_color: 3mmdepth
+name_no_size: 3mm Depth
+name_no_size_short: 3Mm Depth
+name_no_type: 3mm Depth
+oomlout_detail_hierarchy_1: sheet_stock
+oomlout_detail_hierarchy_1_upper: SHEET_STOCK
+oomlout_detail_hierarchy_1_upper_length_4: SHEE
+oomlout_detail_hierarchy_2: acrylic
+oomlout_detail_hierarchy_2_upper: ACRYLIC
+oomlout_detail_hierarchy_2_upper_length_4: ACRY
+oomlout_detail_hierarchy_3: 3mm_depth
+oomlout_detail_hierarchy_3_upper: 3MM_DEPTH
+oomlout_detail_hierarchy_3_upper_length_4: 3MM_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth
+oomp_word: sunny bowling microscope
+oomp_word_emoji: ':sunny: :bowling: :microscope:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':bowling:'
+- ':microscope:'
+oomp_word_list:
+- sunny
+- bowling
+- microscope
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_length_1: '3'
+size_length_2: 3m
+size_length_3: 3mm
+size_length_4: 3mm_
+size_length_5: 3mm_d
+size_length_6: 3mm_de
+size_name: 3mm Depth
+size_no_space_length_1: '3'
+size_no_space_length_2: 3m
+size_no_space_length_3: 3mm
+size_no_space_length_4: 3mmd
+size_no_space_length_5: 3mmde
+size_no_space_length_6: 3mmdep
+size_no_space_upper_length_1: '3'
+size_no_space_upper_length_2: 3M
+size_no_space_upper_length_3: 3MM
+size_no_space_upper_length_4: 3MMD
+size_no_space_upper_length_5: 3MMDE
+size_no_space_upper_length_6: 3MMDEP
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+size_upper_length_1: '3'
+size_upper_length_2: 3M
+size_upper_length_3: 3MM
+size_upper_length_4: 3MM_
+size_upper_length_5: 3MM_D
+size_upper_length_6: 3MM_DE
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_length_1: a
+type_length_2: ac
+type_length_3: acr
+type_length_4: acry
+type_length_5: acryl
+type_length_6: acryli
+type_name: Acrylic
+type_no_space_length_1: a
+type_no_space_length_2: ac
+type_no_space_length_3: acr
+type_no_space_length_4: acry
+type_no_space_length_5: acryl
+type_no_space_length_6: acryli
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AC
+type_no_space_upper_length_3: ACR
+type_no_space_upper_length_4: ACRY
+type_no_space_upper_length_5: ACRYL
+type_no_space_upper_length_6: ACRYLI
+type_upper: ACRYLIC
+type_upper_length_1: A
+type_upper_length_2: AC
+type_upper_length_3: ACR
+type_upper_length_4: ACRY
+type_upper_length_5: ACRYL
+type_upper_length_6: ACRYLI

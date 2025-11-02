@@ -1,0 +1,265 @@
+bip_39_word_dash_12: spawn-shed-glad-prevent-bike-clarify-apart-fiscal-tiny-dolphin-buddy-arctic
+bip_39_word_dash_2: spawn-shed
+bip_39_word_dash_3: spawn-shed-glad
+bip_39_word_new_br_12: spawn<br>shed<br>glad<br>prevent<br>bike<br>clarify<br>apart<br>fiscal<br>tiny<br>dolphin<br>buddy<br>arctic
+bip_39_word_new_br_2: spawn<br>shed
+bip_39_word_new_br_3: spawn<br>shed<br>glad
+bip_39_word_new_line_12: 'spawn
+
+  shed
+
+  glad
+
+  prevent
+
+  bike
+
+  clarify
+
+  apart
+
+  fiscal
+
+  tiny
+
+  dolphin
+
+  buddy
+
+  arctic'
+bip_39_word_new_line_2: 'spawn
+
+  shed'
+bip_39_word_new_line_3: 'spawn
+
+  shed
+
+  glad'
+bip_39_word_no_space_12: spawnshedgladpreventbikeclarifyapartfiscaltinydolphinbuddyarctic
+bip_39_word_no_space_2: spawnshed
+bip_39_word_no_space_3: spawnshedglad
+bip_39_word_space_12: spawn shed glad prevent bike clarify apart fiscal tiny dolphin
+  buddy arctic
+bip_39_word_space_2: spawn shed
+bip_39_word_space_3: spawn shed glad
+bip_39_word_underscore_12: spawn_shed_glad_prevent_bike_clarify_apart_fiscal_tiny_dolphin_buddy_arctic
+bip_39_word_underscore_2: spawn_shed
+bip_39_word_underscore_3: spawn_shed_glad
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
+classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_building_lego_lego
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_building_lego_lego
+id: toy_building_lego_lego
+id_no_class: building_lego_lego
+id_no_color: lego
+id_no_size: lego
+id_no_type: lego_lego
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ycpc
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ycpc
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206ycpc
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ycpc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+manufacturer: lego
+manufacturer_capital: Lego
+manufacturer_first_letter: l
+manufacturer_first_letter_upper: L
+manufacturer_length_1: l
+manufacturer_length_2: le
+manufacturer_length_3: leg
+manufacturer_length_4: lego
+manufacturer_length_5: lego
+manufacturer_length_6: lego
+manufacturer_name: Lego
+manufacturer_no_space_length_1: l
+manufacturer_no_space_length_2: le
+manufacturer_no_space_length_3: leg
+manufacturer_no_space_length_4: lego
+manufacturer_no_space_length_5: lego
+manufacturer_no_space_length_6: lego
+manufacturer_no_space_upper_length_1: L
+manufacturer_no_space_upper_length_2: LE
+manufacturer_no_space_upper_length_3: LEG
+manufacturer_no_space_upper_length_4: LEGO
+manufacturer_no_space_upper_length_5: LEGO
+manufacturer_no_space_upper_length_6: LEGO
+manufacturer_upper: LEGO
+manufacturer_upper_length_1: L
+manufacturer_upper_length_2: LE
+manufacturer_upper_length_3: LEG
+manufacturer_upper_length_4: LEGO
+manufacturer_upper_length_5: LEGO
+manufacturer_upper_length_6: LEGO
+manufacturers: []
+markdown_full: '[toy_building_lego_lego](none)<br>[](none)<br>[Toy Building Lego Lego](none)<br><br>'
+markdown_short: '[toy_building_lego_lego](none)<br><br>'
+md5: b23ad03713578148a78b1aa4c5315685
+md5_10: b23ad03713
+md5_10_upper: B23AD03713
+md5_5: b23ad
+md5_5_upper: B23AD
+md5_6: b23ad0
+md5_6_alpha: 6ycpc
+md5_6_alpha_upper: 6YCPC
+md5_6_upper: B23AD0
+name: Toy Building Lego Lego
+name_no_class: Building Lego Lego
+name_no_color: Lego
+name_no_size: Lego
+name_no_size_short: Lego
+name_no_type: Lego Lego
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: building
+oomlout_detail_hierarchy_2_upper: BUILDING
+oomlout_detail_hierarchy_2_upper_length_4: BUIL
+oomlout_detail_hierarchy_3: lego
+oomlout_detail_hierarchy_3_upper: LEGO
+oomlout_detail_hierarchy_3_upper_length_4: LEGO
+oomlout_detail_hierarchy_4: lego
+oomlout_detail_hierarchy_4_upper: LEGO
+oomlout_detail_hierarchy_4_upper_length_4: LEGO
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_toy_building_lego_lego
+oomp_word: handbag koala banana
+oomp_word_emoji: ':handbag: :koala: :banana:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':koala:'
+- ':banana:'
+oomp_word_list:
+- handbag
+- koala
+- banana
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: lego
+size_capital: Lego
+size_first_letter: l
+size_first_letter_upper: L
+size_length_1: l
+size_length_2: le
+size_length_3: leg
+size_length_4: lego
+size_length_5: lego
+size_length_6: lego
+size_name: Lego
+size_no_space_length_1: l
+size_no_space_length_2: le
+size_no_space_length_3: leg
+size_no_space_length_4: lego
+size_no_space_length_5: lego
+size_no_space_length_6: lego
+size_no_space_upper_length_1: L
+size_no_space_upper_length_2: LE
+size_no_space_upper_length_3: LEG
+size_no_space_upper_length_4: LEGO
+size_no_space_upper_length_5: LEGO
+size_no_space_upper_length_6: LEGO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LEGO
+size_upper_length_1: L
+size_upper_length_2: LE
+size_upper_length_3: LEG
+size_upper_length_4: LEGO
+size_upper_length_5: LEGO
+size_upper_length_6: LEGO
+type: building
+type_capital: Building
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: bu
+type_length_3: bui
+type_length_4: buil
+type_length_5: build
+type_length_6: buildi
+type_name: Building
+type_no_space_length_1: b
+type_no_space_length_2: bu
+type_no_space_length_3: bui
+type_no_space_length_4: buil
+type_no_space_length_5: build
+type_no_space_length_6: buildi
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BU
+type_no_space_upper_length_3: BUI
+type_no_space_upper_length_4: BUIL
+type_no_space_upper_length_5: BUILD
+type_no_space_upper_length_6: BUILDI
+type_upper: BUILDING
+type_upper_length_1: B
+type_upper_length_2: BU
+type_upper_length_3: BUI
+type_upper_length_4: BUIL
+type_upper_length_5: BUILD
+type_upper_length_6: BUILDI

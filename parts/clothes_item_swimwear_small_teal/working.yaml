@@ -1,0 +1,294 @@
+bip_39_word_dash_12: oval-romance-payment-genre-wreck-slide-shift-era-uncle-palm-author-attitude
+bip_39_word_dash_2: oval-romance
+bip_39_word_dash_3: oval-romance-payment
+bip_39_word_new_br_12: oval<br>romance<br>payment<br>genre<br>wreck<br>slide<br>shift<br>era<br>uncle<br>palm<br>author<br>attitude
+bip_39_word_new_br_2: oval<br>romance
+bip_39_word_new_br_3: oval<br>romance<br>payment
+bip_39_word_new_line_12: 'oval
+
+  romance
+
+  payment
+
+  genre
+
+  wreck
+
+  slide
+
+  shift
+
+  era
+
+  uncle
+
+  palm
+
+  author
+
+  attitude'
+bip_39_word_new_line_2: 'oval
+
+  romance'
+bip_39_word_new_line_3: 'oval
+
+  romance
+
+  payment'
+bip_39_word_no_space_12: ovalromancepaymentgenrewreckslideshifteraunclepalmauthorattitude
+bip_39_word_no_space_2: ovalromance
+bip_39_word_no_space_3: ovalromancepayment
+bip_39_word_space_12: oval romance payment genre wreck slide shift era uncle palm
+  author attitude
+bip_39_word_space_2: oval romance
+bip_39_word_space_3: oval romance payment
+bip_39_word_underscore_12: oval_romance_payment_genre_wreck_slide_shift_era_uncle_palm_author_attitude
+bip_39_word_underscore_2: oval_romance
+bip_39_word_underscore_3: oval_romance_payment
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_length_1: s
+color_length_2: sm
+color_length_3: sma
+color_length_4: smal
+color_length_5: small
+color_length_6: small
+color_name: Small
+color_no_space_length_1: s
+color_no_space_length_2: sm
+color_no_space_length_3: sma
+color_no_space_length_4: smal
+color_no_space_length_5: small
+color_no_space_length_6: small
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SM
+color_no_space_upper_length_3: SMA
+color_no_space_upper_length_4: SMAL
+color_no_space_upper_length_5: SMALL
+color_no_space_upper_length_6: SMALL
+color_upper: SMALL
+color_upper_length_1: S
+color_upper_length_2: SM
+color_upper_length_3: SMA
+color_upper_length_4: SMAL
+color_upper_length_5: SMALL
+color_upper_length_6: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_length_1: t
+description_main_length_2: te
+description_main_length_3: tea
+description_main_length_4: teal
+description_main_length_5: teal
+description_main_length_6: teal
+description_main_name: Teal
+description_main_no_space_length_1: t
+description_main_no_space_length_2: te
+description_main_no_space_length_3: tea
+description_main_no_space_length_4: teal
+description_main_no_space_length_5: teal
+description_main_no_space_length_6: teal
+description_main_no_space_upper_length_1: T
+description_main_no_space_upper_length_2: TE
+description_main_no_space_upper_length_3: TEA
+description_main_no_space_upper_length_4: TEAL
+description_main_no_space_upper_length_5: TEAL
+description_main_no_space_upper_length_6: TEAL
+description_main_upper: TEAL
+description_main_upper_length_1: T
+description_main_upper_length_2: TE
+description_main_upper_length_3: TEA
+description_main_upper_length_4: TEAL
+description_main_upper_length_5: TEAL
+description_main_upper_length_6: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_swimwear_small_teal
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_swimwear_small_teal
+id: clothes_item_swimwear_small_teal
+id_no_class: item_swimwear_small_teal
+id_no_color: teal
+id_no_size: small_teal
+id_no_type: swimwear_small_teal
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_small_teal
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_small_teal
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_small_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_small_teal
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2094uzr
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2094uzr
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2094uzr
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2094uzr
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_small_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_small_teal](none)<br>[](none)<br>[Clothes Item
+  Swimwear Small Teal](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_small_teal](none)<br><br>'
+md5: ea1ee7d7644c58bb2e7f1611436ee4ed
+md5_10: ea1ee7d764
+md5_10_upper: EA1EE7D764
+md5_5: ea1ee
+md5_5_upper: EA1EE
+md5_6: ea1ee7
+md5_6_alpha: 94uzr
+md5_6_alpha_upper: 94UZR
+md5_6_upper: EA1EE7
+name: Clothes Item Swimwear Small Teal
+name_no_class: Item Swimwear Small Teal
+name_no_color: Teal
+name_no_size: Small Teal
+name_no_size_short: Small Teal
+name_no_type: Swimwear Small Teal
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: swimwear
+oomlout_detail_hierarchy_3_upper: SWIMWEAR
+oomlout_detail_hierarchy_3_upper_length_4: SWIM
+oomlout_detail_hierarchy_4: small
+oomlout_detail_hierarchy_4_upper: SMALL
+oomlout_detail_hierarchy_4_upper_length_4: SMAL
+oomlout_detail_hierarchy_5: teal
+oomlout_detail_hierarchy_5_upper: TEAL
+oomlout_detail_hierarchy_5_upper_length_4: TEAL
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_swimwear_small_teal
+oomp_word: tractor angel helicopter
+oomp_word_emoji: ':tractor: :angel: :helicopter:'
+oomp_word_emoji_list:
+- ':tractor:'
+- ':angel:'
+- ':helicopter:'
+oomp_word_list:
+- tractor
+- angel
+- helicopter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sw
+size_length_3: swi
+size_length_4: swim
+size_length_5: swimw
+size_length_6: swimwe
+size_name: Swimwear
+size_no_space_length_1: s
+size_no_space_length_2: sw
+size_no_space_length_3: swi
+size_no_space_length_4: swim
+size_no_space_length_5: swimw
+size_no_space_length_6: swimwe
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SW
+size_no_space_upper_length_3: SWI
+size_no_space_upper_length_4: SWIM
+size_no_space_upper_length_5: SWIMW
+size_no_space_upper_length_6: SWIMWE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+size_upper_length_1: S
+size_upper_length_2: SW
+size_upper_length_3: SWI
+size_upper_length_4: SWIM
+size_upper_length_5: SWIMW
+size_upper_length_6: SWIMWE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

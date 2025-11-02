@@ -1,0 +1,294 @@
+bip_39_word_dash_12: exercise-thought-soup-crane-mutual-unveil-mail-kitten-layer-vague-boost-assume
+bip_39_word_dash_2: exercise-thought
+bip_39_word_dash_3: exercise-thought-soup
+bip_39_word_new_br_12: exercise<br>thought<br>soup<br>crane<br>mutual<br>unveil<br>mail<br>kitten<br>layer<br>vague<br>boost<br>assume
+bip_39_word_new_br_2: exercise<br>thought
+bip_39_word_new_br_3: exercise<br>thought<br>soup
+bip_39_word_new_line_12: 'exercise
+
+  thought
+
+  soup
+
+  crane
+
+  mutual
+
+  unveil
+
+  mail
+
+  kitten
+
+  layer
+
+  vague
+
+  boost
+
+  assume'
+bip_39_word_new_line_2: 'exercise
+
+  thought'
+bip_39_word_new_line_3: 'exercise
+
+  thought
+
+  soup'
+bip_39_word_no_space_12: exercisethoughtsoupcranemutualunveilmailkittenlayervagueboostassume
+bip_39_word_no_space_2: exercisethought
+bip_39_word_no_space_3: exercisethoughtsoup
+bip_39_word_space_12: exercise thought soup crane mutual unveil mail kitten layer
+  vague boost assume
+bip_39_word_space_2: exercise thought
+bip_39_word_space_3: exercise thought soup
+bip_39_word_underscore_12: exercise_thought_soup_crane_mutual_unveil_mail_kitten_layer_vague_boost_assume
+bip_39_word_underscore_2: exercise_thought
+bip_39_word_underscore_3: exercise_thought_soup
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_length_1: s
+color_length_2: sm
+color_length_3: sma
+color_length_4: smal
+color_length_5: small
+color_length_6: small
+color_name: Small
+color_no_space_length_1: s
+color_no_space_length_2: sm
+color_no_space_length_3: sma
+color_no_space_length_4: smal
+color_no_space_length_5: small
+color_no_space_length_6: small
+color_no_space_upper_length_1: S
+color_no_space_upper_length_2: SM
+color_no_space_upper_length_3: SMA
+color_no_space_upper_length_4: SMAL
+color_no_space_upper_length_5: SMALL
+color_no_space_upper_length_6: SMALL
+color_upper: SMALL
+color_upper_length_1: S
+color_upper_length_2: SM
+color_upper_length_3: SMA
+color_upper_length_4: SMAL
+color_upper_length_5: SMALL
+color_upper_length_6: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_length_1: o
+description_main_length_2: ol
+description_main_length_3: oli
+description_main_length_4: oliv
+description_main_length_5: olive
+description_main_length_6: olive
+description_main_name: Olive
+description_main_no_space_length_1: o
+description_main_no_space_length_2: ol
+description_main_no_space_length_3: oli
+description_main_no_space_length_4: oliv
+description_main_no_space_length_5: olive
+description_main_no_space_length_6: olive
+description_main_no_space_upper_length_1: O
+description_main_no_space_upper_length_2: OL
+description_main_no_space_upper_length_3: OLI
+description_main_no_space_upper_length_4: OLIV
+description_main_no_space_upper_length_5: OLIVE
+description_main_no_space_upper_length_6: OLIVE
+description_main_upper: OLIVE
+description_main_upper_length_1: O
+description_main_upper_length_2: OL
+description_main_upper_length_3: OLI
+description_main_upper_length_4: OLIV
+description_main_upper_length_5: OLIVE
+description_main_upper_length_6: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_t_shirt_small_olive
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_t_shirt_small_olive
+id: clothes_item_t_shirt_small_olive
+id_no_class: item_t_shirt_small_olive
+id_no_color: olive
+id_no_size: small_olive
+id_no_type: t_shirt_small_olive
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_olive
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_olive
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_olive
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208o48s
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208o48s
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208o48s
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208o48s
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_small_olive](none)<br>[](none)<br>[Clothes Item
+  T Shirt Small Olive](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_small_olive](none)<br><br>'
+md5: de337c2bf27b50c7b9c913259ff83a7a
+md5_10: de337c2bf2
+md5_10_upper: DE337C2BF2
+md5_5: de337
+md5_5_upper: DE337
+md5_6: de337c
+md5_6_alpha: 8o48s
+md5_6_alpha_upper: 8O48S
+md5_6_upper: DE337C
+name: Clothes Item T Shirt Small Olive
+name_no_class: Item T Shirt Small Olive
+name_no_color: Olive
+name_no_size: Small Olive
+name_no_size_short: Small Olive
+name_no_type: T Shirt Small Olive
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: t_shirt
+oomlout_detail_hierarchy_3_upper: T_SHIRT
+oomlout_detail_hierarchy_3_upper_length_4: T_SH
+oomlout_detail_hierarchy_4: small
+oomlout_detail_hierarchy_4_upper: SMALL
+oomlout_detail_hierarchy_4_upper_length_4: SMAL
+oomlout_detail_hierarchy_5: olive
+oomlout_detail_hierarchy_5_upper: OLIVE
+oomlout_detail_hierarchy_5_upper_length_4: OLIV
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_t_shirt_small_olive
+oomp_word: rainbow dog tv
+oomp_word_emoji: ':rainbow: :dog: :tv:'
+oomp_word_emoji_list:
+- ':rainbow:'
+- ':dog:'
+- ':tv:'
+oomp_word_list:
+- rainbow
+- dog
+- tv
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: t_
+size_length_3: t_s
+size_length_4: t_sh
+size_length_5: t_shi
+size_length_6: t_shir
+size_name: T Shirt
+size_no_space_length_1: t
+size_no_space_length_2: ts
+size_no_space_length_3: tsh
+size_no_space_length_4: tshi
+size_no_space_length_5: tshir
+size_no_space_length_6: tshirt
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TS
+size_no_space_upper_length_3: TSH
+size_no_space_upper_length_4: TSHI
+size_no_space_upper_length_5: TSHIR
+size_no_space_upper_length_6: TSHIRT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+size_upper_length_1: T
+size_upper_length_2: T_
+size_upper_length_3: T_S
+size_upper_length_4: T_SH
+size_upper_length_5: T_SHI
+size_upper_length_6: T_SHIR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

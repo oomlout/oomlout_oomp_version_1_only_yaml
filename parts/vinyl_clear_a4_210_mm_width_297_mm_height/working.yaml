@@ -1,0 +1,242 @@
+bip_39_word_dash_11: attack-dawn-butter-dad-valve-chuckle-nerve-raw-surge-hurry-velvet
+bip_39_word_dash_2: attack-dawn
+bip_39_word_dash_3: attack-dawn-butter
+bip_39_word_new_br_11: attack<br>dawn<br>butter<br>dad<br>valve<br>chuckle<br>nerve<br>raw<br>surge<br>hurry<br>velvet
+bip_39_word_new_br_2: attack<br>dawn
+bip_39_word_new_br_3: attack<br>dawn<br>butter
+bip_39_word_new_line_11: 'attack
+
+  dawn
+
+  butter
+
+  dad
+
+  valve
+
+  chuckle
+
+  nerve
+
+  raw
+
+  surge
+
+  hurry
+
+  velvet'
+bip_39_word_new_line_2: 'attack
+
+  dawn'
+bip_39_word_new_line_3: 'attack
+
+  dawn
+
+  butter'
+bip_39_word_no_space_11: attackdawnbutterdadvalvechucklenerverawsurgehurryvelvet
+bip_39_word_no_space_2: attackdawn
+bip_39_word_no_space_3: attackdawnbutter
+bip_39_word_space_11: attack dawn butter dad valve chuckle nerve raw surge hurry velvet
+bip_39_word_space_2: attack dawn
+bip_39_word_space_3: attack dawn butter
+bip_39_word_underscore_11: attack_dawn_butter_dad_valve_chuckle_nerve_raw_surge_hurry_velvet
+bip_39_word_underscore_2: attack_dawn
+bip_39_word_underscore_3: attack_dawn_butter
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_length_1: v
+classification_length_2: vi
+classification_length_3: vin
+classification_length_4: viny
+classification_length_5: vinyl
+classification_length_6: vinyl
+classification_name: Vinyl
+classification_no_space_length_1: v
+classification_no_space_length_2: vi
+classification_no_space_length_3: vin
+classification_no_space_length_4: viny
+classification_no_space_length_5: vinyl
+classification_no_space_length_6: vinyl
+classification_no_space_upper_length_1: V
+classification_no_space_upper_length_2: VI
+classification_no_space_upper_length_3: VIN
+classification_no_space_upper_length_4: VINY
+classification_no_space_upper_length_5: VINYL
+classification_no_space_upper_length_6: VINYL
+classification_upper: VINYL
+classification_upper_length_1: V
+classification_upper_length_2: VI
+classification_upper_length_3: VIN
+classification_upper_length_4: VINY
+classification_upper_length_5: VINYL
+classification_upper_length_6: VINYL
+color: clear
+color_capital: Clear
+color_first_letter: c
+color_first_letter_upper: C
+color_length_1: c
+color_length_2: cl
+color_length_3: cle
+color_length_4: clea
+color_length_5: clear
+color_length_6: clear
+color_name: Clear
+color_no_space_length_1: c
+color_no_space_length_2: cl
+color_no_space_length_3: cle
+color_no_space_length_4: clea
+color_no_space_length_5: clear
+color_no_space_length_6: clear
+color_no_space_upper_length_1: C
+color_no_space_upper_length_2: CL
+color_no_space_upper_length_3: CLE
+color_no_space_upper_length_4: CLEA
+color_no_space_upper_length_5: CLEAR
+color_no_space_upper_length_6: CLEAR
+color_upper: CLEAR
+color_upper_length_1: C
+color_upper_length_2: CL
+color_upper_length_3: CLE
+color_upper_length_4: CLEA
+color_upper_length_5: CLEAR
+color_upper_length_6: CLEAR
+description_extra: a4_210_mm_width_297_mm_height
+description_extra_capital: A4.210 mm Width 297 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_length_1: a
+description_extra_length_2: a4
+description_extra_length_3: a4_
+description_extra_length_4: a4_2
+description_extra_length_5: a4_21
+description_extra_length_6: a4_210
+description_extra_name: A4 210 mm Width 297 mm Height
+description_extra_no_space_length_1: a
+description_extra_no_space_length_2: a4
+description_extra_no_space_length_3: a42
+description_extra_no_space_length_4: a421
+description_extra_no_space_length_5: a4210
+description_extra_no_space_length_6: a4210m
+description_extra_no_space_upper_length_1: A
+description_extra_no_space_upper_length_2: A4
+description_extra_no_space_upper_length_3: A42
+description_extra_no_space_upper_length_4: A421
+description_extra_no_space_upper_length_5: A4210
+description_extra_no_space_upper_length_6: A4210M
+description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_extra_upper_length_1: A
+description_extra_upper_length_2: A4
+description_extra_upper_length_3: A4_
+description_extra_upper_length_4: A4_2
+description_extra_upper_length_5: A4_21
+description_extra_upper_length_6: A4_210
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/vinyl_clear_a4_210_mm_width_297_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/vinyl_clear_a4_210_mm_width_297_mm_height
+height: 297 mm
+id: vinyl_clear_a4_210_mm_width_297_mm_height
+id_no_class: clear_a4_210_mm_width_297_mm_height
+id_no_color: cleara4210mmwidth297mmheight
+id_no_size: cleara4210mmwidth297mmheight
+id_no_type: cleara4210mmwidth297mmheight
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_a4_210_mm_width_297_mm_height
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_a4_210_mm_width_297_mm_height
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_a4_210_mm_width_297_mm_height
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202nmj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202nmj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202nmj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202nmj
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_a4_210_mm_width_297_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_clear_a4_210_mm_width_297_mm_height](none)<br>[c](none)<br>[Vinyl
+  Clear A4 210 Mm Width 297 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_clear_a4_210_mm_width_297_mm_height](none)<br><br>'
+md5: 01e41beed2b2928ca278836e3e8df873
+md5_10: 01e41beed2
+md5_10_upper: 01E41BEED2
+md5_5: 01e41
+md5_5_upper: 01E41
+md5_6: 01e41b
+md5_6_alpha: 2nmj
+md5_6_alpha_upper: 2NMJ
+md5_6_upper: 01E41B
+name: Vinyl Clear A4 210 mm Width 297 mm Height
+name_no_class: Clear A4 210 mm Width 297 mm Height
+name_no_color: Cleara4210mmwidth297mmheight
+name_no_size: Cleara4210mmwidth297mmheight
+name_no_size_short: Cleara4210Mmwidth297Mmheight
+name_no_type: Cleara4210mmwidth297mmheight
+oomlout_detail_hierarchy_1: vinyl
+oomlout_detail_hierarchy_1_upper: VINYL
+oomlout_detail_hierarchy_1_upper_length_4: VINY
+oomlout_detail_hierarchy_2: clear
+oomlout_detail_hierarchy_2_upper: CLEAR
+oomlout_detail_hierarchy_2_upper_length_4: CLEA
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_vinyl_clear_a4_210_mm_width_297_mm_height
+oomp_word: smile anchor muscle
+oomp_word_emoji: ':smile: :anchor: :muscle:'
+oomp_word_emoji_list:
+- ':smile:'
+- ':anchor:'
+- ':muscle:'
+oomp_word_list:
+- smile
+- anchor
+- muscle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: c
+short_code_upper: C
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_name: ''
+type_upper: ''
+width: 210 mm

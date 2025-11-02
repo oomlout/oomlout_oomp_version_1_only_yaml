@@ -1,0 +1,302 @@
+bip_39_word_dash_12: solution-potato-network-slice-major-age-fantasy-vessel-property-royal-craft-armor
+bip_39_word_dash_2: solution-potato
+bip_39_word_dash_3: solution-potato-network
+bip_39_word_new_br_12: solution<br>potato<br>network<br>slice<br>major<br>age<br>fantasy<br>vessel<br>property<br>royal<br>craft<br>armor
+bip_39_word_new_br_2: solution<br>potato
+bip_39_word_new_br_3: solution<br>potato<br>network
+bip_39_word_new_line_12: 'solution
+
+  potato
+
+  network
+
+  slice
+
+  major
+
+  age
+
+  fantasy
+
+  vessel
+
+  property
+
+  royal
+
+  craft
+
+  armor'
+bip_39_word_new_line_2: 'solution
+
+  potato'
+bip_39_word_new_line_3: 'solution
+
+  potato
+
+  network'
+bip_39_word_no_space_12: solutionpotatonetworkslicemajoragefantasyvesselpropertyroyalcraftarmor
+bip_39_word_no_space_2: solutionpotato
+bip_39_word_no_space_3: solutionpotatonetwork
+bip_39_word_space_12: solution potato network slice major age fantasy vessel property
+  royal craft armor
+bip_39_word_space_2: solution potato
+bip_39_word_space_3: solution potato network
+bip_39_word_underscore_12: solution_potato_network_slice_major_age_fantasy_vessel_property_royal_craft_armor
+bip_39_word_underscore_2: solution_potato
+bip_39_word_underscore_3: solution_potato_network
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sta
+classification_length_4: stat
+classification_length_5: stati
+classification_length_6: statio
+classification_name: Stationery
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sta
+classification_no_space_length_4: stat
+classification_no_space_length_5: stati
+classification_no_space_length_6: statio
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STA
+classification_no_space_upper_length_4: STAT
+classification_no_space_upper_length_5: STATI
+classification_no_space_upper_length_6: STATIO
+classification_upper: STATIONERY
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STA
+classification_upper_length_4: STAT
+classification_upper_length_5: STATI
+classification_upper_length_6: STATIO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: purple
+description_extra_capital: Purple
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_length_1: p
+description_extra_length_2: pu
+description_extra_length_3: pur
+description_extra_length_4: purp
+description_extra_length_5: purpl
+description_extra_length_6: purple
+description_extra_name: Purple
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: pu
+description_extra_no_space_length_3: pur
+description_extra_no_space_length_4: purp
+description_extra_no_space_length_5: purpl
+description_extra_no_space_length_6: purple
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PU
+description_extra_no_space_upper_length_3: PUR
+description_extra_no_space_upper_length_4: PURP
+description_extra_no_space_upper_length_5: PURPL
+description_extra_no_space_upper_length_6: PURPLE
+description_extra_upper: PURPLE
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PU
+description_extra_upper_length_3: PUR
+description_extra_upper_length_4: PURP
+description_extra_upper_length_5: PURPL
+description_extra_upper_length_6: PURPLE
+description_main: 40_gram_30_mm_diameter_120_mm_length
+description_main_capital: 40 Gram 30 mm Diameter 120 mm Length
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_length_1: '4'
+description_main_length_2: '40'
+description_main_length_3: '40_'
+description_main_length_4: 40_g
+description_main_length_5: 40_gr
+description_main_length_6: 40_gra
+description_main_name: 40 Gram 30 mm Diameter 120 mm Length
+description_main_no_space_length_1: '4'
+description_main_no_space_length_2: '40'
+description_main_no_space_length_3: 40g
+description_main_no_space_length_4: 40gr
+description_main_no_space_length_5: 40gra
+description_main_no_space_length_6: 40gram
+description_main_no_space_upper_length_1: '4'
+description_main_no_space_upper_length_2: '40'
+description_main_no_space_upper_length_3: 40G
+description_main_no_space_upper_length_4: 40GR
+description_main_no_space_upper_length_5: 40GRA
+description_main_no_space_upper_length_6: 40GRAM
+description_main_upper: 40_GRAM_30_MM_DIAMETER_120_MM_LENGTH
+description_main_upper_length_1: '4'
+description_main_upper_length_2: '40'
+description_main_upper_length_3: '40_'
+description_main_upper_length_4: 40_G
+description_main_upper_length_5: 40_GR
+description_main_upper_length_6: 40_GRA
+description_only_numbers: '4030120'
+description_only_numbers_short: 4M
+description_or_color: 4M
+description_or_color_upper: 4M
+directory: parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+distributor_part_number_amazon: B08PCLDDWW
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+id: stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+id_no_class: glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+id_no_color: 40gram30mmdiameter120mmlengthpurpleelmers
+id_no_size: 40gram30mmdiameter120mmlengthpurpleelmers
+id_no_type: 40_gram_30_mm_diameter_120_mm_length_purple_elmers
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+link_2_name: link_github
+link_3: https://www.amazon.co.uk/dp/B08PCLDDWW
+link_3_name: link_distributor_amazon
+link_buy_1: https://www.amazon.co.uk/dp/B08PCLDDWW
+link_buy_1_name: link_distributor_amazon
+link_distributor_amazon: https://www.amazon.co.uk/dp/B08PCLDDWW
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207ffov
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207ffov
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207ffov
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207ffov
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+manufacturer: elmers
+manufacturer_capital: Elmers
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_length_1: e
+manufacturer_length_2: el
+manufacturer_length_3: elm
+manufacturer_length_4: elme
+manufacturer_length_5: elmer
+manufacturer_length_6: elmers
+manufacturer_name: Elmers
+manufacturer_no_space_length_1: e
+manufacturer_no_space_length_2: el
+manufacturer_no_space_length_3: elm
+manufacturer_no_space_length_4: elme
+manufacturer_no_space_length_5: elmer
+manufacturer_no_space_length_6: elmers
+manufacturer_no_space_upper_length_1: E
+manufacturer_no_space_upper_length_2: EL
+manufacturer_no_space_upper_length_3: ELM
+manufacturer_no_space_upper_length_4: ELME
+manufacturer_no_space_upper_length_5: ELMER
+manufacturer_no_space_upper_length_6: ELMERS
+manufacturer_upper: ELMERS
+manufacturer_upper_length_1: E
+manufacturer_upper_length_2: EL
+manufacturer_upper_length_3: ELM
+manufacturer_upper_length_4: ELME
+manufacturer_upper_length_5: ELMER
+manufacturer_upper_length_6: ELMERS
+manufacturers: []
+markdown_full: '[stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers](none)<br>[](none)<br>[Stationery
+  Glue Stick 40 Gram 30 Mm Diameter 120 Mm Length Purple Elmers](none)<br><br>'
+markdown_short: '[stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers](none)<br><br>'
+md5: be642f2d63f30a6013433cb729aa3676
+md5_10: be642f2d63
+md5_10_upper: BE642F2D63
+md5_5: be642
+md5_5_upper: BE642
+md5_6: be642f
+md5_6_alpha: 7ffov
+md5_6_alpha_upper: 7FFOV
+md5_6_upper: BE642F
+name: Stationery Glue Stick 40 Gram 30 mm Diameter 120 mm Length Purple Elmers
+name_no_class: Glue Stick 40 Gram 30 mm Diameter 120 mm Length Purple Elmers
+name_no_color: 40Gram30mmdiameter120mmlengthpurpleelmers
+name_no_size: 40Gram30mmdiameter120mmlengthpurpleelmers
+name_no_size_short: 40Gram30Mmdiameter120Mmlengthpurpleelmers
+name_no_type: 40 Gram 30 mm Diameter 120 mm Length Purple Elmers
+oomlout_detail_hierarchy_1: stationery
+oomlout_detail_hierarchy_1_upper: STATIONERY
+oomlout_detail_hierarchy_1_upper_length_4: STAT
+oomlout_detail_hierarchy_2: glue_stick
+oomlout_detail_hierarchy_2_upper: GLUE_STICK
+oomlout_detail_hierarchy_2_upper_length_4: GLUE
+oomlout_detail_hierarchy_3: 120_mm_length
+oomlout_detail_hierarchy_3_upper: 120_MM_LENGTH
+oomlout_detail_hierarchy_3_upper_length_4: 120L
+oomlout_detail_hierarchy_4: 40_gram
+oomlout_detail_hierarchy_4_upper: 40_GRAM
+oomlout_detail_hierarchy_4_upper_length_4: 40_G
+oomlout_detail_hierarchy_5: purple
+oomlout_detail_hierarchy_5_upper: PURPLE
+oomlout_detail_hierarchy_5_upper_length_4: PURP
+oomlout_detail_hierarchy_6: elmers
+oomlout_detail_hierarchy_6_upper: ELMERS
+oomlout_detail_hierarchy_6_upper_length_4: ELME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_stationery_glue_stick_40_gram_30_mm_diameter_120_mm_length_purple_elmers
+oomp_word: ramen sunflower cyclone
+oomp_word_emoji: ':ramen: :sunflower: :cyclone:'
+oomp_word_emoji_list:
+- ':ramen:'
+- ':sunflower:'
+- ':cyclone:'
+oomp_word_list:
+- ramen
+- sunflower
+- cyclone
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: glue_stick
+type_capital: Glue Stick
+type_first_letter: g
+type_first_letter_upper: G
+type_length_1: g
+type_length_2: gl
+type_length_3: glu
+type_length_4: glue
+type_length_5: glue_
+type_length_6: glue_s
+type_name: Glue Stick
+type_no_space_length_1: g
+type_no_space_length_2: gl
+type_no_space_length_3: glu
+type_no_space_length_4: glue
+type_no_space_length_5: glues
+type_no_space_length_6: gluest
+type_no_space_upper_length_1: G
+type_no_space_upper_length_2: GL
+type_no_space_upper_length_3: GLU
+type_no_space_upper_length_4: GLUE
+type_no_space_upper_length_5: GLUES
+type_no_space_upper_length_6: GLUEST
+type_upper: GLUE_STICK
+type_upper_length_1: G
+type_upper_length_2: GL
+type_upper_length_3: GLU
+type_upper_length_4: GLUE
+type_upper_length_5: GLUE_
+type_upper_length_6: GLUE_S

@@ -1,0 +1,366 @@
+bip_39_word_dash_12: buyer-oppose-invite-volcano-kingdom-fog-hood-van-own-used-east-atom
+bip_39_word_dash_2: buyer-oppose
+bip_39_word_dash_3: buyer-oppose-invite
+bip_39_word_new_br_12: buyer<br>oppose<br>invite<br>volcano<br>kingdom<br>fog<br>hood<br>van<br>own<br>used<br>east<br>atom
+bip_39_word_new_br_2: buyer<br>oppose
+bip_39_word_new_br_3: buyer<br>oppose<br>invite
+bip_39_word_new_line_12: 'buyer
+
+  oppose
+
+  invite
+
+  volcano
+
+  kingdom
+
+  fog
+
+  hood
+
+  van
+
+  own
+
+  used
+
+  east
+
+  atom'
+bip_39_word_new_line_2: 'buyer
+
+  oppose'
+bip_39_word_new_line_3: 'buyer
+
+  oppose
+
+  invite'
+bip_39_word_no_space_12: buyeropposeinvitevolcanokingdomfoghoodvanownusedeastatom
+bip_39_word_no_space_2: buyeroppose
+bip_39_word_no_space_3: buyeropposeinvite
+bip_39_word_space_12: buyer oppose invite volcano kingdom fog hood van own used east
+  atom
+bip_39_word_space_2: buyer oppose
+bip_39_word_space_3: buyer oppose invite
+bip_39_word_underscore_12: buyer_oppose_invite_volcano_kingdom_fog_hood_van_own_used_east_atom
+bip_39_word_underscore_2: buyer_oppose
+bip_39_word_underscore_3: buyer_oppose_invite
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: tmc2100
+color_capital: Tmc2100
+color_first_letter: t
+color_first_letter_upper: T
+color_length_1: t
+color_length_2: tm
+color_length_3: tmc
+color_length_4: tmc2
+color_length_5: tmc21
+color_length_6: tmc210
+color_name: Tmc2100
+color_no_space_length_1: t
+color_no_space_length_2: tm
+color_no_space_length_3: tmc
+color_no_space_length_4: tmc2
+color_no_space_length_5: tmc21
+color_no_space_length_6: tmc210
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TM
+color_no_space_upper_length_3: TMC
+color_no_space_upper_length_4: TMC2
+color_no_space_upper_length_5: TMC21
+color_no_space_upper_length_6: TMC210
+color_upper: TMC2100
+color_upper_length_1: T
+color_upper_length_2: TM
+color_upper_length_3: TMC
+color_upper_length_4: TMC2
+color_upper_length_5: TMC21
+color_upper_length_6: TMC210
+description: A common breakout format for a stepper motor driver
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 15_24_mm_width_20_32_mm_length
+description_main_capital: 15.24 mm Width 20 32 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '15'
+description_main_length_3: '15_'
+description_main_length_4: '15_2'
+description_main_length_5: '15_24'
+description_main_length_6: '15_24_'
+description_main_name: 15 24 mm Width 20 32 mm Length
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '15'
+description_main_no_space_length_3: '152'
+description_main_no_space_length_4: '1524'
+description_main_no_space_length_5: 1524m
+description_main_no_space_length_6: 1524mm
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '15'
+description_main_no_space_upper_length_3: '152'
+description_main_no_space_upper_length_4: '1524'
+description_main_no_space_upper_length_5: 1524M
+description_main_no_space_upper_length_6: 1524MM
+description_main_upper: 15_24_MM_WIDTH_20_32_MM_LENGTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '15'
+description_main_upper_length_3: '15_'
+description_main_upper_length_4: '15_2'
+description_main_upper_length_5: '15_24'
+description_main_upper_length_6: '15_24_'
+description_only_numbers: '15242032'
+description_only_numbers_short: 1M5
+description_or_color: T1M5
+description_or_color_upper: T1M5
+directory: parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+id: electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+id_no_class: breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+id_no_color: 15_24_mm_width_20_32_mm_length
+id_no_size: tmc2100_15_24_mm_width_20_32_mm_length
+id_no_type: step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+kicad_reference: BB
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208x117
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208x117
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208x117
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208x117
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length](none)<br>[ss](none)<br>[Electronic
+  Breakout Board Motor Driver Step Stick Tmc2100 15 24 Mm Width 20 32 Mm Length](none)<br><br>'
+markdown_short: '[electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length](none)<br><br>'
+md5: e48b7bf4f0f12da9693d5f5aec26e0fb
+md5_10: e48b7bf4f0
+md5_10_upper: E48B7BF4F0
+md5_5: e48b7
+md5_5_upper: E48B7
+md5_6: e48b7b
+md5_6_alpha: 8x117
+md5_6_alpha_upper: 8X117
+md5_6_upper: E48B7B
+name: Electronic Breakout Board Motor Driver Step Stick Tmc2100 15 24 mm Width 20
+  32 mm Length
+name_no_class: Breakout Board Motor Driver Step Stick Tmc2100 15 24 mm Width 20 32
+  mm Length
+name_no_color: 15 24 mm Width 20 32 mm Length
+name_no_size: Tmc2100 15 24 mm Width 20 32 mm Length
+name_no_size_short: Tmc2100 15 24 Mm Width 20 32 Mm Length
+name_no_type: Step Stick Tmc2100 15 24 mm Width 20 32 mm Length
+notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: breakout_board_motor_driver
+oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+oomlout_detail_hierarchy_2_upper_length_4: BREA
+oomlout_detail_hierarchy_3: step_stick
+oomlout_detail_hierarchy_3_upper: STEP_STICK
+oomlout_detail_hierarchy_3_upper_length_4: STEP
+oomlout_detail_hierarchy_4: tmc2100
+oomlout_detail_hierarchy_4_upper: TMC2100
+oomlout_detail_hierarchy_4_upper_length_4: TMC2
+oomlout_detail_hierarchy_5: 24_mm_width
+oomlout_detail_hierarchy_5_upper: 24_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 24WI
+oomlout_detail_hierarchy_6: 32_mm_length
+oomlout_detail_hierarchy_6_upper: 32_MM_LENGTH
+oomlout_detail_hierarchy_6_upper_length_4: 32LE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_breakout_board_motor_driver_step_stick_tmc2100_15_24_mm_width_20_32_mm_length
+oomp_word: anchor door computer
+oomp_word_emoji: ':anchor: :door: :computer:'
+oomp_word_emoji_list:
+- ':anchor:'
+- ':door:'
+- ':computer:'
+oomp_word_list:
+- anchor
+- door
+- computer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+pins:
+  pin_1:
+    name: en
+    number: '1'
+    type: signal
+  pin_10:
+    name: vdd
+    number: '10'
+    type: signal
+  pin_11:
+    name: 1b
+    number: '11'
+    type: signal
+  pin_12:
+    name: 1a
+    number: '12'
+    type: signal
+  pin_13:
+    name: 2a
+    number: '13'
+    type: signal
+  pin_14:
+    name: 2b
+    number: '14'
+    type: signal
+  pin_15:
+    name: gnd
+    number: '15'
+    type: signal
+  pin_16:
+    name: vmot
+    number: '16'
+    type: signal
+  pin_2:
+    name: ms1
+    number: '2'
+    type: signal
+  pin_3:
+    name: ms2
+    number: '3'
+    type: signal
+  pin_4:
+    name: ms3
+    number: '4'
+    type: power
+  pin_5:
+    name: rst
+    number: '5'
+    type: signal
+  pin_6:
+    name: slp
+    number: '6'
+    type: signal
+  pin_7:
+    name: step
+    number: '7'
+    type: signal
+  pin_8:
+    name: dir
+    number: '8'
+    type: signal
+  pin_9:
+    name: gnd
+    number: '9'
+    type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ss
+short_code_upper: SS
+short_name: ''
+size: step_stick
+size_capital: Step Stick
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: ste
+size_length_4: step
+size_length_5: step_
+size_length_6: step_s
+size_name: Step Stick
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: ste
+size_no_space_length_4: step
+size_no_space_length_5: steps
+size_no_space_length_6: stepst
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STE
+size_no_space_upper_length_4: STEP
+size_no_space_upper_length_5: STEPS
+size_no_space_upper_length_6: STEPST
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STEP_STICK
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STE
+size_upper_length_4: STEP
+size_upper_length_5: STEP_
+size_upper_length_6: STEP_S
+type: breakout_board_motor_driver
+type_capital: Breakout Board Motor Driver
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: br
+type_length_3: bre
+type_length_4: brea
+type_length_5: break
+type_length_6: breako
+type_name: Breakout Board Motor Driver
+type_no_space_length_1: b
+type_no_space_length_2: br
+type_no_space_length_3: bre
+type_no_space_length_4: brea
+type_no_space_length_5: break
+type_no_space_length_6: breako
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BR
+type_no_space_upper_length_3: BRE
+type_no_space_upper_length_4: BREA
+type_no_space_upper_length_5: BREAK
+type_no_space_upper_length_6: BREAKO
+type_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+type_upper_length_1: B
+type_upper_length_2: BR
+type_upper_length_3: BRE
+type_upper_length_4: BREA
+type_upper_length_5: BREAK
+type_upper_length_6: BREAKO

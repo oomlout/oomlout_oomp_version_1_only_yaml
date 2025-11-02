@@ -1,0 +1,239 @@
+bip_39_word_dash_12: business-pond-knee-olympic-speed-wolf-cactus-oval-learn-give-body-author
+bip_39_word_dash_2: business-pond
+bip_39_word_dash_3: business-pond-knee
+bip_39_word_new_br_12: business<br>pond<br>knee<br>olympic<br>speed<br>wolf<br>cactus<br>oval<br>learn<br>give<br>body<br>author
+bip_39_word_new_br_2: business<br>pond
+bip_39_word_new_br_3: business<br>pond<br>knee
+bip_39_word_new_line_12: 'business
+
+  pond
+
+  knee
+
+  olympic
+
+  speed
+
+  wolf
+
+  cactus
+
+  oval
+
+  learn
+
+  give
+
+  body
+
+  author'
+bip_39_word_new_line_2: 'business
+
+  pond'
+bip_39_word_new_line_3: 'business
+
+  pond
+
+  knee'
+bip_39_word_no_space_12: businesspondkneeolympicspeedwolfcactusovallearngivebodyauthor
+bip_39_word_no_space_2: businesspond
+bip_39_word_no_space_3: businesspondknee
+bip_39_word_space_12: business pond knee olympic speed wolf cactus oval learn give
+  body author
+bip_39_word_space_2: business pond
+bip_39_word_space_3: business pond knee
+bip_39_word_underscore_12: business_pond_knee_olympic_speed_wolf_cactus_oval_learn_give_body_author
+bip_39_word_underscore_2: business_pond
+bip_39_word_underscore_3: business_pond_knee
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_length_1: b
+classification_length_2: bo
+classification_length_3: boo
+classification_length_4: book
+classification_length_5: book
+classification_length_6: book
+classification_name: Book
+classification_no_space_length_1: b
+classification_no_space_length_2: bo
+classification_no_space_length_3: boo
+classification_no_space_length_4: book
+classification_no_space_length_5: book
+classification_no_space_length_6: book
+classification_no_space_upper_length_1: B
+classification_no_space_upper_length_2: BO
+classification_no_space_upper_length_3: BOO
+classification_no_space_upper_length_4: BOOK
+classification_no_space_upper_length_5: BOOK
+classification_no_space_upper_length_6: BOOK
+classification_upper: BOOK
+classification_upper_length_1: B
+classification_upper_length_2: BO
+classification_upper_length_3: BOO
+classification_upper_length_4: BOOK
+classification_upper_length_5: BOOK
+classification_upper_length_6: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_activity_math
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/book_activity_math
+id: book_activity_math
+id_no_class: activity_math
+id_no_color: math
+id_no_size: math
+id_no_type: math
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209ltjs
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209ltjs
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209ltjs
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209ltjs
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_activity_math](none)<br>[](none)<br>[Book Activity Math](none)<br><br>'
+markdown_short: '[book_activity_math](none)<br><br>'
+md5: f631d89bf69da403f36889a4f729f0f8
+md5_10: f631d89bf6
+md5_10_upper: F631D89BF6
+md5_5: f631d
+md5_5_upper: F631D
+md5_6: f631d8
+md5_6_alpha: 9ltjs
+md5_6_alpha_upper: 9LTJS
+md5_6_upper: F631D8
+name: Book Activity Math
+name_no_class: Activity Math
+name_no_color: Math
+name_no_size: Math
+name_no_size_short: Math
+name_no_type: Math
+oomlout_detail_hierarchy_1: book
+oomlout_detail_hierarchy_1_upper: BOOK
+oomlout_detail_hierarchy_1_upper_length_4: BOOK
+oomlout_detail_hierarchy_2: activity
+oomlout_detail_hierarchy_2_upper: ACTIVITY
+oomlout_detail_hierarchy_2_upper_length_4: ACTI
+oomlout_detail_hierarchy_3: math
+oomlout_detail_hierarchy_3_upper: MATH
+oomlout_detail_hierarchy_3_upper_length_4: MATH
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_book_activity_math
+oomp_word: five ocean hospital
+oomp_word_emoji: ':five: :ocean: :hospital:'
+oomp_word_emoji_list:
+- ':five:'
+- ':ocean:'
+- ':hospital:'
+oomp_word_list:
+- five
+- ocean
+- hospital
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: math
+size_capital: Math
+size_first_letter: m
+size_first_letter_upper: M
+size_length_1: m
+size_length_2: ma
+size_length_3: mat
+size_length_4: math
+size_length_5: math
+size_length_6: math
+size_name: Math
+size_no_space_length_1: m
+size_no_space_length_2: ma
+size_no_space_length_3: mat
+size_no_space_length_4: math
+size_no_space_length_5: math
+size_no_space_length_6: math
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: MA
+size_no_space_upper_length_3: MAT
+size_no_space_upper_length_4: MATH
+size_no_space_upper_length_5: MATH
+size_no_space_upper_length_6: MATH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MATH
+size_upper_length_1: M
+size_upper_length_2: MA
+size_upper_length_3: MAT
+size_upper_length_4: MATH
+size_upper_length_5: MATH
+size_upper_length_6: MATH
+type: activity
+type_capital: Activity
+type_first_letter: a
+type_first_letter_upper: A
+type_length_1: a
+type_length_2: ac
+type_length_3: act
+type_length_4: acti
+type_length_5: activ
+type_length_6: activi
+type_name: Activity
+type_no_space_length_1: a
+type_no_space_length_2: ac
+type_no_space_length_3: act
+type_no_space_length_4: acti
+type_no_space_length_5: activ
+type_no_space_length_6: activi
+type_no_space_upper_length_1: A
+type_no_space_upper_length_2: AC
+type_no_space_upper_length_3: ACT
+type_no_space_upper_length_4: ACTI
+type_no_space_upper_length_5: ACTIV
+type_no_space_upper_length_6: ACTIVI
+type_upper: ACTIVITY
+type_upper_length_1: A
+type_upper_length_2: AC
+type_upper_length_3: ACT
+type_upper_length_4: ACTI
+type_upper_length_5: ACTIV
+type_upper_length_6: ACTIVI

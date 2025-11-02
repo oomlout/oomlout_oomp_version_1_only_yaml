@@ -1,0 +1,356 @@
+bip_39_word_dash_12: muscle-stumble-palace-riot-wash-ritual-supreme-nominee-judge-capital-donor-artwork
+bip_39_word_dash_2: muscle-stumble
+bip_39_word_dash_3: muscle-stumble-palace
+bip_39_word_new_br_12: muscle<br>stumble<br>palace<br>riot<br>wash<br>ritual<br>supreme<br>nominee<br>judge<br>capital<br>donor<br>artwork
+bip_39_word_new_br_2: muscle<br>stumble
+bip_39_word_new_br_3: muscle<br>stumble<br>palace
+bip_39_word_new_line_12: 'muscle
+
+  stumble
+
+  palace
+
+  riot
+
+  wash
+
+  ritual
+
+  supreme
+
+  nominee
+
+  judge
+
+  capital
+
+  donor
+
+  artwork'
+bip_39_word_new_line_2: 'muscle
+
+  stumble'
+bip_39_word_new_line_3: 'muscle
+
+  stumble
+
+  palace'
+bip_39_word_no_space_12: musclestumblepalaceriotwashritualsupremenomineejudgecapitaldonorartwork
+bip_39_word_no_space_2: musclestumble
+bip_39_word_no_space_3: musclestumblepalace
+bip_39_word_space_12: muscle stumble palace riot wash ritual supreme nominee judge
+  capital donor artwork
+bip_39_word_space_2: muscle stumble
+bip_39_word_space_3: muscle stumble palace
+bip_39_word_underscore_12: muscle_stumble_palace_riot_wash_ritual_supreme_nominee_judge_capital_donor_artwork
+bip_39_word_underscore_2: muscle_stumble
+bip_39_word_underscore_3: muscle_stumble_palace
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: A closed loop stepper motor controller
+description_extra: closed_loop
+description_extra_capital: Closed Loop
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cl
+description_extra_length_3: clo
+description_extra_length_4: clos
+description_extra_length_5: close
+description_extra_length_6: closed
+description_extra_name: Closed Loop
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cl
+description_extra_no_space_length_3: clo
+description_extra_no_space_length_4: clos
+description_extra_no_space_length_5: close
+description_extra_no_space_length_6: closed
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CL
+description_extra_no_space_upper_length_3: CLO
+description_extra_no_space_upper_length_4: CLOS
+description_extra_no_space_upper_length_5: CLOSE
+description_extra_no_space_upper_length_6: CLOSED
+description_extra_upper: CLOSED_LOOP
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CL
+description_extra_upper_length_3: CLO
+description_extra_upper_length_4: CLOS
+description_extra_upper_length_5: CLOSE
+description_extra_upper_length_6: CLOSED
+description_main: stepper_motor
+description_main_capital: Stepper Motor
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_length_1: s
+description_main_length_2: st
+description_main_length_3: ste
+description_main_length_4: step
+description_main_length_5: stepp
+description_main_length_6: steppe
+description_main_name: Stepper Motor
+description_main_no_space_length_1: s
+description_main_no_space_length_2: st
+description_main_no_space_length_3: ste
+description_main_no_space_length_4: step
+description_main_no_space_length_5: stepp
+description_main_no_space_length_6: steppe
+description_main_no_space_upper_length_1: S
+description_main_no_space_upper_length_2: ST
+description_main_no_space_upper_length_3: STE
+description_main_no_space_upper_length_4: STEP
+description_main_no_space_upper_length_5: STEPP
+description_main_no_space_upper_length_6: STEPPE
+description_main_upper: STEPPER_MOTOR
+description_main_upper_length_1: S
+description_main_upper_length_2: ST
+description_main_upper_length_3: STE
+description_main_upper_length_4: STEP
+description_main_upper_length_5: STEPP
+description_main_upper_length_6: STEPPE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+id: electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+id_no_class: breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+id_no_color: steppermotorclosedloopmakerbasemksservo42c
+id_no_size: stepper_motor_closed_loop_makerbase_mks_servo42c
+id_no_type: nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2087p1k
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2087p1k
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2087p1k
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2087p1k
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+manufacturer: makerbase
+manufacturer_capital: Makerbase
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_length_1: m
+manufacturer_length_2: ma
+manufacturer_length_3: mak
+manufacturer_length_4: make
+manufacturer_length_5: maker
+manufacturer_length_6: makerb
+manufacturer_name: Makerbase
+manufacturer_no_space_length_1: m
+manufacturer_no_space_length_2: ma
+manufacturer_no_space_length_3: mak
+manufacturer_no_space_length_4: make
+manufacturer_no_space_length_5: maker
+manufacturer_no_space_length_6: makerb
+manufacturer_no_space_upper_length_1: M
+manufacturer_no_space_upper_length_2: MA
+manufacturer_no_space_upper_length_3: MAK
+manufacturer_no_space_upper_length_4: MAKE
+manufacturer_no_space_upper_length_5: MAKER
+manufacturer_no_space_upper_length_6: MAKERB
+manufacturer_upper: MAKERBASE
+manufacturer_upper_length_1: M
+manufacturer_upper_length_2: MA
+manufacturer_upper_length_3: MAK
+manufacturer_upper_length_4: MAKE
+manufacturer_upper_length_5: MAKER
+manufacturer_upper_length_6: MAKERB
+manufacturers: []
+markdown_full: '[electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](none)<br>[sm](none)<br>[Electronic
+  Breakout Board Motor Driver Nema 17 39 Mm Width 39 Mm Height Stepper Motor Closed
+  Loop Makerbase Mks Servo42C](none)<br><br>'
+markdown_short: '[electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c](none)<br><br>'
+md5: d2828883c595fb3eea7bbba33e75ec8c
+md5_10: d2828883c5
+md5_10_upper: D2828883C5
+md5_5: d2828
+md5_5_upper: D2828
+md5_6: d28288
+md5_6_alpha: 87p1k
+md5_6_alpha_upper: 87P1K
+md5_6_upper: D28288
+name: Electronic Breakout Board Motor Driver Nema 17 39 mm Width 39 mm Height Stepper
+  Motor Closed Loop Makerbase Mks Servo42C
+name_no_class: Breakout Board Motor Driver Nema 17 39 mm Width 39 mm Height Stepper
+  Motor Closed Loop Makerbase Mks Servo42C
+name_no_color: Steppermotorclosedloopmakerbasemksservo42C
+name_no_size: Stepper Motor Closed Loop Makerbase Mks Servo42C
+name_no_size_short: Stepper Motor Closed Loop Makerbase Mks Servo42C
+name_no_type: Nema 17 39 mm Width 39 mm Height Stepper Motor Closed Loop Makerbase
+  Mks Servo42C
+notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: breakout_board_motor_driver
+oomlout_detail_hierarchy_2_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+oomlout_detail_hierarchy_2_upper_length_4: BREA
+oomlout_detail_hierarchy_3: 39_mm_width
+oomlout_detail_hierarchy_3_upper: 39_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 39WI
+oomlout_detail_hierarchy_4: 39_mm_height
+oomlout_detail_hierarchy_4_upper: 39_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 39HE
+oomlout_detail_hierarchy_5: stepper_motor
+oomlout_detail_hierarchy_5_upper: STEPPER_MOTOR
+oomlout_detail_hierarchy_5_upper_length_4: STEP
+oomlout_detail_hierarchy_6: closed_loop
+oomlout_detail_hierarchy_6_upper: CLOSED_LOOP
+oomlout_detail_hierarchy_6_upper_length_4: CLOS
+oomlout_detail_hierarchy_7: makerbase
+oomlout_detail_hierarchy_7_upper: MAKERBASE
+oomlout_detail_hierarchy_7_upper_length_4: MAKE
+oomlout_detail_hierarchy_8: mks_servo42c
+oomlout_detail_hierarchy_8_upper: MKS_SERVO42C
+oomlout_detail_hierarchy_8_upper_length_4: MKS_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_breakout_board_motor_driver_nema_17_39_mm_width_39_mm_height_stepper_motor_closed_loop_makerbase_mks_servo42c
+oomp_word: pineapple radio wrench
+oomp_word_emoji: ':pineapple: :radio: :wrench:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':radio:'
+- ':wrench:'
+oomp_word_list:
+- pineapple
+- radio
+- wrench
+part_number: mks_servo42c
+part_number_capital: Mks Servo42C
+part_number_first_letter: m
+part_number_first_letter_upper: M
+part_number_length_1: m
+part_number_length_2: mk
+part_number_length_3: mks
+part_number_length_4: mks_
+part_number_length_5: mks_s
+part_number_length_6: mks_se
+part_number_name: Mks Servo42C
+part_number_no_space_length_1: m
+part_number_no_space_length_2: mk
+part_number_no_space_length_3: mks
+part_number_no_space_length_4: mkss
+part_number_no_space_length_5: mksse
+part_number_no_space_length_6: mksser
+part_number_no_space_upper_length_1: M
+part_number_no_space_upper_length_2: MK
+part_number_no_space_upper_length_3: MKS
+part_number_no_space_upper_length_4: MKSS
+part_number_no_space_upper_length_5: MKSSE
+part_number_no_space_upper_length_6: MKSSER
+part_number_upper: MKS_SERVO42C
+part_number_upper_length_1: M
+part_number_upper_length_2: MK
+part_number_upper_length_3: MKS
+part_number_upper_length_4: MKS_
+part_number_upper_length_5: MKS_S
+part_number_upper_length_6: MKS_SE
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: sm
+short_code_upper: SM
+short_name: ''
+size: nema_17_39_mm_width_39_mm_height
+size_capital: Nema 17.39 mm Width 39 mm Height
+size_first_letter: n
+size_first_letter_upper: N
+size_length_1: n
+size_length_2: ne
+size_length_3: nem
+size_length_4: nema
+size_length_5: nema_
+size_length_6: nema_1
+size_name: Nema 17 39 mm Width 39 mm Height
+size_no_space_length_1: n
+size_no_space_length_2: ne
+size_no_space_length_3: nem
+size_no_space_length_4: nema
+size_no_space_length_5: nema1
+size_no_space_length_6: nema17
+size_no_space_upper_length_1: N
+size_no_space_upper_length_2: NE
+size_no_space_upper_length_3: NEM
+size_no_space_upper_length_4: NEMA
+size_no_space_upper_length_5: NEMA1
+size_no_space_upper_length_6: NEMA17
+size_only_numbers: '173939'
+size_only_numbers_no_zeros: '173939'
+size_upper: NEMA_17_39_MM_WIDTH_39_MM_HEIGHT
+size_upper_length_1: N
+size_upper_length_2: NE
+size_upper_length_3: NEM
+size_upper_length_4: NEMA
+size_upper_length_5: NEMA_
+size_upper_length_6: NEMA_1
+type: breakout_board_motor_driver
+type_capital: Breakout Board Motor Driver
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: br
+type_length_3: bre
+type_length_4: brea
+type_length_5: break
+type_length_6: breako
+type_name: Breakout Board Motor Driver
+type_no_space_length_1: b
+type_no_space_length_2: br
+type_no_space_length_3: bre
+type_no_space_length_4: brea
+type_no_space_length_5: break
+type_no_space_length_6: breako
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BR
+type_no_space_upper_length_3: BRE
+type_no_space_upper_length_4: BREA
+type_no_space_upper_length_5: BREAK
+type_no_space_upper_length_6: BREAKO
+type_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+type_upper_length_1: B
+type_upper_length_2: BR
+type_upper_length_3: BRE
+type_upper_length_4: BREA
+type_upper_length_5: BREAK
+type_upper_length_6: BREAKO

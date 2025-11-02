@@ -1,0 +1,384 @@
+bip_39_word_dash_12: love-power-suffer-mercy-fluid-ocean-limit-indoor-normal-theme-suffer-arrive
+bip_39_word_dash_2: love-power
+bip_39_word_dash_3: love-power-suffer
+bip_39_word_new_br_12: love<br>power<br>suffer<br>mercy<br>fluid<br>ocean<br>limit<br>indoor<br>normal<br>theme<br>suffer<br>arrive
+bip_39_word_new_br_2: love<br>power
+bip_39_word_new_br_3: love<br>power<br>suffer
+bip_39_word_new_line_12: 'love
+
+  power
+
+  suffer
+
+  mercy
+
+  fluid
+
+  ocean
+
+  limit
+
+  indoor
+
+  normal
+
+  theme
+
+  suffer
+
+  arrive'
+bip_39_word_new_line_2: 'love
+
+  power'
+bip_39_word_new_line_3: 'love
+
+  power
+
+  suffer'
+bip_39_word_no_space_12: lovepowersuffermercyfluidoceanlimitindoornormalthemesufferarrive
+bip_39_word_no_space_2: lovepower
+bip_39_word_no_space_3: lovepowersuffer
+bip_39_word_space_12: love power suffer mercy fluid ocean limit indoor normal theme
+  suffer arrive
+bip_39_word_space_2: love power
+bip_39_word_space_3: love power suffer
+bip_39_word_underscore_12: love_power_suffer_mercy_fluid_ocean_limit_indoor_normal_theme_suffer_arrive
+bip_39_word_underscore_2: love_power
+bip_39_word_underscore_3: love_power_suffer
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_length_1: r
+classification_length_2: re
+classification_length_3: rem
+classification_length_4: remo
+classification_length_5: remot
+classification_length_6: remote
+classification_name: Remote Control
+classification_no_space_length_1: r
+classification_no_space_length_2: re
+classification_no_space_length_3: rem
+classification_no_space_length_4: remo
+classification_no_space_length_5: remot
+classification_no_space_length_6: remote
+classification_no_space_upper_length_1: R
+classification_no_space_upper_length_2: RE
+classification_no_space_upper_length_3: REM
+classification_no_space_upper_length_4: REMO
+classification_no_space_upper_length_5: REMOT
+classification_no_space_upper_length_6: REMOTE
+classification_upper: REMOTE_CONTROL
+classification_upper_length_1: R
+classification_upper_length_2: RE
+classification_upper_length_3: REM
+classification_upper_length_4: REMO
+classification_upper_length_5: REMOT
+classification_upper_length_6: REMOTE
+color: 10_amp_maximum_current
+color_capital: 10 Amp Maximum Current
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_length_1: '1'
+color_length_2: '10'
+color_length_3: '10_'
+color_length_4: 10_a
+color_length_5: 10_am
+color_length_6: 10_amp
+color_name: 10 Amp Maximum Current
+color_no_space_length_1: '1'
+color_no_space_length_2: '10'
+color_no_space_length_3: 10a
+color_no_space_length_4: 10am
+color_no_space_length_5: 10amp
+color_no_space_length_6: 10ampm
+color_no_space_upper_length_1: '1'
+color_no_space_upper_length_2: '10'
+color_no_space_upper_length_3: 10A
+color_no_space_upper_length_4: 10AM
+color_no_space_upper_length_5: 10AMP
+color_no_space_upper_length_6: 10AMPM
+color_upper: 10_AMP_MAXIMUM_CURRENT
+color_upper_length_1: '1'
+color_upper_length_2: '10'
+color_upper_length_3: '10_'
+color_upper_length_4: 10_A
+color_upper_length_5: 10_AM
+color_upper_length_6: 10_AMP
+description_extra: 6s_22_volt_maximum
+description_extra_capital: 6S 22 Volt Maximum
+description_extra_first_letter: '6'
+description_extra_first_letter_upper: '6'
+description_extra_length_1: '6'
+description_extra_length_2: 6s
+description_extra_length_3: 6s_
+description_extra_length_4: 6s_2
+description_extra_length_5: 6s_22
+description_extra_length_6: 6s_22_
+description_extra_name: 6S 22 Volt Maximum
+description_extra_no_space_length_1: '6'
+description_extra_no_space_length_2: 6s
+description_extra_no_space_length_3: 6s2
+description_extra_no_space_length_4: 6s22
+description_extra_no_space_length_5: 6s22v
+description_extra_no_space_length_6: 6s22vo
+description_extra_no_space_upper_length_1: '6'
+description_extra_no_space_upper_length_2: 6S
+description_extra_no_space_upper_length_3: 6S2
+description_extra_no_space_upper_length_4: 6S22
+description_extra_no_space_upper_length_5: 6S22V
+description_extra_no_space_upper_length_6: 6S22VO
+description_extra_upper: 6S_22_VOLT_MAXIMUM
+description_extra_upper_length_1: '6'
+description_extra_upper_length_2: 6S
+description_extra_upper_length_3: 6S_
+description_extra_upper_length_4: 6S_2
+description_extra_upper_length_5: 6S_22
+description_extra_upper_length_6: 6S_22_
+description_main: 25_mm_width_45_mm_height_black_pcb
+description_main_capital: 25 mm Width 45 mm Height Black Pcb
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '25'
+description_main_length_3: '25_'
+description_main_length_4: 25_m
+description_main_length_5: 25_mm
+description_main_length_6: 25_mm_
+description_main_name: 25 mm Width 45 mm Height Black PCB
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '25'
+description_main_no_space_length_3: 25m
+description_main_no_space_length_4: 25mm
+description_main_no_space_length_5: 25mmw
+description_main_no_space_length_6: 25mmwi
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '25'
+description_main_no_space_upper_length_3: 25M
+description_main_no_space_upper_length_4: 25MM
+description_main_no_space_upper_length_5: 25MMW
+description_main_no_space_upper_length_6: 25MMWI
+description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '25'
+description_main_upper_length_3: '25_'
+description_main_upper_length_4: 25_M
+description_main_upper_length_5: 25_MM
+description_main_upper_length_6: 25_MM_
+description_only_numbers: '2545'
+description_only_numbers_short: 2k5
+description_or_color: 12k5
+description_or_color_upper: 12K5
+directory: parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+id: remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+id_no_class: electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+id_no_color: 25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+id_no_type: brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207vb7c
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207vb7c
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207vb7c
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207vb7c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+manufacturer: kingmodel
+manufacturer_capital: Kingmodel
+manufacturer_first_letter: k
+manufacturer_first_letter_upper: K
+manufacturer_length_1: k
+manufacturer_length_2: ki
+manufacturer_length_3: kin
+manufacturer_length_4: king
+manufacturer_length_5: kingm
+manufacturer_length_6: kingmo
+manufacturer_name: Kingmodel
+manufacturer_no_space_length_1: k
+manufacturer_no_space_length_2: ki
+manufacturer_no_space_length_3: kin
+manufacturer_no_space_length_4: king
+manufacturer_no_space_length_5: kingm
+manufacturer_no_space_length_6: kingmo
+manufacturer_no_space_upper_length_1: K
+manufacturer_no_space_upper_length_2: KI
+manufacturer_no_space_upper_length_3: KIN
+manufacturer_no_space_upper_length_4: KING
+manufacturer_no_space_upper_length_5: KINGM
+manufacturer_no_space_upper_length_6: KINGMO
+manufacturer_upper: KINGMODEL
+manufacturer_upper_length_1: K
+manufacturer_upper_length_2: KI
+manufacturer_upper_length_3: KIN
+manufacturer_upper_length_4: KING
+manufacturer_upper_length_5: KINGM
+manufacturer_upper_length_6: KINGMO
+manufacturers: []
+markdown_full: '[remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+  Control Electronic Speed Controller Brushed Style Dual Motor Tank 10 Amp Maximum
+  Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+markdown_short: '[remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+md5: c9b17804b173103e63acd8b5b16a5423
+md5_10: c9b17804b1
+md5_10_upper: C9B17804B1
+md5_5: c9b17
+md5_5_upper: C9B17
+md5_6: c9b178
+md5_6_alpha: 7vb7c
+md5_6_alpha_upper: 7VB7C
+md5_6_upper: C9B178
+name: Remote Control Electronic Speed Controller Brushed Style Dual Motor Tank 10
+  Amp Maximum Current 25 mm Width 45 mm Height Black PCB 6S 22 Volt Maximum Kingmodel
+  10Ax2
+name_no_class: Electronic Speed Controller Brushed Style Dual Motor Tank 10 Amp Maximum
+  Current 25 mm Width 45 mm Height Black PCB 6S 22 Volt Maximum Kingmodel 10Ax2
+name_no_color: 25 mm Width 45 mm Height Black PCB 6S 22 Volt Maximum Kingmodel 10Ax2
+name_no_size: 10 Amp Maximum Current 25 mm Width 45 mm Height Black PCB 6S 22 Volt
+  Maximum Kingmodel 10Ax2
+name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+  Volt Maximum Kingmodel 10Ax2
+name_no_type: Brushed Style Dual Motor Tank 10 Amp Maximum Current 25 mm Width 45
+  mm Height Black PCB 6S 22 Volt Maximum Kingmodel 10Ax2
+oomlout_detail_hierarchy_1: remote_control
+oomlout_detail_hierarchy_1_upper: REMOTE_CONTROL
+oomlout_detail_hierarchy_1_upper_length_4: REMO
+oomlout_detail_hierarchy_2: electronic_speed_controller
+oomlout_detail_hierarchy_2_upper: ELECTRONIC_SPEED_CONTROLLER
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: brushed_style_dual_motor_tank
+oomlout_detail_hierarchy_3_upper: BRUSHED_STYLE_DUAL_MOTOR_TANK
+oomlout_detail_hierarchy_3_upper_length_4: BRUS
+oomlout_detail_hierarchy_4: 10_amp_maximum_current
+oomlout_detail_hierarchy_4_upper: 10_AMP_MAXIMUM_CURRENT
+oomlout_detail_hierarchy_4_upper_length_4: 10_A
+oomlout_detail_hierarchy_5: 25_mm_width
+oomlout_detail_hierarchy_5_upper: 25_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 25WI
+oomlout_detail_hierarchy_6: 45_mm_height
+oomlout_detail_hierarchy_6_upper: 45_MM_HEIGHT
+oomlout_detail_hierarchy_6_upper_length_4: 45HE
+oomlout_detail_hierarchy_7: 6s_22_volt_maximum
+oomlout_detail_hierarchy_7_upper: 6S_22_VOLT_MAXIMUM
+oomlout_detail_hierarchy_7_upper_length_4: 6S_2
+oomlout_detail_hierarchy_8: kingmodel
+oomlout_detail_hierarchy_8_upper: KINGMODEL
+oomlout_detail_hierarchy_8_upper_length_4: KING
+oomlout_detail_hierarchy_9: 10ax2
+oomlout_detail_hierarchy_9_upper: 10AX2
+oomlout_detail_hierarchy_9_upper_length_4: 10AX
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_dual_motor_tank_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+oomp_word: lemon briefcase bell
+oomp_word_emoji: ':lemon: :briefcase: :bell:'
+oomp_word_emoji_list:
+- ':lemon:'
+- ':briefcase:'
+- ':bell:'
+oomp_word_list:
+- lemon
+- briefcase
+- bell
+part_number: 10ax2
+part_number_capital: 10Ax2
+part_number_exact: 10AX2
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_length_1: '1'
+part_number_length_2: '10'
+part_number_length_3: 10a
+part_number_length_4: 10ax
+part_number_length_5: 10ax2
+part_number_length_6: 10ax2
+part_number_name: 10Ax2
+part_number_no_space_length_1: '1'
+part_number_no_space_length_2: '10'
+part_number_no_space_length_3: 10a
+part_number_no_space_length_4: 10ax
+part_number_no_space_length_5: 10ax2
+part_number_no_space_length_6: 10ax2
+part_number_no_space_upper_length_1: '1'
+part_number_no_space_upper_length_2: '10'
+part_number_no_space_upper_length_3: 10A
+part_number_no_space_upper_length_4: 10AX
+part_number_no_space_upper_length_5: 10AX2
+part_number_no_space_upper_length_6: 10AX2
+part_number_upper: 10AX2
+part_number_upper_length_1: '1'
+part_number_upper_length_2: '10'
+part_number_upper_length_3: 10A
+part_number_upper_length_4: 10AX
+part_number_upper_length_5: 10AX2
+part_number_upper_length_6: 10AX2
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: brushed_style_dual_motor_tank
+size_capital: Brushed Style Dual Motor Tank
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: br
+size_length_3: bru
+size_length_4: brus
+size_length_5: brush
+size_length_6: brushe
+size_name: Brushed Style Dual Motor Tank
+size_no_space_length_1: b
+size_no_space_length_2: br
+size_no_space_length_3: bru
+size_no_space_length_4: brus
+size_no_space_length_5: brush
+size_no_space_length_6: brushe
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BR
+size_no_space_upper_length_3: BRU
+size_no_space_upper_length_4: BRUS
+size_no_space_upper_length_5: BRUSH
+size_no_space_upper_length_6: BRUSHE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRUSHED_STYLE_DUAL_MOTOR_TANK
+size_upper_length_1: B
+size_upper_length_2: BR
+size_upper_length_3: BRU
+size_upper_length_4: BRUS
+size_upper_length_5: BRUSH
+size_upper_length_6: BRUSHE
+type: electronic_speed_controller
+type_capital: Electronic Speed Controller
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic Speed Controller
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRONIC_SPEED_CONTROLLER
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

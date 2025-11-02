@@ -1,0 +1,212 @@
+bip_39_word_dash_12: rocket-circle-demand-sketch-near-analyst-harvest-cart-pottery-soul-protect-acquire
+bip_39_word_dash_2: rocket-circle
+bip_39_word_dash_3: rocket-circle-demand
+bip_39_word_new_br_12: rocket<br>circle<br>demand<br>sketch<br>near<br>analyst<br>harvest<br>cart<br>pottery<br>soul<br>protect<br>acquire
+bip_39_word_new_br_2: rocket<br>circle
+bip_39_word_new_br_3: rocket<br>circle<br>demand
+bip_39_word_new_line_12: 'rocket
+
+  circle
+
+  demand
+
+  sketch
+
+  near
+
+  analyst
+
+  harvest
+
+  cart
+
+  pottery
+
+  soul
+
+  protect
+
+  acquire'
+bip_39_word_new_line_2: 'rocket
+
+  circle'
+bip_39_word_new_line_3: 'rocket
+
+  circle
+
+  demand'
+bip_39_word_no_space_12: rocketcircledemandsketchnearanalystharvestcartpotterysoulprotectacquire
+bip_39_word_no_space_2: rocketcircle
+bip_39_word_no_space_3: rocketcircledemand
+bip_39_word_space_12: rocket circle demand sketch near analyst harvest cart pottery
+  soul protect acquire
+bip_39_word_space_2: rocket circle
+bip_39_word_space_3: rocket circle demand
+bip_39_word_underscore_12: rocket_circle_demand_sketch_near_analyst_harvest_cart_pottery_soul_protect_acquire
+bip_39_word_underscore_2: rocket_circle
+bip_39_word_underscore_3: rocket_circle_demand
+classification: scent
+classification_capital: Scent
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: sc
+classification_length_3: sce
+classification_length_4: scen
+classification_length_5: scent
+classification_length_6: scent
+classification_name: Scent
+classification_no_space_length_1: s
+classification_no_space_length_2: sc
+classification_no_space_length_3: sce
+classification_no_space_length_4: scen
+classification_no_space_length_5: scent
+classification_no_space_length_6: scent
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: SC
+classification_no_space_upper_length_3: SCE
+classification_no_space_upper_length_4: SCEN
+classification_no_space_upper_length_5: SCENT
+classification_no_space_upper_length_6: SCENT
+classification_upper: SCENT
+classification_upper_length_1: S
+classification_upper_length_2: SC
+classification_upper_length_3: SCE
+classification_upper_length_4: SCEN
+classification_upper_length_5: SCENT
+classification_upper_length_6: SCENT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/scent_scent
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/scent_scent
+id: scent_scent
+id_no_class: scent
+id_no_color: scent
+id_no_size: scent
+id_no_type: scent
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_scent
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_scent
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_scent
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_scent
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201dnjn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201dnjn
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201dnjn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201dnjn
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/scent_scent
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[scent_scent](none)<br>[](none)<br>[Scent Scent](none)<br><br>'
+markdown_short: '[scent_scent](none)<br><br>'
+md5: 235973ed47230d2c2149cca2744a4ddb
+md5_10: 235973ed47
+md5_10_upper: 235973ED47
+md5_5: '23597'
+md5_5_upper: '23597'
+md5_6: '235973'
+md5_6_alpha: 1dnjn
+md5_6_alpha_upper: 1DNJN
+md5_6_upper: '235973'
+name: Scent Scent
+name_no_class: Scent
+name_no_color: Scent
+name_no_size: Scent
+name_no_size_short: Scent
+name_no_type: Scent
+oomlout_detail_hierarchy_1: scent
+oomlout_detail_hierarchy_1_upper: SCENT
+oomlout_detail_hierarchy_1_upper_length_4: SCEN
+oomlout_detail_hierarchy_2: scent
+oomlout_detail_hierarchy_2_upper: SCENT
+oomlout_detail_hierarchy_2_upper_length_4: SCEN
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_scent_scent
+oomp_word: kiss dragon flags
+oomp_word_emoji: ':kiss: :dragon: :flags:'
+oomp_word_emoji_list:
+- ':kiss:'
+- ':dragon:'
+- ':flags:'
+oomp_word_list:
+- kiss
+- dragon
+- flags
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: scent
+type_capital: Scent
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sc
+type_length_3: sce
+type_length_4: scen
+type_length_5: scent
+type_length_6: scent
+type_name: Scent
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: sce
+type_no_space_length_4: scen
+type_no_space_length_5: scent
+type_no_space_length_6: scent
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCE
+type_no_space_upper_length_4: SCEN
+type_no_space_upper_length_5: SCENT
+type_no_space_upper_length_6: SCENT
+type_upper: SCENT
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCE
+type_upper_length_4: SCEN
+type_upper_length_5: SCENT
+type_upper_length_6: SCENT

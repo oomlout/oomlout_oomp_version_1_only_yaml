@@ -1,0 +1,270 @@
+bip_39_word_dash_12: dinosaur-begin-snake-cook-giraffe-strike-tube-weekend-act-actual-kite-anger
+bip_39_word_dash_2: dinosaur-begin
+bip_39_word_dash_3: dinosaur-begin-snake
+bip_39_word_new_br_12: dinosaur<br>begin<br>snake<br>cook<br>giraffe<br>strike<br>tube<br>weekend<br>act<br>actual<br>kite<br>anger
+bip_39_word_new_br_2: dinosaur<br>begin
+bip_39_word_new_br_3: dinosaur<br>begin<br>snake
+bip_39_word_new_line_12: 'dinosaur
+
+  begin
+
+  snake
+
+  cook
+
+  giraffe
+
+  strike
+
+  tube
+
+  weekend
+
+  act
+
+  actual
+
+  kite
+
+  anger'
+bip_39_word_new_line_2: 'dinosaur
+
+  begin'
+bip_39_word_new_line_3: 'dinosaur
+
+  begin
+
+  snake'
+bip_39_word_no_space_12: dinosaurbeginsnakecookgiraffestriketubeweekendactactualkiteanger
+bip_39_word_no_space_2: dinosaurbegin
+bip_39_word_no_space_3: dinosaurbeginsnake
+bip_39_word_space_12: dinosaur begin snake cook giraffe strike tube weekend act actual
+  kite anger
+bip_39_word_space_2: dinosaur begin
+bip_39_word_space_3: dinosaur begin snake
+bip_39_word_underscore_12: dinosaur_begin_snake_cook_giraffe_strike_tube_weekend_act_actual_kite_anger
+bip_39_word_underscore_2: dinosaur_begin
+bip_39_word_underscore_3: dinosaur_begin_snake
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_lighting
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_lighting_pendant_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_lighting_pendant_old
+id: category_lighting_pendant_old
+id_no_class: lighting_pendant_old
+id_no_color: old
+id_no_size: old
+id_no_type: pendant_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205f70g
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205f70g
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205f70g
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205f70g
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_lighting_pendant_old](none)<br>[](none)<br>[Category Lighting
+  Pendant Old](none)<br><br>'
+markdown_short: '[category_lighting_pendant_old](none)<br><br>'
+md5: 8af640b813f91d435c3112fb9a4511f3
+md5_10: 8af640b813
+md5_10_upper: 8AF640B813
+md5_5: 8af64
+md5_5_upper: 8AF64
+md5_6: 8af640
+md5_6_alpha: 5f70g
+md5_6_alpha_upper: 5F70G
+md5_6_upper: 8AF640
+name: Category Lighting Pendant Old
+name_no_class: Lighting Pendant Old
+name_no_color: Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Pendant Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: lighting
+oomlout_detail_hierarchy_2_upper: LIGHTING
+oomlout_detail_hierarchy_2_upper_length_4: LIGH
+oomlout_detail_hierarchy_3: pendant
+oomlout_detail_hierarchy_3_upper: PENDANT
+oomlout_detail_hierarchy_3_upper_length_4: PEND
+oomlout_detail_hierarchy_4: old
+oomlout_detail_hierarchy_4_upper: OLD
+oomlout_detail_hierarchy_4_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_lighting_pendant_old
+oomp_word: envelope five racehorse
+oomp_word_emoji: ':envelope: :five: :racehorse:'
+oomp_word_emoji_list:
+- ':envelope:'
+- ':five:'
+- ':racehorse:'
+oomp_word_list:
+- envelope
+- five
+- racehorse
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorylighting
+size: pendant
+size_capital: Pendant
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pe
+size_length_3: pen
+size_length_4: pend
+size_length_5: penda
+size_length_6: pendan
+size_name: Pendant
+size_no_space_length_1: p
+size_no_space_length_2: pe
+size_no_space_length_3: pen
+size_no_space_length_4: pend
+size_no_space_length_5: penda
+size_no_space_length_6: pendan
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PE
+size_no_space_upper_length_3: PEN
+size_no_space_upper_length_4: PEND
+size_no_space_upper_length_5: PENDA
+size_no_space_upper_length_6: PENDAN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENDANT
+size_upper_length_1: P
+size_upper_length_2: PE
+size_upper_length_3: PEN
+size_upper_length_4: PEND
+size_upper_length_5: PENDA
+size_upper_length_6: PENDAN
+type: lighting
+type_capital: Lighting
+type_first_letter: l
+type_first_letter_upper: L
+type_length_1: l
+type_length_2: li
+type_length_3: lig
+type_length_4: ligh
+type_length_5: light
+type_length_6: lighti
+type_name: Lighting
+type_no_space_length_1: l
+type_no_space_length_2: li
+type_no_space_length_3: lig
+type_no_space_length_4: ligh
+type_no_space_length_5: light
+type_no_space_length_6: lighti
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LI
+type_no_space_upper_length_3: LIG
+type_no_space_upper_length_4: LIGH
+type_no_space_upper_length_5: LIGHT
+type_no_space_upper_length_6: LIGHTI
+type_upper: LIGHTING
+type_upper_length_1: L
+type_upper_length_2: LI
+type_upper_length_3: LIG
+type_upper_length_4: LIGH
+type_upper_length_5: LIGHT
+type_upper_length_6: LIGHTI

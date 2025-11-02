@@ -1,0 +1,266 @@
+bip_39_word_dash_12: absurd-burden-lift-tissue-poverty-void-expose-robot-worry-outer-orchard-among
+bip_39_word_dash_2: absurd-burden
+bip_39_word_dash_3: absurd-burden-lift
+bip_39_word_new_br_12: absurd<br>burden<br>lift<br>tissue<br>poverty<br>void<br>expose<br>robot<br>worry<br>outer<br>orchard<br>among
+bip_39_word_new_br_2: absurd<br>burden
+bip_39_word_new_br_3: absurd<br>burden<br>lift
+bip_39_word_new_line_12: 'absurd
+
+  burden
+
+  lift
+
+  tissue
+
+  poverty
+
+  void
+
+  expose
+
+  robot
+
+  worry
+
+  outer
+
+  orchard
+
+  among'
+bip_39_word_new_line_2: 'absurd
+
+  burden'
+bip_39_word_new_line_3: 'absurd
+
+  burden
+
+  lift'
+bip_39_word_no_space_12: absurdburdenlifttissuepovertyvoidexposerobotworryouterorchardamong
+bip_39_word_no_space_2: absurdburden
+bip_39_word_no_space_3: absurdburdenlift
+bip_39_word_space_12: absurd burden lift tissue poverty void expose robot worry outer
+  orchard among
+bip_39_word_space_2: absurd burden
+bip_39_word_space_3: absurd burden lift
+bip_39_word_underscore_12: absurd_burden_lift_tissue_poverty_void_expose_robot_worry_outer_orchard_among
+bip_39_word_underscore_2: absurd_burden
+bip_39_word_underscore_3: absurd_burden_lift
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_length_1: m
+classification_length_2: me
+classification_length_3: mec
+classification_length_4: mech
+classification_length_5: mecha
+classification_length_6: mechan
+classification_name: Mechanical
+classification_no_space_length_1: m
+classification_no_space_length_2: me
+classification_no_space_length_3: mec
+classification_no_space_length_4: mech
+classification_no_space_length_5: mecha
+classification_no_space_length_6: mechan
+classification_no_space_upper_length_1: M
+classification_no_space_upper_length_2: ME
+classification_no_space_upper_length_3: MEC
+classification_no_space_upper_length_4: MECH
+classification_no_space_upper_length_5: MECHA
+classification_no_space_upper_length_6: MECHAN
+classification_upper: MECHANICAL
+classification_upper_length_1: M
+classification_upper_length_2: ME
+classification_upper_length_3: MEC
+classification_upper_length_4: MECH
+classification_upper_length_5: MECHA
+classification_upper_length_6: MECHAN
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 12_mm_bore
+description_main_capital: 12 mm Bore
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '12'
+description_main_length_3: '12_'
+description_main_length_4: 12_m
+description_main_length_5: 12_mm
+description_main_length_6: 12_mm_
+description_main_name: 12 mm Bore
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '12'
+description_main_no_space_length_3: 12m
+description_main_no_space_length_4: 12mm
+description_main_no_space_length_5: 12mmb
+description_main_no_space_length_6: 12mmbo
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '12'
+description_main_no_space_upper_length_3: 12M
+description_main_no_space_upper_length_4: 12MM
+description_main_no_space_upper_length_5: 12MMB
+description_main_no_space_upper_length_6: 12MMBO
+description_main_upper: 12_MM_BORE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '12'
+description_main_upper_length_3: '12_'
+description_main_upper_length_4: 12_M
+description_main_upper_length_5: 12_MM
+description_main_upper_length_6: 12_MM_
+description_only_numbers: '12'
+description_only_numbers_short: '12'
+description_or_color: '12'
+description_or_color_upper: '12'
+directory: parts/mechanical_coupler_flange_12_mm_bore
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/mechanical_coupler_flange_12_mm_bore
+id: mechanical_coupler_flange_12_mm_bore
+id_no_class: coupler_flange_12_mm_bore
+id_no_color: 12mmbore
+id_no_size: 12_mm_bore
+id_no_type: flange_12_mm_bore
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_12_mm_bore
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_12_mm_bore
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_12_mm_bore
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_12_mm_bore
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204yp7r
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204yp7r
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204yp7r
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204yp7r
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_coupler_flange_12_mm_bore
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_coupler_flange_12_mm_bore](none)<br>[](none)<br>[Mechanical
+  Coupler Flange 12 Mm Bore](none)<br><br>'
+markdown_short: '[mechanical_coupler_flange_12_mm_bore](none)<br><br>'
+md5: 7f382757eebb2a17d6548e2d02c7a008
+md5_10: 7f382757ee
+md5_10_upper: 7F382757EE
+md5_5: 7f382
+md5_5_upper: 7F382
+md5_6: 7f3827
+md5_6_alpha: 4yp7r
+md5_6_alpha_upper: 4YP7R
+md5_6_upper: 7F3827
+name: Mechanical Coupler Flange 12 mm Bore
+name_no_class: Coupler Flange 12 mm Bore
+name_no_color: 12mmbore
+name_no_size: 12 mm Bore
+name_no_size_short: 12 Mm Bore
+name_no_type: Flange 12 mm Bore
+oomlout_detail_hierarchy_1: mechanical
+oomlout_detail_hierarchy_1_upper: MECHANICAL
+oomlout_detail_hierarchy_1_upper_length_4: MECH
+oomlout_detail_hierarchy_2: coupler
+oomlout_detail_hierarchy_2_upper: COUPLER
+oomlout_detail_hierarchy_2_upper_length_4: COUP
+oomlout_detail_hierarchy_3: flange
+oomlout_detail_hierarchy_3_upper: FLANGE
+oomlout_detail_hierarchy_3_upper_length_4: FLAN
+oomlout_detail_hierarchy_4: 12_mm_bore
+oomlout_detail_hierarchy_4_upper: 12_MM_BORE
+oomlout_detail_hierarchy_4_upper_length_4: 12BO
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_mechanical_coupler_flange_12_mm_bore
+oomp_word: speaker frog nose
+oomp_word_emoji: ':speaker: :frog: :nose:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':frog:'
+- ':nose:'
+oomp_word_list:
+- speaker
+- frog
+- nose
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flange
+size_capital: Flange
+size_first_letter: f
+size_first_letter_upper: F
+size_length_1: f
+size_length_2: fl
+size_length_3: fla
+size_length_4: flan
+size_length_5: flang
+size_length_6: flange
+size_name: Flange
+size_no_space_length_1: f
+size_no_space_length_2: fl
+size_no_space_length_3: fla
+size_no_space_length_4: flan
+size_no_space_length_5: flang
+size_no_space_length_6: flange
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FL
+size_no_space_upper_length_3: FLA
+size_no_space_upper_length_4: FLAN
+size_no_space_upper_length_5: FLANG
+size_no_space_upper_length_6: FLANGE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLANGE
+size_upper_length_1: F
+size_upper_length_2: FL
+size_upper_length_3: FLA
+size_upper_length_4: FLAN
+size_upper_length_5: FLANG
+size_upper_length_6: FLANGE
+type: coupler
+type_capital: Coupler
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: co
+type_length_3: cou
+type_length_4: coup
+type_length_5: coupl
+type_length_6: couple
+type_name: Coupler
+type_no_space_length_1: c
+type_no_space_length_2: co
+type_no_space_length_3: cou
+type_no_space_length_4: coup
+type_no_space_length_5: coupl
+type_no_space_length_6: couple
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CO
+type_no_space_upper_length_3: COU
+type_no_space_upper_length_4: COUP
+type_no_space_upper_length_5: COUPL
+type_no_space_upper_length_6: COUPLE
+type_upper: COUPLER
+type_upper_length_1: C
+type_upper_length_2: CO
+type_upper_length_3: COU
+type_upper_length_4: COUP
+type_upper_length_5: COUPL
+type_upper_length_6: COUPLE

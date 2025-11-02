@@ -1,0 +1,294 @@
+bip_39_word_dash_12: blue-often-borrow-firm-robot-transfer-coin-west-during-frog-knife-art
+bip_39_word_dash_2: blue-often
+bip_39_word_dash_3: blue-often-borrow
+bip_39_word_new_br_12: blue<br>often<br>borrow<br>firm<br>robot<br>transfer<br>coin<br>west<br>during<br>frog<br>knife<br>art
+bip_39_word_new_br_2: blue<br>often
+bip_39_word_new_br_3: blue<br>often<br>borrow
+bip_39_word_new_line_12: 'blue
+
+  often
+
+  borrow
+
+  firm
+
+  robot
+
+  transfer
+
+  coin
+
+  west
+
+  during
+
+  frog
+
+  knife
+
+  art'
+bip_39_word_new_line_2: 'blue
+
+  often'
+bip_39_word_new_line_3: 'blue
+
+  often
+
+  borrow'
+bip_39_word_no_space_12: blueoftenborrowfirmrobottransfercoinwestduringfrogknifeart
+bip_39_word_no_space_2: blueoften
+bip_39_word_no_space_3: blueoftenborrow
+bip_39_word_space_12: blue often borrow firm robot transfer coin west during frog
+  knife art
+bip_39_word_space_2: blue often
+bip_39_word_space_3: blue often borrow
+bip_39_word_underscore_12: blue_often_borrow_firm_robot_transfer_coin_west_during_frog_knife_art
+bip_39_word_underscore_2: blue_often
+bip_39_word_underscore_3: blue_often_borrow
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cl
+classification_length_3: clo
+classification_length_4: clot
+classification_length_5: cloth
+classification_length_6: clothe
+classification_name: Clothes
+classification_no_space_length_1: c
+classification_no_space_length_2: cl
+classification_no_space_length_3: clo
+classification_no_space_length_4: clot
+classification_no_space_length_5: cloth
+classification_no_space_length_6: clothe
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CL
+classification_no_space_upper_length_3: CLO
+classification_no_space_upper_length_4: CLOT
+classification_no_space_upper_length_5: CLOTH
+classification_no_space_upper_length_6: CLOTHE
+classification_upper: CLOTHES
+classification_upper_length_1: C
+classification_upper_length_2: CL
+classification_upper_length_3: CLO
+classification_upper_length_4: CLOT
+classification_upper_length_5: CLOTH
+classification_upper_length_6: CLOTHE
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: me
+color_length_3: med
+color_length_4: medi
+color_length_5: mediu
+color_length_6: medium
+color_name: Medium
+color_no_space_length_1: m
+color_no_space_length_2: me
+color_no_space_length_3: med
+color_no_space_length_4: medi
+color_no_space_length_5: mediu
+color_no_space_length_6: medium
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: ME
+color_no_space_upper_length_3: MED
+color_no_space_upper_length_4: MEDI
+color_no_space_upper_length_5: MEDIU
+color_no_space_upper_length_6: MEDIUM
+color_upper: MEDIUM
+color_upper_length_1: M
+color_upper_length_2: ME
+color_upper_length_3: MED
+color_upper_length_4: MEDI
+color_upper_length_5: MEDIU
+color_upper_length_6: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_length_1: l
+description_main_length_2: li
+description_main_length_3: lim
+description_main_length_4: lime
+description_main_length_5: lime
+description_main_length_6: lime
+description_main_name: Lime
+description_main_no_space_length_1: l
+description_main_no_space_length_2: li
+description_main_no_space_length_3: lim
+description_main_no_space_length_4: lime
+description_main_no_space_length_5: lime
+description_main_no_space_length_6: lime
+description_main_no_space_upper_length_1: L
+description_main_no_space_upper_length_2: LI
+description_main_no_space_upper_length_3: LIM
+description_main_no_space_upper_length_4: LIME
+description_main_no_space_upper_length_5: LIME
+description_main_no_space_upper_length_6: LIME
+description_main_upper: LIME
+description_main_upper_length_1: L
+description_main_upper_length_2: LI
+description_main_upper_length_3: LIM
+description_main_upper_length_4: LIME
+description_main_upper_length_5: LIME
+description_main_upper_length_6: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_socks_medium_lime
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/clothes_item_socks_medium_lime
+id: clothes_item_socks_medium_lime
+id_no_class: item_socks_medium_lime
+id_no_color: lime
+id_no_size: medium_lime
+id_no_type: socks_medium_lime
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_medium_lime
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_medium_lime
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_medium_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_medium_lime
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207zwpj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207zwpj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207zwpj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207zwpj
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_medium_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_medium_lime](none)<br>[](none)<br>[Clothes Item
+  Socks Medium Lime](none)<br><br>'
+markdown_short: '[clothes_item_socks_medium_lime](none)<br><br>'
+md5: ccf7574a21f965af9cdd9574342668c2
+md5_10: ccf7574a21
+md5_10_upper: CCF7574A21
+md5_5: ccf75
+md5_5_upper: CCF75
+md5_6: ccf757
+md5_6_alpha: 7zwpj
+md5_6_alpha_upper: 7ZWPJ
+md5_6_upper: CCF757
+name: Clothes Item Socks Medium Lime
+name_no_class: Item Socks Medium Lime
+name_no_color: Lime
+name_no_size: Medium Lime
+name_no_size_short: Medium Lime
+name_no_type: Socks Medium Lime
+oomlout_detail_hierarchy_1: clothes
+oomlout_detail_hierarchy_1_upper: CLOTHES
+oomlout_detail_hierarchy_1_upper_length_4: CLOT
+oomlout_detail_hierarchy_2: item
+oomlout_detail_hierarchy_2_upper: ITEM
+oomlout_detail_hierarchy_2_upper_length_4: ITEM
+oomlout_detail_hierarchy_3: socks
+oomlout_detail_hierarchy_3_upper: SOCKS
+oomlout_detail_hierarchy_3_upper_length_4: SOCK
+oomlout_detail_hierarchy_4: medium
+oomlout_detail_hierarchy_4_upper: MEDIUM
+oomlout_detail_hierarchy_4_upper_length_4: MEDI
+oomlout_detail_hierarchy_5: lime
+oomlout_detail_hierarchy_5_upper: LIME
+oomlout_detail_hierarchy_5_upper_length_4: LIME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_clothes_item_socks_medium_lime
+oomp_word: watermelon six rat
+oomp_word_emoji: ':watermelon: :six: :rat:'
+oomp_word_emoji_list:
+- ':watermelon:'
+- ':six:'
+- ':rat:'
+oomp_word_list:
+- watermelon
+- six
+- rat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: soc
+size_length_4: sock
+size_length_5: socks
+size_length_6: socks
+size_name: Socks
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: soc
+size_no_space_length_4: sock
+size_no_space_length_5: socks
+size_no_space_length_6: socks
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOC
+size_no_space_upper_length_4: SOCK
+size_no_space_upper_length_5: SOCKS
+size_no_space_upper_length_6: SOCKS
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOC
+size_upper_length_4: SOCK
+size_upper_length_5: SOCKS
+size_upper_length_6: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: it
+type_length_3: ite
+type_length_4: item
+type_length_5: item
+type_length_6: item
+type_name: Item
+type_no_space_length_1: i
+type_no_space_length_2: it
+type_no_space_length_3: ite
+type_no_space_length_4: item
+type_no_space_length_5: item
+type_no_space_length_6: item
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IT
+type_no_space_upper_length_3: ITE
+type_no_space_upper_length_4: ITEM
+type_no_space_upper_length_5: ITEM
+type_no_space_upper_length_6: ITEM
+type_upper: ITEM
+type_upper_length_1: I
+type_upper_length_2: IT
+type_upper_length_3: ITE
+type_upper_length_4: ITEM
+type_upper_length_5: ITEM
+type_upper_length_6: ITEM

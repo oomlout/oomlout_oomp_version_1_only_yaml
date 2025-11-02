@@ -1,0 +1,303 @@
+bip_39_word_dash_12: tenant-hard-average-distance-chair-salute-turkey-regular-journey-grape-duck-advice
+bip_39_word_dash_2: tenant-hard
+bip_39_word_dash_3: tenant-hard-average
+bip_39_word_new_br_12: tenant<br>hard<br>average<br>distance<br>chair<br>salute<br>turkey<br>regular<br>journey<br>grape<br>duck<br>advice
+bip_39_word_new_br_2: tenant<br>hard
+bip_39_word_new_br_3: tenant<br>hard<br>average
+bip_39_word_new_line_12: 'tenant
+
+  hard
+
+  average
+
+  distance
+
+  chair
+
+  salute
+
+  turkey
+
+  regular
+
+  journey
+
+  grape
+
+  duck
+
+  advice'
+bip_39_word_new_line_2: 'tenant
+
+  hard'
+bip_39_word_new_line_3: 'tenant
+
+  hard
+
+  average'
+bip_39_word_no_space_12: tenanthardaveragedistancechairsaluteturkeyregularjourneygrapeduckadvice
+bip_39_word_no_space_2: tenanthard
+bip_39_word_no_space_3: tenanthardaverage
+bip_39_word_space_12: tenant hard average distance chair salute turkey regular journey
+  grape duck advice
+bip_39_word_space_2: tenant hard
+bip_39_word_space_3: tenant hard average
+bip_39_word_underscore_12: tenant_hard_average_distance_chair_salute_turkey_regular_journey_grape_duck_advice
+bip_39_word_underscore_2: tenant_hard
+bip_39_word_underscore_3: tenant_hard_average
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: pink
+color_capital: Pink
+color_first_letter: p
+color_first_letter_upper: P
+color_length_1: p
+color_length_2: pi
+color_length_3: pin
+color_length_4: pink
+color_length_5: pink
+color_length_6: pink
+color_name: Pink
+color_no_space_length_1: p
+color_no_space_length_2: pi
+color_no_space_length_3: pin
+color_no_space_length_4: pink
+color_no_space_length_5: pink
+color_no_space_length_6: pink
+color_no_space_upper_length_1: P
+color_no_space_upper_length_2: PI
+color_no_space_upper_length_3: PIN
+color_no_space_upper_length_4: PINK
+color_no_space_upper_length_5: PINK
+color_no_space_upper_length_6: PINK
+color_upper: PINK
+color_upper_length_1: P
+color_upper_length_2: PI
+color_upper_length_3: PIN
+color_upper_length_4: PINK
+color_upper_length_5: PINK
+color_upper_length_6: PINK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 130_mm_length
+description_main_capital: 130 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '13'
+description_main_length_3: '130'
+description_main_length_4: '130_'
+description_main_length_5: 130_m
+description_main_length_6: 130_mm
+description_main_name: 130 mm Length
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '13'
+description_main_no_space_length_3: '130'
+description_main_no_space_length_4: 130m
+description_main_no_space_length_5: 130mm
+description_main_no_space_length_6: 130mml
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '13'
+description_main_no_space_upper_length_3: '130'
+description_main_no_space_upper_length_4: 130M
+description_main_no_space_upper_length_5: 130MM
+description_main_no_space_upper_length_6: 130MML
+description_main_upper: 130_MM_LENGTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '13'
+description_main_upper_length_3: '130'
+description_main_upper_length_4: '130_'
+description_main_upper_length_5: 130_M
+description_main_upper_length_6: 130_MM
+description_only_numbers: '130'
+description_only_numbers_short: '130'
+description_or_color: P130
+description_or_color_upper: P130
+directory: parts/electronic_led_filament_3_volt_pink_130_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_filament_3_volt_pink_130_mm_length
+id: electronic_led_filament_3_volt_pink_130_mm_length
+id_no_class: led_filament_3_volt_pink_130_mm_length
+id_no_color: 130_mm_length
+id_no_size: pink_130_mm_length
+id_no_type: filament_3_volt_pink_130_mm_length
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_pink_130_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_pink_130_mm_length
+link_2_name: link_github
+link_3: https://www.aliexpress.com/item/1005006222719149.html
+link_3_name: link_distributor_aliexpress
+link_buy_1: https://www.aliexpress.com/item/1005006222719149.html
+link_buy_1_name: link_distributor_aliexpress
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_pink_130_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_pink_130_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202in4p
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202in4p
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202in4p
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202in4p
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_pink_130_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_pink_130_mm_length](none)<br>[lp](none)<br>[Electronic
+  Led Filament 3 Volt Pink 130 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_pink_130_mm_length](none)<br><br>'
+md5: 40879973c3b4dd56fb12e3fa1f9a4ef8
+md5_10: 40879973c3
+md5_10_upper: 40879973C3
+md5_5: '40879'
+md5_5_upper: '40879'
+md5_6: '408799'
+md5_6_alpha: 2in4p
+md5_6_alpha_upper: 2IN4P
+md5_6_upper: '408799'
+name: Electronic LED Filament 3 Volt Pink 130 mm Length
+name_no_class: LED Filament 3 Volt Pink 130 mm Length
+name_no_color: 130 mm Length
+name_no_size: Pink 130 mm Length
+name_no_size_short: Pink 130 Mm Length
+name_no_type: Filament 3 Volt Pink 130 mm Length
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: led
+oomlout_detail_hierarchy_2_upper: LED
+oomlout_detail_hierarchy_2_upper_length_4: LED
+oomlout_detail_hierarchy_3: filament_3_volt
+oomlout_detail_hierarchy_3_upper: FILAMENT_3_VOLT
+oomlout_detail_hierarchy_3_upper_length_4: FILA
+oomlout_detail_hierarchy_4: pink
+oomlout_detail_hierarchy_4_upper: PINK
+oomlout_detail_hierarchy_4_upper_length_4: PINK
+oomlout_detail_hierarchy_5: 130_mm_length
+oomlout_detail_hierarchy_5_upper: 130_MM_LENGTH
+oomlout_detail_hierarchy_5_upper_length_4: 130L
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_led_filament_3_volt_pink_130_mm_length
+oomp_word: racehorse toilet bowling
+oomp_word_emoji: ':racehorse: :toilet: :bowling:'
+oomp_word_emoji_list:
+- ':racehorse:'
+- ':toilet:'
+- ':bowling:'
+oomp_word_list:
+- racehorse
+- toilet
+- bowling
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: lp
+short_code_upper: LP
+short_name: Filament 3 Volt Pink130 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_length_1: f
+size_length_2: fi
+size_length_3: fil
+size_length_4: fila
+size_length_5: filam
+size_length_6: filame
+size_name: Filament 3 Volt
+size_no_space_length_1: f
+size_no_space_length_2: fi
+size_no_space_length_3: fil
+size_no_space_length_4: fila
+size_no_space_length_5: filam
+size_no_space_length_6: filame
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FI
+size_no_space_upper_length_3: FIL
+size_no_space_upper_length_4: FILA
+size_no_space_upper_length_5: FILAM
+size_no_space_upper_length_6: FILAME
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+size_upper_length_1: F
+size_upper_length_2: FI
+size_upper_length_3: FIL
+size_upper_length_4: FILA
+size_upper_length_5: FILAM
+size_upper_length_6: FILAME
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_length_1: l
+type_length_2: le
+type_length_3: led
+type_length_4: led
+type_length_5: led
+type_length_6: led
+type_name: LED
+type_no_space_length_1: l
+type_no_space_length_2: le
+type_no_space_length_3: led
+type_no_space_length_4: led
+type_no_space_length_5: led
+type_no_space_length_6: led
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LE
+type_no_space_upper_length_3: LED
+type_no_space_upper_length_4: LED
+type_no_space_upper_length_5: LED
+type_no_space_upper_length_6: LED
+type_upper: LED
+type_upper_length_1: L
+type_upper_length_2: LE
+type_upper_length_3: LED
+type_upper_length_4: LED
+type_upper_length_5: LED
+type_upper_length_6: LED

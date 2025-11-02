@@ -1,0 +1,296 @@
+bip_39_word_dash_12: odor-bottom-cause-orange-system-imitate-cube-settle-wear-social-melody-air
+bip_39_word_dash_2: odor-bottom
+bip_39_word_dash_3: odor-bottom-cause
+bip_39_word_new_br_12: odor<br>bottom<br>cause<br>orange<br>system<br>imitate<br>cube<br>settle<br>wear<br>social<br>melody<br>air
+bip_39_word_new_br_2: odor<br>bottom
+bip_39_word_new_br_3: odor<br>bottom<br>cause
+bip_39_word_new_line_12: 'odor
+
+  bottom
+
+  cause
+
+  orange
+
+  system
+
+  imitate
+
+  cube
+
+  settle
+
+  wear
+
+  social
+
+  melody
+
+  air'
+bip_39_word_new_line_2: 'odor
+
+  bottom'
+bip_39_word_new_line_3: 'odor
+
+  bottom
+
+  cause'
+bip_39_word_no_space_12: odorbottomcauseorangesystemimitatecubesettlewearsocialmelodyair
+bip_39_word_no_space_2: odorbottom
+bip_39_word_no_space_3: odorbottomcause
+bip_39_word_space_12: odor bottom cause orange system imitate cube settle wear social
+  melody air
+bip_39_word_space_2: odor bottom
+bip_39_word_space_3: odor bottom cause
+bip_39_word_underscore_12: odor_bottom_cause_orange_system_imitate_cube_settle_wear_social_melody_air
+bip_39_word_underscore_2: odor_bottom
+bip_39_word_underscore_3: odor_bottom_cause
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: 5311_size
+color_capital: 5311 Size
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_length_1: '5'
+color_length_2: '53'
+color_length_3: '531'
+color_length_4: '5311'
+color_length_5: '5311_'
+color_length_6: 5311_s
+color_name: 5311 Size
+color_no_space_length_1: '5'
+color_no_space_length_2: '53'
+color_no_space_length_3: '531'
+color_no_space_length_4: '5311'
+color_no_space_length_5: 5311s
+color_no_space_length_6: 5311si
+color_no_space_upper_length_1: '5'
+color_no_space_upper_length_2: '53'
+color_no_space_upper_length_3: '531'
+color_no_space_upper_length_4: '5311'
+color_no_space_upper_length_5: 5311S
+color_no_space_upper_length_6: 5311SI
+color_upper: 5311_SIZE
+color_upper_length_1: '5'
+color_upper_length_2: '53'
+color_upper_length_3: '531'
+color_upper_length_4: '5311'
+color_upper_length_5: '5311_'
+color_upper_length_6: 5311_S
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 55_mm_id_120_mm_od_49_21_mm_depth
+description_main_capital: 55 mm Id 120 mm Od 49.21 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '55'
+description_main_length_3: '55_'
+description_main_length_4: 55_m
+description_main_length_5: 55_mm
+description_main_length_6: 55_mm_
+description_main_name: 55 mm ID 120 mm OD 49 21 mm Depth
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: '55'
+description_main_no_space_length_3: 55m
+description_main_no_space_length_4: 55mm
+description_main_no_space_length_5: 55mmi
+description_main_no_space_length_6: 55mmid
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: '55'
+description_main_no_space_upper_length_3: 55M
+description_main_no_space_upper_length_4: 55MM
+description_main_no_space_upper_length_5: 55MMI
+description_main_no_space_upper_length_6: 55MMID
+description_main_upper: 55_MM_ID_120_MM_OD_49_21_MM_DEPTH
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '55'
+description_main_upper_length_3: '55_'
+description_main_upper_length_4: 55_M
+description_main_upper_length_5: 55_MM
+description_main_upper_length_6: 55_MM_
+description_only_numbers: '551204921'
+description_only_numbers_short: 5M5
+description_or_color: 55M5
+description_or_color_upper: 55M5
+directory: parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+id: hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+id_no_class: bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+id_no_color: 55_mm_id_120_mm_od_49_21_mm_depth
+id_no_size: 5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+id_no_type: 5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203eblf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203eblf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203eblf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203eblf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth](none)<br>[](none)<br>[Hardware
+  Bearing 5300 Series 5311 Size 55 Mm Id 120 Mm Od 49 21 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth](none)<br><br>'
+md5: 5715337fc3c466adc5ee69bc490694c9
+md5_10: 5715337fc3
+md5_10_upper: 5715337FC3
+md5_5: '57153'
+md5_5_upper: '57153'
+md5_6: '571533'
+md5_6_alpha: 3eblf
+md5_6_alpha_upper: 3EBLF
+md5_6_upper: '571533'
+name: Hardware Bearing 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth
+name_no_class: Bearing 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth
+name_no_color: 55 mm ID 120 mm OD 49 21 mm Depth
+name_no_size: 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth
+name_no_size_short: 5311 Size 55 Mm Id 120 Mm Od 49 21 Mm Depth
+name_no_type: 5300 Series 5311 Size 55 mm ID 120 mm OD 49 21 mm Depth
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: bearing
+oomlout_detail_hierarchy_2_upper: BEARING
+oomlout_detail_hierarchy_2_upper_length_4: BEAR
+oomlout_detail_hierarchy_3: 5300_series
+oomlout_detail_hierarchy_3_upper: 5300_SERIES
+oomlout_detail_hierarchy_3_upper_length_4: '5300'
+oomlout_detail_hierarchy_4: 5311_size
+oomlout_detail_hierarchy_4_upper: 5311_SIZE
+oomlout_detail_hierarchy_4_upper_length_4: '5311'
+oomlout_detail_hierarchy_5: 21_mm_depth
+oomlout_detail_hierarchy_5_upper: 21_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 21DE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomlout_short_code: br5311
+oomlout_short_code_upper: BR5311
+oomp_key: oomp_hardware_bearing_5300_series_5311_size_55_mm_id_120_mm_od_49_21_mm_depth
+oomp_word: rat poop dog
+oomp_word_emoji: ':rat: :poop: :dog:'
+oomp_word_emoji_list:
+- ':rat:'
+- ':poop:'
+- ':dog:'
+oomp_word_list:
+- rat
+- poop
+- dog
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: 5300_series
+size_capital: 5300 Series
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_length_1: '5'
+size_length_2: '53'
+size_length_3: '530'
+size_length_4: '5300'
+size_length_5: '5300_'
+size_length_6: 5300_s
+size_name: 5300 Series
+size_no_space_length_1: '5'
+size_no_space_length_2: '53'
+size_no_space_length_3: '530'
+size_no_space_length_4: '5300'
+size_no_space_length_5: 5300s
+size_no_space_length_6: 5300se
+size_no_space_upper_length_1: '5'
+size_no_space_upper_length_2: '53'
+size_no_space_upper_length_3: '530'
+size_no_space_upper_length_4: '5300'
+size_no_space_upper_length_5: 5300S
+size_no_space_upper_length_6: 5300SE
+size_only_numbers: '5300'
+size_only_numbers_no_zeros: '53'
+size_upper: 5300_SERIES
+size_upper_length_1: '5'
+size_upper_length_2: '53'
+size_upper_length_3: '530'
+size_upper_length_4: '5300'
+size_upper_length_5: '5300_'
+size_upper_length_6: 5300_S
+type: bearing
+type_capital: Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: be
+type_length_3: bea
+type_length_4: bear
+type_length_5: beari
+type_length_6: bearin
+type_name: Bearing
+type_no_space_length_1: b
+type_no_space_length_2: be
+type_no_space_length_3: bea
+type_no_space_length_4: bear
+type_no_space_length_5: beari
+type_no_space_length_6: bearin
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BE
+type_no_space_upper_length_3: BEA
+type_no_space_upper_length_4: BEAR
+type_no_space_upper_length_5: BEARI
+type_no_space_upper_length_6: BEARIN
+type_upper: BEARING
+type_upper_length_1: B
+type_upper_length_2: BE
+type_upper_length_3: BEA
+type_upper_length_4: BEAR
+type_upper_length_5: BEARI
+type_upper_length_6: BEARIN

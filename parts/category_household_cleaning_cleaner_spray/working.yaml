@@ -1,0 +1,243 @@
+bip_39_word_dash_12: hundred-note-minor-cupboard-giggle-crew-across-govern-shift-satoshi-open-autumn
+bip_39_word_dash_2: hundred-note
+bip_39_word_dash_3: hundred-note-minor
+bip_39_word_new_br_12: hundred<br>note<br>minor<br>cupboard<br>giggle<br>crew<br>across<br>govern<br>shift<br>satoshi<br>open<br>autumn
+bip_39_word_new_br_2: hundred<br>note
+bip_39_word_new_br_3: hundred<br>note<br>minor
+bip_39_word_new_line_12: 'hundred
+
+  note
+
+  minor
+
+  cupboard
+
+  giggle
+
+  crew
+
+  across
+
+  govern
+
+  shift
+
+  satoshi
+
+  open
+
+  autumn'
+bip_39_word_new_line_2: 'hundred
+
+  note'
+bip_39_word_new_line_3: 'hundred
+
+  note
+
+  minor'
+bip_39_word_no_space_12: hundrednoteminorcupboardgigglecrewacrossgovernshiftsatoshiopenautumn
+bip_39_word_no_space_2: hundrednote
+bip_39_word_no_space_3: hundrednoteminor
+bip_39_word_space_12: hundred note minor cupboard giggle crew across govern shift
+  satoshi open autumn
+bip_39_word_space_2: hundred note
+bip_39_word_space_3: hundred note minor
+bip_39_word_underscore_12: hundred_note_minor_cupboard_giggle_crew_across_govern_shift_satoshi_open_autumn
+bip_39_word_underscore_2: hundred_note
+bip_39_word_underscore_3: hundred_note_minor
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_household_cleaning
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_cleaning_cleaner_spray
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_household_cleaning_cleaner_spray
+id: category_household_cleaning_cleaner_spray
+id_no_class: household_cleaning_cleaner_spray
+id_no_color: cleanerspray
+id_no_size: cleaner_spray
+id_no_type: cleaner_spray
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209svan
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209svan
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209svan
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209svan
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_cleaning_cleaner_spray
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_cleaning_cleaner_spray](none)<br>[](none)<br>[Category
+  Household Cleaning Cleaner Spray](none)<br><br>'
+markdown_short: '[category_household_cleaning_cleaner_spray](none)<br><br>'
+md5: fb366fde2e650048cd30f35d1a65ab79
+md5_10: fb366fde2e
+md5_10_upper: FB366FDE2E
+md5_5: fb366
+md5_5_upper: FB366
+md5_6: fb366f
+md5_6_alpha: 9svan
+md5_6_alpha_upper: 9SVAN
+md5_6_upper: FB366F
+name: Category Household Cleaning Cleaner Spray
+name_no_class: Household Cleaning Cleaner Spray
+name_no_color: Cleanerspray
+name_no_size: Cleaner Spray
+name_no_size_short: Cleaner Spray
+name_no_type: Cleaner Spray
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: household_cleaning
+oomlout_detail_hierarchy_2_upper: HOUSEHOLD_CLEANING
+oomlout_detail_hierarchy_2_upper_length_4: HOUS
+oomlout_detail_hierarchy_3: cleaner_spray
+oomlout_detail_hierarchy_3_upper: CLEANER_SPRAY
+oomlout_detail_hierarchy_3_upper_length_4: CLEA
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_household_cleaning_cleaner_spray
+oomp_word: ok rabbit moon
+oomp_word_emoji: ':ok: :rabbit: :moon:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':rabbit:'
+- ':moon:'
+oomp_word_list:
+- ok
+- rabbit
+- moon
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdcleaning
+size: cleaner_spray
+size_capital: Cleaner Spray
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: cl
+size_length_3: cle
+size_length_4: clea
+size_length_5: clean
+size_length_6: cleane
+size_name: Cleaner Spray
+size_no_space_length_1: c
+size_no_space_length_2: cl
+size_no_space_length_3: cle
+size_no_space_length_4: clea
+size_no_space_length_5: clean
+size_no_space_length_6: cleane
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CL
+size_no_space_upper_length_3: CLE
+size_no_space_upper_length_4: CLEA
+size_no_space_upper_length_5: CLEAN
+size_no_space_upper_length_6: CLEANE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CLEANER_SPRAY
+size_upper_length_1: C
+size_upper_length_2: CL
+size_upper_length_3: CLE
+size_upper_length_4: CLEA
+size_upper_length_5: CLEAN
+size_upper_length_6: CLEANE
+type: household_cleaning
+type_capital: Household Cleaning
+type_first_letter: h
+type_first_letter_upper: H
+type_length_1: h
+type_length_2: ho
+type_length_3: hou
+type_length_4: hous
+type_length_5: house
+type_length_6: househ
+type_name: Household Cleaning
+type_no_space_length_1: h
+type_no_space_length_2: ho
+type_no_space_length_3: hou
+type_no_space_length_4: hous
+type_no_space_length_5: house
+type_no_space_length_6: househ
+type_no_space_upper_length_1: H
+type_no_space_upper_length_2: HO
+type_no_space_upper_length_3: HOU
+type_no_space_upper_length_4: HOUS
+type_no_space_upper_length_5: HOUSE
+type_no_space_upper_length_6: HOUSEH
+type_upper: HOUSEHOLD_CLEANING
+type_upper_length_1: H
+type_upper_length_2: HO
+type_upper_length_3: HOU
+type_upper_length_4: HOUS
+type_upper_length_5: HOUSE
+type_upper_length_6: HOUSEH

@@ -1,0 +1,323 @@
+bip_39_word_dash_12: axis-hundred-miss-axis-govern-strike-tell-tooth-torch-cube-capable-arctic
+bip_39_word_dash_2: axis-hundred
+bip_39_word_dash_3: axis-hundred-miss
+bip_39_word_new_br_12: axis<br>hundred<br>miss<br>axis<br>govern<br>strike<br>tell<br>tooth<br>torch<br>cube<br>capable<br>arctic
+bip_39_word_new_br_2: axis<br>hundred
+bip_39_word_new_br_3: axis<br>hundred<br>miss
+bip_39_word_new_line_12: 'axis
+
+  hundred
+
+  miss
+
+  axis
+
+  govern
+
+  strike
+
+  tell
+
+  tooth
+
+  torch
+
+  cube
+
+  capable
+
+  arctic'
+bip_39_word_new_line_2: 'axis
+
+  hundred'
+bip_39_word_new_line_3: 'axis
+
+  hundred
+
+  miss'
+bip_39_word_no_space_12: axishundredmissaxisgovernstriketelltoothtorchcubecapablearctic
+bip_39_word_no_space_2: axishundred
+bip_39_word_no_space_3: axishundredmiss
+bip_39_word_space_12: axis hundred miss axis govern strike tell tooth torch cube capable
+  arctic
+bip_39_word_space_2: axis hundred
+bip_39_word_space_3: axis hundred miss
+bip_39_word_underscore_12: axis_hundred_miss_axis_govern_strike_tell_tooth_torch_cube_capable_arctic
+bip_39_word_underscore_2: axis_hundred
+bip_39_word_underscore_3: axis_hundred_miss
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: vegetable
+description_extra: oxo_cube
+description_extra_capital: Oxo Cube
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ox
+description_extra_length_3: oxo
+description_extra_length_4: oxo_
+description_extra_length_5: oxo_c
+description_extra_length_6: oxo_cu
+description_extra_name: Oxo Cube
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ox
+description_extra_no_space_length_3: oxo
+description_extra_no_space_length_4: oxoc
+description_extra_no_space_length_5: oxocu
+description_extra_no_space_length_6: oxocub
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OX
+description_extra_no_space_upper_length_3: OXO
+description_extra_no_space_upper_length_4: OXOC
+description_extra_no_space_upper_length_5: OXOCU
+description_extra_no_space_upper_length_6: OXOCUB
+description_extra_upper: OXO_CUBE
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OX
+description_extra_upper_length_3: OXO
+description_extra_upper_length_4: OXO_
+description_extra_upper_length_5: OXO_C
+description_extra_upper_length_6: OXO_CU
+description_main: vegetable
+description_main_capital: Vegetable
+description_main_first_letter: v
+description_main_first_letter_upper: V
+description_main_length_1: v
+description_main_length_2: ve
+description_main_length_3: veg
+description_main_length_4: vege
+description_main_length_5: veget
+description_main_length_6: vegeta
+description_main_name: Vegetable
+description_main_no_space_length_1: v
+description_main_no_space_length_2: ve
+description_main_no_space_length_3: veg
+description_main_no_space_length_4: vege
+description_main_no_space_length_5: veget
+description_main_no_space_length_6: vegeta
+description_main_no_space_upper_length_1: V
+description_main_no_space_upper_length_2: VE
+description_main_no_space_upper_length_3: VEG
+description_main_no_space_upper_length_4: VEGE
+description_main_no_space_upper_length_5: VEGET
+description_main_no_space_upper_length_6: VEGETA
+description_main_upper: VEGETABLE
+description_main_upper_length_1: V
+description_main_upper_length_2: VE
+description_main_upper_length_3: VEG
+description_main_upper_length_4: VEGE
+description_main_upper_length_5: VEGET
+description_main_upper_length_6: VEGETA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+id: food_seasoning_stock_vegetable_oxo_cube_schwartz
+id_no_class: seasoning_stock_vegetable_oxo_cube_schwartz
+id_no_color: vegetableoxocubeschwartz
+id_no_size: vegetable_oxo_cube_schwartz
+id_no_type: stock_vegetable_oxo_cube_schwartz
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206yeh9
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206yeh9
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206yeh9
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206yeh9
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_stock_vegetable_oxo_cube_schwartz
+manufacturer: schwartz
+manufacturer_capital: Schwartz
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_length_1: s
+manufacturer_length_2: sc
+manufacturer_length_3: sch
+manufacturer_length_4: schw
+manufacturer_length_5: schwa
+manufacturer_length_6: schwar
+manufacturer_name: Schwartz
+manufacturer_no_space_length_1: s
+manufacturer_no_space_length_2: sc
+manufacturer_no_space_length_3: sch
+manufacturer_no_space_length_4: schw
+manufacturer_no_space_length_5: schwa
+manufacturer_no_space_length_6: schwar
+manufacturer_no_space_upper_length_1: S
+manufacturer_no_space_upper_length_2: SC
+manufacturer_no_space_upper_length_3: SCH
+manufacturer_no_space_upper_length_4: SCHW
+manufacturer_no_space_upper_length_5: SCHWA
+manufacturer_no_space_upper_length_6: SCHWAR
+manufacturer_upper: SCHWARTZ
+manufacturer_upper_length_1: S
+manufacturer_upper_length_2: SC
+manufacturer_upper_length_3: SCH
+manufacturer_upper_length_4: SCHW
+manufacturer_upper_length_5: SCHWA
+manufacturer_upper_length_6: SCHWAR
+manufacturers: []
+markdown_full: '[food_seasoning_stock_vegetable_oxo_cube_schwartz](none)<br>[](none)<br>[Food
+  Seasoning Stock Vegetable Oxo Cube Schwartz](none)<br><br>'
+markdown_short: '[food_seasoning_stock_vegetable_oxo_cube_schwartz](none)<br><br>'
+md5: b243cd5f2ae4dbdb5c32810f1b9bc887
+md5_10: b243cd5f2a
+md5_10_upper: B243CD5F2A
+md5_5: b243c
+md5_5_upper: B243C
+md5_6: b243cd
+md5_6_alpha: 6yeh9
+md5_6_alpha_upper: 6YEH9
+md5_6_upper: B243CD
+name: Food Seasoning Stock Vegetable Oxo Cube Schwartz
+name_no_class: Seasoning Stock Vegetable Oxo Cube Schwartz
+name_no_color: Vegetableoxocubeschwartz
+name_no_size: Vegetable Oxo Cube Schwartz
+name_no_size_short: Vegetable Oxo Cube Schwartz
+name_no_type: Stock Vegetable Oxo Cube Schwartz
+name_short: Vegetable
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: stock
+oomlout_detail_hierarchy_3_upper: STOCK
+oomlout_detail_hierarchy_3_upper_length_4: STOC
+oomlout_detail_hierarchy_4: vegetable
+oomlout_detail_hierarchy_4_upper: VEGETABLE
+oomlout_detail_hierarchy_4_upper_length_4: VEGE
+oomlout_detail_hierarchy_5: oxo_cube
+oomlout_detail_hierarchy_5_upper: OXO_CUBE
+oomlout_detail_hierarchy_5_upper_length_4: OXO_
+oomlout_detail_hierarchy_6: schwartz
+oomlout_detail_hierarchy_6_upper: SCHWARTZ
+oomlout_detail_hierarchy_6_upper_length_4: SCHW
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_seasoning_stock_vegetable_oxo_cube_schwartz
+oomp_word: handbag elephant strawberry
+oomp_word_emoji: ':handbag: :elephant: :strawberry:'
+oomp_word_emoji_list:
+- ':handbag:'
+- ':elephant:'
+- ':strawberry:'
+oomp_word_list:
+- handbag
+- elephant
+- strawberry
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: stock
+size_capital: Stock
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: sto
+size_length_4: stoc
+size_length_5: stock
+size_length_6: stock
+size_name: Stock
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: sto
+size_no_space_length_4: stoc
+size_no_space_length_5: stock
+size_no_space_length_6: stock
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STO
+size_no_space_upper_length_4: STOC
+size_no_space_upper_length_5: STOCK
+size_no_space_upper_length_6: STOCK
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STOCK
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STO
+size_upper_length_4: STOC
+size_upper_length_5: STOCK
+size_upper_length_6: STOCK
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
+type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON

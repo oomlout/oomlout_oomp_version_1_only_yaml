@@ -1,0 +1,293 @@
+bip_39_word_dash_12: butter-meat-harsh-mandate-nest-present-bleak-exile-ball-media-jump-aisle
+bip_39_word_dash_2: butter-meat
+bip_39_word_dash_3: butter-meat-harsh
+bip_39_word_new_br_12: butter<br>meat<br>harsh<br>mandate<br>nest<br>present<br>bleak<br>exile<br>ball<br>media<br>jump<br>aisle
+bip_39_word_new_br_2: butter<br>meat
+bip_39_word_new_br_3: butter<br>meat<br>harsh
+bip_39_word_new_line_12: 'butter
+
+  meat
+
+  harsh
+
+  mandate
+
+  nest
+
+  present
+
+  bleak
+
+  exile
+
+  ball
+
+  media
+
+  jump
+
+  aisle'
+bip_39_word_new_line_2: 'butter
+
+  meat'
+bip_39_word_new_line_3: 'butter
+
+  meat
+
+  harsh'
+bip_39_word_no_space_12: buttermeatharshmandatenestpresentbleakexileballmediajumpaisle
+bip_39_word_no_space_2: buttermeat
+bip_39_word_no_space_3: buttermeatharsh
+bip_39_word_space_12: butter meat harsh mandate nest present bleak exile ball media
+  jump aisle
+bip_39_word_space_2: butter meat
+bip_39_word_space_3: butter meat harsh
+bip_39_word_underscore_12: butter_meat_harsh_mandate_nest_present_bleak_exile_ball_media_jump_aisle
+bip_39_word_underscore_2: butter_meat
+bip_39_word_underscore_3: butter_meat_harsh
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cr
+classification_length_3: cra
+classification_length_4: craf
+classification_length_5: craft
+classification_length_6: craft
+classification_name: Craft
+classification_no_space_length_1: c
+classification_no_space_length_2: cr
+classification_no_space_length_3: cra
+classification_no_space_length_4: craf
+classification_no_space_length_5: craft
+classification_no_space_length_6: craft
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CR
+classification_no_space_upper_length_3: CRA
+classification_no_space_upper_length_4: CRAF
+classification_no_space_upper_length_5: CRAFT
+classification_no_space_upper_length_6: CRAFT
+classification_upper: CRAFT
+classification_upper_length_1: C
+classification_upper_length_2: CR
+classification_upper_length_3: CRA
+classification_upper_length_4: CRAF
+classification_upper_length_5: CRAFT
+classification_upper_length_6: CRAFT
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_length_1: y
+color_length_2: ye
+color_length_3: yel
+color_length_4: yell
+color_length_5: yello
+color_length_6: yellow
+color_name: Yellow
+color_no_space_length_1: y
+color_no_space_length_2: ye
+color_no_space_length_3: yel
+color_no_space_length_4: yell
+color_no_space_length_5: yello
+color_no_space_length_6: yellow
+color_no_space_upper_length_1: Y
+color_no_space_upper_length_2: YE
+color_no_space_upper_length_3: YEL
+color_no_space_upper_length_4: YELL
+color_no_space_upper_length_5: YELLO
+color_no_space_upper_length_6: YELLOW
+color_upper: YELLOW
+color_upper_length_1: Y
+color_upper_length_2: YE
+color_upper_length_3: YEL
+color_upper_length_4: YELL
+color_upper_length_5: YELLO
+color_upper_length_6: YELLOW
+description_extra: 1_meter
+description_extra_capital: 1 Meter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_length_1: '1'
+description_extra_length_2: '1_'
+description_extra_length_3: 1_m
+description_extra_length_4: 1_me
+description_extra_length_5: 1_met
+description_extra_length_6: 1_mete
+description_extra_name: 1 Meter
+description_extra_no_space_length_1: '1'
+description_extra_no_space_length_2: 1m
+description_extra_no_space_length_3: 1me
+description_extra_no_space_length_4: 1met
+description_extra_no_space_length_5: 1mete
+description_extra_no_space_length_6: 1meter
+description_extra_no_space_upper_length_1: '1'
+description_extra_no_space_upper_length_2: 1M
+description_extra_no_space_upper_length_3: 1ME
+description_extra_no_space_upper_length_4: 1MET
+description_extra_no_space_upper_length_5: 1METE
+description_extra_no_space_upper_length_6: 1METER
+description_extra_upper: 1_METER
+description_extra_upper_length_1: '1'
+description_extra_upper_length_2: '1_'
+description_extra_upper_length_3: 1_M
+description_extra_upper_length_4: 1_ME
+description_extra_upper_length_5: 1_MET
+description_extra_upper_length_6: 1_METE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Y '
+description_or_color_upper: 'Y '
+directory: parts/craft_ribbon_lacey_yellow_1_meter
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/craft_ribbon_lacey_yellow_1_meter
+id: craft_ribbon_lacey_yellow_1_meter
+id_no_class: ribbon_lacey_yellow_1_meter
+id_no_color: 1_meter
+id_no_size: yellow_1_meter
+id_no_type: lacey_yellow_1_meter
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_yellow_1_meter
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_yellow_1_meter
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_yellow_1_meter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_yellow_1_meter
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203jqw2
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203jqw2
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203jqw2
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203jqw2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_yellow_1_meter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_lacey_yellow_1_meter](none)<br>[y](none)<br>[Craft Ribbon
+  Lacey Yellow 1 Meter](none)<br><br>'
+markdown_short: '[craft_ribbon_lacey_yellow_1_meter](none)<br><br>'
+md5: 5af1e2988f4fa2f2a84a4870d2a280fa
+md5_10: 5af1e2988f
+md5_10_upper: 5AF1E2988F
+md5_5: 5af1e
+md5_5_upper: 5AF1E
+md5_6: 5af1e2
+md5_6_alpha: 3jqw2
+md5_6_alpha_upper: 3JQW2
+md5_6_upper: 5AF1E2
+name: Craft Ribbon Lacey Yellow 1 Meter
+name_no_class: Ribbon Lacey Yellow 1 Meter
+name_no_color: 1 Meter
+name_no_size: Yellow 1 Meter
+name_no_size_short: Yellow 1 Meter
+name_no_type: Lacey Yellow 1 Meter
+oomlout_detail_hierarchy_1: craft
+oomlout_detail_hierarchy_1_upper: CRAFT
+oomlout_detail_hierarchy_1_upper_length_4: CRAF
+oomlout_detail_hierarchy_2: ribbon
+oomlout_detail_hierarchy_2_upper: RIBBON
+oomlout_detail_hierarchy_2_upper_length_4: RIBB
+oomlout_detail_hierarchy_3: lacey
+oomlout_detail_hierarchy_3_upper: LACEY
+oomlout_detail_hierarchy_3_upper_length_4: LACE
+oomlout_detail_hierarchy_4: yellow
+oomlout_detail_hierarchy_4_upper: YELLOW
+oomlout_detail_hierarchy_4_upper_length_4: YELL
+oomlout_detail_hierarchy_5: 1_meter
+oomlout_detail_hierarchy_5_upper: 1_METER
+oomlout_detail_hierarchy_5_upper_length_4: 1_ME
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_craft_ribbon_lacey_yellow_1_meter
+oomp_word: goat ticket sailboat
+oomp_word_emoji: ':goat: :ticket: :sailboat:'
+oomp_word_emoji_list:
+- ':goat:'
+- ':ticket:'
+- ':sailboat:'
+oomp_word_list:
+- goat
+- ticket
+- sailboat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: y
+short_code_upper: Y
+short_name: ''
+size: lacey
+size_capital: Lacey
+size_first_letter: l
+size_first_letter_upper: L
+size_length_1: l
+size_length_2: la
+size_length_3: lac
+size_length_4: lace
+size_length_5: lacey
+size_length_6: lacey
+size_name: Lacey
+size_no_space_length_1: l
+size_no_space_length_2: la
+size_no_space_length_3: lac
+size_no_space_length_4: lace
+size_no_space_length_5: lacey
+size_no_space_length_6: lacey
+size_no_space_upper_length_1: L
+size_no_space_upper_length_2: LA
+size_no_space_upper_length_3: LAC
+size_no_space_upper_length_4: LACE
+size_no_space_upper_length_5: LACEY
+size_no_space_upper_length_6: LACEY
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LACEY
+size_upper_length_1: L
+size_upper_length_2: LA
+size_upper_length_3: LAC
+size_upper_length_4: LACE
+size_upper_length_5: LACEY
+size_upper_length_6: LACEY
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_length_1: r
+type_length_2: ri
+type_length_3: rib
+type_length_4: ribb
+type_length_5: ribbo
+type_length_6: ribbon
+type_name: Ribbon
+type_no_space_length_1: r
+type_no_space_length_2: ri
+type_no_space_length_3: rib
+type_no_space_length_4: ribb
+type_no_space_length_5: ribbo
+type_no_space_length_6: ribbon
+type_no_space_upper_length_1: R
+type_no_space_upper_length_2: RI
+type_no_space_upper_length_3: RIB
+type_no_space_upper_length_4: RIBB
+type_no_space_upper_length_5: RIBBO
+type_no_space_upper_length_6: RIBBON
+type_upper: RIBBON
+type_upper_length_1: R
+type_upper_length_2: RI
+type_upper_length_3: RIB
+type_upper_length_4: RIBB
+type_upper_length_5: RIBBO
+type_upper_length_6: RIBBON

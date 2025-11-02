@@ -1,0 +1,302 @@
+bip_39_word_dash_12: humor-symbol-elephant-enlist-anger-inject-shield-elevator-about-refuse-layer-artwork
+bip_39_word_dash_2: humor-symbol
+bip_39_word_dash_3: humor-symbol-elephant
+bip_39_word_new_br_12: humor<br>symbol<br>elephant<br>enlist<br>anger<br>inject<br>shield<br>elevator<br>about<br>refuse<br>layer<br>artwork
+bip_39_word_new_br_2: humor<br>symbol
+bip_39_word_new_br_3: humor<br>symbol<br>elephant
+bip_39_word_new_line_12: 'humor
+
+  symbol
+
+  elephant
+
+  enlist
+
+  anger
+
+  inject
+
+  shield
+
+  elevator
+
+  about
+
+  refuse
+
+  layer
+
+  artwork'
+bip_39_word_new_line_2: 'humor
+
+  symbol'
+bip_39_word_new_line_3: 'humor
+
+  symbol
+
+  elephant'
+bip_39_word_no_space_12: humorsymbolelephantenlistangerinjectshieldelevatoraboutrefuselayerartwork
+bip_39_word_no_space_2: humorsymbol
+bip_39_word_no_space_3: humorsymbolelephant
+bip_39_word_space_12: humor symbol elephant enlist anger inject shield elevator about
+  refuse layer artwork
+bip_39_word_space_2: humor symbol
+bip_39_word_space_3: humor symbol elephant
+bip_39_word_underscore_12: humor_symbol_elephant_enlist_anger_inject_shield_elevator_about_refuse_layer_artwork
+bip_39_word_underscore_2: humor_symbol
+bip_39_word_underscore_3: humor_symbol_elephant
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_length_1: p
+classification_length_2: pa
+classification_length_3: pap
+classification_length_4: pape
+classification_length_5: paper
+classification_length_6: paper
+classification_name: Paper
+classification_no_space_length_1: p
+classification_no_space_length_2: pa
+classification_no_space_length_3: pap
+classification_no_space_length_4: pape
+classification_no_space_length_5: paper
+classification_no_space_length_6: paper
+classification_no_space_upper_length_1: P
+classification_no_space_upper_length_2: PA
+classification_no_space_upper_length_3: PAP
+classification_no_space_upper_length_4: PAPE
+classification_no_space_upper_length_5: PAPER
+classification_no_space_upper_length_6: PAPER
+classification_upper: PAPER
+classification_upper_length_1: P
+classification_upper_length_2: PA
+classification_upper_length_3: PAP
+classification_upper_length_4: PAPE
+classification_upper_length_5: PAPER
+classification_upper_length_6: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: red_light_light_color
+description_extra_capital: Red Light Light Color
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_length_1: r
+description_extra_length_2: re
+description_extra_length_3: red
+description_extra_length_4: red_
+description_extra_length_5: red_l
+description_extra_length_6: red_li
+description_extra_name: Red Light Light Color
+description_extra_no_space_length_1: r
+description_extra_no_space_length_2: re
+description_extra_no_space_length_3: red
+description_extra_no_space_length_4: redl
+description_extra_no_space_length_5: redli
+description_extra_no_space_length_6: redlig
+description_extra_no_space_upper_length_1: R
+description_extra_no_space_upper_length_2: RE
+description_extra_no_space_upper_length_3: RED
+description_extra_no_space_upper_length_4: REDL
+description_extra_no_space_upper_length_5: REDLI
+description_extra_no_space_upper_length_6: REDLIG
+description_extra_upper: RED_LIGHT_LIGHT_COLOR
+description_extra_upper_length_1: R
+description_extra_upper_length_2: RE
+description_extra_upper_length_3: RED
+description_extra_upper_length_4: RED_
+description_extra_upper_length_5: RED_L
+description_extra_upper_length_6: RED_LI
+description_main: 100_grams_per_meter_square
+description_main_capital: 100 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '100'
+description_main_length_4: '100_'
+description_main_length_5: 100_g
+description_main_length_6: 100_gr
+description_main_name: 100 Grams Per Meter Square
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: '100'
+description_main_no_space_length_4: 100g
+description_main_no_space_length_5: 100gr
+description_main_no_space_length_6: 100gra
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: '100'
+description_main_no_space_upper_length_4: 100G
+description_main_no_space_upper_length_5: 100GR
+description_main_no_space_upper_length_6: 100GRA
+description_main_upper: 100_GRAMS_PER_METER_SQUARE
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '100'
+description_main_upper_length_4: '100_'
+description_main_upper_length_5: 100_G
+description_main_upper_length_6: 100_GR
+description_only_numbers: '100'
+description_only_numbers_short: '100'
+description_or_color: '100'
+description_or_color_upper: '100'
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+id_no_class: sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+id_no_color: 100gramspermetersquareredlightlightcolor
+id_no_size: 100_grams_per_meter_square_red_light_light_color
+id_no_type: a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2088d65
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2088d65
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2088d65
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2088d65
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color](none)<br>[](none)<br>[Paper
+  Sheet A4 210 Mm Width 297 Mm Height 100 Grams Per Meter Square Red Light Light Color](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color](none)<br><br>'
+md5: d2fcad180347f8b5d00454ac8fb71b78
+md5_10: d2fcad1803
+md5_10_upper: D2FCAD1803
+md5_5: d2fca
+md5_5_upper: D2FCA
+md5_6: d2fcad
+md5_6_alpha: 88d65
+md5_6_alpha_upper: 88D65
+md5_6_upper: D2FCAD
+name: Paper Sheet A4 210 mm Width 297 mm Height 100 Grams Per Meter Square Red Light
+  Light Color
+name_no_class: Sheet A4 210 mm Width 297 mm Height 100 Grams Per Meter Square Red
+  Light Light Color
+name_no_color: 100Gramspermetersquareredlightlightcolor
+name_no_size: 100 Grams Per Meter Square Red Light Light Color
+name_no_size_short: 100 Grams Per Meter Square Red Light Light Color
+name_no_type: A4 210 mm Width 297 mm Height 100 Grams Per Meter Square Red Light Light
+  Color
+oomlout_detail_hierarchy_1: paper
+oomlout_detail_hierarchy_1_upper: PAPER
+oomlout_detail_hierarchy_1_upper_length_4: PAPE
+oomlout_detail_hierarchy_2: sheet
+oomlout_detail_hierarchy_2_upper: SHEET
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: 210_mm_width
+oomlout_detail_hierarchy_3_upper: 210_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 210W
+oomlout_detail_hierarchy_4: 297_mm_height
+oomlout_detail_hierarchy_4_upper: 297_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 297H
+oomlout_detail_hierarchy_5: 100_gram
+oomlout_detail_hierarchy_5_upper: 100_GRAM
+oomlout_detail_hierarchy_5_upper_length_4: '100_'
+oomlout_detail_hierarchy_6: red_light_light_color
+oomlout_detail_hierarchy_6_upper: RED_LIGHT_LIGHT_COLOR
+oomlout_detail_hierarchy_6_upper_length_4: RED_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_red_light_light_color
+oomp_word: pineapple up dress
+oomp_word_emoji: ':pineapple: :up: :dress:'
+oomp_word_emoji_list:
+- ':pineapple:'
+- ':up:'
+- ':dress:'
+oomp_word_list:
+- pineapple
+- up
+- dress
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_length_1: a
+size_length_2: a4
+size_length_3: a4_
+size_length_4: a4_2
+size_length_5: a4_21
+size_length_6: a4_210
+size_name: A4 210 mm Width 297 mm Height
+size_no_space_length_1: a
+size_no_space_length_2: a4
+size_no_space_length_3: a42
+size_no_space_length_4: a421
+size_no_space_length_5: a4210
+size_no_space_length_6: a4210m
+size_no_space_upper_length_1: A
+size_no_space_upper_length_2: A4
+size_no_space_upper_length_3: A42
+size_no_space_upper_length_4: A421
+size_no_space_upper_length_5: A4210
+size_no_space_upper_length_6: A4210M
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+size_upper_length_1: A
+size_upper_length_2: A4
+size_upper_length_3: A4_
+size_upper_length_4: A4_2
+size_upper_length_5: A4_21
+size_upper_length_6: A4_210
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet
+type_name: Sheet
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheet
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEET
+type_upper: SHEET
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET
+width: 210 mm

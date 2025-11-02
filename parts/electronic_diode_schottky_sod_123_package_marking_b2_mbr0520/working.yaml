@@ -1,0 +1,338 @@
+bip_39_word_dash_12: mystery-pool-collect-tongue-noodle-science-swarm-sweet-cloth-upgrade-mistake-average
+bip_39_word_dash_2: mystery-pool
+bip_39_word_dash_3: mystery-pool-collect
+bip_39_word_new_br_12: mystery<br>pool<br>collect<br>tongue<br>noodle<br>science<br>swarm<br>sweet<br>cloth<br>upgrade<br>mistake<br>average
+bip_39_word_new_br_2: mystery<br>pool
+bip_39_word_new_br_3: mystery<br>pool<br>collect
+bip_39_word_new_line_12: 'mystery
+
+  pool
+
+  collect
+
+  tongue
+
+  noodle
+
+  science
+
+  swarm
+
+  sweet
+
+  cloth
+
+  upgrade
+
+  mistake
+
+  average'
+bip_39_word_new_line_2: 'mystery
+
+  pool'
+bip_39_word_new_line_3: 'mystery
+
+  pool
+
+  collect'
+bip_39_word_no_space_12: mysterypoolcollecttonguenoodlescienceswarmsweetclothupgrademistakeaverage
+bip_39_word_no_space_2: mysterypool
+bip_39_word_no_space_3: mysterypoolcollect
+bip_39_word_space_12: mystery pool collect tongue noodle science swarm sweet cloth
+  upgrade mistake average
+bip_39_word_space_2: mystery pool
+bip_39_word_space_3: mystery pool collect
+bip_39_word_underscore_12: mystery_pool_collect_tongue_noodle_science_swarm_sweet_cloth_upgrade_mistake_average
+bip_39_word_underscore_2: mystery_pool
+bip_39_word_underscore_3: mystery_pool_collect
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: package_marking_b2
+description_extra_capital: Package Marking B2
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_length_1: p
+description_extra_length_2: pa
+description_extra_length_3: pac
+description_extra_length_4: pack
+description_extra_length_5: packa
+description_extra_length_6: packag
+description_extra_name: Package Marking B2
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: pa
+description_extra_no_space_length_3: pac
+description_extra_no_space_length_4: pack
+description_extra_no_space_length_5: packa
+description_extra_no_space_length_6: packag
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PA
+description_extra_no_space_upper_length_3: PAC
+description_extra_no_space_upper_length_4: PACK
+description_extra_no_space_upper_length_5: PACKA
+description_extra_no_space_upper_length_6: PACKAG
+description_extra_upper: PACKAGE_MARKING_B2
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PA
+description_extra_upper_length_3: PAC
+description_extra_upper_length_4: PACK
+description_extra_upper_length_5: PACKA
+description_extra_upper_length_6: PACKAG
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+distributors:
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C77335.html
+  name: LCSC
+  part_number: C77335
+- id: distributor_lcsc
+  link: https://lcsc.com/product-detail/C475717.html
+  name: LCSC
+  part_number: C475717
+filter: ''
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_diode_smd_d_sod_123//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_diode_smd_d_sod_123
+  note: source footprint kicad_diode_smd_d_sod_123
+  oomp_key: oomp_kicad_diode_smd_d_sod_123
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_dssod123pmb2mbr0520_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+id: electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+id_no_class: diode_schottky_sod_123_package_marking_b2_mbr0520
+id_no_color: packagemarkingb2mbr0520
+id_no_size: package_marking_b2_mbr0520
+id_no_type: sod_123_package_marking_b2_mbr0520
+kicad_reference: D
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209vj7f
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209vj7f
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209vj7f
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209vj7f
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers:
+- id: manufacturer_jiangsu_changjing_electronics_technology_co_ltd
+  link: ''
+  name: Jiangsu Changjing Electronics Technology Co., Ltd.
+  part_number: MBR0520
+- id: manufacturer_shikues
+  link: ''
+  name: Shikues
+  part_number: MBR0520
+- id: manufacturer_onsemi
+  link: ''
+  name: onsemi
+  part_number: MBR0520LT3G
+markdown_full: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](none)<br>[dssod123pmb2mbr0520](none)<br>[Electronic
+  Diode Schottky Sod 123 Package Marking B2 Mbr0520](none)<br>[LCSC - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC
+  - C475717<br>](https://lcsc.com/product-detail/C475717.html)<br>[Jiangsu Changjing
+  Electronics Technology Co., Ltd. - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[Shikues
+  - MBR0520]() [(L)  ](https://www.lcsc.com/search?q=MBR0520)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520)[(N)  ](https://www.newark.com/search?st=MBR0520)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520)<br>[onsemi
+  - MBR0520LT3G]() [(L)  ](https://www.lcsc.com/search?q=MBR0520LT3G)[(D)  ](https://www.digikey.com/en/products?keywords=MBR0520LT3G)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=MBR0520LT3G)[(N)  ](https://www.newark.com/search?st=MBR0520LT3G)[(SZ)  ](https://so.szlcsc.com/global.html?k=MBR0520LT3G)<br>'
+markdown_short: '[electronic_diode_schottky_sod_123_package_marking_b2_mbr0520](none)<br>[LCSC
+  - C77335<br>](https://lcsc.com/product-detail/C77335.html)[LCSC - C475717<br>](https://lcsc.com/product-detail/C475717.html)<br>[Jiangsu
+  Changjing Electronics Technology Co., Ltd. - MBR0520]()[Shikues - MBR0520]()[onsemi
+  - MBR0520LT3G]()'
+md5: fd1bfba95edbbb6f03cb0e465b2a0493
+md5_10: fd1bfba95e
+md5_10_upper: FD1BFBA95E
+md5_5: fd1bf
+md5_5_upper: FD1BF
+md5_6: fd1bfb
+md5_6_alpha: 9vj7f
+md5_6_alpha_upper: 9VJ7F
+md5_6_upper: FD1BFB
+name: Electronic Diode Schottky Sod 123 Package Marking B2 Mbr0520
+name_no_class: Diode Schottky Sod 123 Package Marking B2 Mbr0520
+name_no_color: Packagemarkingb2Mbr0520
+name_no_size: Package Marking B2 Mbr0520
+name_no_size_short: Package Marking B2 Mbr0520
+name_no_type: Sod 123 Package Marking B2 Mbr0520
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: diode_schottky
+oomlout_detail_hierarchy_2_upper: DIODE_SCHOTTKY
+oomlout_detail_hierarchy_2_upper_length_4: DIOD
+oomlout_detail_hierarchy_3: sod_123
+oomlout_detail_hierarchy_3_upper: SOD_123
+oomlout_detail_hierarchy_3_upper_length_4: SOD_
+oomlout_detail_hierarchy_4: package_marking_b2
+oomlout_detail_hierarchy_4_upper: PACKAGE_MARKING_B2
+oomlout_detail_hierarchy_4_upper_length_4: PACK
+oomlout_detail_hierarchy_5: mbr0520
+oomlout_detail_hierarchy_5_upper: MBR0520
+oomlout_detail_hierarchy_5_upper_length_4: MBR0
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_diode_schottky_sod_123_package_marking_b2_mbr0520
+oomp_word: parking muscle ok
+oomp_word_emoji: ':parking: :muscle: :ok:'
+oomp_word_emoji_list:
+- ':parking:'
+- ':muscle:'
+- ':ok:'
+oomp_word_list:
+- parking
+- muscle
+- ok
+part_number: mbr0520
+part_number_capital: Mbr0520
+part_number_first_letter: m
+part_number_first_letter_upper: M
+part_number_length_1: m
+part_number_length_2: mb
+part_number_length_3: mbr
+part_number_length_4: mbr0
+part_number_length_5: mbr05
+part_number_length_6: mbr052
+part_number_name: Mbr0520
+part_number_no_space_length_1: m
+part_number_no_space_length_2: mb
+part_number_no_space_length_3: mbr
+part_number_no_space_length_4: mbr0
+part_number_no_space_length_5: mbr05
+part_number_no_space_length_6: mbr052
+part_number_no_space_upper_length_1: M
+part_number_no_space_upper_length_2: MB
+part_number_no_space_upper_length_3: MBR
+part_number_no_space_upper_length_4: MBR0
+part_number_no_space_upper_length_5: MBR05
+part_number_no_space_upper_length_6: MBR052
+part_number_upper: MBR0520
+part_number_upper_length_1: M
+part_number_upper_length_2: MB
+part_number_upper_length_3: MBR
+part_number_upper_length_4: MBR0
+part_number_upper_length_5: MBR05
+part_number_upper_length_6: MBR052
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: dssod123pmb2mbr0520
+short_code_upper: DSSOD123PMB2MBR0520
+size: sod_123
+size_capital: Sod 123
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: sod
+size_length_4: sod_
+size_length_5: sod_1
+size_length_6: sod_12
+size_name: Sod 123
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: sod
+size_no_space_length_4: sod1
+size_no_space_length_5: sod12
+size_no_space_length_6: sod123
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOD
+size_no_space_upper_length_4: SOD1
+size_no_space_upper_length_5: SOD12
+size_no_space_upper_length_6: SOD123
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
+size_upper: SOD_123
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOD
+size_upper_length_4: SOD_
+size_upper_length_5: SOD_1
+size_upper_length_6: SOD_12
+symbol:
+- directory: oomlout_oomp_symbol_bot/symbols/kicad_device_d_schottky//working/working.kicad_sym
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_symbol_bot/tree/main/symbols/kicad_device_d_schottky
+  oomp_key: oomp_kicad_device_d_schottky
+type: diode_schottky
+type_capital: Diode Schottky
+type_first_letter: d
+type_first_letter_upper: D
+type_length_1: d
+type_length_2: di
+type_length_3: dio
+type_length_4: diod
+type_length_5: diode
+type_length_6: diode_
+type_name: Diode Schottky
+type_no_space_length_1: d
+type_no_space_length_2: di
+type_no_space_length_3: dio
+type_no_space_length_4: diod
+type_no_space_length_5: diode
+type_no_space_length_6: diodes
+type_no_space_upper_length_1: D
+type_no_space_upper_length_2: DI
+type_no_space_upper_length_3: DIO
+type_no_space_upper_length_4: DIOD
+type_no_space_upper_length_5: DIODE
+type_no_space_upper_length_6: DIODES
+type_upper: DIODE_SCHOTTKY
+type_upper_length_1: D
+type_upper_length_2: DI
+type_upper_length_3: DIO
+type_upper_length_4: DIOD
+type_upper_length_5: DIODE
+type_upper_length_6: DIODE_

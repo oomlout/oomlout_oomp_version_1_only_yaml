@@ -1,0 +1,269 @@
+bip_39_word_dash_12: leaf-theme-voyage-coffee-common-ready-april-novel-ready-lyrics-game-allow
+bip_39_word_dash_2: leaf-theme
+bip_39_word_dash_3: leaf-theme-voyage
+bip_39_word_new_br_12: leaf<br>theme<br>voyage<br>coffee<br>common<br>ready<br>april<br>novel<br>ready<br>lyrics<br>game<br>allow
+bip_39_word_new_br_2: leaf<br>theme
+bip_39_word_new_br_3: leaf<br>theme<br>voyage
+bip_39_word_new_line_12: 'leaf
+
+  theme
+
+  voyage
+
+  coffee
+
+  common
+
+  ready
+
+  april
+
+  novel
+
+  ready
+
+  lyrics
+
+  game
+
+  allow'
+bip_39_word_new_line_2: 'leaf
+
+  theme'
+bip_39_word_new_line_3: 'leaf
+
+  theme
+
+  voyage'
+bip_39_word_no_space_12: leafthemevoyagecoffeecommonreadyaprilnovelreadylyricsgameallow
+bip_39_word_no_space_2: leaftheme
+bip_39_word_no_space_3: leafthemevoyage
+bip_39_word_space_12: leaf theme voyage coffee common ready april novel ready lyrics
+  game allow
+bip_39_word_space_2: leaf theme
+bip_39_word_space_3: leaf theme voyage
+bip_39_word_underscore_12: leaf_theme_voyage_coffee_common_ready_april_novel_ready_lyrics_game_allow
+bip_39_word_underscore_2: leaf_theme
+bip_39_word_underscore_3: leaf_theme_voyage
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: dill
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: dill
+description_main_capital: Dill
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_length_1: d
+description_main_length_2: di
+description_main_length_3: dil
+description_main_length_4: dill
+description_main_length_5: dill
+description_main_length_6: dill
+description_main_name: Dill
+description_main_no_space_length_1: d
+description_main_no_space_length_2: di
+description_main_no_space_length_3: dil
+description_main_no_space_length_4: dill
+description_main_no_space_length_5: dill
+description_main_no_space_length_6: dill
+description_main_no_space_upper_length_1: D
+description_main_no_space_upper_length_2: DI
+description_main_no_space_upper_length_3: DIL
+description_main_no_space_upper_length_4: DILL
+description_main_no_space_upper_length_5: DILL
+description_main_no_space_upper_length_6: DILL
+description_main_upper: DILL
+description_main_upper_length_1: D
+description_main_upper_length_2: DI
+description_main_upper_length_3: DIL
+description_main_upper_length_4: DILL
+description_main_upper_length_5: DILL
+description_main_upper_length_6: DILL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_dill
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_herb_dill
+id: food_seasoning_herb_dill
+id_no_class: seasoning_herb_dill
+id_no_color: dill
+id_no_size: dill
+id_no_type: herb_dill
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2045xsx
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2045xsx
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2045xsx
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2045xsx
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_dill](none)<br>[](none)<br>[Food Seasoning Herb
+  Dill](none)<br><br>'
+markdown_short: '[food_seasoning_herb_dill](none)<br><br>'
+md5: 6abe615d9697015ecb1732d3ec3803f5
+md5_10: 6abe615d96
+md5_10_upper: 6ABE615D96
+md5_5: 6abe6
+md5_5_upper: 6ABE6
+md5_6: 6abe61
+md5_6_alpha: 45xsx
+md5_6_alpha_upper: 45XSX
+md5_6_upper: 6ABE61
+name: Food Seasoning Herb Dill
+name_no_class: Seasoning Herb Dill
+name_no_color: Dill
+name_no_size: Dill
+name_no_size_short: Dill
+name_no_type: Herb Dill
+name_short: Dill
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: herb
+oomlout_detail_hierarchy_3_upper: HERB
+oomlout_detail_hierarchy_3_upper_length_4: HERB
+oomlout_detail_hierarchy_4: dill
+oomlout_detail_hierarchy_4_upper: DILL
+oomlout_detail_hierarchy_4_upper_length_4: DILL
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_seasoning_herb_dill
+oomp_word: palm_tree ramen bouquet
+oomp_word_emoji: ':palm_tree: :ramen: :bouquet:'
+oomp_word_emoji_list:
+- ':palm_tree:'
+- ':ramen:'
+- ':bouquet:'
+oomp_word_list:
+- palm_tree
+- ramen
+- bouquet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_length_1: h
+size_length_2: he
+size_length_3: her
+size_length_4: herb
+size_length_5: herb
+size_length_6: herb
+size_name: Herb
+size_no_space_length_1: h
+size_no_space_length_2: he
+size_no_space_length_3: her
+size_no_space_length_4: herb
+size_no_space_length_5: herb
+size_no_space_length_6: herb
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HE
+size_no_space_upper_length_3: HER
+size_no_space_upper_length_4: HERB
+size_no_space_upper_length_5: HERB
+size_no_space_upper_length_6: HERB
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+size_upper_length_1: H
+size_upper_length_2: HE
+size_upper_length_3: HER
+size_upper_length_4: HERB
+size_upper_length_5: HERB
+size_upper_length_6: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
+type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON

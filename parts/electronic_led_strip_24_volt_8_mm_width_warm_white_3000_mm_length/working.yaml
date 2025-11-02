@@ -1,0 +1,301 @@
+bip_39_word_dash_12: donor-sustain-oil-taste-swamp-car-cost-gather-already-beef-grit-amazing
+bip_39_word_dash_2: donor-sustain
+bip_39_word_dash_3: donor-sustain-oil
+bip_39_word_new_br_12: donor<br>sustain<br>oil<br>taste<br>swamp<br>car<br>cost<br>gather<br>already<br>beef<br>grit<br>amazing
+bip_39_word_new_br_2: donor<br>sustain
+bip_39_word_new_br_3: donor<br>sustain<br>oil
+bip_39_word_new_line_12: 'donor
+
+  sustain
+
+  oil
+
+  taste
+
+  swamp
+
+  car
+
+  cost
+
+  gather
+
+  already
+
+  beef
+
+  grit
+
+  amazing'
+bip_39_word_new_line_2: 'donor
+
+  sustain'
+bip_39_word_new_line_3: 'donor
+
+  sustain
+
+  oil'
+bip_39_word_no_space_12: donorsustainoiltasteswampcarcostgatheralreadybeefgritamazing
+bip_39_word_no_space_2: donorsustain
+bip_39_word_no_space_3: donorsustainoil
+bip_39_word_space_12: donor sustain oil taste swamp car cost gather already beef grit
+  amazing
+bip_39_word_space_2: donor sustain
+bip_39_word_space_3: donor sustain oil
+bip_39_word_underscore_12: donor_sustain_oil_taste_swamp_car_cost_gather_already_beef_grit_amazing
+bip_39_word_underscore_2: donor_sustain
+bip_39_word_underscore_3: donor_sustain_oil
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: warm_white
+color_capital: Warm White
+color_first_letter: w
+color_first_letter_upper: W
+color_length_1: w
+color_length_2: wa
+color_length_3: war
+color_length_4: warm
+color_length_5: warm_
+color_length_6: warm_w
+color_name: Warm White
+color_no_space_length_1: w
+color_no_space_length_2: wa
+color_no_space_length_3: war
+color_no_space_length_4: warm
+color_no_space_length_5: warmw
+color_no_space_length_6: warmwh
+color_no_space_upper_length_1: W
+color_no_space_upper_length_2: WA
+color_no_space_upper_length_3: WAR
+color_no_space_upper_length_4: WARM
+color_no_space_upper_length_5: WARMW
+color_no_space_upper_length_6: WARMWH
+color_upper: WARM_WHITE
+color_upper_length_1: W
+color_upper_length_2: WA
+color_upper_length_3: WAR
+color_upper_length_4: WARM
+color_upper_length_5: WARM_
+color_upper_length_6: WARM_W
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 3000_mm_length
+description_main_capital: 3000 mm Length
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '30'
+description_main_length_3: '300'
+description_main_length_4: '3000'
+description_main_length_5: '3000_'
+description_main_length_6: 3000_m
+description_main_name: 3000 mm Length
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: '30'
+description_main_no_space_length_3: '300'
+description_main_no_space_length_4: '3000'
+description_main_no_space_length_5: 3000m
+description_main_no_space_length_6: 3000mm
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: '30'
+description_main_no_space_upper_length_3: '300'
+description_main_no_space_upper_length_4: '3000'
+description_main_no_space_upper_length_5: 3000M
+description_main_no_space_upper_length_6: 3000MM
+description_main_upper: 3000_MM_LENGTH
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '30'
+description_main_upper_length_3: '300'
+description_main_upper_length_4: '3000'
+description_main_upper_length_5: '3000_'
+description_main_upper_length_6: 3000_M
+description_only_numbers: '3000'
+description_only_numbers_short: 3k
+description_or_color: W3k
+description_or_color_upper: W3K
+directory: parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+id: electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+id_no_class: led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+id_no_color: 3000_mm_length
+id_no_size: warm_white_3000_mm_length
+id_no_type: strip_24_volt_8_mm_width_warm_white_3000_mm_length
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+link_2_name: link_github
+link_3: https://www.aliexpress.com/item/1005007532172895.html
+link_3_name: link_distributor_aliexpress
+link_buy_1: https://www.aliexpress.com/item/1005007532172895.html
+link_buy_1_name: link_distributor_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204vayt
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204vayt
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204vayt
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204vayt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length](none)<br>[l](none)<br>[Electronic
+  Led Strip 24 Volt 8 Mm Width Warm White 3000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length](none)<br><br>'
+md5: 7ccd450039606614896d9de333b6ba0a
+md5_10: 7ccd450039
+md5_10_upper: 7CCD450039
+md5_5: 7ccd4
+md5_5_upper: 7CCD4
+md5_6: 7ccd45
+md5_6_alpha: 4vayt
+md5_6_alpha_upper: 4VAYT
+md5_6_upper: 7CCD45
+name: Electronic LED Strip 24 Volt 8 mm Width Warm White 3000 mm Length
+name_no_class: LED Strip 24 Volt 8 mm Width Warm White 3000 mm Length
+name_no_color: 3000 mm Length
+name_no_size: Warm White 3000 mm Length
+name_no_size_short: Warm White 3k Mm Length
+name_no_type: Strip 24 Volt 8 mm Width Warm White 3000 mm Length
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: led
+oomlout_detail_hierarchy_2_upper: LED
+oomlout_detail_hierarchy_2_upper_length_4: LED
+oomlout_detail_hierarchy_3: 8_mm_width
+oomlout_detail_hierarchy_3_upper: 8_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 8WID
+oomlout_detail_hierarchy_4: warm_white
+oomlout_detail_hierarchy_4_upper: WARM_WHITE
+oomlout_detail_hierarchy_4_upper_length_4: WARM
+oomlout_detail_hierarchy_5: 3000_mm_length
+oomlout_detail_hierarchy_5_upper: 3000_MM_LENGTH
+oomlout_detail_hierarchy_5_upper_length_4: '3000'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_led_strip_24_volt_8_mm_width_warm_white_3000_mm_length
+oomp_word: tv strawberry snake
+oomp_word_emoji: ':tv: :strawberry: :snake:'
+oomp_word_emoji_list:
+- ':tv:'
+- ':strawberry:'
+- ':snake:'
+oomp_word_list:
+- tv
+- strawberry
+- snake
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: l
+short_code_upper: L
+short_name: Strip 24 Volt 8 Mm Width Warm White3000 Mm Length Led
+size: strip_24_volt_8_mm_width
+size_capital: Strip 24 Volt 8 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: st
+size_length_3: str
+size_length_4: stri
+size_length_5: strip
+size_length_6: strip_
+size_name: Strip 24 Volt 8 mm Width
+size_no_space_length_1: s
+size_no_space_length_2: st
+size_no_space_length_3: str
+size_no_space_length_4: stri
+size_no_space_length_5: strip
+size_no_space_length_6: strip2
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: ST
+size_no_space_upper_length_3: STR
+size_no_space_upper_length_4: STRI
+size_no_space_upper_length_5: STRIP
+size_no_space_upper_length_6: STRIP2
+size_only_numbers: '248'
+size_only_numbers_no_zeros: '248'
+size_upper: STRIP_24_VOLT_8_MM_WIDTH
+size_upper_length_1: S
+size_upper_length_2: ST
+size_upper_length_3: STR
+size_upper_length_4: STRI
+size_upper_length_5: STRIP
+size_upper_length_6: STRIP_
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_length_1: l
+type_length_2: le
+type_length_3: led
+type_length_4: led
+type_length_5: led
+type_length_6: led
+type_name: LED
+type_no_space_length_1: l
+type_no_space_length_2: le
+type_no_space_length_3: led
+type_no_space_length_4: led
+type_no_space_length_5: led
+type_no_space_length_6: led
+type_no_space_upper_length_1: L
+type_no_space_upper_length_2: LE
+type_no_space_upper_length_3: LED
+type_no_space_upper_length_4: LED
+type_no_space_upper_length_5: LED
+type_no_space_upper_length_6: LED
+type_upper: LED
+type_upper_length_1: L
+type_upper_length_2: LE
+type_upper_length_3: LED
+type_upper_length_4: LED
+type_upper_length_5: LED
+type_upper_length_6: LED

@@ -1,0 +1,270 @@
+bip_39_word_dash_12: transfer-dolphin-unhappy-shoe-journey-subject-soon-another-amused-general-habit-approve
+bip_39_word_dash_2: transfer-dolphin
+bip_39_word_dash_3: transfer-dolphin-unhappy
+bip_39_word_new_br_12: transfer<br>dolphin<br>unhappy<br>shoe<br>journey<br>subject<br>soon<br>another<br>amused<br>general<br>habit<br>approve
+bip_39_word_new_br_2: transfer<br>dolphin
+bip_39_word_new_br_3: transfer<br>dolphin<br>unhappy
+bip_39_word_new_line_12: 'transfer
+
+  dolphin
+
+  unhappy
+
+  shoe
+
+  journey
+
+  subject
+
+  soon
+
+  another
+
+  amused
+
+  general
+
+  habit
+
+  approve'
+bip_39_word_new_line_2: 'transfer
+
+  dolphin'
+bip_39_word_new_line_3: 'transfer
+
+  dolphin
+
+  unhappy'
+bip_39_word_no_space_12: transferdolphinunhappyshoejourneysubjectsoonanotheramusedgeneralhabitapprove
+bip_39_word_no_space_2: transferdolphin
+bip_39_word_no_space_3: transferdolphinunhappy
+bip_39_word_space_12: transfer dolphin unhappy shoe journey subject soon another amused
+  general habit approve
+bip_39_word_space_2: transfer dolphin
+bip_39_word_space_3: transfer dolphin unhappy
+bip_39_word_underscore_12: transfer_dolphin_unhappy_shoe_journey_subject_soon_another_amused_general_habit_approve
+bip_39_word_underscore_2: transfer_dolphin
+bip_39_word_underscore_3: transfer_dolphin_unhappy
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: dewalt_tower_style
+color_capital: Dewalt Tower Style
+color_first_letter: d
+color_first_letter_upper: D
+color_length_1: d
+color_length_2: de
+color_length_3: dew
+color_length_4: dewa
+color_length_5: dewal
+color_length_6: dewalt
+color_name: Dewalt Tower Style
+color_no_space_length_1: d
+color_no_space_length_2: de
+color_no_space_length_3: dew
+color_no_space_length_4: dewa
+color_no_space_length_5: dewal
+color_no_space_length_6: dewalt
+color_no_space_upper_length_1: D
+color_no_space_upper_length_2: DE
+color_no_space_upper_length_3: DEW
+color_no_space_upper_length_4: DEWA
+color_no_space_upper_length_5: DEWAL
+color_no_space_upper_length_6: DEWALT
+color_upper: DEWALT_TOWER_STYLE
+color_upper_length_1: D
+color_upper_length_2: DE
+color_upper_length_3: DEW
+color_upper_length_4: DEWA
+color_upper_length_5: DEWAL
+color_upper_length_6: DEWALT
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_electronic_battery_box_dewalt_tower_style
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+id: category_electronic_battery_box_dewalt_tower_style
+id_no_class: electronic_battery_box_dewalt_tower_style
+id_no_color: dewalt_tower_style
+id_no_size: dewalt_tower_style
+id_no_type: battery_box_dewalt_tower_style
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206qqu0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206qqu0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206qqu0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206qqu0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_box_dewalt_tower_style](none)<br>[](none)<br>[Category
+  Electronic Battery Box Dewalt Tower Style](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_dewalt_tower_style](none)<br><br>'
+md5: acd05830410999eb5fbc3c67da903739
+md5_10: acd0583041
+md5_10_upper: ACD0583041
+md5_5: acd05
+md5_5_upper: ACD05
+md5_6: acd058
+md5_6_alpha: 6qqu0
+md5_6_alpha_upper: 6QQU0
+md5_6_upper: ACD058
+name: Category Electronic Battery Box Dewalt Tower Style
+name_no_class: Electronic Battery Box Dewalt Tower Style
+name_no_color: Dewalt Tower Style
+name_no_size: Dewalt Tower Style
+name_no_size_short: Dewalt Tower Style
+name_no_type: Battery Box Dewalt Tower Style
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: battery_box
+oomlout_detail_hierarchy_3_upper: BATTERY_BOX
+oomlout_detail_hierarchy_3_upper_length_4: BATT
+oomlout_detail_hierarchy_4: dewalt_tower_style
+oomlout_detail_hierarchy_4_upper: DEWALT_TOWER_STYLE
+oomlout_detail_hierarchy_4_upper_length_4: DEWA
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_electronic_battery_box_dewalt_tower_style
+oomp_word: shirt banana water_buffalo
+oomp_word_emoji: ':shirt: :banana: :water_buffalo:'
+oomp_word_emoji_list:
+- ':shirt:'
+- ':banana:'
+- ':water_buffalo:'
+oomp_word_list:
+- shirt
+- banana
+- water_buffalo
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery_box
+size_capital: Battery Box
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: ba
+size_length_3: bat
+size_length_4: batt
+size_length_5: batte
+size_length_6: batter
+size_name: Battery Box
+size_no_space_length_1: b
+size_no_space_length_2: ba
+size_no_space_length_3: bat
+size_no_space_length_4: batt
+size_no_space_length_5: batte
+size_no_space_length_6: batter
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BA
+size_no_space_upper_length_3: BAT
+size_no_space_upper_length_4: BATT
+size_no_space_upper_length_5: BATTE
+size_no_space_upper_length_6: BATTER
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY_BOX
+size_upper_length_1: B
+size_upper_length_2: BA
+size_upper_length_3: BAT
+size_upper_length_4: BATT
+size_upper_length_5: BATTE
+size_upper_length_6: BATTER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

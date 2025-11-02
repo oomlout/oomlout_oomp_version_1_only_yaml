@@ -1,0 +1,267 @@
+bip_39_word_dash_11: process-arm-gain-type-connect-cement-club-artist-endorse-debris-cargo
+bip_39_word_dash_2: process-arm
+bip_39_word_dash_3: process-arm-gain
+bip_39_word_new_br_11: process<br>arm<br>gain<br>type<br>connect<br>cement<br>club<br>artist<br>endorse<br>debris<br>cargo
+bip_39_word_new_br_2: process<br>arm
+bip_39_word_new_br_3: process<br>arm<br>gain
+bip_39_word_new_line_11: 'process
+
+  arm
+
+  gain
+
+  type
+
+  connect
+
+  cement
+
+  club
+
+  artist
+
+  endorse
+
+  debris
+
+  cargo'
+bip_39_word_new_line_2: 'process
+
+  arm'
+bip_39_word_new_line_3: 'process
+
+  arm
+
+  gain'
+bip_39_word_no_space_11: processarmgaintypeconnectcementclubartistendorsedebriscargo
+bip_39_word_no_space_2: processarm
+bip_39_word_no_space_3: processarmgain
+bip_39_word_space_11: process arm gain type connect cement club artist endorse debris
+  cargo
+bip_39_word_space_2: process arm
+bip_39_word_space_3: process arm gain
+bip_39_word_underscore_11: process_arm_gain_type_connect_cement_club_artist_endorse_debris_cargo
+bip_39_word_underscore_2: process_arm
+bip_39_word_underscore_3: process_arm_gain
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_length_1: w
+color_length_2: wh
+color_length_3: whi
+color_length_4: whit
+color_length_5: white
+color_length_6: white
+color_name: White
+color_no_space_length_1: w
+color_no_space_length_2: wh
+color_no_space_length_3: whi
+color_no_space_length_4: whit
+color_no_space_length_5: white
+color_no_space_length_6: white
+color_no_space_upper_length_1: W
+color_no_space_upper_length_2: WH
+color_no_space_upper_length_3: WHI
+color_no_space_upper_length_4: WHIT
+color_no_space_upper_length_5: WHITE
+color_no_space_upper_length_6: WHITE
+color_upper: WHITE
+color_upper_length_1: W
+color_upper_length_2: WH
+color_upper_length_3: WHI
+color_upper_length_4: WHIT
+color_upper_length_5: WHITE
+color_upper_length_6: WHITE
+description: flour_white
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/food_baking_flour_white
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_baking_flour_white
+id: food_baking_flour_white
+id_no_class: baking_flour_white
+id_no_color: white
+id_no_size: white
+id_no_type: flour_white
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20dou
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20dou
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20dou
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20dou
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_flour_white](none)<br>[w](none)<br>[Food Baking Flour
+  White](none)<br><br>'
+markdown_short: '[food_baking_flour_white](none)<br><br>'
+md5: 00454e1a4e0d058494979ebcbd82ed5c
+md5_10: 00454e1a4e
+md5_10_upper: 00454E1A4E
+md5_5: '00454'
+md5_5_upper: '00454'
+md5_6: 00454e
+md5_6_alpha: dou
+md5_6_alpha_upper: DOU
+md5_6_upper: 00454E
+name: Food Baking Flour White
+name_no_class: Baking Flour White
+name_no_color: White
+name_no_size: White
+name_no_size_short: White
+name_no_type: Flour White
+name_short: Flour White
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: baking
+oomlout_detail_hierarchy_2_upper: BAKING
+oomlout_detail_hierarchy_2_upper_length_4: BAKI
+oomlout_detail_hierarchy_3: flour
+oomlout_detail_hierarchy_3_upper: FLOUR
+oomlout_detail_hierarchy_3_upper_length_4: FLOU
+oomlout_detail_hierarchy_4: white
+oomlout_detail_hierarchy_4_upper: WHITE
+oomlout_detail_hierarchy_4_upper_length_4: WHIT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_baking_flour_white
+oomp_word: bowtie snake honeybee
+oomp_word_emoji: ':bowtie: :snake: :honeybee:'
+oomp_word_emoji_list:
+- ':bowtie:'
+- ':snake:'
+- ':honeybee:'
+oomp_word_list:
+- bowtie
+- snake
+- honeybee
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: w
+short_code_upper: W
+size: flour
+size_capital: Flour
+size_first_letter: f
+size_first_letter_upper: F
+size_length_1: f
+size_length_2: fl
+size_length_3: flo
+size_length_4: flou
+size_length_5: flour
+size_length_6: flour
+size_name: Flour
+size_no_space_length_1: f
+size_no_space_length_2: fl
+size_no_space_length_3: flo
+size_no_space_length_4: flou
+size_no_space_length_5: flour
+size_no_space_length_6: flour
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FL
+size_no_space_upper_length_3: FLO
+size_no_space_upper_length_4: FLOU
+size_no_space_upper_length_5: FLOUR
+size_no_space_upper_length_6: FLOUR
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOUR
+size_upper_length_1: F
+size_upper_length_2: FL
+size_upper_length_3: FLO
+size_upper_length_4: FLOU
+size_upper_length_5: FLOUR
+size_upper_length_6: FLOUR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_length_1: b
+type_length_2: ba
+type_length_3: bak
+type_length_4: baki
+type_length_5: bakin
+type_length_6: baking
+type_name: Baking
+type_no_space_length_1: b
+type_no_space_length_2: ba
+type_no_space_length_3: bak
+type_no_space_length_4: baki
+type_no_space_length_5: bakin
+type_no_space_length_6: baking
+type_no_space_upper_length_1: B
+type_no_space_upper_length_2: BA
+type_no_space_upper_length_3: BAK
+type_no_space_upper_length_4: BAKI
+type_no_space_upper_length_5: BAKIN
+type_no_space_upper_length_6: BAKING
+type_upper: BAKING
+type_upper_length_1: B
+type_upper_length_2: BA
+type_upper_length_3: BAK
+type_upper_length_4: BAKI
+type_upper_length_5: BAKIN
+type_upper_length_6: BAKING

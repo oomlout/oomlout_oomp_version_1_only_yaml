@@ -1,0 +1,330 @@
+bip_39_word_dash_12: horror-lucky-impulse-adapt-grit-acoustic-zebra-mystery-pupil-fetch-finish-agree
+bip_39_word_dash_2: horror-lucky
+bip_39_word_dash_3: horror-lucky-impulse
+bip_39_word_new_br_12: horror<br>lucky<br>impulse<br>adapt<br>grit<br>acoustic<br>zebra<br>mystery<br>pupil<br>fetch<br>finish<br>agree
+bip_39_word_new_br_2: horror<br>lucky
+bip_39_word_new_br_3: horror<br>lucky<br>impulse
+bip_39_word_new_line_12: 'horror
+
+  lucky
+
+  impulse
+
+  adapt
+
+  grit
+
+  acoustic
+
+  zebra
+
+  mystery
+
+  pupil
+
+  fetch
+
+  finish
+
+  agree'
+bip_39_word_new_line_2: 'horror
+
+  lucky'
+bip_39_word_new_line_3: 'horror
+
+  lucky
+
+  impulse'
+bip_39_word_no_space_12: horrorluckyimpulseadaptgritacousticzebramysterypupilfetchfinishagree
+bip_39_word_no_space_2: horrorlucky
+bip_39_word_no_space_3: horrorluckyimpulse
+bip_39_word_space_12: horror lucky impulse adapt grit acoustic zebra mystery pupil
+  fetch finish agree
+bip_39_word_space_2: horror lucky
+bip_39_word_space_3: horror lucky impulse
+bip_39_word_underscore_12: horror_lucky_impulse_adapt_grit_acoustic_zebra_mystery_pupil_fetch_finish_agree
+bip_39_word_underscore_2: horror_lucky
+bip_39_word_underscore_3: horror_lucky_impulse
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: 300_watt_20_amp
+color_capital: 300 Watt 20 Amp
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_length_1: '3'
+color_length_2: '30'
+color_length_3: '300'
+color_length_4: '300_'
+color_length_5: 300_w
+color_length_6: 300_wa
+color_name: 300 Watt 20 Amp
+color_no_space_length_1: '3'
+color_no_space_length_2: '30'
+color_no_space_length_3: '300'
+color_no_space_length_4: 300w
+color_no_space_length_5: 300wa
+color_no_space_length_6: 300wat
+color_no_space_upper_length_1: '3'
+color_no_space_upper_length_2: '30'
+color_no_space_upper_length_3: '300'
+color_no_space_upper_length_4: 300W
+color_no_space_upper_length_5: 300WA
+color_no_space_upper_length_6: 300WAT
+color_upper: 300_WATT_20_AMP
+color_upper_length_1: '3'
+color_upper_length_2: '30'
+color_upper_length_3: '300'
+color_upper_length_4: '300_'
+color_upper_length_5: 300_W
+color_upper_length_6: 300_WA
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 52_mm_width_60_mm_length_blue_pcb
+description_main_capital: 52 mm Width 60 mm Length Blue Pcb
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_length_1: '5'
+description_main_length_2: '52'
+description_main_length_3: '52_'
+description_main_length_4: 52_m
+description_main_length_5: 52_mm
+description_main_length_6: 52_mm_
+description_main_name: 52 mm Width 60 mm Length Blue PCB
+description_main_no_space_length_1: '5'
+description_main_no_space_length_2: '52'
+description_main_no_space_length_3: 52m
+description_main_no_space_length_4: 52mm
+description_main_no_space_length_5: 52mmw
+description_main_no_space_length_6: 52mmwi
+description_main_no_space_upper_length_1: '5'
+description_main_no_space_upper_length_2: '52'
+description_main_no_space_upper_length_3: 52M
+description_main_no_space_upper_length_4: 52MM
+description_main_no_space_upper_length_5: 52MMW
+description_main_no_space_upper_length_6: 52MMWI
+description_main_upper: 52_MM_WIDTH_60_MM_LENGTH_BLUE_PCB
+description_main_upper_length_1: '5'
+description_main_upper_length_2: '52'
+description_main_upper_length_3: '52_'
+description_main_upper_length_4: 52_M
+description_main_upper_length_5: 52_MM
+description_main_upper_length_6: 52_MM_
+description_only_numbers: '5260'
+description_only_numbers_short: 5k2
+description_or_color: 35k2
+description_or_color_upper: 35K2
+directory: parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id: electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_class: dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_color: 52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_size: 300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_type: buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2035bth
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2035bth
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2035bth
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2035bth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_length_1: a
+manufacturer_length_2: al
+manufacturer_length_3: ali
+manufacturer_length_4: alie
+manufacturer_length_5: aliex
+manufacturer_length_6: aliexp
+manufacturer_name: Aliexpress
+manufacturer_no_space_length_1: a
+manufacturer_no_space_length_2: al
+manufacturer_no_space_length_3: ali
+manufacturer_no_space_length_4: alie
+manufacturer_no_space_length_5: aliex
+manufacturer_no_space_length_6: aliexp
+manufacturer_no_space_upper_length_1: A
+manufacturer_no_space_upper_length_2: AL
+manufacturer_no_space_upper_length_3: ALI
+manufacturer_no_space_upper_length_4: ALIE
+manufacturer_no_space_upper_length_5: ALIEX
+manufacturer_no_space_upper_length_6: ALIEXP
+manufacturer_upper: ALIEXPRESS
+manufacturer_upper_length_1: A
+manufacturer_upper_length_2: AL
+manufacturer_upper_length_3: ALI
+manufacturer_upper_length_4: ALIE
+manufacturer_upper_length_5: ALIEX
+manufacturer_upper_length_6: ALIEXP
+manufacturers: []
+markdown_full: '[electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress](none)<br>[](none)<br>[Electronic
+  Dc To Dc Converter Buck Style 300 Watt 20 Amp 52 Mm Width 60 Mm Length Blue Pcb
+  Aliexpress](none)<br><br>'
+markdown_short: '[electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress](none)<br><br>'
+md5: 50ae15556f927ff008335030e4612b6d
+md5_10: 50ae15556f
+md5_10_upper: 50AE15556F
+md5_5: 50ae1
+md5_5_upper: 50AE1
+md5_6: 50ae15
+md5_6_alpha: 35bth
+md5_6_alpha_upper: 35BTH
+md5_6_upper: 50AE15
+mounting_hole_length: 53
+mounting_hole_size: m3
+mounting_hole_width: 39
+name: Electronic Dc To Dc Converter Buck Style 300 Watt 20 Amp 52 mm Width 60 mm Length
+  Blue PCB Aliexpress
+name_no_class: Dc To Dc Converter Buck Style 300 Watt 20 Amp 52 mm Width 60 mm Length
+  Blue PCB Aliexpress
+name_no_color: 52 mm Width 60 mm Length Blue PCB Aliexpress
+name_no_size: 300 Watt 20 Amp 52 mm Width 60 mm Length Blue PCB Aliexpress
+name_no_size_short: 300 Watt 20 Amp 52 Mm Width 60 Mm Length Blue Pcb Aliexpress
+name_no_type: Buck Style 300 Watt 20 Amp 52 mm Width 60 mm Length Blue PCB Aliexpress
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: dc_to_dc_converter
+oomlout_detail_hierarchy_2_upper: DC_TO_DC_CONVERTER
+oomlout_detail_hierarchy_2_upper_length_4: DC_T
+oomlout_detail_hierarchy_3: buck_style
+oomlout_detail_hierarchy_3_upper: BUCK_STYLE
+oomlout_detail_hierarchy_3_upper_length_4: BUCK
+oomlout_detail_hierarchy_4: 300_watt_20_amp
+oomlout_detail_hierarchy_4_upper: 300_WATT_20_AMP
+oomlout_detail_hierarchy_4_upper_length_4: '300_'
+oomlout_detail_hierarchy_5: 52_mm_width
+oomlout_detail_hierarchy_5_upper: 52_MM_WIDTH
+oomlout_detail_hierarchy_5_upper_length_4: 52WI
+oomlout_detail_hierarchy_6: 60_mm_length
+oomlout_detail_hierarchy_6_upper: 60_MM_LENGTH
+oomlout_detail_hierarchy_6_upper_length_4: 60LE
+oomlout_detail_hierarchy_7: aliexpress
+oomlout_detail_hierarchy_7_upper: ALIEXPRESS
+oomlout_detail_hierarchy_7_upper_length_4: ALIE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+oomp_word: beetle jeans poop
+oomp_word_emoji: ':beetle: :jeans: :poop:'
+oomp_word_emoji_list:
+- ':beetle:'
+- ':jeans:'
+- ':poop:'
+oomp_word_list:
+- beetle
+- jeans
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: buck_style
+size_capital: Buck Style
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: bu
+size_length_3: buc
+size_length_4: buck
+size_length_5: buck_
+size_length_6: buck_s
+size_name: Buck Style
+size_no_space_length_1: b
+size_no_space_length_2: bu
+size_no_space_length_3: buc
+size_no_space_length_4: buck
+size_no_space_length_5: bucks
+size_no_space_length_6: buckst
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BU
+size_no_space_upper_length_3: BUC
+size_no_space_upper_length_4: BUCK
+size_no_space_upper_length_5: BUCKS
+size_no_space_upper_length_6: BUCKST
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUCK_STYLE
+size_upper_length_1: B
+size_upper_length_2: BU
+size_upper_length_3: BUC
+size_upper_length_4: BUCK
+size_upper_length_5: BUCK_
+size_upper_length_6: BUCK_S
+type: dc_to_dc_converter
+type_capital: Dc To Dc Converter
+type_first_letter: d
+type_first_letter_upper: D
+type_length_1: d
+type_length_2: dc
+type_length_3: dc_
+type_length_4: dc_t
+type_length_5: dc_to
+type_length_6: dc_to_
+type_name: Dc To Dc Converter
+type_no_space_length_1: d
+type_no_space_length_2: dc
+type_no_space_length_3: dct
+type_no_space_length_4: dcto
+type_no_space_length_5: dctod
+type_no_space_length_6: dctodc
+type_no_space_upper_length_1: D
+type_no_space_upper_length_2: DC
+type_no_space_upper_length_3: DCT
+type_no_space_upper_length_4: DCTO
+type_no_space_upper_length_5: DCTOD
+type_no_space_upper_length_6: DCTODC
+type_upper: DC_TO_DC_CONVERTER
+type_upper_length_1: D
+type_upper_length_2: DC
+type_upper_length_3: DC_
+type_upper_length_4: DC_T
+type_upper_length_5: DC_TO
+type_upper_length_6: DC_TO_

@@ -1,0 +1,297 @@
+bip_39_word_dash_12: kangaroo-scatter-chest-return-shiver-anchor-journey-filter-lion-spider-fresh-abstract
+bip_39_word_dash_2: kangaroo-scatter
+bip_39_word_dash_3: kangaroo-scatter-chest
+bip_39_word_new_br_12: kangaroo<br>scatter<br>chest<br>return<br>shiver<br>anchor<br>journey<br>filter<br>lion<br>spider<br>fresh<br>abstract
+bip_39_word_new_br_2: kangaroo<br>scatter
+bip_39_word_new_br_3: kangaroo<br>scatter<br>chest
+bip_39_word_new_line_12: 'kangaroo
+
+  scatter
+
+  chest
+
+  return
+
+  shiver
+
+  anchor
+
+  journey
+
+  filter
+
+  lion
+
+  spider
+
+  fresh
+
+  abstract'
+bip_39_word_new_line_2: 'kangaroo
+
+  scatter'
+bip_39_word_new_line_3: 'kangaroo
+
+  scatter
+
+  chest'
+bip_39_word_no_space_12: kangarooscatterchestreturnshiveranchorjourneyfilterlionspiderfreshabstract
+bip_39_word_no_space_2: kangarooscatter
+bip_39_word_no_space_3: kangarooscatterchest
+bip_39_word_space_12: kangaroo scatter chest return shiver anchor journey filter lion
+  spider fresh abstract
+bip_39_word_space_2: kangaroo scatter
+bip_39_word_space_3: kangaroo scatter chest
+bip_39_word_underscore_12: kangaroo_scatter_chest_return_shiver_anchor_journey_filter_lion_spider_fresh_abstract
+bip_39_word_underscore_2: kangaroo_scatter
+bip_39_word_underscore_3: kangaroo_scatter_chest
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: flange
+color_capital: Flange
+color_first_letter: f
+color_first_letter_upper: F
+color_length_1: f
+color_length_2: fl
+color_length_3: fla
+color_length_4: flan
+color_length_5: flang
+color_length_6: flange
+color_name: Flange
+color_no_space_length_1: f
+color_no_space_length_2: fl
+color_no_space_length_3: fla
+color_no_space_length_4: flan
+color_no_space_length_5: flang
+color_no_space_length_6: flange
+color_no_space_upper_length_1: F
+color_no_space_upper_length_2: FL
+color_no_space_upper_length_3: FLA
+color_no_space_upper_length_4: FLAN
+color_no_space_upper_length_5: FLANG
+color_no_space_upper_length_6: FLANGE
+color_upper: FLANGE
+color_upper_length_1: F
+color_upper_length_2: FL
+color_upper_length_3: FLA
+color_upper_length_4: FLAN
+color_upper_length_5: FLANG
+color_upper_length_6: FLANGE
+description: category_mechanical
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: to_
+description_extra_length_4: to_s
+description_extra_length_5: to_so
+description_extra_length_6: to_sor
+description_extra_name: To Sort
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tos
+description_extra_no_space_length_4: toso
+description_extra_no_space_length_5: tosor
+description_extra_no_space_length_6: tosort
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOS
+description_extra_no_space_upper_length_4: TOSO
+description_extra_no_space_upper_length_5: TOSOR
+description_extra_no_space_upper_length_6: TOSORT
+description_extra_upper: TO_SORT
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TO_
+description_extra_upper_length_4: TO_S
+description_extra_upper_length_5: TO_SO
+description_extra_upper_length_6: TO_SOR
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_mechanical_coupler_flange_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_mechanical_coupler_flange_to_sort
+id: category_mechanical_coupler_flange_to_sort
+id_no_class: mechanical_coupler_flange_to_sort
+id_no_color: to_sort
+id_no_size: flange_to_sort
+id_no_type: coupler_flange_to_sort
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20koms
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20koms
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20koms
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20koms
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_coupler_flange_to_sort](none)<br>[](none)<br>[Category
+  Mechanical Coupler Flange To Sort](none)<br><br>'
+markdown_short: '[category_mechanical_coupler_flange_to_sort](none)<br><br>'
+md5: 0eb9b46c11566f0c21e31b824f301bcc
+md5_10: 0eb9b46c11
+md5_10_upper: 0EB9B46C11
+md5_5: 0eb9b
+md5_5_upper: 0EB9B
+md5_6: 0eb9b4
+md5_6_alpha: koms
+md5_6_alpha_upper: KOMS
+md5_6_upper: 0EB9B4
+name: Category Mechanical Coupler Flange To Sort
+name_no_class: Mechanical Coupler Flange To Sort
+name_no_color: To Sort
+name_no_size: Flange To Sort
+name_no_size_short: Flange To Sort
+name_no_type: Coupler Flange To Sort
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: mechanical
+oomlout_detail_hierarchy_2_upper: MECHANICAL
+oomlout_detail_hierarchy_2_upper_length_4: MECH
+oomlout_detail_hierarchy_3: coupler
+oomlout_detail_hierarchy_3_upper: COUPLER
+oomlout_detail_hierarchy_3_upper_length_4: COUP
+oomlout_detail_hierarchy_4: flange
+oomlout_detail_hierarchy_4_upper: FLANGE
+oomlout_detail_hierarchy_4_upper_length_4: FLAN
+oomlout_detail_hierarchy_5: to_sort
+oomlout_detail_hierarchy_5_upper: TO_SORT
+oomlout_detail_hierarchy_5_upper_length_4: TO_S
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_mechanical_coupler_flange_to_sort
+oomp_word: cupid fries coffee
+oomp_word_emoji: ':cupid: :fries: :coffee:'
+oomp_word_emoji_list:
+- ':cupid:'
+- ':fries:'
+- ':coffee:'
+oomp_word_list:
+- cupid
+- fries
+- coffee
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: coupler
+size_capital: Coupler
+size_first_letter: c
+size_first_letter_upper: C
+size_length_1: c
+size_length_2: co
+size_length_3: cou
+size_length_4: coup
+size_length_5: coupl
+size_length_6: couple
+size_name: Coupler
+size_no_space_length_1: c
+size_no_space_length_2: co
+size_no_space_length_3: cou
+size_no_space_length_4: coup
+size_no_space_length_5: coupl
+size_no_space_length_6: couple
+size_no_space_upper_length_1: C
+size_no_space_upper_length_2: CO
+size_no_space_upper_length_3: COU
+size_no_space_upper_length_4: COUP
+size_no_space_upper_length_5: COUPL
+size_no_space_upper_length_6: COUPLE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COUPLER
+size_upper_length_1: C
+size_upper_length_2: CO
+size_upper_length_3: COU
+size_upper_length_4: COUP
+size_upper_length_5: COUPL
+size_upper_length_6: COUPLE
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: me
+type_length_3: mec
+type_length_4: mech
+type_length_5: mecha
+type_length_6: mechan
+type_name: Mechanical
+type_no_space_length_1: m
+type_no_space_length_2: me
+type_no_space_length_3: mec
+type_no_space_length_4: mech
+type_no_space_length_5: mecha
+type_no_space_length_6: mechan
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: ME
+type_no_space_upper_length_3: MEC
+type_no_space_upper_length_4: MECH
+type_no_space_upper_length_5: MECHA
+type_no_space_upper_length_6: MECHAN
+type_upper: MECHANICAL
+type_upper_length_1: M
+type_upper_length_2: ME
+type_upper_length_3: MEC
+type_upper_length_4: MECH
+type_upper_length_5: MECHA
+type_upper_length_6: MECHAN
