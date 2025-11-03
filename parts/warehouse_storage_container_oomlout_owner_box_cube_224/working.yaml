@@ -1,0 +1,294 @@
+bip_39_word_dash_12: salon-loan-waste-remember-surface-toss-virus-problem-flat-fade-town-ask
+bip_39_word_dash_2: salon-loan
+bip_39_word_dash_3: salon-loan-waste
+bip_39_word_new_br_12: salon<br>loan<br>waste<br>remember<br>surface<br>toss<br>virus<br>problem<br>flat<br>fade<br>town<br>ask
+bip_39_word_new_br_2: salon<br>loan
+bip_39_word_new_br_3: salon<br>loan<br>waste
+bip_39_word_new_line_12: 'salon
+
+  loan
+
+  waste
+
+  remember
+
+  surface
+
+  toss
+
+  virus
+
+  problem
+
+  flat
+
+  fade
+
+  town
+
+  ask'
+bip_39_word_new_line_2: 'salon
+
+  loan'
+bip_39_word_new_line_3: 'salon
+
+  loan
+
+  waste'
+bip_39_word_no_space_12: salonloanwasteremembersurfacetossvirusproblemflatfadetownask
+bip_39_word_no_space_2: salonloan
+bip_39_word_no_space_3: salonloanwaste
+bip_39_word_space_12: salon loan waste remember surface toss virus problem flat fade
+  town ask
+bip_39_word_space_2: salon loan
+bip_39_word_space_3: salon loan waste
+bip_39_word_underscore_12: salon_loan_waste_remember_surface_toss_virus_problem_flat_fade_town_ask
+bip_39_word_underscore_2: salon_loan
+bip_39_word_underscore_3: salon_loan_waste
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: box_cube
+color_capital: Box Cube
+color_first_letter: b
+color_first_letter_upper: B
+color_length_1: b
+color_length_2: bo
+color_length_3: box
+color_length_4: box_
+color_length_5: box_c
+color_length_6: box_cu
+color_name: Box Cube
+color_no_space_length_1: b
+color_no_space_length_2: bo
+color_no_space_length_3: box
+color_no_space_length_4: boxc
+color_no_space_length_5: boxcu
+color_no_space_length_6: boxcub
+color_no_space_upper_length_1: B
+color_no_space_upper_length_2: BO
+color_no_space_upper_length_3: BOX
+color_no_space_upper_length_4: BOXC
+color_no_space_upper_length_5: BOXCU
+color_no_space_upper_length_6: BOXCUB
+color_upper: BOX_CUBE
+color_upper_length_1: B
+color_upper_length_2: BO
+color_upper_length_3: BOX
+color_upper_length_4: BOX_
+color_upper_length_5: BOX_C
+color_upper_length_6: BOX_CU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '224'
+description_main_capital: '224'
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '22'
+description_main_length_3: '224'
+description_main_length_4: '224'
+description_main_length_5: '224'
+description_main_length_6: '224'
+description_main_name: '224'
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '22'
+description_main_no_space_length_3: '224'
+description_main_no_space_length_4: '224'
+description_main_no_space_length_5: '224'
+description_main_no_space_length_6: '224'
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '22'
+description_main_no_space_upper_length_3: '224'
+description_main_no_space_upper_length_4: '224'
+description_main_no_space_upper_length_5: '224'
+description_main_no_space_upper_length_6: '224'
+description_main_upper: '224'
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '22'
+description_main_upper_length_3: '224'
+description_main_upper_length_4: '224'
+description_main_upper_length_5: '224'
+description_main_upper_length_6: '224'
+description_only_numbers: '224'
+description_only_numbers_short: '224'
+description_or_color: B224
+description_or_color_upper: B224
+directory: parts/warehouse_storage_container_oomlout_owner_box_cube_224
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_224
+id: warehouse_storage_container_oomlout_owner_box_cube_224
+id_no_class: storage_container_oomlout_owner_box_cube_224
+id_no_color: '224'
+id_no_size: box_cube_224
+id_no_type: oomlout_owner_box_cube_224
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_224
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_224
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_224
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_224
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208cbdg
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208cbdg
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208cbdg
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208cbdg
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_224
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cube_224](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Box Cube 224](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cube_224](none)<br><br>'
+md5: d5cc9472c4ab7e9396ed1b5bef60c5f4
+md5_10: d5cc9472c4
+md5_10_upper: D5CC9472C4
+md5_5: d5cc9
+md5_5_upper: D5CC9
+md5_6: d5cc94
+md5_6_alpha: 8cbdg
+md5_6_alpha_upper: 8CBDG
+md5_6_upper: D5CC94
+name: Warehouse Storage Container Oomlout Owner Box Cube 224
+name_no_class: Storage Container Oomlout Owner Box Cube 224
+name_no_color: '224'
+name_no_size: Box Cube 224
+name_no_size_short: Box Cube 224
+name_no_type: Oomlout Owner Box Cube 224
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: box_cube
+oomlout_detail_hierarchy_4_upper: BOX_CUBE
+oomlout_detail_hierarchy_4_upper_length_4: BOX_
+oomlout_detail_hierarchy_5: '224'
+oomlout_detail_hierarchy_5_upper: '224'
+oomlout_detail_hierarchy_5_upper_length_4: '224'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cube_224
+oomp_word: house watermelon microscope
+oomp_word_emoji: ':house: :watermelon: :microscope:'
+oomp_word_emoji_list:
+- ':house:'
+- ':watermelon:'
+- ':microscope:'
+oomp_word_list:
+- house
+- watermelon
+- microscope
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG

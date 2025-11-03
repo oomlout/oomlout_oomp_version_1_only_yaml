@@ -1,0 +1,294 @@
+bip_39_word_dash_12: tissue-wild-series-hedgehog-vehicle-cigar-echo-regret-gossip-fetch-home-artefact
+bip_39_word_dash_2: tissue-wild
+bip_39_word_dash_3: tissue-wild-series
+bip_39_word_new_br_12: tissue<br>wild<br>series<br>hedgehog<br>vehicle<br>cigar<br>echo<br>regret<br>gossip<br>fetch<br>home<br>artefact
+bip_39_word_new_br_2: tissue<br>wild
+bip_39_word_new_br_3: tissue<br>wild<br>series
+bip_39_word_new_line_12: 'tissue
+
+  wild
+
+  series
+
+  hedgehog
+
+  vehicle
+
+  cigar
+
+  echo
+
+  regret
+
+  gossip
+
+  fetch
+
+  home
+
+  artefact'
+bip_39_word_new_line_2: 'tissue
+
+  wild'
+bip_39_word_new_line_3: 'tissue
+
+  wild
+
+  series'
+bip_39_word_no_space_12: tissuewildserieshedgehogvehiclecigarechoregretgossipfetchhomeartefact
+bip_39_word_no_space_2: tissuewild
+bip_39_word_no_space_3: tissuewildseries
+bip_39_word_space_12: tissue wild series hedgehog vehicle cigar echo regret gossip
+  fetch home artefact
+bip_39_word_space_2: tissue wild
+bip_39_word_space_3: tissue wild series
+bip_39_word_underscore_12: tissue_wild_series_hedgehog_vehicle_cigar_echo_regret_gossip_fetch_home_artefact
+bip_39_word_underscore_2: tissue_wild
+bip_39_word_underscore_3: tissue_wild_series
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_length_1: w
+classification_length_2: wa
+classification_length_3: war
+classification_length_4: ware
+classification_length_5: wareh
+classification_length_6: wareho
+classification_name: Warehouse
+classification_no_space_length_1: w
+classification_no_space_length_2: wa
+classification_no_space_length_3: war
+classification_no_space_length_4: ware
+classification_no_space_length_5: wareh
+classification_no_space_length_6: wareho
+classification_no_space_upper_length_1: W
+classification_no_space_upper_length_2: WA
+classification_no_space_upper_length_3: WAR
+classification_no_space_upper_length_4: WARE
+classification_no_space_upper_length_5: WAREH
+classification_no_space_upper_length_6: WAREHO
+classification_upper: WAREHOUSE
+classification_upper_length_1: W
+classification_upper_length_2: WA
+classification_upper_length_3: WAR
+classification_upper_length_4: WARE
+classification_upper_length_5: WAREH
+classification_upper_length_6: WAREHO
+color: tote_burgundy
+color_capital: Tote Burgundy
+color_first_letter: t
+color_first_letter_upper: T
+color_length_1: t
+color_length_2: to
+color_length_3: tot
+color_length_4: tote
+color_length_5: tote_
+color_length_6: tote_b
+color_name: Tote Burgundy
+color_no_space_length_1: t
+color_no_space_length_2: to
+color_no_space_length_3: tot
+color_no_space_length_4: tote
+color_no_space_length_5: toteb
+color_no_space_length_6: totebu
+color_no_space_upper_length_1: T
+color_no_space_upper_length_2: TO
+color_no_space_upper_length_3: TOT
+color_no_space_upper_length_4: TOTE
+color_no_space_upper_length_5: TOTEB
+color_no_space_upper_length_6: TOTEBU
+color_upper: TOTE_BURGUNDY
+color_upper_length_1: T
+color_upper_length_2: TO
+color_upper_length_3: TOT
+color_upper_length_4: TOTE
+color_upper_length_5: TOTE_
+color_upper_length_6: TOTE_B
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: '310'
+description_main_capital: '310'
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_length_1: '3'
+description_main_length_2: '31'
+description_main_length_3: '310'
+description_main_length_4: '310'
+description_main_length_5: '310'
+description_main_length_6: '310'
+description_main_name: '310'
+description_main_no_space_length_1: '3'
+description_main_no_space_length_2: '31'
+description_main_no_space_length_3: '310'
+description_main_no_space_length_4: '310'
+description_main_no_space_length_5: '310'
+description_main_no_space_length_6: '310'
+description_main_no_space_upper_length_1: '3'
+description_main_no_space_upper_length_2: '31'
+description_main_no_space_upper_length_3: '310'
+description_main_no_space_upper_length_4: '310'
+description_main_no_space_upper_length_5: '310'
+description_main_no_space_upper_length_6: '310'
+description_main_upper: '310'
+description_main_upper_length_1: '3'
+description_main_upper_length_2: '31'
+description_main_upper_length_3: '310'
+description_main_upper_length_4: '310'
+description_main_upper_length_5: '310'
+description_main_upper_length_6: '310'
+description_only_numbers: '310'
+description_only_numbers_short: '310'
+description_or_color: T310
+description_or_color_upper: T310
+directory: parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+id: warehouse_storage_container_oomlout_owner_tote_burgundy_310
+id_no_class: storage_container_oomlout_owner_tote_burgundy_310
+id_no_color: '310'
+id_no_size: tote_burgundy_310
+id_no_type: oomlout_owner_tote_burgundy_310
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2082k2d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2082k2d
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2082k2d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2082k2d
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_310
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_burgundy_310](none)<br>[](none)<br>[Warehouse
+  Storage Container Oomlout Owner Tote Burgundy 310](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_burgundy_310](none)<br><br>'
+md5: ceda155327b4a8bca3f8f6a9883ec716
+md5_10: ceda155327
+md5_10_upper: CEDA155327
+md5_5: ceda1
+md5_5_upper: CEDA1
+md5_6: ceda15
+md5_6_alpha: 82k2d
+md5_6_alpha_upper: 82K2D
+md5_6_upper: CEDA15
+name: Warehouse Storage Container Oomlout Owner Tote Burgundy 310
+name_no_class: Storage Container Oomlout Owner Tote Burgundy 310
+name_no_color: '310'
+name_no_size: Tote Burgundy 310
+name_no_size_short: Tote Burgundy 310
+name_no_type: Oomlout Owner Tote Burgundy 310
+oomlout_detail_hierarchy_1: warehouse
+oomlout_detail_hierarchy_1_upper: WAREHOUSE
+oomlout_detail_hierarchy_1_upper_length_4: WARE
+oomlout_detail_hierarchy_2: storage_container
+oomlout_detail_hierarchy_2_upper: STORAGE_CONTAINER
+oomlout_detail_hierarchy_2_upper_length_4: STOR
+oomlout_detail_hierarchy_3: owner
+oomlout_detail_hierarchy_3_upper: OWNER
+oomlout_detail_hierarchy_3_upper_length_4: OWNE
+oomlout_detail_hierarchy_4: tote_burgundy
+oomlout_detail_hierarchy_4_upper: TOTE_BURGUNDY
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_detail_hierarchy_5: '310'
+oomlout_detail_hierarchy_5_upper: '310'
+oomlout_detail_hierarchy_5_upper_length_4: '310'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_burgundy_310
+oomp_word: peach hotel poop
+oomp_word_emoji: ':peach: :hotel: :poop:'
+oomp_word_emoji_list:
+- ':peach:'
+- ':hotel:'
+- ':poop:'
+oomp_word_list:
+- peach
+- hotel
+- poop
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_length_1: o
+size_length_2: oo
+size_length_3: oom
+size_length_4: ooml
+size_length_5: oomlo
+size_length_6: oomlou
+size_name: Oomlout Owner
+size_no_space_length_1: o
+size_no_space_length_2: oo
+size_no_space_length_3: oom
+size_no_space_length_4: ooml
+size_no_space_length_5: oomlo
+size_no_space_length_6: oomlou
+size_no_space_upper_length_1: O
+size_no_space_upper_length_2: OO
+size_no_space_upper_length_3: OOM
+size_no_space_upper_length_4: OOML
+size_no_space_upper_length_5: OOMLO
+size_no_space_upper_length_6: OOMLOU
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+size_upper_length_1: O
+size_upper_length_2: OO
+size_upper_length_3: OOM
+size_upper_length_4: OOML
+size_upper_length_5: OOMLO
+size_upper_length_6: OOMLOU
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: sto
+type_length_4: stor
+type_length_5: stora
+type_length_6: storag
+type_name: Storage Container
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: sto
+type_no_space_length_4: stor
+type_no_space_length_5: stora
+type_no_space_length_6: storag
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STO
+type_no_space_upper_length_4: STOR
+type_no_space_upper_length_5: STORA
+type_no_space_upper_length_6: STORAG
+type_upper: STORAGE_CONTAINER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STO
+type_upper_length_4: STOR
+type_upper_length_5: STORA
+type_upper_length_6: STORAG
