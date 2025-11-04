@@ -1,0 +1,212 @@
+bip_39_word_dash_12: sing-hair-cave-brave-glad-follow-emerge-balance-impact-steel-cloud-alien
+bip_39_word_dash_2: sing-hair
+bip_39_word_dash_3: sing-hair-cave
+bip_39_word_new_br_12: sing<br>hair<br>cave<br>brave<br>glad<br>follow<br>emerge<br>balance<br>impact<br>steel<br>cloud<br>alien
+bip_39_word_new_br_2: sing<br>hair
+bip_39_word_new_br_3: sing<br>hair<br>cave
+bip_39_word_new_line_12: 'sing
+
+  hair
+
+  cave
+
+  brave
+
+  glad
+
+  follow
+
+  emerge
+
+  balance
+
+  impact
+
+  steel
+
+  cloud
+
+  alien'
+bip_39_word_new_line_2: 'sing
+
+  hair'
+bip_39_word_new_line_3: 'sing
+
+  hair
+
+  cave'
+bip_39_word_no_space_12: singhaircavebravegladfollowemergebalanceimpactsteelcloudalien
+bip_39_word_no_space_2: singhair
+bip_39_word_no_space_3: singhaircave
+bip_39_word_space_12: sing hair cave brave glad follow emerge balance impact steel
+  cloud alien
+bip_39_word_space_2: sing hair
+bip_39_word_space_3: sing hair cave
+bip_39_word_underscore_12: sing_hair_cave_brave_glad_follow_emerge_balance_impact_steel_cloud_alien
+bip_39_word_underscore_2: sing_hair
+bip_39_word_underscore_3: sing_hair_cave
+classification: card_game
+classification_capital: Card Game
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: car
+classification_length_4: card
+classification_length_5: card_
+classification_length_6: card_g
+classification_name: Card Game
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: car
+classification_no_space_length_4: card
+classification_no_space_length_5: cardg
+classification_no_space_length_6: cardga
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAR
+classification_no_space_upper_length_4: CARD
+classification_no_space_upper_length_5: CARDG
+classification_no_space_upper_length_6: CARDGA
+classification_upper: CARD_GAME
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAR
+classification_upper_length_4: CARD
+classification_upper_length_5: CARD_
+classification_upper_length_6: CARD_G
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_game_pokemon
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/card_game_pokemon
+id: card_game_pokemon
+id_no_class: pokemon
+id_no_color: pokemon
+id_no_size: pokemon
+id_no_type: pokemon
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203wy5x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203wy5x
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203wy5x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203wy5x
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_game_pokemon](none)<br>[](none)<br>[Card Game Pokemon](none)<br><br>'
+markdown_short: '[card_game_pokemon](none)<br><br>'
+md5: 6457f54b8e11a9156ab141b4499a164a
+md5_10: 6457f54b8e
+md5_10_upper: 6457F54B8E
+md5_5: 6457f
+md5_5_upper: 6457F
+md5_6: 6457f5
+md5_6_alpha: 3wy5x
+md5_6_alpha_upper: 3WY5X
+md5_6_upper: 6457F5
+name: Card Game Pokemon
+name_no_class: Pokemon
+name_no_color: Pokemon
+name_no_size: Pokemon
+name_no_size_short: Pokemon
+name_no_type: Pokemon
+oomlout_detail_hierarchy_1: card_game
+oomlout_detail_hierarchy_1_upper: CARD_GAME
+oomlout_detail_hierarchy_1_upper_length_4: CARD
+oomlout_detail_hierarchy_2: pokemon
+oomlout_detail_hierarchy_2_upper: POKEMON
+oomlout_detail_hierarchy_2_upper_length_4: POKE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_card_game_pokemon
+oomp_word: sunflower rat four
+oomp_word_emoji: ':sunflower: :rat: :four:'
+oomp_word_emoji_list:
+- ':sunflower:'
+- ':rat:'
+- ':four:'
+oomp_word_list:
+- sunflower
+- rat
+- four
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pokemon
+type_capital: Pokemon
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: po
+type_length_3: pok
+type_length_4: poke
+type_length_5: pokem
+type_length_6: pokemo
+type_name: Pokemon
+type_no_space_length_1: p
+type_no_space_length_2: po
+type_no_space_length_3: pok
+type_no_space_length_4: poke
+type_no_space_length_5: pokem
+type_no_space_length_6: pokemo
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PO
+type_no_space_upper_length_3: POK
+type_no_space_upper_length_4: POKE
+type_no_space_upper_length_5: POKEM
+type_no_space_upper_length_6: POKEMO
+type_upper: POKEMON
+type_upper_length_1: P
+type_upper_length_2: PO
+type_upper_length_3: POK
+type_upper_length_4: POKE
+type_upper_length_5: POKEM
+type_upper_length_6: POKEMO

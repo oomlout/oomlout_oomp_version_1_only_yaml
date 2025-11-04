@@ -1,0 +1,240 @@
+bip_39_word_dash_12: hope-basket-ill-track-suit-salute-trumpet-topple-tell-naive-notice-action
+bip_39_word_dash_2: hope-basket
+bip_39_word_dash_3: hope-basket-ill
+bip_39_word_new_br_12: hope<br>basket<br>ill<br>track<br>suit<br>salute<br>trumpet<br>topple<br>tell<br>naive<br>notice<br>action
+bip_39_word_new_br_2: hope<br>basket
+bip_39_word_new_br_3: hope<br>basket<br>ill
+bip_39_word_new_line_12: 'hope
+
+  basket
+
+  ill
+
+  track
+
+  suit
+
+  salute
+
+  trumpet
+
+  topple
+
+  tell
+
+  naive
+
+  notice
+
+  action'
+bip_39_word_new_line_2: 'hope
+
+  basket'
+bip_39_word_new_line_3: 'hope
+
+  basket
+
+  ill'
+bip_39_word_no_space_12: hopebasketilltracksuitsalutetrumpettoppletellnaivenoticeaction
+bip_39_word_no_space_2: hopebasket
+bip_39_word_no_space_3: hopebasketill
+bip_39_word_space_12: hope basket ill track suit salute trumpet topple tell naive
+  notice action
+bip_39_word_space_2: hope basket
+bip_39_word_space_3: hope basket ill
+bip_39_word_underscore_12: hope_basket_ill_track_suit_salute_trumpet_topple_tell_naive_notice_action
+bip_39_word_underscore_2: hope_basket
+bip_39_word_underscore_3: hope_basket_ill
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ziptie_extra_large
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ziptie_extra_large
+id: hardware_ziptie_extra_large
+id_no_class: ziptie_extra_large
+id_no_color: extralarge
+id_no_size: extra_large
+id_no_type: extra_large
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_extra_large
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_extra_large
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_extra_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_extra_large
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201luck
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201luck
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201luck
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201luck
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_extra_large
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ziptie_extra_large](none)<br>[](none)<br>[Hardware Ziptie
+  Extra Large](none)<br><br>'
+markdown_short: '[hardware_ziptie_extra_large](none)<br><br>'
+md5: 292de4aef6e53d32fb6c8e68e1c4cb6b
+md5_10: 292de4aef6
+md5_10_upper: 292DE4AEF6
+md5_5: 292de
+md5_5_upper: 292DE
+md5_6: 292de4
+md5_6_alpha: 1luck
+md5_6_alpha_upper: 1LUCK
+md5_6_upper: 292DE4
+name: Hardware Ziptie Extra Large
+name_no_class: Ziptie Extra Large
+name_no_color: Extralarge
+name_no_size: Extra Large
+name_no_size_short: Extra Large
+name_no_type: Extra Large
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: ziptie
+oomlout_detail_hierarchy_2_upper: ZIPTIE
+oomlout_detail_hierarchy_2_upper_length_4: ZIPT
+oomlout_detail_hierarchy_3: extra_large
+oomlout_detail_hierarchy_3_upper: EXTRA_LARGE
+oomlout_detail_hierarchy_3_upper_length_4: EXTR
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_ziptie_extra_large
+oomp_word: sunny snowman anchor
+oomp_word_emoji: ':sunny: :snowman: :anchor:'
+oomp_word_emoji_list:
+- ':sunny:'
+- ':snowman:'
+- ':anchor:'
+oomp_word_list:
+- sunny
+- snowman
+- anchor
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: extra_large
+size_capital: Extra Large
+size_first_letter: e
+size_first_letter_upper: E
+size_length_1: e
+size_length_2: ex
+size_length_3: ext
+size_length_4: extr
+size_length_5: extra
+size_length_6: extra_
+size_name: Extra Large
+size_no_space_length_1: e
+size_no_space_length_2: ex
+size_no_space_length_3: ext
+size_no_space_length_4: extr
+size_no_space_length_5: extra
+size_no_space_length_6: extral
+size_no_space_upper_length_1: E
+size_no_space_upper_length_2: EX
+size_no_space_upper_length_3: EXT
+size_no_space_upper_length_4: EXTR
+size_no_space_upper_length_5: EXTRA
+size_no_space_upper_length_6: EXTRAL
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: EXTRA_LARGE
+size_upper_length_1: E
+size_upper_length_2: EX
+size_upper_length_3: EXT
+size_upper_length_4: EXTR
+size_upper_length_5: EXTRA
+size_upper_length_6: EXTRA_
+type: ziptie
+type_capital: Ziptie
+type_first_letter: z
+type_first_letter_upper: Z
+type_length_1: z
+type_length_2: zi
+type_length_3: zip
+type_length_4: zipt
+type_length_5: zipti
+type_length_6: ziptie
+type_name: Ziptie
+type_no_space_length_1: z
+type_no_space_length_2: zi
+type_no_space_length_3: zip
+type_no_space_length_4: zipt
+type_no_space_length_5: zipti
+type_no_space_length_6: ziptie
+type_no_space_upper_length_1: Z
+type_no_space_upper_length_2: ZI
+type_no_space_upper_length_3: ZIP
+type_no_space_upper_length_4: ZIPT
+type_no_space_upper_length_5: ZIPTI
+type_no_space_upper_length_6: ZIPTIE
+type_upper: ZIPTIE
+type_upper_length_1: Z
+type_upper_length_2: ZI
+type_upper_length_3: ZIP
+type_upper_length_4: ZIPT
+type_upper_length_5: ZIPTI
+type_upper_length_6: ZIPTIE

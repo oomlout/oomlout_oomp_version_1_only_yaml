@@ -1,0 +1,239 @@
+bip_39_word_dash_12: time-divert-biology-cattle-stick-tail-inhale-tank-furnace-addict-blanket-apple
+bip_39_word_dash_2: time-divert
+bip_39_word_dash_3: time-divert-biology
+bip_39_word_new_br_12: time<br>divert<br>biology<br>cattle<br>stick<br>tail<br>inhale<br>tank<br>furnace<br>addict<br>blanket<br>apple
+bip_39_word_new_br_2: time<br>divert
+bip_39_word_new_br_3: time<br>divert<br>biology
+bip_39_word_new_line_12: 'time
+
+  divert
+
+  biology
+
+  cattle
+
+  stick
+
+  tail
+
+  inhale
+
+  tank
+
+  furnace
+
+  addict
+
+  blanket
+
+  apple'
+bip_39_word_new_line_2: 'time
+
+  divert'
+bip_39_word_new_line_3: 'time
+
+  divert
+
+  biology'
+bip_39_word_no_space_12: timedivertbiologycattlesticktailinhaletankfurnaceaddictblanketapple
+bip_39_word_no_space_2: timedivert
+bip_39_word_no_space_3: timedivertbiology
+bip_39_word_space_12: time divert biology cattle stick tail inhale tank furnace addict
+  blanket apple
+bip_39_word_space_2: time divert
+bip_39_word_space_3: time divert biology
+bip_39_word_underscore_12: time_divert_biology_cattle_stick_tail_inhale_tank_furnace_addict_blanket_apple
+bip_39_word_underscore_2: time_divert
+bip_39_word_underscore_3: time_divert_biology
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ziptie_tiny
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ziptie_tiny
+id: hardware_ziptie_tiny
+id_no_class: ziptie_tiny
+id_no_color: tiny
+id_no_size: tiny
+id_no_type: tiny
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_tiny
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_tiny
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_tiny
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_tiny
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206n1q8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206n1q8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206n1q8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206n1q8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_tiny
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ziptie_tiny](none)<br>[](none)<br>[Hardware Ziptie Tiny](none)<br><br>'
+markdown_short: '[hardware_ziptie_tiny](none)<br><br>'
+md5: aa2e80d2f2ddae77756ad2442ccff712
+md5_10: aa2e80d2f2
+md5_10_upper: AA2E80D2F2
+md5_5: aa2e8
+md5_5_upper: AA2E8
+md5_6: aa2e80
+md5_6_alpha: 6n1q8
+md5_6_alpha_upper: 6N1Q8
+md5_6_upper: AA2E80
+name: Hardware Ziptie Tiny
+name_no_class: Ziptie Tiny
+name_no_color: Tiny
+name_no_size: Tiny
+name_no_size_short: Tiny
+name_no_type: Tiny
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: ziptie
+oomlout_detail_hierarchy_2_upper: ZIPTIE
+oomlout_detail_hierarchy_2_upper_length_4: ZIPT
+oomlout_detail_hierarchy_3: tiny
+oomlout_detail_hierarchy_3_upper: TINY
+oomlout_detail_hierarchy_3_upper_length_4: TINY
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_ziptie_tiny
+oomp_word: lipstick zap hourglass
+oomp_word_emoji: ':lipstick: :zap: :hourglass:'
+oomp_word_emoji_list:
+- ':lipstick:'
+- ':zap:'
+- ':hourglass:'
+oomp_word_list:
+- lipstick
+- zap
+- hourglass
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: tiny
+size_capital: Tiny
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: ti
+size_length_3: tin
+size_length_4: tiny
+size_length_5: tiny
+size_length_6: tiny
+size_name: Tiny
+size_no_space_length_1: t
+size_no_space_length_2: ti
+size_no_space_length_3: tin
+size_no_space_length_4: tiny
+size_no_space_length_5: tiny
+size_no_space_length_6: tiny
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TI
+size_no_space_upper_length_3: TIN
+size_no_space_upper_length_4: TINY
+size_no_space_upper_length_5: TINY
+size_no_space_upper_length_6: TINY
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TINY
+size_upper_length_1: T
+size_upper_length_2: TI
+size_upper_length_3: TIN
+size_upper_length_4: TINY
+size_upper_length_5: TINY
+size_upper_length_6: TINY
+type: ziptie
+type_capital: Ziptie
+type_first_letter: z
+type_first_letter_upper: Z
+type_length_1: z
+type_length_2: zi
+type_length_3: zip
+type_length_4: zipt
+type_length_5: zipti
+type_length_6: ziptie
+type_name: Ziptie
+type_no_space_length_1: z
+type_no_space_length_2: zi
+type_no_space_length_3: zip
+type_no_space_length_4: zipt
+type_no_space_length_5: zipti
+type_no_space_length_6: ziptie
+type_no_space_upper_length_1: Z
+type_no_space_upper_length_2: ZI
+type_no_space_upper_length_3: ZIP
+type_no_space_upper_length_4: ZIPT
+type_no_space_upper_length_5: ZIPTI
+type_no_space_upper_length_6: ZIPTIE
+type_upper: ZIPTIE
+type_upper_length_1: Z
+type_upper_length_2: ZI
+type_upper_length_3: ZIP
+type_upper_length_4: ZIPT
+type_upper_length_5: ZIPTI
+type_upper_length_6: ZIPTIE

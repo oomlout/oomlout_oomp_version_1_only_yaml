@@ -1,0 +1,213 @@
+bip_39_word_dash_12: sand-height-rapid-window-wrap-illegal-rural-point-latin-jeans-draft-acoustic
+bip_39_word_dash_2: sand-height
+bip_39_word_dash_3: sand-height-rapid
+bip_39_word_new_br_12: sand<br>height<br>rapid<br>window<br>wrap<br>illegal<br>rural<br>point<br>latin<br>jeans<br>draft<br>acoustic
+bip_39_word_new_br_2: sand<br>height
+bip_39_word_new_br_3: sand<br>height<br>rapid
+bip_39_word_new_line_12: 'sand
+
+  height
+
+  rapid
+
+  window
+
+  wrap
+
+  illegal
+
+  rural
+
+  point
+
+  latin
+
+  jeans
+
+  draft
+
+  acoustic'
+bip_39_word_new_line_2: 'sand
+
+  height'
+bip_39_word_new_line_3: 'sand
+
+  height
+
+  rapid'
+bip_39_word_no_space_12: sandheightrapidwindowwrapillegalruralpointlatinjeansdraftacoustic
+bip_39_word_no_space_2: sandheight
+bip_39_word_no_space_3: sandheightrapid
+bip_39_word_space_12: sand height rapid window wrap illegal rural point latin jeans
+  draft acoustic
+bip_39_word_space_2: sand height
+bip_39_word_space_3: sand height rapid
+bip_39_word_underscore_12: sand_height_rapid_window_wrap_illegal_rural_point_latin_jeans_draft_acoustic
+bip_39_word_underscore_2: sand_height
+bip_39_word_underscore_3: sand_height_rapid
+classification: card_game
+classification_capital: Card Game
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: car
+classification_length_4: card
+classification_length_5: card_
+classification_length_6: card_g
+classification_name: Card Game
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: car
+classification_no_space_length_4: card
+classification_no_space_length_5: cardg
+classification_no_space_length_6: cardga
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAR
+classification_no_space_upper_length_4: CARD
+classification_no_space_upper_length_5: CARDG
+classification_no_space_upper_length_6: CARDGA
+classification_upper: CARD_GAME
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAR
+classification_upper_length_4: CARD
+classification_upper_length_5: CARD_
+classification_upper_length_6: CARD_G
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_game_magic_the_gathering
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/card_game_magic_the_gathering
+id: card_game_magic_the_gathering
+id_no_class: magic_the_gathering
+id_no_color: magicthegathering
+id_no_size: magicthegathering
+id_no_type: magic_the_gathering
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2019o7x
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2019o7x
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2019o7x
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2019o7x
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_game_magic_the_gathering](none)<br>[](none)<br>[Card Game Magic
+  The Gathering](none)<br><br>'
+markdown_short: '[card_game_magic_the_gathering](none)<br><br>'
+md5: 2083ddebeba757b1c47f0fb763daadf9
+md5_10: 2083ddebeb
+md5_10_upper: 2083DDEBEB
+md5_5: 2083d
+md5_5_upper: 2083D
+md5_6: 2083dd
+md5_6_alpha: 19o7x
+md5_6_alpha_upper: 19O7X
+md5_6_upper: 2083DD
+name: Card Game Magic The Gathering
+name_no_class: Magic The Gathering
+name_no_color: Magicthegathering
+name_no_size: Magicthegathering
+name_no_size_short: Magicthegathering
+name_no_type: Magic The Gathering
+oomlout_detail_hierarchy_1: card_game
+oomlout_detail_hierarchy_1_upper: CARD_GAME
+oomlout_detail_hierarchy_1_upper_length_4: CARD
+oomlout_detail_hierarchy_2: magic_gathering
+oomlout_detail_hierarchy_2_upper: MAGIC_GATHERING
+oomlout_detail_hierarchy_2_upper_length_4: MAGI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_card_game_magic_the_gathering
+oomp_word: skull lock stars
+oomp_word_emoji: ':skull: :lock: :stars:'
+oomp_word_emoji_list:
+- ':skull:'
+- ':lock:'
+- ':stars:'
+oomp_word_list:
+- skull
+- lock
+- stars
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: magic_the_gathering
+type_capital: Magic The Gathering
+type_first_letter: m
+type_first_letter_upper: M
+type_length_1: m
+type_length_2: ma
+type_length_3: mag
+type_length_4: magi
+type_length_5: magic
+type_length_6: magic_
+type_name: Magic The Gathering
+type_no_space_length_1: m
+type_no_space_length_2: ma
+type_no_space_length_3: mag
+type_no_space_length_4: magi
+type_no_space_length_5: magic
+type_no_space_length_6: magict
+type_no_space_upper_length_1: M
+type_no_space_upper_length_2: MA
+type_no_space_upper_length_3: MAG
+type_no_space_upper_length_4: MAGI
+type_no_space_upper_length_5: MAGIC
+type_no_space_upper_length_6: MAGICT
+type_upper: MAGIC_THE_GATHERING
+type_upper_length_1: M
+type_upper_length_2: MA
+type_upper_length_3: MAG
+type_upper_length_4: MAGI
+type_upper_length_5: MAGIC
+type_upper_length_6: MAGIC_

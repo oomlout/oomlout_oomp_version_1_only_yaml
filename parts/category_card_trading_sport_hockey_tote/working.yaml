@@ -1,0 +1,270 @@
+bip_39_word_dash_12: humble-bachelor-cradle-human-crucial-first-adult-camp-math-rocket-material-adapt
+bip_39_word_dash_2: humble-bachelor
+bip_39_word_dash_3: humble-bachelor-cradle
+bip_39_word_new_br_12: humble<br>bachelor<br>cradle<br>human<br>crucial<br>first<br>adult<br>camp<br>math<br>rocket<br>material<br>adapt
+bip_39_word_new_br_2: humble<br>bachelor
+bip_39_word_new_br_3: humble<br>bachelor<br>cradle
+bip_39_word_new_line_12: 'humble
+
+  bachelor
+
+  cradle
+
+  human
+
+  crucial
+
+  first
+
+  adult
+
+  camp
+
+  math
+
+  rocket
+
+  material
+
+  adapt'
+bip_39_word_new_line_2: 'humble
+
+  bachelor'
+bip_39_word_new_line_3: 'humble
+
+  bachelor
+
+  cradle'
+bip_39_word_no_space_12: humblebachelorcradlehumancrucialfirstadultcampmathrocketmaterialadapt
+bip_39_word_no_space_2: humblebachelor
+bip_39_word_no_space_3: humblebachelorcradle
+bip_39_word_space_12: humble bachelor cradle human crucial first adult camp math rocket
+  material adapt
+bip_39_word_space_2: humble bachelor
+bip_39_word_space_3: humble bachelor cradle
+bip_39_word_underscore_12: humble_bachelor_cradle_human_crucial_first_adult_camp_math_rocket_material_adapt
+bip_39_word_underscore_2: humble_bachelor
+bip_39_word_underscore_3: humble_bachelor_cradle
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_card_trading
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_length_1: t
+description_extra_length_2: to
+description_extra_length_3: tot
+description_extra_length_4: tote
+description_extra_length_5: tote
+description_extra_length_6: tote
+description_extra_name: Tote
+description_extra_no_space_length_1: t
+description_extra_no_space_length_2: to
+description_extra_no_space_length_3: tot
+description_extra_no_space_length_4: tote
+description_extra_no_space_length_5: tote
+description_extra_no_space_length_6: tote
+description_extra_no_space_upper_length_1: T
+description_extra_no_space_upper_length_2: TO
+description_extra_no_space_upper_length_3: TOT
+description_extra_no_space_upper_length_4: TOTE
+description_extra_no_space_upper_length_5: TOTE
+description_extra_no_space_upper_length_6: TOTE
+description_extra_upper: TOTE
+description_extra_upper_length_1: T
+description_extra_upper_length_2: TO
+description_extra_upper_length_3: TOT
+description_extra_upper_length_4: TOTE
+description_extra_upper_length_5: TOTE
+description_extra_upper_length_6: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading_sport_hockey_tote
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_card_trading_sport_hockey_tote
+id: category_card_trading_sport_hockey_tote
+id_no_class: card_trading_sport_hockey_tote
+id_no_color: tote
+id_no_size: tote
+id_no_type: sport_hockey_tote
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_tote
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_tote
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_tote
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201wxda
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201wxda
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201wxda
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201wxda
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading_sport_hockey_tote](none)<br>[](none)<br>[Category
+  Card Trading Sport Hockey Tote](none)<br><br>'
+markdown_short: '[category_card_trading_sport_hockey_tote](none)<br><br>'
+md5: 3111eedc4820c0795d9a36ec63c44b77
+md5_10: 3111eedc48
+md5_10_upper: 3111EEDC48
+md5_5: 3111e
+md5_5_upper: 3111E
+md5_6: 3111ee
+md5_6_alpha: 1wxda
+md5_6_alpha_upper: 1WXDA
+md5_6_upper: 3111EE
+name: Category Card Trading Sport Hockey Tote
+name_no_class: Card Trading Sport Hockey Tote
+name_no_color: Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Sport Hockey Tote
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: card_trading
+oomlout_detail_hierarchy_2_upper: CARD_TRADING
+oomlout_detail_hierarchy_2_upper_length_4: CARD
+oomlout_detail_hierarchy_3: sport_hockey
+oomlout_detail_hierarchy_3_upper: SPORT_HOCKEY
+oomlout_detail_hierarchy_3_upper_length_4: SPOR
+oomlout_detail_hierarchy_4: tote
+oomlout_detail_hierarchy_4_upper: TOTE
+oomlout_detail_hierarchy_4_upper_length_4: TOTE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_card_trading_sport_hockey_tote
+oomp_word: ocean dizzy ambulance
+oomp_word_emoji: ':ocean: :dizzy: :ambulance:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':dizzy:'
+- ':ambulance:'
+oomp_word_list:
+- ocean
+- dizzy
+- ambulance
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: sport_hockey
+size_capital: Sport Hockey
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sp
+size_length_3: spo
+size_length_4: spor
+size_length_5: sport
+size_length_6: sport_
+size_name: Sport Hockey
+size_no_space_length_1: s
+size_no_space_length_2: sp
+size_no_space_length_3: spo
+size_no_space_length_4: spor
+size_no_space_length_5: sport
+size_no_space_length_6: sporth
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SP
+size_no_space_upper_length_3: SPO
+size_no_space_upper_length_4: SPOR
+size_no_space_upper_length_5: SPORT
+size_no_space_upper_length_6: SPORTH
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPORT_HOCKEY
+size_upper_length_1: S
+size_upper_length_2: SP
+size_upper_length_3: SPO
+size_upper_length_4: SPOR
+size_upper_length_5: SPORT
+size_upper_length_6: SPORT_
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: ca
+type_length_3: car
+type_length_4: card
+type_length_5: card_
+type_length_6: card_t
+type_name: Card Trading
+type_no_space_length_1: c
+type_no_space_length_2: ca
+type_no_space_length_3: car
+type_no_space_length_4: card
+type_no_space_length_5: cardt
+type_no_space_length_6: cardtr
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CA
+type_no_space_upper_length_3: CAR
+type_no_space_upper_length_4: CARD
+type_no_space_upper_length_5: CARDT
+type_no_space_upper_length_6: CARDTR
+type_upper: CARD_TRADING
+type_upper_length_1: C
+type_upper_length_2: CA
+type_upper_length_3: CAR
+type_upper_length_4: CARD
+type_upper_length_5: CARD_
+type_upper_length_6: CARD_T

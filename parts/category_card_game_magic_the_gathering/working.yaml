@@ -1,0 +1,243 @@
+bip_39_word_dash_12: attend-loyal-sentence-despair-weekend-chalk-cherry-exhaust-appear-breeze-nice-almost
+bip_39_word_dash_2: attend-loyal
+bip_39_word_dash_3: attend-loyal-sentence
+bip_39_word_new_br_12: attend<br>loyal<br>sentence<br>despair<br>weekend<br>chalk<br>cherry<br>exhaust<br>appear<br>breeze<br>nice<br>almost
+bip_39_word_new_br_2: attend<br>loyal
+bip_39_word_new_br_3: attend<br>loyal<br>sentence
+bip_39_word_new_line_12: 'attend
+
+  loyal
+
+  sentence
+
+  despair
+
+  weekend
+
+  chalk
+
+  cherry
+
+  exhaust
+
+  appear
+
+  breeze
+
+  nice
+
+  almost'
+bip_39_word_new_line_2: 'attend
+
+  loyal'
+bip_39_word_new_line_3: 'attend
+
+  loyal
+
+  sentence'
+bip_39_word_no_space_12: attendloyalsentencedespairweekendchalkcherryexhaustappearbreezenicealmost
+bip_39_word_no_space_2: attendloyal
+bip_39_word_no_space_3: attendloyalsentence
+bip_39_word_space_12: attend loyal sentence despair weekend chalk cherry exhaust appear
+  breeze nice almost
+bip_39_word_space_2: attend loyal
+bip_39_word_space_3: attend loyal sentence
+bip_39_word_underscore_12: attend_loyal_sentence_despair_weekend_chalk_cherry_exhaust_appear_breeze_nice_almost
+bip_39_word_underscore_2: attend_loyal
+bip_39_word_underscore_3: attend_loyal_sentence
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_card_game
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_game_magic_the_gathering
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_card_game_magic_the_gathering
+id: category_card_game_magic_the_gathering
+id_no_class: card_game_magic_the_gathering
+id_no_color: magicthegathering
+id_no_size: magic_the_gathering
+id_no_type: magic_the_gathering
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2049ccm
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2049ccm
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2049ccm
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2049ccm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_game_magic_the_gathering](none)<br>[](none)<br>[Category
+  Card Game Magic The Gathering](none)<br><br>'
+markdown_short: '[category_card_game_magic_the_gathering](none)<br><br>'
+md5: 6d2ac6e0544f64ec97fc83c187e12074
+md5_10: 6d2ac6e054
+md5_10_upper: 6D2AC6E054
+md5_5: 6d2ac
+md5_5_upper: 6D2AC
+md5_6: 6d2ac6
+md5_6_alpha: 49ccm
+md5_6_alpha_upper: 49CCM
+md5_6_upper: 6D2AC6
+name: Category Card Game Magic The Gathering
+name_no_class: Card Game Magic The Gathering
+name_no_color: Magicthegathering
+name_no_size: Magic The Gathering
+name_no_size_short: Magic The Gathering
+name_no_type: Magic The Gathering
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: card_game
+oomlout_detail_hierarchy_2_upper: CARD_GAME
+oomlout_detail_hierarchy_2_upper_length_4: CARD
+oomlout_detail_hierarchy_3: magic_gathering
+oomlout_detail_hierarchy_3_upper: MAGIC_GATHERING
+oomlout_detail_hierarchy_3_upper_length_4: MAGI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_card_game_magic_the_gathering
+oomp_word: shell umbrella lollipop
+oomp_word_emoji: ':shell: :umbrella: :lollipop:'
+oomp_word_emoji_list:
+- ':shell:'
+- ':umbrella:'
+- ':lollipop:'
+oomp_word_list:
+- shell
+- umbrella
+- lollipop
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardgame
+size: magic_the_gathering
+size_capital: Magic The Gathering
+size_first_letter: m
+size_first_letter_upper: M
+size_length_1: m
+size_length_2: ma
+size_length_3: mag
+size_length_4: magi
+size_length_5: magic
+size_length_6: magic_
+size_name: Magic The Gathering
+size_no_space_length_1: m
+size_no_space_length_2: ma
+size_no_space_length_3: mag
+size_no_space_length_4: magi
+size_no_space_length_5: magic
+size_no_space_length_6: magict
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: MA
+size_no_space_upper_length_3: MAG
+size_no_space_upper_length_4: MAGI
+size_no_space_upper_length_5: MAGIC
+size_no_space_upper_length_6: MAGICT
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGIC_THE_GATHERING
+size_upper_length_1: M
+size_upper_length_2: MA
+size_upper_length_3: MAG
+size_upper_length_4: MAGI
+size_upper_length_5: MAGIC
+size_upper_length_6: MAGIC_
+type: card_game
+type_capital: Card Game
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: ca
+type_length_3: car
+type_length_4: card
+type_length_5: card_
+type_length_6: card_g
+type_name: Card Game
+type_no_space_length_1: c
+type_no_space_length_2: ca
+type_no_space_length_3: car
+type_no_space_length_4: card
+type_no_space_length_5: cardg
+type_no_space_length_6: cardga
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CA
+type_no_space_upper_length_3: CAR
+type_no_space_upper_length_4: CARD
+type_no_space_upper_length_5: CARDG
+type_no_space_upper_length_6: CARDGA
+type_upper: CARD_GAME
+type_upper_length_1: C
+type_upper_length_2: CA
+type_upper_length_3: CAR
+type_upper_length_4: CARD
+type_upper_length_5: CARD_
+type_upper_length_6: CARD_G

@@ -1,0 +1,239 @@
+bip_39_word_dash_12: engage-rotate-morning-quarter-live-plunge-erupt-steak-repeat-neck-trial-among
+bip_39_word_dash_2: engage-rotate
+bip_39_word_dash_3: engage-rotate-morning
+bip_39_word_new_br_12: engage<br>rotate<br>morning<br>quarter<br>live<br>plunge<br>erupt<br>steak<br>repeat<br>neck<br>trial<br>among
+bip_39_word_new_br_2: engage<br>rotate
+bip_39_word_new_br_3: engage<br>rotate<br>morning
+bip_39_word_new_line_12: 'engage
+
+  rotate
+
+  morning
+
+  quarter
+
+  live
+
+  plunge
+
+  erupt
+
+  steak
+
+  repeat
+
+  neck
+
+  trial
+
+  among'
+bip_39_word_new_line_2: 'engage
+
+  rotate'
+bip_39_word_new_line_3: 'engage
+
+  rotate
+
+  morning'
+bip_39_word_no_space_12: engagerotatemorningquarterliveplungeeruptsteakrepeatnecktrialamong
+bip_39_word_no_space_2: engagerotate
+bip_39_word_no_space_3: engagerotatemorning
+bip_39_word_space_12: engage rotate morning quarter live plunge erupt steak repeat
+  neck trial among
+bip_39_word_space_2: engage rotate
+bip_39_word_space_3: engage rotate morning
+bip_39_word_underscore_12: engage_rotate_morning_quarter_live_plunge_erupt_steak_repeat_neck_trial_among
+bip_39_word_underscore_2: engage_rotate
+bip_39_word_underscore_3: engage_rotate_morning
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_length_1: h
+classification_length_2: ha
+classification_length_3: har
+classification_length_4: hard
+classification_length_5: hardw
+classification_length_6: hardwa
+classification_name: Hardware
+classification_no_space_length_1: h
+classification_no_space_length_2: ha
+classification_no_space_length_3: har
+classification_no_space_length_4: hard
+classification_no_space_length_5: hardw
+classification_no_space_length_6: hardwa
+classification_no_space_upper_length_1: H
+classification_no_space_upper_length_2: HA
+classification_no_space_upper_length_3: HAR
+classification_no_space_upper_length_4: HARD
+classification_no_space_upper_length_5: HARDW
+classification_no_space_upper_length_6: HARDWA
+classification_upper: HARDWARE
+classification_upper_length_1: H
+classification_upper_length_2: HA
+classification_upper_length_3: HAR
+classification_upper_length_4: HARD
+classification_upper_length_5: HARDW
+classification_upper_length_6: HARDWA
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ziptie_medium
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/hardware_ziptie_medium
+id: hardware_ziptie_medium
+id_no_class: ziptie_medium
+id_no_color: medium
+id_no_size: medium
+id_no_type: medium
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204zjac
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204zjac
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204zjac
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204zjac
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ziptie_medium](none)<br>[](none)<br>[Hardware Ziptie Medium](none)<br><br>'
+markdown_short: '[hardware_ziptie_medium](none)<br><br>'
+md5: 7fd064edb5d5099e9bc15af71fef0a52
+md5_10: 7fd064edb5
+md5_10_upper: 7FD064EDB5
+md5_5: 7fd06
+md5_5_upper: 7FD06
+md5_6: 7fd064
+md5_6_alpha: 4zjac
+md5_6_alpha_upper: 4ZJAC
+md5_6_upper: 7FD064
+name: Hardware Ziptie Medium
+name_no_class: Ziptie Medium
+name_no_color: Medium
+name_no_size: Medium
+name_no_size_short: Medium
+name_no_type: Medium
+oomlout_detail_hierarchy_1: hardware
+oomlout_detail_hierarchy_1_upper: HARDWARE
+oomlout_detail_hierarchy_1_upper_length_4: HARD
+oomlout_detail_hierarchy_2: ziptie
+oomlout_detail_hierarchy_2_upper: ZIPTIE
+oomlout_detail_hierarchy_2_upper_length_4: ZIPT
+oomlout_detail_hierarchy_3: medium
+oomlout_detail_hierarchy_3_upper: MEDIUM
+oomlout_detail_hierarchy_3_upper_length_4: MEDI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_hardware_ziptie_medium
+oomp_word: speaker banana sunflower
+oomp_word_emoji: ':speaker: :banana: :sunflower:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':banana:'
+- ':sunflower:'
+oomp_word_list:
+- speaker
+- banana
+- sunflower
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: medium
+size_capital: Medium
+size_first_letter: m
+size_first_letter_upper: M
+size_length_1: m
+size_length_2: me
+size_length_3: med
+size_length_4: medi
+size_length_5: mediu
+size_length_6: medium
+size_name: Medium
+size_no_space_length_1: m
+size_no_space_length_2: me
+size_no_space_length_3: med
+size_no_space_length_4: medi
+size_no_space_length_5: mediu
+size_no_space_length_6: medium
+size_no_space_upper_length_1: M
+size_no_space_upper_length_2: ME
+size_no_space_upper_length_3: MED
+size_no_space_upper_length_4: MEDI
+size_no_space_upper_length_5: MEDIU
+size_no_space_upper_length_6: MEDIUM
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MEDIUM
+size_upper_length_1: M
+size_upper_length_2: ME
+size_upper_length_3: MED
+size_upper_length_4: MEDI
+size_upper_length_5: MEDIU
+size_upper_length_6: MEDIUM
+type: ziptie
+type_capital: Ziptie
+type_first_letter: z
+type_first_letter_upper: Z
+type_length_1: z
+type_length_2: zi
+type_length_3: zip
+type_length_4: zipt
+type_length_5: zipti
+type_length_6: ziptie
+type_name: Ziptie
+type_no_space_length_1: z
+type_no_space_length_2: zi
+type_no_space_length_3: zip
+type_no_space_length_4: zipt
+type_no_space_length_5: zipti
+type_no_space_length_6: ziptie
+type_no_space_upper_length_1: Z
+type_no_space_upper_length_2: ZI
+type_no_space_upper_length_3: ZIP
+type_no_space_upper_length_4: ZIPT
+type_no_space_upper_length_5: ZIPTI
+type_no_space_upper_length_6: ZIPTIE
+type_upper: ZIPTIE
+type_upper_length_1: Z
+type_upper_length_2: ZI
+type_upper_length_3: ZIP
+type_upper_length_4: ZIPT
+type_upper_length_5: ZIPTI
+type_upper_length_6: ZIPTIE

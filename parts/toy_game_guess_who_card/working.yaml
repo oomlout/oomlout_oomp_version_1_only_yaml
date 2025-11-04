@@ -1,0 +1,265 @@
+bip_39_word_dash_12: stamp-square-you-blush-avoid-require-town-basic-critic-bonus-double-almost
+bip_39_word_dash_2: stamp-square
+bip_39_word_dash_3: stamp-square-you
+bip_39_word_new_br_12: stamp<br>square<br>you<br>blush<br>avoid<br>require<br>town<br>basic<br>critic<br>bonus<br>double<br>almost
+bip_39_word_new_br_2: stamp<br>square
+bip_39_word_new_br_3: stamp<br>square<br>you
+bip_39_word_new_line_12: 'stamp
+
+  square
+
+  you
+
+  blush
+
+  avoid
+
+  require
+
+  town
+
+  basic
+
+  critic
+
+  bonus
+
+  double
+
+  almost'
+bip_39_word_new_line_2: 'stamp
+
+  square'
+bip_39_word_new_line_3: 'stamp
+
+  square
+
+  you'
+bip_39_word_no_space_12: stampsquareyoublushavoidrequiretownbasiccriticbonusdoublealmost
+bip_39_word_no_space_2: stampsquare
+bip_39_word_no_space_3: stampsquareyou
+bip_39_word_space_12: stamp square you blush avoid require town basic critic bonus
+  double almost
+bip_39_word_space_2: stamp square
+bip_39_word_space_3: stamp square you
+bip_39_word_underscore_12: stamp_square_you_blush_avoid_require_town_basic_critic_bonus_double_almost
+bip_39_word_underscore_2: stamp_square
+bip_39_word_underscore_3: stamp_square_you
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
+classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: card
+description_extra_capital: Card
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: ca
+description_extra_length_3: car
+description_extra_length_4: card
+description_extra_length_5: card
+description_extra_length_6: card
+description_extra_name: Card
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: ca
+description_extra_no_space_length_3: car
+description_extra_no_space_length_4: card
+description_extra_no_space_length_5: card
+description_extra_no_space_length_6: card
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CA
+description_extra_no_space_upper_length_3: CAR
+description_extra_no_space_upper_length_4: CARD
+description_extra_no_space_upper_length_5: CARD
+description_extra_no_space_upper_length_6: CARD
+description_extra_upper: CARD
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CA
+description_extra_upper_length_3: CAR
+description_extra_upper_length_4: CARD
+description_extra_upper_length_5: CARD
+description_extra_upper_length_6: CARD
+description_main: guess_who
+description_main_capital: Guess Who
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_length_1: g
+description_main_length_2: gu
+description_main_length_3: gue
+description_main_length_4: gues
+description_main_length_5: guess
+description_main_length_6: guess_
+description_main_name: Guess Who
+description_main_no_space_length_1: g
+description_main_no_space_length_2: gu
+description_main_no_space_length_3: gue
+description_main_no_space_length_4: gues
+description_main_no_space_length_5: guess
+description_main_no_space_length_6: guessw
+description_main_no_space_upper_length_1: G
+description_main_no_space_upper_length_2: GU
+description_main_no_space_upper_length_3: GUE
+description_main_no_space_upper_length_4: GUES
+description_main_no_space_upper_length_5: GUESS
+description_main_no_space_upper_length_6: GUESSW
+description_main_upper: GUESS_WHO
+description_main_upper_length_1: G
+description_main_upper_length_2: GU
+description_main_upper_length_3: GUE
+description_main_upper_length_4: GUES
+description_main_upper_length_5: GUESS
+description_main_upper_length_6: GUESS_
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_game_guess_who_card
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_game_guess_who_card
+id: toy_game_guess_who_card
+id_no_class: game_guess_who_card
+id_no_color: guesswhocard
+id_no_size: guesswhocard
+id_no_type: guess_who_card
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2048f9i
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2048f9i
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2048f9i
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2048f9i
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_game_guess_who_card](none)<br>[](none)<br>[Toy Game Guess Who
+  Card](none)<br><br>'
+markdown_short: '[toy_game_guess_who_card](none)<br><br>'
+md5: 6c8346599e131ccadc080189fe74dea3
+md5_10: 6c8346599e
+md5_10_upper: 6C8346599E
+md5_5: 6c834
+md5_5_upper: 6C834
+md5_6: 6c8346
+md5_6_alpha: 48f9i
+md5_6_alpha_upper: 48F9I
+md5_6_upper: 6C8346
+name: Toy Game Guess Who Card
+name_no_class: Game Guess Who Card
+name_no_color: Guesswhocard
+name_no_size: Guesswhocard
+name_no_size_short: Guesswhocard
+name_no_type: Guess Who Card
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: game
+oomlout_detail_hierarchy_2_upper: GAME
+oomlout_detail_hierarchy_2_upper_length_4: GAME
+oomlout_detail_hierarchy_3: guess_who
+oomlout_detail_hierarchy_3_upper: GUESS_WHO
+oomlout_detail_hierarchy_3_upper_length_4: GUES
+oomlout_detail_hierarchy_4: card
+oomlout_detail_hierarchy_4_upper: CARD
+oomlout_detail_hierarchy_4_upper_length_4: CARD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_toy_game_guess_who_card
+oomp_word: blossom lock bird
+oomp_word_emoji: ':blossom: :lock: :bird:'
+oomp_word_emoji_list:
+- ':blossom:'
+- ':lock:'
+- ':bird:'
+oomp_word_list:
+- blossom
+- lock
+- bird
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: game
+type_capital: Game
+type_first_letter: g
+type_first_letter_upper: G
+type_length_1: g
+type_length_2: ga
+type_length_3: gam
+type_length_4: game
+type_length_5: game
+type_length_6: game
+type_name: Game
+type_no_space_length_1: g
+type_no_space_length_2: ga
+type_no_space_length_3: gam
+type_no_space_length_4: game
+type_no_space_length_5: game
+type_no_space_length_6: game
+type_no_space_upper_length_1: G
+type_no_space_upper_length_2: GA
+type_no_space_upper_length_3: GAM
+type_no_space_upper_length_4: GAME
+type_no_space_upper_length_5: GAME
+type_no_space_upper_length_6: GAME
+type_upper: GAME
+type_upper_length_1: G
+type_upper_length_2: GA
+type_upper_length_3: GAM
+type_upper_length_4: GAME
+type_upper_length_5: GAME
+type_upper_length_6: GAME

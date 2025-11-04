@@ -1,0 +1,265 @@
+bip_39_word_dash_12: fluid-obvious-match-deer-forest-mind-practice-ecology-supply-early-lesson-above
+bip_39_word_dash_2: fluid-obvious
+bip_39_word_dash_3: fluid-obvious-match
+bip_39_word_new_br_12: fluid<br>obvious<br>match<br>deer<br>forest<br>mind<br>practice<br>ecology<br>supply<br>early<br>lesson<br>above
+bip_39_word_new_br_2: fluid<br>obvious
+bip_39_word_new_br_3: fluid<br>obvious<br>match
+bip_39_word_new_line_12: 'fluid
+
+  obvious
+
+  match
+
+  deer
+
+  forest
+
+  mind
+
+  practice
+
+  ecology
+
+  supply
+
+  early
+
+  lesson
+
+  above'
+bip_39_word_new_line_2: 'fluid
+
+  obvious'
+bip_39_word_new_line_3: 'fluid
+
+  obvious
+
+  match'
+bip_39_word_no_space_12: fluidobviousmatchdeerforestmindpracticeecologysupplyearlylessonabove
+bip_39_word_no_space_2: fluidobvious
+bip_39_word_no_space_3: fluidobviousmatch
+bip_39_word_space_12: fluid obvious match deer forest mind practice ecology supply
+  early lesson above
+bip_39_word_space_2: fluid obvious
+bip_39_word_space_3: fluid obvious match
+bip_39_word_underscore_12: fluid_obvious_match_deer_forest_mind_practice_ecology_supply_early_lesson_above
+bip_39_word_underscore_2: fluid_obvious
+bip_39_word_underscore_3: fluid_obvious_match
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: toy
+classification_length_4: toy
+classification_length_5: toy
+classification_length_6: toy
+classification_name: Toy
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: toy
+classification_no_space_length_4: toy
+classification_no_space_length_5: toy
+classification_no_space_length_6: toy
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOY
+classification_no_space_upper_length_4: TOY
+classification_no_space_upper_length_5: TOY
+classification_no_space_upper_length_6: TOY
+classification_upper: TOY
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOY
+classification_upper_length_4: TOY
+classification_upper_length_5: TOY
+classification_upper_length_6: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: classic
+description_extra_capital: Classic
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_length_1: c
+description_extra_length_2: cl
+description_extra_length_3: cla
+description_extra_length_4: clas
+description_extra_length_5: class
+description_extra_length_6: classi
+description_extra_name: Classic
+description_extra_no_space_length_1: c
+description_extra_no_space_length_2: cl
+description_extra_no_space_length_3: cla
+description_extra_no_space_length_4: clas
+description_extra_no_space_length_5: class
+description_extra_no_space_length_6: classi
+description_extra_no_space_upper_length_1: C
+description_extra_no_space_upper_length_2: CL
+description_extra_no_space_upper_length_3: CLA
+description_extra_no_space_upper_length_4: CLAS
+description_extra_no_space_upper_length_5: CLASS
+description_extra_no_space_upper_length_6: CLASSI
+description_extra_upper: CLASSIC
+description_extra_upper_length_1: C
+description_extra_upper_length_2: CL
+description_extra_upper_length_3: CLA
+description_extra_upper_length_4: CLAS
+description_extra_upper_length_5: CLASS
+description_extra_upper_length_6: CLASSI
+description_main: guess_who
+description_main_capital: Guess Who
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_length_1: g
+description_main_length_2: gu
+description_main_length_3: gue
+description_main_length_4: gues
+description_main_length_5: guess
+description_main_length_6: guess_
+description_main_name: Guess Who
+description_main_no_space_length_1: g
+description_main_no_space_length_2: gu
+description_main_no_space_length_3: gue
+description_main_no_space_length_4: gues
+description_main_no_space_length_5: guess
+description_main_no_space_length_6: guessw
+description_main_no_space_upper_length_1: G
+description_main_no_space_upper_length_2: GU
+description_main_no_space_upper_length_3: GUE
+description_main_no_space_upper_length_4: GUES
+description_main_no_space_upper_length_5: GUESS
+description_main_no_space_upper_length_6: GUESSW
+description_main_upper: GUESS_WHO
+description_main_upper_length_1: G
+description_main_upper_length_2: GU
+description_main_upper_length_3: GUE
+description_main_upper_length_4: GUES
+description_main_upper_length_5: GUESS
+description_main_upper_length_6: GUESS_
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_game_guess_who_classic
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/toy_game_guess_who_classic
+id: toy_game_guess_who_classic
+id_no_class: game_guess_who_classic
+id_no_color: guesswhoclassic
+id_no_size: guesswhoclassic
+id_no_type: guess_who_classic
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_classic
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_classic
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_classic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_classic
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20cn9t
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20cn9t
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20cn9t
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20cn9t
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_classic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_game_guess_who_classic](none)<br>[](none)<br>[Toy Game Guess
+  Who Classic](none)<br><br>'
+markdown_short: '[toy_game_guess_who_classic](none)<br><br>'
+md5: 0900d14ece46152e33ad939511a62acd
+md5_10: 0900d14ece
+md5_10_upper: 0900D14ECE
+md5_5: 0900d
+md5_5_upper: 0900D
+md5_6: 0900d1
+md5_6_alpha: cn9t
+md5_6_alpha_upper: CN9T
+md5_6_upper: 0900D1
+name: Toy Game Guess Who Classic
+name_no_class: Game Guess Who Classic
+name_no_color: Guesswhoclassic
+name_no_size: Guesswhoclassic
+name_no_size_short: Guesswhoclassic
+name_no_type: Guess Who Classic
+oomlout_detail_hierarchy_1: toy
+oomlout_detail_hierarchy_1_upper: TOY
+oomlout_detail_hierarchy_1_upper_length_4: TOY
+oomlout_detail_hierarchy_2: game
+oomlout_detail_hierarchy_2_upper: GAME
+oomlout_detail_hierarchy_2_upper_length_4: GAME
+oomlout_detail_hierarchy_3: guess_who
+oomlout_detail_hierarchy_3_upper: GUESS_WHO
+oomlout_detail_hierarchy_3_upper_length_4: GUES
+oomlout_detail_hierarchy_4: classic
+oomlout_detail_hierarchy_4_upper: CLASSIC
+oomlout_detail_hierarchy_4_upper_length_4: CLAS
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_toy_game_guess_who_classic
+oomp_word: angry bowtie pear
+oomp_word_emoji: ':angry: :bowtie: :pear:'
+oomp_word_emoji_list:
+- ':angry:'
+- ':bowtie:'
+- ':pear:'
+oomp_word_list:
+- angry
+- bowtie
+- pear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: game
+type_capital: Game
+type_first_letter: g
+type_first_letter_upper: G
+type_length_1: g
+type_length_2: ga
+type_length_3: gam
+type_length_4: game
+type_length_5: game
+type_length_6: game
+type_name: Game
+type_no_space_length_1: g
+type_no_space_length_2: ga
+type_no_space_length_3: gam
+type_no_space_length_4: game
+type_no_space_length_5: game
+type_no_space_length_6: game
+type_no_space_upper_length_1: G
+type_no_space_upper_length_2: GA
+type_no_space_upper_length_3: GAM
+type_no_space_upper_length_4: GAME
+type_no_space_upper_length_5: GAME
+type_no_space_upper_length_6: GAME
+type_upper: GAME
+type_upper_length_1: G
+type_upper_length_2: GA
+type_upper_length_3: GAM
+type_upper_length_4: GAME
+type_upper_length_5: GAME
+type_upper_length_6: GAME

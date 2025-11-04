@@ -1,0 +1,243 @@
+bip_39_word_dash_12: practice-chapter-lesson-forum-frown-swallow-galaxy-debris-rule-leisure-can-air
+bip_39_word_dash_2: practice-chapter
+bip_39_word_dash_3: practice-chapter-lesson
+bip_39_word_new_br_12: practice<br>chapter<br>lesson<br>forum<br>frown<br>swallow<br>galaxy<br>debris<br>rule<br>leisure<br>can<br>air
+bip_39_word_new_br_2: practice<br>chapter
+bip_39_word_new_br_3: practice<br>chapter<br>lesson
+bip_39_word_new_line_12: 'practice
+
+  chapter
+
+  lesson
+
+  forum
+
+  frown
+
+  swallow
+
+  galaxy
+
+  debris
+
+  rule
+
+  leisure
+
+  can
+
+  air'
+bip_39_word_new_line_2: 'practice
+
+  chapter'
+bip_39_word_new_line_3: 'practice
+
+  chapter
+
+  lesson'
+bip_39_word_no_space_12: practicechapterlessonforumfrownswallowgalaxydebrisruleleisurecanair
+bip_39_word_no_space_2: practicechapter
+bip_39_word_no_space_3: practicechapterlesson
+bip_39_word_space_12: practice chapter lesson forum frown swallow galaxy debris rule
+  leisure can air
+bip_39_word_space_2: practice chapter
+bip_39_word_space_3: practice chapter lesson
+bip_39_word_underscore_12: practice_chapter_lesson_forum_frown_swallow_galaxy_debris_rule_leisure_can_air
+bip_39_word_underscore_2: practice_chapter
+bip_39_word_underscore_3: practice_chapter_lesson
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_card_game
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_game_pokemon
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_card_game_pokemon
+id: category_card_game_pokemon
+id_no_class: card_game_pokemon
+id_no_color: pokemon
+id_no_size: pokemon
+id_no_type: pokemon
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203d5un
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203d5un
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203d5un
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203d5un
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_game_pokemon](none)<br>[](none)<br>[Category Card Game
+  Pokemon](none)<br><br>'
+markdown_short: '[category_card_game_pokemon](none)<br><br>'
+md5: 5641dfede9386bdf6c2ec5bb00c99d4b
+md5_10: 5641dfede9
+md5_10_upper: 5641DFEDE9
+md5_5: 5641d
+md5_5_upper: 5641D
+md5_6: 5641df
+md5_6_alpha: 3d5un
+md5_6_alpha_upper: 3D5UN
+md5_6_upper: 5641DF
+name: Category Card Game Pokemon
+name_no_class: Card Game Pokemon
+name_no_color: Pokemon
+name_no_size: Pokemon
+name_no_size_short: Pokemon
+name_no_type: Pokemon
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: card_game
+oomlout_detail_hierarchy_2_upper: CARD_GAME
+oomlout_detail_hierarchy_2_upper_length_4: CARD
+oomlout_detail_hierarchy_3: pokemon
+oomlout_detail_hierarchy_3_upper: POKEMON
+oomlout_detail_hierarchy_3_upper_length_4: POKE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_card_game_pokemon
+oomp_word: ram camel fountain
+oomp_word_emoji: ':ram: :camel: :fountain:'
+oomp_word_emoji_list:
+- ':ram:'
+- ':camel:'
+- ':fountain:'
+oomp_word_list:
+- ram
+- camel
+- fountain
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardgame
+size: pokemon
+size_capital: Pokemon
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: po
+size_length_3: pok
+size_length_4: poke
+size_length_5: pokem
+size_length_6: pokemo
+size_name: Pokemon
+size_no_space_length_1: p
+size_no_space_length_2: po
+size_no_space_length_3: pok
+size_no_space_length_4: poke
+size_no_space_length_5: pokem
+size_no_space_length_6: pokemo
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PO
+size_no_space_upper_length_3: POK
+size_no_space_upper_length_4: POKE
+size_no_space_upper_length_5: POKEM
+size_no_space_upper_length_6: POKEMO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: POKEMON
+size_upper_length_1: P
+size_upper_length_2: PO
+size_upper_length_3: POK
+size_upper_length_4: POKE
+size_upper_length_5: POKEM
+size_upper_length_6: POKEMO
+type: card_game
+type_capital: Card Game
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: ca
+type_length_3: car
+type_length_4: card
+type_length_5: card_
+type_length_6: card_g
+type_name: Card Game
+type_no_space_length_1: c
+type_no_space_length_2: ca
+type_no_space_length_3: car
+type_no_space_length_4: card
+type_no_space_length_5: cardg
+type_no_space_length_6: cardga
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CA
+type_no_space_upper_length_3: CAR
+type_no_space_upper_length_4: CARD
+type_no_space_upper_length_5: CARDG
+type_no_space_upper_length_6: CARDGA
+type_upper: CARD_GAME
+type_upper_length_1: C
+type_upper_length_2: CA
+type_upper_length_3: CAR
+type_upper_length_4: CARD
+type_upper_length_5: CARD_
+type_upper_length_6: CARD_G

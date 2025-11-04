@@ -1,0 +1,213 @@
+bip_39_word_dash_12: title-jelly-girl-napkin-daughter-blast-december-wrap-cluster-act-pill-anchor
+bip_39_word_dash_2: title-jelly
+bip_39_word_dash_3: title-jelly-girl
+bip_39_word_new_br_12: title<br>jelly<br>girl<br>napkin<br>daughter<br>blast<br>december<br>wrap<br>cluster<br>act<br>pill<br>anchor
+bip_39_word_new_br_2: title<br>jelly
+bip_39_word_new_br_3: title<br>jelly<br>girl
+bip_39_word_new_line_12: 'title
+
+  jelly
+
+  girl
+
+  napkin
+
+  daughter
+
+  blast
+
+  december
+
+  wrap
+
+  cluster
+
+  act
+
+  pill
+
+  anchor'
+bip_39_word_new_line_2: 'title
+
+  jelly'
+bip_39_word_new_line_3: 'title
+
+  jelly
+
+  girl'
+bip_39_word_no_space_12: titlejellygirlnapkindaughterblastdecemberwrapclusteractpillanchor
+bip_39_word_no_space_2: titlejelly
+bip_39_word_no_space_3: titlejellygirl
+bip_39_word_space_12: title jelly girl napkin daughter blast december wrap cluster
+  act pill anchor
+bip_39_word_space_2: title jelly
+bip_39_word_space_3: title jelly girl
+bip_39_word_underscore_12: title_jelly_girl_napkin_daughter_blast_december_wrap_cluster_act_pill_anchor
+bip_39_word_underscore_2: title_jelly
+bip_39_word_underscore_3: title_jelly_girl
+classification: card_trading
+classification_capital: Card Trading
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: car
+classification_length_4: card
+classification_length_5: card_
+classification_length_6: card_t
+classification_name: Card Trading
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: car
+classification_no_space_length_4: card
+classification_no_space_length_5: cardt
+classification_no_space_length_6: cardtr
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAR
+classification_no_space_upper_length_4: CARD
+classification_no_space_upper_length_5: CARDT
+classification_no_space_upper_length_6: CARDTR
+classification_upper: CARD_TRADING
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAR
+classification_upper_length_4: CARD
+classification_upper_length_5: CARD_
+classification_upper_length_6: CARD_T
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_trading_sport_basketball
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/card_trading_sport_basketball
+id: card_trading_sport_basketball
+id_no_class: sport_basketball
+id_no_color: sportbasketball
+id_no_size: sportbasketball
+id_no_type: sport_basketball
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205a16o
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205a16o
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205a16o
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205a16o
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_trading_sport_basketball](none)<br>[](none)<br>[Card Trading
+  Sport Basketball](none)<br><br>'
+markdown_short: '[card_trading_sport_basketball](none)<br><br>'
+md5: 8749809963fe07145d9be92ec49df717
+md5_10: '8749809963'
+md5_10_upper: '8749809963'
+md5_5: '87498'
+md5_5_upper: '87498'
+md5_6: '874980'
+md5_6_alpha: 5a16o
+md5_6_alpha_upper: 5A16O
+md5_6_upper: '874980'
+name: Card Trading Sport Basketball
+name_no_class: Sport Basketball
+name_no_color: Sportbasketball
+name_no_size: Sportbasketball
+name_no_size_short: Sportbasketball
+name_no_type: Sport Basketball
+oomlout_detail_hierarchy_1: card_trading
+oomlout_detail_hierarchy_1_upper: CARD_TRADING
+oomlout_detail_hierarchy_1_upper_length_4: CARD
+oomlout_detail_hierarchy_2: sport_basketball
+oomlout_detail_hierarchy_2_upper: SPORT_BASKETBALL
+oomlout_detail_hierarchy_2_upper_length_4: SPOR
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_card_trading_sport_basketball
+oomp_word: toilet hatching_chick hourglass
+oomp_word_emoji: ':toilet: :hatching_chick: :hourglass:'
+oomp_word_emoji_list:
+- ':toilet:'
+- ':hatching_chick:'
+- ':hourglass:'
+oomp_word_list:
+- toilet
+- hatching_chick
+- hourglass
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sport_basketball
+type_capital: Sport Basketball
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sp
+type_length_3: spo
+type_length_4: spor
+type_length_5: sport
+type_length_6: sport_
+type_name: Sport Basketball
+type_no_space_length_1: s
+type_no_space_length_2: sp
+type_no_space_length_3: spo
+type_no_space_length_4: spor
+type_no_space_length_5: sport
+type_no_space_length_6: sportb
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SP
+type_no_space_upper_length_3: SPO
+type_no_space_upper_length_4: SPOR
+type_no_space_upper_length_5: SPORT
+type_no_space_upper_length_6: SPORTB
+type_upper: SPORT_BASKETBALL
+type_upper_length_1: S
+type_upper_length_2: SP
+type_upper_length_3: SPO
+type_upper_length_4: SPOR
+type_upper_length_5: SPORT
+type_upper_length_6: SPORT_
