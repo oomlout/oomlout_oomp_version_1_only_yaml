@@ -1,0 +1,297 @@
+bip_39_word_dash_12: pistol-imitate-second-oppose-drum-umbrella-maze-achieve-across-road-crouch-alarm
+bip_39_word_dash_2: pistol-imitate
+bip_39_word_dash_3: pistol-imitate-second
+bip_39_word_new_br_12: pistol<br>imitate<br>second<br>oppose<br>drum<br>umbrella<br>maze<br>achieve<br>across<br>road<br>crouch<br>alarm
+bip_39_word_new_br_2: pistol<br>imitate
+bip_39_word_new_br_3: pistol<br>imitate<br>second
+bip_39_word_new_line_12: 'pistol
+
+  imitate
+
+  second
+
+  oppose
+
+  drum
+
+  umbrella
+
+  maze
+
+  achieve
+
+  across
+
+  road
+
+  crouch
+
+  alarm'
+bip_39_word_new_line_2: 'pistol
+
+  imitate'
+bip_39_word_new_line_3: 'pistol
+
+  imitate
+
+  second'
+bip_39_word_no_space_12: pistolimitatesecondopposedrumumbrellamazeachieveacrossroadcrouchalarm
+bip_39_word_no_space_2: pistolimitate
+bip_39_word_no_space_3: pistolimitatesecond
+bip_39_word_space_12: pistol imitate second oppose drum umbrella maze achieve across
+  road crouch alarm
+bip_39_word_space_2: pistol imitate
+bip_39_word_space_3: pistol imitate second
+bip_39_word_underscore_12: pistol_imitate_second_oppose_drum_umbrella_maze_achieve_across_road_crouch_alarm
+bip_39_word_underscore_2: pistol_imitate
+bip_39_word_underscore_3: pistol_imitate_second
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: 12mm_depth
+color_capital: 12mm Depth
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_length_1: '1'
+color_length_2: '12'
+color_length_3: 12m
+color_length_4: 12mm
+color_length_5: 12mm_
+color_length_6: 12mm_d
+color_name: 12mm Depth
+color_no_space_length_1: '1'
+color_no_space_length_2: '12'
+color_no_space_length_3: 12m
+color_no_space_length_4: 12mm
+color_no_space_length_5: 12mmd
+color_no_space_length_6: 12mmde
+color_no_space_upper_length_1: '1'
+color_no_space_upper_length_2: '12'
+color_no_space_upper_length_3: 12M
+color_no_space_upper_length_4: 12MM
+color_no_space_upper_length_5: 12MMD
+color_no_space_upper_length_6: 12MMDE
+color_upper: 12MM_DEPTH
+color_upper_length_1: '1'
+color_upper_length_2: '12'
+color_upper_length_3: 12M
+color_upper_length_4: 12MM
+color_upper_length_5: 12MM_
+color_upper_length_6: 12MM_D
+description: category_sheet_stock
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_sheet_stock_plywood_12mm_depth_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_sheet_stock_plywood_12mm_depth_old
+id: category_sheet_stock_plywood_12mm_depth_old
+id_no_class: sheet_stock_plywood_12mm_depth_old
+id_no_color: old
+id_no_size: 12mm_depth_old
+id_no_type: plywood_12mm_depth_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_12mm_depth_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_12mm_depth_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_12mm_depth_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_12mm_depth_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%203lsvi
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%203lsvi
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%203lsvi
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%203lsvi
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_12mm_depth_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_plywood_12mm_depth_old](none)<br>[](none)<br>[Category
+  Sheet Stock Plywood 12Mm Depth Old](none)<br><br>'
+markdown_short: '[category_sheet_stock_plywood_12mm_depth_old](none)<br><br>'
+md5: 5c686eb81201d133b0a1c9b984dc5d2b
+md5_10: 5c686eb812
+md5_10_upper: 5C686EB812
+md5_5: 5c686
+md5_5_upper: 5C686
+md5_6: 5c686e
+md5_6_alpha: 3lsvi
+md5_6_alpha_upper: 3LSVI
+md5_6_upper: 5C686E
+name: Category Sheet Stock Plywood 12mm Depth Old
+name_no_class: Sheet Stock Plywood 12mm Depth Old
+name_no_color: Old
+name_no_size: 12mm Depth Old
+name_no_size_short: 12Mm Depth Old
+name_no_type: Plywood 12mm Depth Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: sheet_stock
+oomlout_detail_hierarchy_2_upper: SHEET_STOCK
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: plywood
+oomlout_detail_hierarchy_3_upper: PLYWOOD
+oomlout_detail_hierarchy_3_upper_length_4: PLYW
+oomlout_detail_hierarchy_4: 12mm_depth
+oomlout_detail_hierarchy_4_upper: 12MM_DEPTH
+oomlout_detail_hierarchy_4_upper_length_4: 12MM
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_sheet_stock_plywood_12mm_depth_old
+oomp_word: ox mushroom new_moon
+oomp_word_emoji: ':ox: :mushroom: :new_moon:'
+oomp_word_emoji_list:
+- ':ox:'
+- ':mushroom:'
+- ':new_moon:'
+oomp_word_list:
+- ox
+- mushroom
+- new_moon
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: plywood
+size_capital: Plywood
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pl
+size_length_3: ply
+size_length_4: plyw
+size_length_5: plywo
+size_length_6: plywoo
+size_name: Plywood
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: ply
+size_no_space_length_4: plyw
+size_no_space_length_5: plywo
+size_no_space_length_6: plywoo
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLY
+size_no_space_upper_length_4: PLYW
+size_no_space_upper_length_5: PLYWO
+size_no_space_upper_length_6: PLYWOO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLYWOOD
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLY
+size_upper_length_4: PLYW
+size_upper_length_5: PLYWO
+size_upper_length_6: PLYWOO
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet_
+type_name: Sheet Stock
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheets
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEETS
+type_upper: SHEET_STOCK
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET_

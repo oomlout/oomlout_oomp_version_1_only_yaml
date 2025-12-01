@@ -1,0 +1,243 @@
+bip_39_word_dash_12: cave-judge-abuse-trim-shoulder-remind-horn-velvet-that-convince-smooth-among
+bip_39_word_dash_2: cave-judge
+bip_39_word_dash_3: cave-judge-abuse
+bip_39_word_new_br_12: cave<br>judge<br>abuse<br>trim<br>shoulder<br>remind<br>horn<br>velvet<br>that<br>convince<br>smooth<br>among
+bip_39_word_new_br_2: cave<br>judge
+bip_39_word_new_br_3: cave<br>judge<br>abuse
+bip_39_word_new_line_12: 'cave
+
+  judge
+
+  abuse
+
+  trim
+
+  shoulder
+
+  remind
+
+  horn
+
+  velvet
+
+  that
+
+  convince
+
+  smooth
+
+  among'
+bip_39_word_new_line_2: 'cave
+
+  judge'
+bip_39_word_new_line_3: 'cave
+
+  judge
+
+  abuse'
+bip_39_word_no_space_12: cavejudgeabusetrimshoulderremindhornvelvetthatconvincesmoothamong
+bip_39_word_no_space_2: cavejudge
+bip_39_word_no_space_3: cavejudgeabuse
+bip_39_word_space_12: cave judge abuse trim shoulder remind horn velvet that convince
+  smooth among
+bip_39_word_space_2: cave judge
+bip_39_word_space_3: cave judge abuse
+bip_39_word_underscore_12: cave_judge_abuse_trim_shoulder_remind_horn_velvet_that_convince_smooth_among
+bip_39_word_underscore_2: cave_judge
+bip_39_word_underscore_3: cave_judge_abuse
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_plywood
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_sheet_stock_plywood
+id: category_sheet_stock_plywood
+id_no_class: sheet_stock_plywood
+id_no_color: plywood
+id_no_size: plywood
+id_no_type: plywood
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204z8i3
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204z8i3
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204z8i3
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204z8i3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_plywood](none)<br>[](none)<br>[Category Sheet
+  Stock Plywood](none)<br><br>'
+markdown_short: '[category_sheet_stock_plywood](none)<br><br>'
+md5: 7f99cbe6fff20db2d7637e8a025e2926
+md5_10: 7f99cbe6ff
+md5_10_upper: 7F99CBE6FF
+md5_5: 7f99c
+md5_5_upper: 7F99C
+md5_6: 7f99cb
+md5_6_alpha: 4z8i3
+md5_6_alpha_upper: 4Z8I3
+md5_6_upper: 7F99CB
+name: Category Sheet Stock Plywood
+name_no_class: Sheet Stock Plywood
+name_no_color: Plywood
+name_no_size: Plywood
+name_no_size_short: Plywood
+name_no_type: Plywood
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: sheet_stock
+oomlout_detail_hierarchy_2_upper: SHEET_STOCK
+oomlout_detail_hierarchy_2_upper_length_4: SHEE
+oomlout_detail_hierarchy_3: plywood
+oomlout_detail_hierarchy_3_upper: PLYWOOD
+oomlout_detail_hierarchy_3_upper_length_4: PLYW
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_sheet_stock_plywood
+oomp_word: speaker bowling grapes
+oomp_word_emoji: ':speaker: :bowling: :grapes:'
+oomp_word_emoji_list:
+- ':speaker:'
+- ':bowling:'
+- ':grapes:'
+oomp_word_list:
+- speaker
+- bowling
+- grapes
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: plywood
+size_capital: Plywood
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pl
+size_length_3: ply
+size_length_4: plyw
+size_length_5: plywo
+size_length_6: plywoo
+size_name: Plywood
+size_no_space_length_1: p
+size_no_space_length_2: pl
+size_no_space_length_3: ply
+size_no_space_length_4: plyw
+size_no_space_length_5: plywo
+size_no_space_length_6: plywoo
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PL
+size_no_space_upper_length_3: PLY
+size_no_space_upper_length_4: PLYW
+size_no_space_upper_length_5: PLYWO
+size_no_space_upper_length_6: PLYWOO
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLYWOOD
+size_upper_length_1: P
+size_upper_length_2: PL
+size_upper_length_3: PLY
+size_upper_length_4: PLYW
+size_upper_length_5: PLYWO
+size_upper_length_6: PLYWOO
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sh
+type_length_3: she
+type_length_4: shee
+type_length_5: sheet
+type_length_6: sheet_
+type_name: Sheet Stock
+type_no_space_length_1: s
+type_no_space_length_2: sh
+type_no_space_length_3: she
+type_no_space_length_4: shee
+type_no_space_length_5: sheet
+type_no_space_length_6: sheets
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SH
+type_no_space_upper_length_3: SHE
+type_no_space_upper_length_4: SHEE
+type_no_space_upper_length_5: SHEET
+type_no_space_upper_length_6: SHEETS
+type_upper: SHEET_STOCK
+type_upper_length_1: S
+type_upper_length_2: SH
+type_upper_length_3: SHE
+type_upper_length_4: SHEE
+type_upper_length_5: SHEET
+type_upper_length_6: SHEET_

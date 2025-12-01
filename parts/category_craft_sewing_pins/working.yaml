@@ -1,0 +1,269 @@
+bip_39_word_dash_12: year-rich-sport-visa-lemon-old-run-trap-snap-wheel-window-all
+bip_39_word_dash_2: year-rich
+bip_39_word_dash_3: year-rich-sport
+bip_39_word_new_br_12: year<br>rich<br>sport<br>visa<br>lemon<br>old<br>run<br>trap<br>snap<br>wheel<br>window<br>all
+bip_39_word_new_br_2: year<br>rich
+bip_39_word_new_br_3: year<br>rich<br>sport
+bip_39_word_new_line_12: 'year
+
+  rich
+
+  sport
+
+  visa
+
+  lemon
+
+  old
+
+  run
+
+  trap
+
+  snap
+
+  wheel
+
+  window
+
+  all'
+bip_39_word_new_line_2: 'year
+
+  rich'
+bip_39_word_new_line_3: 'year
+
+  rich
+
+  sport'
+bip_39_word_no_space_12: yearrichsportvisalemonoldruntrapsnapwheelwindowall
+bip_39_word_no_space_2: yearrich
+bip_39_word_no_space_3: yearrichsport
+bip_39_word_space_12: year rich sport visa lemon old run trap snap wheel window all
+bip_39_word_space_2: year rich
+bip_39_word_space_3: year rich sport
+bip_39_word_underscore_12: year_rich_sport_visa_lemon_old_run_trap_snap_wheel_window_all
+bip_39_word_underscore_2: year_rich
+bip_39_word_underscore_3: year_rich_sport
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: pins
+color_capital: Pins
+color_first_letter: p
+color_first_letter_upper: P
+color_length_1: p
+color_length_2: pi
+color_length_3: pin
+color_length_4: pins
+color_length_5: pins
+color_length_6: pins
+color_name: Pins
+color_no_space_length_1: p
+color_no_space_length_2: pi
+color_no_space_length_3: pin
+color_no_space_length_4: pins
+color_no_space_length_5: pins
+color_no_space_length_6: pins
+color_no_space_upper_length_1: P
+color_no_space_upper_length_2: PI
+color_no_space_upper_length_3: PIN
+color_no_space_upper_length_4: PINS
+color_no_space_upper_length_5: PINS
+color_no_space_upper_length_6: PINS
+color_upper: PINS
+color_upper_length_1: P
+color_upper_length_2: PI
+color_upper_length_3: PIN
+color_upper_length_4: PINS
+color_upper_length_5: PINS
+color_upper_length_6: PINS
+description: category_craft
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_craft_sewing_pins
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_craft_sewing_pins
+id: category_craft_sewing_pins
+id_no_class: craft_sewing_pins
+id_no_color: pins
+id_no_size: pins
+id_no_type: sewing_pins
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_pins
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_pins
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_pins
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_pins
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20421a6
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20421a6
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20421a6
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20421a6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_pins
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_sewing_pins](none)<br>[](none)<br>[Category Craft
+  Sewing Pins](none)<br><br>'
+markdown_short: '[category_craft_sewing_pins](none)<br><br>'
+md5: 67f6fe866ae757aa683fef4ba56e57f7
+md5_10: 67f6fe866a
+md5_10_upper: 67F6FE866A
+md5_5: 67f6f
+md5_5_upper: 67F6F
+md5_6: 67f6fe
+md5_6_alpha: 421a6
+md5_6_alpha_upper: 421A6
+md5_6_upper: 67F6FE
+name: Category Craft Sewing Pins
+name_no_class: Craft Sewing Pins
+name_no_color: Pins
+name_no_size: Pins
+name_no_size_short: Pins
+name_no_type: Sewing Pins
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: craft
+oomlout_detail_hierarchy_2_upper: CRAFT
+oomlout_detail_hierarchy_2_upper_length_4: CRAF
+oomlout_detail_hierarchy_3: sewing
+oomlout_detail_hierarchy_3_upper: SEWING
+oomlout_detail_hierarchy_3_upper_length_4: SEWI
+oomlout_detail_hierarchy_4: pins
+oomlout_detail_hierarchy_4_upper: PINS
+oomlout_detail_hierarchy_4_upper_length_4: PINS
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_craft_sewing_pins
+oomp_word: herb five recycle
+oomp_word_emoji: ':herb: :five: :recycle:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':five:'
+- ':recycle:'
+oomp_word_list:
+- herb
+- five
+- recycle
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: sewing
+size_capital: Sewing
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: se
+size_length_3: sew
+size_length_4: sewi
+size_length_5: sewin
+size_length_6: sewing
+size_name: Sewing
+size_no_space_length_1: s
+size_no_space_length_2: se
+size_no_space_length_3: sew
+size_no_space_length_4: sewi
+size_no_space_length_5: sewin
+size_no_space_length_6: sewing
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SE
+size_no_space_upper_length_3: SEW
+size_no_space_upper_length_4: SEWI
+size_no_space_upper_length_5: SEWIN
+size_no_space_upper_length_6: SEWING
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SEWING
+size_upper_length_1: S
+size_upper_length_2: SE
+size_upper_length_3: SEW
+size_upper_length_4: SEWI
+size_upper_length_5: SEWIN
+size_upper_length_6: SEWING
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_length_1: c
+type_length_2: cr
+type_length_3: cra
+type_length_4: craf
+type_length_5: craft
+type_length_6: craft
+type_name: Craft
+type_no_space_length_1: c
+type_no_space_length_2: cr
+type_no_space_length_3: cra
+type_no_space_length_4: craf
+type_no_space_length_5: craft
+type_no_space_length_6: craft
+type_no_space_upper_length_1: C
+type_no_space_upper_length_2: CR
+type_no_space_upper_length_3: CRA
+type_no_space_upper_length_4: CRAF
+type_no_space_upper_length_5: CRAFT
+type_no_space_upper_length_6: CRAFT
+type_upper: CRAFT
+type_upper_length_1: C
+type_upper_length_2: CR
+type_upper_length_3: CRA
+type_upper_length_4: CRAF
+type_upper_length_5: CRAFT
+type_upper_length_6: CRAFT

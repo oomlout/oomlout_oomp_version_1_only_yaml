@@ -1,0 +1,266 @@
+bip_39_word_dash_12: design-pear-vehicle-envelope-scorpion-rack-fish-first-text-middle-bid-assist
+bip_39_word_dash_2: design-pear
+bip_39_word_dash_3: design-pear-vehicle
+bip_39_word_new_br_12: design<br>pear<br>vehicle<br>envelope<br>scorpion<br>rack<br>fish<br>first<br>text<br>middle<br>bid<br>assist
+bip_39_word_new_br_2: design<br>pear
+bip_39_word_new_br_3: design<br>pear<br>vehicle
+bip_39_word_new_line_12: 'design
+
+  pear
+
+  vehicle
+
+  envelope
+
+  scorpion
+
+  rack
+
+  fish
+
+  first
+
+  text
+
+  middle
+
+  bid
+
+  assist'
+bip_39_word_new_line_2: 'design
+
+  pear'
+bip_39_word_new_line_3: 'design
+
+  pear
+
+  vehicle'
+bip_39_word_no_space_12: designpearvehicleenvelopescorpionrackfishfirsttextmiddlebidassist
+bip_39_word_no_space_2: designpear
+bip_39_word_no_space_3: designpearvehicle
+bip_39_word_space_12: design pear vehicle envelope scorpion rack fish first text middle
+  bid assist
+bip_39_word_space_2: design pear
+bip_39_word_space_3: design pear vehicle
+bip_39_word_underscore_12: design_pear_vehicle_envelope_scorpion_rack_fish_first_text_middle_bid_assist
+bip_39_word_underscore_2: design_pear
+bip_39_word_underscore_3: design_pear_vehicle
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: cr
+classification_length_3: cra
+classification_length_4: craf
+classification_length_5: craft
+classification_length_6: craft
+classification_name: Craft
+classification_no_space_length_1: c
+classification_no_space_length_2: cr
+classification_no_space_length_3: cra
+classification_no_space_length_4: craf
+classification_no_space_length_5: craft
+classification_no_space_length_6: craft
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CR
+classification_no_space_upper_length_3: CRA
+classification_no_space_upper_length_4: CRAF
+classification_no_space_upper_length_5: CRAFT
+classification_no_space_upper_length_6: CRAFT
+classification_upper: CRAFT
+classification_upper_length_1: C
+classification_upper_length_2: CR
+classification_upper_length_3: CRA
+classification_upper_length_4: CRAF
+classification_upper_length_5: CRAFT
+classification_upper_length_6: CRAFT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_length_1: m
+description_main_length_2: mi
+description_main_length_3: mix
+description_main_length_4: mixe
+description_main_length_5: mixed
+description_main_length_6: mixed
+description_main_name: Mixed
+description_main_no_space_length_1: m
+description_main_no_space_length_2: mi
+description_main_no_space_length_3: mix
+description_main_no_space_length_4: mixe
+description_main_no_space_length_5: mixed
+description_main_no_space_length_6: mixed
+description_main_no_space_upper_length_1: M
+description_main_no_space_upper_length_2: MI
+description_main_no_space_upper_length_3: MIX
+description_main_no_space_upper_length_4: MIXE
+description_main_no_space_upper_length_5: MIXED
+description_main_no_space_upper_length_6: MIXED
+description_main_upper: MIXED
+description_main_upper_length_1: M
+description_main_upper_length_2: MI
+description_main_upper_length_3: MIX
+description_main_upper_length_4: MIXE
+description_main_upper_length_5: MIXED
+description_main_upper_length_6: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/craft_sewing_pins_mixed
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/craft_sewing_pins_mixed
+id: craft_sewing_pins_mixed
+id_no_class: sewing_pins_mixed
+id_no_color: mixed
+id_no_size: mixed
+id_no_type: pins_mixed
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208l9nn
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208l9nn
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208l9nn
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208l9nn
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_sewing_pins_mixed](none)<br>[](none)<br>[Craft Sewing Pins
+  Mixed](none)<br><br>'
+markdown_short: '[craft_sewing_pins_mixed](none)<br><br>'
+md5: dc2c2316fd576af6c26094bde3e881de
+md5_10: dc2c2316fd
+md5_10_upper: DC2C2316FD
+md5_5: dc2c2
+md5_5_upper: DC2C2
+md5_6: dc2c23
+md5_6_alpha: 8l9nn
+md5_6_alpha_upper: 8L9NN
+md5_6_upper: DC2C23
+name: Craft Sewing Pins Mixed
+name_no_class: Sewing Pins Mixed
+name_no_color: Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Pins Mixed
+oomlout_detail_hierarchy_1: craft
+oomlout_detail_hierarchy_1_upper: CRAFT
+oomlout_detail_hierarchy_1_upper_length_4: CRAF
+oomlout_detail_hierarchy_2: sewing
+oomlout_detail_hierarchy_2_upper: SEWING
+oomlout_detail_hierarchy_2_upper_length_4: SEWI
+oomlout_detail_hierarchy_3: pins
+oomlout_detail_hierarchy_3_upper: PINS
+oomlout_detail_hierarchy_3_upper_length_4: PINS
+oomlout_detail_hierarchy_4: mixed
+oomlout_detail_hierarchy_4_upper: MIXED
+oomlout_detail_hierarchy_4_upper_length_4: MIXE
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_craft_sewing_pins_mixed
+oomp_word: factory snowflake kiss
+oomp_word_emoji: ':factory: :snowflake: :kiss:'
+oomp_word_emoji_list:
+- ':factory:'
+- ':snowflake:'
+- ':kiss:'
+oomp_word_list:
+- factory
+- snowflake
+- kiss
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pins
+size_capital: Pins
+size_first_letter: p
+size_first_letter_upper: P
+size_length_1: p
+size_length_2: pi
+size_length_3: pin
+size_length_4: pins
+size_length_5: pins
+size_length_6: pins
+size_name: Pins
+size_no_space_length_1: p
+size_no_space_length_2: pi
+size_no_space_length_3: pin
+size_no_space_length_4: pins
+size_no_space_length_5: pins
+size_no_space_length_6: pins
+size_no_space_upper_length_1: P
+size_no_space_upper_length_2: PI
+size_no_space_upper_length_3: PIN
+size_no_space_upper_length_4: PINS
+size_no_space_upper_length_5: PINS
+size_no_space_upper_length_6: PINS
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PINS
+size_upper_length_1: P
+size_upper_length_2: PI
+size_upper_length_3: PIN
+size_upper_length_4: PINS
+size_upper_length_5: PINS
+size_upper_length_6: PINS
+type: sewing
+type_capital: Sewing
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sew
+type_length_4: sewi
+type_length_5: sewin
+type_length_6: sewing
+type_name: Sewing
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sew
+type_no_space_length_4: sewi
+type_no_space_length_5: sewin
+type_no_space_length_6: sewing
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEW
+type_no_space_upper_length_4: SEWI
+type_no_space_upper_length_5: SEWIN
+type_no_space_upper_length_6: SEWING
+type_upper: SEWING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEW
+type_upper_length_4: SEWI
+type_upper_length_5: SEWIN
+type_upper_length_6: SEWING
