@@ -1,30 +1,48 @@
-import action_all_default
+import os
+import copy
 
 def main(**kwargs):
-    #added a comment
-    action_all_default.main(**kwargs)
+    #clone or pull oomlout_oompbuilder into temporary/oomlout_oomp_builder
+    repo_url = "https://github.com/oomlout/oomlout_oomp_builder_limited"
+    repo_dir = "temporary\\oomlout_oomp_builder_limited"
+    if not os.path.exists(repo_dir):
+        os.system(f"git clone {repo_url} {repo_dir}")
+    else:
+        os.system(f"cd {repo_dir} && git pull")
 
-if __name__ == "__main__":
-    kwargs = {}
+    #check the configuration directory exists and isn't empty
+    config_dir = "configuration"
+    if not os.path.exists(config_dir) or not os.listdir(config_dir):
+        input("Configuration directory is empty or doesn't exist. Press enter to continue to copy default build configuration")
+        #copy the default build configuration to the configuration directory in windows
+        command = f"copy {repo_dir}\\configuration {config_dir}"
+        print(command)
+        os.system(command)
+        
     
-    filter = ""
-    #filter = "spacer"
-    #filter = "hardware"    
 
-    #filter = "packaging"
-    #filter = "screw_socket_cap"
-    #filter = "screw_self_tapping"
-    #filter = ["set_screw","bolt"]
-    #filter = "standoff"
-    #filter = "hardware_spacer_m3_id_7_mm_od_nylon_white_25_mm_length"
     
-    kwargs["filter"] = filter
-
-    #if filter isn't a array then make it one
-    if not isinstance(kwargs["filter"], list):
-        kwargs["filter"] = [kwargs["filter"]]
-
-    for f in kwargs["filter"]:
-        kwargs["filter"] = f
-        main(**kwargs)
     
+    #import run.py from the cloned repo
+    import sys
+    sys.path.append(repo_dir)
+    import run_limited
+    run_limited.main(**kwargs)
+
+
+
+
+
+if __name__ == '__main__':
+    #add args parse and add a filter -f option
+    import argparse
+    parser = argparse.ArgumentParser(description="Build OOMP parts using oomlout_oomp_builder.")
+    parser.add_argument('-f', '--filter', type=str, default="", help="Filter for the build process.")
+    args = parser.parse_args()
+    #convert args to kwargs
+    kwargs = copy.deepcopy(vars(args))
+    print(f"kwargs: {kwargs}")
+    #test filter with printer
+    #kwargs["filter"] = "printer"
+    #kwargs = {}
+    main(**kwargs)
