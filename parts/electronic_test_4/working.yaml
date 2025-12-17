@@ -1,0 +1,85 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_test_4
+distributors: []
+id: electronic_test_4
+id_no_class: test_4
+id_no_size: test4
+id_no_type: test_4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_test_4
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_test_4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_test_4
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_test_4](none)<br>[](none)<br>[Electronic Test 4](none)<br><br>'
+markdown_short: '[electronic_test_4](none)<br><br>'
+md5: af0446581c9c05124160b26d5bbceecc
+md5_10: af0446581c
+md5_10_upper: AF0446581C
+md5_5: af044
+md5_5_upper: AF044
+md5_6: af0446
+md5_6_alpha: 6tu86
+md5_6_alpha_upper: 6TU86
+md5_6_upper: AF0446
+name: Electronic Test 4
+name_no_class: Test 4
+name_no_size: Test4
+name_no_size_short: Test4
+name_no_type: Test 4
+oomp_key: oomp_electronic_test_4
+oomp_word: tophat wink bird
+oomp_word_emoji: ':tophat: :wink: :bird:'
+oomp_word_emoji_list:
+- ':tophat:'
+- ':wink:'
+- ':bird:'
+oomp_word_list:
+- tophat
+- wink
+- bird
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: test_4
+type_capital: Test 4
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TEST_4
