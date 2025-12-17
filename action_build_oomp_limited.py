@@ -20,6 +20,14 @@ def main(**kwargs):
         os.system(command)
         
 
+    #before running rename parts directory parts_2
+    if True:
+        if os.path.exists("parts"):
+            if os.path.exists("parts_2"):
+                os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
+            #wait for it to finish
+            os.system("powershell -Command \"Move-Item -Path 'parts' -Destination 'parts_2' -Force\"")    
+
     #copy all files that have been changed or created in the last hour from C:\gh\oomlout_oomp_part_generation_version_1\parts to parts
     if True:
         import time
@@ -51,34 +59,10 @@ def main(**kwargs):
         else:
             print(f"Source directory {source_dir} does not exist, skipping copy")
 
-    #before running rename parts directory parts_2
-    if True:
-        if os.path.exists("parts"):
-            if os.path.exists("parts_2"):
-                os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
-            #wait for it to finish
-            os.system("powershell -Command \"Move-Item -Path 'parts' -Destination 'parts_2' -Force\"")
+    
             
 
-    #look at all the files in parts two, find any that have been created in the last hour
-    if True:
-        import time
-        current_time = time.time()
-        one_hour_ago = current_time - 3600
-        recent_files = []
-        if os.path.exists("parts_2"):
-            for root, dirs, files in os.walk("parts_2"):
-                for file in files:
-                    file_path = os.path.join(root, file)
-                    if os.path.getmtime(file_path) > one_hour_ago:
-                        recent_files.append(file_path)
-        print(f"Found {len(recent_files)} files created in the last hour")
-        #move the new file to parts directory
-        for file_path in recent_files:
-            rel_path = os.path.relpath(file_path, "parts_2")
-            dest_file = os.path.join("parts", rel_path)
-            os.makedirs(os.path.dirname(dest_file), exist_ok=True)
-            shutil.copy2(file_path, dest_file)
+    
     
     #run the oomp stuff
     if True:
