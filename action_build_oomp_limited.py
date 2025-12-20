@@ -23,10 +23,11 @@ def main(**kwargs):
     #before running rename parts directory parts_2
     if True:
         if os.path.exists("parts"):
-            if os.path.exists("parts_2"):
-                os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
-            #wait for it to finish
-            os.system("powershell -Command \"Move-Item -Path 'parts' -Destination 'parts_2' -Force\"")    
+            #issue if it didn't finish last time through so just copy over
+            #if os.path.exists("parts_2"):
+                #os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
+            #move_item overwrite if already exists
+            os.system("powershell -Command \"Move-Item -Path 'parts' -Destination 'parts_2' -Force\"")
 
     #copy all files that have been changed or created in the last hour from C:\gh\oomlout_oomp_part_generation_version_1\parts to parts
     if True:
@@ -74,10 +75,10 @@ def main(**kwargs):
 
     #move the parts from parts to parts_2 then remove parts using os.system
     if True:
-        if os.path.exists("parts_2"):
-            
-            os.system("powershell -Command \"Move-Item -Path 'parts' -Destination 'parts_2' -Force\"")
-            os.system("powershell -Command \"Remove-Item -Path 'parts' -Recurse -Force\"")
+        if os.path.exists("parts_2"):            
+            #move contents of parts_2 to parts
+            os.system("powershell -Command \"Move-Item -Path 'parts_2' -Destination 'parts' -Force\"")
+            os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
 
 
             

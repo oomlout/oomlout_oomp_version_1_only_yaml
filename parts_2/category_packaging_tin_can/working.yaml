@@ -1,0 +1,243 @@
+bip_39_word_dash_12: invest-novel-fan-effort-wire-device-bacon-series-whale-any-hawk-apology
+bip_39_word_dash_2: invest-novel
+bip_39_word_dash_3: invest-novel-fan
+bip_39_word_new_br_12: invest<br>novel<br>fan<br>effort<br>wire<br>device<br>bacon<br>series<br>whale<br>any<br>hawk<br>apology
+bip_39_word_new_br_2: invest<br>novel
+bip_39_word_new_br_3: invest<br>novel<br>fan
+bip_39_word_new_line_12: 'invest
+
+  novel
+
+  fan
+
+  effort
+
+  wire
+
+  device
+
+  bacon
+
+  series
+
+  whale
+
+  any
+
+  hawk
+
+  apology'
+bip_39_word_new_line_2: 'invest
+
+  novel'
+bip_39_word_new_line_3: 'invest
+
+  novel
+
+  fan'
+bip_39_word_no_space_12: investnovelfaneffortwiredevicebaconserieswhaleanyhawkapology
+bip_39_word_no_space_2: investnovel
+bip_39_word_no_space_3: investnovelfan
+bip_39_word_space_12: invest novel fan effort wire device bacon series whale any hawk
+  apology
+bip_39_word_space_2: invest novel
+bip_39_word_space_3: invest novel fan
+bip_39_word_underscore_12: invest_novel_fan_effort_wire_device_bacon_series_whale_any_hawk_apology
+bip_39_word_underscore_2: invest_novel
+bip_39_word_underscore_3: invest_novel_fan
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_tin_can
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_packaging_tin_can
+id: category_packaging_tin_can
+id_no_class: packaging_tin_can
+id_no_color: tincan
+id_no_size: tin_can
+id_no_type: tin_can
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206ic1u
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206ic1u
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206ic1u
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206ic1u
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_tin_can](none)<br>[](none)<br>[Category Packaging
+  Tin Can](none)<br><br>'
+markdown_short: '[category_packaging_tin_can](none)<br><br>'
+md5: a6d3828fcdc40228f2fe146aa5a5c3af
+md5_10: a6d3828fcd
+md5_10_upper: A6D3828FCD
+md5_5: a6d38
+md5_5_upper: A6D38
+md5_6: a6d382
+md5_6_alpha: 6ic1u
+md5_6_alpha_upper: 6IC1U
+md5_6_upper: A6D382
+name: Category Packaging Tin Can
+name_no_class: Packaging Tin Can
+name_no_color: Tincan
+name_no_size: Tin Can
+name_no_size_short: Tin Can
+name_no_type: Tin Can
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: packaging
+oomlout_detail_hierarchy_2_upper: PACKAGING
+oomlout_detail_hierarchy_2_upper_length_4: PACK
+oomlout_detail_hierarchy_3: tin_can
+oomlout_detail_hierarchy_3_upper: TIN_CAN
+oomlout_detail_hierarchy_3_upper_length_4: TIN_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_packaging_tin_can
+oomp_word: trumpet tomato radio
+oomp_word_emoji: ':trumpet: :tomato: :radio:'
+oomp_word_emoji_list:
+- ':trumpet:'
+- ':tomato:'
+- ':radio:'
+oomp_word_list:
+- trumpet
+- tomato
+- radio
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: tin_can
+size_capital: Tin Can
+size_first_letter: t
+size_first_letter_upper: T
+size_length_1: t
+size_length_2: ti
+size_length_3: tin
+size_length_4: tin_
+size_length_5: tin_c
+size_length_6: tin_ca
+size_name: Tin Can
+size_no_space_length_1: t
+size_no_space_length_2: ti
+size_no_space_length_3: tin
+size_no_space_length_4: tinc
+size_no_space_length_5: tinca
+size_no_space_length_6: tincan
+size_no_space_upper_length_1: T
+size_no_space_upper_length_2: TI
+size_no_space_upper_length_3: TIN
+size_no_space_upper_length_4: TINC
+size_no_space_upper_length_5: TINCA
+size_no_space_upper_length_6: TINCAN
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIN_CAN
+size_upper_length_1: T
+size_upper_length_2: TI
+size_upper_length_3: TIN
+size_upper_length_4: TIN_
+size_upper_length_5: TIN_C
+size_upper_length_6: TIN_CA
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_length_1: p
+type_length_2: pa
+type_length_3: pac
+type_length_4: pack
+type_length_5: packa
+type_length_6: packag
+type_name: Packaging
+type_no_space_length_1: p
+type_no_space_length_2: pa
+type_no_space_length_3: pac
+type_no_space_length_4: pack
+type_no_space_length_5: packa
+type_no_space_length_6: packag
+type_no_space_upper_length_1: P
+type_no_space_upper_length_2: PA
+type_no_space_upper_length_3: PAC
+type_no_space_upper_length_4: PACK
+type_no_space_upper_length_5: PACKA
+type_no_space_upper_length_6: PACKAG
+type_upper: PACKAGING
+type_upper_length_1: P
+type_upper_length_2: PA
+type_upper_length_3: PAC
+type_upper_length_4: PACK
+type_upper_length_5: PACKA
+type_upper_length_6: PACKAG

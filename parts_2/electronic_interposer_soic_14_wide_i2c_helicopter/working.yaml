@@ -1,0 +1,367 @@
+bip_39_word_dash_12: strong-seminar-peasant-planet-afraid-eager-solve-dish-debris-piece-pencil-all
+bip_39_word_dash_2: strong-seminar
+bip_39_word_dash_3: strong-seminar-peasant
+bip_39_word_new_br_12: strong<br>seminar<br>peasant<br>planet<br>afraid<br>eager<br>solve<br>dish<br>debris<br>piece<br>pencil<br>all
+bip_39_word_new_br_2: strong<br>seminar
+bip_39_word_new_br_3: strong<br>seminar<br>peasant
+bip_39_word_new_line_12: 'strong
+
+  seminar
+
+  peasant
+
+  planet
+
+  afraid
+
+  eager
+
+  solve
+
+  dish
+
+  debris
+
+  piece
+
+  pencil
+
+  all'
+bip_39_word_new_line_2: 'strong
+
+  seminar'
+bip_39_word_new_line_3: 'strong
+
+  seminar
+
+  peasant'
+bip_39_word_no_space_12: strongseminarpeasantplanetafraideagersolvedishdebrispiecepencilall
+bip_39_word_no_space_2: strongseminar
+bip_39_word_no_space_3: strongseminarpeasant
+bip_39_word_space_12: strong seminar peasant planet afraid eager solve dish debris
+  piece pencil all
+bip_39_word_space_2: strong seminar
+bip_39_word_space_3: strong seminar peasant
+bip_39_word_underscore_12: strong_seminar_peasant_planet_afraid_eager_solve_dish_debris_piece_pencil_all
+bip_39_word_underscore_2: strong_seminar
+bip_39_word_underscore_3: strong_seminar_peasant
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_length_1: e
+classification_length_2: el
+classification_length_3: ele
+classification_length_4: elec
+classification_length_5: elect
+classification_length_6: electr
+classification_name: Electronic
+classification_no_space_length_1: e
+classification_no_space_length_2: el
+classification_no_space_length_3: ele
+classification_no_space_length_4: elec
+classification_no_space_length_5: elect
+classification_no_space_length_6: electr
+classification_no_space_upper_length_1: E
+classification_no_space_upper_length_2: EL
+classification_no_space_upper_length_3: ELE
+classification_no_space_upper_length_4: ELEC
+classification_no_space_upper_length_5: ELECT
+classification_no_space_upper_length_6: ELECTR
+classification_upper: ELECTRONIC
+classification_upper_length_1: E
+classification_upper_length_2: EL
+classification_upper_length_3: ELE
+classification_upper_length_4: ELEC
+classification_upper_length_5: ELECT
+classification_upper_length_6: ELECTR
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: An interposer between an i2c chip and a soic_14_wide package, The pins
+  are numbered in the reverse order of being expected because the footprint is used
+  as a mirror image, ie. it is the chip rather than a chuip being placed on it. This
+  is the helicopter side (the side with the chips on it)
+description_extra: helicopter
+description_extra_capital: Helicopter
+description_extra_first_letter: h
+description_extra_first_letter_upper: H
+description_extra_length_1: h
+description_extra_length_2: he
+description_extra_length_3: hel
+description_extra_length_4: heli
+description_extra_length_5: helic
+description_extra_length_6: helico
+description_extra_name: Helicopter
+description_extra_no_space_length_1: h
+description_extra_no_space_length_2: he
+description_extra_no_space_length_3: hel
+description_extra_no_space_length_4: heli
+description_extra_no_space_length_5: helic
+description_extra_no_space_length_6: helico
+description_extra_no_space_upper_length_1: H
+description_extra_no_space_upper_length_2: HE
+description_extra_no_space_upper_length_3: HEL
+description_extra_no_space_upper_length_4: HELI
+description_extra_no_space_upper_length_5: HELIC
+description_extra_no_space_upper_length_6: HELICO
+description_extra_upper: HELICOPTER
+description_extra_upper_length_1: H
+description_extra_upper_length_2: HE
+description_extra_upper_length_3: HEL
+description_extra_upper_length_4: HELI
+description_extra_upper_length_5: HELIC
+description_extra_upper_length_6: HELICO
+description_main: i2c
+description_main_capital: I2C
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_length_1: i
+description_main_length_2: i2
+description_main_length_3: i2c
+description_main_length_4: i2c
+description_main_length_5: i2c
+description_main_length_6: i2c
+description_main_name: I2C
+description_main_no_space_length_1: i
+description_main_no_space_length_2: i2
+description_main_no_space_length_3: i2c
+description_main_no_space_length_4: i2c
+description_main_no_space_length_5: i2c
+description_main_no_space_length_6: i2c
+description_main_no_space_upper_length_1: I
+description_main_no_space_upper_length_2: I2
+description_main_no_space_upper_length_3: I2C
+description_main_no_space_upper_length_4: I2C
+description_main_no_space_upper_length_5: I2C
+description_main_no_space_upper_length_6: I2C
+description_main_upper: I2C
+description_main_upper_length_1: I
+description_main_upper_length_2: I2
+description_main_upper_length_3: I2C
+description_main_upper_length_4: I2C
+description_main_upper_length_5: I2C
+description_main_upper_length_6: I2C
+description_only_numbers: '2'
+description_only_numbers_short: '2'
+description_or_color: '2'
+description_or_color_upper: '2'
+directory: parts/electronic_interposer_soic_14_wide_i2c_helicopter
+distributors: []
+footprint:
+- directory: oomlout_oomp_footprint_bot/footprints/kicad_package_so_soic_14w_7_5x9mm_p1_27mm//working/working.kicad_mod
+  index: 0
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+  note: source footprint kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+  oomp_key: oomp_kicad_package_so_soic_14w_7_5x9mm_p1_27mm
+- directory: oomlout_oomp_footprint_bot/footprints/oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter//working/working.kicad_mod
+  index: 1
+  link: https://github.com/oomlout/oomlout_oomp_footprint_bot/tree/main/foootprntss/oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+  note: oomp generated footprint
+  oomp_key: oomp_oomlout_oomlout_oomp_part_footprints_insoic14wi2cheli_electronic_interposer_soic_14_wide_i2c_helicopter
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
+id: electronic_interposer_soic_14_wide_i2c_helicopter
+id_no_class: interposer_soic_14_wide_i2c_helicopter
+id_no_color: i2chelicopter
+id_no_size: i2c_helicopter
+id_no_type: soic_14_wide_i2c_helicopter
+kicad_reference: U
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204127d
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204127d
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204127d
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204127d
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_interposer_soic_14_wide_i2c_helicopter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_interposer_soic_14_wide_i2c_helicopter](none)<br>[insoic14wi2cheli](none)<br>[Electronic
+  Interposer Soic 14 Wide I2C Helicopter](none)<br><br>'
+markdown_short: '[electronic_interposer_soic_14_wide_i2c_helicopter](none)<br><br>'
+md5: 67456919c33f39dd13824a5f4470e6b9
+md5_10: 67456919c3
+md5_10_upper: 67456919C3
+md5_5: '67456'
+md5_5_upper: '67456'
+md5_6: '674569'
+md5_6_alpha: 4127d
+md5_6_alpha_upper: 4127D
+md5_6_upper: '674569'
+name: Electronic Interposer Soic 14 Wide I2C Helicopter
+name_no_class: Interposer Soic 14 Wide I2C Helicopter
+name_no_color: I2Chelicopter
+name_no_size: I2C Helicopter
+name_no_size_short: I2C Helicopter
+name_no_type: Soic 14 Wide I2C Helicopter
+notes: []
+oomlout_detail_hierarchy_1: electronic
+oomlout_detail_hierarchy_1_upper: ELECTRONIC
+oomlout_detail_hierarchy_1_upper_length_4: ELEC
+oomlout_detail_hierarchy_2: interposer
+oomlout_detail_hierarchy_2_upper: INTERPOSER
+oomlout_detail_hierarchy_2_upper_length_4: INTE
+oomlout_detail_hierarchy_3: soic_14_wide
+oomlout_detail_hierarchy_3_upper: SOIC_14_WIDE
+oomlout_detail_hierarchy_3_upper_length_4: SOIC
+oomlout_detail_hierarchy_4: i2c
+oomlout_detail_hierarchy_4_upper: I2C
+oomlout_detail_hierarchy_4_upper_length_4: I2C
+oomlout_detail_hierarchy_5: helicopter
+oomlout_detail_hierarchy_5_upper: HELICOPTER
+oomlout_detail_hierarchy_5_upper_length_4: HELI
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_electronic_interposer_soic_14_wide_i2c_helicopter
+oomp_word: herb snake cactus
+oomp_word_emoji: ':herb: :snake: :cactus:'
+oomp_word_emoji_list:
+- ':herb:'
+- ':snake:'
+- ':cactus:'
+oomp_word_list:
+- herb
+- snake
+- cactus
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+pins:
+  pin_1:
+    name: pin_14
+    number: '1'
+    type: power
+  pin_10:
+    name: cs
+    number: '10'
+    type: signal
+  pin_11:
+    name: scl_3v3
+    number: '11'
+    type: signal
+  pin_12:
+    name: sda_3v3
+    number: '12'
+    type: signal
+  pin_13:
+    name: 3v3
+    number: '13'
+    type: signal
+  pin_14:
+    name: gnd
+    number: '14'
+    type: signal
+  pin_2:
+    name: pin_13
+    number: '2'
+    type: power
+  pin_3:
+    name: pin_12
+    number: '3'
+    type: signal
+  pin_4:
+    name: pin_11
+    number: '4'
+    type: signal
+  pin_5:
+    name: pin_10
+    number: '5'
+    type: signal
+  pin_6:
+    name: pin_9
+    number: '6'
+    type: signal
+  pin_7:
+    name: pin_8
+    number: '7'
+    type: signal
+  pin_8:
+    name: pin_7
+    number: '8'
+    type: signal
+  pin_9:
+    name: address
+    number: '9'
+    type: signal
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: insoic14wi2cheli
+short_code_upper: INSOIC14WI2CHELI
+short_name: ''
+size: soic_14_wide
+size_capital: Soic 14 Wide
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: so
+size_length_3: soi
+size_length_4: soic
+size_length_5: soic_
+size_length_6: soic_1
+size_name: Soic 14 Wide
+size_no_space_length_1: s
+size_no_space_length_2: so
+size_no_space_length_3: soi
+size_no_space_length_4: soic
+size_no_space_length_5: soic1
+size_no_space_length_6: soic14
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SO
+size_no_space_upper_length_3: SOI
+size_no_space_upper_length_4: SOIC
+size_no_space_upper_length_5: SOIC1
+size_no_space_upper_length_6: SOIC14
+size_only_numbers: '14'
+size_only_numbers_no_zeros: '14'
+size_upper: SOIC_14_WIDE
+size_upper_length_1: S
+size_upper_length_2: SO
+size_upper_length_3: SOI
+size_upper_length_4: SOIC
+size_upper_length_5: SOIC_
+size_upper_length_6: SOIC_1
+type: interposer
+type_capital: Interposer
+type_first_letter: i
+type_first_letter_upper: I
+type_length_1: i
+type_length_2: in
+type_length_3: int
+type_length_4: inte
+type_length_5: inter
+type_length_6: interp
+type_name: Interposer
+type_no_space_length_1: i
+type_no_space_length_2: in
+type_no_space_length_3: int
+type_no_space_length_4: inte
+type_no_space_length_5: inter
+type_no_space_length_6: interp
+type_no_space_upper_length_1: I
+type_no_space_upper_length_2: IN
+type_no_space_upper_length_3: INT
+type_no_space_upper_length_4: INTE
+type_no_space_upper_length_5: INTER
+type_no_space_upper_length_6: INTERP
+type_upper: INTERPOSER
+type_upper_length_1: I
+type_upper_length_2: IN
+type_upper_length_3: INT
+type_upper_length_4: INTE
+type_upper_length_5: INTER
+type_upper_length_6: INTERP

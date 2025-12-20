@@ -1,0 +1,297 @@
+bip_39_word_dash_12: oval-garlic-puzzle-buyer-wife-marriage-shove-real-lazy-tomato-seminar-adapt
+bip_39_word_dash_2: oval-garlic
+bip_39_word_dash_3: oval-garlic-puzzle
+bip_39_word_new_br_12: oval<br>garlic<br>puzzle<br>buyer<br>wife<br>marriage<br>shove<br>real<br>lazy<br>tomato<br>seminar<br>adapt
+bip_39_word_new_br_2: oval<br>garlic
+bip_39_word_new_br_3: oval<br>garlic<br>puzzle
+bip_39_word_new_line_12: 'oval
+
+  garlic
+
+  puzzle
+
+  buyer
+
+  wife
+
+  marriage
+
+  shove
+
+  real
+
+  lazy
+
+  tomato
+
+  seminar
+
+  adapt'
+bip_39_word_new_line_2: 'oval
+
+  garlic'
+bip_39_word_new_line_3: 'oval
+
+  garlic
+
+  puzzle'
+bip_39_word_no_space_12: ovalgarlicpuzzlebuyerwifemarriageshovereallazytomatoseminaradapt
+bip_39_word_no_space_2: ovalgarlic
+bip_39_word_no_space_3: ovalgarlicpuzzle
+bip_39_word_space_12: oval garlic puzzle buyer wife marriage shove real lazy tomato
+  seminar adapt
+bip_39_word_space_2: oval garlic
+bip_39_word_space_3: oval garlic puzzle
+bip_39_word_underscore_12: oval_garlic_puzzle_buyer_wife_marriage_shove_real_lazy_tomato_seminar_adapt
+bip_39_word_underscore_2: oval_garlic
+bip_39_word_underscore_3: oval_garlic_puzzle
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: dewalt_xr
+color_capital: Dewalt Xr
+color_first_letter: d
+color_first_letter_upper: D
+color_length_1: d
+color_length_2: de
+color_length_3: dew
+color_length_4: dewa
+color_length_5: dewal
+color_length_6: dewalt
+color_name: Dewalt Xr
+color_no_space_length_1: d
+color_no_space_length_2: de
+color_no_space_length_3: dew
+color_no_space_length_4: dewa
+color_no_space_length_5: dewal
+color_no_space_length_6: dewalt
+color_no_space_upper_length_1: D
+color_no_space_upper_length_2: DE
+color_no_space_upper_length_3: DEW
+color_no_space_upper_length_4: DEWA
+color_no_space_upper_length_5: DEWAL
+color_no_space_upper_length_6: DEWALT
+color_upper: DEWALT_XR
+color_upper_length_1: D
+color_upper_length_2: DE
+color_upper_length_3: DEW
+color_upper_length_4: DEWA
+color_upper_length_5: DEWAL
+color_upper_length_6: DEWALT
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_electronic_battery_box_dewalt_xr_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_battery_box_dewalt_xr_old
+id: category_electronic_battery_box_dewalt_xr_old
+id_no_class: electronic_battery_box_dewalt_xr_old
+id_no_color: old
+id_no_size: dewalt_xr_old
+id_no_type: battery_box_dewalt_xr_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201xkjd
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201xkjd
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201xkjd
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201xkjd
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_box_dewalt_xr_old](none)<br>[](none)<br>[Category
+  Electronic Battery Box Dewalt Xr Old](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_dewalt_xr_old](none)<br><br>'
+md5: 31873903f3b2f8e2217d71f75dd7f4ed
+md5_10: 31873903f3
+md5_10_upper: 31873903F3
+md5_5: '31873'
+md5_5_upper: '31873'
+md5_6: '318739'
+md5_6_alpha: 1xkjd
+md5_6_alpha_upper: 1XKJD
+md5_6_upper: '318739'
+name: Category Electronic Battery Box Dewalt Xr Old
+name_no_class: Electronic Battery Box Dewalt Xr Old
+name_no_color: Old
+name_no_size: Dewalt Xr Old
+name_no_size_short: Dewalt Xr Old
+name_no_type: Battery Box Dewalt Xr Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: battery_box
+oomlout_detail_hierarchy_3_upper: BATTERY_BOX
+oomlout_detail_hierarchy_3_upper_length_4: BATT
+oomlout_detail_hierarchy_4: dewalt_xr
+oomlout_detail_hierarchy_4_upper: DEWALT_XR
+oomlout_detail_hierarchy_4_upper_length_4: DEWA
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_electronic_battery_box_dewalt_xr_old
+oomp_word: ocean toilet tiger
+oomp_word_emoji: ':ocean: :toilet: :tiger:'
+oomp_word_emoji_list:
+- ':ocean:'
+- ':toilet:'
+- ':tiger:'
+oomp_word_list:
+- ocean
+- toilet
+- tiger
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery_box
+size_capital: Battery Box
+size_first_letter: b
+size_first_letter_upper: B
+size_length_1: b
+size_length_2: ba
+size_length_3: bat
+size_length_4: batt
+size_length_5: batte
+size_length_6: batter
+size_name: Battery Box
+size_no_space_length_1: b
+size_no_space_length_2: ba
+size_no_space_length_3: bat
+size_no_space_length_4: batt
+size_no_space_length_5: batte
+size_no_space_length_6: batter
+size_no_space_upper_length_1: B
+size_no_space_upper_length_2: BA
+size_no_space_upper_length_3: BAT
+size_no_space_upper_length_4: BATT
+size_no_space_upper_length_5: BATTE
+size_no_space_upper_length_6: BATTER
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY_BOX
+size_upper_length_1: B
+size_upper_length_2: BA
+size_upper_length_3: BAT
+size_upper_length_4: BATT
+size_upper_length_5: BATTE
+size_upper_length_6: BATTER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

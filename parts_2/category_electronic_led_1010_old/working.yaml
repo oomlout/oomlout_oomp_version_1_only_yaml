@@ -1,0 +1,297 @@
+bip_39_word_dash_12: invest-swarm-kid-emerge-blind-journey-tree-text-build-slice-donkey-always
+bip_39_word_dash_2: invest-swarm
+bip_39_word_dash_3: invest-swarm-kid
+bip_39_word_new_br_12: invest<br>swarm<br>kid<br>emerge<br>blind<br>journey<br>tree<br>text<br>build<br>slice<br>donkey<br>always
+bip_39_word_new_br_2: invest<br>swarm
+bip_39_word_new_br_3: invest<br>swarm<br>kid
+bip_39_word_new_line_12: 'invest
+
+  swarm
+
+  kid
+
+  emerge
+
+  blind
+
+  journey
+
+  tree
+
+  text
+
+  build
+
+  slice
+
+  donkey
+
+  always'
+bip_39_word_new_line_2: 'invest
+
+  swarm'
+bip_39_word_new_line_3: 'invest
+
+  swarm
+
+  kid'
+bip_39_word_no_space_12: investswarmkidemergeblindjourneytreetextbuildslicedonkeyalways
+bip_39_word_no_space_2: investswarm
+bip_39_word_no_space_3: investswarmkid
+bip_39_word_space_12: invest swarm kid emerge blind journey tree text build slice
+  donkey always
+bip_39_word_space_2: invest swarm
+bip_39_word_space_3: invest swarm kid
+bip_39_word_underscore_12: invest_swarm_kid_emerge_blind_journey_tree_text_build_slice_donkey_always
+bip_39_word_underscore_2: invest_swarm
+bip_39_word_underscore_3: invest_swarm_kid
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: '1010'
+color_capital: '1010'
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_length_1: '1'
+color_length_2: '10'
+color_length_3: '101'
+color_length_4: '1010'
+color_length_5: '1010'
+color_length_6: '1010'
+color_name: '1010'
+color_no_space_length_1: '1'
+color_no_space_length_2: '10'
+color_no_space_length_3: '101'
+color_no_space_length_4: '1010'
+color_no_space_length_5: '1010'
+color_no_space_length_6: '1010'
+color_no_space_upper_length_1: '1'
+color_no_space_upper_length_2: '10'
+color_no_space_upper_length_3: '101'
+color_no_space_upper_length_4: '1010'
+color_no_space_upper_length_5: '1010'
+color_no_space_upper_length_6: '1010'
+color_upper: '1010'
+color_upper_length_1: '1'
+color_upper_length_2: '10'
+color_upper_length_3: '101'
+color_upper_length_4: '1010'
+color_upper_length_5: '1010'
+color_upper_length_6: '1010'
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_electronic_led_1010_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_electronic_led_1010_old
+id: category_electronic_led_1010_old
+id_no_class: electronic_led_1010_old
+id_no_color: old
+id_no_size: 1010_old
+id_no_type: led_1010_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1010_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1010_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1010_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1010_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204p9wy
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204p9wy
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204p9wy
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204p9wy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_1010_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_led_1010_old](none)<br>[](none)<br>[Category
+  Electronic Led 1010 Old](none)<br><br>'
+markdown_short: '[category_electronic_led_1010_old](none)<br><br>'
+md5: 788272d8eedfbcfde18be48af4b6dbaf
+md5_10: 788272d8ee
+md5_10_upper: 788272D8EE
+md5_5: '78827'
+md5_5_upper: '78827'
+md5_6: '788272'
+md5_6_alpha: 4p9wy
+md5_6_alpha_upper: 4P9WY
+md5_6_upper: '788272'
+name: Category Electronic LED 1010 Old
+name_no_class: Electronic LED 1010 Old
+name_no_color: Old
+name_no_size: 1010 Old
+name_no_size_short: 1010 Old
+name_no_type: LED 1010 Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: electronic
+oomlout_detail_hierarchy_2_upper: ELECTRONIC
+oomlout_detail_hierarchy_2_upper_length_4: ELEC
+oomlout_detail_hierarchy_3: led
+oomlout_detail_hierarchy_3_upper: LED
+oomlout_detail_hierarchy_3_upper_length_4: LED
+oomlout_detail_hierarchy_4: '1010'
+oomlout_detail_hierarchy_4_upper: '1010'
+oomlout_detail_hierarchy_4_upper_length_4: '1010'
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_electronic_led_1010_old
+oomp_word: bell radio dolls
+oomp_word_emoji: ':bell: :radio: :dolls:'
+oomp_word_emoji_list:
+- ':bell:'
+- ':radio:'
+- ':dolls:'
+oomp_word_list:
+- bell
+- radio
+- dolls
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: led
+size_capital: Led
+size_first_letter: l
+size_first_letter_upper: L
+size_length_1: l
+size_length_2: le
+size_length_3: led
+size_length_4: led
+size_length_5: led
+size_length_6: led
+size_name: LED
+size_no_space_length_1: l
+size_no_space_length_2: le
+size_no_space_length_3: led
+size_no_space_length_4: led
+size_no_space_length_5: led
+size_no_space_length_6: led
+size_no_space_upper_length_1: L
+size_no_space_upper_length_2: LE
+size_no_space_upper_length_3: LED
+size_no_space_upper_length_4: LED
+size_no_space_upper_length_5: LED
+size_no_space_upper_length_6: LED
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LED
+size_upper_length_1: L
+size_upper_length_2: LE
+size_upper_length_3: LED
+size_upper_length_4: LED
+size_upper_length_5: LED
+size_upper_length_6: LED
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_length_1: e
+type_length_2: el
+type_length_3: ele
+type_length_4: elec
+type_length_5: elect
+type_length_6: electr
+type_name: Electronic
+type_no_space_length_1: e
+type_no_space_length_2: el
+type_no_space_length_3: ele
+type_no_space_length_4: elec
+type_no_space_length_5: elect
+type_no_space_length_6: electr
+type_no_space_upper_length_1: E
+type_no_space_upper_length_2: EL
+type_no_space_upper_length_3: ELE
+type_no_space_upper_length_4: ELEC
+type_no_space_upper_length_5: ELECT
+type_no_space_upper_length_6: ELECTR
+type_upper: ELECTRONIC
+type_upper_length_1: E
+type_upper_length_2: EL
+type_upper_length_3: ELE
+type_upper_length_4: ELEC
+type_upper_length_5: ELECT
+type_upper_length_6: ELECTR

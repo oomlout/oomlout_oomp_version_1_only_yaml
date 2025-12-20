@@ -1,0 +1,297 @@
+bip_39_word_dash_12: chest-code-tower-zebra-gate-rifle-avocado-fitness-member-uncover-visit-admit
+bip_39_word_dash_2: chest-code
+bip_39_word_dash_3: chest-code-tower
+bip_39_word_new_br_12: chest<br>code<br>tower<br>zebra<br>gate<br>rifle<br>avocado<br>fitness<br>member<br>uncover<br>visit<br>admit
+bip_39_word_new_br_2: chest<br>code
+bip_39_word_new_br_3: chest<br>code<br>tower
+bip_39_word_new_line_12: 'chest
+
+  code
+
+  tower
+
+  zebra
+
+  gate
+
+  rifle
+
+  avocado
+
+  fitness
+
+  member
+
+  uncover
+
+  visit
+
+  admit'
+bip_39_word_new_line_2: 'chest
+
+  code'
+bip_39_word_new_line_3: 'chest
+
+  code
+
+  tower'
+bip_39_word_no_space_12: chestcodetowerzebragaterifleavocadofitnessmemberuncovervisitadmit
+bip_39_word_no_space_2: chestcode
+bip_39_word_no_space_3: chestcodetower
+bip_39_word_space_12: chest code tower zebra gate rifle avocado fitness member uncover
+  visit admit
+bip_39_word_space_2: chest code
+bip_39_word_space_3: chest code tower
+bip_39_word_underscore_12: chest_code_tower_zebra_gate_rifle_avocado_fitness_member_uncover_visit_admit
+bip_39_word_underscore_2: chest_code
+bip_39_word_underscore_3: chest_code_tower
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_length_1: c
+classification_length_2: ca
+classification_length_3: cat
+classification_length_4: cate
+classification_length_5: categ
+classification_length_6: catego
+classification_name: Category
+classification_no_space_length_1: c
+classification_no_space_length_2: ca
+classification_no_space_length_3: cat
+classification_no_space_length_4: cate
+classification_no_space_length_5: categ
+classification_no_space_length_6: catego
+classification_no_space_upper_length_1: C
+classification_no_space_upper_length_2: CA
+classification_no_space_upper_length_3: CAT
+classification_no_space_upper_length_4: CATE
+classification_no_space_upper_length_5: CATEG
+classification_no_space_upper_length_6: CATEGO
+classification_upper: CATEGORY
+classification_upper_length_1: C
+classification_upper_length_2: CA
+classification_upper_length_3: CAT
+classification_upper_length_4: CATE
+classification_upper_length_5: CATEG
+classification_upper_length_6: CATEGO
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_length_1: m
+color_length_2: me
+color_length_3: med
+color_length_4: medi
+color_length_5: mediu
+color_length_6: medium
+color_name: Medium
+color_no_space_length_1: m
+color_no_space_length_2: me
+color_no_space_length_3: med
+color_no_space_length_4: medi
+color_no_space_length_5: mediu
+color_no_space_length_6: medium
+color_no_space_upper_length_1: M
+color_no_space_upper_length_2: ME
+color_no_space_upper_length_3: MED
+color_no_space_upper_length_4: MEDI
+color_no_space_upper_length_5: MEDIU
+color_no_space_upper_length_6: MEDIUM
+color_upper: MEDIUM
+color_upper_length_1: M
+color_upper_length_2: ME
+color_upper_length_3: MED
+color_upper_length_4: MEDI
+color_upper_length_5: MEDIU
+color_upper_length_6: MEDIUM
+description: category_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_length_1: o
+description_extra_length_2: ol
+description_extra_length_3: old
+description_extra_length_4: old
+description_extra_length_5: old
+description_extra_length_6: old
+description_extra_name: Old
+description_extra_no_space_length_1: o
+description_extra_no_space_length_2: ol
+description_extra_no_space_length_3: old
+description_extra_no_space_length_4: old
+description_extra_no_space_length_5: old
+description_extra_no_space_length_6: old
+description_extra_no_space_upper_length_1: O
+description_extra_no_space_upper_length_2: OL
+description_extra_no_space_upper_length_3: OLD
+description_extra_no_space_upper_length_4: OLD
+description_extra_no_space_upper_length_5: OLD
+description_extra_no_space_upper_length_6: OLD
+description_extra_upper: OLD
+description_extra_upper_length_1: O
+description_extra_upper_length_2: OL
+description_extra_upper_length_3: OLD
+description_extra_upper_length_4: OLD
+description_extra_upper_length_5: OLD
+description_extra_upper_length_6: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_name: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_toy_figurine_medium_old
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/category_toy_figurine_medium_old
+id: category_toy_figurine_medium_old
+id_no_class: toy_figurine_medium_old
+id_no_color: old
+id_no_size: medium_old
+id_no_type: figurine_medium_old
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_old
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_old
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_old
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202c5ob
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202c5ob
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202c5ob
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202c5ob
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_figurine_medium_old](none)<br>[](none)<br>[Category
+  Toy Figurine Medium Old](none)<br><br>'
+markdown_short: '[category_toy_figurine_medium_old](none)<br><br>'
+md5: 3be9bb2c5657e1fee6b02ff9cc4b413c
+md5_10: 3be9bb2c56
+md5_10_upper: 3BE9BB2C56
+md5_5: 3be9b
+md5_5_upper: 3BE9B
+md5_6: 3be9bb
+md5_6_alpha: 2c5ob
+md5_6_alpha_upper: 2C5OB
+md5_6_upper: 3BE9BB
+name: Category Toy Figurine Medium Old
+name_no_class: Toy Figurine Medium Old
+name_no_color: Old
+name_no_size: Medium Old
+name_no_size_short: Medium Old
+name_no_type: Figurine Medium Old
+oomlout_detail_hierarchy_1: category
+oomlout_detail_hierarchy_1_upper: CATEGORY
+oomlout_detail_hierarchy_1_upper_length_4: CATE
+oomlout_detail_hierarchy_2: toy
+oomlout_detail_hierarchy_2_upper: TOY
+oomlout_detail_hierarchy_2_upper_length_4: TOY
+oomlout_detail_hierarchy_3: figurine
+oomlout_detail_hierarchy_3_upper: FIGURINE
+oomlout_detail_hierarchy_3_upper_length_4: FIGU
+oomlout_detail_hierarchy_4: medium
+oomlout_detail_hierarchy_4_upper: MEDIUM
+oomlout_detail_hierarchy_4_upper_length_4: MEDI
+oomlout_detail_hierarchy_5: old
+oomlout_detail_hierarchy_5_upper: OLD
+oomlout_detail_hierarchy_5_upper_length_4: OLD
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_category_toy_figurine_medium_old
+oomp_word: bear bike curry
+oomp_word_emoji: ':bear: :bike: :curry:'
+oomp_word_emoji_list:
+- ':bear:'
+- ':bike:'
+- ':curry:'
+oomp_word_list:
+- bear
+- bike
+- curry
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: figurine
+size_capital: Figurine
+size_first_letter: f
+size_first_letter_upper: F
+size_length_1: f
+size_length_2: fi
+size_length_3: fig
+size_length_4: figu
+size_length_5: figur
+size_length_6: figuri
+size_name: Figurine
+size_no_space_length_1: f
+size_no_space_length_2: fi
+size_no_space_length_3: fig
+size_no_space_length_4: figu
+size_no_space_length_5: figur
+size_no_space_length_6: figuri
+size_no_space_upper_length_1: F
+size_no_space_upper_length_2: FI
+size_no_space_upper_length_3: FIG
+size_no_space_upper_length_4: FIGU
+size_no_space_upper_length_5: FIGUR
+size_no_space_upper_length_6: FIGURI
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FIGURINE
+size_upper_length_1: F
+size_upper_length_2: FI
+size_upper_length_3: FIG
+size_upper_length_4: FIGU
+size_upper_length_5: FIGUR
+size_upper_length_6: FIGURI
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_length_1: t
+type_length_2: to
+type_length_3: toy
+type_length_4: toy
+type_length_5: toy
+type_length_6: toy
+type_name: Toy
+type_no_space_length_1: t
+type_no_space_length_2: to
+type_no_space_length_3: toy
+type_no_space_length_4: toy
+type_no_space_length_5: toy
+type_no_space_length_6: toy
+type_no_space_upper_length_1: T
+type_no_space_upper_length_2: TO
+type_no_space_upper_length_3: TOY
+type_no_space_upper_length_4: TOY
+type_no_space_upper_length_5: TOY
+type_no_space_upper_length_6: TOY
+type_upper: TOY
+type_upper_length_1: T
+type_upper_length_2: TO
+type_upper_length_3: TOY
+type_upper_length_4: TOY
+type_upper_length_5: TOY
+type_upper_length_6: TOY
