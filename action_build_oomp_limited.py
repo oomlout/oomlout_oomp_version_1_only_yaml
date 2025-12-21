@@ -22,11 +22,15 @@ def main(**kwargs):
 
     #before running rename parts directory parts_2
     if True:
+        #print rtesting if full folder name exists using absolute name
+        parts_absolute = os.path.abspath("parts")
+        print(f"Checking existence of parts folder at: {parts_absolute}")
         if os.path.exists("parts"):
             #issue if it didn't finish last time through so just copy over
             #if os.path.exists("parts_2"):
                 #os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
             #move_item overwrite if already exists
+            #rename parts to parts_2
             os.system("powershell -Command \"Move-Item -Path 'parts' -Destination 'parts_2' -Force\"")
 
     #copy all files that have been changed or created in the last hour from C:\gh\oomlout_oomp_part_generation_version_1\parts to parts
@@ -76,8 +80,8 @@ def main(**kwargs):
     #move the parts from parts to parts_2 then remove parts using os.system
     if True:
         if os.path.exists("parts_2"):            
-            #move contents of parts_2 to parts
-            os.system("powershell -Command \"Move-Item -Path 'parts_2' -Destination 'parts' -Force\"")
+            #move contents of parts_2 to parts not the folder the fodlers in parts 2
+            os.system("powershell -Command \"Move-Item -Path 'parts_2\\*' -Destination 'parts' -Force\"")
             os.system("powershell -Command \"Remove-Item -Path 'parts_2' -Recurse -Force\"")
 
 
