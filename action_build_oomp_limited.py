@@ -101,7 +101,7 @@ def main(**kwargs):
             os.system("git add .")
             commit_message = "Automated commit of built parts"
             os.system(f'git commit -m "{commit_message}"')
-            #os.system("git push")
+            os.system("git push")
         else:
             print("Too many files changed, not committing.")
 
