@@ -1,0 +1,273 @@
+bip_39_word_dash_12: devote-arrive-release-fashion-morning-cream-few-upon-same-spare-require-autumn
+bip_39_word_dash_2: devote-arrive
+bip_39_word_dash_3: devote-arrive-release
+bip_39_word_new_br_12: devote<br>arrive<br>release<br>fashion<br>morning<br>cream<br>few<br>upon<br>same<br>spare<br>require<br>autumn
+bip_39_word_new_br_2: devote<br>arrive
+bip_39_word_new_br_3: devote<br>arrive<br>release
+bip_39_word_new_line_12: 'devote
+
+  arrive
+
+  release
+
+  fashion
+
+  morning
+
+  cream
+
+  few
+
+  upon
+
+  same
+
+  spare
+
+  require
+
+  autumn'
+bip_39_word_new_line_2: 'devote
+
+  arrive'
+bip_39_word_new_line_3: 'devote
+
+  arrive
+
+  release'
+bip_39_word_no_space_12: devotearrivereleasefashionmorningcreamfewuponsamesparerequireautumn
+bip_39_word_no_space_2: devotearrive
+bip_39_word_no_space_3: devotearriverelease
+bip_39_word_space_12: devote arrive release fashion morning cream few upon same spare
+  require autumn
+bip_39_word_space_2: devote arrive
+bip_39_word_space_3: devote arrive release
+bip_39_word_underscore_12: devote_arrive_release_fashion_morning_cream_few_upon_same_spare_require_autumn
+bip_39_word_underscore_2: devote_arrive
+bip_39_word_underscore_3: devote_arrive_release
+classification: storage
+classification_capital: Storage
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_length_1: s
+classification_length_2: st
+classification_length_3: sto
+classification_length_4: stor
+classification_length_5: stora
+classification_length_6: storag
+classification_name: Storage
+classification_no_space_length_1: s
+classification_no_space_length_2: st
+classification_no_space_length_3: sto
+classification_no_space_length_4: stor
+classification_no_space_length_5: stora
+classification_no_space_length_6: storag
+classification_no_space_upper_length_1: S
+classification_no_space_upper_length_2: ST
+classification_no_space_upper_length_3: STO
+classification_no_space_upper_length_4: STOR
+classification_no_space_upper_length_5: STORA
+classification_no_space_upper_length_6: STORAG
+classification_upper: STORAGE
+classification_upper_length_1: S
+classification_upper_length_2: ST
+classification_upper_length_3: STO
+classification_upper_length_4: STOR
+classification_upper_length_5: STORA
+classification_upper_length_6: STORAG
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth
+description_main_capital: 100 Ml Capacity 50 mm Width 50 mm Height 80 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_length_1: '1'
+description_main_length_2: '10'
+description_main_length_3: '100'
+description_main_length_4: '100_'
+description_main_length_5: 100_m
+description_main_length_6: 100_ml
+description_main_name: 100 Ml Capacity 50 mm Width 50 mm Height 80 mm Depth
+description_main_no_space_length_1: '1'
+description_main_no_space_length_2: '10'
+description_main_no_space_length_3: '100'
+description_main_no_space_length_4: 100m
+description_main_no_space_length_5: 100ml
+description_main_no_space_length_6: 100mlc
+description_main_no_space_upper_length_1: '1'
+description_main_no_space_upper_length_2: '10'
+description_main_no_space_upper_length_3: '100'
+description_main_no_space_upper_length_4: 100M
+description_main_no_space_upper_length_5: 100ML
+description_main_no_space_upper_length_6: 100MLC
+description_main_upper: 100_ML_CAPACITY_50_MM_WIDTH_50_MM_HEIGHT_80_MM_DEPTH
+description_main_upper_length_1: '1'
+description_main_upper_length_2: '10'
+description_main_upper_length_3: '100'
+description_main_upper_length_4: '100_'
+description_main_upper_length_5: 100_M
+description_main_upper_length_6: 100_ML
+description_only_numbers: '100505080'
+description_only_numbers_short: 1M
+description_or_color: 1M
+description_or_color_upper: 1M
+directory: parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+distributors: []
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+id: storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+id_no_class: jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+id_no_color: 100mlcapacity50mmwidth50mmheight80mmdepthoakandsteel
+id_no_size: 100mlcapacity50mmwidth50mmheight80mmdepthoakandsteel
+id_no_type: 100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209t6b8
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209t6b8
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209t6b8
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209t6b8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+manufacturer: oak_and_steel
+manufacturer_capital: Oak And Steel
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_length_1: o
+manufacturer_length_2: oa
+manufacturer_length_3: oak
+manufacturer_length_4: oak_
+manufacturer_length_5: oak_a
+manufacturer_length_6: oak_an
+manufacturer_name: Oak And Steel
+manufacturer_no_space_length_1: o
+manufacturer_no_space_length_2: oa
+manufacturer_no_space_length_3: oak
+manufacturer_no_space_length_4: oaka
+manufacturer_no_space_length_5: oakan
+manufacturer_no_space_length_6: oakand
+manufacturer_no_space_upper_length_1: O
+manufacturer_no_space_upper_length_2: OA
+manufacturer_no_space_upper_length_3: OAK
+manufacturer_no_space_upper_length_4: OAKA
+manufacturer_no_space_upper_length_5: OAKAN
+manufacturer_no_space_upper_length_6: OAKAND
+manufacturer_upper: OAK_AND_STEEL
+manufacturer_upper_length_1: O
+manufacturer_upper_length_2: OA
+manufacturer_upper_length_3: OAK
+manufacturer_upper_length_4: OAK_
+manufacturer_upper_length_5: OAK_A
+manufacturer_upper_length_6: OAK_AN
+manufacturers: []
+markdown_full: '[storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel](none)<br>[](none)<br>[Storage
+  Jar Clip Top 100 Ml Capacity 50 Mm Width 50 Mm Height 80 Mm Depth Oak And Steel](none)<br><br>'
+markdown_short: '[storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel](none)<br><br>'
+md5: fb6e341df7eeeab0cbc7f5356a4321e6
+md5_10: fb6e341df7
+md5_10_upper: FB6E341DF7
+md5_5: fb6e3
+md5_5_upper: FB6E3
+md5_6: fb6e34
+md5_6_alpha: 9t6b8
+md5_6_alpha_upper: 9T6B8
+md5_6_upper: FB6E34
+name: Storage Jar Clip Top 100 Ml Capacity 50 mm Width 50 mm Height 80 mm Depth Oak
+  And Steel
+name_no_class: Jar Clip Top 100 Ml Capacity 50 mm Width 50 mm Height 80 mm Depth Oak
+  And Steel
+name_no_color: 100Mlcapacity50mmwidth50mmheight80mmdepthoakandsteel
+name_no_size: 100Mlcapacity50mmwidth50mmheight80mmdepthoakandsteel
+name_no_size_short: 100Mlcapacity50Mmwidth50Mmheight80Mmdepthoakandsteel
+name_no_type: 100 Ml Capacity 50 mm Width 50 mm Height 80 mm Depth Oak And Steel
+oomlout_detail_hierarchy_1: storage
+oomlout_detail_hierarchy_1_upper: STORAGE
+oomlout_detail_hierarchy_1_upper_length_4: STOR
+oomlout_detail_hierarchy_2: jar_clip_top
+oomlout_detail_hierarchy_2_upper: JAR_CLIP_TOP
+oomlout_detail_hierarchy_2_upper_length_4: JAR_
+oomlout_detail_hierarchy_3: 50_mm_width
+oomlout_detail_hierarchy_3_upper: 50_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 50WI
+oomlout_detail_hierarchy_4: 50_mm_height
+oomlout_detail_hierarchy_4_upper: 50_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 50HE
+oomlout_detail_hierarchy_5: 80_mm_depth
+oomlout_detail_hierarchy_5_upper: 80_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 80DE
+oomlout_detail_hierarchy_6: oak_and_steel
+oomlout_detail_hierarchy_6_upper: OAK_AND_STEEL
+oomlout_detail_hierarchy_6_upper_length_4: OAK_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_storage_jar_clip_top_100_ml_capacity_50_mm_width_50_mm_height_80_mm_depth_oak_and_steel
+oomp_word: ok new_moon mouse
+oomp_word_emoji: ':ok: :new_moon: :mouse:'
+oomp_word_emoji_list:
+- ':ok:'
+- ':new_moon:'
+- ':mouse:'
+oomp_word_list:
+- ok
+- new_moon
+- mouse
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: jar_clip_top
+type_capital: Jar Clip Top
+type_first_letter: j
+type_first_letter_upper: J
+type_length_1: j
+type_length_2: ja
+type_length_3: jar
+type_length_4: jar_
+type_length_5: jar_c
+type_length_6: jar_cl
+type_name: Jar Clip Top
+type_no_space_length_1: j
+type_no_space_length_2: ja
+type_no_space_length_3: jar
+type_no_space_length_4: jarc
+type_no_space_length_5: jarcl
+type_no_space_length_6: jarcli
+type_no_space_upper_length_1: J
+type_no_space_upper_length_2: JA
+type_no_space_upper_length_3: JAR
+type_no_space_upper_length_4: JARC
+type_no_space_upper_length_5: JARCL
+type_no_space_upper_length_6: JARCLI
+type_upper: JAR_CLIP_TOP
+type_upper_length_1: J
+type_upper_length_2: JA
+type_upper_length_3: JAR
+type_upper_length_4: JAR_
+type_upper_length_5: JAR_C
+type_upper_length_6: JAR_CL
