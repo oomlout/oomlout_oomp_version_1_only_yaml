@@ -1,0 +1,86 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cumin_seed
+description_main_capital: Cumin Seed
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CUMIN_SEED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_cumin_seed
+distributors: []
+id: food_seasoning_spice_cumin_seed
+id_no_class: seasoning_spice_cumin_seed
+id_no_size: cumin_seed
+id_no_type: spice_cumin_seed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cumin_seed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cumin_seed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cumin_seed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_cumin_seed](none)<br>[](none)<br>[Food Seasoning
+    Spice Cumin Seed](none)<br><br>'
+markdown_short: '[food_seasoning_spice_cumin_seed](none)<br><br>'
+md5: b5a1ce8dc7264cd91e8afdcb4096e66d
+md5_10: b5a1ce8dc7
+md5_10_upper: B5A1CE8DC7
+md5_5: b5a1c
+md5_5_upper: B5A1C
+md5_6: b5a1ce
+md5_6_alpha: 734r2
+md5_6_alpha_upper: 734R2
+md5_6_upper: B5A1CE
+name: Food Seasoning Spice Cumin Seed
+name_no_class: Seasoning Spice Cumin Seed
+name_no_size: Cumin Seed
+name_no_size_short: Cumin Seed
+name_no_type: Spice Cumin Seed
+oomp_key: oomp_food_seasoning_spice_cumin_seed
+oomp_word: tea trophy peach
+oomp_word_emoji: ':tea: :trophy: :peach:'
+oomp_word_emoji_list:
+- ':tea:'
+- ':trophy:'
+- ':peach:'
+oomp_word_list:
+- tea
+- trophy
+- peach
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING
