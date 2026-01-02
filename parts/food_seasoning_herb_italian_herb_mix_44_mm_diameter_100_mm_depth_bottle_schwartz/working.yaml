@@ -1,0 +1,324 @@
+bip_39_word_dash_12: roast-pulp-snack-cloth-rival-soul-skin-empower-easily-ostrich-pledge-aunt
+bip_39_word_dash_2: roast-pulp
+bip_39_word_dash_3: roast-pulp-snack
+bip_39_word_new_br_12: roast<br>pulp<br>snack<br>cloth<br>rival<br>soul<br>skin<br>empower<br>easily<br>ostrich<br>pledge<br>aunt
+bip_39_word_new_br_2: roast<br>pulp
+bip_39_word_new_br_3: roast<br>pulp<br>snack
+bip_39_word_new_line_12: 'roast
+
+  pulp
+
+  snack
+
+  cloth
+
+  rival
+
+  soul
+
+  skin
+
+  empower
+
+  easily
+
+  ostrich
+
+  pledge
+
+  aunt'
+bip_39_word_new_line_2: 'roast
+
+  pulp'
+bip_39_word_new_line_3: 'roast
+
+  pulp
+
+  snack'
+bip_39_word_no_space_12: roastpulpsnackclothrivalsoulskinempowereasilyostrichpledgeaunt
+bip_39_word_no_space_2: roastpulp
+bip_39_word_no_space_3: roastpulpsnack
+bip_39_word_space_12: roast pulp snack cloth rival soul skin empower easily ostrich
+  pledge aunt
+bip_39_word_space_2: roast pulp
+bip_39_word_space_3: roast pulp snack
+bip_39_word_underscore_12: roast_pulp_snack_cloth_rival_soul_skin_empower_easily_ostrich_pledge_aunt
+bip_39_word_underscore_2: roast_pulp
+bip_39_word_underscore_3: roast_pulp_snack
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: italian herb mix
+description_extra: 44_mm_diameter_100_mm_depth_bottle
+description_extra_capital: 44 mm Diameter 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_length_1: '4'
+description_extra_length_2: '44'
+description_extra_length_3: '44_'
+description_extra_length_4: 44_m
+description_extra_length_5: 44_mm
+description_extra_length_6: 44_mm_
+description_extra_name: 44 mm Diameter 100 mm Depth Bottle
+description_extra_no_space_length_1: '4'
+description_extra_no_space_length_2: '44'
+description_extra_no_space_length_3: 44m
+description_extra_no_space_length_4: 44mm
+description_extra_no_space_length_5: 44mmd
+description_extra_no_space_length_6: 44mmdi
+description_extra_no_space_upper_length_1: '4'
+description_extra_no_space_upper_length_2: '44'
+description_extra_no_space_upper_length_3: 44M
+description_extra_no_space_upper_length_4: 44MM
+description_extra_no_space_upper_length_5: 44MMD
+description_extra_no_space_upper_length_6: 44MMDI
+description_extra_upper: 44_MM_DIAMETER_100_MM_DEPTH_BOTTLE
+description_extra_upper_length_1: '4'
+description_extra_upper_length_2: '44'
+description_extra_upper_length_3: '44_'
+description_extra_upper_length_4: 44_M
+description_extra_upper_length_5: 44_MM
+description_extra_upper_length_6: 44_MM_
+description_main: italian_herb_mix
+description_main_capital: Italian Herb Mix
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_length_1: i
+description_main_length_2: it
+description_main_length_3: ita
+description_main_length_4: ital
+description_main_length_5: itali
+description_main_length_6: italia
+description_main_name: Italian Herb Mix
+description_main_no_space_length_1: i
+description_main_no_space_length_2: it
+description_main_no_space_length_3: ita
+description_main_no_space_length_4: ital
+description_main_no_space_length_5: itali
+description_main_no_space_length_6: italia
+description_main_no_space_upper_length_1: I
+description_main_no_space_upper_length_2: IT
+description_main_no_space_upper_length_3: ITA
+description_main_no_space_upper_length_4: ITAL
+description_main_no_space_upper_length_5: ITALI
+description_main_no_space_upper_length_6: ITALIA
+description_main_upper: ITALIAN_HERB_MIX
+description_main_upper_length_1: I
+description_main_upper_length_2: IT
+description_main_upper_length_3: ITA
+description_main_upper_length_4: ITAL
+description_main_upper_length_5: ITALI
+description_main_upper_length_6: ITALIA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id: food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_class: seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_color: italianmix44mmdiameter100mmdepthbottleschwartz
+id_no_size: italian_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_type: herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%209kkdj
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%209kkdj
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%209kkdj
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%209kkdj
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+manufacturer: schwartz
+manufacturer_capital: Schwartz
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_length_1: s
+manufacturer_length_2: sc
+manufacturer_length_3: sch
+manufacturer_length_4: schw
+manufacturer_length_5: schwa
+manufacturer_length_6: schwar
+manufacturer_name: Schwartz
+manufacturer_no_space_length_1: s
+manufacturer_no_space_length_2: sc
+manufacturer_no_space_length_3: sch
+manufacturer_no_space_length_4: schw
+manufacturer_no_space_length_5: schwa
+manufacturer_no_space_length_6: schwar
+manufacturer_no_space_upper_length_1: S
+manufacturer_no_space_upper_length_2: SC
+manufacturer_no_space_upper_length_3: SCH
+manufacturer_no_space_upper_length_4: SCHW
+manufacturer_no_space_upper_length_5: SCHWA
+manufacturer_no_space_upper_length_6: SCHWAR
+manufacturer_upper: SCHWARTZ
+manufacturer_upper_length_1: S
+manufacturer_upper_length_2: SC
+manufacturer_upper_length_3: SCH
+manufacturer_upper_length_4: SCHW
+manufacturer_upper_length_5: SCHWA
+manufacturer_upper_length_6: SCHWAR
+manufacturers: []
+markdown_full: '[food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br>[](none)<br>[Food
+  Seasoning Herb Italian Herb Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz](none)<br><br>'
+markdown_short: '[food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br><br>'
+md5: f54d273a2c4919533edd52bd9a2b5dd8
+md5_10: f54d273a2c
+md5_10_upper: F54D273A2C
+md5_5: f54d2
+md5_5_upper: F54D2
+md5_6: f54d27
+md5_6_alpha: 9kkdj
+md5_6_alpha_upper: 9KKDJ
+md5_6_upper: F54D27
+name: Food Seasoning Herb Italian Herb Mix 44 mm Diameter 100 mm Depth Bottle Schwartz
+name_no_class: Seasoning Herb Italian Herb Mix 44 mm Diameter 100 mm Depth Bottle
+  Schwartz
+name_no_color: Italianmix44mmdiameter100mmdepthbottleschwartz
+name_no_size: Italian Mix 44 mm Diameter 100 mm Depth Bottle Schwartz
+name_no_size_short: Italian Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_type: Herb Italian Herb Mix 44 mm Diameter 100 mm Depth Bottle Schwartz
+name_short: Italian Herb Mix
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: herb
+oomlout_detail_hierarchy_3_upper: HERB
+oomlout_detail_hierarchy_3_upper_length_4: HERB
+oomlout_detail_hierarchy_4: italian_herb_mix
+oomlout_detail_hierarchy_4_upper: ITALIAN_HERB_MIX
+oomlout_detail_hierarchy_4_upper_length_4: ITAL
+oomlout_detail_hierarchy_5: 100_mm_depth
+oomlout_detail_hierarchy_5_upper: 100_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 100D
+oomlout_detail_hierarchy_6: schwartz
+oomlout_detail_hierarchy_6_upper: SCHWARTZ
+oomlout_detail_hierarchy_6_upper_length_4: SCHW
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+oomp_word: four bug nose
+oomp_word_emoji: ':four: :bug: :nose:'
+oomp_word_emoji_list:
+- ':four:'
+- ':bug:'
+- ':nose:'
+oomp_word_list:
+- four
+- bug
+- nose
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_length_1: h
+size_length_2: he
+size_length_3: her
+size_length_4: herb
+size_length_5: herb
+size_length_6: herb
+size_name: Herb
+size_no_space_length_1: h
+size_no_space_length_2: he
+size_no_space_length_3: her
+size_no_space_length_4: herb
+size_no_space_length_5: herb
+size_no_space_length_6: herb
+size_no_space_upper_length_1: H
+size_no_space_upper_length_2: HE
+size_no_space_upper_length_3: HER
+size_no_space_upper_length_4: HERB
+size_no_space_upper_length_5: HERB
+size_no_space_upper_length_6: HERB
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+size_upper_length_1: H
+size_upper_length_2: HE
+size_upper_length_3: HER
+size_upper_length_4: HERB
+size_upper_length_5: HERB
+size_upper_length_6: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
+type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON

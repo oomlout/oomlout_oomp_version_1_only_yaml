@@ -1,0 +1,269 @@
+bip_39_word_dash_12: refuse-coral-private-window-fat-you-raise-faith-exchange-suffer-weird-anxiety
+bip_39_word_dash_2: refuse-coral
+bip_39_word_dash_3: refuse-coral-private
+bip_39_word_new_br_12: refuse<br>coral<br>private<br>window<br>fat<br>you<br>raise<br>faith<br>exchange<br>suffer<br>weird<br>anxiety
+bip_39_word_new_br_2: refuse<br>coral
+bip_39_word_new_br_3: refuse<br>coral<br>private
+bip_39_word_new_line_12: 'refuse
+
+  coral
+
+  private
+
+  window
+
+  fat
+
+  you
+
+  raise
+
+  faith
+
+  exchange
+
+  suffer
+
+  weird
+
+  anxiety'
+bip_39_word_new_line_2: 'refuse
+
+  coral'
+bip_39_word_new_line_3: 'refuse
+
+  coral
+
+  private'
+bip_39_word_no_space_12: refusecoralprivatewindowfatyouraisefaithexchangesufferweirdanxiety
+bip_39_word_no_space_2: refusecoral
+bip_39_word_no_space_3: refusecoralprivate
+bip_39_word_space_12: refuse coral private window fat you raise faith exchange suffer
+  weird anxiety
+bip_39_word_space_2: refuse coral
+bip_39_word_space_3: refuse coral private
+bip_39_word_underscore_12: refuse_coral_private_window_fat_you_raise_faith_exchange_suffer_weird_anxiety
+bip_39_word_underscore_2: refuse_coral
+bip_39_word_underscore_3: refuse_coral_private
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: paprika hot
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: paprika_hot
+description_main_capital: Paprika Hot
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: pa
+description_main_length_3: pap
+description_main_length_4: papr
+description_main_length_5: papri
+description_main_length_6: paprik
+description_main_name: Paprika Hot
+description_main_no_space_length_1: p
+description_main_no_space_length_2: pa
+description_main_no_space_length_3: pap
+description_main_no_space_length_4: papr
+description_main_no_space_length_5: papri
+description_main_no_space_length_6: paprik
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PA
+description_main_no_space_upper_length_3: PAP
+description_main_no_space_upper_length_4: PAPR
+description_main_no_space_upper_length_5: PAPRI
+description_main_no_space_upper_length_6: PAPRIK
+description_main_upper: PAPRIKA_HOT
+description_main_upper_length_1: P
+description_main_upper_length_2: PA
+description_main_upper_length_3: PAP
+description_main_upper_length_4: PAPR
+description_main_upper_length_5: PAPRI
+description_main_upper_length_6: PAPRIK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_paprika_hot
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_spice_paprika_hot
+id: food_seasoning_spice_paprika_hot
+id_no_class: seasoning_spice_paprika_hot
+id_no_color: paprikahot
+id_no_size: paprika_hot
+id_no_type: spice_paprika_hot
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_paprika_hot
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_paprika_hot
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_paprika_hot
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_paprika_hot
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206bhbq
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206bhbq
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206bhbq
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206bhbq
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_paprika_hot
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_paprika_hot](none)<br>[](none)<br>[Food Seasoning
+  Spice Paprika Hot](none)<br><br>'
+markdown_short: '[food_seasoning_spice_paprika_hot](none)<br><br>'
+md5: a1f2762a75521627fca9bfb7564c0da3
+md5_10: a1f2762a75
+md5_10_upper: A1F2762A75
+md5_5: a1f27
+md5_5_upper: A1F27
+md5_6: a1f276
+md5_6_alpha: 6bhbq
+md5_6_alpha_upper: 6BHBQ
+md5_6_upper: A1F276
+name: Food Seasoning Spice Paprika Hot
+name_no_class: Seasoning Spice Paprika Hot
+name_no_color: Paprikahot
+name_no_size: Paprika Hot
+name_no_size_short: Paprika Hot
+name_no_type: Spice Paprika Hot
+name_short: Paprika Hot
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: spice
+oomlout_detail_hierarchy_3_upper: SPICE
+oomlout_detail_hierarchy_3_upper_length_4: SPIC
+oomlout_detail_hierarchy_4: paprika_hot
+oomlout_detail_hierarchy_4_upper: PAPRIKA_HOT
+oomlout_detail_hierarchy_4_upper_length_4: PAPR
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_seasoning_spice_paprika_hot
+oomp_word: trophy one santa
+oomp_word_emoji: ':trophy: :one: :santa:'
+oomp_word_emoji_list:
+- ':trophy:'
+- ':one:'
+- ':santa:'
+oomp_word_list:
+- trophy
+- one
+- santa
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sp
+size_length_3: spi
+size_length_4: spic
+size_length_5: spice
+size_length_6: spice
+size_name: Spice
+size_no_space_length_1: s
+size_no_space_length_2: sp
+size_no_space_length_3: spi
+size_no_space_length_4: spic
+size_no_space_length_5: spice
+size_no_space_length_6: spice
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SP
+size_no_space_upper_length_3: SPI
+size_no_space_upper_length_4: SPIC
+size_no_space_upper_length_5: SPICE
+size_no_space_upper_length_6: SPICE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+size_upper_length_1: S
+size_upper_length_2: SP
+size_upper_length_3: SPI
+size_upper_length_4: SPIC
+size_upper_length_5: SPICE
+size_upper_length_6: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
+type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON

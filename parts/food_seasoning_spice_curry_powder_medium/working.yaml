@@ -1,0 +1,269 @@
+bip_39_word_dash_12: accuse-autumn-witness-guilt-fold-destroy-shadow-position-guitar-bird-caught-add
+bip_39_word_dash_2: accuse-autumn
+bip_39_word_dash_3: accuse-autumn-witness
+bip_39_word_new_br_12: accuse<br>autumn<br>witness<br>guilt<br>fold<br>destroy<br>shadow<br>position<br>guitar<br>bird<br>caught<br>add
+bip_39_word_new_br_2: accuse<br>autumn
+bip_39_word_new_br_3: accuse<br>autumn<br>witness
+bip_39_word_new_line_12: 'accuse
+
+  autumn
+
+  witness
+
+  guilt
+
+  fold
+
+  destroy
+
+  shadow
+
+  position
+
+  guitar
+
+  bird
+
+  caught
+
+  add'
+bip_39_word_new_line_2: 'accuse
+
+  autumn'
+bip_39_word_new_line_3: 'accuse
+
+  autumn
+
+  witness'
+bip_39_word_no_space_12: accuseautumnwitnessguiltfolddestroyshadowpositionguitarbirdcaughtadd
+bip_39_word_no_space_2: accuseautumn
+bip_39_word_no_space_3: accuseautumnwitness
+bip_39_word_space_12: accuse autumn witness guilt fold destroy shadow position guitar
+  bird caught add
+bip_39_word_space_2: accuse autumn
+bip_39_word_space_3: accuse autumn witness
+bip_39_word_underscore_12: accuse_autumn_witness_guilt_fold_destroy_shadow_position_guitar_bird_caught_add
+bip_39_word_underscore_2: accuse_autumn
+bip_39_word_underscore_3: accuse_autumn_witness
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_length_1: f
+classification_length_2: fo
+classification_length_3: foo
+classification_length_4: food
+classification_length_5: food
+classification_length_6: food
+classification_name: Food
+classification_no_space_length_1: f
+classification_no_space_length_2: fo
+classification_no_space_length_3: foo
+classification_no_space_length_4: food
+classification_no_space_length_5: food
+classification_no_space_length_6: food
+classification_no_space_upper_length_1: F
+classification_no_space_upper_length_2: FO
+classification_no_space_upper_length_3: FOO
+classification_no_space_upper_length_4: FOOD
+classification_no_space_upper_length_5: FOOD
+classification_no_space_upper_length_6: FOOD
+classification_upper: FOOD
+classification_upper_length_1: F
+classification_upper_length_2: FO
+classification_upper_length_3: FOO
+classification_upper_length_4: FOOD
+classification_upper_length_5: FOOD
+classification_upper_length_6: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description: curry powder medium
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: curry_powder_medium
+description_main_capital: Curry Powder Medium
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_length_1: c
+description_main_length_2: cu
+description_main_length_3: cur
+description_main_length_4: curr
+description_main_length_5: curry
+description_main_length_6: curry_
+description_main_name: Curry Powder Medium
+description_main_no_space_length_1: c
+description_main_no_space_length_2: cu
+description_main_no_space_length_3: cur
+description_main_no_space_length_4: curr
+description_main_no_space_length_5: curry
+description_main_no_space_length_6: curryp
+description_main_no_space_upper_length_1: C
+description_main_no_space_upper_length_2: CU
+description_main_no_space_upper_length_3: CUR
+description_main_no_space_upper_length_4: CURR
+description_main_no_space_upper_length_5: CURRY
+description_main_no_space_upper_length_6: CURRYP
+description_main_upper: CURRY_POWDER_MEDIUM
+description_main_upper_length_1: C
+description_main_upper_length_2: CU
+description_main_upper_length_3: CUR
+description_main_upper_length_4: CURR
+description_main_upper_length_5: CURRY
+description_main_upper_length_6: CURRY_
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_curry_powder_medium
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/food_seasoning_spice_curry_powder_medium
+id: food_seasoning_spice_curry_powder_medium
+id_no_class: seasoning_spice_curry_powder_medium
+id_no_color: currypowdermedium
+id_no_size: curry_powder_medium
+id_no_type: spice_curry_powder_medium
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_medium
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_medium
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_medium
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_medium
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%201ymrp
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%201ymrp
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%201ymrp
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%201ymrp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_medium
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_curry_powder_medium](none)<br>[](none)<br>[Food
+  Seasoning Spice Curry Powder Medium](none)<br><br>'
+markdown_short: '[food_seasoning_spice_curry_powder_medium](none)<br><br>'
+md5: 3248c5a33ea87898f0ad467bf943e80d
+md5_10: 3248c5a33e
+md5_10_upper: 3248C5A33E
+md5_5: 3248c
+md5_5_upper: 3248C
+md5_6: 3248c5
+md5_6_alpha: 1ymrp
+md5_6_alpha_upper: 1YMRP
+md5_6_upper: 3248C5
+name: Food Seasoning Spice Curry Powder Medium
+name_no_class: Seasoning Spice Curry Powder Medium
+name_no_color: Currypowdermedium
+name_no_size: Curry Powder Medium
+name_no_size_short: Curry Powder Medium
+name_no_type: Spice Curry Powder Medium
+name_short: Curry Powder Medium
+oomlout_detail_hierarchy_1: food
+oomlout_detail_hierarchy_1_upper: FOOD
+oomlout_detail_hierarchy_1_upper_length_4: FOOD
+oomlout_detail_hierarchy_2: seasoning
+oomlout_detail_hierarchy_2_upper: SEASONING
+oomlout_detail_hierarchy_2_upper_length_4: SEAS
+oomlout_detail_hierarchy_3: spice
+oomlout_detail_hierarchy_3_upper: SPICE
+oomlout_detail_hierarchy_3_upper_length_4: SPIC
+oomlout_detail_hierarchy_4: curry_powder_medium
+oomlout_detail_hierarchy_4_upper: CURRY_POWDER_MEDIUM
+oomlout_detail_hierarchy_4_upper_length_4: CURR
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_food_seasoning_spice_curry_powder_medium
+oomp_word: cat hatched_chick candy
+oomp_word_emoji: ':cat: :hatched_chick: :candy:'
+oomp_word_emoji_list:
+- ':cat:'
+- ':hatched_chick:'
+- ':candy:'
+oomp_word_list:
+- cat
+- hatched_chick
+- candy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_length_1: s
+size_length_2: sp
+size_length_3: spi
+size_length_4: spic
+size_length_5: spice
+size_length_6: spice
+size_name: Spice
+size_no_space_length_1: s
+size_no_space_length_2: sp
+size_no_space_length_3: spi
+size_no_space_length_4: spic
+size_no_space_length_5: spice
+size_no_space_length_6: spice
+size_no_space_upper_length_1: S
+size_no_space_upper_length_2: SP
+size_no_space_upper_length_3: SPI
+size_no_space_upper_length_4: SPIC
+size_no_space_upper_length_5: SPICE
+size_no_space_upper_length_6: SPICE
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+size_upper_length_1: S
+size_upper_length_2: SP
+size_upper_length_3: SPI
+size_upper_length_4: SPIC
+size_upper_length_5: SPICE
+size_upper_length_6: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: se
+type_length_3: sea
+type_length_4: seas
+type_length_5: seaso
+type_length_6: season
+type_name: Seasoning
+type_no_space_length_1: s
+type_no_space_length_2: se
+type_no_space_length_3: sea
+type_no_space_length_4: seas
+type_no_space_length_5: seaso
+type_no_space_length_6: season
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SE
+type_no_space_upper_length_3: SEA
+type_no_space_upper_length_4: SEAS
+type_no_space_upper_length_5: SEASO
+type_no_space_upper_length_6: SEASON
+type_upper: SEASONING
+type_upper_length_1: S
+type_upper_length_2: SE
+type_upper_length_3: SEA
+type_upper_length_4: SEAS
+type_upper_length_5: SEASO
+type_upper_length_6: SEASON
